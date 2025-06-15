@@ -1,0 +1,139 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "造房子的人",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34822666.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36832885/",
+                        "year": "2024",
+                        "id": 36832885
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "取出疯石",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34235635.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35920865/",
+                        "year": "2022",
+                        "id": 35920865
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "新贵",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33999101.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35602667/",
+                        "year": "2021",
+                        "id": 35602667
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "了不起的郝大小",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33670056.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35088369/",
+                        "year": "2020",
+                        "id": 35088369
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "隐君者女",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s32330332.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33438214/",
+                        "year": "2019",
+                        "id": 33438214
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "相亲者女",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s32332206.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30489062/",
+                        "year": "2019",
+                        "id": 30489062
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "清思集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s32331062.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26896738/",
+                        "year": "2016",
+                        "id": 26896738
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "一个人的欧洲",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28336902.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26661406/",
+                        "year": "2015",
+                        "id": 26661406
+                    }
+                }
+            ],
+            "total": 8
+        }
+    },
+    "author_link": "https://book.douban.com/author/560913/",
+    "author_douban_id": "560913",
+    "personage_id": 30088959,
+    "name": [
+        "周婉京",
+        "Wanjing Zhou"
+    ],
+    "intro": "周婉京，1990年出生，北京人。先后就读于香港中文大学、美国布朗大学、北京大学，哲学博士。现任教于北京第二外国语学院日语学院。文学作品散见于《收获》《人民文学》《小说界》《山花》等文学刊物。曾获PAGEONE文学赏·首赏、山花文学双年奖·新人奖、香港青年文学奖等奖项。出版有短篇小说集《取出疯石》、长篇小说《造房子的人》等作品。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30088959/photo/2907864332",
+        "https://www.douban.com/personage/30088959/photo/2916439586",
+        "https://www.douban.com/personage/30088959/photo/2907864335",
+        "https://www.douban.com/personage/30088959/photo/2907864333"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2907864332.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2916439586.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907864335.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907864333.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/8f33177a3c49c27c4db742056159654c.jpg",
+    "更多中文名": "周刺(笔名)",
+    "更多外文名": "stefanie",
+    "sex": 0,
+    "birth_date": 1990,
+    "age": 36,
+    "birth_place": [
+        "中国",
+        "北京"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "title": "西乡隆盛",
+    "bookInfo": {
+        "作者": "[日]猪饲隆明",
+        "出版社": "社会科学文献出版社",
+        "出品方": "甲骨文",
+        "副标题": "通往西南战争的道路",
+        "译者": "吕灵芝",
+        "出版年": "2020-10",
+        "页数": "235",
+        "定价": "52.00元",
+        "装帧": "精装",
+        "丛书": "甲骨文丛书",
+        "ISBN": "9787520163057"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.0%",
+        "four_star_rate": "43.7%",
+        "three_star_rate": "34.1%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4612202/",
+            "name": "吕灵芝",
+            "role": "译者",
+            "douban_id": "4612202"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "37.42元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=jingdong&srcpage=subject&price=3742&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMdXw8HXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXFZfAU4eHDZNRwYlAF9rVlsLagN3WBl9BRgSNBhdVjY4XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4EUVddCEMTM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gdWwVsCFgHV0NAWGlmGVoUXwYLU1ltCkoWAW04K2tnK2EEMD4ecQN3SylQbg8QX25jMgcuVBV5ARlxXC1HW2FHHBUWej1eXRpsK1gl&cntvendor=3&srcsubj=34974513&type=bkbuy&subject=34974513"
+        },
+        {
+            "name": "当当网",
+            "price": "34.60元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=dangdang&srcpage=subject&price=3460&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34974513%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29138825&cntvendor=3&srcsubj=34974513&type=bkbuy&subject=34974513"
+        },
+        {
+            "name": "中图网",
+            "price": "24.40元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=bookschina&srcpage=subject&price=2440&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5926082.htm&cntvendor=3&srcsubj=34974513&type=bkbuy&subject=34974513"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34974513/",
+    "douban_id": "34974513",
+    "menu": [
+        "",
+        "        序章     巨星陨落——西乡隆盛之死及其传说",
+        "        第一章  幕末动乱的主角",
+        "        第二章“有司专制”的成立",
+        "        第三章  征韩论争",
+        "        第四章  西南战争",
+        "        终章      国家构想的交错——日本近代史上的西乡隆盛",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33728756.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]猪饲隆明",
+            "link": "https://book.douban.com/search/%E7%8C%AA%E9%A5%B2%E9%9A%86%E6%98%8E"
+        },
+        {
+            "text": "社会科学文献出版社",
+            "link": "https://book.douban.com/press/2622"
+        },
+        {
+            "text": "甲骨文",
+            "link": "https://book.douban.com/producers/263"
+        },
+        {
+            "text": "吕灵芝",
+            "link": "https://book.douban.com/author/4612202"
+        },
+        {
+            "text": "甲骨文丛书",
+            "link": "https://book.douban.com/series/23971"
+        }
+    ],
+    "tag": "人物传记"
+}

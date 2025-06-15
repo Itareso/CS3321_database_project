@@ -1,0 +1,116 @@
+{
+    "title": "书中自有山河",
+    "bookInfo": {
+        "作者": "谭徐锋",
+        "出版社": "浙江古籍出版社",
+        "出版年": "2021-4",
+        "页数": "272",
+        "定价": "55.00元",
+        "装帧": "精装",
+        "丛书": "日知文丛",
+        "ISBN": "9787554020296"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.9%",
+        "four_star_rate": "39.7%",
+        "three_star_rate": "6.9%",
+        "two_star_rate": "3.4%",
+        "one_star_rate": "24.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4613762/",
+            "name": "谭徐锋",
+            "role": "作者",
+            "douban_id": "4613762"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "28.79元",
+            "link": "https://read.douban.com/ebook/413689597/?dcs=subject-buylink&dcm=douban&dct=35450806"
+        },
+        {
+            "name": "得到",
+            "price": "28.79元",
+            "link": "https://www.dedao.cn/ebook/detail?id=DAOVMEb6LKoq7rM4DAYENOVl8XBgJ3Qzqgw1v5kjeam9ZxzbQGn2PpyRdYQ2L8mX&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "36.85元",
+            "link": "https://book.douban.com/link2/?lowest=1860&pre=0&vendor=jingdong&srcpage=subject&price=3685&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFIcXg8FUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOLjcJQzUSRDhYXAFLI3kLIB4hSxNxa21zdVlvIEdrLhUtehteShVhZwFCPRFCWCokcBhucDpUbFlHBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZCJxgmeDxqVA9WaV5KXAQHEAg_URxBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVV5VC0IfCmw4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXlIKXV4zVE1AQD9JUw57XQcFV1ZUCE8nAW4JGVklbTZ4PQoWdk5QVD9PQQVrIg92FCIeUC1_ARRmGSFoHG94Hy4vWAJeeQZ0QQx1bQUy&cntvendor=4&srcsubj=35450806&type=bkbuy&subject=35450806"
+        },
+        {
+            "name": "中图网",
+            "price": "18.60元",
+            "link": "https://book.douban.com/link2/?lowest=1860&pre=0&vendor=bookschina&srcpage=subject&price=1860&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8703053.htm&cntvendor=4&srcsubj=35450806&type=bkbuy&subject=35450806"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35450806/",
+    "douban_id": "35450806",
+    "menu": [
+        "",
+        "        自序",
+        "        学林剪影",
+        "        一枚清末全家福的前尘往事：垫江任氏家族史迹发微",
+        "        章士钊与鲁迅的一段公案",
+        "        亦儒亦侠亦风流——章士钊的社会交往",
+        "        傅斯年：以五四为坐标",
+        "        傅斯年生命的最后一刻",
+        "        钱穆的人生观",
+        "        钱穆静坐养生",
+        "        张荫麟情史",
+        "        作为朗读者的林徽因",
+        "        金陵大学教育的过人之处",
+        "        饶宗颐：孤独的君子",
+        "        一颗热烈而圣洁的心灵——敬悼刘志琴老师",
+        "        向死而生的通人之路——怀念乡先辈刘浦江老师",
+        "        想象近代中国的精神史",
+        "        书海拾贝",
+        "        焦灼的盛世与变革",
+        "        逼近明清之际的全球史",
+        "        雍正帝的发明",
+        "        泅渡十九世纪的历史之海",
+        "        重构民史的有益尝试",
+        "        小茶馆 大世界——对抗与递嬗中的成都记忆",
+        "        是梁任公传，更是时代之书",
+        "        弱国外交官的悲喜交集",
+        "        从宋案看民初政治",
+        "        另一种北洋叙事",
+        "        重回江南沦陷时",
+        "        战后东北接收：由困局到残局",
+        "        五四之子傅斯年",
+        "        从浙江潮到民国风——《蒋百里全集》出版前言",
+        "        捕捉史家与时代的多重记忆——《章开沅口述自传》书后",
+        "        读书人的气与场",
+        "        人生逆旅",
+        "        金庸，曾经如此真切地启发过我的童年",
+        "        兴趣不能当饭吃吗？",
+        "        桂子山上好读书",
+        "        消逝的匠人消逝的农村",
+        "        四十随想",
+        "        什么人适合做编辑",
+        "        从兴趣到志趣——青年编辑招聘之我见",
+        "        “新史学”品牌的过去与未来",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33900014.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "谭徐锋",
+            "link": "https://book.douban.com/search/%E8%B0%AD%E5%BE%90%E9%94%8B"
+        },
+        {
+            "text": "浙江古籍出版社",
+            "link": "https://book.douban.com/press/2646"
+        },
+        {
+            "text": "日知文丛",
+            "link": "https://book.douban.com/series/53673"
+        }
+    ],
+    "tag": "随笔"
+}

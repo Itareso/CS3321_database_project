@@ -1,0 +1,121 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "在阿尔巴尼亚长大",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34941450.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36831435/",
+                        "year": "2024",
+                        "id": 36831435
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "我桌旁的天使",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34844336.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36540443/",
+                        "year": "2024",
+                        "id": 36540443
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "呼吸秋千",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34392043.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36176988/",
+                        "year": "2023",
+                        "id": 36176988
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "唯物主义",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34393226.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36215053/",
+                        "year": "2023",
+                        "id": 36215053
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "幽默",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34199958.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35743708/",
+                        "year": "2022",
+                        "id": 35743708
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "文学的读法",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33995572.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35597629/",
+                        "year": "2021",
+                        "id": 35597629
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "中国叙事",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33836338.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35368315/",
+                        "year": "2021",
+                        "id": 35368315
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "里尔克集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s4394559.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/3664221/",
+                        "year": "2010",
+                        "id": 3664221
+                    }
+                }
+            ],
+            "total": 8
+        }
+    },
+    "author_link": "https://book.douban.com/author/4617277/",
+    "author_douban_id": "4617277",
+    "personage_id": 36130691,
+    "name": [
+        "吴文权",
+        "Wenquan Wu"
+    ],
+    "intro": "广东外语外贸大学教师，译著13部，分别是《呼吸秋千》（2009年诺贝尔文学奖得主赫塔·米勒作品，德译汉，第二译者，江苏人民出版社，2010年；江苏文艺出版社，2014年；贵州人民出版社，2023年）、《文学的读法》（海峡文艺出版社，2021年）、《幽默》（中央编译出版社，2022年）、《唯物主义》（上海文艺出版社，2023年）、《看得见风景的房间》（第一译者，江苏凤凰文艺出版社，2022年）、《中国叙事：批评与理论》（上海远东出版社，2021年）、《黛西·米勒》（第一译者，译言古登堡计划，2019）、《我桌旁的天使—弗雷姆自传三部曲》（贵州人民出版社，2024年）、《在阿尔巴尼亚长大》（上海三联书店，2024年）、《沉默》（待出）、《约翰·米林顿·辛格戏剧三种》（待出）、《我是自己的死敌》（待出）、《镇痛剂》（待出）。另参译《里尔克集》（德译汉，花城出版社，2010年）。正在翻译美国文学批评名著《美国小说中的爱情与死亡》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/19525e44c2dbfd214a9bfb196b5f8b2b.jpg",
+    "sex": 1,
+    "profession": [
+        "译者"
+    ]
+}

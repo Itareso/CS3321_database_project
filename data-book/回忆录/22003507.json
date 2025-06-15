@@ -1,0 +1,73 @@
+{
+    "title": "我不知道的那些事情",
+    "bookInfo": {
+        "作者": "[澳] 罗伯特·休斯",
+        "出版社": "南京大学出版社",
+        "副标题": "一部回忆录",
+        "原作名": "Things I Didn’t Know: A Memoir",
+        "译者": "欧阳昱",
+        "出版年": "2013-3",
+        "页数": "512",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "丛书": "精典文库",
+        "ISBN": "9787305105647"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "14.3%",
+        "four_star_rate": "51.4%",
+        "three_star_rate": "28.6%",
+        "two_star_rate": "5.7%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "25.20元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2520&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXQ8CXFxUDkgQAl8IGloXWQUKV15bDk0QCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0MGFMWXQAEUllUFxJSXzI4eBpsAH9BACE9XlEWczdOcjlsA0R9ElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXQcHUV1bOEkXAm4NG1MSXgcyVFhYCU4fB2YLGVwTWjYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRXF5eCRkRbTMOQQcdG1xEOl1VAEIXBmYOK1kUXAQAZG5tezdURRptThxwJWJrCQYodkJTdB9KRxgVMwR3Iw4hfg0XYQpTGlhOXGBiB25eOA&cntvendor=2&srcsubj=22003507&type=bkbuy&subject=22003507"
+        },
+        {
+            "name": "当当网",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=dangdang&srcpage=subject&price=2100&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s22003507%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23208732&cntvendor=2&srcsubj=22003507&type=bkbuy&subject=22003507"
+        }
+    ],
+    "url": "https://book.douban.com/subject/22003507/",
+    "douban_id": "22003507",
+    "menu": [
+        "",
+        "        第一章：我靠：是个“澳侨”",
+        "        第二章：父亲：我几乎不认识你",
+        "        第三章：悉尼童年",
+        "        第四章：置身于基督的学员之中",
+        "        第五章：大学前后",
+        "        第六章：意识到自己不行",
+        "        第七章：倾情恋爱之乐",
+        "        第八章：涉水佛罗伦萨",
+        "        第九章：去美国",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s25819872.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[澳] 罗伯特·休斯",
+            "link": "https://book.douban.com/search/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E4%BC%91%E6%96%AF"
+        },
+        {
+            "text": "南京大学出版社",
+            "link": "https://book.douban.com/press/2276"
+        },
+        {
+            "text": "欧阳昱",
+            "link": "https://book.douban.com/search/%E6%AC%A7%E9%98%B3%E6%98%B1"
+        },
+        {
+            "text": "精典文库",
+            "link": "https://book.douban.com/series/3838"
+        }
+    ],
+    "tag": "回忆录"
+}

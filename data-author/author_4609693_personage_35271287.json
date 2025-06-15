@@ -1,0 +1,150 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "赤兔博异馆",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34688043.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36547288/",
+                        "year": "2023",
+                        "id": 36547288
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "恋人与铁",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34185656.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35849093/",
+                        "year": "2022",
+                        "id": 35849093
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "琴殉（典藏版）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33864783.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35418851/",
+                        "year": "2020",
+                        "id": 35418851
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "恶魔师",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33768808.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35271492/",
+                        "year": "2020",
+                        "id": 35271492
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "巨鲸",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33791927.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35307714/",
+                        "year": "2020",
+                        "id": 35307714
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "鹅笼记",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33322810.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34466200/",
+                        "year": "2019",
+                        "id": 34466200
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "孤绝花",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29810021.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30264497/",
+                        "year": "2018",
+                        "id": 30264497
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "麻醉抄",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29892859.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/30272554/",
+                        "year": "2017",
+                        "id": 30272554
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "懒慢抄",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29481192.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26948102/",
+                        "year": "2016",
+                        "id": 26948102
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "女史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28298359.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26614226/",
+                        "year": "2015",
+                        "id": 26614226
+                    }
+                }
+            ],
+            "total": 21
+        }
+    },
+    "author_link": "https://book.douban.com/author/4609693/",
+    "author_douban_id": "4609693",
+    "personage_id": 35271287,
+    "name": [
+        "杨典"
+    ],
+    "intro": "杨典：作家、诗人、古琴家、画家。代表作有长篇小说《赤兔博异馆》，短篇小说集《鹅笼记》《懒慢抄》《恶魔师》》《恋人与铁》《鬼斧集》；随笔集《随身卷子》《孤绝花》《琴殉》《肉体的文学史》《巨鲸》《打坐：十七岁的獠牙》《狂禅：”无门关”镜诠》；诗集《女史》《麻醉抄》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/175b64a1a97d6108d72c7fd5332c56ed.jpg",
+    "sex": 1,
+    "birth_date": 1972,
+    "age": 54,
+    "birth_place": [
+        "重庆"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

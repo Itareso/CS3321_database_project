@@ -1,0 +1,147 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "领投人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34140648.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35789458/",
+                        "year": "2022",
+                        "id": 35789458
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "我们的时代 第一部",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33523116.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34890450/",
+                        "year": "2019",
+                        "id": 34890450
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "我们的时代 第二部",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33523118.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34892955/",
+                        "year": "2019",
+                        "id": 34892955
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "我们的时代 第三部",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33523122.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34892957/",
+                        "year": "2019",
+                        "id": 34892957
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "圈套",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34097316.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30369388/",
+                        "year": "2018",
+                        "id": 30369388
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "圈套2",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34108492.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30436649/",
+                        "year": "2018",
+                        "id": 30436649
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "书蠹牛津销夏记",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s28997421.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26858331/",
+                        "year": "2016",
+                        "id": 26858331
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "伪善的道德形而上学形态",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s28944271.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26848017/",
+                        "year": "2016",
+                        "id": 26848017
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "自律与他律",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28752715.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26802300/",
+                        "year": "2016",
+                        "id": 26802300
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "不愿离开牢房的人",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28111366.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26426430/",
+                        "year": "2015",
+                        "id": 26426430
+                    }
+                }
+            ],
+            "total": 264
+        }
+    },
+    "author_link": "https://book.douban.com/author/4522811/",
+    "author_douban_id": "4522811",
+    "personage_id": 30072764,
+    "name": [
+        "王强"
+    ],
+    "intro": "1968年生于北京，1993年在清华大学获得工科硕士学位后，曾在短短七年间从国内电脑公司的底层员工飙升为IT行业外企在华机构的最高层，堪称职场精英、商战高手，后曾在互联网领域创业并涉足风险投资、战略咨询等领域，有着令人称奇的商界丰富经历和对商业新趋势的敏锐洞察。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "sex": 1,
+    "birth_date": 1968,
+    "age": 58,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

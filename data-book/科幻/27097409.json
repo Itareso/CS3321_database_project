@@ -1,0 +1,81 @@
+{
+    "title": "雪崩",
+    "bookInfo": {
+        "作者": "[美] 尼尔·斯蒂芬森",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "Snow Crash",
+        "译者": "郭泽",
+        "出版年": "2018-5",
+        "页数": "588",
+        "定价": "72.00元",
+        "装帧": "精装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536487543"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.0%",
+        "four_star_rate": "42.0%",
+        "three_star_rate": "22.5%",
+        "two_star_rate": "4.3%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1827383/",
+            "name": "尼尔·斯蒂芬森",
+            "role": "作者",
+            "douban_id": "1827383"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "32.99元",
+            "link": "https://read.douban.com/ebook/325868626/?dcs=subject-buylink&dcm=douban&dct=27097409"
+        },
+        {
+            "name": "京东商城",
+            "price": "36.00元",
+            "link": "https://book.douban.com/link2/?lowest=3600&pre=0&vendor=jingdong&srcpage=subject&price=3600&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFkcVAAKXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOAxw0W0N3BSwJTRtRNHpZClcjWitRAzhUdVlRBX5AVg0CSEp0YDhKRDleARFCWCokcCtucG9JbSJPBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ_PT5eVD5HYwpaWwkSO1ADEwhDSTZRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcBVFpYDk4RAW84G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCgEBUgozVE1ASDoIUg97XQYAV1pVAE8nAW4JGVklbTZVFjcOACsRQG5eWx98IV1cXSAPaA0XVDNmGR9NJUQABwEdCSh0VC1XeRBJbQUy&cntvendor=4&srcsubj=27097409&type=bkbuy&subject=27097409"
+        },
+        {
+            "name": "当当网",
+            "price": "69.10元",
+            "link": "https://book.douban.com/link2/?lowest=3600&pre=1&vendor=dangdang&srcpage=subject&price=6909&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27097409%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25307207&cntvendor=4&srcsubj=27097409&type=bkbuy&subject=27097409"
+        },
+        {
+            "name": "中图网",
+            "price": "52.10元",
+            "link": "https://book.douban.com/link2/?lowest=3600&pre=0&vendor=bookschina&srcpage=subject&price=5210&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7859650.htm&cntvendor=4&srcsubj=27097409&type=bkbuy&subject=27097409"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27097409/",
+    "douban_id": "27097409",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29804168.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 尼尔·斯蒂芬森",
+            "link": "https://book.douban.com/author/1827383"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "郭泽",
+            "link": "https://book.douban.com/search/%E9%83%AD%E6%B3%BD"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

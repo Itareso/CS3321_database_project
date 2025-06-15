@@ -1,0 +1,162 @@
+{
+    "title": "启示录",
+    "bookInfo": {
+        "作者": "[美] Marty Cagan",
+        "出版社": "中国人民大学出版社",
+        "副标题": "如何创造用户喜爱的产品",
+        "原作名": "INSPIRED",
+        "译者": "朱月俊 / 高博",
+        "出版年": "2019-8",
+        "页数": "344",
+        "定价": "69",
+        "装帧": "精装",
+        "ISBN": "9787300269795"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "31.1%",
+        "four_star_rate": "35.6%",
+        "three_star_rate": "28.0%",
+        "two_star_rate": "5.3%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1825491/",
+            "name": "马蒂·卡根",
+            "role": "作者",
+            "douban_id": "1825491"
+        },
+        {
+            "link": "https://book.douban.com/author/4614825/",
+            "name": "高博",
+            "role": "译者",
+            "douban_id": "4614825"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "65.70元",
+            "link": "https://book.douban.com/link2/?lowest=6570&pre=0&vendor=jingdong&srcpage=subject&price=6570&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVwXWQ4KUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1xZAEMTHDZNRwYlIm1UUF49QCh0RxUWHwISIENxMR0-XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcGUlhfCEMUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwITFkUVQBsCFgKTRYSBW5mG1oTXgcLUF1tCkoWAW04K2sTWQZQXD49XgxuBQlfWjJqWnF0F18cYCp5AShbfl9FD3EEEzU2Dk9pVG4LK1gl&cntvendor=2&srcsubj=34615004&type=bkbuy&subject=34615004"
+        },
+        {
+            "name": "当当网",
+            "price": "71.70元",
+            "link": "https://book.douban.com/link2/?lowest=6570&pre=0&vendor=dangdang&srcpage=subject&price=7170&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34615004%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29517135&cntvendor=2&srcsubj=34615004&type=bkbuy&subject=34615004"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34615004/",
+    "douban_id": "34615004",
+    "menu": [
+        "",
+        "        第一部分  来自顶尖科技公司的教训",
+        "        1每一个优秀产品的背后",
+        "        2技术驱动型的产品和服务",
+        "        3初创型公司:达到产品市场契合点",
+        "        4成长型公司:规模化直至成功",
+        "        5成熟型公司:始终如一的产品创新",
+        "        6导致产品失败徒劳的根源",
+        "        7精益与敏捷开发的本质",
+        "        8关键概念",
+        "        第二部分  合适的人",
+        "        产品团队",
+        "        9优秀产品团队遵循的原则",
+        "        10产品经理",
+        "        11产品设计师",
+        "        12工程师",
+        "        13产品营销经理",
+        "        14辅助角色",
+        "        15谷歌的产品经理Jane Manning",
+        "        人员与规模",
+        "        16领导角色",
+        "        17产品主管角色",
+        "        18技术主管角色",
+        "        19交付经理角色",
+        "        20组建产品团队的原则",
+        "        21 Adobe的产品经理Lea Hickman",
+        "        第三部分  正确的产品",
+        "        产品路线图",
+        "        22产品路线图的问题",
+        "        23路线图的替代方案",
+        "        产品愿景",
+        "        24产品愿景与产品战略",
+        "        25产品愿景原则",
+        "        26产品战略原则",
+        "        27产品原则",
+        "        产品目标",
+        "        28OKR技术",
+        "        29产品团队目标",
+        "        产品和规模",
+        "        30产品目标与规模",
+        "        31产品布道",
+        "        32 BBC的产品经理Alex Pressland",
+        "        第四部分  正确的过程",
+        "        产品发现",
+        "        33产品发现的原则",
+        "        34发现技术概述",
+        "        发现框架技术",
+        "        35机会评估技术",
+        "        36客户函件技术",
+        "        37初始画布技术",
+        "        发现规划技术",
+        "        38故事地图技术",
+        "        39客户发现技术",
+        "        40微软的产品经理Martina Lauchengco",
+        "        理念探索技术",
+        "        41客户访谈",
+        "        42礼宾测试技术",
+        "        43客户不当行为的力量",
+        "        44黑客日",
+        "        原型探索技术",
+        "        45原型原则",
+        "        46可行性原型技术",
+        "        47用户原型技术",
+        "        48实时数据原型技术",
+        "        49混合原型技术",
+        "        发现测试技术",
+        "        50测试可用性",
+        "        51价值测试",
+        "        52需求测试技术",
+        "        53定性价值测试技术",
+        "        54定量价值测试技术",
+        "        55技术可行性测试",
+        "        56测试业务可行性",
+        "        57奈飞的产品经理Kate Arnold",
+        "        转型技术",
+        "        58发现sprint技术",
+        "        59试点团队技术",
+        "        60让组织摆脱路线图",
+        "        过程与规模",
+        "        61管理利益相关者",
+        "        62沟通产品知识",
+        "        63苹果的产品经理Camille Hearst",
+        "        第五部分正确的文化",
+        "        64优秀的产品团队/糟糕的产品团队",
+        "        65失去创新的首要原因",
+        "        66失去速度的首要原因",
+        "        67构建一种强大的产品文化",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33448158.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] Marty Cagan",
+            "link": "https://book.douban.com/author/1825491"
+        },
+        {
+            "text": "中国人民大学出版社",
+            "link": "https://book.douban.com/press/2618"
+        },
+        {
+            "text": "朱月俊",
+            "link": "https://book.douban.com/search/%E6%9C%B1%E6%9C%88%E4%BF%8A"
+        },
+        {
+            "text": "高博",
+            "link": "https://book.douban.com/author/4614825"
+        }
+    ],
+    "tag": "经典"
+}

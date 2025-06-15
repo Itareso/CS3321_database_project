@@ -1,0 +1,156 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "诗言志辨",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37187825/",
+                        "year": "2025",
+                        "id": 37187825
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "倫敦雜記",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34838570.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36858264/",
+                        "year": "2024",
+                        "id": 36858264
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "古詩十九首釋",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34840902.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36862718/",
+                        "year": "2024",
+                        "id": 36862718
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "经典常谈（详细注析版）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34738399.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36704942/",
+                        "year": "2024",
+                        "id": 36704942
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "经典常谈 (注释说解本)",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34665992.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36586290/",
+                        "year": "2023",
+                        "id": 36586290
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.5,
+                        "title": "你我的文学",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34648014.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/36536443/",
+                        "year": "2023",
+                        "id": 36536443
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "文学艺术袖珍馆·第1辑",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34577532.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36325371/",
+                        "year": "2023",
+                        "id": 36325371
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "经典常谈",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34642404.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36553752/",
+                        "year": "2023",
+                        "id": 36553752
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "朱自清散文",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34808263.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36286213/",
+                        "year": "2023",
+                        "id": 36286213
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "朱自清散文",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34808262.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36286212/",
+                        "year": "2023",
+                        "id": 36286212
+                    }
+                }
+            ],
+            "total": 386
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608569/",
+    "author_douban_id": "4608569",
+    "personage_id": 30132693,
+    "name": [
+        "朱自清",
+        "Ziqing Zhu"
+    ],
+    "intro": "\"中国现代散文家、诗人、学者、民主战士。\"",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/f7b55fdcf2d100834e12b2a78c67c7e6.jpg",
+    "更多中文名": "朱自华(原名) / 朱秋实(号) / 朱佩弦(字)",
+    "sex": 1,
+    "birth_date": 1898,
+    "death_date": 1948,
+    "age": 51,
+    "birth_place": [
+        "中国",
+        "江苏",
+        "东海"
+    ],
+    "family_member": "陈竹隐(妻)",
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

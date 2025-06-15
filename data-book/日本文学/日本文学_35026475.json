@@ -1,0 +1,88 @@
+{
+    "title": "山月记",
+    "bookInfo": {
+        "作者": "[日] 中岛敦",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "麦书房文化",
+        "译者": "李默默",
+        "出版年": "2020-5",
+        "页数": "296",
+        "定价": "39.00",
+        "装帧": "平装",
+        "ISBN": "9787559447395"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "36.0%",
+        "four_star_rate": "48.9%",
+        "three_star_rate": "13.9%",
+        "two_star_rate": "1.1%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/2354998/",
+            "name": "中岛敦",
+            "role": "作者",
+            "douban_id": "2354998"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "9.90元",
+            "link": "https://book.douban.com/link2/?lowest=990&pre=0&vendor=jingdong&srcpage=subject&price=990&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12732605.html&cntvendor=3&srcsubj=35026475&type=bkbuy&subject=35026475"
+        },
+        {
+            "name": "当当网",
+            "price": "39.00元",
+            "link": "https://book.douban.com/link2/?lowest=990&pre=0&vendor=dangdang&srcpage=subject&price=3900&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35026475%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28987791&cntvendor=3&srcsubj=35026475&type=bkbuy&subject=35026475"
+        },
+        {
+            "name": "中图网",
+            "price": "15.40元",
+            "link": "https://book.douban.com/link2/?lowest=990&pre=0&vendor=bookschina&srcpage=subject&price=1540&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8356614.htm&cntvendor=3&srcsubj=35026475&type=bkbuy&subject=35026475"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35026475/",
+    "douban_id": "35026475",
+    "menu": [
+        "",
+        "        -李陵",
+        "        -山月记",
+        "        -高人传",
+        "        -弟子",
+        "        -牛人",
+        "        -盈虚",
+        "        -悟净出世",
+        "        -悟净叹异",
+        "        -文字祸",
+        "        -附灵",
+        "        -木乃伊",
+        "        -光，风，梦",
+        "        附录：中岛敦年谱",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33696378.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 中岛敦",
+            "link": "https://book.douban.com/author/2354998"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "麦书房文化",
+            "link": "https://book.douban.com/producers/205"
+        },
+        {
+            "text": "李默默",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E9%BB%98%E9%BB%98"
+        }
+    ],
+    "tag": "日本文学"
+}

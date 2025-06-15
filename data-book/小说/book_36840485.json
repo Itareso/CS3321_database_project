@@ -1,0 +1,56 @@
+{
+    "title": "太岁(1)",
+    "bookInfo": {
+        "作者": "Priest",
+        "出版社": "湖南文艺出版社",
+        "出版年": "2024-7",
+        "定价": "55.00",
+        "装帧": "平装",
+        "ISBN": "9787572617102"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "60.5%",
+        "four_star_rate": "28.0%",
+        "three_star_rate": "8.7%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4524988/",
+            "name": "Priest",
+            "role": "作者",
+            "douban_id": "4524988"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "27.50元",
+            "link": "https://book.douban.com/link2/?lowest=2750&pre=0&vendor=jingdong&srcpage=subject&price=2750&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlscWg4AUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOBwQfexQSYQsObhJjB25wLwg0fzhxCzVDdVkWW1hYHS0NY01rfzxSbhlsPBFCWCokaClucBBXbwRHBWJhEhg9ehF3YW58XThwLWJlDgwUfBMXeg1BfxtiFVxgNl81TjwVUTxoaA5CKX9UByoUdxdjXAtYYD1pI1FaFjc6CCMfZSRoQyx2CEN2PSI5cShwXxh8b08XKDYDJB4uTztufwpXQwlMVXZpIyEYex5nD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFpaCkgfA2k4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRAAszVE1AXDRLXV97XQcDVFheDU4nAW4JGVklbTZRDhwuV051Z2l9Ui1PNXR5Ajcqey0fWSRmGVgTA1xLJw42DjdrUDV9WSJ0bQUy&cntvendor=3&srcsubj=36840485&type=bkbuy&subject=36840485"
+        },
+        {
+            "name": "当当网",
+            "price": "52.80元",
+            "link": "https://book.douban.com/link2/?lowest=2750&pre=0&vendor=dangdang&srcpage=subject&price=5280&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36840485%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29739602&cntvendor=3&srcsubj=36840485&type=bkbuy&subject=36840485"
+        },
+        {
+            "name": "中图网",
+            "price": "34.00元",
+            "link": "https://book.douban.com/link2/?lowest=2750&pre=0&vendor=bookschina&srcpage=subject&price=3400&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9379432.htm&cntvendor=3&srcsubj=36840485&type=bkbuy&subject=36840485"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36840485/",
+    "douban_id": "36840485",
+    "menu": [
+        "",
+        "        卷一 夜半歌",
+        "        卷二 龙咬尾",
+        "        卷三 琼芳瘴",
+        "        番外 路遥可有知己，世间谁人识君",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

@@ -1,0 +1,156 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.4,
+                        "title": "信任之瞳",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34590043.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/36419460/",
+                        "year": "2023",
+                        "id": 36419460
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "824人の四次元事件簿：「清明上河図」密碼第12冊",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34494155.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36349800/",
+                        "year": "2023",
+                        "id": 36349800
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "论语密码",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34059683.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35017700/",
+                        "year": "2022",
+                        "id": 35017700
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "824人の四次元事件簿：「清明上河図」密碼第3冊",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34494146.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36349791/",
+                        "year": "2022",
+                        "id": 36349791
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "824人の四次元事件簿：「清明上河図」密碼第5冊",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34494148.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36349793/",
+                        "year": "2022",
+                        "id": 36349793
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "824人の四次元事件簿：「清明上河図」密碼第8冊",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34494151.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36349796/",
+                        "year": "2022",
+                        "id": 36349796
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "824人の四次元事件簿：「清明上河図」密碼第10冊",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34494153.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36349798/",
+                        "year": "2022",
+                        "id": 36349798
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "824人の四次元事件簿：「清明上河図」密碼第1冊",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34494144.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36349789/",
+                        "year": "2022",
+                        "id": 36349789
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "824人の四次元事件簿：「清明上河図」密碼第2冊",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34494145.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36349790/",
+                        "year": "2022",
+                        "id": 36349790
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "824人の四次元事件簿：「清明上河図」密碼第4冊",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34494147.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36349792/",
+                        "year": "2022",
+                        "id": 36349792
+                    }
+                }
+            ],
+            "total": 22
+        }
+    },
+    "author_link": "https://book.douban.com/author/104865/",
+    "author_douban_id": "104865",
+    "personage_id": 30073182,
+    "name": [
+        "冶文彪",
+        "Wenbiao Ye"
+    ],
+    "intro": "作家，代表作：《清明上河图密码》《论语密码》",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30073182/photo/2901898036"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2901898036.webp"
+    ],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/aef3dc2d679161f0308bcb3e00932831.jpg",
+    "sex": 1,
+    "birth_date": 1971,
+    "age": 55,
+    "birth_place": [
+        "中国",
+        "青海"
+    ],
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "title": "石榴树上结樱桃",
+    "bookInfo": {
+        "作者": "李洱",
+        "出版社": "人民文学出版社",
+        "出版年": "2021-1",
+        "页数": "256",
+        "定价": "42元",
+        "装帧": "平装",
+        "ISBN": "9787020164905"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.7%",
+        "four_star_rate": "46.9%",
+        "three_star_rate": "26.6%",
+        "two_star_rate": "6.8%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4563567/",
+            "name": "李洱",
+            "role": "作者",
+            "douban_id": "4563567"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "26.00元",
+            "link": "https://read.douban.com/ebook/171429574/?dcs=subject-buylink&dcm=douban&dct=35153802"
+        },
+        {
+            "name": "得到",
+            "price": "26.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=kQX7yD4MVoN52PDAnlRdzK6qvg8XEwbvk9wZJjBb7rO4ypxGa9LeQm1kYng9YzK5&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "27.30元",
+            "link": "https://book.douban.com/link2/?lowest=2730&pre=0&vendor=jingdong&srcpage=subject&price=2730&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVoSVA4CU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOIzUrDkJ3Swl_eCRpAGEKAAQGYyITByx4dVlyLm9pJ1gYATwTBxhjeDBFLhFCWCokdC5jWm9XbyJ9BWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZ1Mg0mTD5-eAxURz5lIVByKBldaDBRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVlYCEkQBm04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CV1kzVE1ARidMSRN7XQcKUFdbCk4nAW4JGVklbTZ1PyhbAStfZRhrZCdIOg5WDgU2YU8TQB9mGTxmNG1xUhtUf08TdARrcAtmbQUy&cntvendor=5&srcsubj=35153802&type=bkbuy&subject=35153802"
+        },
+        {
+            "name": "当当网",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=2730&pre=0&vendor=dangdang&srcpage=subject&price=4200&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35153802%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29178111&cntvendor=5&srcsubj=35153802&type=bkbuy&subject=35153802"
+        },
+        {
+            "name": "中图网",
+            "price": "28.30元",
+            "link": "https://book.douban.com/link2/?lowest=2730&pre=0&vendor=bookschina&srcpage=subject&price=2830&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8480285.htm&cntvendor=5&srcsubj=35153802&type=bkbuy&subject=35153802"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35153802/",
+    "douban_id": "35153802",
+    "menu": [
+        "",
+        "        目录",
+        "        自序",
+        "        第一部分",
+        "        第二部分",
+        "        第三部分",
+        "        历史也是现在进行时（代后记）",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33790547.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李洱",
+            "link": "https://book.douban.com/author/4563567"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        }
+    ],
+    "tag": "中国文学"
+}

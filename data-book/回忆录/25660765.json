@@ -1,0 +1,77 @@
+{
+    "title": "胡适自述",
+    "bookInfo": {
+        "作者": "胡适",
+        "出版社": "北京大学出版社",
+        "出版年": "2013-8-25",
+        "页数": "244",
+        "定价": "32.00",
+        "装帧": "精装",
+        "丛书": "胡适作品系列",
+        "ISBN": "9787301221945"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.7%",
+        "four_star_rate": "51.7%",
+        "three_star_rate": "13.1%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4510542/",
+            "name": "胡适",
+            "role": "作者",
+            "douban_id": "4510542"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "12.58元",
+            "link": "https://www.dedao.cn/eBook/Z1GDBjp8o9nDz1NZyd5MXvBj6RKEVwNokO0Ap4aGOkJmYQrLbP7e2glqxl9qNPeX?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.50元",
+            "link": "https://book.douban.com/link2/?lowest=1950&pre=0&vendor=jingdong&srcpage=subject&price=1950&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVsWXQMLUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVF1dDUIRHDZNRwYlNVFiKh4Dcwx3dg1SGwd2PF8ELAU2eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4EUFpcD0gRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCgNsCFgHVxteASlmGVoUVAcDUFttCkoWAW04K2sdPUFBKjcYfw8SWjIORQ1RVQZdMwsnABZ5AQdsGDtwHgNEEAADACtvWgp7K1gl&cntvendor=2&srcsubj=25660765&type=bkbuy&subject=25660765"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25660765/",
+    "douban_id": "25660765",
+    "menu": [
+        "",
+        "        四十自述",
+        "        自 序",
+        "        “自由中国”版自记",
+        "        序幕 我的母亲的订婚",
+        "        一 九年的家乡教育",
+        "        二 从拜神到无神",
+        "        三 在上海（一）",
+        "        四 在上海（二）",
+        "        五 我怎样到外国去",
+        "        逼上梁山",
+        "        我的信仰",
+        "        我的歧路",
+        "        介绍我自己的思想",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s27232879.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "胡适",
+            "link": "https://book.douban.com/author/4510542"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        },
+        {
+            "text": "胡适作品系列",
+            "link": "https://book.douban.com/series/19796"
+        }
+    ],
+    "tag": "回忆录"
+}

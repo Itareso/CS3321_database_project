@@ -1,0 +1,146 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 2.4,
+                        "title": "印度伪史考",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33747260.jpg",
+                        "rating_star": 1.0,
+                        "url": "https://book.douban.com/subject/35135246/",
+                        "year": "2020",
+                        "id": 35135246
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "何新经济学讲义",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33896302.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35107672/",
+                        "year": "2020",
+                        "id": 35107672
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "易经入门：何新讲周易/何新选集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34033286.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35186271/",
+                        "year": "2020",
+                        "id": 35186271
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "诸神的世界",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s32330845.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33452729/",
+                        "year": "2019",
+                        "id": 33452729
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.7,
+                        "title": "中国文明的密码",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33520060.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/30607929/",
+                        "year": "2019",
+                        "id": 30607929
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "孔子的智慧",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33305426.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34441786/",
+                        "year": "2019",
+                        "id": 34441786
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "诸子的真相",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33520064.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30626300/",
+                        "year": "2018",
+                        "id": 30626300
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "意大利文艺复兴时期的文化",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29880412.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27028293/",
+                        "year": "2018",
+                        "id": 27028293
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.6,
+                        "title": "外汇超短线交易",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29833348.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/30288220/",
+                        "year": "2017",
+                        "id": 30288220
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "道法自然天法道",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28816422.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26818179/",
+                        "year": "2016",
+                        "id": 26818179
+                    }
+                }
+            ],
+            "total": 80
+        }
+    },
+    "author_link": "https://book.douban.com/author/4630729/",
+    "author_douban_id": "4630729",
+    "personage_id": 36818322,
+    "name": [
+        "何新",
+        "Xin He"
+    ],
+    "intro": "何新，男，汉族，1949年出生。代表作品有《培根论人生：培根随笔选》《诸神的起源》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/6974372057b7971bc934645bacc08f1e.jpg",
+    "sex": 1,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

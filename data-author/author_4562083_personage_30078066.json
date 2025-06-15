@@ -1,0 +1,152 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "一个干净明亮的地方",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37183397/",
+                        "year": "2025",
+                        "id": 37183397
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "了不起的盖茨比",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34671849.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36547305/",
+                        "year": "2023",
+                        "id": 36547305
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "你当拥有美丽宇宙",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34527584.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36317113/",
+                        "year": "2023",
+                        "id": 36317113
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "夏日",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34707024.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36557106/",
+                        "year": "2023",
+                        "id": 36557106
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "格兰塔 : 美国最佳青年小说家",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34642492.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36556627/",
+                        "year": "2023",
+                        "id": 36556627
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "浪的景观",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34269145.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36009281/",
+                        "year": "2022",
+                        "id": 36009281
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "写在身体上",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33585845.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34464665/",
+                        "year": "2020",
+                        "id": 34464665
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.5,
+                        "title": "真相四部曲",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33685015.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/34997261/",
+                        "year": "2020",
+                        "id": 34997261
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "在街上",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33644372.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35067557/",
+                        "year": "2020",
+                        "id": 35067557
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "夜色温柔",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33471405.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34813379/",
+                        "year": "2019",
+                        "id": 34813379
+                    }
+                }
+            ],
+            "total": 37
+        }
+    },
+    "author_link": "https://book.douban.com/author/4562083/",
+    "author_douban_id": "4562083",
+    "personage_id": 30078066,
+    "name": [
+        "周嘉宁",
+        "Jianing Zhou"
+    ],
+    "intro": "周嘉宁，复旦大学中文系硕士，作家，英语文学翻译。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/da645495551c7afed91464923218b445.jpg",
+    "sex": 0,
+    "birth_date": 1982,
+    "age": 44,
+    "birth_place": [
+        "中国",
+        "上海"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

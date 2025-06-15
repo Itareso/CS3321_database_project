@@ -1,0 +1,155 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "去您的巴西",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34993015.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36930600/",
+                        "year": "2024",
+                        "id": 36930600
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "一个拣鲨鱼牙齿的男人",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34632571.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36513068/",
+                        "year": "2023",
+                        "id": 36513068
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "白猫脱脱迷失",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29809420.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26786705/",
+                        "year": "2016",
+                        "id": 26786705
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "胡吃乱想",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s6807002.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/6558047/",
+                        "year": "2011",
+                        "id": 6558047
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "旅行/诗",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s4620260.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/5958828/",
+                        "year": "2010",
+                        "id": 5958828
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "终身卧底",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s4487945.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/5263514/",
+                        "year": "2010",
+                        "id": 5263514
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "汉花园青年诗丛(全六册)",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s3657988.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/2340991/",
+                        "year": "2007",
+                        "id": 2340991
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "日历之力",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34846271.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26301957/",
+                        "year": "2007",
+                        "id": 26301957
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "浮生胡言",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s8876399.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1797988/",
+                        "year": "2006",
+                        "id": 1797988
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "声色新青年",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s2245230.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/1024102/",
+                        "year": "2001",
+                        "id": 1024102
+                    }
+                }
+            ],
+            "total": 11
+        }
+    },
+    "author_link": "https://book.douban.com/author/3075246/",
+    "author_douban_id": "3075246",
+    "personage_id": 30097803,
+    "name": [
+        "胡续冬",
+        "Xudong Hu"
+    ],
+    "intro": "胡续冬，原名胡旭东，北京大学外国语学院世界文学研究所副教授、北京大学巴西文化中心副主任。2002年至今执教于北京大学世界文学研究所。研究领域和方向：比较文学与世界文学，现代主义以来的世界诗歌，拉丁美洲文学。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/278c6f5fba7ebbd9149823b9b90f5f5a.jpg",
+    "更多中文名": "胡旭东(原名)",
+    "sex": 1,
+    "birth_date": 1974,
+    "death_date": 2021,
+    "age": 48,
+    "birth_place": [
+        "中国",
+        "重庆",
+        "合川"
+    ],
+    "profession": [
+        "作者",
+        "演员"
+    ]
+}

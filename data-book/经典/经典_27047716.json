@@ -1,0 +1,60 @@
+{
+    "title": "Effective Java",
+    "bookInfo": {
+        "作者": "Joshua Bloch",
+        "出版社": "Addison-Wesley Professional",
+        "副标题": "3rd Edition",
+        "出版年": "2018-1-6",
+        "页数": "412",
+        "定价": "USD 54.99",
+        "装帧": "Paperback",
+        "ISBN": "9780134685991"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    The Definitive Guide to Java Platform Best Practices—Updated for Java 9        Java has changed dramatically since the previous edition of Effective Java was published shortly after the release of Java 6. This Jolt award-winning classic has now been thoroughly updated to take full advantage of the latest language and library features. The support in modern Java for multiple paradigms increases the need for specific best-practices advice, and this book delivers.        As in previous editions, each chapter of Effective Java, Third Edition, consists of several “items,” each presented in the form of a short, stand-alone essay that provides specific advice, insight into Java platform subtleties, and updated code examples. The comprehensive descriptions and explanations for each item illuminate what to do, what not to do, and why.        The third edition covers language and library features added in Java 7, 8, and 9, including the functional programming constructs that were added to its object-oriented roots. Many new items have been added, including a chapter devoted to lambdas and streams.        New coverage includes    Functional interfaces, lambda expressions, method references, and streams    Default and static methods in interfaces    Type inference, including the diamond operator for generic types    The @SafeVarargs annotation    The try-with-resources statement    New library features such as the Optional<T> interface, java.time, and the convenience factory methods for collections\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "83.7%",
+        "four_star_rate": "13.9%",
+        "three_star_rate": "1.9%",
+        "two_star_rate": "0.5%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/196022/",
+            "name": "约书亚·布洛克",
+            "role": "作者",
+            "douban_id": "196022"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/27047716/",
+    "douban_id": "27047716",
+    "menu": [
+        "",
+        "        Preface",
+        "        About the Author",
+        "        Chapter 1: Introduction",
+        "        Chapter 2: Creating and Destroying Objects",
+        "        Chapter 3: Methods Common to All Objects",
+        "        Chapter 4: Classes and Interfaces",
+        "        Chapter 5: Generics",
+        "        Chapter 6: Enums and Annotations",
+        "        Chapter 7: Lambdas and Streams",
+        "        Chapter 8: Methods",
+        "        Chapter 9: General Programming",
+        "        Chapter 10: Exceptions",
+        "        Chapter 11: Concurrency",
+        "        Chapter 12: Serialization",
+        "        Index",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s29582181.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "Joshua Bloch",
+            "link": "https://book.douban.com/search/Joshua%20Bloch"
+        }
+    ],
+    "tag": "经典"
+}

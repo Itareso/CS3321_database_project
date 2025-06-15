@@ -1,0 +1,86 @@
+{
+    "title": "《星际迷航》里的物理学",
+    "bookInfo": {
+        "作者": "[美]劳伦斯•M.克劳斯 / 劳伦斯·M.克劳斯",
+        "出版社": "海南出版社",
+        "原作名": "The Physics of Star Trek",
+        "出版年": "2016-12",
+        "页数": "200",
+        "定价": "36.00",
+        "装帧": "平装",
+        "丛书": "科普名家经典",
+        "ISBN": "9787544369572"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ¤史蒂芬•霍金作序，2011年美国最佳科普图书作者劳伦斯•M.克劳斯著    《星际迷航》这类科幻作品在娱乐大众的同时，也被赋予了另一个严肃的使命——开拓人类的想象力……其实科幻作品和科学发展之间是相互影响、相互作用的。科学家有时会借鉴科幻作品中的一些设定，并把它们运用到真实的科学理论当中；有时则会发现一些比科幻作品还要奇幻的科学理论。    ——史蒂芬•霍金    ¤科幻迷观影必备指南，探寻《星际迷航》的可能性和未来物理学的极限    本书以《星际迷航》中的科幻内容作为引子和起点，从严谨的物理学的角度，探寻曲速飞行、时空旅行、纯能量体、隐形技术等一系列科学幻想的可能性与不可能性。    读者可以从多个角度看这本书：    ①欣赏《星际迷航》中所发生的事情；    ②学习一些物理学知识；    ③思考《星际迷航》中可以成为现实的地方；    ④为了《星际迷航》技术的实现，必须解决什么问题    正如《星际迷航》中，戴达说过的那样：“一切有可能发生的事情，最终都发生了。”在探索《星际迷航》里的物理学时，需要我们思考的并不是可操作性与不可操作性，而是这些科幻设想在未来的可能性与不可能性。    本书以《星际迷航》中的科幻内容作为引子和起点，从严谨的物理学的角度，探寻曲速飞行、时空旅行、纯能量体、隐形技术等一系列科学幻想的可能性与不可能性。涉及的理论从牛顿力学到相对论，从量子力学到弦论，从多维空间到黑洞，描绘出一幅现代物理学和宇宙学的宏伟图景。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "48.6%",
+        "four_star_rate": "40.3%",
+        "three_star_rate": "8.3%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4634493/",
+            "name": "劳伦斯·M.克劳斯",
+            "role": "作者",
+            "douban_id": "4634493"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "23.40元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=jingdong&srcpage=subject&price=2340&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQIJK1olXQMGXFhaDUoVCl8IG1IVWwYHVl9ZAHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSl5dAUsRA2oKGl8dQl9HCANtYUxcURd-HzlwWE5VV0RfcBBMeRFRXVcZbQEHU1haAUgQM28MGl8RbTYCVW4cZksSC20NGmsXXQcDUV5VD0gWM28OHloWXQAKXV9UAUknA2cMK4KV6tCgxofDgp6flF84K1glbTYCZF1tViUWUGkLG18SXGheUghcTAhWXgEIG10cVA4AXG5fCUoVAV84K1xJLlRyUS4JDTUeRhNyY1t9IGR1Nlw0dyUVSj1TRyBHJ1UHLiRZbhBTUys4GGs&cntvendor=1&srcsubj=26944388&type=bkbuy&subject=26944388"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26944388/",
+    "douban_id": "26944388",
+    "menu": [
+        "",
+        "        目录",
+        "        序言 ………… 001",
+        "        自序 ………… 004",
+        "        修订版自序 ………… 006",
+        "        第一部分  一场宇宙级别的纸牌游戏",
+        "        我首先会介绍惯性阻尼器和牵引光束，进而引出时空旅行、翘曲速度、护盾、虫洞，以及各种和时空有关的奇异概念。",
+        "        第一章 牛顿开启牌局 ………… 011",
+        "        第二章 爱因斯坦加注 ………… 020",
+        "        第三章 霍金亮出底牌 ………… 038",
+        "        第四章 戴达结束牌局 ………… 061",
+        "        第二部分 无处不在的物质",
+        "        在这部分中，大家会遇到传送光束、曲速引擎、二锂晶体、物质- 反物质引擎和全息甲板。",
+        "        第五章 传送原子，还是比特？ ………… 073",
+        "        第六章 正反物质与曲速引擎 ………… 099",
+        "        第七章 全息甲板和全息图 ………… 112",
+        "        第三部分 谁在作祟？是无形的宇宙，还是夜间的幽灵？",
+        "        我们会讲到一些未来可能会有的、但以目前的科技水平还见不到的一些东西，包括地外生命、多维时空，和一个融合了各种物理可能性和物理不可能性的奇异世界。",
+        "        第八章 寻找斯波克 ………… 123",
+        "        第九章 各种可能性 ………… 145",
+        "        第十章 各种不可能性：无法触及的国度 ………… 174",
+        "        后记 ………… 189",
+        "        致谢 ………… 191",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29247650.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]劳伦斯•M.克劳斯",
+            "link": "https://book.douban.com/search/%E5%8A%B3%E4%BC%A6%E6%96%AF%E2%80%A2M.%E5%85%8B%E5%8A%B3%E6%96%AF"
+        },
+        {
+            "text": "劳伦斯·M.克劳斯",
+            "link": "https://book.douban.com/author/4634493"
+        },
+        {
+            "text": "海南出版社",
+            "link": "https://book.douban.com/press/2554"
+        },
+        {
+            "text": "科普名家经典",
+            "link": "https://book.douban.com/series/30662"
+        }
+    ],
+    "tag": "科幻"
+}

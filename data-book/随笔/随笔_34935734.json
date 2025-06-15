@@ -1,0 +1,80 @@
+{
+    "title": "江南繁荒录",
+    "bookInfo": {
+        "作者": "徐风",
+        "出版社": "译林出版社",
+        "出版年": "2020-3",
+        "页数": "457",
+        "定价": "68.00元",
+        "装帧": "精装",
+        "ISBN": "9787544777728"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.5%",
+        "four_star_rate": "25.9%",
+        "three_star_rate": "45.9%",
+        "two_star_rate": "5.9%",
+        "one_star_rate": "5.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/118036/",
+            "name": "徐风",
+            "role": "作者",
+            "douban_id": "118036"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "40.99元",
+            "link": "https://read.douban.com/ebook/137779051/?dcs=subject-buylink&dcm=douban&dct=34935734"
+        },
+        {
+            "name": "得到",
+            "price": "40.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23nGbEwo6zvGDekj1QgA84VbpqJOPLgxEJlY&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "47.03元",
+            "link": "https://book.douban.com/link2/?lowest=4703&pre=0&vendor=jingdong&srcpage=subject&price=4703&pos=3&url=https%3A%2F%2Fitem.jd.com%2F66812193594.html&cntvendor=3&srcsubj=34935734&type=bkbuy&subject=34935734"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34935734/",
+    "douban_id": "34935734",
+    "menu": [
+        "",
+        "        第一部　青玉案",
+        "        003     一　风与气",
+        "        039     二　古城签",
+        "        091     三　仰望与遗忘",
+        "        129     四　女人何必江南",
+        "        第二部　声声慢",
+        "        175     五　读书不好玩",
+        "        213     六　渎边遗事",
+        "        259     七　乡村无恙",
+        "        288     八　大地救赎",
+        "        第三部　风满楼",
+        "        309     九　 紫醉与金迷",
+        "        346     十　  海棠并不依旧",
+        "        375     十一  君有癖否",
+        "        418     十二　原野上的荒腔走板",
+        "        455     参考文献",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33551224.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "徐风",
+            "link": "https://book.douban.com/search/%E5%BE%90%E9%A3%8E"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        }
+    ],
+    "tag": "随笔"
+}

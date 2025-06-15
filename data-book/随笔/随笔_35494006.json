@@ -1,0 +1,89 @@
+{
+    "title": "背影",
+    "bookInfo": {
+        "作者": "马未都",
+        "出版社": "人民文学出版社",
+        "出版年": "2021-6-1",
+        "页数": "288",
+        "定价": "55",
+        "装帧": "平装",
+        "ISBN": "9787020171033"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.4%",
+        "four_star_rate": "44.8%",
+        "three_star_rate": "18.0%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4517340/",
+            "name": "马未都",
+            "role": "作者",
+            "douban_id": "4517340"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "33.00元",
+            "link": "https://book.douban.com/link2/?lowest=3300&pre=0&vendor=jingdong&srcpage=subject&price=3300&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13319506.html&cntvendor=3&srcsubj=35494006&type=bkbuy&subject=35494006"
+        },
+        {
+            "name": "当当网",
+            "price": "55.00元",
+            "link": "https://book.douban.com/link2/?lowest=3300&pre=0&vendor=dangdang&srcpage=subject&price=5500&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35494006%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29257738&cntvendor=3&srcsubj=35494006&type=bkbuy&subject=35494006"
+        },
+        {
+            "name": "中图网",
+            "price": "40.10元",
+            "link": "https://book.douban.com/link2/?lowest=3300&pre=0&vendor=bookschina&srcpage=subject&price=4010&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8613163.htm&cntvendor=3&srcsubj=35494006&type=bkbuy&subject=35494006"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35494006/",
+    "douban_id": "35494006",
+    "menu": [
+        "",
+        "        1镆铘岛人",
+        "        2江湖客秦公",
+        "        3富翁徐展堂",
+        "        4学者王世襄",
+        "        5时尚人吴泓",
+        "        6仙者徐邦达",
+        "        7可能路东之",
+        "        8哲人史铁生",
+        "        9金槌朱汤生",
+        "        10侠客刘新园",
+        "        11老麦麦戈文",
+        "        12画家陈逸飞",
+        "        13大阿福海波",
+        "        14老人叶圣陶",
+        "        15靓仔叶伟特",
+        "        16教父安思远",
+        "        17何太陈淑贞",
+        "        18风骨俞伟超",
+        "        19播音员方静",
+        "        20作家刘绍棠",
+        "        21大佬王季迁",
+        "        22寿者叶惠方",
+        "        23人瑞黄慕兰",
+        "        24名门李家治",
+        "        25编剧李龙云",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33920420.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "马未都",
+            "link": "https://book.douban.com/search/%E9%A9%AC%E6%9C%AA%E9%83%BD"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        }
+    ],
+    "tag": "随笔"
+}

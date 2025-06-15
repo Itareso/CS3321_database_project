@@ -1,0 +1,61 @@
+{
+    "title": "大宪章",
+    "bookInfo": {
+        "出版社": "商务印书馆",
+        "原作名": "Magna Carta",
+        "译者": "陈国华",
+        "出版年": "2016-6-1",
+        "页数": "118",
+        "定价": "22.00",
+        "装帧": "平装",
+        "ISBN": "9787100122269"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "53.9%",
+        "four_star_rate": "29.8%",
+        "three_star_rate": "14.0%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/400848/",
+            "name": "陈国华",
+            "role": "译者",
+            "douban_id": "400848"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "9.90元",
+            "link": "https://www.dedao.cn/eBook/DLnMGAEG7gKLyYmkAbPaEXxD8BM4J0LLjL0ROrpdZn19VNzv2o5e6lqjQQ1poxqy?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "23.31元",
+            "link": "https://book.douban.com/link2/?lowest=2060&pre=0&vendor=jingdong&srcpage=subject&price=2331&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQIJK1olXwIDUF5UCUIeCl8MHF8WXAEHVVteAHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSlpaDEgWBGoJHlgdQl9HCANtCUt3VwgLbAV1CxxZCSNUVBwXCjVxe1cZbQEHU1haAUgQM28MGl8RbTYCVW4cZksTAWgKGWsXXQcDUV5VD0gWM28OHloQVQECV1tVAU8nA2cMK4KV6tCgxofDgp6flF84K1glbTYCZF1tViUWUGgNElsWX2heUgQBXh4UQQEKGlsWVAcBVW5fCUoVAV84Kx9VWXV9URwvDypHWhkBeyRWKXJDFR8jUSUVVDl-WzlmWXwFKiAjXT1zSAo4GGs&cntvendor=3&srcsubj=26849220&type=bkbuy&subject=26849220"
+        },
+        {
+            "name": "中图网",
+            "price": "20.60元",
+            "link": "https://book.douban.com/link2/?lowest=2060&pre=0&vendor=bookschina&srcpage=subject&price=2060&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8170173.htm&cntvendor=3&srcsubj=26849220&type=bkbuy&subject=26849220"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26849220/",
+    "douban_id": "26849220",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s28963920.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "陈国华",
+            "link": "https://book.douban.com/author/400848/"
+        }
+    ],
+    "tag": "政治学"
+}

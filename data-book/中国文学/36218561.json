@@ -1,0 +1,105 @@
+{
+    "title": "我认识的唐朝诗人",
+    "bookInfo": {
+        "作者": "陈尚君",
+        "出版社": "中华书局",
+        "出版年": "2023-3",
+        "页数": "380",
+        "定价": "56.00元",
+        "装帧": "平装",
+        "ISBN": "9787101160550"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "57.4%",
+        "four_star_rate": "32.6%",
+        "three_star_rate": "7.9%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609396/",
+            "name": "陈尚君",
+            "role": "作者",
+            "douban_id": "4609396"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "33.60元",
+            "link": "https://read.douban.com/ebook/431292645/?dcs=subject-buylink&dcm=douban&dct=36218561"
+        },
+        {
+            "name": "得到",
+            "price": "33.60元",
+            "link": "https://www.dedao.cn/ebook/detail?id=BpM1nLOerPa1XOp27zqQ8KGR56loVWrDNQBwdLygv94jYmnENDxAMZJBkbNzEblg&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=3629&pre=0&vendor=jingdong&srcpage=subject&price=4200&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVIRXAQHU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAXVpcCk4QHDZNRwYlKUEYKywdDg50BWxfaCRVJAR8FAEheEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeBl8IHV4UXgcAXVxcD04eM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFwWWQJsCFgKShxOUDRmG1oQWwUHUlptCkoWAW04K2tgIFhJND4jYB8TehpDWRNQWFteKSMrb0l5ARx3GiZJFltRAFdUfTZpahV4K1gl&cntvendor=5&srcsubj=36218561&type=bkbuy&subject=36218561"
+        },
+        {
+            "name": "当当网",
+            "price": "56.00元",
+            "link": "https://book.douban.com/link2/?lowest=3629&pre=0&vendor=dangdang&srcpage=subject&price=5600&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36218561%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29533742&cntvendor=5&srcsubj=36218561&type=bkbuy&subject=36218561"
+        },
+        {
+            "name": "中图网",
+            "price": "36.30元",
+            "link": "https://book.douban.com/link2/?lowest=3629&pre=0&vendor=bookschina&srcpage=subject&price=3629&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9037449.htm&cntvendor=5&srcsubj=36218561&type=bkbuy&subject=36218561"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36218561/",
+    "douban_id": "36218561",
+    "menu": [
+        "",
+        "        自序:每个诗人都有活生生的人生",
+        "        杜审言的生平与诗歌",
+        "        崔融：困扰在天后罗网中的人生诗人",
+        "        宋之问：侍臣的悲哀",
+        "        陈子昂的孤寂与苦闷",
+        "        杜甫的大历三年",
+        "        韦应物在苏州",
+        "        戎昱的风流情债与真实人生",
+        "        欧阳詹的生死情恋",
+        "        武元衡：喋血宰相的政事与文学",
+        "        裴度的人生感悟与诗歌情怀",
+        "        令狐楚的人生大节与朋友圈",
+        "        韩愈在潮州",
+        "        韩愈与柳宗元的友谊",
+        "        李涉的失意仕途与卓荦诗才",
+        "        李绅：从新乐府急先锋到党争大佬",
+        "        施肩吾的游踪、科第与修仙",
+        "        温庭筠的早年经历：从有志青年到文场浪子",
+        "        陈陶的分形与实相",
+        "        乱世能臣高骈的文学才华与人生迷途",
+        "        韩琮文学遭际的幸与不幸",
+        "        贯休在唐末乱世中的奔走与归宿",
+        "        韦庄作《秦妇吟》之前后",
+        "        南唐宰相李建勋的诗酒风流",
+        "        《夜宴图》内外的韩熙载",
+        "        乱世诗人李山甫的绝望与沉沦",
+        "        乔驸马家的儿女",
+        "        述桐庐三章",
+        "        说甘露四相",
+        "        述修行杨家",
+        "        唐代的夫妻诗人",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34464108.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "陈尚君",
+            "link": "https://book.douban.com/search/%E9%99%88%E5%B0%9A%E5%90%9B"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        }
+    ],
+    "tag": "中国文学"
+}

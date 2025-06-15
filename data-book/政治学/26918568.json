@@ -1,0 +1,83 @@
+{
+    "title": "自由·平等·博爱",
+    "bookInfo": {
+        "作者": "[英] 詹姆斯·斯蒂芬 / 詹姆斯·菲茨詹姆斯·斯蒂芬",
+        "出版社": "江西人民出版社",
+        "原作名": "Liberty, Equality, Fraternity",
+        "译者": "冯克利 杨日鹏",
+        "出版年": "2016-9",
+        "页数": "315",
+        "定价": "58.00",
+        "装帧": "精装",
+        "丛书": "西方保守主义经典译丛",
+        "ISBN": "9787210085911"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    “自由、平等、博爱”的理念，在当今世界早已大行其道，影响遍及全球，仿佛成了一种普世价值。这条口号最早流行于法国，后被写进了法国宪法，法国的许多建筑上也常常铭刻的这三个词的标语，欧洲乃至世界各国也都或多或少的接受了这种三位一体的价值观，如今这三个词也早已成为世界各国众多政治人物常常挂在嘴上的响亮口号。然而， 早在“自由、平等、博爱”理念提出之初，一些有识之士就曾以冷静的目光做出了审视，指出了其背后隐藏的种种弊端和矛盾。斯蒂芬这本《自由•平等•博爱》，即是批驳“自由、平等、博爱”信条的经典之作，在19世纪中后期关于自由主义的辩论中堪称浓墨重彩的一笔，至今仍不失令人警醒的价值。    斯蒂芬在本书中对约翰•密尔的《论自由》、《论妇女的屈从地位》和《功利主义》做了全面的批判。作者以其冷静的目光审视了“自由、平等、博爱”这三位一体的价值观，指出了三者背后隐藏的种种弊端和矛盾。自由作为服务于社会福祉的要素之一，本身只具有工具性价值，因时因地而有利弊。平等与自由在一定程度上是矛盾的，因各人资质与所处环境不同，自由造成的结果恰恰是最大的不平等。人类因为不可避免的利益之争，及对社会前景与真善美的不同理解，也不可能达致博爱的境地。信言不美，本书论点或许刺耳，所揭示的现实世界图景不甚美好，但也许更接近真实。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "41.6%",
+        "four_star_rate": "39.3%",
+        "three_star_rate": "13.5%",
+        "two_star_rate": "4.5%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4616718/",
+            "name": "詹姆斯·菲茨詹姆斯·斯蒂芬",
+            "role": "作者",
+            "douban_id": "4616718"
+        },
+        {
+            "link": "https://book.douban.com/author/1400776/",
+            "name": "詹姆斯·斯蒂芬",
+            "role": "作者",
+            "douban_id": "1400776"
+        },
+        {
+            "link": "https://book.douban.com/author/4608610/",
+            "name": "冯克利",
+            "role": "译者",
+            "douban_id": "4608610"
+        },
+        {
+            "link": "https://book.douban.com/author/1400777/",
+            "name": "杨日鹏",
+            "role": "译者",
+            "douban_id": "1400777"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "175.50元",
+            "link": "https://book.douban.com/link2/?lowest=17550&pre=0&vendor=jingdong&srcpage=subject&price=17550&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10066175988535.html&cntvendor=1&srcsubj=26918568&type=bkbuy&subject=26918568"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26918568/",
+    "douban_id": "26918568",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29995126.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 詹姆斯·斯蒂芬",
+            "link": "https://book.douban.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E6%96%AF%E8%92%82%E8%8A%AC"
+        },
+        {
+            "text": "詹姆斯·菲茨詹姆斯·斯蒂芬",
+            "link": "https://book.douban.com/author/4616718"
+        },
+        {
+            "text": "江西人民出版社",
+            "link": "https://book.douban.com/press/2145"
+        },
+        {
+            "text": "冯克利 杨日鹏",
+            "link": "https://book.douban.com/search/%E5%86%AF%E5%85%8B%E5%88%A9%20%E6%9D%A8%E6%97%A5%E9%B9%8F"
+        },
+        {
+            "text": "西方保守主义经典译丛",
+            "link": "https://book.douban.com/series/33751"
+        }
+    ],
+    "tag": "政治学"
+}

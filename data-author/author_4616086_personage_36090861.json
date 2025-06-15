@@ -1,0 +1,147 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "全球真实故事集 Ⅱ",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35060504.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37182247/",
+                        "year": "2025",
+                        "id": 37182247
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "第三次启程",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34882359.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36919379/",
+                        "year": "2024",
+                        "id": 36919379
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "自己跟自己玩的游戏",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35000036.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/37101157/",
+                        "year": "2024",
+                        "id": 37101157
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "多谈谈问题",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34473805.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36321036/",
+                        "year": "2023",
+                        "id": 36321036
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "走出我房间",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34727346.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36689147/",
+                        "year": "2023",
+                        "id": 36689147
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "格兰塔 : 美国最佳青年小说家",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34642492.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36556627/",
+                        "year": "2023",
+                        "id": 36556627
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "去公园和野外",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34150775.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35802205/",
+                        "year": "2022",
+                        "id": 35802205
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "当代剧作选——今天全部停止",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34081927.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35720052/",
+                        "year": "2022",
+                        "id": 35720052
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "全球真实故事集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33869660.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35425712/",
+                        "year": "2021",
+                        "id": 35425712
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "明亮的时刻",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34048454.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35665818/",
+                        "year": "2021",
+                        "id": 35665818
+                    }
+                }
+            ],
+            "total": 18
+        }
+    },
+    "author_link": "https://book.douban.com/author/4616086/",
+    "author_douban_id": "4616086",
+    "personage_id": 36090861,
+    "name": [
+        "吴琦",
+        "Qi Wu"
+    ],
+    "intro": "《单读》主编，播客《螺丝在拧紧》主播。与项飙合著谈话录《把自己作为方法》，译有《下一次将是烈火》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/373a8b6e515f60abba5200ac2dd9138d.jpg",
+    "sex": 1,
+    "profession": [
+        "作者",
+        "译者",
+        "编者"
+    ]
+}

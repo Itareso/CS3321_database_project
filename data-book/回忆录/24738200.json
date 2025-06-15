@@ -1,0 +1,60 @@
+{
+    "title": "不固定的盛节",
+    "bookInfo": {
+        "作者": "(美)海明威",
+        "出版社": "北京十月文艺出版社",
+        "译者": "李文俊",
+        "出版年": "2013-10",
+        "页数": "272",
+        "定价": "25.00",
+        "装帧": "精装",
+        "丛书": "新经典文库：海明威作品",
+        "ISBN": "9787530213247"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.6%",
+        "four_star_rate": "42.9%",
+        "three_star_rate": "27.4%",
+        "two_star_rate": "3.6%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4525432/",
+            "name": "欧内斯特·海明威",
+            "role": "作者",
+            "douban_id": "4525432"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.70元",
+            "link": "https://book.douban.com/link2/?lowest=1670&pre=0&vendor=jingdong&srcpage=subject&price=1670&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAcUJK1olVQIFXFpZCEsRM20IG1McWAIKVVlVOA9IWzFXKwJQGEdAX0BDUxNIVThcREROCBlQCgJDUA5DX3BRXgdIU0RYEFIZSE9kfGpKaVx0DV9gHQs5fz9jSjdbfCd7X1FUIh4_e09tBBF2WjhgJntnQx5RfBRjYRZrGxtiJFxnIAcUXyxuXhB8fx0dOFlbKyoqbF8UdAtAeCdiOV9HMQYmYSgWRXsLbD5KInlhVTZafzJjWxhrGwdiX25mLT1dTzNiaBlqQS8TOU8KCQstYE53ATZxeFphVHEACScpbChXdAZ3aSJmGwB1DCI9fz90QhtAez51B2VFIAQpWDxkfDN8GQ18KmVXA24OdTZEZG0MWzgdCVEKVQIWCRNzdG9eF1clWgMFUllUC0wnA2sJH18lbQYDZB8zC0oTAGwBK1kVXAcHVFZaC0onA2kNGl4dVAYEUF1cDHsXC2s4wtuii6SQjcDX3cOAM184GGslbQYBZF1tViUWUGgNElsVX2heUgQCVhgWUwEKGlgRXgQDVm5fCUoVAV84Kx9VWXV9URwvDypHWg1BTj9iKXJLDA06dCUVVDl-WzlmWXwFKiAcaz5sfgo4GGs&cntvendor=1&srcsubj=24738200&type=bkbuy&subject=24738200"
+        }
+    ],
+    "url": "https://book.douban.com/subject/24738200/",
+    "douban_id": "24738200",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s27166516.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "(美)海明威",
+            "link": "https://book.douban.com/author/4525432"
+        },
+        {
+            "text": "北京十月文艺出版社",
+            "link": "https://book.douban.com/press/2194"
+        },
+        {
+            "text": "李文俊",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E6%96%87%E4%BF%8A"
+        },
+        {
+            "text": "新经典文库：海明威作品",
+            "link": "https://book.douban.com/series/54813"
+        }
+    ],
+    "tag": "回忆录"
+}

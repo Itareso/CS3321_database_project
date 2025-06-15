@@ -1,0 +1,73 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "寒山诗注（附拾得诗注）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34326397.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/33646197/",
+                        "year": "2019",
+                        "id": 33646197
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "寒山拾得诗赏析",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s9911960.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1186106/",
+                        "year": "2004",
+                        "id": 1186106
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "寒山拾得诗",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s2830155.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/2362923/",
+                        "year": "",
+                        "id": 2362923
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "丰干寒山拾得诗集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34497276.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/2138998/",
+                        "year": "",
+                        "id": 2138998
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4620672/",
+    "author_douban_id": "4620672",
+    "personage_id": 36352763,
+    "name": [
+        "拾得",
+        "De Shi"
+    ],
+    "intro": "拾德，唐朝著名僧人，于唐代贞观年间由天台山至苏州妙利普明塔院任住持，此院遂改名为闻名中外的苏州寒山寺。诗人张继据此留下脍炙人口的《枫桥夜泊》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "人性论",
+    "bookInfo": {
+        "作者": "[英] 休谟",
+        "出版社": "商务印书馆",
+        "原作名": "A TREATISE OF HUMAN NATURE",
+        "译者": "关文运",
+        "出版年": "2016-10",
+        "页数": "779",
+        "定价": "88.00",
+        "装帧": "精装",
+        "丛书": "汉译经典精装本",
+        "ISBN": "9787100122924"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "66.6%",
+        "four_star_rate": "24.7%",
+        "three_star_rate": "6.5%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/148366/",
+            "name": "大卫·休谟",
+            "role": "作者",
+            "douban_id": "148366"
+        },
+        {
+            "link": "https://book.douban.com/author/4642110/",
+            "name": "关文运",
+            "role": "译者",
+            "douban_id": "4642110"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "74.88元",
+            "link": "https://book.douban.com/link2/?lowest=5800&pre=0&vendor=jingdong&srcpage=subject&price=7488&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVgdVAAKVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAV1ZUDkMWHDZNRwYlR3kYIQNeDi9yQS9xHSQSL1V8BzsjTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4AUVpeDEsfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gVVVRsCFgHUgwUSDVmGFMTVQUDU1ltCkoWAW04K2tdHmZpXD5VVA1TdzNrUi0WNFZYHy1cUjJ5ATlRZRhCNmRfEjw_QAgSYWsOK1gl&cntvendor=3&srcsubj=26806808&type=bkbuy&subject=26806808"
+        },
+        {
+            "name": "当当网",
+            "price": "91.20元",
+            "link": "https://book.douban.com/link2/?lowest=5800&pre=0&vendor=dangdang&srcpage=subject&price=9120&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26806808%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29251834&cntvendor=3&srcsubj=26806808&type=bkbuy&subject=26806808"
+        },
+        {
+            "name": "中图网",
+            "price": "58.00元",
+            "link": "https://book.douban.com/link2/?lowest=5800&pre=0&vendor=bookschina&srcpage=subject&price=5800&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8601843.htm&cntvendor=3&srcsubj=26806808&type=bkbuy&subject=26806808"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26806808/",
+    "douban_id": "26806808",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29159627.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 休谟",
+            "link": "https://book.douban.com/author/148366"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "关文运",
+            "link": "https://book.douban.com/author/4642110"
+        },
+        {
+            "text": "汉译经典精装本",
+            "link": "https://book.douban.com/series/48693"
+        }
+    ],
+    "tag": "西方哲学"
+}

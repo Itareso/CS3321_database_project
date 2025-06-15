@@ -1,0 +1,68 @@
+{
+    "title": "The World of Yesterday",
+    "bookInfo": {
+        "作者": "Stefan Zweig",
+        "出版社": "University of Nebraska Press",
+        "原作名": "Die Welt von Gestern. Erinnerungen eines Europäers",
+        "译者": "Anthea Bell / 安西娅·贝尔",
+        "出版年": "2013-5-1",
+        "页数": "472",
+        "定价": "USD 24.95",
+        "装帧": "Paperback",
+        "ISBN": "9780803226616"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    By the author who inspired Wes Anderson’s 2014 film, The Grand Budapest Hotel    Written as both a recollection of the past and a warning for future generations, The World of Yesterday recalls the golden age of literary Vienna—its seeming permanence, its promise, and its devastating fall.    Surrounded by the leading literary lights of the epoch, Stefan Zweig draws a vivid and intimate account of his life and travels through Vienna, Paris, Berlin, and London, touching on the very heart of European culture. His passionate, evocative prose paints a stunning portrait of an era that danced brilliantly on the edge of extinction.    This new translation by award-winning Anthea Bell captures the spirit of Zweig’s writing in arguably his most revealing work.\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "73.0%",
+        "four_star_rate": "20.3%",
+        "three_star_rate": "6.8%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4514004/",
+            "name": "斯蒂芬·茨威格",
+            "role": "作者",
+            "douban_id": "4514004"
+        },
+        {
+            "link": "https://book.douban.com/author/4620314/",
+            "name": "安西娅·贝尔",
+            "role": "译者",
+            "douban_id": "4620314"
+        },
+        {
+            "link": "https://book.douban.com/author/4620313/",
+            "name": "安西娅·贝尔",
+            "role": "译者",
+            "douban_id": "4620313"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "249.00元",
+            "link": "https://book.douban.com/link2/?lowest=24900&pre=0&vendor=jingdong&srcpage=subject&price=24900&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAcMJK1olXgMKUF9eDUIeB18NH1IWWA8GXVlaCXtTXDdWRGtMGENDFlVDFhBPXDlfTwQKBlMdBgABFhNSVzMXQh5JAAhADhpRQRZAaA9oYTtAA2N3PQ4bADJScWlxRjJ9MwQFURsADiB1SzoPHDxPOFUCPEkdBDx-Zzx_QixJKn9UMyoEbxxwegx3bFpcGmNdNyEkbyxIZ217ZzthBEJnCyE0fy9eRApXfCR2BFNFIDcLUDx0AzN_RDtFKWUCEyYoYz11WRsOfxIdAFNyPEpefyh1dwZxaB0TPVl2BD4ubwthehhxeAJtW2UAPykpayxQY21dbCxxNQNiVSoNfzhsRxtxTThsLnFVZCguVSxxajtveQBNBm9HPR4dDU9UVDkEF2sSWAEEU1deD3sXB24MH2slXQcyFTBYDkMQC18KG1oUWAYKU11cOEsRBm4NE1IVWwMLVVltCEMTM7aIrI23z9-c3ovVn3snM2w4K2sVXjYBZAAzCRgfA2kLS1N7AQBYCwANSU55AW4IGFgUWgQyVl9cCkknM19BRgx-PWZ4NAsDbT5-UykAYh5nW39fPTYzCkwSRjIOcDldCAEFMwQ4W0t_M2w4&cntvendor=1&srcsubj=20545453&type=bkbuy&subject=20545453"
+        }
+    ],
+    "url": "https://book.douban.com/subject/20545453/",
+    "douban_id": "20545453",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29315758.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "Stefan Zweig",
+            "link": "https://book.douban.com/author/4514004"
+        },
+        {
+            "text": "Anthea Bell",
+            "link": "https://book.douban.com/search/Anthea%20Bell"
+        },
+        {
+            "text": "安西娅·贝尔",
+            "link": "https://book.douban.com/author/4620314"
+        }
+    ],
+    "tag": "回忆录"
+}

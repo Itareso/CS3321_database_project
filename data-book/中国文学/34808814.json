@@ -1,0 +1,65 @@
+{
+    "title": "游侠小木客：可怕的预言",
+    "bookInfo": {
+        "作者": "熊亮",
+        "出版社": "天津人民出版社",
+        "副标题": "第二集",
+        "出版年": "2019-9-1",
+        "页数": "96",
+        "定价": "58",
+        "丛书": "游侠小木客",
+        "ISBN": "9787201151250"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.0%",
+        "four_star_rate": "46.9%",
+        "three_star_rate": "7.9%",
+        "two_star_rate": "0.2%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4612834/",
+            "name": "熊亮",
+            "role": "作者",
+            "douban_id": "4612834"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.04元",
+            "link": "https://book.douban.com/link2/?lowest=2130&pre=0&vendor=jingdong&srcpage=subject&price=2604&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQIKVVxZAEsWM28JGlwTXAYFU19VCUMTMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWBGkJG1wSXA4DXFpCUQ5LXl9QfjxTKUMFEDsjVFVTazdsGix2AEZiWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHl0TXAEyVl5cCU4XC2gLGmsVWwMDV19ZDE0WBWsKK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggTVQVXAVwzVE1ARjlLUBt7XQcLUVtcCE8nAW4JGVklbTZRDhwuV051Z2l9UlxjGF17CTdeVxVVRDZmGVgTA1xLJw42DjESBzhqSCd0bQUy&cntvendor=3&srcsubj=34808814&type=bkbuy&subject=34808814"
+        },
+        {
+            "name": "当当网",
+            "price": "58.00元",
+            "link": "https://book.douban.com/link2/?lowest=2130&pre=0&vendor=dangdang&srcpage=subject&price=5800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34808814%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27923426&cntvendor=3&srcsubj=34808814&type=bkbuy&subject=34808814"
+        },
+        {
+            "name": "中图网",
+            "price": "21.30元",
+            "link": "https://book.douban.com/link2/?lowest=2130&pre=0&vendor=bookschina&srcpage=subject&price=2130&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8163423.htm&cntvendor=3&srcsubj=34808814&type=bkbuy&subject=34808814"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34808814/",
+    "douban_id": "34808814",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33467415.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "熊亮",
+            "link": "https://book.douban.com/author/4612834"
+        },
+        {
+            "text": "天津人民出版社",
+            "link": "https://book.douban.com/press/2765"
+        },
+        {
+            "text": "游侠小木客",
+            "link": "https://book.douban.com/series/62917"
+        }
+    ],
+    "tag": "中国文学"
+}

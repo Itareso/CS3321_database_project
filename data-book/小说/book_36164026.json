@@ -1,0 +1,83 @@
+{
+    "title": "人生借阅室",
+    "bookInfo": {
+        "作者": "（日）青山美智子",
+        "出版社": "湖南文艺出版社",
+        "原作名": "お探し物は図書室まで",
+        "译者": "烨伊",
+        "出版年": "2023-1",
+        "页数": "248",
+        "定价": "52",
+        "装帧": "精装",
+        "丛书": "博集天卷·青山美智子作品",
+        "ISBN": "9787572608698"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    阅读一本书，打开一种人生。    日本“书店大奖”第2名，日亚4.5星好评！    治愈系宝藏作家青山美智子，以书籍舒展心绪、书写人生！    5个关于“书与人”的故事，5段属于“人与书”的羁绊。    人生与书，我们皆不辜负。    数百家日本书店店员真诚力荐，Bookmeter关注人数超过15000+！    日本持续畅销，好评如潮！    ---------------------------------------    终其一生，你在找寻什么？    要找一本书？一份工作？还是一种人生？    看上去不怎么和蔼、友善的图书管理员，经常置身于狭窄的图书借阅室的柜台里，用针扎着一团一团的毛线，做着似乎是羊毛毡般的小手工活儿。    实际上，她非常善于倾听别人讲诉自己的故事与困惑，并为每位来访者精心推荐一本出人意料的书，那些亲切备至的言语和书籍的字里行间，正以温柔的方式，鼓励并改变着他人的人生......    ---------------------------------------    金句叠出，平凡的点滴中开出温柔之花，暖流浸润人心。    “这些事情，靠的都不是临时抱佛脚。所以对我来说，最重要的是一心一意地做好眼前的事。做着做着，之前的努力就会在意想不到的地方开花结果，或者结下新的缘分。”    “我只是在这个不知道今后会发生什么的世上，用心做着此时此刻的自己能做的事。”    ---------------------------------------    喝一杯青山美智子酿造的《星期四，喝可可》，    逛一逛《镰仓旋涡咨询所》，    祝你在《人生借阅室》里收获加倍的幸福和感动！\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "32.6%",
+        "four_star_rate": "46.0%",
+        "three_star_rate": "18.8%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4627106/",
+            "name": "青山美智子",
+            "role": "作者",
+            "douban_id": "4627106"
+        },
+        {
+            "link": "https://book.douban.com/author/4615253/",
+            "name": "烨伊",
+            "role": "译者",
+            "douban_id": "4615253"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "37.99元",
+            "link": "https://read.douban.com/ebook/430913266/?dcs=subject-buylink&dcm=douban&dct=36164026"
+        },
+        {
+            "name": "得到",
+            "price": "52.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=lxaVvndNG6D4kgLJ2OKxqVMmE1zXPwV2bG1wAdjyQeYR75vbaBnr9ol8pZERLg1m&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "28.60元",
+            "link": "https://book.douban.com/link2/?lowest=2860&pre=0&vendor=jingdong&srcpage=subject&price=2860&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGV8dXw4GVm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IONFY2Syt3WDx9SxxRBQ5CLiM6dj9JYGgLdVl3KAAKAh06dD5BVQ8AXD9rFRFCWCokdC1uYARXbCJpBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYBBiU_aBtRegp4eSAdVVUKJiE-SElRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFlYAEIeBWg4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQUKUlkzVE1AXWxaGAV7XQcDVllYC0wnAW4JGVklbTZiXDUeaCtMUBpYXB9NVUZ4KTkjfBV0BGxmGTlgWw5UFzkhfR1BY2dPfyVdbQUy&cntvendor=5&srcsubj=36164026&type=bkbuy&subject=36164026"
+        },
+        {
+            "name": "当当网",
+            "price": "49.90元",
+            "link": "https://book.douban.com/link2/?lowest=2860&pre=0&vendor=dangdang&srcpage=subject&price=4990&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36164026%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29491039&cntvendor=5&srcsubj=36164026&type=bkbuy&subject=36164026"
+        },
+        {
+            "name": "中图网",
+            "price": "34.80元",
+            "link": "https://book.douban.com/link2/?lowest=2860&pre=0&vendor=bookschina&srcpage=subject&price=3479&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8989290.htm&cntvendor=5&srcsubj=36164026&type=bkbuy&subject=36164026"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36164026/",
+    "douban_id": "36164026",
+    "menu": [
+        "",
+        "        第一章",
+        "        朋香 二十一岁 女装销售员",
+        "        第二章",
+        "        谅 三十五岁 家具制造公司财务人员",
+        "        第三章",
+        "        夏美 四十岁 前杂志编辑",
+        "        第四章",
+        "        浩弥 三十岁 啃老族",
+        "        第五章",
+        "        正雄 六十五岁 退休人员",
+        "        附录",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

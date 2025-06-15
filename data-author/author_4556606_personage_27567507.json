@@ -1,0 +1,168 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "台北人（精装，白先勇名著单行本）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34995824.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37100453/",
+                        "year": "2024",
+                        "id": 37100453
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.7,
+                        "title": "孽子（精装，白先勇名著单行本）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34995836.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/37100462/",
+                        "year": "2024",
+                        "id": 37100462
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "纽约客（精装，白先勇名著单行本）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34995833.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37100460/",
+                        "year": "2024",
+                        "id": 37100460
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "树犹如此（精装，白先勇名著单行本）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34995829.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37100459/",
+                        "year": "2024",
+                        "id": 37100459
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "寂寞的十七岁（精装，白先勇名著单行本）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34995837.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37100463/",
+                        "year": "2024",
+                        "id": 37100463
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "白先勇细说红楼梦（插图袖珍本）",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34791851.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36782765/",
+                        "year": "2024",
+                        "id": 36782765
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "红楼梦幻",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34791847.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36463595/",
+                        "year": "2024",
+                        "id": 36463595
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "牡丹花开二十年",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34952496.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37032190/",
+                        "year": "2024",
+                        "id": 37032190
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.8,
+                        "title": "白先勇典藏集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34528554.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/36214243/",
+                        "year": "2023",
+                        "id": 36214243
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "白先勇刘再复《红楼梦》对话录",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34583488.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36206041/",
+                        "year": "2023",
+                        "id": 36206041
+                    }
+                }
+            ],
+            "total": 78
+        }
+    },
+    "author_link": "https://book.douban.com/author/4556606/",
+    "author_douban_id": "4556606",
+    "personage_id": 27567507,
+    "name": [
+        "白先勇",
+        "Hsien-Yung Pai"
+    ],
+    "intro": "白先勇，台湾当代著名作家，昆曲制作人。中国国民党高级将领白崇禧之子。白先勇7岁时，经医诊断患有肺结核，不能就学。1956年在建国中学毕业，1965年，取得爱荷华大学硕士学位后，白先勇到加州大学圣塔芭芭拉分校教授中国语文及文学，并从此在那里定居。他在1994年退休。出版有短篇小说集《寂寞的十七岁》、《台北人》、《纽约客》，散文集《蓦然回首》，长篇小说《孽子》等。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27567507/photo/1862843646",
+        "https://www.douban.com/personage/27567507/photo/2905430587",
+        "https://www.douban.com/personage/27567507/photo/2606751401",
+        "https://www.douban.com/personage/27567507/photo/2606751546",
+        "https://www.douban.com/personage/27567507/photo/2606751624"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p1862843646.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905430587.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2606751401.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2606751546.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2606751624.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/celebrity/m/public/p56046.jpg",
+    "sex": 1,
+    "birth_date": 1937,
+    "age": 89,
+    "birth_place": [
+        "中国",
+        "广西",
+        "桂林"
+    ],
+    "family_member": "白崇禧(父亲)",
+    "IMDB": "nm0656655",
+    "profession": [
+        "作者",
+        "编剧",
+        "演员"
+    ]
+}

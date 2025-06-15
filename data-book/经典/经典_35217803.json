@@ -1,0 +1,104 @@
+{
+    "title": "人生的智慧",
+    "bookInfo": {
+        "作者": "[德] 阿图尔·叔本华",
+        "出版社": "上海文化出版社",
+        "出品方": "果麦文化",
+        "原作名": "The Wisdom of Life",
+        "译者": "杨立华",
+        "出版年": "2020-10",
+        "页数": "304",
+        "定价": "39.00元",
+        "丛书": "果麦经典：哲学",
+        "ISBN": "9787553520971"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "64.6%",
+        "four_star_rate": "24.8%",
+        "three_star_rate": "8.6%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1041089/",
+            "name": "阿图尔·叔本华",
+            "role": "作者",
+            "douban_id": "1041089"
+        },
+        {
+            "link": "https://book.douban.com/author/4616053/",
+            "name": "杨立华",
+            "role": "译者",
+            "douban_id": "4616053"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "22.00元",
+            "link": "https://read.douban.com/ebook/161879107/?dcs=subject-buylink&dcm=douban&dct=35217803"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.50元",
+            "link": "https://book.douban.com/link2/?lowest=1930&pre=0&vendor=jingdong&srcpage=subject&price=1950&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0QWgAGVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUltaDk8XHDZNRwYlOVMENAo2bkN3dnVqHR5SAwN1KgMKeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcGUlhfC0gRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFwWWQJsCFgKTRYSCm9mG1oSXQELVV1tCkoWAW04K2tHFkZpXD4EACNORiYOcF1XA2N4JjoLTwB5AW0PfxAXNltwPFxfWgB1QWdcK1gl&cntvendor=4&srcsubj=35217803&type=bkbuy&subject=35217803"
+        },
+        {
+            "name": "当当网",
+            "price": "37.40元",
+            "link": "https://book.douban.com/link2/?lowest=1930&pre=0&vendor=dangdang&srcpage=subject&price=3740&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35217803%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29142996&cntvendor=4&srcsubj=35217803&type=bkbuy&subject=35217803"
+        },
+        {
+            "name": "中图网",
+            "price": "19.30元",
+            "link": "https://book.douban.com/link2/?lowest=1930&pre=0&vendor=bookschina&srcpage=subject&price=1930&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8419920.htm&cntvendor=4&srcsubj=35217803&type=bkbuy&subject=35217803"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35217803/",
+    "douban_id": "35217803",
+    "menu": [
+        "",
+        "        引　言",
+        "        第一章　对主题的划分",
+        "        第二章　人格，或人本身",
+        "        第三章　财产，或一个人拥有的东西",
+        "        第四章　地位，或一个人在他人眼中的位置",
+        "        劝诫与格言",
+        "        第一章　一般规则",
+        "        第二章　我们与自身的关系",
+        "        第三章　我们与他人的关系",
+        "        第四章　如何面对世事与命运",
+        "        第五章　人生诸阶段",
+        "        叔本华其人和他的人生智慧",
+        "        叔本华年表",
+        "        叔本华主要作品",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33736765.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] 阿图尔·叔本华",
+            "link": "https://book.douban.com/author/1041089"
+        },
+        {
+            "text": "上海文化出版社",
+            "link": "https://book.douban.com/press/2389"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "杨立华",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E7%AB%8B%E5%8D%8E"
+        },
+        {
+            "text": "果麦经典：哲学",
+            "link": "https://book.douban.com/series/60489"
+        }
+    ],
+    "tag": "经典"
+}

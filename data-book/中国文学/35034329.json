@@ -1,0 +1,84 @@
+{
+    "title": "兰亭序（绘本版）",
+    "bookInfo": {
+        "作者": "叶露盈 / 吴菲",
+        "出版社": "中信出版社",
+        "出品方": "中信·红披风",
+        "出版年": "2020-4",
+        "页数": "72",
+        "定价": "89.8元",
+        "装帧": "精装",
+        "丛书": "新国风经典名作绘本系列·叶露盈作品",
+        "ISBN": "9787521711479"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "15.1%",
+        "four_star_rate": "28.8%",
+        "three_star_rate": "43.7%",
+        "two_star_rate": "10.8%",
+        "one_star_rate": "1.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4626261/",
+            "name": "叶露盈",
+            "role": "绘者",
+            "douban_id": "4626261"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "36.99元",
+            "link": "https://read.douban.com/ebook/154038436/?dcs=subject-buylink&dcm=douban&dct=35034329"
+        },
+        {
+            "name": "得到",
+            "price": "36.99元",
+            "link": "https://www.dedao.cn/eBook/kQX7yD4MVoN52PDAnlRdzK6qvg8XEwb5nM3ZJjBb7rO4ypxGa9LeQm1kYng9YzK5?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "43.10元",
+            "link": "https://book.douban.com/link2/?lowest=4310&pre=0&vendor=jingdong&srcpage=subject&price=4310&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVwWWwUEU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU11bC00QHDZNRwYlWnJhUQo_dTJ1HRVdXAdlIk9wDjo6XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcFVF5ZAEIUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsWCQFsCFgKTQlBXSdmG1oTWAEAV1dtCkoWAW04K2sUPg9aMz4CATEfVBFvWgVuLgdwXQYlQAJ5AQtwQjhuBW54LhwfCShfeBJSK1gl&cntvendor=5&srcsubj=35034329&type=bkbuy&subject=35034329"
+        },
+        {
+            "name": "当当网",
+            "price": "49.40元",
+            "link": "https://book.douban.com/link2/?lowest=4310&pre=0&vendor=dangdang&srcpage=subject&price=4940&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35034329%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28526890&cntvendor=5&srcsubj=35034329&type=bkbuy&subject=35034329"
+        },
+        {
+            "name": "中图网",
+            "price": "50.40元",
+            "link": "https://book.douban.com/link2/?lowest=4310&pre=0&vendor=bookschina&srcpage=subject&price=5040&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8306679.htm&cntvendor=5&srcsubj=35034329&type=bkbuy&subject=35034329"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35034329/",
+    "douban_id": "35034329",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34152287.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "叶露盈",
+            "link": "https://book.douban.com/search/%E5%8F%B6%E9%9C%B2%E7%9B%88"
+        },
+        {
+            "text": "吴菲",
+            "link": "https://book.douban.com/search/%E5%90%B4%E8%8F%B2"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "中信·红披风",
+            "link": "https://book.douban.com/producers/46"
+        },
+        {
+            "text": "新国风经典名作绘本系列·叶露盈作品",
+            "link": "https://book.douban.com/series/68771"
+        }
+    ],
+    "tag": "中国文学"
+}

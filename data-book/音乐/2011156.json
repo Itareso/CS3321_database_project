@@ -1,0 +1,45 @@
+{
+    "title": "春天去看肖邦",
+    "bookInfo": {
+        "作者": "肖复兴",
+        "出版社": "学林出版社",
+        "副标题": "音乐笔记续篇",
+        "出版年": "2007年1月",
+        "页数": "325",
+        "定价": "28.00元",
+        "装帧": "16开",
+        "ISBN": "9787807302711"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "18.8%",
+        "four_star_rate": "42.1%",
+        "three_star_rate": "33.8%",
+        "two_star_rate": "3.0%",
+        "one_star_rate": "2.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4512381/",
+            "name": "肖复兴",
+            "role": "作者",
+            "douban_id": "4512381"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/2011156/",
+    "douban_id": "2011156",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s2228260.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "肖复兴",
+            "link": "https://book.douban.com/author/4512381/"
+        },
+        {
+            "text": "学林出版社",
+            "link": "https://book.douban.com/press/2521"
+        }
+    ],
+    "tag": "音乐"
+}

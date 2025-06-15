@@ -1,0 +1,93 @@
+{
+    "title": "地球的回忆",
+    "bookInfo": {
+        "作者": "[美] 奥森·斯科特·卡德",
+        "出版社": "新星出版社",
+        "原作名": "The Memory of Earth",
+        "译者": "仇春卉",
+        "出版年": "2019-4",
+        "页数": "310",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "丛书": "幻象文库",
+        "ISBN": "9787513334204"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "9.3%",
+        "four_star_rate": "27.9%",
+        "three_star_rate": "40.7%",
+        "two_star_rate": "16.3%",
+        "one_star_rate": "5.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/185146/",
+            "name": "奥森·斯科特·卡德",
+            "role": "作者",
+            "douban_id": "185146"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.23元",
+            "link": "https://book.douban.com/link2/?lowest=2623&pre=0&vendor=jingdong&srcpage=subject&price=2623&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10020944050632.html&cntvendor=3&srcsubj=30396696&type=bkbuy&subject=30396696"
+        },
+        {
+            "name": "当当网",
+            "price": "30.90元",
+            "link": "https://book.douban.com/link2/?lowest=2623&pre=0&vendor=dangdang&srcpage=subject&price=3090&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30396696%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27865097&cntvendor=3&srcsubj=30396696&type=bkbuy&subject=30396696"
+        },
+        {
+            "name": "中图网",
+            "price": "27.40元",
+            "link": "https://book.douban.com/link2/?lowest=2623&pre=0&vendor=bookschina&srcpage=subject&price=2740&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8078122.htm&cntvendor=3&srcsubj=30396696&type=bkbuy&subject=30396696"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30396696/",
+    "douban_id": "30396696",
+    "menu": [
+        "",
+        "        序言 韩松",
+        "        引子",
+        "        第一章\t父亲的房子",
+        "        第二章\t母亲的房子",
+        "        第三章\t火",
+        "        第四章\t面具",
+        "        第五章\t车轮",
+        "        第六章\t敌人",
+        "        第七章\t祈祷",
+        "        第八章\t警告",
+        "        第九章\t谎言与伪装",
+        "        第十章\t帐篷",
+        "        第十一章\t兄弟",
+        "        第十二章\t财产",
+        "        第十三章\t逃命",
+        "        第十四章\t羿羲的浮椅",
+        "        第十五章\t谋杀",
+        "        第十六章\t上灵的索引第十七章\t译名注释",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s32301364.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 奥森·斯科特·卡德",
+            "link": "https://book.douban.com/author/185146"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "仇春卉",
+            "link": "https://book.douban.com/search/%E4%BB%87%E6%98%A5%E5%8D%89"
+        },
+        {
+            "text": "幻象文库",
+            "link": "https://book.douban.com/series/13154"
+        }
+    ],
+    "tag": "科幻"
+}

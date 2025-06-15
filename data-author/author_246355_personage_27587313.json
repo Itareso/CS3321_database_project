@@ -1,0 +1,161 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "庆余年·壹",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34858100.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36885793/",
+                        "year": "2024",
+                        "id": 36885793
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "将夜（全十册）",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34874941.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35837197/",
+                        "year": "2022",
+                        "id": 35837197
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "庆余年·第十卷：四大宗师",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34285178.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35065015/",
+                        "year": "2022",
+                        "id": 35065015
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "庆余年·第六卷：江南钦差",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33804373.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35301707/",
+                        "year": "2021",
+                        "id": 35301707
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "大道朝天 四：壶中天",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33799587.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35180715/",
+                        "year": "2020",
+                        "id": 35180715
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "庆余年·第一卷：远来是客",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33527970.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34839271/",
+                        "year": "2019",
+                        "id": 34839271
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "庆余年·第二卷：人在京都",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33528102.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34840675/",
+                        "year": "2019",
+                        "id": 34840675
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "庆余年·第三卷：北海有雾",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33540708.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34917883/",
+                        "year": "2019",
+                        "id": 34917883
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "大道朝天 一：临江仙",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33630205.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34884826/",
+                        "year": "2019",
+                        "id": 34884826
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "择天记 01",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28616962.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26756374/",
+                        "year": "2016",
+                        "id": 26756374
+                    }
+                }
+            ],
+            "total": 108
+        }
+    },
+    "author_link": "https://book.douban.com/author/246355/",
+    "author_douban_id": "246355",
+    "personage_id": 27587313,
+    "name": [
+        "猫腻",
+        "Mao Ni"
+    ],
+    "intro": "猫腻，起点中文网原白金作家，现签约腾讯文学，创世中文网作家。湖北夷陵人，其作品《朱雀记》获得2007年新浪原创文学奖玄幻类金奖，《庆余年》连载于起点中文网，一经连载，便获得巨大反响。其文风细腻，文学性很强。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27587313/photo/2546768768",
+        "https://www.douban.com/personage/27587313/photo/2546768770"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2546768768.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2546768770.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/celebrity/m/public/p1497490289.45.jpg",
+    "更多中文名": "晓峰 / 北洋鼠",
+    "sex": 1,
+    "birth_date": 1977,
+    "age": 49,
+    "birth_place": [
+        "中国",
+        "湖北",
+        "宜昌"
+    ],
+    "IMDB": "nm8611398",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

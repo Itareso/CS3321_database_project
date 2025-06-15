@@ -1,0 +1,148 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "昨晚，妈妈打来电话",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34816286.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36822267/",
+                        "year": "2024",
+                        "id": 36822267
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "骗子的化装表演",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34821219.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36799717/",
+                        "year": "2024",
+                        "id": 36799717
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "南荒有沛竹",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34394580.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36217171/",
+                        "year": "2023",
+                        "id": 36217171
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "大月亮及其他",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33626336.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34971570/",
+                        "year": "2020",
+                        "id": 34971570
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "苹果木桌子及其他简记",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s32410689.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/33417112/",
+                        "year": "2019",
+                        "id": 33417112
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "童年兽",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33300952.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30448940/",
+                        "year": "2019",
+                        "id": 30448940
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.3,
+                        "title": "保龄球的意识流",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29945613.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/30400605/",
+                        "year": "2019",
+                        "id": 30400605
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "祖先的爱情",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29470598.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27064165/",
+                        "year": "2018",
+                        "id": 27064165
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "肉桂色铺子及其他故事",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29559373.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27130212/",
+                        "year": "2017",
+                        "id": 27130212
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "化身狐",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29396707.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26995479/",
+                        "year": "2017",
+                        "id": 26995479
+                    }
+                }
+            ],
+            "total": 17
+        }
+    },
+    "author_link": "https://book.douban.com/author/234536/",
+    "author_douban_id": "234536",
+    "personage_id": 30075443,
+    "name": [
+        "陆源",
+        "Yuan Lu"
+    ],
+    "intro": "陆源，青年作家，1980年生于广西，毕业于中国人民大学，经济学硕士。著有长篇小说《祖先的爱情》、《范湖湖的奇幻夏天》等。译作有《沙漏做招牌的疗养院》《苹果木桌子及其他简记》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/img/author/medium/public/1522121575.2.jpg",
+    "sex": 1,
+    "birth_date": 1980,
+    "age": 46,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

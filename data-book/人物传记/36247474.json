@@ -1,0 +1,91 @@
+{
+    "title": "孤星之旅",
+    "bookInfo": {
+        "作者": "周文翰",
+        "出版社": "新星出版社",
+        "出品方": "读库",
+        "副标题": "苏东坡传",
+        "出版年": "2023-2-10",
+        "页数": "792",
+        "定价": "128",
+        "装帧": "平装",
+        "ISBN": "9787513350501"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "49.2%",
+        "four_star_rate": "40.2%",
+        "three_star_rate": "9.0%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4621409/",
+            "name": "周文翰",
+            "role": "作者",
+            "douban_id": "4621409"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "118.00元",
+            "link": "https://book.douban.com/link2/?lowest=9860&pre=0&vendor=jingdong&srcpage=subject&price=11800&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQQCV11fC0oXM28JGlISXwAFVltaC08SMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWCmgKHVwXWAEBUFtCUQ5LXl9XGDNLHFQFIzwHbgsSeTdxfSN9BU1EWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHlsUVAQyVl5cCU4XC2YBHmsVWwMDUVZbD0wVBWkKK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggdXQYBVg0zVE1NXDpaTxx7XwcDXVdaCU4nAW4JGVklbTZ8MBoOaCsVYRl-HAdyJEIKLic6UBRtQzxmGThwO2JbB1gKfjBrQg5acxJBbQUy&cntvendor=2&srcsubj=36247474&type=bkbuy&subject=36247474"
+        },
+        {
+            "name": "中图网",
+            "price": "98.60元",
+            "link": "https://book.douban.com/link2/?lowest=9860&pre=0&vendor=bookschina&srcpage=subject&price=9860&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9051599.htm&cntvendor=2&srcsubj=36247474&type=bkbuy&subject=36247474"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36247474/",
+    "douban_id": "36247474",
+    "menu": [
+        "",
+        "        前言",
+        "        第一章 京师亮相：自驾飞鸿跨九州",
+        "        第二章 眉山少年：当年踏月走东风",
+        "        第三章 创作之旅：浩浩长江赴沧海",
+        "        第四章 凤翔愁思：不问秋风强吹帽",
+        "        第五章 短暂在京：静传钟鼓建章闲",
+        "        第六章 变法之争：青衫傥有济时心",
+        "        第七章 外放杭州：觉来满眼是湖山",
+        "        第八章 密州放歌：人生所遇无不可",
+        "        第九章 主政徐州：使君留意在斯民",
+        "        第十章 乌台之狱：魂惊汤火命如鸡",
+        "        第十一章 黄州东坡：市人行尽野人行",
+        "        第十二章 北上之旅：此生初饮庐山水",
+        "        第十三章 旧党回潮：玉堂清冷不成眠",
+        "        第十四章 再到杭州：青山许我定相从",
+        "        第十五章 变局之中：鬓须白尽成何事",
+        "        第十六章 一贬再贬：惆怅孤帆连夜发",
+        "        第十七章 惠州寻道：我欲仙山掇瑶草",
+        "        第十八章 儋州残年：余生欲老海南村",
+        "        第十九章 茫茫北归：此心安处是吾乡",
+        "        附录一 身后事",
+        "        附录二 苏轼的官职和俸禄列表",
+        "        附录三 苏轼的园林营建活动列表",
+        "        参考文献",
+        "        注释",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34415564.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "周文翰",
+            "link": "https://book.douban.com/author/4621409"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "读库",
+            "link": "https://book.douban.com/producers/23"
+        }
+    ],
+    "tag": "人物传记"
+}

@@ -1,0 +1,59 @@
+{
+    "title": "金枝（全本）",
+    "bookInfo": {
+        "作者": "邵丽",
+        "出版社": "人民文学出版社",
+        "出版年": "2022-12",
+        "页数": "497",
+        "定价": "68",
+        "装帧": "精装",
+        "ISBN": "9787020176380"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "60.8%",
+        "four_star_rate": "18.9%",
+        "three_star_rate": "15.9%",
+        "two_star_rate": "3.7%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/236999/",
+            "name": "邵丽",
+            "role": "作者",
+            "douban_id": "236999"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "41.00元",
+            "link": "https://read.douban.com/ebook/417391732/?dcs=subject-buylink&dcm=douban&dct=36198472"
+        },
+        {
+            "name": "得到",
+            "price": "41.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=OAdXprx6N41dm9BQkayr8z7OqLGoE3l71VWYMlVAnxRZXK2Dg5pbevPJjjnQv2eb&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "44.20元",
+            "link": "https://book.douban.com/link2/?lowest=4420&pre=0&vendor=jingdong&srcpage=subject&price=4420&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQcJK1olXQMGXFhaDUoVCl8IGloTXQUKUlddDEkWA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkIGFMTVAYGVl9dFxJSXzI4bDtxW254PBY-VTUVRh1jfl1UPnMBNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsQVQQHVW5fCEoWBm8AHFgUbQYEUV9dAE8eBWsKHVslXQ4GZIfdv521kbaWkY6dyjYyZF1tOHsXM2w4RTUUDgZVBAlYCCVLBThXRRNeAGgKXFddAE4WM20JGlkXbTYyBwQfexQSYQsObhJjWEEGLVo0fxseQyhMdVkWW1hYHS0NY01tBjZzTFlHPDYBZA&cntvendor=5&srcsubj=36198472&type=bkbuy&subject=36198472"
+        },
+        {
+            "name": "当当网",
+            "price": "68.00元",
+            "link": "https://book.douban.com/link2/?lowest=4420&pre=0&vendor=dangdang&srcpage=subject&price=6800&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36198472%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29499129&cntvendor=5&srcsubj=36198472&type=bkbuy&subject=36198472"
+        },
+        {
+            "name": "中图网",
+            "price": "47.90元",
+            "link": "https://book.douban.com/link2/?lowest=4420&pre=0&vendor=bookschina&srcpage=subject&price=4790&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8998318.htm&cntvendor=5&srcsubj=36198472&type=bkbuy&subject=36198472"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36198472/",
+    "douban_id": "36198472",
+    "menu": [],
+    "tag": "小说"
+}

@@ -1,0 +1,52 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "校栞古文觀止",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34935290.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37004602/",
+                        "year": "2024",
+                        "id": 37004602
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "状元阁蒙学丛书 第三辑",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34950182.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36577618/",
+                        "year": "",
+                        "id": 36577618
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/1062344/",
+    "author_douban_id": "1062344",
+    "personage_id": 30115879,
+    "name": [
+        "吴调侯",
+        "Diaohou Wu"
+    ],
+    "intro": "吴调侯，为清朝康熙年间人，籍贯属绍兴府山阴县。与其叔吴楚材二人均饱览经典，皆不宜仕途而埋没民间；都长期从事私塾教学，因合编《古文观止》而留名后世。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "更多中文名": "吴调候",
+    "sex": 1,
+    "family_member": "吴楚材(叔)",
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

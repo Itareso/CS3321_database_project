@@ -1,0 +1,78 @@
+{
+    "title": "富兰克林自传",
+    "bookInfo": {
+        "作者": "[美] 本杰明·富兰克林",
+        "出版社": "译林出版社",
+        "原作名": "Benjamin Franklin: The Autobiography",
+        "译者": "蒲隆",
+        "出版年": "2009-7",
+        "页数": "245",
+        "定价": "18.00元",
+        "装帧": "平装",
+        "丛书": "译林人文精选",
+        "ISBN": "9787544709002"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "43.4%",
+        "four_star_rate": "41.9%",
+        "three_star_rate": "13.3%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4506338/",
+            "name": "蒲隆",
+            "role": "译者",
+            "douban_id": "4506338"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "6.00元",
+            "link": "https://read.douban.com/ebook/733928/?dcs=subject-buylink&dcm=douban&dct=4007097"
+        },
+        {
+            "name": "京东商城",
+            "price": "50.00元",
+            "link": "https://book.douban.com/link2/?lowest=5000&pre=0&vendor=jingdong&srcpage=subject&price=5000&pos=2&url=https%3A%2F%2Fitem.jd.com%2F10070651894474.html&cntvendor=2&srcsubj=4007097&type=bkbuy&subject=4007097"
+        }
+    ],
+    "url": "https://book.douban.com/subject/4007097/",
+    "douban_id": "4007097",
+    "menu": [
+        "",
+        "        自传",
+        "        第一部",
+        "        两封信",
+        "        第二部",
+        "        第三部",
+        "        第四部",
+        "        政富之路",
+        "        富兰克林年表",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s6459032.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 本杰明·富兰克林",
+            "link": "https://book.douban.com/search/%E6%9C%AC%E6%9D%B0%E6%98%8E%C2%B7%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "蒲隆",
+            "link": "https://book.douban.com/search/%E8%92%B2%E9%9A%86"
+        },
+        {
+            "text": "译林人文精选",
+            "link": "https://book.douban.com/series/3747"
+        }
+    ],
+    "tag": "人物传记"
+}

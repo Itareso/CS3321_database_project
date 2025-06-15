@@ -1,0 +1,88 @@
+{
+    "title": "独行月球 1",
+    "bookInfo": {
+        "作者": "[韩] 赵石 著绘",
+        "出版社": "北京联合出版公司",
+        "译者": "咚漫 译",
+        "出版年": "2021-12",
+        "页数": "189",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "丛书": "独行月球",
+        "ISBN": "9787559655813"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.4%",
+        "four_star_rate": "42.4%",
+        "three_star_rate": "21.2%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614770/",
+            "name": "赵石",
+            "role": "作者 / 绘者",
+            "douban_id": "4614770"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "27.00元",
+            "link": "https://book.douban.com/link2/?lowest=2570&pre=0&vendor=jingdong&srcpage=subject&price=2700&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV8TXAUDUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUFhcC0oSHDZNRwYlL1t-AFwLcyt1Uy9VeSZlA3pwSlkOaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYEXF5cDEIUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGA9GWQNsCFgLCQ4fVS9mG1sTXwEEXVltCkoWAW04K2tPDnxhC1cLCRxjVxxJTwJLJHZ3JhsrcBZ5AWYMfAgXPmdCAy0uUhhSWgthK1gl&cntvendor=3&srcsubj=35602522&type=bkbuy&subject=35602522"
+        },
+        {
+            "name": "当当网",
+            "price": "42.80元",
+            "link": "https://book.douban.com/link2/?lowest=2570&pre=0&vendor=dangdang&srcpage=subject&price=4280&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35602522%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29350349&cntvendor=3&srcsubj=35602522&type=bkbuy&subject=35602522"
+        },
+        {
+            "name": "中图网",
+            "price": "25.70元",
+            "link": "https://book.douban.com/link2/?lowest=2570&pre=0&vendor=bookschina&srcpage=subject&price=2570&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8753455.htm&cntvendor=3&srcsubj=35602522&type=bkbuy&subject=35602522"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35602522/",
+    "douban_id": "35602522",
+    "menu": [
+        "",
+        "        独行月球1",
+        "        1话：我该怎么办",
+        "        2话：地球灭亡创伤",
+        "        3话：两个我",
+        "        4话：地球上的东西",
+        "        5话：巧克力蛋糕I",
+        "        6话：巧克力蛋糕II",
+        "        7话：巧克力蛋糕III",
+        "        8话：015-99",
+        "        9话：MAD MOON YOU",
+        "        10话：宰杀的困难",
+        "        11话：是哦",
+        "        12话：四格漫画I",
+        "        13话：还不知道",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34090357.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[韩] 赵石 著绘",
+            "link": "https://book.douban.com/search/%E8%B5%B5%E7%9F%B3%20%E8%91%97%E7%BB%98"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "咚漫 译",
+            "link": "https://book.douban.com/search/%E5%92%9A%E6%BC%AB%20%E8%AF%91"
+        },
+        {
+            "text": "独行月球",
+            "link": "https://book.douban.com/series/58909"
+        }
+    ],
+    "tag": "科幻"
+}

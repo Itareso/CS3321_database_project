@@ -1,0 +1,82 @@
+{
+    "title": "你的夏天还好吗？",
+    "bookInfo": {
+        "作者": "[韩国] 金爱烂",
+        "出版社": "人民文学出版社",
+        "原作名": "너의 여름은 어떠니",
+        "译者": "薛舟",
+        "出版年": "2022-10-15",
+        "页数": "256",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "丛书": "金爱烂作品集",
+        "ISBN": "9787020171774"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "50.1%",
+        "four_star_rate": "40.0%",
+        "three_star_rate": "8.8%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609155/",
+            "name": "金爱烂",
+            "role": "作者",
+            "douban_id": "4609155"
+        },
+        {
+            "link": "https://book.douban.com/author/4616873/",
+            "name": "薛舟",
+            "role": "译者",
+            "douban_id": "4616873"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "34.00元",
+            "link": "https://read.douban.com/ebook/419607526/?dcs=subject-buylink&dcm=douban&dct=36109174"
+        },
+        {
+            "name": "得到",
+            "price": "34.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=YxRj1dbLGNgA2oaD6VBevmQZ7rnbYWm2QV3kyOKRMzJpX9lP5dxqE41j8De2pmOP&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "26.00元",
+            "link": "https://book.douban.com/link2/?lowest=2600&pre=0&vendor=jingdong&srcpage=subject&price=2600&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwUGXFxVCkoRB18IGloTXA4BUVxZAUoWA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkJE1gQXwILVV9dFxJSXzI4HCRGDVFWI1Y-fhdnXGoWfxsSC3ZqNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsWWwEGUlleOEkXAm4NG1MSXgcyVFhYCUsfBWgLGV4WXzYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRU1sJCU8RbTMOTAVVCkRDOl5cC08QA2sAK1kUXAQAZG5tTAsTcBANWSkSPFZ7AhsIdTZjChVbSC9yMwRVAigdajgTeWgKczldPQB2MW5eOA&cntvendor=5&srcsubj=36109174&type=bkbuy&subject=36109174"
+        },
+        {
+            "name": "当当网",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=2600&pre=0&vendor=dangdang&srcpage=subject&price=4800&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36109174%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29479131&cntvendor=5&srcsubj=36109174&type=bkbuy&subject=36109174"
+        },
+        {
+            "name": "中图网",
+            "price": "33.20元",
+            "link": "https://book.douban.com/link2/?lowest=2600&pre=0&vendor=bookschina&srcpage=subject&price=3320&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8956743.htm&cntvendor=5&srcsubj=36109174&type=bkbuy&subject=36109174"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36109174/",
+    "douban_id": "36109174",
+    "menu": [
+        "",
+        "        在悬崖尽头抓住热带鱼（译本序）by 文珍",
+        "        你的夏天还好吗？（金裕贞文学奖）",
+        "        虫子",
+        "        水中的歌利亚（年轻作家奖）",
+        "        那里是夜，这里有歌",
+        "        一天的轴",
+        "        角质层",
+        "        尼克塔酒店",
+        "        三十岁",
+        "        作家的话",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

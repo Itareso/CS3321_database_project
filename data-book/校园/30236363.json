@@ -1,0 +1,78 @@
+{
+    "title": "樱花盛放",
+    "bookInfo": {
+        "作者": "[日] 辻村深月",
+        "出版社": "新星出版社",
+        "原作名": "サクラ咲く",
+        "译者": "吕灵芝",
+        "出版年": "2018-8",
+        "页数": "224",
+        "定价": "36",
+        "装帧": "平装",
+        "丛书": "午夜文库·日系佳作：辻村深月作品",
+        "ISBN": "9787513330787"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "15.9%",
+        "four_star_rate": "36.1%",
+        "three_star_rate": "35.4%",
+        "two_star_rate": "9.9%",
+        "one_star_rate": "2.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609118/",
+            "name": "辻村深月",
+            "role": "作者",
+            "douban_id": "4609118"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "20.28元",
+            "link": "https://book.douban.com/link2/?lowest=2028&pre=0&vendor=jingdong&srcpage=subject&price=2028&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAckJK1olVQIGVFdYCkseM20LGF0VWwAKV1ddOA9IWzFXKwJQGEdAX0BDUxNIVThcREROCBlQCgJDUA5DX3BRXgdIU0RYEFIgfR1rAGpxcj1XPAVaFQYGTw1MUw0BQD97X3pCACs6dDJSZWwLUwJuHFtbQx5RfBRvYBtBeBpiAlxhLS0-XyxufBB8QRJKOFlpKz46bwhzSxB0bC9DVWNdCTcqUgJVZjBvZCxcXVh0JjoFfygXXRtXQQhiLk9BLCs2filNd2lsUlNICHZpFSovbBh3YAhKbANuJH92Kx4rejdxYAwJEztnOW9hMCkefjl0ehhScB9hOXJgIwcISzxuWT9_aFtWJXYWVitJCj4nBjENcl5iI3FhVSQjXxgRcCkWGCFNCwoOZFlYD00QCmwPK1sRXAIGZG5dCXtWbW8MHl8RWDYAVF9cDUsfBGwJK1sTWAcHXF1VAE8RAGg4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggcWlIFU1czVE1NWTJYQgR7Xg4FUF1ZD0knAW4JGVklbTZ_IQghC05uaglKelhNHF5ZExgGWCkeWAtmGSdVCXNlKCcYbkgUSzZzWgZMbQUy&cntvendor=3&srcsubj=30236363&type=bkbuy&subject=30236363"
+        },
+        {
+            "name": "当当网",
+            "price": "23.20元",
+            "link": "https://book.douban.com/link2/?lowest=2028&pre=0&vendor=dangdang&srcpage=subject&price=2320&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30236363%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25326341&cntvendor=3&srcsubj=30236363&type=bkbuy&subject=30236363"
+        },
+        {
+            "name": "中图网",
+            "price": "25.90元",
+            "link": "https://book.douban.com/link2/?lowest=2028&pre=0&vendor=bookschina&srcpage=subject&price=2590&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7865457.htm&cntvendor=3&srcsubj=30236363&type=bkbuy&subject=30236363"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30236363/",
+    "douban_id": "30236363",
+    "menu": [
+        "",
+        "        约定之地，约定之时",
+        "        樱花盛放",
+        "        世间最美的宝石",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29845452.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 辻村深月",
+            "link": "https://book.douban.com/search/%E8%BE%BB%E6%9D%91%E6%B7%B1%E6%9C%88"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "吕灵芝",
+            "link": "https://book.douban.com/search/%E5%90%95%E7%81%B5%E8%8A%9D"
+        },
+        {
+            "text": "午夜文库·日系佳作：辻村深月作品",
+            "link": "https://book.douban.com/series/25671"
+        }
+    ],
+    "tag": "校园"
+}

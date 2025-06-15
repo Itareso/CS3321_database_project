@@ -1,0 +1,89 @@
+{
+    "title": "寂寞大师",
+    "bookInfo": {
+        "作者": "吴涛",
+        "出版社": "北京联合出版公司",
+        "出品方": "时代华语国际",
+        "副标题": "世界艺术名家十五讲",
+        "出版年": "2021-1-1",
+        "页数": "400",
+        "定价": "138.00元",
+        "装帧": "精装",
+        "ISBN": "9787559648259"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.8%",
+        "four_star_rate": "47.5%",
+        "three_star_rate": "17.2%",
+        "two_star_rate": "2.9%",
+        "one_star_rate": "2.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4639299/",
+            "name": "吴涛",
+            "role": "作者",
+            "douban_id": "4639299"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "88.79元",
+            "link": "https://www.dedao.cn/eBook/nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg04QJoWJzxbE9LZl1o8RkGd2BPYv4x6d9meB?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "53.90元",
+            "link": "https://book.douban.com/link2/?lowest=5390&pre=0&vendor=jingdong&srcpage=subject&price=5390&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVoRXgADU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVVpeDkoQHDZNRwYlH1tkLwA2URh3AB1KGxB8VQJpKVsiTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GXV1bAE0WM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVJsCFgHVENcRT9mGFMdVQYKUV1tCkoWAW04K2tsJ1FYJAEhDShcRSxoeQdFX2dAFDkGdEl5AQZ6UyFmB1YDNwIBcTFoezVsK1gl&cntvendor=4&srcsubj=35290829&type=bkbuy&subject=35290829"
+        },
+        {
+            "name": "当当网",
+            "price": "89.70元",
+            "link": "https://book.douban.com/link2/?lowest=5390&pre=0&vendor=dangdang&srcpage=subject&price=8970&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35290829%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29172825&cntvendor=4&srcsubj=35290829&type=bkbuy&subject=35290829"
+        },
+        {
+            "name": "中图网",
+            "price": "60.30元",
+            "link": "https://book.douban.com/link2/?lowest=5390&pre=0&vendor=bookschina&srcpage=subject&price=6030&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8467783.htm&cntvendor=4&srcsubj=35290829&type=bkbuy&subject=35290829"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35290829/",
+    "douban_id": "35290829",
+    "menu": [
+        "",
+        "        目录",
+        "        序言—当我们谈论艺术的时候我们在谈什么",
+        "        塞尚—“不务正业”的富二代 001",
+        "        蒙克—在“呐喊”中自我疗愈的画家 025",
+        "        莫兰迪—创造了一个色系的大师 055",
+        "        哈默修伊—与门为生的宅男画家 079",
+        "        东山魁夷—爱自我空想的艺术家 109",
+        "        马格利特—化身苹果先生的礼帽画家 137",
+        "        席勒—饱受争议的鬼魅画家 151",
+        "        霍珀—处在故事边缘的孤独艺术家 177",
+        "        贾科梅蒂—钟情于“火柴人”的跛足大师 211",
+        "        倪瓒—洁癖到极致的艺术怪咖 237",
+        "        怀斯—“乡土”气氛浓厚的长寿画家 257",
+        "        弗里德里希—背对着世界是一种崇高的悲伤 283",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33793477.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "吴涛",
+            "link": "https://book.douban.com/author/4639299"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "时代华语国际",
+            "link": "https://book.douban.com/producers/65"
+        }
+    ],
+    "tag": "人物传记"
+}

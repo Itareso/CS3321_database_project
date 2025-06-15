@@ -1,0 +1,69 @@
+{
+    "title": "双生梦",
+    "bookInfo": {
+        "作者": "晓航",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "九志天达",
+        "出版年": "2018-9-1",
+        "页数": "384",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "丛书": "九志天达·科幻志",
+        "ISBN": "9787559422231"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "56.6%",
+        "four_star_rate": "31.2%",
+        "three_star_rate": "8.6%",
+        "two_star_rate": "3.2%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.14元",
+            "link": "https://book.douban.com/link2/?lowest=1889&pre=0&vendor=jingdong&srcpage=subject&price=2114&pos=1&url=https%3A%2F%2Fitem.jd.com%2F32602510803.html&cntvendor=2&srcsubj=30314388&type=bkbuy&subject=30314388"
+        },
+        {
+            "name": "中图网",
+            "price": "18.90元",
+            "link": "https://book.douban.com/link2/?lowest=1889&pre=0&vendor=bookschina&srcpage=subject&price=1889&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7894256.htm&cntvendor=2&srcsubj=30314388&type=bkbuy&subject=30314388"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30314388/",
+    "douban_id": "30314388",
+    "menu": [
+        "",
+        "        双生梦",
+        "        师兄的透镜",
+        "        零落九天",
+        "        有谁为我哭泣",
+        "        飞天",
+        "        重返过去",
+        "        空间",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29857778.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "晓航",
+            "link": "https://book.douban.com/search/%E6%99%93%E8%88%AA"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "九志天达",
+            "link": "https://book.douban.com/producers/121"
+        },
+        {
+            "text": "九志天达·科幻志",
+            "link": "https://book.douban.com/series/28895"
+        }
+    ],
+    "tag": "科幻"
+}

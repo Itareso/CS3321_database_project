@@ -1,0 +1,86 @@
+{
+    "title": "烟霞里",
+    "bookInfo": {
+        "作者": "魏微",
+        "出版社": "人民文学出版社",
+        "出版年": "2022-12",
+        "页数": "635",
+        "定价": "85",
+        "装帧": "精装",
+        "ISBN": "9787020177097"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    魏微全新长篇小说    致敬《喧哗与骚动》《光荣与梦想》心力之作    四十年（1970-2011）记忆绽放，如烟霞    总有一段路，你我曾与她同行    《烟霞里》是作家魏微酝酿多年的长篇小说，它以时间为经线，以主人公田庄的经历为纬线，用编年体的方式，逐年检视和回顾了一个女人繁茂又寂静的匆匆一生。田庄出生于1970年代的一个小山村，然后读书，上班，结婚，生子，直至英年早逝于广州。作为改革开放背景下成长起来的一代人，她的一生，亦与整个国家在这四十多年中的发展变迁同步。改革开放，南巡讲话，市场经济，深圳特区，下海经商，股市风潮，香港回归，一国两制，城市化，农民工，国企改革，下岗工人，再就业…这些从田庄身上漫过去的时代浪潮，也都同时灌入我们每一个人的生活。    由此，田庄个体的生命经由这些体验与她所走过的历史时间和历史事件完全融合为一体，成为一个小小的博物馆，这里面有时代声音的回旋，有人们内心沟壑的纵横，也有各式人物命运的漂泊和浮沉，更有默默见证了所有这一切的街道、建筑和风俗。流淌在《烟霞里》的这一段生活，曾经并且依旧深刻影响我们每一个人。魏微平静又深情地将所有这些滔滔的浪，灌注在田庄的生命历程中，灌注在小说的情节中。于是，小说在吞咽咀嚼这些资源之后，成长为它自己，并且敞开大门，告知它与读者之间的关系：《烟霞里》有你，有我，有我们的来处。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "24.2%",
+        "four_star_rate": "39.5%",
+        "three_star_rate": "28.7%",
+        "two_star_rate": "5.9%",
+        "one_star_rate": "1.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4626922/",
+            "name": "魏微",
+            "role": "作者",
+            "douban_id": "4626922"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "51.00元",
+            "link": "https://read.douban.com/ebook/419108693/?dcs=subject-buylink&dcm=douban&dct=36196232"
+        },
+        {
+            "name": "得到",
+            "price": "51.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=ZykJDGjQ7AOLNa642rbP8dkEgemKDwdznoWXoVRjpBxl95MJzqvYGynZ18MEl5Bo&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=4800&pre=0&vendor=jingdong&srcpage=subject&price=4800&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwUGXFxVCkoRB18IGloSVAALUFZeCkkRAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmgBHVIRVQUAVlheFxJSXzI4aCVGL0cHCxs-XkxwQwgNRlsVNFpXNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsWWwEGUlleOEkXAm4NG1MSXgcyVFhYCUgWBGoPGVoTWzYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRXF5eAE0VbTMOTB5eG15bOl5cDk0SAGsIK1kUXAQAZG5tQAh3aGdoEwdTGXJDVg1bfkxHRQthTRBvMwRUDSAeXyB1Xil4fwIWWFBmUm5eOA&cntvendor=5&srcsubj=36196232&type=bkbuy&subject=36196232"
+        },
+        {
+            "name": "当当网",
+            "price": "85.00元",
+            "link": "https://book.douban.com/link2/?lowest=4800&pre=0&vendor=dangdang&srcpage=subject&price=8500&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36196232%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29502682&cntvendor=5&srcsubj=36196232&type=bkbuy&subject=36196232"
+        },
+        {
+            "name": "中图网",
+            "price": "56.30元",
+            "link": "https://book.douban.com/link2/?lowest=4800&pre=0&vendor=bookschina&srcpage=subject&price=5630&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8998325.htm&cntvendor=5&srcsubj=36196232&type=bkbuy&subject=36196232"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36196232/",
+    "douban_id": "36196232",
+    "menu": [
+        "",
+        "        前 序 001",
+        "        卷 一 001",
+        "        李庄与江城（1970年—1979年）",
+        "        卷 二 143",
+        "        清浦（1980年—1989年）",
+        "        卷 三 289",
+        "        江城（1990年—1994年）",
+        "        卷 四 357",
+        "        广州（1995年—2008年）",
+        "        卷 五 571",
+        "        广州、清浦与李庄（2009年—2011年）",
+        "        终 章 630",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34391069.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "魏微",
+            "link": "https://book.douban.com/author/4626922"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        }
+    ],
+    "tag": "中国文学"
+}

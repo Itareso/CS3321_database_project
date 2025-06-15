@@ -1,0 +1,154 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "老舍评传（增补本）",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33618821.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/30419815/",
+                        "year": "2019",
+                        "id": 30419815
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "旗人老舍的文化解析",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33570606.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34936850/",
+                        "year": "2019",
+                        "id": 34936850
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "爱听老舍：名家朗读珍藏版(含MP3光盘)",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33520176.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34868463/",
+                        "year": "2019",
+                        "id": 34868463
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "我是满族人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29132309.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26907218/",
+                        "year": "2016",
+                        "id": 26907218
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "满族书面文学流变",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28331677.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26654000/",
+                        "year": "2015",
+                        "id": 26654000
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "满族小说与中华文化",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27263825.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/25870314/",
+                        "year": "2014",
+                        "id": 25870314
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "多元背景下的一种阅读",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27263789.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/25795757/",
+                        "year": "2013",
+                        "id": 25795757
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "花甲自寿文札",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29703571.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30156865/",
+                        "year": "2009",
+                        "id": 30156865
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "世纪之初读老舍",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s6872362.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/2289542/",
+                        "year": "2007",
+                        "id": 2289542
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "20世纪中华各民族文学关系研究",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s10469758.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1818889/",
+                        "year": "2006",
+                        "id": 1818889
+                    }
+                }
+            ],
+            "total": 26
+        }
+    },
+    "author_link": "https://book.douban.com/author/286817/",
+    "author_douban_id": "286817",
+    "personage_id": 30124620,
+    "name": [
+        "关纪新",
+        "Jixin Guan"
+    ],
+    "intro": "关纪新（1949.12.3~ ），满族，讷殷瓜尔佳氏，生于吉林省吉林市，籍贯吉林伊通，远籍黑龙江宁安。中共党员。诗人，文学批评家。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/img/author/medium/public/1492163409.7.jpg",
+    "更多外文名": "暂无",
+    "sex": 1,
+    "birth_date": 1949,
+    "age": 77,
+    "birth_place": [
+        "中国",
+        "吉林",
+        "吉林"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

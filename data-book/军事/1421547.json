@@ -1,0 +1,59 @@
+{
+    "title": "猎杀“红十月”号",
+    "bookInfo": {
+        "作者": "汤姆·克兰西",
+        "出版社": "上海译文出版社",
+        "原作名": "The Hunt for Red October",
+        "译者": "张召忠 / 方宝定",
+        "出版年": "2005-7",
+        "页数": "379",
+        "定价": "30.00元",
+        "装帧": "平装",
+        "丛书": "汤姆·克兰西军事系列",
+        "ISBN": "9787532736973"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.2%",
+        "four_star_rate": "43.6%",
+        "three_star_rate": "16.0%",
+        "two_star_rate": "1.9%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/136950/",
+            "name": "汤姆·克兰西",
+            "role": "作者",
+            "douban_id": "136950"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1421547/",
+    "douban_id": "1421547",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s1434248.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "汤姆·克兰西",
+            "link": "https://book.douban.com/author/136950"
+        },
+        {
+            "text": "上海译文出版社",
+            "link": "https://book.douban.com/press/2582"
+        },
+        {
+            "text": "张召忠",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E5%8F%AC%E5%BF%A0"
+        },
+        {
+            "text": "方宝定",
+            "link": "https://book.douban.com/search/%E6%96%B9%E5%AE%9D%E5%AE%9A"
+        },
+        {
+            "text": "汤姆·克兰西军事系列",
+            "link": "https://book.douban.com/series/9109"
+        }
+    ],
+    "tag": "军事"
+}

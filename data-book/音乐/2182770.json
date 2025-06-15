@@ -1,0 +1,42 @@
+{
+    "title": "贝司圣经",
+    "bookInfo": {
+        "作者": "维斯特五德",
+        "出版社": "吉林出版集团",
+        "出版年": "2005-9",
+        "页数": "283",
+        "定价": "42.00元",
+        "ISBN": "9787807205029"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "63.3%",
+        "four_star_rate": "31.7%",
+        "three_star_rate": "5.0%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.60元",
+            "link": "https://book.douban.com/link2/?lowest=3160&pre=0&vendor=jingdong&srcpage=subject&price=3160&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10242666.html&cntvendor=1&srcsubj=2182770&type=bkbuy&subject=2182770"
+        }
+    ],
+    "url": "https://book.douban.com/subject/2182770/",
+    "douban_id": "2182770",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s2748848.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "维斯特五德",
+            "link": "https://book.douban.com/search/%E7%BB%B4%E6%96%AF%E7%89%B9%E4%BA%94%E5%BE%B7"
+        },
+        {
+            "text": "吉林出版集团",
+            "link": "https://book.douban.com/press/2881"
+        }
+    ],
+    "tag": "音乐"
+}

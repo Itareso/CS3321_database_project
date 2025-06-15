@@ -1,0 +1,153 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "征旅",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34517797.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36388173/",
+                        "year": "2023",
+                        "id": 36388173
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "奥登诗集",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34638561.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36425075/",
+                        "year": "2023",
+                        "id": 36425075
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "铃铛仙童",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34524845.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36400098/",
+                        "year": "2023",
+                        "id": 36400098
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "唐诗洛阳记",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34229632.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35913441/",
+                        "year": "2022",
+                        "id": 35913441
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "唐诗洛阳记",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34229631.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35913440/",
+                        "year": "2022",
+                        "id": 35913440
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "巴黎评论·作家访谈4",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s32259459.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27110806/",
+                        "year": "2019",
+                        "id": 27110806
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "双城记",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33496997.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34834120/",
+                        "year": "2019",
+                        "id": 34834120
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "降魔变",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33305500.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30277472/",
+                        "year": "2019",
+                        "id": 30277472
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "某晚当我外出散步",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29881023.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/28353347/",
+                        "year": "2018",
+                        "id": 28353347
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "奥登诗选：1948-1973",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s28375771.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26642036/",
+                        "year": "2016",
+                        "id": 26642036
+                    }
+                }
+            ],
+            "total": 15
+        }
+    },
+    "author_link": "https://book.douban.com/author/527141/",
+    "author_douban_id": "527141",
+    "personage_id": 30117320,
+    "name": [
+        "马鸣谦",
+        "Mingqian Ma"
+    ],
+    "intro": "马鸣谦，1970年出生于苏州，作家、译者、历史及佛学研究者。著有“佛教三部曲”：《降魔变》《隐僧》《无门诀》。此外，马鸣谦还专注于奥登（Wystan Hugh Auden）文集的翻译工作，已出版《战地纪行》《奥登诗选1927—1947》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/1511527281.24.jpg",
+    "sex": 1,
+    "birth_date": 1970,
+    "age": 56,
+    "birth_place": [
+        "中国",
+        "江苏",
+        "苏州"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

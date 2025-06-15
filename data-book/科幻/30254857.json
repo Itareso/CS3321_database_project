@@ -1,0 +1,70 @@
+{
+    "title": "异乡人",
+    "bookInfo": {
+        "作者": "E伯爵",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "出版年": "2018-7",
+        "页数": "560",
+        "定价": "58.00元",
+        "装帧": "平装",
+        "丛书": "科幻世界·中国科幻基石丛书",
+        "ISBN": "9787536491090"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.5%",
+        "four_star_rate": "46.5%",
+        "three_star_rate": "29.4%",
+        "two_star_rate": "6.5%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/167777/",
+            "name": "E伯爵",
+            "role": "作者",
+            "douban_id": "167777"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.90元",
+            "link": "https://read.douban.com/ebook/58403921/?dcs=subject-buylink&dcm=douban&dct=30254857"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.00元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=jingdong&srcpage=subject&price=2900&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF4VWAMHXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOKSsLdEgSegZuWTpALUVJKy0bSEtxVRBQdVlpHVJ3MyIkTS0UABJ9awF3BBFCWCokcCJgYBhIbDJPBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZgThldfR12ZAp1T153LgZrVURDDApnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFdaC0gfB244G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRA1wzVE1BA2ZTHgl7XQYFXFlYDkMnAW4JGVklbTZ_IQghC05uaglKeg5lHk19JxgdCC1BfDdmGSdVCXNlKCcYbkgUfhp4QTlMbQUy&cntvendor=3&srcsubj=30254857&type=bkbuy&subject=30254857"
+        },
+        {
+            "name": "当当网",
+            "price": "58.00元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=dangdang&srcpage=subject&price=5800&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30254857%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25328702&cntvendor=3&srcsubj=30254857&type=bkbuy&subject=30254857"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30254857/",
+    "douban_id": "30254857",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29799598.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "E伯爵",
+            "link": "https://book.douban.com/author/167777"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "科幻世界·中国科幻基石丛书",
+            "link": "https://book.douban.com/series/38"
+        }
+    ],
+    "tag": "科幻"
+}

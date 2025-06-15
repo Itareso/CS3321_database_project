@@ -1,0 +1,76 @@
+{
+    "title": "谷子书店",
+    "bookInfo": {
+        "作者": "碧珊",
+        "出版社": "四川人民出版社",
+        "原作名": "The last 24 hours in a bookstore",
+        "出版年": "2019-11",
+        "页数": "384",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "ISBN": "9787220114694"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "40.6%",
+        "four_star_rate": "37.4%",
+        "three_star_rate": "14.8%",
+        "two_star_rate": "5.9%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.10元",
+            "link": "https://book.douban.com/link2/?lowest=2610&pre=0&vendor=jingdong&srcpage=subject&price=2610&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgEGXF1fAUMeCl8IGloQWgULUV1ZDUgeCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoPGFIQXgIHV1dUFxJSXzI4fj9OBUZLAlY-DDFrcTZrRxpuOwcEAlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUVAMDUFxdOEkXAm4NG1MSXgcyVFhYCUgWBGoLGlgcXTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRXVkJD0wfbTMOTB5dFl9HOl5cD0wVAWYLK1kUXAQAZG5tVExWYAtofgtHIWBBXSRZTDJWemd1RFx1MwRfHyxaYChgBT19XgZsLgRnEW5eOA&cntvendor=1&srcsubj=34913832&type=bkbuy&subject=34913832"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34913832/",
+    "douban_id": "34913832",
+    "menu": [
+        "",
+        "        上部/ 001",
+        "        《简·爱》/ 003",
+        "        《芙蓉镇》/ 012",
+        "        《白鹿原》/ 026",
+        "        《飞鸟集》/ 037",
+        "        《百年孤独》/ 048",
+        "        《艺伎回忆录》/ 068",
+        "        《根》/ 081",
+        "        《小王子》/ 103",
+        "        中部/ 125",
+        "        《红楼梦》/ 127",
+        "        《月亮和六便士》/ 137",
+        "        《查泰莱夫人的情人》/ 152",
+        "        《悲惨世界》/ 159",
+        "        《微物之神》/ 173",
+        "        《苏菲的世界》/ 192",
+        "        《神曲》/ 210",
+        "        《解密》/ 226",
+        "        《荆棘鸟》/ 244",
+        "        下部/ 273",
+        "        《麦田里的守望者》/ 275",
+        "        《朗读者》/ 296",
+        "        《城南旧事》/ 300",
+        "        《铁皮鼓》/ 311",
+        "        《怪谈·奇谭》/ 317",
+        "        《追忆似水年华》/ 339",
+        "        《乞力马扎罗的雪》/ 356",
+        "        《情人》/ 367",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33557880.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "碧珊",
+            "link": "https://book.douban.com/search/%E7%A2%A7%E7%8F%8A"
+        },
+        {
+            "text": "四川人民出版社",
+            "link": "https://book.douban.com/press/2449"
+        }
+    ],
+    "tag": "中国文学"
+}

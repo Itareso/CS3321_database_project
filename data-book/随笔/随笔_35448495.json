@@ -1,0 +1,96 @@
+{
+    "title": "世间的小儿女",
+    "bookInfo": {
+        "作者": "陈慧",
+        "出版社": "宁波出版社",
+        "出版年": "2021-4",
+        "页数": "284",
+        "定价": "56",
+        "装帧": "平装",
+        "ISBN": "9787552641660"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "31.8%",
+        "four_star_rate": "51.8%",
+        "three_star_rate": "15.0%",
+        "two_star_rate": "1.1%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4627825/",
+            "name": "陈慧",
+            "role": "作者",
+            "douban_id": "4627825"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "44.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=ORa2P4NNLqmQPG2178z5gvkDndlOxWyYbybWajK6BEVXYRrJpA9M4oybeZpqAKQg&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "28.00元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=jingdong&srcpage=subject&price=2800&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVgXXgUAXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOJig6Di93QBZAexNsP0QDKFY1DxxsXCpadVljJEF0Blg6TQNcSB1-WQVmORFCWCokdChgSjpKbwRDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ5MyYZc090XwxrQ1hiJGRnHxoLdSlRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxVCE4TBmc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWFIDVg4zVE1AQTZYGwZ7XQcEV1ldAUknAW4JGVklbTZwIjlbbCtUeidoUyJ3Hwd-XDZaXzBIRj1mGS1sGnBQUjkYQABccRlKRShxbQUy&cntvendor=4&srcsubj=35448495&type=bkbuy&subject=35448495"
+        },
+        {
+            "name": "当当网",
+            "price": "48.20元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=dangdang&srcpage=subject&price=4820&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35448495%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29254089&cntvendor=4&srcsubj=35448495&type=bkbuy&subject=35448495"
+        },
+        {
+            "name": "中图网",
+            "price": "32.90元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=bookschina&srcpage=subject&price=3290&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8585543.htm&cntvendor=4&srcsubj=35448495&type=bkbuy&subject=35448495"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35448495/",
+    "douban_id": "35448495",
+    "menu": [
+        "",
+        "        目 录",
+        "        001 毛永宽先生",
+        "        012 寿二爷",
+        "        017 养 母",
+        "        035 大院里的阳光",
+        "        047 第一个给我书看的人",
+        "        059 姨奶奶",
+        "        072 戒 烟",
+        "        087 二 胡",
+        "        100 养 父",
+        "        114 青春痘",
+        "        127 万年青",
+        "        140 七 巧",
+        "        151 私 奔",
+        "        160 姚木匠",
+        "        178 大岚痴神",
+        "        187 宋家阿公",
+        "        202 黄芽头",
+        "        207 棉田里的男孩",
+        "        212 章 越",
+        "        220 十六响",
+        "        227 一个和三个",
+        "        237 戆 头",
+        "        253 卖笋的老人",
+        "        257 父与女",
+        "        268 昌铜匠",
+        "        274 陶 姨",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33885626.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "陈慧",
+            "link": "https://book.douban.com/author/4627825"
+        },
+        {
+            "text": "宁波出版社",
+            "link": "https://book.douban.com/press/2410"
+        }
+    ],
+    "tag": "随笔"
+}

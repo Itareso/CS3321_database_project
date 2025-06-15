@@ -1,0 +1,145 @@
+{
+    "title": "万物有灵",
+    "bookInfo": {
+        "作者": "贾平凹",
+        "出版社": "长江文艺出版社",
+        "出品方": "时代华语国际",
+        "出版年": "2019-11",
+        "页数": "296",
+        "定价": "45.00",
+        "装帧": "平装",
+        "丛书": "贾平凹作品系列",
+        "ISBN": "9787570212552"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.9%",
+        "four_star_rate": "43.6%",
+        "three_star_rate": "17.8%",
+        "two_star_rate": "3.4%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4505931/",
+            "name": "贾平凹",
+            "role": "作者",
+            "douban_id": "4505931"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "13.50元",
+            "link": "https://www.dedao.cn/eBook/Lk89Yv4kyM12eaG795DmKAponOvLVWvJ8AWZzdbYxN84JQR6XgEqBPljrbpzARlB?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "22.00元",
+            "link": "https://book.douban.com/link2/?lowest=2200&pre=0&vendor=jingdong&srcpage=subject&price=2200&pos=2&url=https%3A%2F%2Fitem.jd.com%2F13041382.html&cntvendor=4&srcsubj=34882254&type=bkbuy&subject=34882254"
+        },
+        {
+            "name": "当当网",
+            "price": "46.10元",
+            "link": "https://book.douban.com/link2/?lowest=2200&pre=0&vendor=dangdang&srcpage=subject&price=4610&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34882254%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29551848&cntvendor=4&srcsubj=34882254&type=bkbuy&subject=34882254"
+        },
+        {
+            "name": "中图网",
+            "price": "26.00元",
+            "link": "https://book.douban.com/link2/?lowest=2200&pre=0&vendor=bookschina&srcpage=subject&price=2600&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9065117.htm&cntvendor=4&srcsubj=34882254&type=bkbuy&subject=34882254"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34882254/",
+    "douban_id": "34882254",
+    "menu": [
+        "",
+        "        0 0 1 一棵小桃树",
+        "        0 0 6 天上的星星",
+        "        0 1 0 云雀",
+        "        0 1 4 落叶",
+        "        0 1 6 燕子",
+        "        0 1 9 观沙砾记",
+        "        0 2 1 池塘",
+        "        0 2 4 鸟窠",
+        "        0 2 9 一只贝",
+        "        0 3 1 木耳",
+        "        0 3 5 龙柏树",
+        "        0 3 7 对月",
+        "        0 4 0 泉",
+        "        0 4 5 黄陵柏",
+        "        0 4 9 月迹",
+        "        0 5 3 静虚村记",
+        "        0 5 8 冬景",
+        "        0 6 2 灵山寺",
+        "        0 6 7 通渭人家",
+        "        0 7 5 地下动物园",
+        "        0 7 8 入川小记",
+        "        0 8 4 游笔架山",
+        "        0 8 7 夏河的早晨",
+        "        0 9 0 夜在云观台",
+        "        0 9 5 丑石",
+        "        0 9 8 冬花",
+        "        1 0 3 品茶",
+        "        1 0 8 访梅",
+        "        1 1 2 观菊",
+        "        1 1 3 说棣花",
+        "        1 2 5 风景",
+        "        1 2 9 弦",
+        "        1 3 3 茶事",
+        "        1 4 0 古土罐",
+        "        1 4 3 祭父",
+        "        1 5 5 写给母亲",
+        "        1 5 8 人病",
+        "        1 6 6 我不是个好儿子",
+        "        1 7 3 六十岁后观我记",
+        "        1 7 6 女儿婚事上的讲话",
+        "        1 7 8 读书示小妹十八生日书",
+        "        1 8 2 笑口常开",
+        "        1 8 7 好读书",
+        "        1 9 0 门",
+        "        1 9 4 我有一个狮子军",
+        "        1 9 8 朋友",
+        "        2 0 2 吃面",
+        "        2 0 4 五味巷",
+        "        2 1 0 六棵树",
+        "        2 2 1 条子沟",
+        "        2 2 9 老人和鸟儿",
+        "        2 3 3 十字街菜市",
+        "        2 3 9 人家",
+        "        2 4 3 孤独地走向未来",
+        "        2 4 5 生活一种——答友人书",
+        "        2 4 7 关于父子",
+        "        2 5 3 关于树",
+        "        2 5 5 说花钱",
+        "        2 5 9 说死",
+        "        2 6 4 说孩子",
+        "        2 6 8 说家庭",
+        "        2 7 2 敲门",
+        "        2 7 5 大洼地一夜",
+        "        2 7 8 白夜",
+        "        2 8 2 地平线",
+        "        2 8 4 太阳路",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33515863.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "贾平凹",
+            "link": "https://book.douban.com/search/%E8%B4%BE%E5%B9%B3%E5%87%B9"
+        },
+        {
+            "text": "长江文艺出版社",
+            "link": "https://book.douban.com/press/2807"
+        },
+        {
+            "text": "时代华语国际",
+            "link": "https://book.douban.com/producers/65"
+        },
+        {
+            "text": "贾平凹作品系列",
+            "link": "https://book.douban.com/series/35443"
+        }
+    ],
+    "tag": "随笔"
+}

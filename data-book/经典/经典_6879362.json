@@ -1,0 +1,101 @@
+{
+    "title": "商君书",
+    "bookInfo": {
+        "作者": "商鞅",
+        "出版社": "中华书局",
+        "译者": "石磊 译注",
+        "出版年": "2022-12-30",
+        "页数": "196",
+        "定价": "14.00元",
+        "装帧": "精装",
+        "丛书": "中华经典名著全本全注全译丛书",
+        "ISBN": "9787101081992"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "53.0%",
+        "four_star_rate": "30.9%",
+        "three_star_rate": "9.5%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "4.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4615810/",
+            "name": "商鞅",
+            "role": "作者",
+            "douban_id": "4615810"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "9.90元",
+            "link": "https://www.dedao.cn/ebook/detail?id=jbPz5VvneQEmdz9Gl2qMDkY4B6x7PWPBVVwXoJLvryOK1Z8NRajbVgAp5OmY2QX7&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "16.30元",
+            "link": "https://book.douban.com/link2/?lowest=1300&pre=0&vendor=jingdong&srcpage=subject&price=1630&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVwXXwEEXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1xfD00eHDZNRwYlLUN5AxVeEhN0GQ1JSzx3XFh0C1o4TkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UXgcHVlhbCUIWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsXXAdsCFgKSggQS2dmG1oSXgICV1dtCkoWAW04K2tTBXBaMz4KTQtDVhtfRjh-GANUAxgYfAl5AT9KEgN9BQVAFCYlThNwZGYOK1gl&cntvendor=3&srcsubj=6879362&type=bkbuy&subject=6879362"
+        },
+        {
+            "name": "中图网",
+            "price": "13.00元",
+            "link": "https://book.douban.com/link2/?lowest=1300&pre=0&vendor=bookschina&srcpage=subject&price=1300&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7797819.htm&cntvendor=3&srcsubj=6879362&type=bkbuy&subject=6879362"
+        }
+    ],
+    "url": "https://book.douban.com/subject/6879362/",
+    "douban_id": "6879362",
+    "menu": [
+        "",
+        "        前言",
+        "        更法第一",
+        "        垦令第二",
+        "        农战第三",
+        "        去强第四",
+        "        说民第五",
+        "        算地第六",
+        "        开塞第七",
+        "        壹言第八",
+        "        错法第九",
+        "        战法第十",
+        "        立本第十",
+        "        兵守第十二",
+        "        靳令第十三",
+        "        修权第十四",
+        "        徕民第十五",
+        "        刑约第十六（佚）",
+        "        赏刑第十七",
+        "        画策第十八",
+        "        境内第十九",
+        "        弱民第二十",
+        "        御盗第二十一（佚）",
+        "        外内第二十二",
+        "        君臣第二十三",
+        "        禁使第二十四",
+        "        慎法第二十五",
+        "        定分第二十六",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33591231.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "商鞅",
+            "link": "https://book.douban.com/author/4615810/"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "石磊 译注",
+            "link": "https://book.douban.com/search/%E7%9F%B3%E7%A3%8A%20%E8%AF%91%E6%B3%A8"
+        },
+        {
+            "text": "中华经典名著全本全注全译丛书",
+            "link": "https://book.douban.com/series/4103"
+        }
+    ],
+    "tag": "经典"
+}

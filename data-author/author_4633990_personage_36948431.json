@@ -1,0 +1,144 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.3,
+                        "title": "未曾遗忘",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34691165.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/36614102/",
+                        "year": "2023",
+                        "id": 36614102
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.0,
+                        "title": "推理演绎法",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33866535.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/35283391/",
+                        "year": "2021",
+                        "id": 35283391
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "犯罪心理档案：凝渊者",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33779899.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35019558/",
+                        "year": "2020",
+                        "id": 35019558
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "犯罪心理档案：囚心者",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33779902.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34996370/",
+                        "year": "2020",
+                        "id": 34996370
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.4,
+                        "title": "犯罪心理档案：逐暗者",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33810837.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/35031400/",
+                        "year": "2020",
+                        "id": 35031400
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "犯罪心理档案第五季",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s32330714.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33461553/",
+                        "year": "2019",
+                        "id": 33461553
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.3,
+                        "title": "罪念",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s30387747.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/31471968/",
+                        "year": "2019",
+                        "id": 31471968
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "犯罪心理档案第四季",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29468877.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27060992/",
+                        "year": "2017",
+                        "id": 27060992
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "犯罪心理档案第三季",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27927169.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26276866/",
+                        "year": "2014",
+                        "id": 26276866
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "犯罪心理档案",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s26545058.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/24696830/",
+                        "year": "2013",
+                        "id": 24696830
+                    }
+                }
+            ],
+            "total": 12
+        }
+    },
+    "author_link": "https://book.douban.com/author/4633990/",
+    "author_douban_id": "4633990",
+    "personage_id": 36948431,
+    "name": [
+        "刚雪印",
+        "Xueyin Gang"
+    ],
+    "intro": "刚雪印，辽宁省大连市人。医学院毕业，迷恋与悬疑推理有关的一切事物。多年来，结合自身医学常识，一直坚持创作与犯罪心理学相关的罪案小说。代表作《犯罪心理档案》系列曾在天涯论坛连载，于2016年10月被翻译成英文出版。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "profession": [
+        "作者"
+    ]
+}

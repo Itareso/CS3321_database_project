@@ -1,0 +1,153 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "我认识的唐朝诗人2",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34950441.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36964268/",
+                        "year": "2024",
+                        "id": 36964268
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "我认识的唐朝诗人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34464108.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36218561/",
+                        "year": "2023",
+                        "id": 36218561
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "出入高下穷烟霏",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34227473.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35773355/",
+                        "year": "2022",
+                        "id": 35773355
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "唐人佚诗解读",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34976141.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35218415/",
+                        "year": "2021",
+                        "id": 35218415
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "长恨歌图",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33646690.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34912578/",
+                        "year": "2020",
+                        "id": 34912578
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "水流花开",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33654410.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34922085/",
+                        "year": "2020",
+                        "id": 34922085
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "濠上漫与",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33443611.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34648437/",
+                        "year": "2019",
+                        "id": 34648437
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "宋元笔记述要",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33447775.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34468198/",
+                        "year": "2019",
+                        "id": 34468198
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "花舞大唐气象新",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s32301331.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/33394800/",
+                        "year": "2019",
+                        "id": 33394800
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "蛾术薪传",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s32290506.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/33384272/",
+                        "year": "2019",
+                        "id": 33384272
+                    }
+                }
+            ],
+            "total": 38
+        }
+    },
+    "author_link": "https://book.douban.com/author/4609396/",
+    "author_douban_id": "4609396",
+    "personage_id": 35134083,
+    "name": [
+        "陈尚君",
+        "Shangjun Chen"
+    ],
+    "intro": "陈尚君，浙江慈溪人，1952年6月15日生于江苏南通，复旦大学中国语言文学系教授、博士生导师，文科资深教授。现任复旦大学中国古典文学研究中心主任、任重书院院长、唐代文学学会会长。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/b6706f5cb5e52769c49f4149abd1a299.jpg",
+    "sex": 1,
+    "birth_date": 1952,
+    "age": 74,
+    "birth_place": [
+        "中国",
+        "江苏",
+        "南通"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

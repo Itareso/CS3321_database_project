@@ -1,0 +1,164 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "守夜",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35079466.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/37014961/",
+                        "year": "2025",
+                        "id": 37014961
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "青燈",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35077687.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/36845900/",
+                        "year": "2024",
+                        "id": 36845900
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "藍房子",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35077694.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/36845898/",
+                        "year": "2024",
+                        "id": 36845898
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "午夜之門",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35081316.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/37228487/",
+                        "year": "2024",
+                        "id": 37228487
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "波動",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35081318.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/36845899/",
+                        "year": "2024",
+                        "id": 36845899
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "古老的敌意",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35077690.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/37122487/",
+                        "year": "2024",
+                        "id": 37122487
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "在天涯",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35047932.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/37122486/",
+                        "year": "2024",
+                        "id": 37122486
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 4.0,
+                        "rating_num": 7.5,
+                        "title": "母语的边界",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34967873.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/37021264/",
+                        "year": "2024",
+                        "id": 37021264
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "七十年代 讀本",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35055427.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/36987783/",
+                        "year": "2024",
+                        "id": 36987783
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "BM 第2期",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s35011531.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/37122448/",
+                        "year": "2024",
+                        "id": 37122448
+                    }
+                }
+            ],
+            "total": 64
+        }
+    },
+    "author_link": "https://book.douban.com/author/4541662/",
+    "author_douban_id": "4541662",
+    "personage_id": 27564221,
+    "name": [
+        "北岛",
+        "Dao Bei"
+    ],
+    "intro": "北岛，原名赵振开，1949年生于北京。做过建筑工人、编辑、自由撰稿人。1978年在北京创办文学杂志《今天》，担任主编至今。自1987年起在欧洲和北美居住并任教。获得多种国际文学奖项及荣誉。作品被译成三十多种文字。现与家人定居香港。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27564221/photo/2904324618",
+        "https://www.douban.com/personage/27564221/photo/2904324617",
+        "https://www.douban.com/personage/27564221/photo/2904324616"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2904324618.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2904324617.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2904324616.webp"
+    ],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/699f71109618861e16b6a3ba20de7af1.jpg",
+    "更多中文名": "赵振开(原名)",
+    "sex": 1,
+    "birth_date": 1949,
+    "age": 77,
+    "birth_place": [
+        "中国",
+        "北京"
+    ],
+    "IMDB": "nm1674454",
+    "profession": [
+        "作者",
+        "译者",
+        "编者",
+        "演员"
+    ]
+}

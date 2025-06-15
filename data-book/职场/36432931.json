@@ -1,0 +1,94 @@
+{
+    "title": "软技能",
+    "bookInfo": {
+        "作者": "刘擎等",
+        "出版社": "新星出版社",
+        "出品方": "得到图书",
+        "出版年": "2023-6-9",
+        "页数": "400",
+        "定价": "69.00元",
+        "装帧": "平装",
+        "ISBN": "9787513351089"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "36.3%",
+        "four_star_rate": "35.1%",
+        "three_star_rate": "22.4%",
+        "two_star_rate": "4.7%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "49.00元",
+            "link": "https://book.douban.com/link2/?lowest=4100&pre=0&vendor=jingdong&srcpage=subject&price=4900&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVMdXgEHUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAXFZeD04SHDZNRwYlXFl8KwcEdx51W2xzaSsdPFxJLT0IXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GVl9UDEgUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNSQ5HW1RsCFgHVQNQAWZmGFMcXAMEUl9tCkoWAW04K2tzXVBKXD4dTDlsdTdPSRtUNk1UIVpcaEh5AR9qQ1trFWdjJgcEbktESAZNK1gl&cntvendor=3&srcsubj=36432931&type=bkbuy&subject=36432931"
+        },
+        {
+            "name": "当当网",
+            "price": "49.00元",
+            "link": "https://book.douban.com/link2/?lowest=4100&pre=0&vendor=dangdang&srcpage=subject&price=4900&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36432931%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29583905&cntvendor=3&srcsubj=36432931&type=bkbuy&subject=36432931"
+        },
+        {
+            "name": "中图网",
+            "price": "41.00元",
+            "link": "https://book.douban.com/link2/?lowest=4100&pre=0&vendor=bookschina&srcpage=subject&price=4100&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9161148.htm&cntvendor=3&srcsubj=36432931&type=bkbuy&subject=36432931"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36432931/",
+    "douban_id": "36432931",
+    "menu": [
+        "",
+        "        前言  罗振宇",
+        "        使用说明书  脱不花",
+        "        第一封信：如何成为大人物  万维钢",
+        "        第二封信：高效能人士做对了什么  吴军",
+        "        第三封信：你必须独特稀有，才能对抗规模化  香帅",
+        "        第四封信：做主人、门徒和辩友  施展",
+        "        第五封信：问出傻问题，真知自然来  薛兆丰",
+        "        第六封信：为什么每个人都要懂点大趋势  何帆",
+        "        第七封信：用概率思维提高你的胜算  老喻",
+        "        第八封信：如何对付自己的心魔  宁向东",
+        "        第九封信：万般皆可“说明书”  李笑来",
+        "        第十封信：像作家一样观察  贾行家",
+        "        第十一封信：有对象感，才能写出对话感  刘润",
+        "        第十二封信：阅读从哪里开始  和菜头",
+        "        第十三封信：自我管理的关键是目标管理  蔡钰",
+        "        第十四封信：玩数据 刘嘉",
+        "        第十五封信：若要改变，先“做实验”  李松蔚",
+        "        第十六封信：领导团队，需要什么软技能  李希贵",
+        "        第十七封信：从事科研，需要什么软技能  王立铭",
+        "        第十八封信：在体制内工作，需要什么软技能  熊太行",
+        "        第十九封信：如何做一个有趣的理科生  李铁夫",
+        "        第二十封信：马歇尔将军教给我们的  徐弃郁",
+        "        第二十一封信：法律人有什么不一样  刘晗",
+        "        第二十二封信：下一代需要什么软技能  沈祖芸",
+        "        第二十三封信：老鸟怎么跟新手打交道  刘擎",
+        "        第二十四封信：把饭局作为修行  傅骏",
+        "        第二十五封信：把别人工作的时间用来喝咖啡  东东枪",
+        "        第二十六封信：没有权力，怎么施展领导力  汤君健",
+        "        第二十七封信：社恐不是你的错  王烁",
+        "        第二十八封信：如何收获高质量的亲密关系  陈海贤",
+        "        第二十九封信：成年人需要什么样的友谊  戴愫",
+        "        第三十封信：如何建设有意义的人际关系  梁宁",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34654247.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘擎等",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%93%8E%E7%AD%89"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "得到图书",
+            "link": "https://book.douban.com/producers/131"
+        }
+    ],
+    "tag": "职场"
+}

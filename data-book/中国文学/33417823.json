@@ -1,0 +1,84 @@
+{
+    "title": "水浒白看",
+    "bookInfo": {
+        "作者": "王路",
+        "出版社": "海天出版社",
+        "出版年": "2019-5",
+        "页数": "304",
+        "定价": "45元",
+        "装帧": "平装",
+        "ISBN": "9787550726093"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "40.1%",
+        "four_star_rate": "40.9%",
+        "three_star_rate": "16.8%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614846/",
+            "name": "王路",
+            "role": "作者",
+            "douban_id": "4614846"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "20.00元",
+            "link": "https://book.douban.com/link2/?lowest=2000&pre=0&vendor=jingdong&srcpage=subject&price=2000&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwMAU1ldCEwQBV8IGloTVAYLVFpeDU8fB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkBG1IVWQUHUFZZFxJSXzI4QT5LOHBkAR44fj1JWAZseQFoIAd9ElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXWA8BXFhfOEkXAm4NG1McVAQyVFhYCUgWBm4JHlwXXTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlxdDUwTbTMOTBlOW1xaOl5cDEMUA2sAK1kUXAQAZG5tfjBeSBFXfSVlLXVWFlheVxdEaxFtSCVJMwRwMyUmVABNfR9IEjNJIn5VJG5eOA&cntvendor=2&srcsubj=33417823&type=bkbuy&subject=33417823"
+        },
+        {
+            "name": "当当网",
+            "price": "38.70元",
+            "link": "https://book.douban.com/link2/?lowest=2000&pre=0&vendor=dangdang&srcpage=subject&price=3870&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s33417823%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27856058&cntvendor=2&srcsubj=33417823&type=bkbuy&subject=33417823"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33417823/",
+    "douban_id": "33417823",
+    "menu": [
+        "",
+        "        自序",
+        "        卷一 山林",
+        "        武松之慧，林冲之愚",
+        "        石秀之恶",
+        "        李忠之厚",
+        "        鲁智深之俗",
+        "        李鬼之妻",
+        "        李逵之孝",
+        "        卢俊义之妻",
+        "        吴用之死",
+        "        卷二 市井",
+        "        潘金莲之失（上）",
+        "        潘金莲之失（中）",
+        "        潘金莲之失（下）",
+        "        武大郎之哀（上）",
+        "        武大郎之哀（中）",
+        "        武大郎之哀（下）",
+        "        郓哥之佞",
+        "        扈三娘之色",
+        "        李师师之想",
+        "        宋江之志，李逵之怨",
+        "        卷三 渔樵",
+        "        武松纯粹在哪里",
+        "        长夜无酒金圣叹",
+        "        水浒该从何说起",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s32301647.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "王路",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E8%B7%AF"
+        },
+        {
+            "text": "海天出版社",
+            "link": "https://book.douban.com/press/2597"
+        }
+    ],
+    "tag": "中国文学"
+}

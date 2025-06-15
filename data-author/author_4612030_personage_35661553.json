@@ -1,0 +1,90 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "晚春",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34515983.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36389993/",
+                        "year": "2023",
+                        "id": 36389993
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "山顶上是海",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34418561.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36251361/",
+                        "year": "2023",
+                        "id": 36251361
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "俄罗斯套娃",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34039686.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35650448/",
+                        "year": "2021",
+                        "id": 35650448
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "近似无止境的徒步",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34945517.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30660332/",
+                        "year": "2017",
+                        "id": 30660332
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "离魂记",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s26642751.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/24720292/",
+                        "year": "2013",
+                        "id": 24720292
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4612030/",
+    "author_douban_id": "4612030",
+    "personage_id": 35661553,
+    "name": [
+        "三三",
+        "Three three"
+    ],
+    "intro": "三三，一九九一年出生，毕业于中国人民大学创造性写作专业。作品发表于《收获》《人民文学》等多家刊物，多有选载。曾获2020年“钟山之星”年度青年佳作奖、2021年度青花郎•人民文学奖新人奖、第七届郁达夫小说奖短篇小说奖、首届《静·安》文学奖、红棉文学奖小说主奖等奖项，入选王蒙青年作家支持计划·年度特选作家（2022—2023）等。著有短篇小说集《晚春》《山顶上是海》《俄罗斯套娃》《离魂记》等四部。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/1e4d6f987eb7c773fe36c9b790700d0a.jpg",
+    "sex": 0,
+    "birth_date": 1991,
+    "age": 35,
+    "birth_place": [
+        "中国上海"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

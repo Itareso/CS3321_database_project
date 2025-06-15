@@ -1,0 +1,54 @@
+{
+    "title": "让营销更性感",
+    "bookInfo": {
+        "作者": "李治",
+        "出版社": "中信出版社",
+        "出版年": "2013-1",
+        "页数": "224",
+        "定价": "38.00元",
+        "ISBN": "9787508637273"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《让营销更性感》内容简介：杜蕾斯大雨鞋套、杜甫很忙、元芳你怎么看、江南Style……在自媒体大爆炸的时代，你的营销还在老套地沿用传统的方式吗？栗子认为：真正的营销不是叫卖，而是“勾引”。在作者看来，消费者在多大程度上迷恋一个品牌，追随它、传播它，定义了一个品牌的性感程度。    作者创造性地将品牌分为四大类：大牌性感明星型、选秀明星型、大家闺秀型、恐龙型。在这四个大类的基础上，作者又从三个维度——共鸣、生活方式以及消费者体验，用杜蕾斯鞋套、《史蒂夫•乔布斯传》、普文二青年等一手素材，结合其他一些成功或失败的案例，图文并茂、亦庄亦谐地叙述了成功的互动营销应该怎么做，个人或机构应该如何打造自身的影响力。    作者以她一贯的风趣文字，一改“营销”这个话题的专业形象，结合自身的营销经验，以风趣幽默的文笔和丰富的案例，告诉读者，在一个日新月异的时代，什么样的产品、怎样的营销，才能让KPI们滚蛋，让消费者围着你high。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "15.8%",
+        "four_star_rate": "40.4%",
+        "three_star_rate": "34.2%",
+        "two_star_rate": "5.3%",
+        "one_star_rate": "4.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/328246/",
+            "name": "李治",
+            "role": "作者",
+            "douban_id": "328246"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.50元",
+            "link": "https://book.douban.com/link2/?lowest=1730&pre=0&vendor=jingdong&srcpage=subject&price=2150&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgcLVVpeCk4TBV8IGloRVAMAVVtYCUkfCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmsBHlkUWAMDVlZUFxJSXzI4QAZ1CHZjIRU4STVpRBJRH0EdGWBHNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwIAVFxcOEkXAm4NG1MSXgcyVFhYCU4fCmsOGFIdWjYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUl1fCh8XbTMOQQRTGEALOlxcC0geAWwAK1kUXAQAZG5tfTZJSA9oZTNBWX9fEVYHchxKcG4PbxlsMwRxK18gVABKUDtMbQlTInpnJG5eOA&cntvendor=2&srcsubj=20476805&type=bkbuy&subject=20476805"
+        },
+        {
+            "name": "中图网",
+            "price": "17.30元",
+            "link": "https://book.douban.com/link2/?lowest=1730&pre=0&vendor=bookschina&srcpage=subject&price=1730&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5751902.htm&cntvendor=2&srcsubj=20476805&type=bkbuy&subject=20476805"
+        }
+    ],
+    "url": "https://book.douban.com/subject/20476805/",
+    "douban_id": "20476805",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s26584506.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李治",
+            "link": "https://book.douban.com/author/328246/"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        }
+    ],
+    "tag": "职场"
+}

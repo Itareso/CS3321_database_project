@@ -1,0 +1,41 @@
+{
+    "title": "精神分析的理论与实践",
+    "bookInfo": {
+        "作者": "张涛",
+        "出版社": "四川大学出版社",
+        "出版年": "2019-12",
+        "ISBN": "9787569032680"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "96.2%",
+        "four_star_rate": "2.3%",
+        "three_star_rate": "0.2%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4621327/",
+            "name": "张涛",
+            "role": "作者",
+            "douban_id": "4621327"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/34942850/",
+    "douban_id": "34942850",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34547203.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张涛",
+            "link": "https://book.douban.com/author/4621327"
+        },
+        {
+            "text": "四川大学出版社",
+            "link": "https://book.douban.com/press/2295"
+        }
+    ],
+    "tag": "随笔"
+}

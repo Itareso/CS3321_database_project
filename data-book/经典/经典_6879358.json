@@ -1,0 +1,93 @@
+{
+    "title": "抱朴子内篇",
+    "bookInfo": {
+        "作者": "张松辉 译注",
+        "出版社": "中华书局",
+        "译者": "张松辉 译注",
+        "出版年": "2022-3-15",
+        "页数": "672",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "丛书": "中华经典名著全本全注全译丛书",
+        "ISBN": "9787101080742"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "52.4%",
+        "four_star_rate": "31.3%",
+        "three_star_rate": "12.2%",
+        "two_star_rate": "2.7%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "27.60元",
+            "link": "https://www.dedao.cn/ebook/detail?id=gO8xJGVarB2qEQoplXvY14JRbVdnz0zq2awjPmyDANKge8O65LG7Mk9xZYk69Zry&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "33.12元",
+            "link": "https://book.douban.com/link2/?lowest=3311&pre=0&vendor=jingdong&srcpage=subject&price=3311&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG18VXQEAUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCUF5dD0kTHDZNRwYlJFQYIiRZa1F0VztsWAN9JGVULiENXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcGUl9cAU4WM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFsRWgdsCFgKTRBNVjtmG1odXAMFU1xtCkoWAW04K2tKX1lhND41ThBScTN2cl5eBVRfBjZdQBF5ASRBUFlvPlhRDygrV0lWVC9NK1gl&cntvendor=4&srcsubj=6879358&type=bkbuy&subject=6879358"
+        },
+        {
+            "name": "当当网",
+            "price": "46.00元",
+            "link": "https://book.douban.com/link2/?lowest=3311&pre=0&vendor=dangdang&srcpage=subject&price=4600&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s6879358%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23528834&cntvendor=4&srcsubj=6879358&type=bkbuy&subject=6879358"
+        },
+        {
+            "name": "中图网",
+            "price": "35.50元",
+            "link": "https://book.douban.com/link2/?lowest=3311&pre=0&vendor=bookschina&srcpage=subject&price=3550&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6657328.htm&cntvendor=4&srcsubj=6879358&type=bkbuy&subject=6879358"
+        }
+    ],
+    "url": "https://book.douban.com/subject/6879358/",
+    "douban_id": "6879358",
+    "menu": [
+        "",
+        "        前言",
+        "        畅玄卷一",
+        "        论仙卷二",
+        "        对俗卷三",
+        "        金丹卷四",
+        "        至理卷五",
+        "        微旨卷六",
+        "        塞难卷七",
+        "        释滞卷八",
+        "        道意卷九",
+        "        明本卷十",
+        "        仙药卷十一",
+        "        辨问卷十二",
+        "        极言卷十三",
+        "        勤求卷十四",
+        "        杂应卷十五",
+        "        黄白卷十六",
+        "        登涉卷十七",
+        "        地真卷十八",
+        "        遐览卷十九",
+        "        祛惑卷二十",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s10317448.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张松辉 译注",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E6%9D%BE%E8%BE%89%20%E8%AF%91%E6%B3%A8"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "张松辉 译注",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E6%9D%BE%E8%BE%89%20%E8%AF%91%E6%B3%A8"
+        },
+        {
+            "text": "中华经典名著全本全注全译丛书",
+            "link": "https://book.douban.com/series/4103"
+        }
+    ],
+    "tag": "经典"
+}

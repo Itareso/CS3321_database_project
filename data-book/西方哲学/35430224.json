@@ -1,0 +1,85 @@
+{
+    "title": "分析哲学导论",
+    "bookInfo": {
+        "作者": "黄敏",
+        "出版社": "商务印书馆",
+        "副标题": "修订版",
+        "出版年": "2021-4-1",
+        "页数": "728",
+        "定价": "95.00元",
+        "装帧": "平装",
+        "ISBN": "9787100195898"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "56.6%",
+        "four_star_rate": "35.3%",
+        "three_star_rate": "5.9%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609145/",
+            "name": "黄敏",
+            "role": "作者",
+            "douban_id": "4609145"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "74.88元",
+            "link": "https://book.douban.com/link2/?lowest=5510&pre=0&vendor=jingdong&srcpage=subject&price=7488&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFIWWQMEUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXV1ZDU0THDZNRwYlFHtjUSkbXRN0WhlAWytJJgNDBjlcaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4AUFhaDE0UM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHg8UWQBsCFgHUgJXQjtmGFMdXgQHVl5tCkoWAW04K2twLVZaND5aYxFfYzx3Zy1UFVhWBj4Hakt5AW9oHCtpBVlYDgoJbTt1QTR2K1gl&cntvendor=3&srcsubj=35430224&type=bkbuy&subject=35430224"
+        },
+        {
+            "name": "当当网",
+            "price": "65.00元",
+            "link": "https://book.douban.com/link2/?lowest=5510&pre=0&vendor=dangdang&srcpage=subject&price=6500&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35430224%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29223753&cntvendor=3&srcsubj=35430224&type=bkbuy&subject=35430224"
+        },
+        {
+            "name": "中图网",
+            "price": "55.10元",
+            "link": "https://book.douban.com/link2/?lowest=5510&pre=0&vendor=bookschina&srcpage=subject&price=5510&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8579900.htm&cntvendor=3&srcsubj=35430224&type=bkbuy&subject=35430224"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35430224/",
+    "douban_id": "35430224",
+    "menu": [
+        "",
+        "        修订版序",
+        "        初版序",
+        "        符号说明",
+        "        第1章 语言学转向",
+        "        第2章 哲学分析的技术基础",
+        "        第3章 古典实用主义",
+        "        第4章 分析哲学的开端：弗雷格",
+        "        第5章 罗素的摹状词理论与构造主义分析",
+        "        第6章 罗素悖论与类型论",
+        "        第7章 维特根斯坦的《逻辑哲学论》",
+        "        第8章 维也纳学派与逻辑经验主义",
+        "        第9章 蒯因：自然化的经验主义",
+        "        第10章 戴维森：语言、世界与心灵",
+        "        第11章 克里普克：专名与模态",
+        "        第12章 维特根斯坦：实践与哲学",
+        "        第13章 日常语言学派",
+        "        第14章 实在论与反实在论",
+        "        参考文献",
+        "        人名索引",
+        "        主题索引",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34640323.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "黄敏",
+            "link": "https://book.douban.com/search/%E9%BB%84%E6%95%8F"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        }
+    ],
+    "tag": "西方哲学"
+}

@@ -1,0 +1,95 @@
+{
+    "title": "幻灭",
+    "bookInfo": {
+        "作者": "[法] 巴尔扎克",
+        "出版社": "人民文学出版社",
+        "译者": "傅雷",
+        "出版年": "2020-7",
+        "页数": "696",
+        "定价": "69.00",
+        "装帧": "精装",
+        "丛书": "外国文学名著丛书（新网格本）",
+        "ISBN": "9787020156863"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "66.2%",
+        "four_star_rate": "24.7%",
+        "three_star_rate": "7.8%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4506751/",
+            "name": "奥诺雷·德·巴尔扎克",
+            "role": "作者",
+            "douban_id": "4506751"
+        },
+        {
+            "link": "https://book.douban.com/author/4505428/",
+            "name": "傅雷",
+            "role": "译者",
+            "douban_id": "4505428"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "33.84元",
+            "link": "https://read.douban.com/ebook/159100750/?dcs=subject-buylink&dcm=douban&dct=34833850"
+        },
+        {
+            "name": "得到",
+            "price": "33.84元",
+            "link": "https://www.dedao.cn/ebook/detail?id=vExPL6aYQPjadpoZxR5r6KDkbNJVO0ol6jW84GeXyLElm92gnMA1zvB7qMKpBGkj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "39.53元",
+            "link": "https://book.douban.com/link2/?lowest=3953&pre=0&vendor=jingdong&srcpage=subject&price=3953&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAckJK1olVQIGVFdYCkseM2kIE1MTVQ8BV1heOA9IWzFXKwJQGEdAX0BDUxNIVThcREROCBlQCgJDUA5DX3BRXgdIU0RYEFIeQClUcwZ6WjBONn4AFDg-T08SXBkKHgN7X1hDIRZeSxRIaAdyegxRXH93Qx5RfxRjUxZrYARjNH5hIBcIXyxudBB_bxJROF5pKz1dbwlzAQx0bFpMHGNdIzckbAJSZjd_ZDh2JkF0PSoFfygXXBsKaz1iBE9HLCs2filNd2lsUlNICHZpCCk0bzt3WQ8NbwRHPmZbMx4-cRFxYDZjXixsLWV2DV9YfzJocQxSSV5hB3JgIz02VDwVUQh_QixXJXYWVitJCj4nQGh6RiB1BXRgMCAlVUxoBBVSBUVGCwoOZFlYD00QCmwPK1sRXAIGZG5dCXtWbW8MHl8RWDYAVF9cDUsfCmYNK1sTWAcBVVtaCU8SB2o4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQQBUV8zVE1AQSkKHwh7XQcFVldYDkonAW4JGVklbTZBHDweeCJlQgRTcCMXHWBhE1pYVz0VBjdmGQVUKE4BFwECYyNtYjhMGiJgbQUy&cntvendor=5&srcsubj=34833850&type=bkbuy&subject=34833850"
+        },
+        {
+            "name": "当当网",
+            "price": "46.20元",
+            "link": "https://book.douban.com/link2/?lowest=3953&pre=0&vendor=dangdang&srcpage=subject&price=4620&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34833850%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28993127&cntvendor=5&srcsubj=34833850&type=bkbuy&subject=34833850"
+        },
+        {
+            "name": "中图网",
+            "price": "45.90元",
+            "link": "https://book.douban.com/link2/?lowest=3953&pre=0&vendor=bookschina&srcpage=subject&price=4590&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8368373.htm&cntvendor=5&srcsubj=34833850&type=bkbuy&subject=34833850"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34833850/",
+    "douban_id": "34833850",
+    "menu": [
+        "",
+        "        目次",
+        "        译本序    罗新璋",
+        "        第一部 两个诗人",
+        "        第二部 内地大人物在巴黎",
+        "        第三部 发明家的苦难",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33758104.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法] 巴尔扎克",
+            "link": "https://book.douban.com/author/4506751"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "傅雷",
+            "link": "https://book.douban.com/author/4505428"
+        },
+        {
+            "text": "外国文学名著丛书（新网格本）",
+            "link": "https://book.douban.com/series/47636"
+        }
+    ],
+    "tag": "经典"
+}

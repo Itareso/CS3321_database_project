@@ -1,0 +1,64 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "杜甫评传",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34127189.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35501310/",
+                        "year": "2022",
+                        "id": 35501310
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "增订注释全唐诗（全五册）",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s9125271.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/1658610/",
+                        "year": "2007",
+                        "id": 1658610
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "杜甫評傳 上卷",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s4362433.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/4836157/",
+                        "year": "1982",
+                        "id": 4836157
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4613335/",
+    "author_douban_id": "4613335",
+    "personage_id": 35891174,
+    "name": [
+        "陈贻焮",
+        "Yixin Chen"
+    ],
+    "intro": "陈贻焮（1924年11月16日－2000年11月19日），字一新，湖南省新宁县金石镇田富村杉木山人。北京大学中国语言文学系教授，中国古代文学博士生导师，中国作家协会会员，中国唐代文学学会理事，中国韵文学会副秘书长、常务理事，中国诗学研究会副理事长、常务理事，王维研究会名誉会长。曾任《文学遗产》编委，《文学评论》编委，《中华诗词》顾问等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/7d9def426faa0846812f94732f325f42.jpg",
+    "sex": 1,
+    "birth_date": 1924,
+    "death_date": 2000,
+    "age": 77,
+    "profession": [
+        "作者"
+    ]
+}

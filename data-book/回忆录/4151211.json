@@ -1,0 +1,90 @@
+{
+    "title": "天地一书生",
+    "bookInfo": {
+        "作者": "周一良",
+        "出版社": "北京大学出版社",
+        "副标题": "周一良自传",
+        "出版年": "2010-1",
+        "页数": "265",
+        "定价": "36.00元",
+        "装帧": "平装",
+        "丛书": "大师自述史系列",
+        "ISBN": "9787301162521"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "13.4%",
+        "four_star_rate": "55.5%",
+        "three_star_rate": "28.6%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4555594/",
+            "name": "周一良",
+            "role": "作者",
+            "douban_id": "4555594"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "13.89元",
+            "link": "https://www.dedao.cn/eBook/N4yqKRVn1jAJaMyOQ2YorRp6DvXm7weErpwGBKLzkPq5gdxEV98eNbZl467ovjzg?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.00元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=jingdong&srcpage=subject&price=2900&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGlsRWAYBV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYDVFpYCEgUHDZNRwYlL3lUCiwgdh51cSdBXRlMX3gLLUQqTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4FUVlbC04XM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8SWlVsCFgHVBRWByhmGFMcWgALXVxtCkoWAW04K2tVGl9GBB0WSgxDQhxwZi0TVARyJzY2fkp5BC9OEhxHGXl3IjcbSAxuXA5xK1gl&cntvendor=2&srcsubj=4151211&type=bkbuy&subject=4151211"
+        }
+    ],
+    "url": "https://book.douban.com/subject/4151211/",
+    "douban_id": "4151211",
+    "menu": [
+        "",
+        "        毕竟是书生",
+        "        序",
+        "        家世",
+        "        私塾教育",
+        "        求学北平",
+        "        历史语言研究所一年",
+        "        哈佛七年",
+        "        回国与解放",
+        "        毕竟是书生",
+        "        劫后余生向前看",
+        "        钻石婚杂忆",
+        "        家世",
+        "        童年与家塾",
+        "        从专修科到正途出身的历史系",
+        "        燕京岁月",
+        "        史语所：非常愉快的一年",
+        "        结婚生子",
+        "        哈佛生活",
+        "        奉养岳母",
+        "        风风雨雨",
+        "        邓懿调离中文专修班",
+        "        “文革”后的20年",
+        "        八十庆寿记",
+        "        住房问题",
+        "        老伴舍我而去",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s4165396.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "周一良",
+            "link": "https://book.douban.com/search/%E5%91%A8%E4%B8%80%E8%89%AF"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        },
+        {
+            "text": "大师自述史系列",
+            "link": "https://book.douban.com/series/9644"
+        }
+    ],
+    "tag": "回忆录"
+}

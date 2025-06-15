@@ -1,0 +1,153 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "唐诗可以这样读：欧丽娟的唐诗公开课",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34870242.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36904122/",
+                        "year": "2024",
+                        "id": 36904122
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "紅樓夢公開課（二）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34788845.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36777366/",
+                        "year": "2024",
+                        "id": 36777366
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "紅樓夢公開課（三）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34788846.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36777368/",
+                        "year": "2024",
+                        "id": 36777368
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "欧丽娟红楼梦公开课",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34040616.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35434443/",
+                        "year": "2021",
+                        "id": 35434443
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "红楼十五钗",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33936775.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35468149/",
+                        "year": "2021",
+                        "id": 35468149
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "唐诗选注",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33910740.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34953905/",
+                        "year": "2021",
+                        "id": 34953905
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "欧丽娟品读古诗词",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33750531.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35033226/",
+                        "year": "2020",
+                        "id": 35033226
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "唐诗的多维世界",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33638572.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34925900/",
+                        "year": "2020",
+                        "id": 34925900
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "唐诗的乐园意识",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33679549.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34942231/",
+                        "year": "2020",
+                        "id": 34942231
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "红楼立体人物论",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33679553.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34955196/",
+                        "year": "2020",
+                        "id": 34955196
+                    }
+                }
+            ],
+            "total": 21
+        }
+    },
+    "author_link": "https://book.douban.com/author/4609423/",
+    "author_douban_id": "4609423",
+    "personage_id": 35135383,
+    "name": [
+        "欧丽娟",
+        "Li-chuan Ou"
+    ],
+    "intro": "中国台湾学者，毕业于台湾大学，获历史学学士、文学硕士、文学博士学位。现任国立台湾大学中国文学系教授。主要研究方向为：唐诗、红楼梦。主要作品有《红楼梦人物立体论》《大观红楼》《唐诗中的乐园意识》等。因台湾大学“红楼梦”课程获得“全球开放式课程联盟”2015年杰出教学者奖。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/a98cf5be527648688be92eaa31c733f3.jpg",
+    "sex": 0,
+    "birth_date": 1963,
+    "age": 63,
+    "birth_place": [
+        "中国",
+        "台湾"
+    ],
+    "profession": [
+        "作者",
+        "编者",
+        "演员"
+    ]
+}

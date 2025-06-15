@@ -1,0 +1,44 @@
+{
+    "title": "刺客",
+    "bookInfo": {
+        "作者": "刘猛",
+        "出版社": "大众文艺出版社",
+        "出版年": "2006-11-1",
+        "页数": "305",
+        "定价": "29.80元",
+        "装帧": "平装16开",
+        "ISBN": "9787801719027"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.7%",
+        "four_star_rate": "37.2%",
+        "three_star_rate": "30.7%",
+        "two_star_rate": "4.2%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/147237/",
+            "name": "刘猛",
+            "role": "作者",
+            "douban_id": "147237"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1920619/",
+    "douban_id": "1920619",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s2182223.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘猛",
+            "link": "https://book.douban.com/author/147237/"
+        },
+        {
+            "text": "大众文艺出版社",
+            "link": "https://book.douban.com/press/2488"
+        }
+    ],
+    "tag": "军事"
+}

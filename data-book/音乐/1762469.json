@@ -1,0 +1,45 @@
+{
+    "title": "1001 Albums You Must Hear Before You Die",
+    "bookInfo": {
+        "作者": "Robert Dimery",
+        "出版社": "Universe",
+        "出版年": "2006-2-7",
+        "页数": "960",
+        "定价": "USD 34.95",
+        "装帧": "Hardcover",
+        "丛书": "1001 before you die",
+        "ISBN": "9780789313713"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    1001 Albums You Must Hear Before You Die is a highly readable list of the best, the most important, and the most influential pop albums from 1955 through 2003. Carefully selected by a team of international critics, each album is a groundbreaking work seminal to the understanding and appreciation of music from the 1950s to the present. Included with each entry are production details and credits as well as reproductions of original album cover art.  Perhaps most important of all, each album featured comes with an authoritative description of its importance and influence.  Among the critics involved in selecting the list are some of the best known music reviewers and commentators, including Theunis Bates (music writer for Time and urban editor at worldpop.com), Jon Harrington (staff writer at MTV), Seth Jacobson (writer for Dazed & Confused), as well as many others.\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "33.3%",
+        "four_star_rate": "29.6%",
+        "three_star_rate": "29.6%",
+        "two_star_rate": "3.7%",
+        "one_star_rate": "3.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/997495/",
+            "name": "罗伯特·迪默里",
+            "role": "作者",
+            "douban_id": "997495"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1762469/",
+    "douban_id": "1762469",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s7058015.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "Robert Dimery",
+            "link": "https://book.douban.com/author/997495"
+        },
+        {
+            "text": "1001 before you die",
+            "link": "https://book.douban.com/series/38373"
+        }
+    ],
+    "tag": "音乐"
+}

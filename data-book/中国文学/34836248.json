@@ -1,0 +1,70 @@
+{
+    "title": "解密",
+    "bookInfo": {
+        "作者": "麦家",
+        "出版社": "北京十月文艺出版社",
+        "出品方": "十月文化",
+        "出版年": "2019-10",
+        "页数": "299",
+        "定价": "58.00元",
+        "装帧": "精装",
+        "丛书": "新经典文库·麦家作品集",
+        "ISBN": "9787530219300"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ★人是世间最深奥的密码    ★茅盾文学奖得主麦家首部长篇小说    ★被译为33种语言，入选英国“企鹅经典”文库 / 英国《经济学人》“全球年度十佳小说” / 英国《每日电讯报》“全球史上最佳20部间谍小说”    ★终于，出现了一部伟大的中文小说。《解密》有加西亚•马尔克斯的魔幻现实主义，同时，麦家又如彼得•凯里般纵身跃入一个全新的世界。这部作品的节奏，它生动的叙述，它极新颖的故事，是中国小说中独一无二的。——《经济学人》    ★我对《解密》情有独钟，它几乎是我青春的全部，我命运的一部分；是我本真本色的苦和乐，也是我不灭的记忆。——麦家    ========    身世多舛的数学天才容金珍，因为非凡的才华被招募至秘密单位701，破解一部极其困难的密码“紫密”。    把人类众多精英纠集在一起，只是为了猜想由几个简单的阿拉伯数字演绎的秘密，这听来似乎很好玩，像场游戏，然而包括容金珍在内的人类精英却都被这场游戏折磨得死去活来。他们每个人都像一颗超新星，一生仅有一次爆发的机会，昙花一现般绽放耀眼光辉，此后便不断衰减，直至隐没不见。    这是一群在喧嚣中依然像磐石一样坚定、安静的人，一群世俗的阳光无法照射到的人，他们完全生活在常人的认知之外。他们的才华能够改变世界，却无法改变自己可悲的命运。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "32.7%",
+        "four_star_rate": "33.8%",
+        "three_star_rate": "25.3%",
+        "two_star_rate": "5.9%",
+        "one_star_rate": "2.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4545005/",
+            "name": "麦家",
+            "role": "作者",
+            "douban_id": "4545005"
+        }
+    ],
+    "shops": [
+        {
+            "name": "当当网",
+            "price": "40.00元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=dangdang&srcpage=subject&price=4000&pos=1&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34836248%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27947390&cntvendor=3&srcsubj=34836248&type=bkbuy&subject=34836248"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.00元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=jingdong&srcpage=subject&price=2900&pos=2&url=https%3A%2F%2Fitem.jd.com%2F12849762.html&cntvendor=3&srcsubj=34836248&type=bkbuy&subject=34836248"
+        },
+        {
+            "name": "中图网",
+            "price": "37.50元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=bookschina&srcpage=subject&price=3750&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8187301.htm&cntvendor=3&srcsubj=34836248&type=bkbuy&subject=34836248"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34836248/",
+    "douban_id": "34836248",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33488899.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "麦家",
+            "link": "https://book.douban.com/search/%E9%BA%A6%E5%AE%B6"
+        },
+        {
+            "text": "北京十月文艺出版社",
+            "link": "https://book.douban.com/press/2194"
+        },
+        {
+            "text": "十月文化",
+            "link": "https://book.douban.com/producers/38"
+        },
+        {
+            "text": "新经典文库·麦家作品集",
+            "link": "https://book.douban.com/series/25661"
+        }
+    ],
+    "tag": "中国文学"
+}

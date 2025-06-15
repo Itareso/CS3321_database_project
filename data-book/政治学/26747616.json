@@ -1,0 +1,95 @@
+{
+    "title": "山中来信",
+    "bookInfo": {
+        "作者": "[法]卢梭",
+        "出版社": "商务印书馆",
+        "译者": "李平沤",
+        "出版年": "2016-1",
+        "页数": "293",
+        "定价": "28.00",
+        "装帧": "平装",
+        "丛书": "汉译世界学术名著丛书·政治法律社会",
+        "ISBN": "9787100117548"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "52.1%",
+        "four_star_rate": "34.2%",
+        "three_star_rate": "13.7%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502145/",
+            "name": "让-雅克·卢梭",
+            "role": "作者",
+            "douban_id": "4502145"
+        },
+        {
+            "link": "https://book.douban.com/author/4509709/",
+            "name": "李平沤",
+            "role": "译者",
+            "douban_id": "4509709"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.07元",
+            "link": "https://book.douban.com/link2/?lowest=1560&pre=0&vendor=jingdong&srcpage=subject&price=2207&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG1IcWwEDUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCXVdbD0oTHDZNRwYlXGNwEQA8Sz90Az9Wazl-PXZLHyEVaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4FUlxbC0MTM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFsRVFRsCFgHVA5OWDxmGVoVWwcAV19tCkoWAW04K2tGB0RxC1s_bE1iShJfWyhhI29-NwtYSzx5AWwORQFcLlZpUiIhWxFlWwRpK1gl&cntvendor=3&srcsubj=26747616&type=bkbuy&subject=26747616"
+        },
+        {
+            "name": "当当网",
+            "price": "20.20元",
+            "link": "https://book.douban.com/link2/?lowest=1560&pre=0&vendor=dangdang&srcpage=subject&price=2020&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26747616%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23919381&cntvendor=3&srcsubj=26747616&type=bkbuy&subject=26747616"
+        },
+        {
+            "name": "中图网",
+            "price": "15.60元",
+            "link": "https://book.douban.com/link2/?lowest=1560&pre=0&vendor=bookschina&srcpage=subject&price=1560&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7135096.htm&cntvendor=3&srcsubj=26747616&type=bkbuy&subject=26747616"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26747616/",
+    "douban_id": "26747616",
+    "menu": [
+        "",
+        "        序",
+        "        第一部分",
+        "        第一封信",
+        "        第二封信",
+        "        第三封信",
+        "        第四封信",
+        "        第五封信",
+        "        第六封信",
+        "        第二部分",
+        "        第七封信",
+        "        第八封信",
+        "        第九封信",
+        "        结论",
+        "        简明年谱",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s28524098.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法]卢梭",
+            "link": "https://book.douban.com/author/4502145"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "李平沤",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E5%B9%B3%E6%B2%A4"
+        },
+        {
+            "text": "汉译世界学术名著丛书·政治法律社会",
+            "link": "https://book.douban.com/series/27"
+        }
+    ],
+    "tag": "政治学"
+}

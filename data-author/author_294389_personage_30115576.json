@@ -1,0 +1,154 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "平乐县志",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34680045.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36520183/",
+                        "year": "2023",
+                        "id": 36520183
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "Elsewhere",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34456810.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36294098/",
+                        "year": "2023",
+                        "id": 36294098
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "Elsewhere",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34693884.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36609939/",
+                        "year": "2023",
+                        "id": 36609939
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "Strange Beasts of China",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33737081.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35224070/",
+                        "year": "2020",
+                        "id": 35224070
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "五月女王",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33693433.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35060242/",
+                        "year": "2020",
+                        "id": 35060242
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "平乐镇伤心故事集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33693432.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35077362/",
+                        "year": "2020",
+                        "id": 35077362
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "我们家",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33693434.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35060241/",
+                        "year": "2020",
+                        "id": 35060241
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "White Horse",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s30002688.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30457466/",
+                        "year": "2019",
+                        "id": 30457466
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "我们的黄金时代",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29513432.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27109724/",
+                        "year": "2017",
+                        "id": 27109724
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "White Horse",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/25945717/",
+                        "year": "2014",
+                        "id": 25945717
+                    }
+                }
+            ],
+            "total": 25
+        }
+    },
+    "author_link": "https://book.douban.com/author/294389/",
+    "author_douban_id": "294389",
+    "personage_id": 30115576,
+    "name": [
+        "颜歌",
+        "Ge Yan"
+    ],
+    "intro": "颜歌，小说家，1984年出生于四川郫县。迄今为止，她出版了包括《平乐镇伤心故事集》《我们家》《五月女王》在内的十本小说，作品也见于《收获》、《人民文学》等杂志，并获得了《人民文学》“未来大家TOP20”及华语文学传媒大奖年度潜力新人等奖项。作品被翻译成英文，法文，德文，韩文，匈牙利文等出版。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/16d715cd90f1e0f95c36f90e68af857f.jpg",
+    "更多中文名": "戴月行",
+    "sex": 0,
+    "birth_date": 1984,
+    "age": 42,
+    "birth_place": [
+        "中国",
+        "四川",
+        "郫县"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "title": "东京蠹余录",
+    "bookInfo": {
+        "作者": "尹敏志",
+        "出版社": "广西师范大学出版社",
+        "出品方": "理想国",
+        "出版年": "2020-1",
+        "页数": "264",
+        "定价": "49.00元",
+        "装帧": "平装",
+        "ISBN": "9787559805140"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.7%",
+        "four_star_rate": "41.6%",
+        "three_star_rate": "24.0%",
+        "two_star_rate": "3.7%",
+        "one_star_rate": "5.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4638086/",
+            "name": "尹敏志",
+            "role": "作者",
+            "douban_id": "4638086"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "23.50元",
+            "link": "https://read.douban.com/ebook/129682222/?dcs=subject-buylink&dcm=douban&dct=28553665"
+        },
+        {
+            "name": "得到",
+            "price": "29.40元",
+            "link": "https://www.dedao.cn/ebook/detail?id=Lk89Yv4kyM12eaG795DmKAponOvLVWvLNAwZzdbYxN84JQR6XgEqBPljrbpzARlB&source=douban"
+        },
+        {
+            "name": "当当网",
+            "price": "32.60元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=dangdang&srcpage=subject&price=3260&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s28553665%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28504991&cntvendor=5&srcsubj=28553665&type=bkbuy&subject=28553665"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=jingdong&srcpage=subject&price=2450&pos=4&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwVWQEGXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU15ZD08fHDZNRwYlAU9jVwMWQw13HQlKfR91XkFrUCEaTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFZZDEkUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFkRXAVsCFgKSgxQWzxmG1oTWwYCUlptCkoWAW04K2thWHZBK1tYCAAXSBVVZiVSPAQGIwoEfA15AQ54W15LHl1bHwsIfE5ceiRXK1gl&cntvendor=5&srcsubj=28553665&type=bkbuy&subject=28553665"
+        },
+        {
+            "name": "中图网",
+            "price": "33.80元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=bookschina&srcpage=subject&price=3379&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8266752.htm&cntvendor=5&srcsubj=28553665&type=bkbuy&subject=28553665"
+        }
+    ],
+    "url": "https://book.douban.com/subject/28553665/",
+    "douban_id": "28553665",
+    "menu": [
+        "",
+        "        神保町书店街缘起",
+        "        人归江上路：文求堂书店",
+        "        尽是同文细亚人：琳琅阁书店",
+        "        学灯：丸善书店",
+        "        孰为陈起孰毛晋：青木嵩山堂",
+        "        梦寐绕山河：山本书店",
+        "        播种者：岩波书店",
+        "        东京上海双城记：内山书店",
+        "        大隐隐于市：丛文阁书店",
+        "        早稻田原风景：五十岚书店",
+        "        偶遇保田清：原书房",
+        "        亦有星星火：从大安到汲古书院",
+        "        一人古本屋：弘文庄",
+        "        古书店变形记：光和书房",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33602494.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "尹敏志",
+            "link": "https://book.douban.com/author/4638086"
+        },
+        {
+            "text": "广西师范大学出版社",
+            "link": "https://book.douban.com/press/2476"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        }
+    ],
+    "tag": "随笔"
+}

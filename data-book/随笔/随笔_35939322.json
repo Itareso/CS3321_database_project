@@ -1,0 +1,98 @@
+{
+    "title": "演奏之外",
+    "bookInfo": {
+        "作者": "张昊辰",
+        "出版社": "北京日报出版社",
+        "出品方": "理想国",
+        "出版年": "2022-7",
+        "页数": "276",
+        "定价": "79",
+        "装帧": "精装",
+        "ISBN": "9787547742723"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "61.0%",
+        "four_star_rate": "29.8%",
+        "three_star_rate": "7.7%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614732/",
+            "name": "张昊辰",
+            "role": "作者",
+            "douban_id": "4614732"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "55.30元",
+            "link": "https://read.douban.com/ebook/483470205/?dcs=subject-buylink&dcm=douban&dct=35939322"
+        },
+        {
+            "name": "得到",
+            "price": "55.30元",
+            "link": "https://www.dedao.cn/ebook/detail?id=DLnMGAEG7gKLyYmkAbPaEXxD8BM4J0LD560ROrpdZn19VNzv2o5e6lqjQQ1poxqy&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "51.35元",
+            "link": "https://book.douban.com/link2/?lowest=4440&pre=0&vendor=jingdong&srcpage=subject&price=5135&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVgVVAQLVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAV15UCkIXHDZNRwYlHXFlFB44cg5yWGhuEgtTC39hL1spaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFhYAUkUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXANsCFgKSgxAWDhmG1ocXgUCVVxtCkoWAW04K2tOGm1hXVcmchdxAmpATAxsK1FXLyYoQxZ5AWsLHxxqPk9QCDk6Uwx1eRN0K1gl&cntvendor=5&srcsubj=35939322&type=bkbuy&subject=35939322"
+        },
+        {
+            "name": "当当网",
+            "price": "62.40元",
+            "link": "https://book.douban.com/link2/?lowest=4440&pre=0&vendor=dangdang&srcpage=subject&price=6240&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35939322%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29421025&cntvendor=5&srcsubj=35939322&type=bkbuy&subject=35939322"
+        },
+        {
+            "name": "中图网",
+            "price": "44.40元",
+            "link": "https://book.douban.com/link2/?lowest=4440&pre=0&vendor=bookschina&srcpage=subject&price=4440&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8883557.htm&cntvendor=5&srcsubj=35939322&type=bkbuy&subject=35939322"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35939322/",
+    "douban_id": "35939322",
+    "menu": [
+        "",
+        "        肉体与雪",
+        "        聆听的三种空间",
+        "        历史与回归",
+        "        康德的矛盾",
+        "        看不见的博物馆",
+        "        叙事的神话",
+        "        失落的真相",
+        "        个人与历史",
+        "        言说背后",
+        "        异乡的世界",
+        "        肖邦与钢琴",
+        "        维也纳的孩子",
+        "        机器复制时代的音乐",
+        "        就此一别",
+        "        访谈",
+        "        天生喜欢复杂感",
+        "        模仿与刻意",
+        "        音乐之外",
+        "        流行与批判",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34247968.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张昊辰",
+            "link": "https://book.douban.com/author/4614732"
+        },
+        {
+            "text": "北京日报出版社",
+            "link": "https://book.douban.com/press/2656"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        }
+    ],
+    "tag": "随笔"
+}

@@ -1,0 +1,67 @@
+{
+    "title": "惊天核网（上下册）",
+    "bookInfo": {
+        "作者": "（美）汤姆・克兰西",
+        "出版社": "上海译文出版社",
+        "原作名": "The Sum of All Fears",
+        "译者": "李彦，李阳，陈贻彦",
+        "出版年": "2005-7",
+        "页数": "820",
+        "定价": "60.00元",
+        "装帧": "平装",
+        "丛书": "汤姆·克兰西军事系列",
+        "ISBN": "9787532737239"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "39.8%",
+        "four_star_rate": "42.5%",
+        "three_star_rate": "15.4%",
+        "two_star_rate": "1.9%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/136950/",
+            "name": "汤姆·克兰西",
+            "role": "作者",
+            "douban_id": "136950"
+        },
+        {
+            "link": "https://book.douban.com/author/4580041/",
+            "name": "李彦",
+            "role": "译者",
+            "douban_id": "4580041"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=jingdong&srcpage=subject&price=2400&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10046908223178.html&cntvendor=1&srcsubj=1427421&type=bkbuy&subject=1427421"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1427421/",
+    "douban_id": "1427421",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s1441189.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "（美）汤姆・克兰西",
+            "link": "https://book.douban.com/search/%E6%B1%A4%E5%A7%86%E3%83%BB%E5%85%8B%E5%85%B0%E8%A5%BF"
+        },
+        {
+            "text": "上海译文出版社",
+            "link": "https://book.douban.com/press/2582"
+        },
+        {
+            "text": "李彦，李阳，陈贻彦",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E5%BD%A6%EF%BC%8C%E6%9D%8E%E9%98%B3%EF%BC%8C%E9%99%88%E8%B4%BB%E5%BD%A6"
+        },
+        {
+            "text": "汤姆·克兰西军事系列",
+            "link": "https://book.douban.com/series/9109"
+        }
+    ],
+    "tag": "军事"
+}

@@ -1,0 +1,92 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "人生大事，真管用的还是哲学",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34717236.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36673876/",
+                        "year": "2024",
+                        "id": 36673876
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "我的个天",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33857222.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35404908/",
+                        "year": "2021",
+                        "id": 35404908
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "戴老师魔性诗词课",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33620193.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34996974/",
+                        "year": "2020",
+                        "id": 34996974
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "戴建业精读世说新语",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33442194.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34467117/",
+                        "year": "2019",
+                        "id": 34467117
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "澄明之境",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33458493.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/33712576/",
+                        "year": "2019",
+                        "id": 33712576
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4611445/",
+    "author_douban_id": "4611445",
+    "personage_id": 35602177,
+    "name": [
+        "戴建业",
+        "Jianye Dai"
+    ],
+    "intro": "戴建业，男，1956年生于湖北省黄冈市麻城市。现为华中师范大学文学院古代文学教研室教授、博士生导师，古代文学学科组长、学科带头人。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/35602177/photo/2911383924"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2911383924.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/b8b3ab3b57d48eb1a34fee26c6f584bc.jpg",
+    "sex": 1,
+    "birth_date": 1956,
+    "age": 70,
+    "profession": [
+        "作者",
+        "演员"
+    ]
+}

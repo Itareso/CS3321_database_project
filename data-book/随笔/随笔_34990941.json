@@ -1,0 +1,92 @@
+{
+    "title": "雁过留声",
+    "bookInfo": {
+        "作者": "金雁",
+        "出版社": "山西人民出版社",
+        "出品方": "汉唐阳光",
+        "副标题": "我的青葱岁月",
+        "出版年": "2020-3",
+        "页数": "312",
+        "定价": "58.00",
+        "装帧": "平装",
+        "ISBN": "9787203113195"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.0%",
+        "four_star_rate": "51.9%",
+        "three_star_rate": "14.2%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/259388/",
+            "name": "金雁",
+            "role": "作者",
+            "douban_id": "259388"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "49.30元",
+            "link": "https://www.dedao.cn/eBook/xGM6Evn5byxq2PnXBz71AjZaol6R8WJNZaWOKpGkd4gmMLEJrYNQe9VvD8P4jLkK?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "32.48元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=jingdong&srcpage=subject&price=3247&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFIQWAYHVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVtYCE4WHDZNRwYlFmBbLUAadR9ye2xeXBtQNVwHTgkqeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFdVDkIRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXQRsCFgKSgxUAC9mG1ocXgYKUFttCkoWAW04K2tcAFFpND4naB5JZgZDSRlXPUN1KSACUgN5AWgNXgYTNmRKAVlaQRZeXTJgK1gl&cntvendor=4&srcsubj=34990941&type=bkbuy&subject=34990941"
+        },
+        {
+            "name": "当当网",
+            "price": "29.00元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=dangdang&srcpage=subject&price=2900&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34990941%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28535738&cntvendor=4&srcsubj=34990941&type=bkbuy&subject=34990941"
+        },
+        {
+            "name": "中图网",
+            "price": "38.70元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=bookschina&srcpage=subject&price=3870&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8334085.htm&cntvendor=4&srcsubj=34990941&type=bkbuy&subject=34990941"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34990941/",
+    "douban_id": "34990941",
+    "menu": [
+        "",
+        "        自序：沉淀在记忆中的片段/ 001",
+        "        我姥姥/ 001",
+        "        我的1960年/ 025",
+        "        “黑帮子女”的下放生活/ 042",
+        "        “铁道游击队式”串联/ 063",
+        "        “唯成分论”年代的经历/ 076",
+        "        插队的日子/ 091",
+        "        水的故事/ 103",
+        "        穿衣的故事/ 113",
+        "        供销春秋/ 127",
+        "        “五朵金花”的命运/ 151",
+        "        “黄埔一期”考研记/ 182",
+        "        “魅力导师”赵俪生/ 198",
+        "        “秦老爹”记趣/ 213",
+        "        “秦老爹”在农村过大年/ 249",
+        "        自行车的故事/ 258",
+        "        东欧见闻/ 270",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33869074.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "金雁",
+            "link": "https://book.douban.com/author/259388"
+        },
+        {
+            "text": "山西人民出版社",
+            "link": "https://book.douban.com/press/2803"
+        },
+        {
+            "text": "汉唐阳光",
+            "link": "https://book.douban.com/producers/54"
+        }
+    ],
+    "tag": "随笔"
+}

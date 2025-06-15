@@ -1,0 +1,88 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "月亮出来",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34926797.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36946814/",
+                        "year": "2024",
+                        "id": 36946814
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "八九十枝花",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33325334.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34451493/",
+                        "year": "2019",
+                        "id": 34451493
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "拔蒲歌",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29976318.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30294368/",
+                        "year": "2019",
+                        "id": 30294368
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "燕子最后飞去了哪里",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29347163.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26945615/",
+                        "year": "2017",
+                        "id": 26945615
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "矢量年华·归去来兮",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s26971003.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/24880258/",
+                        "year": "2013",
+                        "id": 24880258
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/319728/",
+    "author_douban_id": "319728",
+    "personage_id": 30084141,
+    "name": [
+        "沈书枝",
+        "Shuzhi Shen"
+    ],
+    "intro": "沈书枝，1984年生，安徽南陵人，南京大学古代文学硕士。热爱自然与文史，作品散见于《人民文学》《文艺风象》等杂志，已出版散文集《八九十枝花》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/180604ba490eee949918edc4efa03373.jpg",
+    "更多中文名": "石延平(原名)",
+    "sex": 0,
+    "birth_date": 1984,
+    "age": 42,
+    "profession": [
+        "作者"
+    ]
+}

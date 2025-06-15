@@ -1,0 +1,60 @@
+{
+    "title": "我的前半生(共5册)",
+    "bookInfo": {
+        "作者": "爱新觉罗·溥仪",
+        "出版社": "群众出版社",
+        "出版年": "2013-3",
+        "页数": "2231",
+        "定价": "400.00元",
+        "装帧": "平装",
+        "丛书": "我的前半生",
+        "ISBN": "9787501451043"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.7%",
+        "four_star_rate": "25.7%",
+        "three_star_rate": "25.7%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "2.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503250/",
+            "name": "溥仪",
+            "role": "作者",
+            "douban_id": "4503250"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "200.00元",
+            "link": "https://book.douban.com/link2/?lowest=20000&pre=0&vendor=jingdong&srcpage=subject&price=20000&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IG1gUWgYEXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOMl4LQEN3Qyt6YC1NXwcFPFsWXiJ1USpKdVllP14CKhY8aTlOWgkIGQZRGBFCWCokfChgcBBPbARDBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZbNyM_Yz0TRw1zAQR-CGJwUyIBXjB3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcHXFddDkkSCmc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgQFAwwzVE1NXDEARR97XwcBVFxaD04nAW4JGVklbTZkVAgVACtXRx1zbQMXXAFqURULYSlFRi1mGSt3BQZ8HD88ehJOZW8KRh9QbQUy&cntvendor=2&srcsubj=23010303&type=bkbuy&subject=23010303"
+        },
+        {
+            "name": "当当网",
+            "price": "288.00元",
+            "link": "https://book.douban.com/link2/?lowest=20000&pre=0&vendor=dangdang&srcpage=subject&price=28800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s23010303%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23210034&cntvendor=2&srcsubj=23010303&type=bkbuy&subject=23010303"
+        }
+    ],
+    "url": "https://book.douban.com/subject/23010303/",
+    "douban_id": "23010303",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s26587748.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "爱新觉罗·溥仪",
+            "link": "https://book.douban.com/author/4503250"
+        },
+        {
+            "text": "群众出版社",
+            "link": "https://book.douban.com/press/2202"
+        },
+        {
+            "text": "我的前半生",
+            "link": "https://book.douban.com/series/31656"
+        }
+    ],
+    "tag": "回忆录"
+}

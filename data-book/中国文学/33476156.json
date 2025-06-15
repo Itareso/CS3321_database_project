@@ -1,0 +1,69 @@
+{
+    "title": "无岸之岛",
+    "bookInfo": {
+        "作者": "维舟",
+        "出版社": "天津人民出版社",
+        "出版年": "2019-7-1",
+        "页数": "248",
+        "定价": "CNY 42.00",
+        "装帧": "平装",
+        "ISBN": "9787201147581"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "19.9%",
+        "four_star_rate": "33.5%",
+        "three_star_rate": "24.6%",
+        "two_star_rate": "8.2%",
+        "one_star_rate": "13.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1040786/",
+            "name": "维舟",
+            "role": "作者",
+            "douban_id": "1040786"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "20.10元",
+            "link": "https://book.douban.com/link2/?lowest=1910&pre=0&vendor=jingdong&srcpage=subject&price=2010&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwQCVl9aAEseCl8IGloTWQEAV1hYC04UAV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkMHFkWWwMBUV1fFxJSXzI4ZABzOUBEEEA_ChdDeRxDUBJqXnkBAlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXXgAKU1heOEkXAm4NG1MSXgcyVFhYCUgWBGoLG1gTVDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlZeXR4VbTMOTB5eXA5ZOl5cAEoQAWYAK1kUXAQAZG5tVQIVAxEBSxtXNERUChZfVjx0dxlDeFheMwReXSMUb0sVCy11QgxcD35eDW5eOA&cntvendor=2&srcsubj=33476156&type=bkbuy&subject=33476156"
+        },
+        {
+            "name": "中图网",
+            "price": "19.10元",
+            "link": "https://book.douban.com/link2/?lowest=1910&pre=0&vendor=bookschina&srcpage=subject&price=1910&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8130417.htm&cntvendor=2&srcsubj=33476156&type=bkbuy&subject=33476156"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33476156/",
+    "douban_id": "33476156",
+    "menu": [
+        "",
+        "        0.0",
+        "        1.0 宇宙膨胀",
+        "        1.5",
+        "        2.0 引力",
+        "        2.5",
+        "        3.0 楞次定律",
+        "        3.5",
+        "        4.0 矢量",
+        "        4.5",
+        "        5.0 量子态",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33301214.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "维舟",
+            "link": "https://book.douban.com/search/%E7%BB%B4%E8%88%9F"
+        },
+        {
+            "text": "天津人民出版社",
+            "link": "https://book.douban.com/press/2765"
+        }
+    ],
+    "tag": "中国文学"
+}

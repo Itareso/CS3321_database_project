@@ -1,0 +1,39 @@
+{
+    "title": "渊之信",
+    "bookInfo": {
+        "作者": "[韩]赵贤娥",
+        "出版年": "2019-6-20",
+        "页数": "266",
+        "定价": "15000KRW",
+        "装帧": "平装",
+        "ISBN": "9791196155711"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "74.1%",
+        "four_star_rate": "21.3%",
+        "three_star_rate": "4.1%",
+        "two_star_rate": "0.3%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4639088/",
+            "name": "赵贤娥",
+            "role": "作者",
+            "douban_id": "4639088"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/34762492/",
+    "douban_id": "34762492",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33443911.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[韩]赵贤娥",
+            "link": "https://book.douban.com/author/4639088"
+        }
+    ],
+    "tag": "校园"
+}

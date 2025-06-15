@@ -1,0 +1,166 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "一个人的战争",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35000734.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37107555/",
+                        "year": "2024",
+                        "id": 37107555
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "说吧，房间",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35027560.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37144521/",
+                        "year": "2024",
+                        "id": 37144521
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "北去来辞",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34628778.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36350984/",
+                        "year": "2023",
+                        "id": 36350984
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "北流",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34218781.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35765109/",
+                        "year": "2022",
+                        "id": 35765109
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "母熊",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33963028.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35554468/",
+                        "year": "2021",
+                        "id": 35554468
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "玻璃虫",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29807673.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30198522/",
+                        "year": "2018",
+                        "id": 30198522
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "万物花开",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29744114.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30193233/",
+                        "year": "2018",
+                        "id": 30193233
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "长江为何如此远",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29707954.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30161990/",
+                        "year": "2018",
+                        "id": 30161990
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "广西多民族文学经典（1958—2018）·散文卷",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34337403.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30623349/",
+                        "year": "2018",
+                        "id": 30623349
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "百年百部中篇正典：回廊之椅+先锋+双鱼星座+父亲是个兵",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33508571.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30672688/",
+                        "year": "2018",
+                        "id": 30672688
+                    }
+                }
+            ],
+            "total": 62
+        }
+    },
+    "author_link": "https://book.douban.com/author/4508824/",
+    "author_douban_id": "4508824",
+    "personage_id": 30081326,
+    "name": [
+        "林白",
+        "Bai Lin"
+    ],
+    "intro": "林白（1958-）原名林白薇，女，汉族，广西北流人，祖籍广西博白。著名作家，小说家。毕业于武汉大学。被誉为中国“女性主义文学”重要作家之一。代表作品《一个人的战争》、《说吧，房间》、《万物花开》、《林白文集》。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30081326/photo/2917456254",
+        "https://www.douban.com/personage/30081326/photo/2917456253",
+        "https://www.douban.com/personage/30081326/photo/2917456252",
+        "https://www.douban.com/personage/30081326/photo/2917456251",
+        "https://www.douban.com/personage/30081326/photo/2917456250"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2917456254.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2917456253.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2917456252.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2917456251.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2917456250.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/4ad7d0b654b8fe95db6571def1b269cc.jpg",
+    "更多中文名": "林白薇(原名)",
+    "sex": 0,
+    "birth_date": 1958,
+    "age": 68,
+    "birth_place": [
+        "中国",
+        "广西",
+        "北流"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

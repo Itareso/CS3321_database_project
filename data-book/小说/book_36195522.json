@@ -1,0 +1,58 @@
+{
+    "title": "不见上仙三百年",
+    "bookInfo": {
+        "作者": "木苏里",
+        "出版社": "中信出版社",
+        "出品方": "中信墨狸",
+        "出版年": "2022-12",
+        "页数": "316",
+        "定价": "54.80元",
+        "装帧": "平装",
+        "ISBN": "9787521748376"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.0%",
+        "four_star_rate": "31.6%",
+        "three_star_rate": "26.6%",
+        "two_star_rate": "5.3%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4615892/",
+            "name": "木苏里",
+            "role": "作者",
+            "douban_id": "4615892"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "30.10元",
+            "link": "https://book.douban.com/link2/?lowest=3010&pre=0&vendor=jingdong&srcpage=subject&price=3010&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13669261.html&cntvendor=3&srcsubj=36195522&type=bkbuy&subject=36195522"
+        },
+        {
+            "name": "当当网",
+            "price": "39.90元",
+            "link": "https://book.douban.com/link2/?lowest=3010&pre=0&vendor=dangdang&srcpage=subject&price=3990&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36195522%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29497972&cntvendor=3&srcsubj=36195522&type=bkbuy&subject=36195522"
+        },
+        {
+            "name": "中图网",
+            "price": "33.90元",
+            "link": "https://book.douban.com/link2/?lowest=3010&pre=0&vendor=bookschina&srcpage=subject&price=3390&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8982093.htm&cntvendor=3&srcsubj=36195522&type=bkbuy&subject=36195522"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36195522/",
+    "douban_id": "36195522",
+    "menu": [
+        "",
+        "        第一卷 苍琅北域",
+        "        第二卷 春幡城",
+        "        第三卷 大悲谷",
+        "        第四卷 落花山市",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

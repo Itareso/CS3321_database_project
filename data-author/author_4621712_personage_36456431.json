@@ -1,0 +1,43 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "寻找金福真",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34416837.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36184410/",
+                        "year": "2023",
+                        "id": 36184410
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4621712/",
+    "author_douban_id": "4621712",
+    "personage_id": 36456431,
+    "name": [
+        "南山",
+        "Shan Nan"
+    ],
+    "intro": "南山，出生于1990年，云南人。曾是记者，目前专职写作。《寻找金福真》是她的首部作品，曾获豆瓣阅读“女性视角的悬疑小说”主题征稿最佳新人奖。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "sex": 0,
+    "birth_date": 1990,
+    "age": 36,
+    "birth_place": [
+        "中国",
+        "云南"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

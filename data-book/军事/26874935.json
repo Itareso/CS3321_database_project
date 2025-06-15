@@ -1,0 +1,60 @@
+{
+    "title": "十一家注孙子校理",
+    "bookInfo": {
+        "作者": "孙武",
+        "出版社": "中华书局",
+        "出版年": "2016-4",
+        "页数": "485",
+        "定价": "66.00元",
+        "装帧": "精装",
+        "丛书": "新编诸子集成（精装典藏本）",
+        "ISBN": "9787101116755"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "81.0%",
+        "four_star_rate": "17.2%",
+        "three_star_rate": "0.0%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "1.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/139460/",
+            "name": "孙武",
+            "role": "作者",
+            "douban_id": "139460"
+        }
+    ],
+    "shops": [
+        {
+            "name": "当当网",
+            "price": "76.00元",
+            "link": "https://book.douban.com/link2/?lowest=5500&pre=0&vendor=dangdang&srcpage=subject&price=7600&pos=1&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26874935%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27874712&cntvendor=2&srcsubj=26874935&type=bkbuy&subject=26874935"
+        },
+        {
+            "name": "中图网",
+            "price": "55.00元",
+            "link": "https://book.douban.com/link2/?lowest=5500&pre=0&vendor=bookschina&srcpage=subject&price=5500&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8085811.htm&cntvendor=2&srcsubj=26874935&type=bkbuy&subject=26874935"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26874935/",
+    "douban_id": "26874935",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29105482.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "孙武",
+            "link": "https://book.douban.com/author/139460/"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "新编诸子集成（精装典藏本）",
+            "link": "https://book.douban.com/series/36011"
+        }
+    ],
+    "tag": "军事"
+}

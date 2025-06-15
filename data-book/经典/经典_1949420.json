@@ -1,0 +1,92 @@
+{
+    "title": "孙子兵法",
+    "bookInfo": {
+        "作者": "孙武",
+        "出版社": "上海古籍出版社",
+        "译者": "郭化若",
+        "出版年": "2006-7",
+        "页数": "175",
+        "定价": "20.00元",
+        "装帧": "平装",
+        "ISBN": "9787532544400"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "77.8%",
+        "four_star_rate": "18.0%",
+        "three_star_rate": "3.7%",
+        "two_star_rate": "0.3%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/139460/",
+            "name": "孙武",
+            "role": "作者",
+            "douban_id": "139460"
+        },
+        {
+            "link": "https://book.douban.com/author/4623750/",
+            "name": "郭化若",
+            "role": "译者",
+            "douban_id": "4623750"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "15.00元",
+            "link": "https://book.douban.com/link2/?lowest=1500&pre=0&vendor=jingdong&srcpage=subject&price=1500&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0SXQIEV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUlldDE0UHDZNRwYlIntiCwwbez91YztveiFVNGNhKTUDTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UXgcAVlZaD0oQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFsRWgdsCFgKSkwQVytmG1oTXwQAV1dtCkoWAW04K2tzXVBKXD4dTDlsdRROfQ8SB01-NyZdQyx5AR9qQ1trFWdjJgcEbktRYjZNK1gl&cntvendor=3&srcsubj=1949420&type=bkbuy&subject=1949420"
+        },
+        {
+            "name": "当当网",
+            "price": "28.80元",
+            "link": "https://book.douban.com/link2/?lowest=1500&pre=0&vendor=dangdang&srcpage=subject&price=2880&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1949420%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28497136&cntvendor=3&srcsubj=1949420&type=bkbuy&subject=1949420"
+        },
+        {
+            "name": "中图网",
+            "price": "19.60元",
+            "link": "https://book.douban.com/link2/?lowest=1500&pre=0&vendor=bookschina&srcpage=subject&price=1960&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8253301.htm&cntvendor=3&srcsubj=1949420&type=bkbuy&subject=1949420"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1949420/",
+    "douban_id": "1949420",
+    "menu": [
+        "",
+        "        计篇第一",
+        "        作战篇第二",
+        "        谋攻篇第三",
+        "        开篇第四",
+        "        势篇第五",
+        "        虚实篇第六",
+        "        军争篇第七",
+        "        九变篇第八",
+        "        行军篇第十",
+        "        地形篇第十",
+        "        九地篇第十一",
+        "        为攻篇第十二",
+        "        用间篇第十三",
+        "        附录",
+        "        《史记·孙子列传》",
+        "        《孙子译注·前言》",
+        "        《孙子译注·再版的话》",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s2142329.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "孙武",
+            "link": "https://book.douban.com/search/%E5%AD%99%E6%AD%A6"
+        },
+        {
+            "text": "上海古籍出版社",
+            "link": "https://book.douban.com/press/2170"
+        },
+        {
+            "text": "郭化若",
+            "link": "https://book.douban.com/author/4623750"
+        }
+    ],
+    "tag": "经典"
+}

@@ -1,0 +1,86 @@
+{
+    "title": "乡村教师",
+    "bookInfo": {
+        "作者": "刘慈欣 原著 / 张晓雨 绘",
+        "出版社": "中信出版社",
+        "出品方": "漫传奇 / 漫传奇文化",
+        "副标题": "刘慈欣科幻漫画系列第1辑",
+        "原作名": "The Village Teacher",
+        "出版年": "2020-5",
+        "页数": "108",
+        "定价": "68.00元",
+        "装帧": "平装",
+        "丛书": "刘慈欣科幻漫画系列",
+        "ISBN": "9787521714678"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "57.8%",
+        "four_star_rate": "33.3%",
+        "three_star_rate": "8.3%",
+        "two_star_rate": "0.3%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561353/",
+            "name": "刘慈欣",
+            "role": "作者",
+            "douban_id": "4561353"
+        },
+        {
+            "link": "https://book.douban.com/author/4630433/",
+            "name": "张晓雨",
+            "role": "绘者",
+            "douban_id": "4630433"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "32.60元",
+            "link": "https://book.douban.com/link2/?lowest=3260&pre=0&vendor=jingdong&srcpage=subject&price=3260&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV0XXgEKXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUlxeD0MeHDZNRwYlPE9fEBc7Tw13RCtuHixeHWBkAx4tTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYEXF5YDEwRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVRsCFgLCQ5FWDVmG1sSWQUCU1ttCkoWAW04K2scXn4CKzsUcCJ_eSxbfCldWFpLMRwrSSJ5ATVVZFhCXVl7PSsoAUgWYBUIK1gl&cntvendor=3&srcsubj=34954111&type=bkbuy&subject=34954111"
+        },
+        {
+            "name": "当当网",
+            "price": "46.40元",
+            "link": "https://book.douban.com/link2/?lowest=3260&pre=0&vendor=dangdang&srcpage=subject&price=4640&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34954111%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28525626&cntvendor=3&srcsubj=34954111&type=bkbuy&subject=34954111"
+        },
+        {
+            "name": "中图网",
+            "price": "43.20元",
+            "link": "https://book.douban.com/link2/?lowest=3260&pre=0&vendor=bookschina&srcpage=subject&price=4320&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8408463.htm&cntvendor=3&srcsubj=34954111&type=bkbuy&subject=34954111"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34954111/",
+    "douban_id": "34954111",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34097532.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣 原著",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3%20%E5%8E%9F%E8%91%97"
+        },
+        {
+            "text": "张晓雨 绘",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E6%99%93%E9%9B%A8%20%E7%BB%98"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "漫传奇",
+            "link": "https://book.douban.com/producers/711"
+        },
+        {
+            "text": "漫传奇文化",
+            "link": "https://book.douban.com/producers/812"
+        },
+        {
+            "text": "刘慈欣科幻漫画系列",
+            "link": "https://book.douban.com/series/50609"
+        }
+    ],
+    "tag": "科幻"
+}

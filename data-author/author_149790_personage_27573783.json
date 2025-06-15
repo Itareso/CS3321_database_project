@@ -1,0 +1,168 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "马路吉他队·狂想曲",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37238461/",
+                        "year": "2025",
+                        "id": 37238461
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "马路吉他队·交响曲",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37238460/",
+                        "year": "2025",
+                        "id": 37238460
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "火神：外道天魔",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34863088.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36888918/",
+                        "year": "2024",
+                        "id": 36888918
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "窦占龙憋宝",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34372820.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36136570/",
+                        "year": "2023",
+                        "id": 36136570
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.0,
+                        "title": "我的邻居是妖怪",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34092555.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/35732200/",
+                        "year": "2021",
+                        "id": 35732200
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "窦占龙憋宝：七杆八金刚",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34016059.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35621142/",
+                        "year": "2021",
+                        "id": 35621142
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "无终仙境",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34049330.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35672526/",
+                        "year": "2021",
+                        "id": 35672526
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "大耍儿（1—4卷）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33955410.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35541254/",
+                        "year": "2021",
+                        "id": 35541254
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "摸金校尉之九幽将军",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33601917.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34977918/",
+                        "year": "2020",
+                        "id": 34977918
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "死亡循環",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33717501.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35188385/",
+                        "year": "2020",
+                        "id": 35188385
+                    }
+                }
+            ],
+            "total": 62
+        }
+    },
+    "author_link": "https://book.douban.com/author/149790/",
+    "author_douban_id": "149790",
+    "personage_id": 27573783,
+    "name": [
+        "天下霸唱",
+        "Muye Zhang"
+    ],
+    "intro": "天下霸唱，本名张牧野，天津人，被称为中国最具想象力的作家，其代表作《鬼吹灯》系列小说风靡一时，从而引起“盗墓”小说畅销盛行。美国《时代周刊》评论说：《鬼吹灯》丰富饱满的想象力，成为它最让人刮目相看的地方。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27573783/photo/2500865186",
+        "https://www.douban.com/personage/27573783/photo/2549638418",
+        "https://www.douban.com/personage/27573783/photo/2549638414",
+        "https://www.douban.com/personage/27573783/photo/2500865190",
+        "https://www.douban.com/personage/27573783/photo/2549638415"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2500865186.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2549638418.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2549638414.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2500865190.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2549638415.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/f55dcb233b74b5ee8016696c5c4a58b5.jpg",
+    "更多中文名": "张牧野(本名)",
+    "更多外文名": "无",
+    "sex": 1,
+    "birth_date": 1977,
+    "age": 49,
+    "birth_place": [
+        "中国",
+        "天津"
+    ],
+    "IMDB": "nm8701055",
+    "profession": [
+        "作者",
+        "编剧",
+        "导演"
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "久别重逢",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34367625.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36177610/",
+                        "year": "2023",
+                        "id": 36177610
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "劳动者的星辰",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34288428.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36035851/",
+                        "year": "2022",
+                        "id": 36035851
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "新北京人",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29633382.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27194515/",
+                        "year": "2018",
+                        "id": 27194515
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4616162/",
+    "author_douban_id": "4616162",
+    "personage_id": 36092172,
+    "name": [
+        "范雨素",
+        "Yusu Fan"
+    ],
+    "intro": "范雨素，女，1973年出生，湖北襄阳市襄州区打伙村人，初中毕业，在北京做育儿嫂。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/ccbb89ac7fcc288f3937adfb43517f59.jpg",
+    "sex": 0,
+    "birth_date": 1973,
+    "age": 53,
+    "birth_place": [
+        "中国",
+        "湖北",
+        "襄阳"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

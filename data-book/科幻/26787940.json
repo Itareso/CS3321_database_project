@@ -1,0 +1,132 @@
+{
+    "title": "重启蒙娜丽莎",
+    "bookInfo": {
+        "作者": "[美] 威廉·吉布森",
+        "出版社": "江苏凤凰文艺出版社",
+        "副标题": "神经漫游者3",
+        "原作名": "Mona Lisa Overdrive",
+        "译者": "姚向辉",
+        "出版年": "2017-3",
+        "页数": "349",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "丛书": "读客全球顶级畅销文库：威廉·吉布森作品",
+        "ISBN": "9787539992433"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.9%",
+        "four_star_rate": "40.0%",
+        "three_star_rate": "24.8%",
+        "two_star_rate": "4.2%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4521563/",
+            "name": "威廉·吉布森",
+            "role": "作者",
+            "douban_id": "4521563"
+        },
+        {
+            "link": "https://book.douban.com/author/4609725/",
+            "name": "姚向辉",
+            "role": "译者",
+            "douban_id": "4609725"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "8.99元",
+            "link": "https://read.douban.com/ebook/31835635/?dcs=subject-buylink&dcm=douban&dct=26787940"
+        },
+        {
+            "name": "得到",
+            "price": "42.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=donM9vjLM8m6d5YQ7lvJGVz2Xgaqb3p4bG3nBRyejENkP1KZo9rD4OApxpxkY7Ke&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=1530&pre=0&vendor=jingdong&srcpage=subject&price=4200&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFoRWAABVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOIzUrDkJ3Swl_eCRpPUdyM1cGYx1yUBxudVlyLm9pJ1gYATwTBxhjYyBdLhFCWCokcC5jYBhJb1llBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZWCSIFXC5JfApWHFkdW2ZHVFkNSQlRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUgWAmoPK1sTWAcBVFdeDE4XAWo4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCgEBUgozVE1BA25UQA57XQYGVF5VAU0nAW4JGVklbTZ1PyhbAStfZRhrZCd1HHZlXQU2Xi5EcAlmGTxmNG1xUhtUf08TdARwYBNmbQUy&cntvendor=4&srcsubj=26787940&type=bkbuy&subject=26787940"
+        },
+        {
+            "name": "中图网",
+            "price": "15.30元",
+            "link": "https://book.douban.com/link2/?lowest=1530&pre=0&vendor=bookschina&srcpage=subject&price=1530&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7412562.htm&cntvendor=4&srcsubj=26787940&type=bkbuy&subject=26787940"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26787940/",
+    "douban_id": "26787940",
+    "menu": [
+        "",
+        "        01．烟／ 001",
+        "        02．非洲小子／ 010",
+        "        03．马里布／ 019",
+        "        04．流 浪／ 028",
+        "        05．波托贝洛／ 035",
+        "        06．晨 光／ 045",
+        "        07．那儿哪儿都不是／ 052",
+        "        08．得克萨斯电台／ 065",
+        "        09．地 下／ 075",
+        "        10．形 状／ 086",
+        "        11．下楼走走／ 096",
+        "        12．南极洲从此处开始／ 110",
+        "        13．鹰 架／ 121",
+        "        14．玩 具／ 124",
+        "        15．银色散步／ 129",
+        "        16．断层丝缕／ 138",
+        "        17．城市跳跃／ 147",
+        "        18．监狱时光／ 152",
+        "        19．刀 下／ 159",
+        "        20．希尔顿·斯威夫特／ 166",
+        "        21．阿列夫／ 172",
+        "        22．鬼魂与虚无／ 177",
+        "        23．魔镜魔镜／ 193",
+        "        24．在一个孤独的地方／ 200",
+        "        25．回东方／ 207",
+        "        26．黑 幕／ 215",
+        "        27．恶 女／ 228",
+        "        28．伴 儿／ 234",
+        "        29．冬日之旅／ 241",
+        "        30．抢人行动／ 249",
+        "        31．3 简／ 255",
+        "        32．冬日之旅2 ／ 264",
+        "        33．明 星／ 268",
+        "        34．玛尔盖特街／ 275",
+        "        35．工厂之战／ 283",
+        "        36．灵魂容器／ 289",
+        "        37．白 鹤／ 295",
+        "        38．工厂之战／ 308",
+        "        39．太过分／ 314",
+        "        40．粉色丝缎／ 323",
+        "        41．谷中先生／ 327",
+        "        42．工厂底楼／ 332",
+        "        43．法 官／ 338",
+        "        44．红色皮革／ 344",
+        "        45．光滑石块之上／ 346",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29296404.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 威廉·吉布森",
+            "link": "https://book.douban.com/author/4521563"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "姚向辉",
+            "link": "https://book.douban.com/author/4609725"
+        },
+        {
+            "text": "读客全球顶级畅销文库：威廉·吉布森作品",
+            "link": "https://book.douban.com/series/20914"
+        }
+    ],
+    "tag": "科幻"
+}

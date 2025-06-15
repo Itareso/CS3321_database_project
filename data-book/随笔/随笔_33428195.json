@@ -1,0 +1,61 @@
+{
+    "title": "抵错",
+    "bookInfo": {
+        "作者": "姬霄",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "华文天下",
+        "出版年": "2019-9",
+        "页数": "240",
+        "定价": "45.00元",
+        "装帧": "精装",
+        "ISBN": "9787559434821"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.9%",
+        "four_star_rate": "38.4%",
+        "three_star_rate": "36.3%",
+        "two_star_rate": "6.8%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "30.94元",
+            "link": "https://book.douban.com/link2/?lowest=3094&pre=0&vendor=jingdong&srcpage=subject&price=3094&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF8dVAUCUW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOLzwOaCt3Zzl-RDJQXwFaLh82ChlFWw5NdQltI1FgJD4rSzt_BhRqGysdPRFCWCokcC1uYG9KbyJ1BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZcAB08YB9JYQpPaVhrBXoEJgoPEi1nD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtZAEIQB2s4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQQGXFwzVE1AQShBXQ97XQcFUV1dCU8nAW4JGVklbTZ5Ng09aCtzVRlXch4XWl54FTVfWhlPYipmSSNrCmRyNCgeeCMSeA0Ia1N1bQUy&cntvendor=2&srcsubj=33428195&type=bkbuy&subject=33428195"
+        },
+        {
+            "name": "当当网",
+            "price": "42.80元",
+            "link": "https://book.douban.com/link2/?lowest=3094&pre=0&vendor=dangdang&srcpage=subject&price=4280&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s33428195%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27869799&cntvendor=2&srcsubj=33428195&type=bkbuy&subject=33428195"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33428195/",
+    "douban_id": "33428195",
+    "menu": [
+        "",
+        "        第一章 清单",
+        "        第二章 规矩",
+        "        第三章 徒然的事",
+        "        别册•不存在的日常",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33464641.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "姬霄",
+            "link": "https://book.douban.com/search/%E5%A7%AC%E9%9C%84"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "华文天下",
+            "link": "https://book.douban.com/producers/17"
+        }
+    ],
+    "tag": "随笔"
+}

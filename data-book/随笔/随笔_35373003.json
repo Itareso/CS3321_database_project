@@ -1,0 +1,87 @@
+{
+    "title": "诗来见我",
+    "bookInfo": {
+        "作者": "李修文",
+        "出版社": "人民文学出版社",
+        "出版年": "2021-3-1",
+        "页数": "354",
+        "定价": "59.00元",
+        "装帧": "平装",
+        "ISBN": "9787020169030"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.3%",
+        "four_star_rate": "36.0%",
+        "three_star_rate": "18.9%",
+        "two_star_rate": "6.2%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.50元",
+            "link": "https://read.douban.com/ebook/321540883/?dcs=subject-buylink&dcm=douban&dct=35373003"
+        },
+        {
+            "name": "得到",
+            "price": "29.50元",
+            "link": "https://www.dedao.cn/eBook/ZykJDGjQ7AOLNa642rbP8dkEgemKDwdGRz3XoVRjpBxl95MJzqvYGynZ18MEl5Bo?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "44.25元",
+            "link": "https://book.douban.com/link2/?lowest=3540&pre=0&vendor=jingdong&srcpage=subject&price=4425&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVscWgACVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IODR8DSjsSUS1vGAh3PU5FIVsuTz8RfxxudVlQFXFDKRxfXixxZTZJZSccKhFCWCokdClucBBJbyJlBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZdCBUceFV3agx9ATJnHXlBJz80QUJ3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtZAUwXAW84G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQUCXAwzVE1AQShWEgN7XQcFUVteDE8nAW4JGVklbTZbFQAfeE5FQQgLSDl1FUF3US0afE1rcAlmGR5dKkd_FlwLby1xWi52Z1JibQUy&cntvendor=5&srcsubj=35373003&type=bkbuy&subject=35373003"
+        },
+        {
+            "name": "当当网",
+            "price": "35.40元",
+            "link": "https://book.douban.com/link2/?lowest=3540&pre=0&vendor=dangdang&srcpage=subject&price=3540&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35373003%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29217674&cntvendor=5&srcsubj=35373003&type=bkbuy&subject=35373003"
+        },
+        {
+            "name": "中图网",
+            "price": "42.30元",
+            "link": "https://book.douban.com/link2/?lowest=3540&pre=0&vendor=bookschina&srcpage=subject&price=4230&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8545466.htm&cntvendor=5&srcsubj=35373003&type=bkbuy&subject=35373003"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35373003/",
+    "douban_id": "35373003",
+    "menu": [
+        "",
+        "        寄海内兄弟     001",
+        "        犯驿记            023",
+        "        红槿花开        043",
+        "        枕杜记            059",
+        "        遣悲怀           073",
+        "        犹在笼中        087",
+        "        偷路回故乡     107",
+        "        救风尘            123",
+        "        致母亲            141",
+        "        雪与归去来     157",
+        "        十万个秋天     179",
+        "        乐府哀歌         193",
+        "        追悔传略         213",
+        "        墓中回忆录      229",
+        "        自与我周旋      247",
+        "        陶渊明六则      263",
+        "        拟葬花词         281",
+        "        唯别而已矣      297",
+        "        酒悲突起总无名  315",
+        "        最后一首诗      335",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33836794.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李修文",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E4%BF%AE%E6%96%87"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        }
+    ],
+    "tag": "随笔"
+}

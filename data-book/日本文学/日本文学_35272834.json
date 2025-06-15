@@ -1,0 +1,83 @@
+{
+    "title": "起风了",
+    "bookInfo": {
+        "作者": "[日] 堀辰雄",
+        "出版社": "天津人民出版社",
+        "出品方": "果麦文化",
+        "译者": "黄悦生",
+        "出版年": "2021-2-28",
+        "页数": "112",
+        "ISBN": "9787201167893"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.3%",
+        "four_star_rate": "37.8%",
+        "three_star_rate": "35.1%",
+        "two_star_rate": "6.0%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1781302/",
+            "name": "崛辰雄",
+            "role": "",
+            "douban_id": "1781302"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.99元",
+            "link": "https://read.douban.com/ebook/174218365/?dcs=subject-buylink&dcm=douban&dct=35272834"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.90元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=jingdong&srcpage=subject&price=1989&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVodVQ8FUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVVZVAUwSHDZNRwYlNWZ7Pxwjfil3Rw1bZyZNXXpmPVsvTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHXFpeAUsSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1kWWAdsCFgKTUlMBCxmG1oSWgQDUlhtCkoWAW04K2scXn4CKzsUcCJ_eSxtUBtDB1pLBwcfXAp5ATVVZFhCXVl7PSsoAUh8ASsIK1gl&cntvendor=4&srcsubj=35272834&type=bkbuy&subject=35272834"
+        },
+        {
+            "name": "当当网",
+            "price": "38.20元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=dangdang&srcpage=subject&price=3820&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35272834%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29196991&cntvendor=4&srcsubj=35272834&type=bkbuy&subject=35272834"
+        },
+        {
+            "name": "中图网",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=bookschina&srcpage=subject&price=2490&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8501786.htm&cntvendor=4&srcsubj=35272834&type=bkbuy&subject=35272834"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35272834/",
+    "douban_id": "35272834",
+    "menu": [
+        "",
+        "        序曲",
+        "        春",
+        "        起风了",
+        "        冬",
+        "        夜",
+        "        死亡阴影之谷",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33835402.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 堀辰雄",
+            "link": "https://book.douban.com/author/4552859"
+        },
+        {
+            "text": "天津人民出版社",
+            "link": "https://book.douban.com/press/2765"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "黄悦生",
+            "link": "https://book.douban.com/search/%E9%BB%84%E6%82%A6%E7%94%9F"
+        }
+    ],
+    "tag": "日本文学"
+}

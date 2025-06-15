@@ -1,0 +1,171 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "沿着塞纳河到翡冷翠",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34390143.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36209410/",
+                        "year": "2023",
+                        "id": 36209410
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "还有谁谁谁",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34653480.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36422151/",
+                        "year": "2023",
+                        "id": 36422151
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "见笑集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34181566.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35838012/",
+                        "year": "2022",
+                        "id": 35838012
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "吴世茫论坛",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34199586.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35873573/",
+                        "year": "2022",
+                        "id": 35873573
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "无愁河的浪荡汉子·走读1",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34003940.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35568220/",
+                        "year": "2021",
+                        "id": 35568220
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "无愁河的浪荡汉子·走读2",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34003942.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35568221/",
+                        "year": "2021",
+                        "id": 35568221
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "稻草人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34001710.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35482748/",
+                        "year": "2021",
+                        "id": 35482748
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "入木",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34244843.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35167964/",
+                        "year": "2020",
+                        "id": 35167964
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "太阳下的风景",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29934252.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30318655/",
+                        "year": "2019",
+                        "id": 30318655
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.6,
+                        "title": "无愁河的浪荡汉子·八年（下卷）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s30022837.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/30426203/",
+                        "year": "2019",
+                        "id": 30426203
+                    }
+                }
+            ],
+            "total": 73
+        }
+    },
+    "author_link": "https://book.douban.com/author/4548691/",
+    "author_douban_id": "4548691",
+    "personage_id": 30077278,
+    "name": [
+        "黄永玉",
+        "Yongyu Huang"
+    ],
+    "intro": "笔名黄杏槟、黄牛、牛夫子。1924年7月9日出生在湖南省常德县（今常德市鼎城区），祖籍为湖南省的凤凰县城。土家族人。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30077278/photo/2679997586",
+        "https://www.douban.com/personage/30077278/photo/2679997590",
+        "https://www.douban.com/personage/30077278/photo/2893287464",
+        "https://www.douban.com/personage/30077278/photo/2893321144",
+        "https://www.douban.com/personage/30077278/photo/2679997584"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2679997586.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2679997590.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2893287464.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2893321144.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2679997584.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/celebrity/m/public/pwD1Q3bk5SYEcel_avatar_uploaded1542975266.54.jpg",
+    "更多中文名": "黄杏槟(笔名) / 黄牛(笔名) / 牛夫子(笔名) / 黄笛",
+    "sex": 1,
+    "birth_date": 1924,
+    "death_date": 2023,
+    "age": 100,
+    "birth_place": [
+        "中国",
+        "湖南",
+        "常德"
+    ],
+    "IMDB": "nm2356805",
+    "profession": [
+        "作者",
+        "绘者",
+        "演员",
+        "美术",
+        "编剧"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "1997年的蛹事件",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34903022.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36935889/",
+                        "year": "2024",
+                        "id": 36935889
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "致电蜃景岛",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34287410.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36059010/",
+                        "year": "2022",
+                        "id": 36059010
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "2019青春文学",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33665039.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35071434/",
+                        "year": "2020",
+                        "id": 35071434
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "所有罕见的鸟",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33514822.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34880387/",
+                        "year": "2019",
+                        "id": 34880387
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "近似无止境的徒步",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34945517.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30660332/",
+                        "year": "2017",
+                        "id": 30660332
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4618800/",
+    "author_douban_id": "4618800",
+    "personage_id": 36196296,
+    "name": [
+        "栗鹿",
+        "Lu Li"
+    ],
+    "intro": "栗鹿，生于上海崇明，写小说和诗歌。作品发表于《人民文学》《诗刊》《长江文艺》《小说界》等杂志。曾获2022年度青花郎·人民文学奖新人奖，2022年「钟山之星」年度青年佳作奖，长篇小说《致电蜃景岛》获首届凤凰文学奖入围奖。出版有《1997年的蛹事件》《致电蜃景岛》《所有罕见的鸟》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/a5415f0c7cb64c6a30d2f0b3413b6d4f.jpg",
+    "sex": 0,
+    "birth_date": 1990,
+    "age": 36,
+    "birth_place": [
+        "中国",
+        "上海",
+        "崇明"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

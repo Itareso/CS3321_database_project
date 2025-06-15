@@ -1,0 +1,60 @@
+{
+    "title": "金岳霖回忆录",
+    "bookInfo": {
+        "作者": "金岳霖",
+        "出版社": "北京大学出版社",
+        "出版年": "2011-8",
+        "页数": "204",
+        "定价": "26.00元",
+        "装帧": "平装",
+        "丛书": "大师自述史系列",
+        "ISBN": "9787301189009"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "11.8%",
+        "four_star_rate": "32.7%",
+        "three_star_rate": "47.6%",
+        "two_star_rate": "6.8%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609823/",
+            "name": "金岳霖",
+            "role": "作者",
+            "douban_id": "4609823"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "10.21元",
+            "link": "https://www.dedao.cn/eBook/DAOVMEb6LKoq7rM4DAYENOVl8XBgJ3QqKb31v5kjeam9ZxzbQGn2PpyRdYQ2L8mX?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.90元",
+            "link": "https://book.douban.com/link2/?lowest=2090&pre=0&vendor=jingdong&srcpage=subject&price=2090&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGlIUWgAHXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYDXV9aDk4fHDZNRwYlPX1jHFYEEjF1Xy8PeT1uG29JCl8tTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LVVpVCkgfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFsRWlRsCFgHVxZSXzdmGVoWWQQCVlhtCkoWAW04K2sTWQZQXD49XgxuBW5fQFNtBXF_FzcWWAJ5AShbfl9FD3EEEzU2Dk9ARB0LK1gl&cntvendor=2&srcsubj=6784447&type=bkbuy&subject=6784447"
+        }
+    ],
+    "url": "https://book.douban.com/subject/6784447/",
+    "douban_id": "6784447",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s6851802.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "金岳霖",
+            "link": "https://book.douban.com/author/4609823/"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        },
+        {
+            "text": "大师自述史系列",
+            "link": "https://book.douban.com/series/9644"
+        }
+    ],
+    "tag": "回忆录"
+}

@@ -1,0 +1,147 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "马一鸣从警记",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35037736.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37022485/",
+                        "year": "2025",
+                        "id": 37022485
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "马一鸣从警记 2",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35037738.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37115817/",
+                        "year": "2025",
+                        "id": 37115817
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "警动全城",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34890077.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36887210/",
+                        "year": "2024",
+                        "id": 36887210
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "反骗案中案(大结局)",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34060499.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35637187/",
+                        "year": "2021",
+                        "id": 35637187
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "反骗案中案",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33882721.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35272711/",
+                        "year": "2020",
+                        "id": 35272711
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "弹弓神警2",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33539944.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34918512/",
+                        "year": "2020",
+                        "id": 34918512
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "弹弓神警3",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33680025.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35126621/",
+                        "year": "2020",
+                        "id": 35126621
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "黄金链",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33742642.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35229357/",
+                        "year": "2020",
+                        "id": 35229357
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "黄金链（上）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33741855.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35229358/",
+                        "year": "2020",
+                        "id": 35229358
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "黄金链（中）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33741857.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35229360/",
+                        "year": "2020",
+                        "id": 35229360
+                    }
+                }
+            ],
+            "total": 43
+        }
+    },
+    "author_link": "https://book.douban.com/author/501808/",
+    "author_douban_id": "501808",
+    "personage_id": 27578354,
+    "name": [
+        "常书欣",
+        "Shuxin Chang"
+    ],
+    "intro": "常书欣，本名常舒欣，山西沁水人，知名网络原创文学作者，2013年6月签约加盟创世中文网，开始在创世中文网连载都市小说《余罪》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/img/author/medium/public/1495856770.83.jpg",
+    "更多中文名": "常舒欣",
+    "IMDB": "nm8327303",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

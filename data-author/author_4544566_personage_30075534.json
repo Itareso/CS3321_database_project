@@ -1,0 +1,148 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "迷恋记",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34814011.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36812082/",
+                        "year": "2024",
+                        "id": 36812082
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "诗的消息，诗人的故事",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34931929.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36996569/",
+                        "year": "2024",
+                        "id": 36996569
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "当代小说六家",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34976243.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36909664/",
+                        "year": "2024",
+                        "id": 36909664
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "读书这么好的事",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34607158.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36503771/",
+                        "year": "2023",
+                        "id": 36503771
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "以批评的方式叙述",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34860572.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36812094/",
+                        "year": "2023",
+                        "id": 36812094
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "不任性的灵魂",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34318103.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36091024/",
+                        "year": "2022",
+                        "id": 36091024
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "三行集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33792867.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35099271/",
+                        "year": "2021",
+                        "id": 35099271
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "沈从文九讲",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33958485.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35548127/",
+                        "year": "2021",
+                        "id": 35548127
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "要是沈从文看到黄永玉的文章",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33977003.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35538991/",
+                        "year": "2021",
+                        "id": 35538991
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "矮纸斜行",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34034689.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35618825/",
+                        "year": "2021",
+                        "id": 35618825
+                    }
+                }
+            ],
+            "total": 85
+        }
+    },
+    "author_link": "https://book.douban.com/author/4544566/",
+    "author_douban_id": "4544566",
+    "personage_id": 30075534,
+    "name": [
+        "张新颖",
+        "Xinying Zhang"
+    ],
+    "intro": "张新颖，男，1967年生于山东招远，文学博士，现任复旦大学中文系教授，中国现代文学研究会理事。主要从事中国现代文学研究和当代文学批评、诗歌研究与现当代文学。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/1521118862.45.jpg",
+    "sex": 1,
+    "birth_date": 1967,
+    "age": 59,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

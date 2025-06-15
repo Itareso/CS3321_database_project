@@ -1,0 +1,82 @@
+{
+    "title": "火星时间穿越",
+    "bookInfo": {
+        "作者": "[美] 菲利普·迪克",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "Martian Time-Slip",
+        "译者": "刘未央",
+        "出版年": "2021-3",
+        "页数": "348",
+        "定价": "46",
+        "装帧": "平装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787572700897"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "40.6%",
+        "four_star_rate": "43.5%",
+        "three_star_rate": "12.9%",
+        "two_star_rate": "2.4%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4567460/",
+            "name": "菲利普·迪克",
+            "role": "作者",
+            "douban_id": "4567460"
+        },
+        {
+            "link": "https://book.douban.com/author/4614887/",
+            "name": "刘未央",
+            "role": "译者",
+            "douban_id": "4614887"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "23.00元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=jingdong&srcpage=subject&price=2300&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVkRWQAGU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUxk6TQ1yfhtjTCl1NVp5BhYuYTgTXApvdRlTCXJFFxsfVExESmhPbRsUBBFCWCokdCtjYBxJbCJ9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZiByw2QFF0BQ13YToWIG52NCRUawpRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFlYCEoVAG44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQYBVg0zVE1ASCYKXht7XQYGUVtYAE0nAW4JGVklbTYFEzkYTi5qdwRfaTt9AX1QHC00e09IZghmWR1BKUFBERwBDxheBCh-W1pMbQUy&cntvendor=3&srcsubj=35458573&type=bkbuy&subject=35458573"
+        },
+        {
+            "name": "当当网",
+            "price": "46.00元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=dangdang&srcpage=subject&price=4600&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35458573%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29276305&cntvendor=3&srcsubj=35458573&type=bkbuy&subject=35458573"
+        },
+        {
+            "name": "中图网",
+            "price": "33.70元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=bookschina&srcpage=subject&price=3370&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8652764.htm&cntvendor=3&srcsubj=35458573&type=bkbuy&subject=35458573"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35458573/",
+    "douban_id": "35458573",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33955336.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 菲利普·迪克",
+            "link": "https://book.douban.com/search/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E8%BF%AA%E5%85%8B"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "刘未央",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%9C%AA%E5%A4%AE"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

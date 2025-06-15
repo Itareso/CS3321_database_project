@@ -1,0 +1,54 @@
+{
+    "title": "吾乡有情人",
+    "bookInfo": {
+        "作者": "舍目斯",
+        "出版社": "天地出版社",
+        "出版年": "2024-3",
+        "装帧": "平装",
+        "ISBN": "9787545581836"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.5%",
+        "four_star_rate": "25.0%",
+        "three_star_rate": "21.7%",
+        "two_star_rate": "6.3%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4630531/",
+            "name": "李尾",
+            "role": "作者",
+            "douban_id": "4630531"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "12.25元",
+            "link": "https://read.douban.com/column/35764512/?dcs=subject-buylink&dcm=douban&dct=36783188"
+        },
+        {
+            "name": "京东商城",
+            "price": "34.90元",
+            "link": "https://book.douban.com/link2/?lowest=3490&pre=0&vendor=jingdong&srcpage=subject&price=3490&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHloUVQ4CUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUlpdWkN3YzlPYl1jJllQPFsqbixiYxBxdVlSDmMGBAwqDgx8aGkMEiZOXhFCWCokaC5gcCZXbyJHBWJhEhg9ehF3YW58XThwLWJlDgwUfBMXeg1BfxtiFVxgNl81TjwVUTxoaA5CKX9UByoUdxdjXAtYYD1pI1FaFjc6CCMfZSRoQyx2CEN2PSI5cShwXxh8b08XKDZgHQY7bBwXZQxWfSdzJE9-HQU4Yw9BD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFdYAEMXBGY4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CVFozVE1AQmcOQwh7XQcAUl9fCUgnAW4JGVklbTYEUF4PACt3VShxHS1uAlRqUSk7bz53fBZmGRxGOAJSBilbTyB8BWsBZgAWbQUy&cntvendor=3&srcsubj=36783188&type=bkbuy&subject=36783188"
+        },
+        {
+            "name": "中图网",
+            "price": "40.80元",
+            "link": "https://book.douban.com/link2/?lowest=3490&pre=0&vendor=bookschina&srcpage=subject&price=4079&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9272136.htm&cntvendor=3&srcsubj=36783188&type=bkbuy&subject=36783188"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36783188/",
+    "douban_id": "36783188",
+    "menu": [
+        "",
+        "        第一章 交个朋友 001",
+        "        第二章 给你当情人 207",
+        "        第三章 地久天长 387",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

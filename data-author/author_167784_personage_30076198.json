@@ -1,0 +1,145 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "网案演绎法：预告犯",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34682532.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36503984/",
+                        "year": "2023",
+                        "id": 36503984
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "三国谍影（全4册·全新修订）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34310897.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36092581/",
+                        "year": "2022",
+                        "id": 36092581
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "三国谍影4：江东杀机",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29958619.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30412291/",
+                        "year": "2019",
+                        "id": 30412291
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "少女侦探事件簿",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33300478.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33451973/",
+                        "year": "2019",
+                        "id": 33451973
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "三国谍影3",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29767936.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30221708/",
+                        "year": "2018",
+                        "id": 30221708
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "三国谍影2：雾锁荆州",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29577651.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27169988/",
+                        "year": "2017",
+                        "id": 27169988
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "这一杯，我敬的是年少无知",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29475963.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27052398/",
+                        "year": "2017",
+                        "id": 27052398
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "三国谍影：暗战定军山",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29577655.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26869266/",
+                        "year": "2016",
+                        "id": 26869266
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "2015年中国悬疑小说精选",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28369087.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26693239/",
+                        "year": "2016",
+                        "id": 26693239
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "2014年中国悬疑小说精选",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27983499.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26290243/",
+                        "year": "2015",
+                        "id": 26290243
+                    }
+                }
+            ],
+            "total": 18
+        }
+    },
+    "author_link": "https://book.douban.com/author/167784/",
+    "author_douban_id": "167784",
+    "personage_id": 30076198,
+    "name": [
+        "何慕",
+        "Mu He"
+    ],
+    "intro": "何慕，男，2011年出版处女作长篇小说《异域深眠》，后出版《逆十字的杀意》《三国谍影》《这一杯，我敬的是年少无知》《少女侦探事件簿》《网案演绎法》等长篇小说。其中《三国谍影》长篇畅销系列，登陆中央人民广播电台《文艺之声》栏目，输出韩国、泰国等多国版权，同名影视作品火热开发中。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/b985332c41e820d8ef07548ac2f9caaf.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

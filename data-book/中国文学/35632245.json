@@ -1,0 +1,92 @@
+{
+    "title": "我们的庸常生活",
+    "bookInfo": {
+        "作者": "张畅",
+        "出版社": "北京联合出版公司",
+        "出品方": "新经典文化",
+        "出版年": "2021-10-1",
+        "页数": "240",
+        "定价": "45.00",
+        "装帧": "平装",
+        "ISBN": "9787559648327"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.5%",
+        "four_star_rate": "34.0%",
+        "three_star_rate": "30.4%",
+        "two_star_rate": "9.2%",
+        "one_star_rate": "3.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4617352/",
+            "name": "张畅",
+            "role": "作者",
+            "douban_id": "4617352"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "27.00元",
+            "link": "https://read.douban.com/ebook/333287490/?dcs=subject-buylink&dcm=douban&dct=35632245"
+        },
+        {
+            "name": "得到",
+            "price": "27.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=5kMLgX2vKGy7x5M8YRoDQbLgqkEeAw2LxjWBNn2r6ljVPO1mX9ad4JZpzZn1RbeE&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.70元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=jingdong&srcpage=subject&price=2070&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGV4SWgMCU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IODg0naxQeVW5fbw9NH0B5BictVjhPQhJVdVkcWWFRVj08SBxkcDVbXltxNBFCWCokdCJjWhBIbyJ9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ-P1YoYB1wSw9BS1JKW3xwJCAmVxhRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxeDU4SBGY4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgYGU18zVE1AQWxOUB97XQcEV11aAE4nAW4JGVklbTZYByQ-V0JBAjh8TwNXG31QLS4DexNWfjJmGVIROlUANz8dXzhkWTxNGz98bQUy&cntvendor=5&srcsubj=35632245&type=bkbuy&subject=35632245"
+        },
+        {
+            "name": "当当网",
+            "price": "38.30元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=dangdang&srcpage=subject&price=3829&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35632245%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29313334&cntvendor=5&srcsubj=35632245&type=bkbuy&subject=35632245"
+        },
+        {
+            "name": "中图网",
+            "price": "25.70元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=bookschina&srcpage=subject&price=2570&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8725297.htm&cntvendor=5&srcsubj=35632245&type=bkbuy&subject=35632245"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35632245/",
+    "douban_id": "35632245",
+    "menu": [
+        "",
+        "        无人知晓的旅途",
+        "        微不足道的生育",
+        "        普通生活",
+        "        家门",
+        "        闯入者",
+        "        画家",
+        "        新婚",
+        "        熬",
+        "        邻居",
+        "        追星",
+        "        死亡峡谷",
+        "        第九十九次婚礼",
+        "        后记：练习不宽恕",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34022079.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张畅",
+            "link": "https://book.douban.com/author/4617352"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "新经典文化",
+            "link": "https://book.douban.com/producers/3"
+        }
+    ],
+    "tag": "中国文学"
+}

@@ -1,0 +1,70 @@
+{
+    "title": "床，沙发，我的人生",
+    "bookInfo": {
+        "作者": "[法] 罗曼·莫内里",
+        "出版社": "中信出版集团",
+        "出品方": "春潮Nov+",
+        "原作名": "Libre, seul et assoupi",
+        "译者": "吕俊君",
+        "出版年": "2023-3",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "ISBN": "9787521752113"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.8%",
+        "four_star_rate": "40.5%",
+        "three_star_rate": "34.6%",
+        "two_star_rate": "6.8%",
+        "one_star_rate": "1.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4628254/",
+            "name": "罗曼·莫内里",
+            "role": "作者",
+            "douban_id": "4628254"
+        },
+        {
+            "link": "https://book.douban.com/author/4620275/",
+            "name": "吕俊君",
+            "role": "译者",
+            "douban_id": "4620275"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.88元",
+            "link": "https://read.douban.com/ebook/492641347/?dcs=subject-buylink&dcm=douban&dct=36243264"
+        },
+        {
+            "name": "京东商城",
+            "price": "32.30元",
+            "link": "https://book.douban.com/link2/?lowest=3229&pre=0&vendor=jingdong&srcpage=subject&price=3229&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVISXAYBUW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOPykmTkkSRRBbfjhAH05QUy0fDDhkeBNMdVlqIQZ1URgJThgRBQR_ZStwIBFCWCokdBhjWghPb1l1BWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZwEwEjYQhlawwORyFKNkMAVyokSgtRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFZeD0IVAWg4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWFYDBF8zVE1AQi5WUBh7XQcAUl9eDU8nAW4JGVklbTZpIyUbCk5RfDxteA5XFVQFJxxZezhsfytmGSRpXXEHEgobW00RaBh2az5obQUy&cntvendor=4&srcsubj=36243264&type=bkbuy&subject=36243264"
+        },
+        {
+            "name": "当当网",
+            "price": "42.80元",
+            "link": "https://book.douban.com/link2/?lowest=3229&pre=0&vendor=dangdang&srcpage=subject&price=4280&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36243264%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29547049&cntvendor=4&srcsubj=36243264&type=bkbuy&subject=36243264"
+        },
+        {
+            "name": "中图网",
+            "price": "33.40元",
+            "link": "https://book.douban.com/link2/?lowest=3229&pre=0&vendor=bookschina&srcpage=subject&price=3340&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9041000.htm&cntvendor=4&srcsubj=36243264&type=bkbuy&subject=36243264"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36243264/",
+    "douban_id": "36243264",
+    "menu": [
+        "",
+        "        第一部分",
+        "        第二部分",
+        "        第三部分",
+        "        致谢",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

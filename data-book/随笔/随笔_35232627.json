@@ -1,0 +1,61 @@
+{
+    "title": "毛姆东南亚游记",
+    "bookInfo": {
+        "作者": "[英] 威廉·萨默塞特·毛姆",
+        "出版社": "四川文艺出版社",
+        "原作名": "The Gentleman in the Parlour",
+        "译者": "周成林",
+        "出版年": "2021-1",
+        "页数": "272",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "丛书": "毛姆游记系列",
+        "ISBN": "9787541158032"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "14.8%",
+        "four_star_rate": "48.9%",
+        "three_star_rate": "32.1%",
+        "two_star_rate": "3.8%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4576950/",
+            "name": "威廉·萨默塞特·毛姆",
+            "role": "作者",
+            "douban_id": "4576950"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "32.10元",
+            "link": "https://book.douban.com/link2/?lowest=3210&pre=0&vendor=jingdong&srcpage=subject&price=3210&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVoSXA8AUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVVlcAUkSHDZNRwYlK1FfUQ4nUAlyCzd-Ux4VA19cCApDeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcBVFpVDk8XM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFkSClJsCFgKSxxJAy1mG1oRVA4EUFdtCkoWAW04K2tdHmZpXD5VVA1Tdwx_QQJOGlZgHCJeDk15ATlRZRhCNmRfEjw_QAhvYWwOK1gl&cntvendor=1&srcsubj=35232627&type=bkbuy&subject=35232627"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35232627/",
+    "douban_id": "35232627",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33784590.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 威廉·萨默塞特·毛姆",
+            "link": "https://book.douban.com/author/4576950"
+        },
+        {
+            "text": "四川文艺出版社",
+            "link": "https://book.douban.com/press/2529"
+        },
+        {
+            "text": "周成林",
+            "link": "https://book.douban.com/search/%E5%91%A8%E6%88%90%E6%9E%97"
+        },
+        {
+            "text": "毛姆游记系列",
+            "link": "https://book.douban.com/series/62303"
+        }
+    ],
+    "tag": "随笔"
+}

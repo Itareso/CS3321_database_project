@@ -1,0 +1,50 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "逃走的人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34914288.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36914683/",
+                        "year": "2024",
+                        "id": 36914683
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4634898/",
+    "author_douban_id": "4634898",
+    "personage_id": 36982916,
+    "name": [
+        "李颖迪",
+        "Yingdi Li"
+    ],
+    "intro": "湖南长沙人，毕业于武汉大学新闻系，先后供职于《智族GQ》、《时尚先生Esquire》，长期从事非虚构写作，也在尝试写小说。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/36982916/photo/2911721667",
+        "https://www.douban.com/personage/36982916/photo/2911721705",
+        "https://www.douban.com/personage/36982916/photo/2911721670"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2911721667.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2911721705.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2911721670.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/83aa232ed11ef9e26f432f5c91aef677.jpg",
+    "sex": 0,
+    "birth_place": [
+        "中国",
+        "湖南",
+        "长沙"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title": "亲爱的面试官",
+    "bookInfo": {
+        "作者": "白羽",
+        "出版社": "花山文艺出版社",
+        "出版年": "2018-8",
+        "定价": "46.00",
+        "装帧": "平装",
+        "ISBN": "9787551139441"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    故事缘起于桑静三十五岁生日前夕，她的精神导师白帆发来一条短信，打算替她过三十五岁生日。从此开启了她本命年整整一年的悲欢离合，也因此打开了三代人的回忆。    一桩金融大案，一场精心安排的迷局。十年前，从桑静接受顾超然的面试，正式踏入金融江湖，走进这个巨大的财富世界开始，故事中的每个人就都不得已卷入了纷争，身不由己。    顾超然原本只是把桑静当成别人不要的弃子，桑静却因知遇而付出真心。两人在一个案子里，同进退共命运。顾超然一次次成就桑静，又一次次将她置于险境。桑静为他险些毁了自己在银行的前途。冲出困局六年后却因顾超然处心积虑的一场复仇，终于携手的两人再次陷入既爱又恨的纠葛。他们两人的交往从来不单纯，却都挚烈。十年的相识，换来的只是一年相守的时光。而就在这一年的相守时光里，桑静经历了亲人离世、银行勾心斗角、同事自杀、歹人威胁、顾超然追求、家人反对、意外怀孕、父母离异、孩子流产、精神导师白帆绝症死亡和最终对顾超然彻底失望，她终于觉醒，开始了一场华丽的蜕变……\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "78.2%",
+        "four_star_rate": "17.6%",
+        "three_star_rate": "2.1%",
+        "two_star_rate": "0.5%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "15.99元",
+            "link": "https://read.douban.com/ebook/107109327/?dcs=subject-buylink&dcm=douban&dct=30257270"
+        },
+        {
+            "name": "得到",
+            "price": "46.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=5lZOKpMGr9mgdOvYa6Ej75XRo1NML3jO6kgwk8ZVzb2nqPpDxBeJlK4AyQ8RPQv2&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.70元",
+            "link": "https://book.douban.com/link2/?lowest=1660&pre=0&vendor=jingdong&srcpage=subject&price=2070&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF4VWgIEVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUV5aDE0WHDZNRwYlGHxGNysqAUJ1Z3V6blJtIQ5QNEQJXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUFheDUsUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFsRWlRsCFgHVw1SWytmGVoWVAQAV15tCkoWAW04K2tPDnxhC1cLCRxjVzEKWV5WJHZaJAlbDRZ5AWYMfAgXPmdCAy0uUhhQVg1hK1gl&cntvendor=5&srcsubj=30257270&type=bkbuy&subject=30257270"
+        },
+        {
+            "name": "当当网",
+            "price": "25.50元",
+            "link": "https://book.douban.com/link2/?lowest=1660&pre=0&vendor=dangdang&srcpage=subject&price=2550&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30257270%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25285834&cntvendor=5&srcsubj=30257270&type=bkbuy&subject=30257270"
+        },
+        {
+            "name": "中图网",
+            "price": "16.60元",
+            "link": "https://book.douban.com/link2/?lowest=1660&pre=0&vendor=bookschina&srcpage=subject&price=1660&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7858705.htm&cntvendor=5&srcsubj=30257270&type=bkbuy&subject=30257270"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30257270/",
+    "douban_id": "30257270",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29802220.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "白羽",
+            "link": "https://book.douban.com/search/%E7%99%BD%E7%BE%BD"
+        },
+        {
+            "text": "花山文艺出版社",
+            "link": "https://book.douban.com/press/2450"
+        }
+    ],
+    "tag": "职场"
+}

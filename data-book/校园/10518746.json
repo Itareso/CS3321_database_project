@@ -1,0 +1,73 @@
+{
+    "title": "变装小姐真心殿",
+    "bookInfo": {
+        "作者": "米米拉",
+        "出版社": "湖南少年儿童出版社",
+        "出版年": "2012-1",
+        "页数": "230",
+        "定价": "28.80元",
+        "装帧": "平装",
+        "丛书": "“心party”系列",
+        "ISBN": "9787535873521"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "50.0%",
+        "four_star_rate": "20.5%",
+        "three_star_rate": "20.5%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "9.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/258915/",
+            "name": "米米拉",
+            "role": "作者",
+            "douban_id": "258915"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.80元",
+            "link": "https://book.douban.com/link2/?lowest=1480&pre=0&vendor=jingdong&srcpage=subject&price=1680&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10041259457368.html&cntvendor=2&srcsubj=10518746&type=bkbuy&subject=10518746"
+        },
+        {
+            "name": "中图网",
+            "price": "14.80元",
+            "link": "https://book.douban.com/link2/?lowest=1480&pre=0&vendor=bookschina&srcpage=subject&price=1480&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5508049.htm&cntvendor=2&srcsubj=10518746&type=bkbuy&subject=10518746"
+        }
+    ],
+    "url": "https://book.douban.com/subject/10518746/",
+    "douban_id": "10518746",
+    "menu": [
+        "",
+        "        引子",
+        "        01 为了爱",
+        "        02 翻身做丑女",
+        "        03 五人世界大混乱",
+        "        04 香菇头女神",
+        "        05 全民追捕丑女",
+        "        06 分身乏术",
+        "        07 真心的爱",
+        "        08 爷爷加一联盟会",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s10171002.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "米米拉",
+            "link": "https://book.douban.com/search/%E7%B1%B3%E7%B1%B3%E6%8B%89"
+        },
+        {
+            "text": "湖南少年儿童出版社",
+            "link": "https://book.douban.com/press/2606"
+        },
+        {
+            "text": "“心party”系列",
+            "link": "https://book.douban.com/series/46023"
+        }
+    ],
+    "tag": "校园"
+}

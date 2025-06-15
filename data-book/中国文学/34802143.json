@@ -1,0 +1,84 @@
+{
+    "title": "采桑子",
+    "bookInfo": {
+        "作者": "叶广芩",
+        "出版社": "北京十月文艺出版社",
+        "出品方": "十月文化",
+        "出版年": "2019-8",
+        "页数": "456",
+        "定价": "59.80元",
+        "装帧": "精装",
+        "丛书": "叶广芩京味小说三部曲",
+        "ISBN": "9787530218754"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "56.5%",
+        "four_star_rate": "35.2%",
+        "three_star_rate": "7.5%",
+        "two_star_rate": "0.7%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4551361/",
+            "name": "叶广芩",
+            "role": "作者",
+            "douban_id": "4551361"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.00元",
+            "link": "https://book.douban.com/link2/?lowest=2130&pre=0&vendor=jingdong&srcpage=subject&price=3100&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwUGXFxVCkoRB18IGloSWwEBXVpaAUMeAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmgOHFgcWQELXFdeFxJSXzI4aANDFUZDVjY9aBNQChJ0bjltBXsFNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsWWwEGUlleOEkXAm4NG1MSXgcyVFhYCUgWBmkNHlgUVTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUl1fDxxDbTMOTBleXg9QOl5cDkISBmkNK1kUXAQAZG5tezdURRptThxwJWJRFBUJCj9TARAPYwASMwR3Iw4hfg0XYQpTUghdJQcDB25eOA&cntvendor=3&srcsubj=34802143&type=bkbuy&subject=34802143"
+        },
+        {
+            "name": "当当网",
+            "price": "57.40元",
+            "link": "https://book.douban.com/link2/?lowest=2130&pre=0&vendor=dangdang&srcpage=subject&price=5740&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34802143%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27923317&cntvendor=3&srcsubj=34802143&type=bkbuy&subject=34802143"
+        },
+        {
+            "name": "中图网",
+            "price": "21.30元",
+            "link": "https://book.douban.com/link2/?lowest=2130&pre=0&vendor=bookschina&srcpage=subject&price=2130&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8160713.htm&cntvendor=3&srcsubj=34802143&type=bkbuy&subject=34802143"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34802143/",
+    "douban_id": "34802143",
+    "menu": [
+        "",
+        "        谁翻乐府凄凉曲",
+        "        风也萧萧",
+        "        雨也萧萧",
+        "        瘦尽灯花又一宵",
+        "        不知何事萦怀抱",
+        "        醒也无聊",
+        "        醉也无聊",
+        "        梦也何曾到谢桥",
+        "        曲罢一声长叹",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33535236.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "叶广芩",
+            "link": "https://book.douban.com/author/4551361"
+        },
+        {
+            "text": "北京十月文艺出版社",
+            "link": "https://book.douban.com/press/2194"
+        },
+        {
+            "text": "十月文化",
+            "link": "https://book.douban.com/producers/38"
+        },
+        {
+            "text": "叶广芩京味小说三部曲",
+            "link": "https://book.douban.com/series/50444"
+        }
+    ],
+    "tag": "中国文学"
+}

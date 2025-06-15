@@ -1,0 +1,78 @@
+{
+    "title": "清晨鱼市与深夜书桌",
+    "bookInfo": {
+        "作者": "林楷伦",
+        "出版社": "中译出版社",
+        "出版年": "2023-4",
+        "页数": "248",
+        "定价": "59.00",
+        "装帧": "平装",
+        "ISBN": "9787500173656"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "19.2%",
+        "four_star_rate": "39.2%",
+        "three_star_rate": "37.2%",
+        "two_star_rate": "3.7%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4642494/",
+            "name": "林楷伦",
+            "role": "作者",
+            "douban_id": "4642494"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "44.00元",
+            "link": "https://read.douban.com/ebook/433193360/?dcs=subject-buylink&dcm=douban&dct=36344162"
+        },
+        {
+            "name": "得到",
+            "price": "44.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=vExPL6aYQPjadpoZxR5r6KDkbNJVO0o6roOw84GeXyLElm92gnMA1zvB7qMKpBGk&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "30.68元",
+            "link": "https://book.douban.com/link2/?lowest=3068&pre=0&vendor=jingdong&srcpage=subject&price=3068&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVMWVQ8LV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOLSQKUjtIf2prUB1hKkELNhs8eBlUSDBAdVl8L054JwQNCShLXxZyXy5nORFCWCokdBtgWiZUbTJtBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ3Ulo8XEwVWg1MTz9yHXR3LlYJYy1BD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtfDEIQBW84G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA4DXQwzVE1AQS9KW197XQcEUVdUCkMnAW4JGVklbTZ7LgkHeBRrBgxDXS9iGg9gET8tWghcXCdmGTJnFXxxDg5caxdLehVMbilxbQUy&cntvendor=5&srcsubj=36344162&type=bkbuy&subject=36344162"
+        },
+        {
+            "name": "当当网",
+            "price": "44.80元",
+            "link": "https://book.douban.com/link2/?lowest=3068&pre=0&vendor=dangdang&srcpage=subject&price=4480&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36344162%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29558911&cntvendor=5&srcsubj=36344162&type=bkbuy&subject=36344162"
+        },
+        {
+            "name": "中图网",
+            "price": "35.20元",
+            "link": "https://book.douban.com/link2/?lowest=3068&pre=0&vendor=bookschina&srcpage=subject&price=3520&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9070901.htm&cntvendor=5&srcsubj=36344162&type=bkbuy&subject=36344162"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36344162/",
+    "douban_id": "36344162",
+    "menu": [
+        "",
+        "        我把金目鲈鱼煎得更香酥脆皮了——推荐序",
+        "        辑一 身为鱼贩",
+        "        辑二 鱼贩日常",
+        "        辑三 三代鱼贩",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34535872.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "林楷伦",
+            "link": "https://book.douban.com/author/4642494"
+        },
+        {
+            "text": "中译出版社",
+            "link": "https://book.douban.com/press/2866"
+        }
+    ],
+    "tag": "随笔"
+}

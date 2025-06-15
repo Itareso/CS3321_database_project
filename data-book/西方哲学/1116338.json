@@ -1,0 +1,140 @@
+{
+    "title": "叔本华论说文集",
+    "bookInfo": {
+        "作者": "[德]叔本华",
+        "出版社": "商务印书馆",
+        "译者": "范进 / 柯锦华 / 秦典华 / 孟庆时",
+        "出版年": "1999-1",
+        "页数": "711",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "ISBN": "9787100020565"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "63.9%",
+        "four_star_rate": "27.1%",
+        "three_star_rate": "7.1%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1041089/",
+            "name": "阿图尔·叔本华",
+            "role": "作者",
+            "douban_id": "1041089"
+        }
+    ],
+    "shops": [
+        {
+            "name": "中图网",
+            "price": "37.40元",
+            "link": "https://book.douban.com/link2/?lowest=3740&pre=0&vendor=bookschina&srcpage=subject&price=3740&pos=1&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6794354.htm&cntvendor=3&srcsubj=1116338&type=bkbuy&subject=1116338"
+        },
+        {
+            "name": "京东商城",
+            "price": "46.51元",
+            "link": "https://book.douban.com/link2/?lowest=3740&pre=0&vendor=jingdong&srcpage=subject&price=4651&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFkUVQMGU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVl9VDU8QHDZNRwYlRwJ-CB85TD1ycT9UARlsNHt1FwxDaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4AXF1dC0gUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1kRVQRsCFgHVU8SXG5mGFMcXQcHUlttCkoWAW04K2tdHmZpXD5VVA1TdzNvGRwQBVZYAikVaR55ATlRZRhCNmRfEjw_QAgXAzgOK1gl&cntvendor=3&srcsubj=1116338&type=bkbuy&subject=1116338"
+        },
+        {
+            "name": "当当网",
+            "price": "42.60元",
+            "link": "https://book.douban.com/link2/?lowest=3740&pre=0&vendor=dangdang&srcpage=subject&price=4260&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1116338%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25229667&cntvendor=3&srcsubj=1116338&type=bkbuy&subject=1116338"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1116338/",
+    "douban_id": "1116338",
+    "menu": [
+        "",
+        "        第一卷 人生智慧",
+        "        导言",
+        "        一、论题的分类",
+        "        二、人格，或“人是什么？”",
+        "        三、财产，或“人有什么？”",
+        "        四、地位，或“人在他人评价中的位置”",
+        "        1.名誉",
+        "        2.傲慢",
+        "        3.地位",
+        "        4.荣誉",
+        "        5.名声",
+        "        第二卷 劝诫与格言",
+        "        一、导言：普遍规则",
+        "        二、了解自我",
+        "        三、了解他人",
+        "        四、人世的命运",
+        "        五、生命的旅程",
+        "        第三卷 宗教对话及其他",
+        "        一、宗教对话",
+        "        二、略论泛神论",
+        "        三、论书籍与阅读",
+        "        四、论观相术",
+        "        五、心理的考察",
+        "        六、基督教体系",
+        "        第四卷 论文学艺术",
+        "        一、论作者",
+        "        二、论风格",
+        "        三、论拉丁文研究",
+        "        四、论学者",
+        "        五、论独思",
+        "        六、论文学形式",
+        "        七、论批评",
+        "        八、论荣誉",
+        "        九、论天才",
+        "        第五卷 悲观论集",
+        "        一、论人世的痛苦",
+        "        二、论生存的虚无",
+        "        三、论自杀",
+        "        四、关于灵魂不朽的对话",
+        "        五、心理的观察",
+        "        六、论教育",
+        "        七、论女人",
+        "        八、论噪音",
+        "        九、寓言几则",
+        "        第六卷 论人的本性",
+        "        一、论人的本性",
+        "        二、论政治",
+        "        三、自由意志与宿命论",
+        "        四、论性格",
+        "        五、道德本能",
+        "        六、伦理反思",
+        "        第七卷 争论的技艺",
+        "        一、争论的技艺",
+        "        二、论艺术品的趣味与美的比较地位",
+        "        三、心理的观察",
+        "        四、警句：论人生的智慧",
+        "        五、天才与美德",
+        "        叔本华生平及大事年表",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s1369745.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德]叔本华",
+            "link": "https://book.douban.com/search/%E5%8F%94%E6%9C%AC%E5%8D%8E"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "范进",
+            "link": "https://book.douban.com/search/%E8%8C%83%E8%BF%9B"
+        },
+        {
+            "text": "柯锦华",
+            "link": "https://book.douban.com/search/%E6%9F%AF%E9%94%A6%E5%8D%8E"
+        },
+        {
+            "text": "秦典华",
+            "link": "https://book.douban.com/search/%E7%A7%A6%E5%85%B8%E5%8D%8E"
+        },
+        {
+            "text": "孟庆时",
+            "link": "https://book.douban.com/search/%E5%AD%9F%E5%BA%86%E6%97%B6"
+        }
+    ],
+    "tag": "西方哲学"
+}

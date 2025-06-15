@@ -1,0 +1,90 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "自由风格",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34134735.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34870072/",
+                        "year": "2022",
+                        "id": 34870072
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "崔健诗歌集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34251925.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35799649/",
+                        "year": "2022",
+                        "id": 35799649
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "崔健",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/6820541/",
+                        "year": "",
+                        "id": 6820541
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614729/",
+    "author_douban_id": "4614729",
+    "personage_id": 27230348,
+    "name": [
+        "崔健",
+        "Jian Cui"
+    ],
+    "intro": "崔健，著名摇滚艺术家、中国摇滚乐的领军人物，被誉为中国摇滚之父。成名曲为1986年的《一无所有》。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27230348/photo/2568786310",
+        "https://www.douban.com/personage/27230348/photo/2680318803",
+        "https://www.douban.com/personage/27230348/photo/1982041895",
+        "https://www.douban.com/personage/27230348/photo/1982040860",
+        "https://www.douban.com/personage/27230348/photo/1492095366"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2568786310.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2680318803.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p1982041895.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p1982040860.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p1492095366.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/celebrity/m/public/p5522.jpg",
+    "更多外文名": "Choe Geon",
+    "厂牌": "京文唱片",
+    "流派": "摇滚",
+    "擅长乐器": "小号",
+    "语言": "普通话",
+    "sex": 1,
+    "birth_date": 1961,
+    "age": 65,
+    "birth_place": [
+        "中国",
+        "北京"
+    ],
+    "family_member": "崔雄济(父)",
+    "IMDB": "nm0191277",
+    "profession": [
+        "音乐人",
+        "演员",
+        "音乐",
+        "导演",
+        "作者"
+    ]
+}

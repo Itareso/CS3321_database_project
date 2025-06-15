@@ -1,0 +1,73 @@
+{
+    "title": "叮！这是你的愿望啊",
+    "bookInfo": {
+        "作者": "草莓多",
+        "出版社": "湖南少年儿童出版社",
+        "出版年": "2012-1",
+        "页数": "228",
+        "定价": "24.80元",
+        "装帧": "平装",
+        "丛书": "神赐恋人系列",
+        "ISBN": "9787535874030"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": null,
+        "four_star_rate": null,
+        "three_star_rate": null,
+        "two_star_rate": null,
+        "one_star_rate": null
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/225467/",
+            "name": "草莓多",
+            "role": "作者",
+            "douban_id": "225467"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "9.00元",
+            "link": "https://book.douban.com/link2/?lowest=900&pre=0&vendor=jingdong&srcpage=subject&price=900&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgcLVVpeCk4TBV8IGloXWQUFU1xYCU0TB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0MGFwSXwMDUlpZFxJSXzI4TjxSW2d_ACQ9WgNoaDYKQxAQOUV2JFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwIAVFxcOEkXAm4NG1MSXgcyVFhYCU4fAW4JH1sSWTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlxdDUwXbTMOQQFIBERKOl1VDkwXAmcIK1kUXAQAZG5taEN8QA9oQAhgDUFrDxw-SR9wXhgJW1twMwRgIVhVXghwfxprfix3I1p2HG5eOA&cntvendor=1&srcsubj=10519521&type=bkbuy&subject=10519521"
+        }
+    ],
+    "url": "https://book.douban.com/subject/10519521/",
+    "douban_id": "10519521",
+    "menu": [
+        "",
+        "        楔子",
+        "        第一章死神来了",
+        "        第二章什么？加入DBL组合",
+        "        第三章偶像的惊天秘密",
+        "        第四章最“要命”的奖励",
+        "        第五章有惊无险“童装癖”",
+        "        第六章最想要做的事",
+        "        第七章秘密恋人现身",
+        "        第八章情侣迷宫”大冒险",
+        "        第九章钻石的眼泪",
+        "        第十章秘密被曝光",
+        "        第十一章死神的玩笑",
+        "        第十二章音乐喷泉边的告白",
+        "        尾声",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s9012658.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "草莓多",
+            "link": "https://book.douban.com/search/%E8%8D%89%E8%8E%93%E5%A4%9A"
+        },
+        {
+            "text": "湖南少年儿童出版社",
+            "link": "https://book.douban.com/press/2606"
+        },
+        {
+            "text": "神赐恋人系列",
+            "link": "https://book.douban.com/series/46509"
+        }
+    ],
+    "tag": "校园"
+}

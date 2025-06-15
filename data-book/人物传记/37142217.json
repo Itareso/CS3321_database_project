@@ -1,0 +1,109 @@
+{
+    "title": "黄仁勋：英伟达之芯",
+    "bookInfo": {
+        "作者": "[美] 斯蒂芬·威特",
+        "出版社": "中国财政经济出版社",
+        "出品方": "湛庐文化",
+        "原作名": "The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip",
+        "译者": "周健工",
+        "出版年": "2024-12-4",
+        "页数": "396",
+        "定价": "89.90元",
+        "装帧": "平装",
+        "ISBN": "9787522335568"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.6%",
+        "four_star_rate": "45.0%",
+        "three_star_rate": "30.2%",
+        "two_star_rate": "6.0%",
+        "one_star_rate": "2.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4642043/",
+            "name": "斯蒂芬·威特",
+            "role": "作者",
+            "douban_id": "4642043"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "60.68元",
+            "link": "https://read.douban.com/ebook/488994817/?dcs=subject-buylink&dcm=douban&dct=37142217"
+        },
+        {
+            "name": "得到",
+            "price": "60.68元",
+            "link": "https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0R9zLkw8XDBK9qZpgkRELd75z4Ma6oDRrqj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "59.80元",
+            "link": "https://book.douban.com/link2/?lowest=5980&pre=0&vendor=jingdong&srcpage=subject&price=5980&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHlIcWAQLVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHXVdYCkIWHDZNRwYlAEddKxYrQUJyVg1VbQ1lCAccJlgIaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GXV1UD08XM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOE1hACARsCFgHVBsWVGlmGVoUWg8EU11tCkoWAW04K2tQCXxpND46Dy9FWxNtYC1IXn5FUllcVwx5ATZTGQ93NnN5MC4tTR11Zz11K1gl&cntvendor=4&srcsubj=37142217&type=bkbuy&subject=37142217"
+        },
+        {
+            "name": "当当网",
+            "price": "59.80元",
+            "link": "https://book.douban.com/link2/?lowest=5980&pre=0&vendor=dangdang&srcpage=subject&price=5980&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s37142217%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29821025&cntvendor=4&srcsubj=37142217&type=bkbuy&subject=37142217"
+        }
+    ],
+    "url": "https://book.douban.com/subject/37142217/",
+    "douban_id": "37142217",
+    "menu": [
+        "",
+        "        引言 他并非总是赢家，可一旦赢了就是大手笔",
+        "        第一部分 与光竞赛，从洗碗工到万亿芯片帝国的掌舵者",
+        "        第1章 求学生涯：从被霸凌的小学生到优秀的大学毕业生",
+        "        第2章 职涯早期：AMD、LSI和太阳微系统公司",
+        "        第3章 从餐厅里起步的Nvidia：我们做出的每一个决定都是错误的",
+        "        第4章 英伟达遭遇绝境：我们公司离破产只有30天",
+        "        第5章 咸鱼翻身：完美的显卡TNT，承载着一个改变世界的惊天秘密",
+        "        第6章 新机器时代曙光初现：首个在游戏中超越人类的神经网络“水母”",
+        "        第7章 死亡竞赛：迭代，迭代，再迭代！执行，执行，再执行！",
+        "        第8章 游戏玩家拯救英伟达：爸爸，你得再加把劲儿",
+        "        第9章 “光速”之道：秘密开发CUDA，让游戏玩家为科学研发买单",
+        "        第10章 同频共振：洞悉即将降临的机遇",
+        "        第11章 范式转变的时刻：AlexNet横空出世",
+        "        第12章 千载难逢的机会：周五晚上做决定，周一早上我们就转型成了AI芯片公司",
+        "        第二部分 英伟达之芯，算赢人工智能的终极未来",
+        "        第13章 由机器引领的时代：从月球发射激光，精准击中街道上的一枚硬币",
+        "        第14章 AI行业的佼佼者：不管看到什么，我总能发现其中的不足之处",
+        "        第15章 AI工厂：造芯片原本是为了打怪兽，我们却用它来造大脑",
+        "        第16章 全球最具价值的半导体企业：我们其实是一家软件公司",
+        "        第17章 这个时代最重要的科技公司：AI激战中唯一的“军火供应商”",
+        "        第18章 人类需要更多的智慧：我们正站在机械进化的起点",
+        "        第19章 更多电力更大算力：如果英伟达表现不佳，整个科技界都会萎靡不振",
+        "        第20章 地球上最重要的股票：基于愿景的运气和超乎常人的智慧",
+        "        第21章 向理性本身发起挑战：我得保留点儿秘密",
+        "        第22章 深不见底的恐惧：AI会是人类的终结者吗？",
+        "        第23章 思考机器：唯有黄仁勋这位“代达罗斯”，才能真正洞悉这全貌",
+        "        后记 一切都将焕然一新",
+        "        致谢",
+        "        附录 黄仁勋人物关系表",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s35025322.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 斯蒂芬·威特",
+            "link": "https://book.douban.com/author/4642043"
+        },
+        {
+            "text": "中国财政经济出版社",
+            "link": "https://book.douban.com/press/2777"
+        },
+        {
+            "text": "湛庐文化",
+            "link": "https://book.douban.com/producers/48"
+        },
+        {
+            "text": "周健工",
+            "link": "https://book.douban.com/search/%E5%91%A8%E5%81%A5%E5%B7%A5"
+        }
+    ],
+    "tag": "人物传记"
+}

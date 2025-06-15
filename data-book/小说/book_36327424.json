@@ -1,0 +1,61 @@
+{
+    "title": "天官赐福",
+    "bookInfo": {
+        "作者": "墨香铜臭",
+        "出版社": "广东旅游出版社",
+        "出品方": "磨铁图书",
+        "出版年": "2023-3",
+        "页数": "1252",
+        "定价": "329.00元",
+        "装帧": "平装",
+        "ISBN": "9787557029807"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "74.5%",
+        "four_star_rate": "17.3%",
+        "three_star_rate": "5.5%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "1.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1982655/",
+            "name": "墨香铜臭",
+            "role": "作者",
+            "douban_id": "1982655"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "199.00元",
+            "link": "https://book.douban.com/link2/?lowest=18100&pre=0&vendor=jingdong&srcpage=subject&price=19900&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVMSWgcAVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAXFlaCUkWHDZNRwYlLwMDPwk-CT53fh1MW1pzOXFDMho2XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXQ4KV1hcCEwQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgVsCFgKSQpXVDRmG1oQXwcBVlltCkoWAW04K2tcAFFpND4naB5JZmtAWiwQJ0NfUStVbyl5AWgNXgYTNmRKAVlaQRZzAh9gK1gl&cntvendor=3&srcsubj=36327424&type=bkbuy&subject=36327424"
+        },
+        {
+            "name": "当当网",
+            "price": "199.00元",
+            "link": "https://book.douban.com/link2/?lowest=18100&pre=0&vendor=dangdang&srcpage=subject&price=19900&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36327424%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29570172&cntvendor=3&srcsubj=36327424&type=bkbuy&subject=36327424"
+        },
+        {
+            "name": "中图网",
+            "price": "181.00元",
+            "link": "https://book.douban.com/link2/?lowest=18100&pre=0&vendor=bookschina&srcpage=subject&price=18100&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9116502.htm&cntvendor=3&srcsubj=36327424&type=bkbuy&subject=36327424"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36327424/",
+    "douban_id": "36327424",
+    "menu": [
+        "",
+        "        第一卷 血雨探花",
+        "        第二卷 太子悦神",
+        "        第三卷 百无禁忌",
+        "        第四卷 白衣祸世",
+        "        第五卷 天官赐福",
+        "        番外",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

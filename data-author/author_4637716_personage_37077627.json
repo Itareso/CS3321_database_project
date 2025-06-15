@@ -1,0 +1,150 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "漫邮记",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35077512.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37131015/",
+                        "year": "2025",
+                        "id": 37131015
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "读库2401",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34715226.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36625147/",
+                        "year": "2023",
+                        "id": 36625147
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "李白来到旧金山",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34684494.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36472420/",
+                        "year": "2023",
+                        "id": 36472420
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "读库2202",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34146288.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35797195/",
+                        "year": "2022",
+                        "id": 35797195
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "读库1904",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33475874.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34822911/",
+                        "year": "2019",
+                        "id": 34822911
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "读库1703",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29447516.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27041614/",
+                        "year": "2017",
+                        "id": 27041614
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "读库 1402",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27263410.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25853098/",
+                        "year": "2014",
+                        "id": 25853098
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "读库1304",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27004594.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25696884/",
+                        "year": "2013",
+                        "id": 25696884
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "读库1104",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s6929693.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/6831353/",
+                        "year": "2011",
+                        "id": 6831353
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "读库1106",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s7658460.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/10435527/",
+                        "year": "2011",
+                        "id": 10435527
+                    }
+                }
+            ],
+            "total": 11
+        }
+    },
+    "author_link": "https://book.douban.com/author/4637716/",
+    "author_douban_id": "4637716",
+    "personage_id": 37077627,
+    "name": [
+        "谭夏阳",
+        "Xiayang Tan"
+    ],
+    "intro": "谭夏阳，广东阳江人，现居广州。诗文散见于《诗刊》《读库》《山花》《作品》《中西诗歌》《星星》《诗歌月刊》《中国诗歌》《诗建设》《飞地》等，著有诗集《云的契约》《云图手册》，文化专著《李白来到旧金山：中国古诗的异域新生》《漫邮记：中国文化之美》，《发明中国诗：汉诗传播的异域回响》（即出）。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/de7c3e2d384b34af29eab083c41b360c.jpg",
+    "sex": 1,
+    "birth_place": [
+        "中国",
+        "广东",
+        "阳江"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

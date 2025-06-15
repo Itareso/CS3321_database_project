@@ -1,0 +1,85 @@
+{
+    "title": "沙丘序曲：厄崔迪家族",
+    "bookInfo": {
+        "作者": "[美] 布莱恩·赫伯特 / [美] 凯文·J.安德森",
+        "出版社": "重庆出版社",
+        "出品方": "独角兽书系",
+        "原作名": "Prelude to Dune: House Atriedes",
+        "译者": "王梓涵",
+        "出版年": "2021-10-1",
+        "页数": "708",
+        "定价": "108.80",
+        "装帧": "精装",
+        "丛书": "沙丘序曲",
+        "ISBN": "9787229153755"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "31.3%",
+        "four_star_rate": "44.7%",
+        "three_star_rate": "19.8%",
+        "two_star_rate": "3.7%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4630399/",
+            "name": "布莱恩·赫伯特",
+            "role": "作者",
+            "douban_id": "4630399"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "76.20元",
+            "link": "https://read.douban.com/ebook/331568803/?dcs=subject-buylink&dcm=douban&dct=35517178"
+        },
+        {
+            "name": "得到",
+            "price": "76.16元",
+            "link": "https://www.dedao.cn/ebook/detail?id=vExPL6aYQPjadpoZxR5r6KDkbNJVO0oZdVw84GeXyLElm92gnMA1zvB7qMKpBGkj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "54.40元",
+            "link": "https://book.douban.com/link2/?lowest=5440&pre=0&vendor=jingdong&srcpage=subject&price=5440&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGV8WWQQFVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOIzUrDkJ3Swl_eCRpK195LSYGYxRnVBlBdVlyLm9pJ1gYATwTBxhjUxtKLhFCWCokdC1gWhxNbFllBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZELjYodT4WAApAYTwcHWNnNUAkTShnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFdeDksTBmw4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYBAFkzVE1BA25DUwR7XQYFVFZdDk8nAW4JGVklbTZ1PyhbAStfZRhrZCdjBH17LAU2VztAdSZmGTxmNG1xUhtUf08TdARAWwRmbQUy&cntvendor=4&srcsubj=35517178&type=bkbuy&subject=35517178"
+        },
+        {
+            "name": "中图网",
+            "price": "60.80元",
+            "link": "https://book.douban.com/link2/?lowest=5440&pre=0&vendor=bookschina&srcpage=subject&price=6080&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8738798.htm&cntvendor=4&srcsubj=35517178&type=bkbuy&subject=35517178"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35517178/",
+    "douban_id": "35517178",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34027455.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 布莱恩·赫伯特",
+            "link": "https://book.douban.com/author/4630399"
+        },
+        {
+            "text": "[美] 凯文·J.安德森",
+            "link": "https://book.douban.com/search/%E5%87%AF%E6%96%87%C2%B7J.%E5%AE%89%E5%BE%B7%E6%A3%AE"
+        },
+        {
+            "text": "重庆出版社",
+            "link": "https://book.douban.com/press/2162"
+        },
+        {
+            "text": "独角兽书系",
+            "link": "https://book.douban.com/producers/698"
+        },
+        {
+            "text": "王梓涵",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E6%A2%93%E6%B6%B5"
+        },
+        {
+            "text": "沙丘序曲",
+            "link": "https://book.douban.com/series/57529"
+        }
+    ],
+    "tag": "科幻"
+}

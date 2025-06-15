@@ -1,0 +1,76 @@
+{
+    "title": "诗经",
+    "bookInfo": {
+        "出版社": "中华书局",
+        "译者": "王秀梅",
+        "出版年": "2022-9-30",
+        "页数": "829",
+        "定价": "62.00元",
+        "装帧": "精装",
+        "丛书": "中华经典名著全本全注全译丛书",
+        "ISBN": "9787101111460"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "75.2%",
+        "four_star_rate": "19.3%",
+        "three_star_rate": "4.2%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/139359/",
+            "name": "王秀梅",
+            "role": "译者",
+            "douban_id": "139359"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "22.32元",
+            "link": "https://www.dedao.cn/ebook/detail?id=gO8xJGVarB2qEQoplXvY14JRbVdnz0zlk53jPmyDANKge8O65LG7Mk9xZYk69Zry&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "31.00元",
+            "link": "https://book.douban.com/link2/?lowest=3100&pre=0&vendor=jingdong&srcpage=subject&price=3100&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG10cWg8HU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCUldaAU4QHDZNRwYlHFxcBBgjVAl3W3V0HQwcOWBLMwsieEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcGUl5fAUgSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFJGWAdsCFgKTRBTV2xmG1oSXQQHUl9tCkoWAW04K2sSGmFHEjsgfCBAcQ9efQ9HBnVrVz0tbSl5QSlcbxxWGEReUw0UDwxsRQxRK1gl&cntvendor=4&srcsubj=26710065&type=bkbuy&subject=26710065"
+        },
+        {
+            "name": "当当网",
+            "price": "59.60元",
+            "link": "https://book.douban.com/link2/?lowest=3100&pre=0&vendor=dangdang&srcpage=subject&price=5960&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26710065%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23796403&cntvendor=4&srcsubj=26710065&type=bkbuy&subject=26710065"
+        },
+        {
+            "name": "中图网",
+            "price": "38.20元",
+            "link": "https://book.douban.com/link2/?lowest=3100&pre=0&vendor=bookschina&srcpage=subject&price=3820&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7049915.htm&cntvendor=4&srcsubj=26710065&type=bkbuy&subject=26710065"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26710065/",
+    "douban_id": "26710065",
+    "menu": [
+        "",
+        "        前言上册国风 周南 召南 邶风 郦风 卫风 王风 郑风 齐风 魏风 唐风 秦风 陈风 桧风 曹风 豳风下册雅 小雅 大雅颂",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s28396285.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "王秀梅",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E7%A7%80%E6%A2%85"
+        },
+        {
+            "text": "中华经典名著全本全注全译丛书",
+            "link": "https://book.douban.com/series/4103"
+        }
+    ],
+    "tag": "中国文学",
+    "avg_rate": 4.678
+}

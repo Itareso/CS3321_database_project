@@ -1,0 +1,54 @@
+{
+    "title": "上海堡垒",
+    "bookInfo": {
+        "作者": "江南",
+        "出版社": "长江出版社",
+        "出版年": "2016-11",
+        "定价": "38.00元",
+        "装帧": "平装",
+        "ISBN": "9787549246304"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "23.0%",
+        "four_star_rate": "32.2%",
+        "three_star_rate": "30.7%",
+        "two_star_rate": "9.1%",
+        "one_star_rate": "5.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4542050/",
+            "name": "江南",
+            "role": "作者",
+            "douban_id": "4542050"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "115.00元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=jingdong&srcpage=subject&price=11500&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVkVWQ8HVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVl5ZAU4VHDZNRwYlWX4BCAcmbUJ1fA1rfl9LFWJ6ChUJXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYGXV5ZCEMSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHg8UX1ZsCFgKQxFFXDRmG1sRVQ8EUl9tCkoWAW04K2tLC2daND4ZdAoWdmhySCB2WQVhKx0OCU15ASxNSQ1gBUZxFVZVVh1pUC9bK1gl&cntvendor=2&srcsubj=26883958&type=bkbuy&subject=26883958"
+        },
+        {
+            "name": "中图网",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=bookschina&srcpage=subject&price=2490&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7340286.htm&cntvendor=2&srcsubj=26883958&type=bkbuy&subject=26883958"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26883958/",
+    "douban_id": "26883958",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29140326.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "江南",
+            "link": "https://book.douban.com/search/%E6%B1%9F%E5%8D%97"
+        },
+        {
+            "text": "长江出版社",
+            "link": "https://book.douban.com/press/2260"
+        }
+    ],
+    "tag": "科幻"
+}

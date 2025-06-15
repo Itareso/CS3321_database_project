@@ -1,0 +1,86 @@
+{
+    "title": "柯鲁克自传",
+    "bookInfo": {
+        "作者": "[英] 柯鲁克",
+        "出版社": "生活·读书·新知三联书店",
+        "副标题": "从汉普斯特德荒野到十里店",
+        "译者": "王烁",
+        "出版年": "2023-1",
+        "页数": "313",
+        "定价": "59.00元",
+        "装帧": "平装",
+        "ISBN": "9787108074980"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.3%",
+        "four_star_rate": "44.4%",
+        "three_star_rate": "16.7%",
+        "two_star_rate": "5.6%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614382/",
+            "name": "王烁",
+            "role": "译者",
+            "douban_id": "4614382"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "29.50元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=jingdong&srcpage=subject&price=2950&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV0dWQcAUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUlZZCUkSHDZNRwYlBERyVgMNYB9ySDcMQQRAW3MLHFkbeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GXV1fC0MXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsQWVFsCFgHVENRUztmGFMdXwYHV1ttCkoWAW04K2tcAFFpND4naB5JZhpuRSBNAkNwFCk-Dh95AWgNXgYTNmRKAVlaQRZWa25gK1gl&cntvendor=3&srcsubj=36193635&type=bkbuy&subject=36193635"
+        },
+        {
+            "name": "当当网",
+            "price": "33.20元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=dangdang&srcpage=subject&price=3320&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36193635%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29505913&cntvendor=3&srcsubj=36193635&type=bkbuy&subject=36193635"
+        },
+        {
+            "name": "中图网",
+            "price": "44.10元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=bookschina&srcpage=subject&price=4410&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8982121.htm&cntvendor=3&srcsubj=36193635&type=bkbuy&subject=36193635"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36193635/",
+    "douban_id": "36193635",
+    "menu": [
+        "",
+        "        序  “尤其要紧的，你必须对自己忠实”  伊莎白",
+        "        代序  一些想法  伊莎白、柯鲁、柯马凯、柯鸿冈",
+        "        第一章\t一个犹太人的中产阶级化（1910—1929）",
+        "        第二章\t没有金砖铺路的纽约（1929—1936）",
+        "        第三章\t那条叫哈拉玛的西班牙河谷（1936—1938）",
+        "        第四章\t西班牙到中国——特工到教师（1938—1941）",
+        "        第五章\t回英国，入空军（1941—1942）",
+        "        第六章\t印度之旅（1942）",
+        "        第七章 “远东评论”（1943—1946）",
+        "        第八章 从布鲁姆斯伯里广场到太行山（1946—1947）",
+        "        第九章 农村生活的智慧（1947—1948）",
+        "        第十章 从乡村学校到学术界（1949—1966）",
+        "        第十一章 西游记•东游记（1957—1958）",
+        "        尾声",
+        "        柯鲁克年表",
+        "        译后记  王烁",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34454741.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 柯鲁克",
+            "link": "https://book.douban.com/search/%E6%9F%AF%E9%B2%81%E5%85%8B"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        },
+        {
+            "text": "王烁",
+            "link": "https://book.douban.com/author/4614382"
+        }
+    ],
+    "tag": "回忆录"
+}

@@ -1,0 +1,55 @@
+{
+    "title": "燃眉追击",
+    "bookInfo": {
+        "作者": "（美）克兰西（Chancy,T.）",
+        "出版社": "上海译文出版社",
+        "原作名": "Clear and present danger",
+        "译者": "祁阿红",
+        "出版年": "2005-07-01",
+        "页数": "586",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "丛书": "汤姆·克兰西军事系列",
+        "ISBN": "9787532737017"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "42.6%",
+        "four_star_rate": "39.5%",
+        "three_star_rate": "15.8%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/136950/",
+            "name": "汤姆·克兰西",
+            "role": "作者",
+            "douban_id": "136950"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1427460/",
+    "douban_id": "1427460",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s1441187.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "（美）克兰西（Chancy,T.）",
+            "link": "https://book.douban.com/author/136950"
+        },
+        {
+            "text": "上海译文出版社",
+            "link": "https://book.douban.com/press/2582"
+        },
+        {
+            "text": "祁阿红",
+            "link": "https://book.douban.com/search/%E7%A5%81%E9%98%BF%E7%BA%A2"
+        },
+        {
+            "text": "汤姆·克兰西军事系列",
+            "link": "https://book.douban.com/series/9109"
+        }
+    ],
+    "tag": "军事"
+}

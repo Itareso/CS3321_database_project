@@ -1,0 +1,95 @@
+{
+    "title": "鸠笛草",
+    "bookInfo": {
+        "作者": "[日] 宫部美雪",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "鳩笛草―燔祭・朽ちてゆくまで",
+        "译者": "张乐",
+        "出版年": "2022-10-1",
+        "页数": "310",
+        "定价": "46.00元",
+        "装帧": "平装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787572706127"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "18.2%",
+        "four_star_rate": "49.5%",
+        "three_star_rate": "30.4%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4557220/",
+            "name": "宫部美雪",
+            "role": "作者",
+            "douban_id": "4557220"
+        },
+        {
+            "link": "https://book.douban.com/author/4618494/",
+            "name": "张乐",
+            "role": "译者",
+            "douban_id": "4618494"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "21.99元",
+            "link": "https://read.douban.com/ebook/436728411/?dcs=subject-buylink&dcm=douban&dct=35982989"
+        },
+        {
+            "name": "京东商城",
+            "price": "23.00元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=jingdong&srcpage=subject&price=2300&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGV0cVQQHXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IONSZeW0N3XRQARjwVLWZBLFcaUhZLdjl6dVlhPnZ6Uw08W0NPWw5weD9-LxFCWCokdC9ucCZNbDJDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZdVzkkDyxMdgxAUx5mJl9eICgfWh93D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVCUMXC2Y4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgYGUwwzVE1BAioBThx7XQYEXVhYAEsnAW4JGVklbTZjLF0OACtJeGdVfFtlPUV6XRkHVRdiVR1mGS92LX4FBz8OABNPYhdrfzBnbQUy&cntvendor=4&srcsubj=35982989&type=bkbuy&subject=35982989"
+        },
+        {
+            "name": "当当网",
+            "price": "46.00元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=dangdang&srcpage=subject&price=4600&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35982989%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29504221&cntvendor=4&srcsubj=35982989&type=bkbuy&subject=35982989"
+        },
+        {
+            "name": "中图网",
+            "price": "33.70元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=bookschina&srcpage=subject&price=3370&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8998219.htm&cntvendor=4&srcsubj=35982989&type=bkbuy&subject=35982989"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35982989/",
+    "douban_id": "35982989",
+    "menu": [
+        "",
+        "        直至朽去……001",
+        "        燔祭……075",
+        "        鸠笛草……159",
+        "        解说（[日]大森望）……301",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34352593.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 宫部美雪",
+            "link": "https://book.douban.com/author/4557220"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "张乐",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E4%B9%90"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

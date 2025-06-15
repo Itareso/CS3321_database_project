@@ -1,0 +1,68 @@
+{
+    "title": "海浪",
+    "bookInfo": {
+        "作者": "[英] 弗吉尼亚·伍尔夫",
+        "出版社": "上海译文出版社",
+        "原作名": "The Waves",
+        "译者": "曹元勇",
+        "出版年": "2023-4",
+        "页数": "395",
+        "定价": "72",
+        "装帧": "精装",
+        "丛书": "伍尔夫文集·布面精装版",
+        "ISBN": "9787532793006"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《海浪》是伍尔夫创作力鼎盛时期的作品，出版于1931年。这部诗一般的实验作品没有严格意义上的故事，倒更像是一部由九个乐章构建而成的音乐作品：每个引子都是一篇精致的散文诗，以太阳和海浪的涨落与变迁对应生命的兴衰沉浮；跟在每段引子后面的是六个没有姓氏的、高度形式化的人物在各自相应人生阶段——从儿童时代、学生时代、青春时代、中年时代直到老年时代——的瞬间内心独白。引子与正文互相映射，为读者的感官辟开前所未有的、细致入微的通道，最大限度地接近生命、时间、意识以及感觉的实质。    这是一部在现代文学的殿堂中占据重要地位的作品，时至今日，仍以其精美绝伦的文本结构和诗意盎然的笔调激荡着我们的灵魂。    略少一笔，则将失去它所具有的诗意；略增一笔，则它将跌入艺术宫殿的深渊，变得索然无味和故作风雅。——E.M.福斯特    《海浪》简直成了一首长诗。是诗吗？更正确地说，是一部清唱剧。六个独唱者轮流念出辞藻华丽的独白，唱出他们对时间和死亡的观念。——莫洛亚\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "72.0%",
+        "four_star_rate": "19.6%",
+        "three_star_rate": "7.2%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4544620/",
+            "name": "弗吉尼亚·伍尔夫",
+            "role": "作者",
+            "douban_id": "4544620"
+        },
+        {
+            "link": "https://book.douban.com/author/4623537/",
+            "name": "曹元勇",
+            "role": "译者",
+            "douban_id": "4623537"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "42.99元",
+            "link": "https://read.douban.com/ebook/429655528/?dcs=subject-buylink&dcm=douban&dct=36294879"
+        },
+        {
+            "name": "得到",
+            "price": "71.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=rEQKv6PKN7rEo2Gxg96ZjApyMvQVlw5j1md0Xb14PJzDkYaReqd8n5LOmB8d7egB&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "36.00元",
+            "link": "https://book.douban.com/link2/?lowest=3600&pre=0&vendor=jingdong&srcpage=subject&price=3600&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVMXWAUHXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOJDs4SjUSfjcKZid1D2ZBFigHXzZOZm9PdVlzKUBnDBxfCElSRh9tbwZwGxFCWCokdBtgShhKbDJDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZfDQwJCgJvRA0JXx5zBFlaVQkHVQlBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFZfDUwTBGY4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRA1kzVE1AQixdTg57XQcBXFpYC0MnAW4JGVklbTZyMTsfdk5qW211ZztHPUVAIgQKdRJyAyhmGT1hG2NaFlxdCg5Scwp8Rj5TbQUy&cntvendor=5&srcsubj=36294879&type=bkbuy&subject=36294879"
+        },
+        {
+            "name": "当当网",
+            "price": "69.10元",
+            "link": "https://book.douban.com/link2/?lowest=3600&pre=0&vendor=dangdang&srcpage=subject&price=6909&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36294879%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29557830&cntvendor=5&srcsubj=36294879&type=bkbuy&subject=36294879"
+        },
+        {
+            "name": "中图网",
+            "price": "47.10元",
+            "link": "https://book.douban.com/link2/?lowest=3600&pre=0&vendor=bookschina&srcpage=subject&price=4710&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9073973.htm&cntvendor=5&srcsubj=36294879&type=bkbuy&subject=36294879"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36294879/",
+    "douban_id": "36294879",
+    "menu": [],
+    "tag": "小说"
+}

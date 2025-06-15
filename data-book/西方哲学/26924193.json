@@ -1,0 +1,89 @@
+{
+    "title": "哲学家的肚子",
+    "bookInfo": {
+        "作者": "[法] 米歇尔·翁弗雷（Michel Onfray） / 米歇尔·翁福雷",
+        "出版社": "华东师范大学出版社",
+        "原作名": "Les ventres des philosophes",
+        "译者": "林泉喜",
+        "出版年": "2017-1-1",
+        "页数": "232",
+        "定价": "38.00元",
+        "装帧": "精装",
+        "丛书": "轻与重",
+        "ISBN": "9787567557109"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.8%",
+        "four_star_rate": "51.7%",
+        "three_star_rate": "26.5%",
+        "two_star_rate": "0.7%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4642174/",
+            "name": "米歇尔·翁福雷",
+            "role": "作者",
+            "douban_id": "4642174"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "25.40元",
+            "link": "https://book.douban.com/link2/?lowest=2460&pre=0&vendor=jingdong&srcpage=subject&price=2540&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFoWWwEGUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVV1bD08RHDZNRwYlXgEEU18-fyp1cSsPUhgVKQICPS4FXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4HXFhaAEkXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8SWlVsCFgHVQhUCmdmGFMTWwIEV1xtCkoWAW04K2tVGQVaND4BXTRUfTdcHQ1LOkZXFyg8TDB5AS1dSB9XBVVWKzo5SA9Dah1YK1gl&cntvendor=3&srcsubj=26924193&type=bkbuy&subject=26924193"
+        },
+        {
+            "name": "当当网",
+            "price": "27.40元",
+            "link": "https://book.douban.com/link2/?lowest=2460&pre=0&vendor=dangdang&srcpage=subject&price=2740&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26924193%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D24168353&cntvendor=3&srcsubj=26924193&type=bkbuy&subject=26924193"
+        },
+        {
+            "name": "中图网",
+            "price": "24.60元",
+            "link": "https://book.douban.com/link2/?lowest=2460&pre=0&vendor=bookschina&srcpage=subject&price=2460&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7383429.htm&cntvendor=3&srcsubj=26924193&type=bkbuy&subject=26924193"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26924193/",
+    "douban_id": "26924193",
+    "menu": [
+        "",
+        "        我的饮食自传 /1",
+        "        一、杂食者的盛宴 /1",
+        "        二、第欧根尼，或章鱼的滋味 /17",
+        "        三、卢梭，或奶酪 /33",
+        "        四、康德，或道德的酒精中毒 /55",
+        "        五、傅立叶，或中轴型小肉酱 /75",
+        "        六、尼采，或反基督者的香肠 /99",
+        "        七、马里内蒂，或古龙水咖啡煮香肠 /119",
+        "        八、萨特，或水生甲壳动物的复仇 /143",
+        "        总结、饮食的快乐知识 /165",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29181682.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法] 米歇尔·翁弗雷（Michel Onfray）",
+            "link": "https://book.douban.com/search/%E7%B1%B3%E6%AD%87%E5%B0%94%C2%B7%E7%BF%81%E5%BC%97%E9%9B%B7"
+        },
+        {
+            "text": "米歇尔·翁福雷",
+            "link": "https://book.douban.com/author/4642174"
+        },
+        {
+            "text": "华东师范大学出版社",
+            "link": "https://book.douban.com/press/2486"
+        },
+        {
+            "text": "林泉喜",
+            "link": "https://book.douban.com/search/%E6%9E%97%E6%B3%89%E5%96%9C"
+        },
+        {
+            "text": "轻与重",
+            "link": "https://book.douban.com/series/13907"
+        }
+    ],
+    "tag": "西方哲学"
+}

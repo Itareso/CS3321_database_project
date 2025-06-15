@@ -1,0 +1,55 @@
+{
+    "title": "利刃-硝烟散尽",
+    "bookInfo": {
+        "作者": "肖锚",
+        "出版社": "太白文艺出版社",
+        "出版年": "2007-4",
+        "页数": "372",
+        "定价": "29.80元",
+        "ISBN": "9787806804902"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "52.8%",
+        "four_star_rate": "27.8%",
+        "three_star_rate": "13.9%",
+        "two_star_rate": "5.6%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4612381/",
+            "name": "肖锚",
+            "role": "作者",
+            "douban_id": "4612381"
+        },
+        {
+            "link": "https://book.douban.com/author/1365101/",
+            "name": "退色的子弹",
+            "role": "作者",
+            "douban_id": "1365101"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "25.00元",
+            "link": "https://book.douban.com/link2/?lowest=2500&pre=0&vendor=jingdong&srcpage=subject&price=2500&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10030409641559.html&cntvendor=1&srcsubj=2151852&type=bkbuy&subject=2151852"
+        }
+    ],
+    "url": "https://book.douban.com/subject/2151852/",
+    "douban_id": "2151852",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s5831973.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "肖锚",
+            "link": "https://book.douban.com/author/4612381/"
+        },
+        {
+            "text": "太白文艺出版社",
+            "link": "https://book.douban.com/press/2808"
+        }
+    ],
+    "tag": "军事"
+}

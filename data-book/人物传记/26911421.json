@@ -1,0 +1,44 @@
+{
+    "title": "普京传",
+    "bookInfo": {
+        "作者": "阿纳托利",
+        "出版社": "中国友谊出版公司",
+        "副标题": "硬汉普京和他的权力世界",
+        "出版年": "2016-10",
+        "页数": "312",
+        "定价": "48元",
+        "装帧": "精装",
+        "ISBN": "9787505738515"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "8.9%",
+        "four_star_rate": "24.5%",
+        "three_star_rate": "44.0%",
+        "two_star_rate": "15.4%",
+        "one_star_rate": "7.2%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "19.20元",
+            "link": "https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w762Q3rbx6pNgznl9VZPLJQyEBodb89mqoO&source=douban"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26911421/",
+    "douban_id": "26911421",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29142286.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "阿纳托利",
+            "link": "https://book.douban.com/search/%E9%98%BF%E7%BA%B3%E6%89%98%E5%88%A9"
+        },
+        {
+            "text": "中国友谊出版公司",
+            "link": "https://book.douban.com/press/2416"
+        }
+    ],
+    "tag": "人物传记"
+}

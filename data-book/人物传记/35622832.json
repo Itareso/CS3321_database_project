@@ -1,0 +1,69 @@
+{
+    "title": "苏东坡全传",
+    "bookInfo": {
+        "作者": "秦晓",
+        "出版社": "中国友谊出版公司",
+        "出版年": "2021-10-1",
+        "页数": "272",
+        "定价": "49.80",
+        "装帧": "平装",
+        "ISBN": "9787505752764"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.9%",
+        "four_star_rate": "45.6%",
+        "three_star_rate": "12.3%",
+        "two_star_rate": "2.5%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "49.80元",
+            "link": "https://read.douban.com/ebook/331708673/?dcs=subject-buylink&dcm=douban&dct=35622832"
+        },
+        {
+            "name": "京东商城",
+            "price": "22.70元",
+            "link": "https://book.douban.com/link2/?lowest=2270&pre=0&vendor=jingdong&srcpage=subject&price=2270&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQcJK1olVQIGVFdYCkseM28JGlkcVQIAUllfDk0eMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWAWYAH1kTWgQEUldCUQ5LXl9vQBlwPn1bKjw0XDUQAxlfTFpXI3FyWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mG18QWQIHZFxdCUoSA2cBEl4lXQAHVVtVDEIeAG4MGmsVVQIyjd7q3umF2vGCztOCbTYyV25tOEsnAF9WdVpGWgMFVAwIZhcRWTNbHwdNMwQDVVlaC0kRM20JGlkXbTYyJig6Di93QBZAexNTNXhDCig1aQlcdhhAdVljJEF0Blg6TQNQexRNeD58OTYBZA&cntvendor=2&srcsubj=35622832&type=bkbuy&subject=35622832"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35622832/",
+    "douban_id": "35622832",
+    "menu": [
+        "",
+        "        序",
+        "        第一章 少年苏轼",
+        "        第二章 名震京都",
+        "        第三章 新官上任三把火",
+        "        第四章 王安石变法",
+        "        第五章 江南最美是杭州",
+        "        第六章 密州",
+        "        第七章 文坛新领袖",
+        "        第八章 乌台诗案",
+        "        第九章 农人苏东坡",
+        "        第十章 田园将芜胡不归",
+        "        第十一章 人人都爱苏子瞻",
+        "        第十二章 元祐党争",
+        "        第十三章 二年知三州",
+        "        第十四章 贬谪岁月",
+        "        第十五章 北归中原",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34019880.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "秦晓",
+            "link": "https://book.douban.com/search/%E7%A7%A6%E6%99%93"
+        },
+        {
+            "text": "中国友谊出版公司",
+            "link": "https://book.douban.com/press/2416"
+        }
+    ],
+    "tag": "人物传记"
+}

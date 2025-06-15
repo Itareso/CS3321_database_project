@@ -1,0 +1,157 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "画聊斋",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34878694.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36915812/",
+                        "year": "2024",
+                        "id": 36915812
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "老实好人",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34678806.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36506706/",
+                        "year": "2023",
+                        "id": 36506706
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "作家榜名著：金银岛",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34596525.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36491187/",
+                        "year": "2023",
+                        "id": 36491187
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "时间熊，镜子虎和看不见的小猫",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34220432.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35875862/",
+                        "year": "2022",
+                        "id": 35875862
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "道林·格雷的画像",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33972764.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35562044/",
+                        "year": "2021",
+                        "id": 35562044
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "在俄国",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33754232.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35235980/",
+                        "year": "2020",
+                        "id": 35235980
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "赵桥村",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33307240.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34440418/",
+                        "year": "2019",
+                        "id": 34440418
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "爱丽丝漫游奇境",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29827299.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30121397/",
+                        "year": "2018",
+                        "id": 30121397
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "彼得兔",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29164744.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26918931/",
+                        "year": "2016",
+                        "id": 26918931
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "西天",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28391979.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26716975/",
+                        "year": "2016",
+                        "id": 26716975
+                    }
+                }
+            ],
+            "total": 19
+        }
+    },
+    "author_link": "https://book.douban.com/author/4541726/",
+    "author_douban_id": "4541726",
+    "personage_id": 30115534,
+    "name": [
+        "顾湘",
+        "Xiang Gu"
+    ],
+    "intro": "顾湘，网名恐怖爱丽丝，女，1980年2月出生，水瓶座，籍贯上海，毕业于上海戏剧学院和莫斯科国立大学。1993年在《中外少年》发表第一篇文章。1997年考入上海戏剧学院戏文系文艺编导专业。后留学莫斯科。著有《为不高兴的欢乐》（黑蓝文丛）、《安全出口》、《点击1999》、《西天》、《东香纪：俄罗斯游学札记》、《穿过近海》等。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30115534/photo/2910731958"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2910731958.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/41da2e90d49bb448a25a1d87338ad996.jpg",
+    "更多中文名": "恐怖爱丽丝",
+    "sex": 0,
+    "birth_date": 1980,
+    "age": 46,
+    "birth_place": [
+        "中国",
+        "上海"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

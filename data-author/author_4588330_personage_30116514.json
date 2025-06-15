@@ -1,0 +1,99 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "变得厉害",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34931768.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36999799/",
+                        "year": "2024",
+                        "id": 36999799
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "竟然是真的",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33963820.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35547858/",
+                        "year": "2021",
+                        "id": 35547858
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "无中生有",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29888408.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30339988/",
+                        "year": "2018",
+                        "id": 30339988
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "毫无必要的热情",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28122360.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26263052/",
+                        "year": "2015",
+                        "id": 26263052
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "出神",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s6804066.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/6711774/",
+                        "year": "2011",
+                        "id": 6711774
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4588330/",
+    "author_douban_id": "4588330",
+    "personage_id": 30116514,
+    "name": [
+        "刘天昭",
+        "Tianzhao Liu"
+    ],
+    "intro": "刘天昭，女，1977年出生于吉林省乾安县。原《南方都市报》社论主笔，清华大学建筑系1996级，已出版散文集两种，2018年出版长篇小说《无中生有》。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30116514/photo/2913216822",
+        "https://www.douban.com/personage/30116514/photo/2913216821"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2913216822.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2913216821.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/c4a6f1d33882fe0d1f141660dfe32cf0.jpg",
+    "更多中文名": "小昭",
+    "sex": 0,
+    "birth_date": 1977,
+    "age": 49,
+    "birth_place": [
+        "中国",
+        "吉林",
+        "乾安"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

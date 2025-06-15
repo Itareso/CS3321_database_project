@@ -1,0 +1,71 @@
+{
+    "title": "康德与形而上学疑难",
+    "bookInfo": {
+        "作者": "[德] 马丁·海德格尔",
+        "出版社": "商务印书馆",
+        "副标题": "海德格尔文集",
+        "译者": "王庆节",
+        "出版年": "2018-5",
+        "页数": "358",
+        "定价": "95.00",
+        "装帧": "精装",
+        "丛书": "海德格尔文集",
+        "ISBN": "9787100158800"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "82.0%",
+        "four_star_rate": "12.6%",
+        "three_star_rate": "5.4%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4549885/",
+            "name": "马丁·海德格尔",
+            "role": "作者",
+            "douban_id": "4549885"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "83.80元",
+            "link": "https://book.douban.com/link2/?lowest=6750&pre=0&vendor=jingdong&srcpage=subject&price=8380&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVkcWA4EV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVldYAE0UHDZNRwYlIH8cBAA5YBh3aCsJHT1GHG1qFkAKeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GVlhaDEwfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXANsCFgHVEpEXj1mGVoUVAQBXVttCkoWAW04K2tQCXxpND46Dy9FWxNSaAFnXn5FNCsJcQx5ATZTGQ93NnN5MC4tTR8QRDR1K1gl&cntvendor=3&srcsubj=30145693&type=bkbuy&subject=30145693"
+        },
+        {
+            "name": "当当网",
+            "price": "94.60元",
+            "link": "https://book.douban.com/link2/?lowest=6750&pre=0&vendor=dangdang&srcpage=subject&price=9460&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30145693%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29288202&cntvendor=3&srcsubj=30145693&type=bkbuy&subject=30145693"
+        },
+        {
+            "name": "中图网",
+            "price": "67.50元",
+            "link": "https://book.douban.com/link2/?lowest=6750&pre=0&vendor=bookschina&srcpage=subject&price=6750&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7819360.htm&cntvendor=3&srcsubj=30145693&type=bkbuy&subject=30145693"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30145693/",
+    "douban_id": "30145693",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29790322.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] 马丁·海德格尔",
+            "link": "https://book.douban.com/author/4549885"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "王庆节",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E5%BA%86%E8%8A%82"
+        },
+        {
+            "text": "海德格尔文集",
+            "link": "https://book.douban.com/series/24683"
+        }
+    ],
+    "tag": "西方哲学"
+}

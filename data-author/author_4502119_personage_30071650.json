@@ -1,0 +1,155 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "牛棚杂忆",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34910144.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36953732/",
+                        "year": "2024",
+                        "id": 36953732
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "夜来香开花的时候",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34930338.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36974100/",
+                        "year": "2024",
+                        "id": 36974100
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "季羡林：微苦中实有甜美在",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34861536.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36890828/",
+                        "year": "2024",
+                        "id": 36890828
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "读书·治学·写作",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34930307.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36974099/",
+                        "year": "2024",
+                        "id": 36974099
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "季羡林谈国学",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34930302.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36974101/",
+                        "year": "2024",
+                        "id": 36974101
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "清华园日记",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34930284.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36974170/",
+                        "year": "2024",
+                        "id": 36974170
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "先生们",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34930311.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36980392/",
+                        "year": "2024",
+                        "id": 36980392
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.7,
+                        "title": "长路漫漫，心有所归",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34418123.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/36249543/",
+                        "year": "2023",
+                        "id": 36249543
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "人间值得爱",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34520455.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36336420/",
+                        "year": "2023",
+                        "id": 36336420
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "五卷书",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34072492.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35706876/",
+                        "year": "2022",
+                        "id": 35706876
+                    }
+                }
+            ],
+            "total": 506
+        }
+    },
+    "author_link": "https://book.douban.com/author/4502119/",
+    "author_douban_id": "4502119",
+    "personage_id": 30071650,
+    "name": [
+        "季羡林",
+        "Xianlin Ji"
+    ],
+    "intro": "季羡林（1911年8月6日—2009年7月11日），中国山东省聊城市临清人，字希逋，又字齐奘。国际著名东方学大师、语言学家、文学家、国学家、佛学家、史学家、教育家和社会活动家。历任中国科学院哲学社会科学部委员、聊城大学名誉校长、北京大学副校长、中国社会科学院南亚研究所所长，是北京大学的终身教授。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/img/author/medium/public/1495555691.21.jpg",
+    "更多中文名": "希逋 / 齐奘",
+    "sex": 1,
+    "birth_date": 1911,
+    "death_date": 2009,
+    "age": 99,
+    "birth_place": [
+        "中国",
+        "山东",
+        "临清"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

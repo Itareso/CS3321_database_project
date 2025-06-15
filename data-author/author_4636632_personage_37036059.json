@@ -1,0 +1,96 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "吉普赛郊游",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34911674.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36953571/",
+                        "year": "2024",
+                        "id": 36953571
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "夜叉渡河",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34522274.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36366081/",
+                        "year": "2023",
+                        "id": 36366081
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "暗子",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34069442.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35701510/",
+                        "year": "2022",
+                        "id": 35701510
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "角色X",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33894376.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35458684/",
+                        "year": "2021",
+                        "id": 35458684
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "十三人：90后作家短篇小说集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34217655.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35897736/",
+                        "year": "",
+                        "id": 35897736
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4636632/",
+    "author_douban_id": "4636632",
+    "personage_id": 37036059,
+    "name": [
+        "路魆",
+        "Xu Lu"
+    ],
+    "intro": "路魆，本名陆嘉伟，1993年生于广东。已出版长篇小说《暗子》，小说集《夜叉渡河》《角色X》。小说发表于《收获》《人民文学》《钟山》《花城》等文学杂志。曾获得第四届“钟山之星”文学奖，第四届PAGEONE文学赏评审团赏等。2024年8月出版全新小说集《吉普赛郊游》。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/37036059/photo/2912885314"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2912885314.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/82f41d88b88a1648e6c3452fb042a696.jpg",
+    "sex": 1,
+    "birth_date": 1993,
+    "age": 33,
+    "birth_place": [
+        "中国",
+        "广东",
+        "肇庆"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

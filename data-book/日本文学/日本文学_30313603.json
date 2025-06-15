@@ -1,0 +1,80 @@
+{
+    "title": "假面的告白",
+    "bookInfo": {
+        "作者": "[日] 三岛由纪夫",
+        "出版社": "人民文学出版社",
+        "译者": "陈德文",
+        "出版年": "2020-6",
+        "页数": "174",
+        "定价": "43.00元",
+        "丛书": "三岛由纪夫作品系列（典藏本）",
+        "ISBN": "9787020145904"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "43.3%",
+        "four_star_rate": "38.9%",
+        "three_star_rate": "16.2%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4508171/",
+            "name": "三岛由纪夫",
+            "role": "作者",
+            "douban_id": "4508171"
+        },
+        {
+            "link": "https://book.douban.com/author/4608726/",
+            "name": "陈德文",
+            "role": "译者",
+            "douban_id": "4608726"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "21.06元",
+            "link": "https://www.dedao.cn/eBook/5kMLgX2vKGy7x5M8YRoDQbLgqkEeAw2Eq63BNn2r6ljVPO1mX9ad4JZpzZn1RbeE?source=douban"
+        },
+        {
+            "name": "当当网",
+            "price": "25.80元",
+            "link": "https://book.douban.com/link2/?lowest=2580&pre=0&vendor=dangdang&srcpage=subject&price=2580&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30313603%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28557994&cntvendor=4&srcsubj=30313603&type=bkbuy&subject=30313603"
+        },
+        {
+            "name": "京东商城",
+            "price": "32.25元",
+            "link": "https://book.douban.com/link2/?lowest=2580&pre=0&vendor=jingdong&srcpage=subject&price=3225&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFIcXQAHXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOXV0lCDRyShdhcyFWBXtKNzUBQSJPVRdqdVlPAHkBA14CcSJidmYLcAN-XRFCWCokcBhucAxJbDJDBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZEMSYFUileBAxoSw1-KkUFHCo7QC9RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVV1ZDkIUAWc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQYDXVgzVE1AQDFUUg17XQcGVlZdDkgnAW4JGVklbTYLVyZddy5eewZgYRhNIE5hPwIUYRNBew1mGQFIIgVVVAEkYT5iCmxjQzAVbQUy&cntvendor=4&srcsubj=30313603&type=bkbuy&subject=30313603"
+        },
+        {
+            "name": "中图网",
+            "price": "34.10元",
+            "link": "https://book.douban.com/link2/?lowest=2580&pre=0&vendor=bookschina&srcpage=subject&price=3410&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8314654.htm&cntvendor=4&srcsubj=30313603&type=bkbuy&subject=30313603"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30313603/",
+    "douban_id": "30313603",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33666288.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 三岛由纪夫",
+            "link": "https://book.douban.com/author/4508171"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "陈德文",
+            "link": "https://book.douban.com/search/%E9%99%88%E5%BE%B7%E6%96%87"
+        },
+        {
+            "text": "三岛由纪夫作品系列（典藏本）",
+            "link": "https://book.douban.com/series/43962"
+        }
+    ],
+    "tag": "日本文学"
+}

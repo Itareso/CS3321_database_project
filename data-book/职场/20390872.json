@@ -1,0 +1,64 @@
+{
+    "title": "问鼎2 燕市风云",
+    "bookInfo": {
+        "作者": "何常在",
+        "出版社": "线装书局",
+        "出版年": "2012-11",
+        "页数": "424",
+        "定价": "39.80元",
+        "ISBN": "9787512006997"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.3%",
+        "four_star_rate": "28.9%",
+        "three_star_rate": "25.0%",
+        "two_star_rate": "6.3%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4549411/",
+            "name": "何常在",
+            "role": "作者",
+            "douban_id": "4549411"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "17.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg04qMKZWJzxbE9LZl1o8RkGd2BPYv4x6d9me&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "17.53元",
+            "link": "https://book.douban.com/link2/?lowest=1350&pre=0&vendor=jingdong&srcpage=subject&price=1753&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAP4JK1olVQIKVVxZAEsWM28LG1MUVQcGV19tTBRPXTA4Qh5QHEQJSkAFTR9LHDRdBAlLARgCV15VCUMWB2wJBAJQAVsyKgEhbx0RZmdteSlBLnQGNR4tTjNPRWMEK1wQWgAFXV1aOEsTAmsMK2sVXDZDOltbDkoQM20IGloQXQ4FV19tCE0SAmoAHV8XXQcHU25dAE8n2u-_zfmHhJiIgdbKOHsnAF84K1slXjZcOl8OAEsUC2kPdQcTB1lSDF9cZkkWAm0AE18cbQQDVVxfOHsncBNLXS5wCEFnLDo0aUxTWTxMbAFeP3NyOlwofxtrdSkIeT5PB1FWJwMfW3sUMw&cntvendor=4&srcsubj=20390872&type=bkbuy&subject=20390872"
+        },
+        {
+            "name": "当当网",
+            "price": "22.40元",
+            "link": "https://book.douban.com/link2/?lowest=1350&pre=0&vendor=dangdang&srcpage=subject&price=2240&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s20390872%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D22914962&cntvendor=4&srcsubj=20390872&type=bkbuy&subject=20390872"
+        },
+        {
+            "name": "中图网",
+            "price": "13.50元",
+            "link": "https://book.douban.com/link2/?lowest=1350&pre=0&vendor=bookschina&srcpage=subject&price=1350&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8960231.htm&cntvendor=4&srcsubj=20390872&type=bkbuy&subject=20390872"
+        }
+    ],
+    "url": "https://book.douban.com/subject/20390872/",
+    "douban_id": "20390872",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s26757285.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "何常在",
+            "link": "https://book.douban.com/author/4549411/"
+        },
+        {
+            "text": "线装书局",
+            "link": "https://book.douban.com/press/2432"
+        }
+    ],
+    "tag": "职场"
+}

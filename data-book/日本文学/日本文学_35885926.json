@@ -1,0 +1,89 @@
+{
+    "title": "吉祥寺的朝日奈",
+    "bookInfo": {
+        "作者": "中田永一 / [日本] 乙一",
+        "出版社": "台海出版社",
+        "出品方": "力潮文创",
+        "原作名": "吉祥寺の朝日奈くん",
+        "译者": "杜星宇",
+        "出版年": "2022-8",
+        "页数": "218",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "丛书": "千本樱文库",
+        "ISBN": "9787516832547"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "21.4%",
+        "four_star_rate": "48.6%",
+        "three_star_rate": "27.0%",
+        "two_star_rate": "2.6%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/150964/",
+            "name": "乙一",
+            "role": "作者",
+            "douban_id": "150964"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "28.50元",
+            "link": "https://book.douban.com/link2/?lowest=1780&pre=0&vendor=jingdong&srcpage=subject&price=2850&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVgdXQQFUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAV1ZdCkwRHDZNRwYlPk1-FhYrQD1yR2x6clxlWw5SAFgKXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcBUVpUAEkSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFkRXAVsCFgKSxcURThmG1oSXQYFXFxtCkoWAW04K2sdPUFBKjcYfw8SWh8KehhAFQZiJjY0bTF5AQdsGDtwHgNEEAADACtvZTN7K1gl&cntvendor=3&srcsubj=35885926&type=bkbuy&subject=35885926"
+        },
+        {
+            "name": "当当网",
+            "price": "82.10元",
+            "link": "https://book.douban.com/link2/?lowest=1780&pre=0&vendor=dangdang&srcpage=subject&price=8210&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35885926%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29438765&cntvendor=3&srcsubj=35885926&type=bkbuy&subject=35885926"
+        },
+        {
+            "name": "中图网",
+            "price": "17.80元",
+            "link": "https://book.douban.com/link2/?lowest=1780&pre=0&vendor=bookschina&srcpage=subject&price=1780&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8902557.htm&cntvendor=3&srcsubj=35885926&type=bkbuy&subject=35885926"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35885926/",
+    "douban_id": "35885926",
+    "menu": [
+        "",
+        "        开始交换日记了",
+        "        涂鸦大冒险",
+        "        先别破坏三角形",
+        "        吵闹的肚子",
+        "        吉祥寺的朝日奈",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34286661.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "中田永一",
+            "link": "https://book.douban.com/search/%E4%B8%AD%E7%94%B0%E6%B0%B8%E4%B8%80"
+        },
+        {
+            "text": "[日本] 乙一",
+            "link": "https://book.douban.com/author/150964"
+        },
+        {
+            "text": "台海出版社",
+            "link": "https://book.douban.com/press/2502"
+        },
+        {
+            "text": "力潮文创",
+            "link": "https://book.douban.com/producers/479"
+        },
+        {
+            "text": "杜星宇",
+            "link": "https://book.douban.com/search/%E6%9D%9C%E6%98%9F%E5%AE%87"
+        },
+        {
+            "text": "千本樱文库",
+            "link": "https://book.douban.com/series/44121"
+        }
+    ],
+    "tag": "日本文学"
+}

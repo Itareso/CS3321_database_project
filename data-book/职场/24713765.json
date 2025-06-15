@@ -1,0 +1,90 @@
+{
+    "title": "找我2",
+    "bookInfo": {
+        "作者": "黄铁鹰",
+        "出版社": "中信出版社",
+        "出版年": "2013-6",
+        "页数": "296",
+        "定价": "32.00元",
+        "丛书": "找我",
+        "ISBN": "9787508639802"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《找我2》是《找我1》的延续，也是对《找我1》的全面提升，本书拥有更强势的影响力、更开放的主题、更毒辣的评论、更具代表性的作者、更厚实的内容。不同背景，不同人生阅历的管理者、过来人，对企业管理、职场发展和创生人生中的诸多难题，进行了辛辣的点评。这些令人左右为难、辗转反侧思而不解的问题没有标准答案，但一定有适合读者的答案。    本辑精选了25个管理案例，均为真人真事，内容涉及升职、跳槽、创业、职场性骚扰、替老板背黑锅等诸多职场中人在现实生活中经常会遇到的难题。热评问题包括：1.四大会计师行里夹心阶层的困惑；2.老板如何用好职业经理人；3.平台重要，还是领导重要；4.现在的工作味同嚼蜡，我是否该自己创业；5.客户服务中心经理为何“滑铁卢”收场；6. 如何杜绝业务员飞单；7.面对私交不错但不符合工作要求的下级，怎么办；8.经营了3年的幼儿园，教育局科长要撬走，怎么办；9. 对外人，我打肿脸充胖子；对员工，我该如何……在延续上一辑成功经验的基础上，本辑又新增了理论概括性的点评和有实操经验的老板点评，讨论的问题更加接近人性和心灵深处，整体风格更加“接地气”。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "27.7%",
+        "four_star_rate": "55.5%",
+        "three_star_rate": "14.1%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4584366/",
+            "name": "黄铁鹰",
+            "role": "作者",
+            "douban_id": "4584366"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "43.00元",
+            "link": "https://book.douban.com/link2/?lowest=1670&pre=0&vendor=jingdong&srcpage=subject&price=4300&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgAAV1dfAE8XBV8IGloQWQcEU1ZaDE4RAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoMGl0SVQEGUVheFxJSXzI4bDlzAHwEBhY9EgMUW3Vrbj9uPUFCAlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwABUlZYOEkXAm4NG1MSXgcyVFhYCU4fBWgMGV4WWDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRXVkJChxHbTMOQQRAWFELOl1VAEkWB2YIK1kUXAQAZG5taTMUUGdoRSAdAGFYVBUlVSlQA2h4RDBAMwR2Ny4lDxh2UGduEi5zBAAGJm5eOA&cntvendor=2&srcsubj=24713765&type=bkbuy&subject=24713765"
+        },
+        {
+            "name": "中图网",
+            "price": "16.70元",
+            "link": "https://book.douban.com/link2/?lowest=1670&pre=0&vendor=bookschina&srcpage=subject&price=1670&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5906522.htm&cntvendor=2&srcsubj=24713765&type=bkbuy&subject=24713765"
+        }
+    ],
+    "url": "https://book.douban.com/subject/24713765/",
+    "douban_id": "24713765",
+    "menu": [
+        "",
+        "        序 铁鹰的不同",
+        "        自序 世界是个万花筒，每个人看到的图案都不同",
+        "        梦寐以求的新职位，该接下这个橄榄枝吗？",
+        "        升职后，如何应对原来的领导和同事？",
+        "        跟前上司走，还是留下，或者另起炉灶？",
+        "        平台重要，还是领导重要？",
+        "        现在的工作味同嚼蜡，我是否该自己创业？",
+        "        几次创业失败，32岁的我一无所有，该继续还是放弃？",
+        "        我在这家民企能有发展吗？",
+        "        开除我，又一直拖着我，我该怎么办？",
+        "        经营了3年的幼儿园，教育局科长要撬走，怎么办？",
+        "        面对油盐不进的女上司，我该怎么办？",
+        "        面对私交不错但不符合工作要求的下级，怎么办？",
+        "        这个黑锅该不该背？",
+        "        市场严冬了，夹心经理怎么过冬？",
+        "        老板如何用好职业经理人？",
+        "        客户服务中心经理为何“滑铁卢”收场？",
+        "        为拉单员工把奖金返利给客户，怎么制止？",
+        "        如何杜绝业务员飞单？",
+        "        如何在国有“家族”企业中成长?",
+        "        我该如何赔偿这个非因工意外死亡的员工？",
+        "        对赌之后……",
+        "        职场性骚扰——究竟有没有好的解决办法？",
+        "        女性项目经理如何应对酒桌恶习？",
+        "        对外人，我打肿脸充胖子；对员工，我该如何？",
+        "        副总要辞职……",
+        "        四大会计师行光环背后的辛酸",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s26684451.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "黄铁鹰",
+            "link": "https://book.douban.com/author/4584366/"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "找我",
+            "link": "https://book.douban.com/series/20163"
+        }
+    ],
+    "tag": "职场"
+}

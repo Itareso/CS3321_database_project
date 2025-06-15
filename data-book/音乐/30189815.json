@@ -1,0 +1,50 @@
+{
+    "title": "自由生长",
+    "bookInfo": {
+        "作者": "张嵬 / 陈浮",
+        "出版社": "重庆大学出版社",
+        "出版年": "2018-3",
+        "定价": "88.00元",
+        "ISBN": "9787568906425"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "24.7%",
+        "four_star_rate": "43.9%",
+        "three_star_rate": "25.3%",
+        "two_star_rate": "5.1%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "45.18元",
+            "link": "https://book.douban.com/link2/?lowest=4518&pre=0&vendor=jingdong&srcpage=subject&price=4518&pos=1&url=https%3A%2F%2Fitem.jd.com%2F27983265187.html&cntvendor=2&srcsubj=30189815&type=bkbuy&subject=30189815"
+        },
+        {
+            "name": "中图网",
+            "price": "58.20元",
+            "link": "https://book.douban.com/link2/?lowest=4518&pre=0&vendor=bookschina&srcpage=subject&price=5820&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7746662.htm&cntvendor=2&srcsubj=30189815&type=bkbuy&subject=30189815"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30189815/",
+    "douban_id": "30189815",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29740438.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张嵬",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E5%B5%AC"
+        },
+        {
+            "text": "陈浮",
+            "link": "https://book.douban.com/search/%E9%99%88%E6%B5%AE"
+        },
+        {
+            "text": "重庆大学出版社",
+            "link": "https://book.douban.com/press/2645"
+        }
+    ],
+    "tag": "音乐"
+}

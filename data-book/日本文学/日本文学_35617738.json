@@ -1,0 +1,40 @@
+{
+    "title": "沼の国",
+    "bookInfo": {
+        "作者": "宮田光",
+        "出版社": "二見書房",
+        "出版年": "2021-10-20",
+        "页数": "288",
+        "定价": "JPY 880",
+        "装帧": "文庫",
+        "ISBN": "9784576211664"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": null,
+        "four_star_rate": null,
+        "three_star_rate": null,
+        "two_star_rate": null,
+        "one_star_rate": null
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4636860/",
+            "name": "宫田光",
+            "role": "作者",
+            "douban_id": "4636860"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/35617738/",
+    "douban_id": "35617738",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34011181.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "宮田光",
+            "link": "https://book.douban.com/author/4636860"
+        }
+    ],
+    "tag": "日本文学"
+}

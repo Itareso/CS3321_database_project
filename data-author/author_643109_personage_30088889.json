@@ -1,0 +1,82 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "美棠来信",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34888498.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36612538/",
+                        "year": "2024",
+                        "id": 36612538
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "平如美棠：我俩的故事",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33910901.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35148973/",
+                        "year": "2021",
+                        "id": 35148973
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "平生记",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34012591.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35562175/",
+                        "year": "2021",
+                        "id": 35562175
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/643109/",
+    "author_douban_id": "643109",
+    "personage_id": 30088889,
+    "name": [
+        "饶平如",
+        "Pingru Rao"
+    ],
+    "intro": "饶平如，男，汉族，1922年生，祖籍江西抚州南城县。黄埔军校十八期学员，崔永元的《我的抗战》31集 《活下去》也有对他的采访。他参加过抗战，又参加过内战，后来做过编辑、美编，在《大众医学》杂志工作。在老伴美棠去世后，饶平如每天笔耕不辍，手绘了18本画册，记述了他与美棠从初识到相处的近六十年时光，取名为《平如美棠——我俩的故事》。饶老先生是一个爱猫人士，有一只黄白花宠物猫。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30088889/photo/2870872856",
+        "https://www.douban.com/personage/30088889/photo/2905040725",
+        "https://www.douban.com/personage/30088889/photo/2870872879",
+        "https://www.douban.com/personage/30088889/photo/2870872875",
+        "https://www.douban.com/personage/30088889/photo/2870872865"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2870872856.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905040725.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2870872879.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2870872875.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2870872865.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/246cd2c0db392a4a2e1eb404e9f02a22.jpg",
+    "sex": 1,
+    "birth_date": 1922,
+    "death_date": 2020,
+    "age": 99,
+    "birth_place": [
+        "江西南昌"
+    ],
+    "family_member": "毛美棠(妻) / 饶乐曾(三子)",
+    "profession": [
+        "作者",
+        "编者",
+        "编剧"
+    ]
+}

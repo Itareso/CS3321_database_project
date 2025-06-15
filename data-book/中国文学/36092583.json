@@ -1,0 +1,136 @@
+{
+    "title": "笔墨游戏",
+    "bookInfo": {
+        "作者": "周游",
+        "出版社": "中华书局",
+        "副标题": "如何欣赏中国古典小说",
+        "出版年": "2022-10",
+        "页数": "338",
+        "定价": "56.00元",
+        "装帧": "平装",
+        "ISBN": "9787101158137"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "31.2%",
+        "four_star_rate": "55.0%",
+        "three_star_rate": "12.5%",
+        "two_star_rate": "1.1%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4615396/",
+            "name": "周游",
+            "role": "作者",
+            "douban_id": "4615396"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "33.60元",
+            "link": "https://read.douban.com/ebook/413787014/?dcs=subject-buylink&dcm=douban&dct=36092583"
+        },
+        {
+            "name": "得到",
+            "price": "33.60元",
+            "link": "https://www.dedao.cn/ebook/detail?id=lxaVvndNG6D4kgLJ2OKxqVMmE1zXPwVn6dwAdjyQeYR75vbaBnr9ol8pZERLg1my&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=4200&pre=0&vendor=jingdong&srcpage=subject&price=4200&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV4XVAYKVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUVxUCEMVHDZNRwYlDlBQIR9ZCSt0BjdDcyR9W2RSAh0HeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUVdaCUkTM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFkSClNsCFgKSg5MAi5mG1oTWgQKU15tCkoWAW04K2toKFB-V1skYS1VYjpyQRJXFkBCPTUcSil5ARNITy5yIX9HMl1edT4VRSpRK1gl&cntvendor=5&srcsubj=36092583&type=bkbuy&subject=36092583"
+        },
+        {
+            "name": "当当网",
+            "price": "56.00元",
+            "link": "https://book.douban.com/link2/?lowest=4200&pre=0&vendor=dangdang&srcpage=subject&price=5600&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36092583%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29469134&cntvendor=5&srcsubj=36092583&type=bkbuy&subject=36092583"
+        },
+        {
+            "name": "中图网",
+            "price": "43.00元",
+            "link": "https://book.douban.com/link2/?lowest=4200&pre=0&vendor=bookschina&srcpage=subject&price=4300&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8943427.htm&cntvendor=5&srcsubj=36092583&type=bkbuy&subject=36092583"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36092583/",
+    "douban_id": "36092583",
+    "menu": [
+        "",
+        "        第1章 出场：大风起于青萍之末",
+        "        细水入海式",
+        "        浓墨重彩式",
+        "        琵琶遮面式",
+        "        欲扬先抑式",
+        "        一波三折式",
+        "        第2章 视角：作者幽灵的寄生",
+        "        鬼火燐燐闪现",
+        "        幽灵悄然附身",
+        "        自由穿梭的蝙蝠",
+        "        幽灵现身说法",
+        "        第3章 错位：盛世无饥馁",
+        "        说话的隐喻",
+        "        对时代的幽微回应",
+        "        巧妙的讽刺",
+        "        第4章 人物：贪看风景的英雄们",
+        "        各人眼中的风景",
+        "        穿过那片腥风血雨",
+        "        象征化的生动",
+        "        第5章 道具：礼物、镜子、雨",
+        "        道具的生命力",
+        "        修辞的胜利",
+        "        作为象征的道具",
+        "        运动的道具",
+        "        幻形的道具",
+        "        第6章 性别：安能辨我是雄雌",
+        "        性别颠倒的闹剧",
+        "        渔色的诡计",
+        "        避难的手段",
+        "        当性别暧昧时",
+        "        第7章 层次：古典叙事的多宝塔",
+        "        工整的话头儿",
+        "        节奏的跌宕",
+        "        排山倒海的文采",
+        "        对白生色的妙招",
+        "        情节的骨架",
+        "        第8章 变奏：从春暖花开到凄风冷雨",
+        "        文本温度的切换",
+        "        交错中的光芒",
+        "        变奏的驱动力",
+        "        隐秘的变奏",
+        "        第9章 本性：今日方知我是我",
+        "        虎皮的穿与脱",
+        "        本性的明与灭",
+        "        丧失本性的悲剧",
+        "        第10章 传承：吃橘莫忘洞庭湖",
+        "        不可确证的真相",
+        "        空间与动作的搬用",
+        "        隐秘或明显的化用",
+        "        穿越时空的暗号",
+        "        第11章 说教：传统与时俗的双重压力",
+        "        文以载道的偏差",
+        "        警世醒人的幌子",
+        "        时代的血泪",
+        "        衍变中的说教",
+        "        第12章 死亡：轻逸与粘滞",
+        "        英雄的退场",
+        "        疾病的隐喻",
+        "        重力的不可抗",
+        "        飞扬精神的折堕",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34309486.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "周游",
+            "link": "https://book.douban.com/search/%E5%91%A8%E6%B8%B8"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        }
+    ],
+    "tag": "中国文学"
+}

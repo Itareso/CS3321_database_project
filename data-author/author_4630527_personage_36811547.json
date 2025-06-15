@@ -1,0 +1,106 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.7,
+                        "title": "古文观止（全本 全注 全译 全彩图本）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34747476.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/36717030/",
+                        "year": "2024",
+                        "id": 36717030
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "读史入门",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s6816446.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/6432475/",
+                        "year": "2011",
+                        "id": 6432475
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "经史因缘",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s1524876.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1544158/",
+                        "year": "2002",
+                        "id": 1544158
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "刘知几评传",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s6765216.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1010333/",
+                        "year": "1994",
+                        "id": 1010333
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "司马迁评传",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34912251.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36971527/",
+                        "year": "1994",
+                        "id": 36971527
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "儒学与中国史学",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34038119.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30340171/",
+                        "year": "1992",
+                        "id": 30340171
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/4630527/",
+    "author_douban_id": "4630527",
+    "personage_id": 36811547,
+    "name": [
+        "许凌云",
+        "Lingyun Xu"
+    ],
+    "intro": "许凌云（1938－2003），男，山东定陶人。1957年考入山东大学历史系，1964年于该系先秦史研究生毕业，师从史学名家童书业先生。先后执教于广西师范大学、曲阜师范大学。韩海彬就读曲阜师范大学历史系期间，曾向许凌云先生学习《荀子》。许凌云先生系专门史、史学理论及史学史专业研究生导师，长期从事中国思想史、历史文献学、史学史的教学与研究。曾任中国孔子基金会《孔子研究》编委、山东历史学会理事、山东孔子学会常务理事、曲阜师范大学教授，享受国务院“政府特殊津贴”。著有《读史入门》、《儒学与中国史学》、《中国儒学史》（隋唐卷）、《司马迁评传》、《刘知几评传》、《中国儒学通论》、《经史因缘》著作10余部，发表《试论通史家风》等学术论文80余篇。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "sex": 1,
+    "birth_date": 1938,
+    "death_date": 2003,
+    "age": 66,
+    "birth_place": [
+        "中国",
+        "山东",
+        "定陶"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

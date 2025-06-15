@@ -1,0 +1,94 @@
+{
+    "title": "尚书",
+    "bookInfo": {
+        "作者": "王世舜 译注 / 王翠叶 译注",
+        "出版社": "中华书局",
+        "译者": "王世舜 / 王翠叶",
+        "出版年": "2023-2-1",
+        "页数": "516",
+        "定价": "32.00元",
+        "装帧": "精装",
+        "丛书": "中华经典名著全本全注全译丛书",
+        "ISBN": "9787101083033"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "56.7%",
+        "four_star_rate": "30.5%",
+        "three_star_rate": "10.1%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/303781/",
+            "name": "江灏",
+            "role": "作者",
+            "douban_id": "303781"
+        },
+        {
+            "link": "https://book.douban.com/author/130179/",
+            "name": "王世舜",
+            "role": "译者",
+            "douban_id": "130179"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "21.60元",
+            "link": "https://www.dedao.cn/ebook/detail?id=Jjrvne28LQ2OjoRqkgdnmJX6NADGlWxaB63x1KvbBz97eaMP4VZrpEYy5VB6adNX&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHloRWAMKUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHVVpYDUMSHDZNRwYlWWREThUBdj5yRSsAehlFLwFXF1ofaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAVF5YCEoeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVJsCFgKSkoSVDFmG1oRWwIAXVhtCkoWAW04K2t-Kn1EVlsbdxhyYBkOHy1PL0RkNTgWVQ55ARB0GywQG1JEB1hbYzxpVhJ1K1gl&cntvendor=4&srcsubj=10488581&type=bkbuy&subject=10488581"
+        },
+        {
+            "name": "当当网",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=dangdang&srcpage=subject&price=4200&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s10488581%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29595104&cntvendor=4&srcsubj=10488581&type=bkbuy&subject=10488581"
+        },
+        {
+            "name": "中图网",
+            "price": "27.50元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=bookschina&srcpage=subject&price=2750&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9129345.htm&cntvendor=4&srcsubj=10488581&type=bkbuy&subject=10488581"
+        }
+    ],
+    "url": "https://book.douban.com/subject/10488581/",
+    "douban_id": "10488581",
+    "menu": [
+        "",
+        "        前言　今文尚书　虞书　尧典　　皋陶谟夏书　禹贡　甘誓商书　汤誓　盘庚　  盘庚上　　盘庚中　　盘庚下　　高宗肜曰　　西伯戡黎  微子周书  牧誓  洪范  金滕  大诰  康诰  酒诰  梓材  召诰  洛诰  多士  无逸  君爽  多方  立政  顾命康王之诰  吕刑  文侯之命  费誓  秦誓  古文尚书虞书  大禹谟夏书  五子之歌  胤征商书  仲虺之诰  汤诰  伊训  太甲上  太甲中  太甲下  咸有一德  说命上  说命中  说命下周书  泰誓上  泰誓中  泰誓下  武成  旅獒  微子之命  蔡仲之命  周官  君陈  毕命  君牙  同命",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s24400879.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "王世舜 译注",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E4%B8%96%E8%88%9C%20%E8%AF%91%E6%B3%A8"
+        },
+        {
+            "text": "王翠叶 译注",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E7%BF%A0%E5%8F%B6%20%E8%AF%91%E6%B3%A8"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "王世舜",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E4%B8%96%E8%88%9C"
+        },
+        {
+            "text": "王翠叶",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E7%BF%A0%E5%8F%B6"
+        },
+        {
+            "text": "中华经典名著全本全注全译丛书",
+            "link": "https://book.douban.com/series/4103"
+        }
+    ],
+    "tag": "经典"
+}

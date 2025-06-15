@@ -1,0 +1,35 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "蚁群",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34025719.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35637266/",
+                        "year": "2021",
+                        "id": 35637266
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4617588/",
+    "author_douban_id": "4617588",
+    "personage_id": 36131018,
+    "name": [
+        "汤问棘"
+    ],
+    "intro": "汤问棘，女，长于乡野，热爱自然。曾修读生命科学与古代文学专业，受老庄思想和晚明文学影响颇深。喜欢多元立场的对立与交融，希望能将崇高之美赋予笔下的女性角色。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "profession": [
+        "作者"
+    ]
+}

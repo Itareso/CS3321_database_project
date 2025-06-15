@@ -1,0 +1,71 @@
+{
+    "title": "另外于是，或，在超过是其所是之处",
+    "bookInfo": {
+        "作者": "[法]伊曼纽尔·列维纳斯",
+        "出版社": "北京大学出版社",
+        "原作名": "Autrement qu'être ou Au-delà de l'essence",
+        "译者": "伍晓明",
+        "出版年": "2019-6",
+        "定价": "98.00元",
+        "装帧": "平装",
+        "丛书": "同文馆·哲学",
+        "ISBN": "9787301301395"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.2%",
+        "four_star_rate": "10.3%",
+        "three_star_rate": "14.5%",
+        "two_star_rate": "20.5%",
+        "one_star_rate": "26.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608697/",
+            "name": "列维纳斯",
+            "role": "作者",
+            "douban_id": "4608697"
+        },
+        {
+            "link": "https://book.douban.com/author/4624793/",
+            "name": "伍晓明",
+            "role": "译者",
+            "douban_id": "4624793"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "78.40元",
+            "link": "https://www.dedao.cn/eBook/BpM1nLOerPa1XOp27zqQ8KGR56loVWrxzBwdLygv94jYmnENDxAMZJBkbNzEblgQ?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "70.56元",
+            "link": "https://book.douban.com/link2/?lowest=7056&pre=0&vendor=jingdong&srcpage=subject&price=7056&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olXwMBXF5eDU4WCl8MGFsRWgADXV5eDXtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSlpeCE8QBW4BG1gQQl9HCANtbDYeeGYKUgV3HxxCJjk2cyByWzIWa1cZbQEHU1haAUgQM28MGl8RbTYCVW4cZkwTA2wPK1kVXAcHVFZaC0onA2kNGl4dXgcDUV9VD3sXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEBWxcGAwWM1oEDgRcCB5AbWwAElwRWAcLZFxcCUkVM184fVtDFQ5iFBovcz0fRQd0YCFeJWVhVwJfZklnYTcIZRN0PHRbDSAdDkplRl8LKw&cntvendor=2&srcsubj=30401892&type=bkbuy&subject=30401892"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30401892/",
+    "douban_id": "30401892",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29947096.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法]伊曼纽尔·列维纳斯",
+            "link": "https://book.douban.com/author/4608697"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        },
+        {
+            "text": "伍晓明",
+            "link": "https://book.douban.com/author/4624793"
+        },
+        {
+            "text": "同文馆·哲学",
+            "link": "https://book.douban.com/series/5874"
+        }
+    ],
+    "tag": "西方哲学"
+}

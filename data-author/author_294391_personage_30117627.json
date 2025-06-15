@@ -1,0 +1,153 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "南方巴赫",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34809155.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36810330/",
+                        "year": "2024",
+                        "id": 36810330
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "骑鹅的凛冬",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34718097.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36660998/",
+                        "year": "2023",
+                        "id": 36660998
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "天花乱坠",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34418215.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35637931/",
+                        "year": "2021",
+                        "id": 35637931
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "我们这一代",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33708550.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35071269/",
+                        "year": "2020",
+                        "id": 35071269
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.3,
+                        "title": "去洞庭",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s32314568.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/33433739/",
+                        "year": "2019",
+                        "id": 33433739
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "消失的女儿",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33461898.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34800652/",
+                        "year": "2019",
+                        "id": 34800652
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "动物形状的烟火",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29512868.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27053654/",
+                        "year": "2017",
+                        "id": 27053654
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "城",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29361299.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26980981/",
+                        "year": "2017",
+                        "id": 26980981
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "蚁王",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28989606.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26859114/",
+                        "year": "2016",
+                        "id": 26859114
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "你知道的太多了",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28776626.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26593180/",
+                        "year": "2015",
+                        "id": 26593180
+                    }
+                }
+            ],
+            "total": 15
+        }
+    },
+    "author_link": "https://book.douban.com/author/294391/",
+    "author_douban_id": "294391",
+    "personage_id": 30117627,
+    "name": [
+        "郑小驴",
+        "Xiaolü Zheng"
+    ],
+    "intro": "郑朋，笔名郑小驴，1986年出生湖南隆回。毕业于中国人民大学首届创造性写作专业，湖南师大文学院教授。曾获茅盾新人奖、紫金·人民文学之星小说奖、华语青年作家奖·中篇小说主奖、湖南青年文学奖、毛泽东文学奖、南海文艺奖、《中篇小说选刊》优秀中篇小说奖、希望杯·中国文学创作新人奖、上海文学新人佳作奖等。部分作品翻译至英、日、捷克、西班牙语。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/83707ccaadbe7c5866a7145ad7cb9902.jpg",
+    "更多中文名": "郑朋",
+    "sex": 1,
+    "birth_date": 1986,
+    "age": 40,
+    "birth_place": [
+        "中国",
+        "湖南",
+        "隆回"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

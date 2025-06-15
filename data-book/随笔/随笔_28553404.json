@@ -1,0 +1,89 @@
+{
+    "title": "逆时针旅行",
+    "bookInfo": {
+        "作者": "[英]迈克尔•弗莱恩",
+        "出版社": "生活·读书·新知三联书店",
+        "译者": "陈薇薇",
+        "出版年": "2021-8",
+        "页数": "280",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "丛书": "旅行之道",
+        "ISBN": "9787108061867"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "23.3%",
+        "four_star_rate": "34.9%",
+        "three_star_rate": "39.5%",
+        "two_star_rate": "2.3%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/840671/",
+            "name": "迈克·弗雷恩",
+            "role": "作者",
+            "douban_id": "840671"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "36.43元",
+            "link": "https://book.douban.com/link2/?lowest=2700&pre=0&vendor=jingdong&srcpage=subject&price=3643&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMRVQQAXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXFpVCkkfHDZNRwYlD09ZKDYkYRZ3YB0SawlUNANnJlc8XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFhfAEwUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHg8UWQBsCFgKSgxDRG1mG1oTWwUDXVZtCkoWAW04K2sSAXVQJFstXE5pCipvRxkVJntgKR0NYUp5ASZaQAduD3xRUSQnDxdvcBJMK1gl&cntvendor=3&srcsubj=28553404&type=bkbuy&subject=28553404"
+        },
+        {
+            "name": "当当网",
+            "price": "27.00元",
+            "link": "https://book.douban.com/link2/?lowest=2700&pre=0&vendor=dangdang&srcpage=subject&price=2700&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s28553404%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29309278&cntvendor=3&srcsubj=28553404&type=bkbuy&subject=28553404"
+        },
+        {
+            "name": "中图网",
+            "price": "31.20元",
+            "link": "https://book.douban.com/link2/?lowest=2700&pre=0&vendor=bookschina&srcpage=subject&price=3120&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8689655.htm&cntvendor=3&srcsubj=28553404&type=bkbuy&subject=28553404"
+        }
+    ],
+    "url": "https://book.douban.com/subject/28553404/",
+    "douban_id": "28553404",
+    "menu": [
+        "",
+        "        序言",
+        "        告别金钱：古巴，十年",
+        "        第一次出国的滋味：再见春天，再见巴黎",
+        "        逆时针方向最有效：以色列，一英寸接一英寸",
+        "        无处之都：柏林花园的夏日",
+        "        再见，阿瓦隆：重游剑桥",
+        "        从大海到闪亮的波涛：追逐美国",
+        "        嘎吱嘎吱的腌萝卜：近距离看日本",
+        "        蛮荒西部 11 号：诺丁山边缘",
+        "        5 号口，2 号区，47 号屋：和索菲娅在莫斯科的日子",
+        "        圣特罗佩朝圣之旅：蔚蓝海岸的燔祭",
+        "        温暖的红袜：在瑞典谈钱",
+        "        曲终人散：平行英国的四十年",
+        "        天堂的笑脸：逆向迎接未来的维也纳",
+        "        泰晤士河上的彩虹：1951 年的南岸区",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33965532.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英]迈克尔•弗莱恩",
+            "link": "https://book.douban.com/search/%E8%BF%88%E5%85%8B%E5%B0%94%E2%80%A2%E5%BC%97%E8%8E%B1%E6%81%A9"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        },
+        {
+            "text": "陈薇薇",
+            "link": "https://book.douban.com/search/%E9%99%88%E8%96%87%E8%96%87"
+        },
+        {
+            "text": "旅行之道",
+            "link": "https://book.douban.com/series/34336"
+        }
+    ],
+    "tag": "随笔"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "春雪",
+    "bookInfo": {
+        "作者": "[日] 三岛由纪夫",
+        "出版社": "天津人民出版社",
+        "出品方": "果麦文化",
+        "原作名": "春の雪",
+        "译者": "陈德文",
+        "出版年": "2020-12",
+        "页数": "400",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "丛书": "果麦 三岛由纪夫作品",
+        "ISBN": "9787201169644"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《春雪》写了一对青梅竹马的恋人\"优雅唯美\"的爱情悲剧。清显和聪子是青梅竹马的好友，都出身于贵族之家。在清显18岁、聪子20岁的这一年，清显的烦恼在于：他明白聪子爱他，但她总以教训他的姐姐自居，这让他很生气。他们有过激情初吻之后，便产生了误解。清显拒接聪子的电话、拒阅聪子的来信，听说聪子家安排聪子频频相亲，还窃喜于自己可以就此摆脱聪子。而聪子被皇室洞院宫看中，要娶为儿媳，并获得了天皇敕许。    敕许颁布，订婚仪式即将举行，这震醒了清显，他终于在即将失去之际明了自己心中对聪子的爱。他不顾一切求见聪子，尽诉心中之情。深爱着他的聪子，也毅然接受了他的感情，在举行订婚仪式前的短暂时间里，聪子不惜摒弃自己未来王妃的身份，为心中的爱奉献一切。他们尽享激情的欢愉，并且有了爱情结晶。而后事情被两个贵族之家所知，面临灭顶之灾的状况震骇了双方父母。聪子被迫离开东京，秘密流产，并暂时转往寺院疗养，了却尘缘，削发为尼。两家无奈之下，伪造了聪子的假病历，称聪子得了不宜婚嫁的病，于是皇室婚约解除。清显难耐思念之苦，拖着病躯冒雪前往寺院求见聪子。遭到拒绝后，病情加重而去世。    作者在这纯爱中贯穿了\"优雅的犯禁\"和\"亵渎的快乐\"的对立，并在这种对立中发现美、创造美，又毁灭了美，曾被视作是三岛问鼎诺贝尔文学奖*具竞争力的作品。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "54.0%",
+        "four_star_rate": "36.8%",
+        "three_star_rate": "8.3%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4508171/",
+            "name": "三岛由纪夫",
+            "role": "作者",
+            "douban_id": "4508171"
+        },
+        {
+            "link": "https://book.douban.com/author/4608726/",
+            "name": "陈德文",
+            "role": "译者",
+            "douban_id": "4608726"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "28.00元",
+            "link": "https://read.douban.com/ebook/168453040/?dcs=subject-buylink&dcm=douban&dct=35290865"
+        },
+        {
+            "name": "得到",
+            "price": "28.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=gO8xJGVarB2qEQoplXvY14JRbVdnz0zvBM0jPmyDANKge8O65LG7Mk9xZYk69Zry&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.80元",
+            "link": "https://book.douban.com/link2/?lowest=2030&pre=0&vendor=jingdong&srcpage=subject&price=2080&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwQLUF5dAUwQBF8IGloTVAYGUVdUCUIfBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkBG18QVA8DXVZYFxJSXzI4WSZ0R1JxJ1g9SVFhZQd_WCR2BgRVElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXXgMKVV9eOEkXAm4NG1MSXgcyVFhYCUgWBm4AGVsUWzYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlxdDUwRbTMOTBlIX0NJOl5cDEMSAGkBK1kUXAQAZG5tdi9TUA9oGTljKwFwEwZdUjFuChd2QCJGMwRhMTg5URgRVBlzZ1JLPlhEAG5eOA&cntvendor=4&srcsubj=35290865&type=bkbuy&subject=35290865"
+        },
+        {
+            "name": "中图网",
+            "price": "20.30元",
+            "link": "https://book.douban.com/link2/?lowest=2030&pre=0&vendor=bookschina&srcpage=subject&price=2030&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8476235.htm&cntvendor=4&srcsubj=35290865&type=bkbuy&subject=35290865"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35290865/",
+    "douban_id": "35290865",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33790521.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 三岛由纪夫",
+            "link": "https://book.douban.com/author/4508171"
+        },
+        {
+            "text": "天津人民出版社",
+            "link": "https://book.douban.com/press/2765"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "陈德文",
+            "link": "https://book.douban.com/author/4608726"
+        },
+        {
+            "text": "果麦 三岛由纪夫作品",
+            "link": "https://book.douban.com/series/54810"
+        }
+    ],
+    "tag": "日本文学"
+}

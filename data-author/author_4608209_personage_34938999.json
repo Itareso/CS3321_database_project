@@ -1,0 +1,163 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.7,
+                        "title": "百年孤独",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35027689.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/37144359/",
+                        "year": "2025",
+                        "id": 37144359
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "试探黑夜",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34809087.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36781327/",
+                        "year": "2024",
+                        "id": 36781327
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "镜中的孤独迷宫",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34863366.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36892942/",
+                        "year": "2023",
+                        "id": 36892942
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "宇宙来我手中啄食",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34729842.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36513067/",
+                        "year": "2023",
+                        "id": 36513067
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "时间熊，镜子虎和看不见的小猫",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34220432.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35875862/",
+                        "year": "2022",
+                        "id": 35875862
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "不要问我时间如何流逝",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34331946.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36125644/",
+                        "year": "2022",
+                        "id": 36125644
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "珠唾集",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34109041.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35436432/",
+                        "year": "2022",
+                        "id": 35436432
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "三只忧伤的老虎",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33936930.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27625543/",
+                        "year": "2021",
+                        "id": 27625543
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "会合",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33823039.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34937182/",
+                        "year": "2021",
+                        "id": 34937182
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "诗人的迟缓",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33555771.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34887834/",
+                        "year": "2020",
+                        "id": 34887834
+                    }
+                }
+            ],
+            "total": 25
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608209/",
+    "author_douban_id": "4608209",
+    "personage_id": 34938999,
+    "name": [
+        "范晔",
+        "Ye Fan"
+    ],
+    "intro": "范晔个人简介：",
+    "images_detail_url": [
+        "https://www.douban.com/personage/34938999/photo/2910263924",
+        "https://www.douban.com/personage/34938999/photo/2910263923",
+        "https://www.douban.com/personage/34938999/photo/2910263925",
+        "https://www.douban.com/personage/34938999/photo/2910263922"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2910263924.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2910263923.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2910263925.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2910263922.webp"
+    ],
+    "main_image": "https://img2.doubanio.com/img/author/medium/public/BImPf2lcXmocel_avatar_uploaded1497947944.1.jpg",
+    "sex": 1,
+    "birth_date": 1977,
+    "age": 49,
+    "birth_place": [
+        "中国",
+        "北京"
+    ],
+    "profession": [
+        "作者",
+        "译者",
+        "编者"
+    ]
+}

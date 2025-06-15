@@ -1,0 +1,74 @@
+{
+    "title": "入关",
+    "bookInfo": {
+        "作者": "张明扬",
+        "出版社": "新星出版社",
+        "出品方": "读库",
+        "出版年": "2023-4-30",
+        "页数": "312",
+        "定价": "48",
+        "装帧": "平装",
+        "ISBN": "9787513351430"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.0%",
+        "four_star_rate": "46.1%",
+        "three_star_rate": "7.9%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4621349/",
+            "name": "张明扬",
+            "role": "作者",
+            "douban_id": "4621349"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=4800&pre=0&vendor=jingdong&srcpage=subject&price=4800&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQcJK1olXwQBXFdeD0sQAF8IGloTWgEEXFpdC08RBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkPHF0dWQYBUFhbFxJSXzI4ZRpTI1BrMTs-STVhGRBLez1CXnNqJFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdV4UVQEHZFxdCUoSA2cBEl4lXQAHVVtVDUISB2kOG2sVVQIyjd7q3umF2vGCztOCbTYyV25tOEsnAF9WdVpGWwQCUVoJZhcRWTJWU1peMwUKXVlUDk8WM20JGlkXbTYyC1wCayt3aylTXileP1F7LC4PcgwUdhNhdVleFE0ALj0DWxBrBR91RAYUGDYBZA&cntvendor=1&srcsubj=36384601&type=bkbuy&subject=36384601"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36384601/",
+    "douban_id": "36384601",
+    "menu": [
+        "",
+        "        楔 子 北境",
+        "        第一章 军兴",
+        "        第二章 广宁",
+        "        第三章 大炮",
+        "        第四章 朝鲜",
+        "        第五章 皮岛",
+        "        第六章 凌迟",
+        "        第七章 兵变",
+        "        第八章 称帝",
+        "        第九章 决战",
+        "        尾 声 天下",
+        "        后记",
+        "        大事年表",
+        "        参考书目",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34513863.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张明扬",
+            "link": "https://book.douban.com/author/4621349"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "读库",
+            "link": "https://book.douban.com/producers/23"
+        }
+    ],
+    "tag": "中国历史",
+    "avg_rate": 4.347
+}

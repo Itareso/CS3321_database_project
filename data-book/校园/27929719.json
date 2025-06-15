@@ -1,0 +1,67 @@
+{
+    "title": "时擦",
+    "bookInfo": {
+        "作者": "笙离",
+        "出版社": "重庆出版社",
+        "出版年": "2017-3-1",
+        "页数": "220",
+        "定价": "29.80",
+        "装帧": "平装",
+        "ISBN": "9787229115869"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "19.7%",
+        "four_star_rate": "31.3%",
+        "three_star_rate": "34.4%",
+        "two_star_rate": "12.0%",
+        "one_star_rate": "2.6%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "13.80元",
+            "link": "https://book.douban.com/link2/?lowest=1380&pre=0&vendor=jingdong&srcpage=subject&price=1380&pos=1&url=https%3A%2F%2Fitem.jd.com%2F25034412224.html&cntvendor=2&srcsubj=27929719&type=bkbuy&subject=27929719"
+        },
+        {
+            "name": "中图网",
+            "price": "17.40元",
+            "link": "https://book.douban.com/link2/?lowest=1380&pre=0&vendor=bookschina&srcpage=subject&price=1739&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7436067.htm&cntvendor=2&srcsubj=27929719&type=bkbuy&subject=27929719"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27929719/",
+    "douban_id": "27929719",
+    "menu": [
+        "",
+        "        第一章 喜欢是长在心底的藤蔓",
+        "        第二章 我们的结局南北背驰",
+        "        第三章 平波暗涌",
+        "        第四章 从未预期的相遇",
+        "        第五章 可不可以不坚强",
+        "        第六章 浅喜深爱",
+        "        第七章 不快乐的新年快乐",
+        "        第八章 相处开始觉情动",
+        "        第九章 爱在雪融后",
+        "        第十章 迟到十年的缘分",
+        "        第十一章 手牵手的浪漫",
+        "        第十二章 我的家就是你的归途",
+        "        番外 执子之手，与子偕老",
+        "        番外：十年缤纷咫尺天涯",
+        "        番外：牡丹亭外",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29668802.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "笙离",
+            "link": "https://book.douban.com/search/%E7%AC%99%E7%A6%BB"
+        },
+        {
+            "text": "重庆出版社",
+            "link": "https://book.douban.com/press/2162"
+        }
+    ],
+    "tag": "校园"
+}

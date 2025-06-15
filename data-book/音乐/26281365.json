@@ -1,0 +1,54 @@
+{
+    "title": "音乐六讲",
+    "bookInfo": {
+        "作者": "李欧梵",
+        "出版社": "中国人民大学出版社",
+        "出版年": "2014-12-30",
+        "页数": "296",
+        "定价": "38.00",
+        "装帧": "平装",
+        "ISBN": "9787300202693"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "5.8%",
+        "four_star_rate": "34.6%",
+        "three_star_rate": "48.1%",
+        "two_star_rate": "11.5%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4539023/",
+            "name": "李欧梵",
+            "role": "作者",
+            "douban_id": "4539023"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/26281365/",
+    "douban_id": "26281365",
+    "menu": [
+        "",
+        "        第一讲 我的音乐缘分",
+        "        第二讲 我心中的音乐巨人们",
+        "        第三讲 指挥家与交响乐团",
+        "        第四讲 青年音乐家",
+        "        第五讲 城市与音乐",
+        "        第六讲 音乐与文化",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s27979152.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李欧梵",
+            "link": "https://book.douban.com/author/4539023/"
+        },
+        {
+            "text": "中国人民大学出版社",
+            "link": "https://book.douban.com/press/2618"
+        }
+    ],
+    "tag": "音乐"
+}

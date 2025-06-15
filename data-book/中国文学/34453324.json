@@ -1,0 +1,66 @@
+{
+    "title": "菩萨蛮",
+    "bookInfo": {
+        "作者": "苏童",
+        "出版社": "浙江人民出版社",
+        "出版年": "2019-7",
+        "定价": "48.00元",
+        "装帧": "精装",
+        "丛书": "苏童作品集（精装典藏版）",
+        "ISBN": "9787213090738"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "19.4%",
+        "four_star_rate": "34.5%",
+        "three_star_rate": "40.8%",
+        "two_star_rate": "4.9%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4510362/",
+            "name": "苏童",
+            "role": "作者",
+            "douban_id": "4510362"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "32.20元",
+            "link": "https://book.douban.com/link2/?lowest=2980&pre=0&vendor=jingdong&srcpage=subject&price=3220&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwRXAcKUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU1pcCUMSHDZNRwYlOA8CBwEgShB3VA14HilQGHBxAhY1eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUlxUDEwQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gUDwFsCFgKSgNeRDRmG1oTXAcDXFhtCkoWAW04K2sUPg9aMz4CATEfVBFBWxlUPgdwLwg4YRV5AQtwQjhuBW54LhwfCShTQTFSK1gl&cntvendor=2&srcsubj=34453324&type=bkbuy&subject=34453324"
+        },
+        {
+            "name": "中图网",
+            "price": "29.80元",
+            "link": "https://book.douban.com/link2/?lowest=2980&pre=0&vendor=bookschina&srcpage=subject&price=2980&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8136269.htm&cntvendor=2&srcsubj=34453324&type=bkbuy&subject=34453324"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34453324/",
+    "douban_id": "34453324",
+    "menu": [
+        "",
+        "        第一章　　　　001",
+        "        第二章　　　　111",
+        "        第三章　　　　203",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33323664.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "苏童",
+            "link": "https://book.douban.com/author/4510362"
+        },
+        {
+            "text": "浙江人民出版社",
+            "link": "https://book.douban.com/press/2507"
+        },
+        {
+            "text": "苏童作品集（精装典藏版）",
+            "link": "https://book.douban.com/series/46127"
+        }
+    ],
+    "tag": "中国文学"
+}

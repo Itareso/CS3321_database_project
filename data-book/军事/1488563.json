@@ -1,0 +1,48 @@
+{
+    "title": "战略演讲录",
+    "bookInfo": {
+        "作者": "郭树勇",
+        "出版社": "北京大学出版社",
+        "出版年": "2006-1",
+        "页数": "291",
+        "定价": "25.00元",
+        "装帧": "简裝本",
+        "ISBN": "9787301102084"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "39.4%",
+        "four_star_rate": "39.4%",
+        "three_star_rate": "18.2%",
+        "two_star_rate": "3.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "20.41元",
+            "link": "https://book.douban.com/link2/?lowest=1980&pre=0&vendor=jingdong&srcpage=subject&price=2041&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQQCV11fC0oXM28LGFMcXgQDXV9bOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocVF1eAEIUAW4BGl0KBENeCW4JbS9EcxFNTD5RRwMKJzYhbwN_WxhOF1clWgMFUllUC0wnA2sJH18lbQYDZB8zDUsWCm04GVsUXAMCXFleCXsXBWoJHlMcWAYEV11cOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgRAW8NHFh7AQBYCxsESw55AW4JHV0TWwcyVl9cCkknM18OH1tHVWZiAhkkDkpQVglSYyxoAmZLETczCgxEZmtYSSwTGm1pHCUFexsUM2w4&cntvendor=2&srcsubj=1488563&type=bkbuy&subject=1488563"
+        },
+        {
+            "name": "中图网",
+            "price": "19.80元",
+            "link": "https://book.douban.com/link2/?lowest=1980&pre=0&vendor=bookschina&srcpage=subject&price=1980&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F1304564.htm&cntvendor=2&srcsubj=1488563&type=bkbuy&subject=1488563"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1488563/",
+    "douban_id": "1488563",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s5739241.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "郭树勇",
+            "link": "https://book.douban.com/search/%E9%83%AD%E6%A0%91%E5%8B%87"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        }
+    ],
+    "tag": "军事"
+}

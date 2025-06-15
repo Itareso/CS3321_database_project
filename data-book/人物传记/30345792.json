@@ -1,0 +1,90 @@
+{
+    "title": "成为福克纳",
+    "bookInfo": {
+        "作者": "(美) 菲利普·韦恩斯坦",
+        "出版社": "南京大学出版社",
+        "出品方": "南京大学出版社·守望者",
+        "副标题": "威廉·福克纳的艺术与生活",
+        "原作名": "Becoming Faulkner：The Art and Life of William Faulkner",
+        "译者": "晏向阳",
+        "出版年": "2018-4",
+        "页数": "308",
+        "定价": "45",
+        "装帧": "平装",
+        "丛书": "守望者·传记",
+        "ISBN": "9787305200854"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.0%",
+        "four_star_rate": "49.3%",
+        "three_star_rate": "18.6%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4616669/",
+            "name": "晏向阳",
+            "role": "译者",
+            "douban_id": "4616669"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "32.85元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=jingdong&srcpage=subject&price=3285&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQQJK1olXgAAV1dfAE8XBV8PE1wcXgYEVVdUAXtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSllVD0IUA2kJElIcQl9HCANtaxdBAyd3Rwt2HGByHRxDcxx8QBIIe1cZbQEHU1haAUgQM28MGl8RbTYCVW4cZksWAWkLHVMQbQQCVV9YCEMQAG44G10QXAMKUFhbC0sUBF8IE18lhIa1gvzP0dWd1uefK2slXjYyZF5tC3tJbW5bGwwXXA4EOgJbUhceQS1AdVgdVQUCU1xcOEkWAm0KK2slNH9lFz49fE9JeTEObTgUPX9iKgcNTBZfbW1xYBlsHEVZNQAAXwxHBxIMX2sWbQ&cntvendor=3&srcsubj=30345792&type=bkbuy&subject=30345792"
+        },
+        {
+            "name": "当当网",
+            "price": "18.00元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=dangdang&srcpage=subject&price=1800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30345792%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25536655&cntvendor=3&srcsubj=30345792&type=bkbuy&subject=30345792"
+        },
+        {
+            "name": "中图网",
+            "price": "19.50元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=bookschina&srcpage=subject&price=1950&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7935465.htm&cntvendor=3&srcsubj=30345792&type=bkbuy&subject=30345792"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30345792/",
+    "douban_id": "30345792",
+    "menu": [
+        "",
+        "        致谢",
+        "        缩略语",
+        "        序  言  “无关紧要”",
+        "        第一章\t  危机和童年",
+        "        第二章\t  不合时宜",
+        "        第三章\t  黑色孪生子",
+        "        第四章\t  寻找圣殿",
+        "        第五章\t  明天，明天，再一个明天",
+        "        结  语  “至关紧要”",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34636351.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "(美) 菲利普·韦恩斯坦",
+            "link": "https://book.douban.com/search/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E9%9F%A6%E6%81%A9%E6%96%AF%E5%9D%A6"
+        },
+        {
+            "text": "南京大学出版社",
+            "link": "https://book.douban.com/press/2276"
+        },
+        {
+            "text": "南京大学出版社·守望者",
+            "link": "https://book.douban.com/producers/122"
+        },
+        {
+            "text": "晏向阳",
+            "link": "https://book.douban.com/search/%E6%99%8F%E5%90%91%E9%98%B3"
+        },
+        {
+            "text": "守望者·传记",
+            "link": "https://book.douban.com/series/40232"
+        }
+    ],
+    "tag": "人物传记"
+}

@@ -1,0 +1,101 @@
+{
+    "title": "三体秘密",
+    "bookInfo": {
+        "作者": "田加刚",
+        "出版社": "四川科学技术出版社",
+        "出版年": "2019-10",
+        "页数": "232",
+        "定价": "38",
+        "装帧": "平装",
+        "ISBN": "9787536495715"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.3%",
+        "four_star_rate": "20.1%",
+        "three_star_rate": "28.1%",
+        "two_star_rate": "7.6%",
+        "one_star_rate": "8.8%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "17.99元",
+            "link": "https://read.douban.com/ebook/476755172/?dcs=subject-buylink&dcm=douban&dct=34893326"
+        },
+        {
+            "name": "得到",
+            "price": "17.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=EJmMZXq1b8qOpBlD69XAdP7LEGaKJWEmEJvWxRnme5vrVzo4QMZYgNyk2jNA5467&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "17.10元",
+            "link": "https://book.douban.com/link2/?lowest=1710&pre=0&vendor=jingdong&srcpage=subject&price=1710&pos=3&url=https%3A%2F%2Fitem.jd.com%2F64139069596.html&cntvendor=5&srcsubj=34893326&type=bkbuy&subject=34893326"
+        },
+        {
+            "name": "当当网",
+            "price": "36.50元",
+            "link": "https://book.douban.com/link2/?lowest=1710&pre=0&vendor=dangdang&srcpage=subject&price=3650&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34893326%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28495137&cntvendor=5&srcsubj=34893326&type=bkbuy&subject=34893326"
+        },
+        {
+            "name": "中图网",
+            "price": "28.00元",
+            "link": "https://book.douban.com/link2/?lowest=1710&pre=0&vendor=bookschina&srcpage=subject&price=2800&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8245341.htm&cntvendor=5&srcsubj=34893326&type=bkbuy&subject=34893326"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34893326/",
+    "douban_id": "34893326",
+    "menu": [
+        "",
+        "        自　序\tI",
+        "        少女叶文雪之死\t1",
+        "        白沐霖的阴谋\t7",
+        "        两个文明首次接触的时间\t14",
+        "        魔法师之死的背后\t22",
+        "        核弹少女的身世之谜\t28",
+        "        “酱油王”汪淼\t33",
+        "        史晓明的使命\t41",
+        "        一号破壁人——“墨子”\t49",
+        "        刺杀罗辑的真相\t55",
+        "        恒星毁灭者\t63",
+        "        缺失的岁月\t67",
+        "        危机纪元的起算时间\t71",
+        "        杨冬的寒冬\t77",
+        "        28G的信息内容\t88",
+        "        高Way去哪儿\t95",
+        "        安全声明是什么\t100",
+        "        三体社会的基本形态\t106",
+        "        三体世界的叛军\t115",
+        "        谍影重重云天明\t120",
+        "        疯狂的三体元首\t128",
+        "        1379号监听员的梦想\t135",
+        "        神秘组织“未来史学派”\t139",
+        "        章北海的墓地\t147",
+        "        “地球之子”袭击引力波发射台悬案\t154",
+        "        “万有引力号”袭击计划\t159",
+        "        银河大战——金牛座战役\t170",
+        "        云天明童话的再解读\t176",
+        "        维德的兽性\t183",
+        "        预言大师艾AA\t190",
+        "        星舰地球的命运\t195",
+        "        蓝星生死惊魂\t199",
+        "        绵延万年的“母边大战”\t205",
+        "        “三体”结局之结局\t214",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33523427.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "田加刚",
+            "link": "https://book.douban.com/search/%E7%94%B0%E5%8A%A0%E5%88%9A"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        }
+    ],
+    "tag": "科幻"
+}

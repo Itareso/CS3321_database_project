@@ -1,0 +1,60 @@
+{
+    "title": "额尔古纳河右岸",
+    "bookInfo": {
+        "作者": "迟子建",
+        "出版社": "人民文学出版社",
+        "出版年": "2019-6-1",
+        "页数": "266",
+        "定价": "32.00元",
+        "装帧": "平装",
+        "丛书": "茅盾文学奖获奖作品全集（2019版）",
+        "ISBN": "9787020139590"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "64.6%",
+        "four_star_rate": "27.3%",
+        "three_star_rate": "6.8%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/110109/",
+            "name": "迟子建",
+            "role": "作者",
+            "douban_id": "110109"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.00元",
+            "link": "https://book.douban.com/link2/?lowest=1600&pre=0&vendor=jingdong&srcpage=subject&price=1600&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwWVAQAV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOVT1UUCx3XGZyEwxrA29FCTdcei5qeW9bdVlxJV9hLwY1cjFVQW5rQCJxBxFCWCokcCxgWm9NbwRtBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZEJxoKVUl-VQpzeSNOAlhaNwsVcg1nD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcBVVtVDEsRBWw4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQABBFYzVE1ARm1QTgl7XQcEVF5VAEonAW4JGVklbTYDN1cFbytIChUATCVLNEFfPV8vbTZtAzxmGT9tBGV5DDYncglVAgxTYj9PbQUy&cntvendor=2&srcsubj=34432750&type=bkbuy&subject=34432750"
+        },
+        {
+            "name": "当当网",
+            "price": "30.80元",
+            "link": "https://book.douban.com/link2/?lowest=1600&pre=0&vendor=dangdang&srcpage=subject&price=3080&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34432750%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27878108&cntvendor=2&srcsubj=34432750&type=bkbuy&subject=34432750"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34432750/",
+    "douban_id": "34432750",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34734949.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "迟子建",
+            "link": "https://book.douban.com/author/110109"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "茅盾文学奖获奖作品全集（2019版）",
+            "link": "https://book.douban.com/series/46781"
+        }
+    ],
+    "tag": "中国文学"
+}

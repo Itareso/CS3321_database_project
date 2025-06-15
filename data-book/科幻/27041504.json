@@ -1,0 +1,85 @@
+{
+    "title": "少数派报告",
+    "bookInfo": {
+        "作者": "[美] 菲利普·迪克",
+        "出版社": "译林出版社",
+        "原作名": "The Minority Report",
+        "译者": "周昭蓉",
+        "出版年": "2017-10",
+        "页数": "383",
+        "定价": "42.00",
+        "装帧": "精装",
+        "丛书": "译林幻系列",
+        "ISBN": "9787544756556"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    “科幻鬼才”菲利普•迪克成长于西方科技文明创造出的崭新辉煌的时代。彼时，人类进入了太空，登上了月球，成功制造出第一台工业用机器人……科技的蓬勃发展也催生出主流科幻小说对人类创造力的无比自信，克拉克、阿西莫夫和海因莱因撑起了西方科幻的黄金时代。可是，迪克却反其道而行之，他的主人公迷惘于亦真亦假的世界上，挣扎于文明的陷落中，充满了对生命的依恋和对人性的追求。    《少数派报告》荟萃菲利普•迪克最具代表性的九个短篇：《第二代》《冒名顶替》《规划小组》《少数派报告》《战争游戏》《啊，当个布洛贝尔人！》《死者的话》《全面回忆》《电子蚂蚁》，其中有数篇都曾被改编成脍炙人口的好莱坞大片，如《少数派报告》《全面回忆》《命运规划局》《冒名顶替》等。    《少数派报告》结集科幻鬼才菲利普•迪克最具代表性的九个短篇：《第二代》《冒名顶替》《规划小组》《少数派报告》《战争游戏》《啊，当个布洛贝尔人！》《死者的话》《全面回忆》和《电子蚂蚁》。菲利普•迪克以其独特的文风和光怪陆离的想象在美国科幻黄金时代独树一帜。他的短篇小说情节跌宕，很多故事的架构都堪称一绝。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "52.2%",
+        "four_star_rate": "39.9%",
+        "three_star_rate": "7.5%",
+        "two_star_rate": "0.4%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4567460/",
+            "name": "菲利普·迪克",
+            "role": "作者",
+            "douban_id": "4567460"
+        },
+        {
+            "link": "https://book.douban.com/author/4617479/",
+            "name": "周昭蓉",
+            "role": "译者",
+            "douban_id": "4617479"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "28.68元",
+            "link": "https://book.douban.com/link2/?lowest=2868&pre=0&vendor=jingdong&srcpage=subject&price=2868&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10021071663859.html&cntvendor=2&srcsubj=27041504&type=bkbuy&subject=27041504"
+        },
+        {
+            "name": "中图网",
+            "price": "38.70元",
+            "link": "https://book.douban.com/link2/?lowest=2868&pre=0&vendor=bookschina&srcpage=subject&price=3870&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8390940.htm&cntvendor=2&srcsubj=27041504&type=bkbuy&subject=27041504"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27041504/",
+    "douban_id": "27041504",
+    "menu": [
+        "",
+        "        第二代",
+        "        冒名顶替",
+        "        规划小组",
+        "        少数派报告",
+        "        战争游戏",
+        "        啊！当个布洛贝尔人",
+        "        死者的话",
+        "        全面回忆",
+        "        电子蚂蚁",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29563532.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 菲利普·迪克",
+            "link": "https://book.douban.com/author/4567460"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "周昭蓉",
+            "link": "https://book.douban.com/author/4617479"
+        },
+        {
+            "text": "译林幻系列",
+            "link": "https://book.douban.com/series/54333"
+        }
+    ],
+    "tag": "科幻"
+}

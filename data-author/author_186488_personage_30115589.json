@@ -1,0 +1,169 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "夜行货车",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33663381.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34937627/",
+                        "year": "2020",
+                        "id": 34937627
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "将军族",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33663234.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34937626/",
+                        "year": "2020",
+                        "id": 34937626
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "赵南栋",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33663253.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34937628/",
+                        "year": "2020",
+                        "id": 34937628
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "忠孝公园",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s9120857.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/6788195/",
+                        "year": "2012",
+                        "id": 6788195
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "陈映真文选",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s4196579.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/4038671/",
+                        "year": "2009",
+                        "id": 4038671
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "陈映真自选集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s3432958.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/3117244/",
+                        "year": "2007",
+                        "id": 3117244
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "復甦文藝變革的力量",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s4624703.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/4160412/",
+                        "year": "2007",
+                        "id": 4160412
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "陈映真自选集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s25538412.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3430844/",
+                        "year": "2007",
+                        "id": 3430844
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "迎回尾崎秀樹",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s4624757.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1358110/",
+                        "year": "2005",
+                        "id": 1358110
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "八．一五：記憶與歷史",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s4624715.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/5964313/",
+                        "year": "2005",
+                        "id": 5964313
+                    }
+                }
+            ],
+            "total": 35
+        }
+    },
+    "author_link": "https://book.douban.com/author/186488/",
+    "author_douban_id": "186488",
+    "personage_id": 30115589,
+    "name": [
+        "陈映真",
+        "Ying-Chen Chen"
+    ],
+    "intro": "陈映真（1937—2016），台湾文学家、思想家、社会运动家。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30115589/photo/2917749690",
+        "https://www.douban.com/personage/30115589/photo/2917749688",
+        "https://www.douban.com/personage/30115589/photo/2917749687",
+        "https://www.douban.com/personage/30115589/photo/2917749686",
+        "https://www.douban.com/personage/30115589/photo/2917749685"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2917749690.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2917749688.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2917749687.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2917749686.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2917749685.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/90e63e10775a6672452d54292c0b3510.jpg",
+    "更多中文名": "陈永善、许南村",
+    "sex": 1,
+    "birth_date": 1937,
+    "death_date": 2016,
+    "age": 80,
+    "birth_place": [
+        "中国",
+        "台湾",
+        "苗栗"
+    ],
+    "IMDB": "nm9452073",
+    "profession": [
+        "作者",
+        "编剧",
+        "导演"
+    ]
+}

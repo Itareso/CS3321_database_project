@@ -1,0 +1,80 @@
+{
+    "title": "最后的礼物",
+    "bookInfo": {
+        "作者": "[英] 阿卜杜勒拉扎克·古尔纳",
+        "出版社": "上海译文出版社",
+        "原作名": "The Last Gift",
+        "译者": "宋佥",
+        "出版年": "2022-9",
+        "页数": "296",
+        "定价": "78",
+        "装帧": "精装",
+        "丛书": "古尔纳作品",
+        "ISBN": "9787532790883"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《最后的礼物》是2021年诺贝尔文学奖得主阿卜杜勒拉扎克•古尔纳出版于2011年的作品，也是他的另一部小说《赞美沉默》的姐妹篇。故事讲述了主人公阿巴斯因自卑和猜忌，在十九岁时抛妻弃子，逃离故乡桑给巴尔，成为一名水手，穿梭于世界各大港口，过着居无定所的阿飞生活。直到十五年后，他在英国埃克塞特与一位出生后即遭遗弃的黑人混血姑娘玛丽亚姆一见钟情，二人决定在诺里奇定居，开启一段生儿育女的平凡生活。    然而，人生并非从此幸福美满。英国移民的卑微身份始终如梦魇般弥漫整个家庭。而阿巴斯闭口不提桑给巴尔的一切，更是令一对儿女如同无根的浮萍，在身份认同的问题上迷失了自我。阿巴斯在六十三岁那年中风，此后便缠绵于病榻，直至过世。在这段临终岁月里，他用尽大半生努力淡忘的那片遥远故土，在他脑海中变得愈发清晰，令他魂萦梦牵。在妻子的鼓励下，他最终对着一台录音机，缓缓道出了他完整的人生故事，为孩子们留下了他生命中最后的礼物。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "34.1%",
+        "four_star_rate": "44.8%",
+        "three_star_rate": "18.2%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611588/",
+            "name": "阿卜杜勒拉扎克·古尔纳",
+            "role": "作者",
+            "douban_id": "4611588"
+        },
+        {
+            "link": "https://book.douban.com/author/4616865/",
+            "name": "宋佥",
+            "role": "译者",
+            "douban_id": "4616865"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "49.99元",
+            "link": "https://read.douban.com/ebook/405881347/?dcs=subject-buylink&dcm=douban&dct=36000962"
+        },
+        {
+            "name": "得到",
+            "price": "77.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=DLnMGAEG7gKLyYmkAbPaEXxD8BM4J0L22K3ROrpdZn19VNzv2o5e6lqjQQ1poxqy&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "39.00元",
+            "link": "https://book.douban.com/link2/?lowest=3900&pre=0&vendor=jingdong&srcpage=subject&price=3900&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVkWWAUDXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUwIuWjsSczsNZVJXKnNpVyggDTdzVzdrdVlcD11eLwwnW05teWhURVNWGRFCWCokdCtgWhhKbzJPBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZqShxbDgx_ZQpXHD1zC1h7By00DU93D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUgWAmoPK1sTWAcCXFhUAEgSAW04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCgEBUgozVE1AXSkOSV57XQcDVl9YCEInAW4JGVklbTYFCC0PeE5nV2p2EhliKG0BIiNYdC9DWwxmGRJHBlp5BiQODTFtBDNWExhRbQUy&cntvendor=5&srcsubj=36000962&type=bkbuy&subject=36000962"
+        },
+        {
+            "name": "当当网",
+            "price": "73.90元",
+            "link": "https://book.douban.com/link2/?lowest=3900&pre=0&vendor=dangdang&srcpage=subject&price=7390&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36000962%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29443875&cntvendor=5&srcsubj=36000962&type=bkbuy&subject=36000962"
+        },
+        {
+            "name": "中图网",
+            "price": "46.20元",
+            "link": "https://book.douban.com/link2/?lowest=3900&pre=0&vendor=bookschina&srcpage=subject&price=4620&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8934597.htm&cntvendor=5&srcsubj=36000962&type=bkbuy&subject=36000962"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36000962/",
+    "douban_id": "36000962",
+    "menu": [
+        "",
+        "        1 一天",
+        "        2 搬家",
+        "        3 逃跑",
+        "        4 归来",
+        "        5 仪式",
+        "        译后记",
+        "        附录：",
+        "        2021年诺贝尔文学奖得主阿卜杜勒拉扎克•古尔纳获奖演说“写作”",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

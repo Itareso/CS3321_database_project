@@ -1,0 +1,89 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.7,
+                        "title": "金瓶梅詞話（夢梅館新校十八開本）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33644833.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/33396259/",
+                        "year": "2020",
+                        "id": 33396259
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "耦耕集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s4366900.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/4209752/",
+                        "year": "2009",
+                        "id": 4209752
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "瓶梅闲笔砚",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s5879853.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/3013205/",
+                        "year": "2008",
+                        "id": 3013205
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "梅节手抄四朝绝句",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s26492862.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1563868/",
+                        "year": "2004",
+                        "id": 1563868
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "海角红楼",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27032496.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/25715990/",
+                        "year": "",
+                        "id": 25715990
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4615977/",
+    "author_douban_id": "4615977",
+    "personage_id": 36086832,
+    "name": [
+        "梅节",
+        "Jie Mei"
+    ],
+    "intro": "梅节（1928-），原名梅挺秀，广东省台山县（今台山市）人，汉族。1950年考入燕京大学新闻系，1952年合并北京大学中文系，1954年毕业入光明日报工作。1977年移居香港，现为香港梦梅馆总编辑，业馀从事红楼梦与金瓶梅研究。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/2f06f48d1c81df29d4c2648c28a316b2.jpg",
+    "更多中文名": "梅節",
+    "sex": 1,
+    "birth_date": 1928,
+    "age": 98,
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

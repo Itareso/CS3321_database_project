@@ -1,0 +1,145 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.8,
+                        "title": "重口味心理学",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34147002.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/35792974/",
+                        "year": "2022",
+                        "id": 35792974
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "心理学与心理调节术",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s30222384.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/31293383/",
+                        "year": "2018",
+                        "id": 31293383
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 4.8,
+                        "title": "让你爱不释手的极简美国史",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s28750001.jpg",
+                        "rating_star": 2.5,
+                        "url": "https://book.douban.com/subject/26801649/",
+                        "year": "2016",
+                        "id": 26801649
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 4.8,
+                        "title": "心理学与微表情微反应",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28993182.jpg",
+                        "rating_star": 2.5,
+                        "url": "https://book.douban.com/subject/26859918/",
+                        "year": "2016",
+                        "id": 26859918
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.4,
+                        "title": "重口味心理学3",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28102047.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/26417523/",
+                        "year": "2015",
+                        "id": 26417523
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "这些专业不怕失业",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28524609.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26748110/",
+                        "year": "2015",
+                        "id": 26748110
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "商战兵法",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s27227981.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/25832018/",
+                        "year": "2014",
+                        "id": 25832018
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "《春秋公羊传》语言研究",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29077495.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/25814617/",
+                        "year": "2014",
+                        "id": 25814617
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "SAT官方考试指南",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28524605.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26748108/",
+                        "year": "2014",
+                        "id": 26748108
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "重口味心理学2",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27121986.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/25760744/",
+                        "year": "2013",
+                        "id": 25760744
+                    }
+                }
+            ],
+            "total": 31
+        }
+    },
+    "author_link": "https://book.douban.com/author/157158/",
+    "author_douban_id": "157158",
+    "personage_id": 30085620,
+    "name": [
+        "姚尧"
+    ],
+    "intro": "姚尧，女，应用心理学硕士，国家二级心理咨询师。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/861adc15069f626fc534f331f52b2cc0.jpg",
+    "sex": 0,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

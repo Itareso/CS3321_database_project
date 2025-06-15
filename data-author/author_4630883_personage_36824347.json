@@ -1,0 +1,146 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "燕云在望",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34930116.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36911312/",
+                        "year": "2024",
+                        "id": 36911312
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "边城新纪",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34381818.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36196700/",
+                        "year": "2023",
+                        "id": 36196700
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "斑鸠落地",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34669706.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36604573/",
+                        "year": "2023",
+                        "id": 36604573
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "花盐",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34332432.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36125919/",
+                        "year": "2022",
+                        "id": 36125919
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "李劼人往事（1925-1952）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34044437.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35650888/",
+                        "year": "2021",
+                        "id": 35650888
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "昨日的边城",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33934918.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35512398/",
+                        "year": "2021",
+                        "id": 35512398
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "河山有灵",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33689720.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34995691/",
+                        "year": "2020",
+                        "id": 34995691
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "西迁东还",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33469212.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34812369/",
+                        "year": "2019",
+                        "id": 34812369
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "整个世界慢慢灰暗下来",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29909249.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30365154/",
+                        "year": "2018",
+                        "id": 30365154
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "桥滩记",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28264310.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26580032/",
+                        "year": "2015",
+                        "id": 26580032
+                    }
+                }
+            ],
+            "total": 13
+        }
+    },
+    "author_link": "https://book.douban.com/author/4630883/",
+    "author_douban_id": "4630883",
+    "personage_id": 36824347,
+    "name": [
+        "龚静染",
+        "Jingran Gong"
+    ],
+    "intro": "龚静染，作家。出版有《桥滩记》《浮华如盐》《昨日的边城》《整个世界慢慢灰暗下来》《我们的小城》《河山有灵：岷峨记》《西迁东还》等十多部文学作品集。现居成都。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/8c887b59369d3c26ac41414676bee4f5.jpg",
+    "sex": 1,
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

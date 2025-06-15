@@ -1,0 +1,70 @@
+{
+    "title": "四重星",
+    "bookInfo": {
+        "作者": "[日] 高山一实",
+        "出版社": "新星出版社",
+        "原作名": "トラペジウム",
+        "译者": "余冬敏",
+        "出版年": "2020-7",
+        "页数": "230",
+        "定价": "49.00元",
+        "装帧": "平装",
+        "ISBN": "9787513340182"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "13.4%",
+        "four_star_rate": "23.6%",
+        "three_star_rate": "44.7%",
+        "two_star_rate": "15.8%",
+        "one_star_rate": "2.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4615430/",
+            "name": "高山一实",
+            "role": "作者",
+            "douban_id": "4615430"
+        }
+    ],
+    "shops": [
+        {
+            "name": "当当网",
+            "price": "35.30元",
+            "link": "https://book.douban.com/link2/?lowest=3529&pre=0&vendor=dangdang&srcpage=subject&price=3529&pos=1&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35045334%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28976522&cntvendor=1&srcsubj=35045334&type=bkbuy&subject=35045334"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35045334/",
+    "douban_id": "35045334",
+    "menu": [
+        "",
+        "        Ch.1 南之星 —长卷发少女—",
+        "        Ch.2 西之星 —萌萌袖少女—",
+        "        Ch.3 东之星 —渴望闪耀的少女—",
+        "        Ch.4 北之星 —行善少女—",
+        "        Ch.5 同样的星辰 —轮椅少女—",
+        "        Ch.6 同谋 —驼色摄影师—",
+        "        Ch.7 好对手 —会多国语言的老人—",
+        "        Ch.8 救世主 —毒蘑菇AD—",
+        "        Ch.9 方位自身",
+        "        尾 声",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33670079.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 高山一实",
+            "link": "https://book.douban.com/author/4615430"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "余冬敏",
+            "link": "https://book.douban.com/search/%E4%BD%99%E5%86%AC%E6%95%8F"
+        }
+    ],
+    "tag": "日本文学"
+}

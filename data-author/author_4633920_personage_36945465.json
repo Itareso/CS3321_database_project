@@ -1,0 +1,95 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.2,
+                        "title": "魔术江湖3",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33577773.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/34972090/",
+                        "year": "2020",
+                        "id": 34972090
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "魔术江湖",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s32344335.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30371586/",
+                        "year": "2019",
+                        "id": 30371586
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "魔术江湖2",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33436556.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34614370/",
+                        "year": "2019",
+                        "id": 34614370
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "相声大师3",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29836509.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30291313/",
+                        "year": "2018",
+                        "id": 30291313
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "相声大师",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29421166.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27015377/",
+                        "year": "2017",
+                        "id": 27015377
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "相声大师2",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29840156.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30152199/",
+                        "year": "2017",
+                        "id": 30152199
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/4633920/",
+    "author_douban_id": "4633920",
+    "personage_id": 36945465,
+    "name": [
+        "唐四方"
+    ],
+    "intro": "唐四方，90后，浙江人。从小痴迷于中国传统文化，钻研戏法、相声、京剧、评书等传统艺术十余年，以诙谐笔法创作的《魔术江湖》系列，堪称其集大成之作。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "profession": [
+        "作者"
+    ]
+}

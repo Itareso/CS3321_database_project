@@ -1,0 +1,83 @@
+{
+    "title": "我走不出我的黑夜",
+    "bookInfo": {
+        "作者": "[法]安妮·埃尔诺",
+        "出版社": "上海人民出版社",
+        "原作名": "Je ne suis pas sortie de ma nuit",
+        "译者": "黄荭",
+        "出版年": "2023-11-30",
+        "页数": "110",
+        "定价": "38.00",
+        "装帧": "精装",
+        "丛书": "安妮·埃尔诺作品",
+        "ISBN": "9787208184466"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "39.6%",
+        "four_star_rate": "44.0%",
+        "three_star_rate": "14.9%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611654/",
+            "name": "安妮·埃尔诺",
+            "role": "作者",
+            "douban_id": "4611654"
+        },
+        {
+            "link": "https://book.douban.com/author/4623888/",
+            "name": "黄荭",
+            "role": "译者",
+            "douban_id": "4623888"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.60元",
+            "link": "https://book.douban.com/link2/?lowest=2570&pre=0&vendor=jingdong&srcpage=subject&price=2660&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVMWVAIDVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAXF1UDEoVHDZNRwYlFV1LUhg0cBtyCz9IRyJMBWUBCQ0meEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UXgcAVlheC0oWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHg8UX1ZsCFgKSk9IWSdmG1oSVAEHVl9tCkoWAW04K2tUBEVaMD4HQTJ8VRVXSxtgXA5ZDwtdej95ATtLbwJrBVlJLV5dSRJICzZ6K1gl&cntvendor=3&srcsubj=36501250&type=bkbuy&subject=36501250"
+        },
+        {
+            "name": "当当网",
+            "price": "28.50元",
+            "link": "https://book.douban.com/link2/?lowest=2570&pre=0&vendor=dangdang&srcpage=subject&price=2850&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36501250%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29661984&cntvendor=3&srcsubj=36501250&type=bkbuy&subject=36501250"
+        },
+        {
+            "name": "中图网",
+            "price": "25.70元",
+            "link": "https://book.douban.com/link2/?lowest=2570&pre=0&vendor=bookschina&srcpage=subject&price=2570&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9216123.htm&cntvendor=3&srcsubj=36501250&type=bkbuy&subject=36501250"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36501250/",
+    "douban_id": "36501250",
+    "menu": [
+        "",
+        "        安妮·埃尔诺作品集中文版序言",
+        "        我走不出我的黑夜",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34685746.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法]安妮·埃尔诺",
+            "link": "https://book.douban.com/author/4611654"
+        },
+        {
+            "text": "上海人民出版社",
+            "link": "https://book.douban.com/press/2733"
+        },
+        {
+            "text": "黄荭",
+            "link": "https://book.douban.com/search/%E9%BB%84%E8%8D%AD"
+        },
+        {
+            "text": "安妮·埃尔诺作品",
+            "link": "https://book.douban.com/series/62931"
+        }
+    ],
+    "tag": "随笔"
+}

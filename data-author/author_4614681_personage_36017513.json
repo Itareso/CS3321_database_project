@@ -1,0 +1,121 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "造物小说家",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33685345.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35114594/",
+                        "year": "2020",
+                        "id": 35114594
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "泪国",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33446395.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34779677/",
+                        "year": "2019",
+                        "id": 34779677
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "少女蛋",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33447500.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34781144/",
+                        "year": "2019",
+                        "id": 34781144
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "沉睡的女儿",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28373444.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26579786/",
+                        "year": "2016",
+                        "id": 26579786
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "中国孩子",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28265813.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26336912/",
+                        "year": "2015",
+                        "id": 26336912
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "如果世界只有我和你",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27774258.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26253304/",
+                        "year": "2014",
+                        "id": 26253304
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "夜之琴女与耶稣之笛",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s3062738.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/3056871/",
+                        "year": "2008",
+                        "id": 3056871
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "恶魔奏鸣曲",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s1879625.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1901264/",
+                        "year": "2006",
+                        "id": 1901264
+                    }
+                }
+            ],
+            "total": 8
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614681/",
+    "author_douban_id": "4614681",
+    "personage_id": 36017513,
+    "name": [
+        "哥舒意",
+        "Shuyi Ge"
+    ],
+    "intro": "作家，小说家。2006年开始创作，已出版长篇小说七部，中短篇集一部，作品发表在《收获》《萌芽》《山花》《上海文学》《小说界》《青年作家》《青年文学》《思南文学选刊》等文学杂志。获得过首届99读书人“世界文学之旅”长篇小说金奖，“新小说家”文学新锐奖。2019年获得“未来网络文学家”年度新人奖。著作长篇小说《恶魔奏鸣曲》《夜之琴女与耶稣之笛》（古典乐系系列），《秀哉的夏天》(《如果世界只有我和你》)《沉睡的女儿》《中国孩子》(中国孩子三部曲)，长篇《泪国》，中短篇小说集《造物小说家》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/559697df2a571658fd393cbf88031af7.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

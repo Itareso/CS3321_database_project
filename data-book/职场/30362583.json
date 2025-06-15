@@ -1,0 +1,75 @@
+{
+    "title": "野心博物馆",
+    "bookInfo": {
+        "作者": "残小雪",
+        "出版社": "新星出版社",
+        "出品方": "新经典文化",
+        "出版年": "2018-12-1",
+        "页数": "256",
+        "定价": "49.00元",
+        "装帧": "精装",
+        "ISBN": "9787513331593"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《野心博物馆》是知名青年作家、编剧残小雪全新长篇小说，直击都市女性真实生活现场，献给拒绝平庸的千万人    小城女孩夏涵从小过着循规蹈矩的生活，毕业后被父亲送进安稳的国企工作，大学时代的男友何奇也期待和她步入婚姻，但一眼就能看到未来的惶恐让她逃离家乡，来到北京打拼。    夏涵在知名广告公司成为一名实习生，与爱情至上的女孩许微微、工作狂顾若熙成为好友，同时，也和竞争对手公司的李想不打不相识，越走越近。波折起伏的职场，变幻莫测的爱情，孤注一掷的婚姻，似乎每走一步都是人生的十字路口，每个阶段都充满欲望和杂念，但每个方向也充溢着各种可能。    经历过更迭与得失，学会了宽容与隐忍，如今，夏涵再一次面临着未来的选择，向前一步，会是怎样的风景？    你是不是也曾为了理想的生活而放手一搏？当梦想被现实击打得面目全非时，我们到底该怎么做？女主带你打怪升级，不做职场韭菜、人生输家。她不是需要膜拜和羡慕的女主角，只是在这个城市生存的你我的写照 。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "30.1%",
+        "four_star_rate": "30.8%",
+        "three_star_rate": "29.5%",
+        "two_star_rate": "6.2%",
+        "one_star_rate": "3.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614934/",
+            "name": "残小雪",
+            "role": "作者",
+            "douban_id": "4614934"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.40元",
+            "link": "https://read.douban.com/ebook/331851882/?dcs=subject-buylink&dcm=douban&dct=30362583"
+        },
+        {
+            "name": "得到",
+            "price": "29.40元",
+            "link": "https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7rMo3rbx6pNgznl9VZPLJQyEBodb89mqoO&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "22.54元",
+            "link": "https://book.douban.com/link2/?lowest=1670&pre=0&vendor=jingdong&srcpage=subject&price=2254&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF4TXgUEXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOVT1UUCx3XGZyEwwSAF9dAS1cWExRcBNBdVlxJV9hLwY1cjFVQW5rQAZpBxFCWCokcCJjSjpKbARDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZYMicFQE5TCwxwUzhKLX99Lg4rVxtnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcHXFdZDkgRAG04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRA10zVE1NXClNWhJ7XwcCUF1aCk0nAW4JGVklbTYDN1cFbytIChUATFxIBFlXJ18NDw1kfyZmGT9tBGV5DDYncglVAgxTRidPbQUy&cntvendor=5&srcsubj=30362583&type=bkbuy&subject=30362583"
+        },
+        {
+            "name": "当当网",
+            "price": "31.90元",
+            "link": "https://book.douban.com/link2/?lowest=1670&pre=0&vendor=dangdang&srcpage=subject&price=3190&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30362583%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25576240&cntvendor=5&srcsubj=30362583&type=bkbuy&subject=30362583"
+        },
+        {
+            "name": "中图网",
+            "price": "16.70元",
+            "link": "https://book.douban.com/link2/?lowest=1670&pre=0&vendor=bookschina&srcpage=subject&price=1670&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9117337.htm&cntvendor=5&srcsubj=30362583&type=bkbuy&subject=30362583"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30362583/",
+    "douban_id": "30362583",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29906467.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "残小雪",
+            "link": "https://book.douban.com/author/4614934"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "新经典文化",
+            "link": "https://book.douban.com/producers/3"
+        }
+    ],
+    "tag": "职场"
+}

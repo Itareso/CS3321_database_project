@@ -1,0 +1,90 @@
+{
+    "title": "天气之子",
+    "bookInfo": {
+        "作者": "[日] 新海诚",
+        "出版社": "百花洲文艺出版社",
+        "出品方": "天闻角川",
+        "原作名": "天気の子",
+        "译者": "林青华",
+        "出版年": "2019-9",
+        "页数": "235",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "ISBN": "9787550033566"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.8%",
+        "four_star_rate": "36.8%",
+        "three_star_rate": "27.4%",
+        "two_star_rate": "4.9%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/221541/",
+            "name": "新海诚",
+            "role": "作者",
+            "douban_id": "221541"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "23.80元",
+            "link": "https://book.douban.com/link2/?lowest=2380&pre=0&vendor=jingdong&srcpage=subject&price=2380&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwQCVl9aAEseCl8IGlocVAIGVlpYCE0VCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmYBH18XWQMCUlxUFxJSXzI4eCdQJU1kBwk_SxMJWyxBQCBMKAVDElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXXgAKU1heOEkXAm4NG1MSXgcyVFhYCUgWB2wKH18XWjYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUl1dDEwWbTMOTB4dAFQKOl5cAU0XC2oLK1kUXAQAZG5tUA1zcDoNcgJrP111KCVecTNocDdQQ15hMwRXA1sbXzhvVxFNGSJhHFVaAG5eOA&cntvendor=3&srcsubj=34799480&type=bkbuy&subject=34799480"
+        },
+        {
+            "name": "当当网",
+            "price": "33.60元",
+            "link": "https://book.douban.com/link2/?lowest=2380&pre=0&vendor=dangdang&srcpage=subject&price=3360&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34799480%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27940823&cntvendor=3&srcsubj=34799480&type=bkbuy&subject=34799480"
+        },
+        {
+            "name": "中图网",
+            "price": "30.40元",
+            "link": "https://book.douban.com/link2/?lowest=2380&pre=0&vendor=bookschina&srcpage=subject&price=3040&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8193421.htm&cntvendor=3&srcsubj=34799480&type=bkbuy&subject=34799480"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34799480/",
+    "douban_id": "34799480",
+    "menu": [
+        "",
+        "        序  章 听你说过的故事",
+        "        第一章 出岛的少年",
+        "        第二章 大人们",
+        "        第三章 再会·楼顶·耀眼的城市",
+        "        第四章 百分之百的晴天女子",
+        "        第五章 天气和人和幸福",
+        "        第六章 天空的彼岸",
+        "        第七章 发觉",
+        "        第八章 最后的夜晚",
+        "        第九章 晴天",
+        "        第十章 爱可以做到的事情",
+        "        第十一章 比蓝天更重要",
+        "        终  章 不要紧",
+        "        后记",
+        "        解说",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33685398.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 新海诚",
+            "link": "https://book.douban.com/author/221541"
+        },
+        {
+            "text": "百花洲文艺出版社",
+            "link": "https://book.douban.com/press/2124"
+        },
+        {
+            "text": "天闻角川",
+            "link": "https://book.douban.com/producers/67"
+        },
+        {
+            "text": "林青华",
+            "link": "https://book.douban.com/search/%E6%9E%97%E9%9D%92%E5%8D%8E"
+        }
+    ],
+    "tag": "日本文学"
+}

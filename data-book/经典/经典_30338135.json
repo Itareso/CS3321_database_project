@@ -1,0 +1,69 @@
+{
+    "title": "安妮日记",
+    "bookInfo": {
+        "作者": "[德] 安妮·弗兰克",
+        "出版社": "四川文艺出版社",
+        "出品方": "酷威文化",
+        "原作名": "The Diary of a Young Girl",
+        "译者": "贾雪",
+        "出版年": "2018-9",
+        "页数": "280",
+        "定价": "39.8元",
+        "装帧": "平装",
+        "ISBN": "9787541151590"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "40.0%",
+        "four_star_rate": "49.3%",
+        "three_star_rate": "10.1%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "1.99元",
+            "link": "https://read.douban.com/ebook/430724523/?dcs=subject-buylink&dcm=douban&dct=30338135"
+        },
+        {
+            "name": "京东商城",
+            "price": "8.90元",
+            "link": "https://book.douban.com/link2/?lowest=890&pre=0&vendor=jingdong&srcpage=subject&price=890&pos=2&url=https%3A%2F%2Fitem.jd.com%2F14414494.html&cntvendor=4&srcsubj=30338135&type=bkbuy&subject=30338135"
+        },
+        {
+            "name": "当当网",
+            "price": "23.10元",
+            "link": "https://book.douban.com/link2/?lowest=890&pre=0&vendor=dangdang&srcpage=subject&price=2310&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30338135%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25580077&cntvendor=4&srcsubj=30338135&type=bkbuy&subject=30338135"
+        },
+        {
+            "name": "中图网",
+            "price": "15.30元",
+            "link": "https://book.douban.com/link2/?lowest=890&pre=0&vendor=bookschina&srcpage=subject&price=1530&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7931967.htm&cntvendor=4&srcsubj=30338135&type=bkbuy&subject=30338135"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30338135/",
+    "douban_id": "30338135",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29897077.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] 安妮·弗兰克",
+            "link": "https://book.douban.com/author/166483"
+        },
+        {
+            "text": "四川文艺出版社",
+            "link": "https://book.douban.com/press/2529"
+        },
+        {
+            "text": "酷威文化",
+            "link": "https://book.douban.com/producers/29"
+        },
+        {
+            "text": "贾雪",
+            "link": "https://book.douban.com/search/%E8%B4%BE%E9%9B%AA"
+        }
+    ],
+    "tag": "经典"
+}

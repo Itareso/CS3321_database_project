@@ -1,0 +1,70 @@
+{
+    "title": "电子脑叶",
+    "bookInfo": {
+        "作者": "[日] 野崎惑",
+        "出版社": "台海出版社",
+        "出品方": "力潮文创",
+        "原作名": "Know",
+        "译者": "李彦桦",
+        "出版年": "2021-2",
+        "定价": "48.00",
+        "装帧": "平装",
+        "丛书": "千本樱文库",
+        "ISBN": "9787516822388"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.2%",
+        "four_star_rate": "40.8%",
+        "three_star_rate": "26.6%",
+        "two_star_rate": "6.1%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4642220/",
+            "name": "李彦桦",
+            "role": "译者",
+            "douban_id": "4642220"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "27.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=jingdong&srcpage=subject&price=2700&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF0dWAAAXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOBhUdY0N3WmdgQh5cJgJ4E1k4chBTdy1udVkXWmJJVjUAeiMVAT1DeRoXCRFCWCokcC9uYBhJbwRPBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ-Fx8-ahkSZA9RUy1DLmV2UycoXz9RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFpYC0ofC2o4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQUKUlwzVE1ASDxOTR57XQYHVl5UDksnAW4JGVklbTZQHx42ACtOCwdRXhJuWXxFUzsnUw9jQQlmGVkSOU0APwMvYEkVUSRqWllBbQUy&cntvendor=2&srcsubj=35268371&type=bkbuy&subject=35268371"
+        },
+        {
+            "name": "中图网",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=bookschina&srcpage=subject&price=2400&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8543639.htm&cntvendor=2&srcsubj=35268371&type=bkbuy&subject=35268371"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35268371/",
+    "douban_id": "35268371",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33825712.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 野崎惑",
+            "link": "https://book.douban.com/search/%E9%87%8E%E5%B4%8E%E6%83%91"
+        },
+        {
+            "text": "台海出版社",
+            "link": "https://book.douban.com/press/2502"
+        },
+        {
+            "text": "力潮文创",
+            "link": "https://book.douban.com/producers/479"
+        },
+        {
+            "text": "李彦桦",
+            "link": "https://book.douban.com/author/4642220"
+        },
+        {
+            "text": "千本樱文库",
+            "link": "https://book.douban.com/series/44121"
+        }
+    ],
+    "tag": "科幻"
+}

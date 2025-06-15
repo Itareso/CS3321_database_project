@@ -1,0 +1,78 @@
+{
+    "title": "地球无应答",
+    "bookInfo": {
+        "作者": "王诺诺",
+        "出版社": "湖南文艺出版社",
+        "出品方": "博集天卷",
+        "出版年": "2019-4",
+        "页数": "240",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "ISBN": "9787540488901"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.2%",
+        "four_star_rate": "38.5%",
+        "three_star_rate": "30.3%",
+        "two_star_rate": "7.3%",
+        "one_star_rate": "3.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4627882/",
+            "name": "王诺诺",
+            "role": "作者",
+            "douban_id": "4627882"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.98元",
+            "link": "https://read.douban.com/ebook/118560981/?dcs=subject-buylink&dcm=douban&dct=33391690"
+        },
+        {
+            "name": "得到",
+            "price": "19.98元",
+            "link": "https://www.dedao.cn/eBook/XOnaYG1qlM7amvGYerDZOy9JVnXL40BELlwBkp1NKxoRdb86P2Q5AzgEj9vE5rDo?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "30.00元",
+            "link": "https://book.douban.com/link2/?lowest=3000&pre=0&vendor=jingdong&srcpage=subject&price=3000&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF8XWwcHUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUFxbCU4RHDZNRwYlH08cBC0Fek93Ww11SwBrVGBGA1tcTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYGUVxbDEMUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwITFgVXABsCFgKQxkfUzBmG1sSWAQEU1ptCkoWAW04K2ttPHtBUTscazheeCpzZzNOXllmXQEJfzF5AWoJRDpdHmNUJxgbcCp0awddK1gl&cntvendor=3&srcsubj=33391690&type=bkbuy&subject=33391690"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33391690/",
+    "douban_id": "33391690",
+    "menu": [
+        "",
+        "        改良人类",
+        "        地球无应答",
+        "        全数据时代",
+        "        风雪夜归人",
+        "        春天来临的方式",
+        "        为什么猫咪要在深夜开会",
+        "        最后的复盘",
+        "        算法佳人",
+        "        一天的故事",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s32290301.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "王诺诺",
+            "link": "https://book.douban.com/author/4627882"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        },
+        {
+            "text": "博集天卷",
+            "link": "https://book.douban.com/producers/20"
+        }
+    ],
+    "tag": "科幻"
+}

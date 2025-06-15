@@ -1,0 +1,52 @@
+{
+    "title": "月球城市",
+    "bookInfo": {
+        "作者": "安迪．威爾",
+        "出版社": "三采文化",
+        "原作名": "Artemis",
+        "译者": "翁雅如",
+        "出版年": "2018-3-30",
+        "页数": "384",
+        "定价": "NT$380",
+        "装帧": "平装",
+        "ISBN": "9789863429647"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "23.5%",
+        "four_star_rate": "27.5%",
+        "three_star_rate": "45.1%",
+        "two_star_rate": "3.9%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/449279/",
+            "name": "安迪·威尔",
+            "role": "作者",
+            "douban_id": "449279"
+        },
+        {
+            "link": "https://book.douban.com/author/4636113/",
+            "name": "翁雅如",
+            "role": "译者",
+            "douban_id": "4636113"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/30155917/",
+    "douban_id": "30155917",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29787815.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "安迪．威爾",
+            "link": "https://book.douban.com/search/%E5%AE%89%E8%BF%AA%EF%BC%8E%E5%A8%81%E7%88%BE"
+        },
+        {
+            "text": "翁雅如",
+            "link": "https://book.douban.com/author/4636113"
+        }
+    ],
+    "tag": "科幻"
+}

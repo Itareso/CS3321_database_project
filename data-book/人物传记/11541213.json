@@ -1,0 +1,74 @@
+{
+    "title": "艾伦•图灵传",
+    "bookInfo": {
+        "作者": "（英）安德鲁·霍奇斯",
+        "出版社": "湖南科学技术出版社",
+        "副标题": "如谜的解谜者",
+        "原作名": "Alan Turing: The Enigma",
+        "译者": "孙天齐",
+        "出版年": "2012-8-1",
+        "页数": "534",
+        "定价": "68.00元",
+        "装帧": "平装",
+        "ISBN": "9787535773067"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.5%",
+        "four_star_rate": "47.9%",
+        "three_star_rate": "14.2%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/495360/",
+            "name": "安德鲁·霍奇斯",
+            "role": "作者",
+            "douban_id": "495360"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "76.00元",
+            "link": "https://book.douban.com/link2/?lowest=7600&pre=0&vendor=jingdong&srcpage=subject&price=7600&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgcLVVpeCk4TBV8IGloXWgAGU11YAUsXAV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0PHV8SXgMLVF5fFxJSXzI4YhNwBl0EJxY_dFFIVBxNHRAdNQFlAlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwIAVFxcOEkXAm4NG1MSXgcyVFhYCU4fC2wBHloTWTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRU1tUCEoSbTMOQQVHXlkBOlxcCkgSBWkIK1kUXAQAZG5tXA5xQBFhUFgRBwRREyo8Tx5hBzVNXAYWMwRDBDYYXghEVmtBZjpxB3BZKm5eOA&cntvendor=1&srcsubj=11541213&type=bkbuy&subject=11541213"
+        }
+    ],
+    "url": "https://book.douban.com/subject/11541213/",
+    "douban_id": "11541213",
+    "menu": [
+        "",
+        "        作者序",
+        "        道格拉斯·霍夫施塔特序",
+        "        译者序",
+        "        马慧元序",
+        "        第一章 他得学会合群",
+        "        第二章 思考什么是思考",
+        "        第三章 彼岸新星",
+        "        第四章 解谜接力赛",
+        "        连接两个世界",
+        "        第五章 运转起来",
+        "        第六章 水银延迟线",
+        "        第七章 退隐山林",
+        "        第八章 面朝大海",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s11314802.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "（英）安德鲁·霍奇斯",
+            "link": "https://book.douban.com/author/495360"
+        },
+        {
+            "text": "湖南科学技术出版社",
+            "link": "https://book.douban.com/press/2382"
+        },
+        {
+            "text": "孙天齐",
+            "link": "https://book.douban.com/search/%E5%AD%99%E5%A4%A9%E9%BD%90"
+        }
+    ],
+    "tag": "人物传记"
+}

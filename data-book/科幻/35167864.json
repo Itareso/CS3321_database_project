@@ -1,0 +1,82 @@
+{
+    "title": "钢之色",
+    "bookInfo": {
+        "作者": "[英] K.J.帕克",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "副标题": "法庭斗剑三部曲",
+        "原作名": "Colours in the Steel",
+        "译者": "叶林",
+        "出版年": "2020-12",
+        "页数": "486",
+        "定价": "75.00元",
+        "装帧": "平装",
+        "丛书": "世界奇幻大师丛书",
+        "ISBN": "9787536499034"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "47.1%",
+        "four_star_rate": "36.6%",
+        "three_star_rate": "14.5%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609157/",
+            "name": "K.J.帕克",
+            "role": "作者",
+            "douban_id": "4609157"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "35.99元",
+            "link": "https://read.douban.com/ebook/327618256/?dcs=subject-buylink&dcm=douban&dct=35167864"
+        },
+        {
+            "name": "京东商城",
+            "price": "45.40元",
+            "link": "https://book.douban.com/link2/?lowest=4540&pre=0&vendor=jingdong&srcpage=subject&price=4540&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgEGXF1fAUMeCl8IGloXXA4HUFpVAEwTBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0JE14RWQ4KU1pYFxJSXzI4fiYTKVhBKjU_fkhPajFdUiFnL3p8JFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUVAMDUFxdOEkXAm4NG1MSXgcyVFhYCUgXBmYLElMdVTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRU1tUCEgTbTMOTBNeW0cFOl5dDE0SBWYNK1kUXAQAZG5tdi9TUA9oGTljKwFwUiofU0huCmpfci1pMwRhMTg5URgRVBlzHDtwO04GAG5eOA&cntvendor=4&srcsubj=35167864&type=bkbuy&subject=35167864"
+        },
+        {
+            "name": "当当网",
+            "price": "75.00元",
+            "link": "https://book.douban.com/link2/?lowest=4540&pre=0&vendor=dangdang&srcpage=subject&price=7500&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35167864%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29200815&cntvendor=4&srcsubj=35167864&type=bkbuy&subject=35167864"
+        },
+        {
+            "name": "中图网",
+            "price": "54.20元",
+            "link": "https://book.douban.com/link2/?lowest=4540&pre=0&vendor=bookschina&srcpage=subject&price=5420&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8577055.htm&cntvendor=4&srcsubj=35167864&type=bkbuy&subject=35167864"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35167864/",
+    "douban_id": "35167864",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33857233.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] K.J.帕克",
+            "link": "https://book.douban.com/search/K.J.%E5%B8%95%E5%85%8B"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "叶林",
+            "link": "https://book.douban.com/author/4552464"
+        },
+        {
+            "text": "世界奇幻大师丛书",
+            "link": "https://book.douban.com/series/3578"
+        }
+    ],
+    "tag": "科幻"
+}

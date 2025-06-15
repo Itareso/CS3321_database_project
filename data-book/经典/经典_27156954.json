@@ -1,0 +1,99 @@
+{
+    "title": "亚瑟王之死",
+    "bookInfo": {
+        "作者": "[英] 托马斯·马洛礼",
+        "出版社": "天津人民出版社",
+        "出品方": "果麦文化",
+        "原作名": "Le Morte d’Arthur",
+        "译者": "陈才宇",
+        "出版年": "2017-12",
+        "页数": "280",
+        "定价": "49.00",
+        "装帧": "精装",
+        "丛书": "果麦·外国文学经典",
+        "ISBN": "9787201124827"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "15.4%",
+        "four_star_rate": "30.9%",
+        "three_star_rate": "40.6%",
+        "two_star_rate": "11.1%",
+        "one_star_rate": "2.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4640561/",
+            "name": "托马斯·马洛礼",
+            "role": "作者",
+            "douban_id": "4640561"
+        },
+        {
+            "link": "https://book.douban.com/author/4639634/",
+            "name": "陈才宇",
+            "role": "译者",
+            "douban_id": "4639634"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=jingdong&srcpage=subject&price=2450&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12754307.html&cntvendor=1&srcsubj=27156954&type=bkbuy&subject=27156954"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27156954/",
+    "douban_id": "27156954",
+    "menu": [
+        "",
+        "        亚瑟称王",
+        "        大魔法师梅林的预言",
+        "        荒野巴林的痛心一击",
+        "        圆桌骑士的神圣誓言",
+        "        女巫摩根勒菲的诡计",
+        "        亚瑟王渡海远征罗马",
+        "        圆桌骑士",
+        "        骑士之花兰斯洛特",
+        "        “好手掌”骑士高雷斯",
+        "        爱情骑士特里斯丹",
+        "        红盾骑士拉姆莱克",
+        "        阴险骑士马克国王",
+        "        圣杯传奇",
+        "        圣杯骑士加拉哈德",
+        "        骑士团与圣杯冒险",
+        "        兰斯洛特追寻圣杯",
+        "        先知所罗门的神迹",
+        "        圣杯三骑士的结局",
+        "        亚瑟之死",
+        "        兰斯洛特的秘密恋情",
+        "        宫闱之恋致圆桌崩毁",
+        "        莫德莱德的叛逆决战",
+        "        亚瑟王身后传奇遗事",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29628090.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 托马斯·马洛礼",
+            "link": "https://book.douban.com/author/4640561"
+        },
+        {
+            "text": "天津人民出版社",
+            "link": "https://book.douban.com/press/2765"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "陈才宇",
+            "link": "https://book.douban.com/author/4639634"
+        },
+        {
+            "text": "果麦·外国文学经典",
+            "link": "https://book.douban.com/series/49275"
+        }
+    ],
+    "tag": "经典"
+}

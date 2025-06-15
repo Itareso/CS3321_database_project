@@ -1,0 +1,98 @@
+{
+    "title": "新政治科学",
+    "bookInfo": {
+        "作者": "[美]埃里克·沃格林",
+        "出版社": "商务印书馆",
+        "原作名": "The New Science of Politics : An Introduction",
+        "译者": "段保良",
+        "出版年": "2018-12",
+        "页数": "202",
+        "定价": "26.00",
+        "装帧": "平装",
+        "丛书": "政治哲学名著译丛",
+        "ISBN": "9787100163958"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "63.1%",
+        "four_star_rate": "28.2%",
+        "three_star_rate": "7.8%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609804/",
+            "name": "埃里克·沃格林",
+            "role": "作者",
+            "douban_id": "4609804"
+        },
+        {
+            "link": "https://book.douban.com/author/4641272/",
+            "name": "段保良",
+            "role": "译者",
+            "douban_id": "4641272"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "11.34元",
+            "link": "https://www.dedao.cn/ebook/detail?id=DAOVMEb6LKoq7rM4DAYENOVl8XBgJ3QXPbW1v5kjeam9ZxzbQGn2PpyRdYQ2L8mX&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.49元",
+            "link": "https://book.douban.com/link2/?lowest=1010&pre=0&vendor=jingdong&srcpage=subject&price=2049&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF4cWw4LVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUVdbAEIXHDZNRwYlAkB8EEAIUil0BitqeC19GkN5PTpeaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4AUVdbDEwRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGA8WCgVsCFgHUgxTAiZmGFMdWwULV11tCkoWAW04K2toKFB-V1skYS1VYmxVaVwRKkBZU1kJDBx5ARNITy5yIX9HMl1edT5nBhRRK1gl&cntvendor=4&srcsubj=30438801&type=bkbuy&subject=30438801"
+        },
+        {
+            "name": "当当网",
+            "price": "18.70元",
+            "link": "https://book.douban.com/link2/?lowest=1010&pre=0&vendor=dangdang&srcpage=subject&price=1870&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30438801%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D26490689&cntvendor=4&srcsubj=30438801&type=bkbuy&subject=30438801"
+        },
+        {
+            "name": "中图网",
+            "price": "10.10元",
+            "link": "https://book.douban.com/link2/?lowest=1010&pre=0&vendor=bookschina&srcpage=subject&price=1010&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8009425.htm&cntvendor=4&srcsubj=30438801&type=bkbuy&subject=30438801"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30438801/",
+    "douban_id": "30438801",
+    "menu": [
+        "",
+        "        目录",
+        "        1987年版序",
+        "        序",
+        "        致谢",
+        "        导论",
+        "        一、代表与存在",
+        "        二、代表与真理",
+        "        三、罗马帝国里的代表之争",
+        "        四、灵知主义：现代性的本质",
+        "        五、灵知主义革命：清教案例",
+        "        六、现代性的终结",
+        "        索引",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s30001914.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]埃里克·沃格林",
+            "link": "https://book.douban.com/search/%E5%9F%83%E9%87%8C%E5%85%8B%C2%B7%E6%B2%83%E6%A0%BC%E6%9E%97"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "段保良",
+            "link": "https://book.douban.com/author/4641272"
+        },
+        {
+            "text": "政治哲学名著译丛",
+            "link": "https://book.douban.com/series/32623"
+        }
+    ],
+    "tag": "西方哲学"
+}

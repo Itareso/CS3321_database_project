@@ -1,0 +1,65 @@
+{
+    "title": "上下五千年--珍藏版",
+    "bookInfo": {
+        "作者": "林汉达//曹余章",
+        "出版社": "上海人民出版社",
+        "出版年": "2014-6-1",
+        "页数": "1186",
+        "装帧": "平装",
+        "ISBN": "9787208123021"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "51.7%",
+        "four_star_rate": "36.1%",
+        "three_star_rate": "10.9%",
+        "two_star_rate": "0.5%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4566263/",
+            "name": "林汉达",
+            "role": "作者",
+            "douban_id": "4566263"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "49.99元",
+            "link": "https://www.dedao.cn/eBook/vExPL6aYQPjadpoZxR5r6KDkbNJVO0oyQj384GeXyLElm92gnMA1zvB7qMKpBGkj?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "129.94元",
+            "link": "https://book.douban.com/link2/?lowest=9900&pre=0&vendor=jingdong&srcpage=subject&price=12994&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFkSXg4KVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVlleAEMVHDZNRwYlWUQENQFfQyx0Xi9KeQNrXQJ3VCMdXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LVV5UCE8XM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHg8UWAdsCFgHVxFeRyxmGVoVVQcFVVttCkoWAW04K2tADXpRND5cQA5ocz1aeiFNWFJQChYZQEN5ATdWZwtADgZaESopXRtnW2lBK1gl&cntvendor=4&srcsubj=26256572&type=bkbuy&subject=26256572"
+        },
+        {
+            "name": "当当网",
+            "price": "99.00元",
+            "link": "https://book.douban.com/link2/?lowest=9900&pre=0&vendor=dangdang&srcpage=subject&price=9900&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26256572%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25315840&cntvendor=4&srcsubj=26256572&type=bkbuy&subject=26256572"
+        },
+        {
+            "name": "中图网",
+            "price": "148.50元",
+            "link": "https://book.douban.com/link2/?lowest=9900&pre=0&vendor=bookschina&srcpage=subject&price=14850&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7878693.htm&cntvendor=4&srcsubj=26256572&type=bkbuy&subject=26256572"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26256572/",
+    "douban_id": "26256572",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s27786408.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "林汉达//曹余章",
+            "link": "https://book.douban.com/author/4566263"
+        },
+        {
+            "text": "上海人民出版社",
+            "link": "https://book.douban.com/press/2733"
+        }
+    ],
+    "tag": "中国历史",
+    "avg_rate": 4.373
+}

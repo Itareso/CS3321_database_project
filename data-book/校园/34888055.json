@@ -1,0 +1,58 @@
+{
+    "title": "消えた初恋 1",
+    "bookInfo": {
+        "作者": "アルコ / ひねくれ渡 / 或子",
+        "出版社": "集英社",
+        "出版年": "2019-11-25",
+        "页数": "176",
+        "定价": "JPY 484",
+        "丛书": "消えた初恋",
+        "ISBN": "9784088442723"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "46.4%",
+        "four_star_rate": "38.2%",
+        "three_star_rate": "13.0%",
+        "two_star_rate": "2.4%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4632690/",
+            "name": "ひねくれ渡",
+            "role": "作者",
+            "douban_id": "4632690"
+        },
+        {
+            "link": "https://book.douban.com/author/4632689/",
+            "name": "或子",
+            "role": "作者",
+            "douban_id": "4632689"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/34888055/",
+    "douban_id": "34888055",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33519721.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "アルコ",
+            "link": "https://book.douban.com/search/%E3%82%A2%E3%83%AB%E3%82%B3"
+        },
+        {
+            "text": "ひねくれ渡",
+            "link": "https://book.douban.com/author/4632690"
+        },
+        {
+            "text": "或子",
+            "link": "https://book.douban.com/author/4632689"
+        },
+        {
+            "text": "消えた初恋",
+            "link": "https://book.douban.com/series/50696"
+        }
+    ],
+    "tag": "校园"
+}

@@ -1,0 +1,65 @@
+{
+    "title": "进阶之梯",
+    "bookInfo": {
+        "作者": "[美] 罗伯特·A.卡洛",
+        "出版社": "四川文艺出版社",
+        "出品方": "磨铁图书",
+        "副标题": "林登·约翰逊传 Vol.2",
+        "原作名": "Means of Ascent: The Years of Lyndon Johnson II",
+        "译者": "何雨珈",
+        "出版年": "2025-12",
+        "装帧": "精装",
+        "丛书": "林登·约翰逊传",
+        "ISBN": "9787541154997"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": null,
+        "four_star_rate": null,
+        "three_star_rate": null,
+        "two_star_rate": null,
+        "one_star_rate": null
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624272/",
+            "name": "罗伯特·A.卡洛",
+            "role": "作者",
+            "douban_id": "4624272"
+        },
+        {
+            "link": "https://book.douban.com/author/4613577/",
+            "name": "何雨珈",
+            "role": "译者",
+            "douban_id": "4613577"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/35081729/",
+    "douban_id": "35081729",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33691328.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 罗伯特·A.卡洛",
+            "link": "https://book.douban.com/search/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7A.%E5%8D%A1%E6%B4%9B"
+        },
+        {
+            "text": "四川文艺出版社",
+            "link": "https://book.douban.com/press/2529"
+        },
+        {
+            "text": "磨铁图书",
+            "link": "https://book.douban.com/producers/18"
+        },
+        {
+            "text": "何雨珈",
+            "link": "https://book.douban.com/search/%E4%BD%95%E9%9B%A8%E7%8F%88"
+        },
+        {
+            "text": "林登·约翰逊传",
+            "link": "https://book.douban.com/series/61055"
+        }
+    ],
+    "tag": "人物传记"
+}

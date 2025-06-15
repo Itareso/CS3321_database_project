@@ -1,0 +1,65 @@
+{
+    "title": "亮剑",
+    "bookInfo": {
+        "作者": "都梁",
+        "出版社": "北京联合出版公司",
+        "出品方": "磨铁图书",
+        "出版年": "2014-10-1",
+        "页数": "352",
+        "定价": "39.80元",
+        "装帧": "平装",
+        "丛书": "都梁家国四部曲（升级纪念典藏版）",
+        "ISBN": "9787550234956"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "76.2%",
+        "four_star_rate": "19.7%",
+        "three_star_rate": "2.7%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4564157/",
+            "name": "都梁",
+            "role": "作者",
+            "douban_id": "4564157"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "14.99元",
+            "link": "https://read.douban.com/ebook/328683340/?dcs=subject-buylink&dcm=douban&dct=26221838"
+        },
+        {
+            "name": "得到",
+            "price": "14.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=ZykJDGjQ7AOLNa642rbP8dkEgemKDwdxljwXoVRjpBxl95MJzqvYGynZ18MEl5Bo&source=douban"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26221838/",
+    "douban_id": "26221838",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s27736072.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "都梁",
+            "link": "https://book.douban.com/author/4564157"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "磨铁图书",
+            "link": "https://book.douban.com/producers/18"
+        },
+        {
+            "text": "都梁家国四部曲（升级纪念典藏版）",
+            "link": "https://book.douban.com/series/26479"
+        }
+    ],
+    "tag": "军事"
+}

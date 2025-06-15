@@ -1,0 +1,109 @@
+{
+    "title": "浮生六记",
+    "bookInfo": {
+        "作者": "[清]沈复",
+        "出版社": "中华书局",
+        "译者": "苗怀明",
+        "出版年": "2022-7-20",
+        "页数": "349",
+        "定价": "28.00元",
+        "装帧": "精装",
+        "丛书": "中华经典名著全本全注全译丛书",
+        "ISBN": "9787101131628"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "47.7%",
+        "four_star_rate": "39.7%",
+        "three_star_rate": "10.3%",
+        "two_star_rate": "2.3%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4546904/",
+            "name": "沈复",
+            "role": "作者",
+            "douban_id": "4546904"
+        },
+        {
+            "link": "https://book.douban.com/author/4610178/",
+            "name": "苗怀明",
+            "role": "译者 / 校注",
+            "douban_id": "4610178"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "16.50元",
+            "link": "https://www.dedao.cn/eBook/DLnMGAEG7gKLyYmkAbPaEXxD8BM4J0LOmKwROrpdZn19VNzv2o5e6lqjQQ1poxqy?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.56元",
+            "link": "https://book.douban.com/link2/?lowest=1820&pre=0&vendor=jingdong&srcpage=subject&price=2156&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFkTWgUEUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVlhaC00RHDZNRwYlHWZhKF8VbBB0ZxF_cwtVOm1CVxcKXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAXF5fDEMRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGF8TWVJsCFgKShIfUC5mG1oTXQEEVlptCkoWAW04K2thWHZBK1tYCAAXSBVLEwt2HQQGURk1WzV5AQ54W15LHl1bHwsIfE5EeghXK1gl&cntvendor=4&srcsubj=30263410&type=bkbuy&subject=30263410"
+        },
+        {
+            "name": "当当网",
+            "price": "18.20元",
+            "link": "https://book.douban.com/link2/?lowest=1820&pre=0&vendor=dangdang&srcpage=subject&price=1820&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30263410%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25295062&cntvendor=4&srcsubj=30263410&type=bkbuy&subject=30263410"
+        },
+        {
+            "name": "中图网",
+            "price": "22.00元",
+            "link": "https://book.douban.com/link2/?lowest=1820&pre=0&vendor=bookschina&srcpage=subject&price=2200&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7824955.htm&cntvendor=4&srcsubj=30263410&type=bkbuy&subject=30263410"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30263410/",
+    "douban_id": "30263410",
+    "menu": [
+        "",
+        "        前言",
+        "        卷一 闺房记乐",
+        "        卷二 闲情记趣",
+        "        卷三 坎坷记愁",
+        "        卷四 浪游记快",
+        "        附录一",
+        "        卷五 中山记历",
+        "        卷六 养生记逍",
+        "        附录二",
+        "        诗二首",
+        "        送沈三白随齐太史奉使琉球",
+        "        题沈三白琉球观海图",
+        "        寿沈三白布衣诗",
+        "        分题沈三白处士《浮生六记》",
+        "        《浮生六记》序",
+        "        《浮生六记》序",
+        "        《浮生六记》跋",
+        "        重印《浮生六记》序",
+        "        重刊《浮生六记》序",
+        "        《浮生六记》年表",
+        "        《浮生六记》序",
+        "        《浮生六记》后记",
+        "        《浮生六记》考",
+        "        《浮生六记》校读后附记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29808676.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[清]沈复",
+            "link": "https://book.douban.com/search/%E6%B2%88%E5%A4%8D"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "苗怀明",
+            "link": "https://book.douban.com/search/%E8%8B%97%E6%80%80%E6%98%8E"
+        },
+        {
+            "text": "中华经典名著全本全注全译丛书",
+            "link": "https://book.douban.com/series/4103"
+        }
+    ],
+    "tag": "随笔"
+}

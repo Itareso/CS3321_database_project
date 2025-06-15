@@ -1,0 +1,64 @@
+{
+    "title": "束草的冬天",
+    "bookInfo": {
+        "作者": "[法] 埃莉萨·秀雅·迪萨潘",
+        "出版社": "上海译文出版社",
+        "出品方": "群岛图书",
+        "原作名": "Hiver à Sokcho",
+        "译者": "狄佳",
+        "出版年": "2024-10",
+        "页数": "128",
+        "定价": "56",
+        "装帧": "平装",
+        "丛书": "故事群岛",
+        "ISBN": "9787532797349"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "9.1%",
+        "four_star_rate": "36.9%",
+        "three_star_rate": "44.4%",
+        "two_star_rate": "8.2%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4622536/",
+            "name": "埃莉萨·秀雅·迪萨潘",
+            "role": "作者",
+            "douban_id": "4622536"
+        },
+        {
+            "link": "https://book.douban.com/author/4620542/",
+            "name": "狄佳",
+            "role": "译者",
+            "douban_id": "4620542"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "55.99元",
+            "link": "https://read.douban.com/ebook/486744676/?dcs=subject-buylink&dcm=douban&dct=37042948"
+        },
+        {
+            "name": "得到",
+            "price": "55.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=xGM6Evn5byxq2PnXBz71AjZaol6R8WJrDPXWOKpGkd4gmMLEJrYNQe9VvD8P4jLk&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "28.00元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=jingdong&srcpage=subject&price=2800&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlIWXw4GVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOIzUrDkJ3Swl_eCRrPUNhE1gGfB1xATwAdVlyLm9pJ1gYATwTBxgBaDhhLhFCWCokaBhgWgRXbCJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYGCTYBXQ9FRwxdbV1SNWBrKQYpYDJRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUgWAmoPK1sTWAcCXFpbAUsTA204G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgIEUAozVE1AXDNAQVp7XQcCVF5aAUsnAW4JGVklbTZ1PyhbAStfZRhrZCV1GGVFUgUpXi0VUGdmGTxmNG1xUhtUf08TdGZ7eC9mbQUy&cntvendor=4&srcsubj=37042948&type=bkbuy&subject=37042948"
+        },
+        {
+            "name": "中图网",
+            "price": "36.30元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=bookschina&srcpage=subject&price=3629&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9438315.htm&cntvendor=4&srcsubj=37042948&type=bkbuy&subject=37042948"
+        }
+    ],
+    "url": "https://book.douban.com/subject/37042948/",
+    "douban_id": "37042948",
+    "menu": [],
+    "tag": "小说"
+}

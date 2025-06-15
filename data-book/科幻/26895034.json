@@ -1,0 +1,91 @@
+{
+    "title": "世界科幻杰作选",
+    "bookInfo": {
+        "作者": "[美] 迈克·雷斯尼克 / 姚海军 编",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "副标题": "WORLD'S SCIENCEFICTION STORIES COLLECTION",
+        "出版年": "2016-12",
+        "页数": "415",
+        "定价": "38.00元",
+        "装帧": "平装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536484764"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "24.8%",
+        "four_star_rate": "45.5%",
+        "three_star_rate": "24.8%",
+        "two_star_rate": "4.2%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608778/",
+            "name": "迈克·雷斯尼克",
+            "role": "作者",
+            "douban_id": "4608778"
+        },
+        {
+            "link": "https://book.douban.com/author/4610684/",
+            "name": "姚海军",
+            "role": "编者",
+            "douban_id": "4610684"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "57.00元",
+            "link": "https://book.douban.com/link2/?lowest=5700&pre=0&vendor=jingdong&srcpage=subject&price=5700&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10028763674250.html&cntvendor=1&srcsubj=26895034&type=bkbuy&subject=26895034"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26895034/",
+    "douban_id": "26895034",
+    "menu": [
+        "",
+        "        艰难抉择",
+        "        我心中的乔治亚",
+        "        熊发现了火",
+        "        光",
+        "        首份合约",
+        "        十二秒",
+        "        悬停弧线球",
+        "        德雷克方程式预评估",
+        "        追赶太阳",
+        "        被遗弃的世界",
+        "        希文太太唯一的女儿",
+        "        致风暴海湾",
+        "        天使般的外表",
+        "        我买的不是这玩意儿",
+        "        当托马斯·杰弗逊一人用餐时",
+        "        暗夜中的美",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29413749.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 迈克·雷斯尼克",
+            "link": "https://book.douban.com/search/%E8%BF%88%E5%85%8B%C2%B7%E9%9B%B7%E6%96%AF%E5%B0%BC%E5%85%8B"
+        },
+        {
+            "text": "姚海军 编",
+            "link": "https://book.douban.com/search/%E5%A7%9A%E6%B5%B7%E5%86%9B%20%E7%BC%96"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

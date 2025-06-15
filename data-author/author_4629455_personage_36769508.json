@@ -1,0 +1,74 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "无雨烧茶",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34783012.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36769097/",
+                        "year": "2024",
+                        "id": 36769097
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "面孔",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33842971.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35333414/",
+                        "year": "2021",
+                        "id": 35333414
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "跨文化交际",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s26704616.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/5264283/",
+                        "year": "2010",
+                        "id": 5264283
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "西乡旧事",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s4105924.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/4203204/",
+                        "year": "2007",
+                        "id": 4203204
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4629455/",
+    "author_douban_id": "4629455",
+    "personage_id": 36769508,
+    "name": [
+        "东君",
+        "Xiaoquan Zheng"
+    ],
+    "intro": "东君，原名郑晓泉，1974年生于浙江省温州市，2007年进入华东师范大学“文艺评论与媒体文艺传播”高研班学习。2009年至今，作为自由撰稿人专职写作。现任温州市作家协会副主席，主要从事小说创作，兼及诗歌、随笔创作，若干作品在《人民文学》《收获》《十月》《江南》《西湖》等刊物发表。曾获茅盾文学新人奖、浙江青年文学奖、《人民文学》短篇小说奖、郁达夫短篇小说奖等重要文学奖项，著有长篇小说《树巢》《浮世三记》等，另有结集作品《东瓯小史》《某年某月某先生》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/33cc4eefd9cf6546a6fff933c6217689.jpg",
+    "更多中文名": "郑晓泉(原名)",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

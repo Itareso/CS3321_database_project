@@ -1,0 +1,168 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "清但明伦刻本聊斋志异",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37195249/",
+                        "year": "2025",
+                        "id": 37195249
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "画聊斋",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34878694.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36915812/",
+                        "year": "2024",
+                        "id": 36915812
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "罗刹海市",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34863269.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36868597/",
+                        "year": "2024",
+                        "id": 36868597
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "小倩",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34863225.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36869350/",
+                        "year": "2024",
+                        "id": 36869350
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "Монахи-волшебники",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34836124.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36853937/",
+                        "year": "2024",
+                        "id": 36853937
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "聊斋志异",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34255174.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35544895/",
+                        "year": "2022",
+                        "id": 35544895
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国古典名著连环画：聊斋志异（典藏版）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34220916.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35834023/",
+                        "year": "2022",
+                        "id": 35834023
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "聊斋杂著",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33553350.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34939004/",
+                        "year": "2020",
+                        "id": 34939004
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "聊斋志异",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34434965/",
+                        "year": "2019",
+                        "id": 34434965
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "聊斋志异（全三册-中国古典神话玄幻套装系列-精美插图版）",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34208901.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34887037/",
+                        "year": "2019",
+                        "id": 34887037
+                    }
+                }
+            ],
+            "total": 261
+        }
+    },
+    "author_link": "https://book.douban.com/author/4505533/",
+    "author_douban_id": "4505533",
+    "personage_id": 27504363,
+    "name": [
+        "蒲松龄",
+        "Songling Pu"
+    ],
+    "intro": "蒲松龄（1640－1715）字留仙，一字剑臣，号柳泉，世称聊斋先生，自称异史氏，现山东省淄博市淄川区洪山镇蒲家庄人，汉族。出生于一个逐渐败落的中小地主兼商人家庭。19岁应童子试，接连考取县、府、道三个第一，名震一时。补博士弟子员。以后屡试不第，直至71岁时才成岁贡生。为生活所迫，他除了应同邑人宝应县知县孙蕙之请，为其做幕宾数年之外，主要是在本县西铺村毕际友家做塾师，舌耕笔耘，近42年，直至61岁时方撤帐归家。1715年正月病逝，享年76岁。创作出著名的文言文短篇小说集《聊斋志异》。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27504363/photo/2040097658",
+        "https://www.douban.com/personage/27504363/photo/2571554622",
+        "https://www.douban.com/personage/27504363/photo/2571554624",
+        "https://www.douban.com/personage/27504363/photo/2571554627",
+        "https://www.douban.com/personage/27504363/photo/2571554623"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2040097658.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2571554622.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2571554624.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2571554627.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2571554623.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/1508745621.45.jpg",
+    "更多中文名": "蒲留仙 / 蒲剑臣 / 柳泉居士 / 聊斋先生",
+    "sex": 1,
+    "birth_date": 1640,
+    "death_date": 1715,
+    "age": 76,
+    "birth_place": [
+        "中国",
+        "山东",
+        "淄博"
+    ],
+    "IMDB": "nm0699700",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

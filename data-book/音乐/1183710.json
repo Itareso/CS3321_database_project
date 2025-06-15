@@ -1,0 +1,50 @@
+{
+    "title": "唱片经典",
+    "bookInfo": {
+        "作者": "李杭育",
+        "出版社": "上海社会科学院出版社",
+        "出版年": "2004-8",
+        "页数": "500",
+        "定价": "88.00元",
+        "装帧": "简裝本",
+        "ISBN": "9787806814796"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "40.0%",
+        "four_star_rate": "38.1%",
+        "three_star_rate": "18.1%",
+        "two_star_rate": "1.9%",
+        "one_star_rate": "1.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4533699/",
+            "name": "李杭育",
+            "role": "作者",
+            "douban_id": "4533699"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "72.80元",
+            "link": "https://book.douban.com/link2/?lowest=7280&pre=0&vendor=jingdong&srcpage=subject&price=7280&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070653871752.html&cntvendor=1&srcsubj=1183710&type=bkbuy&subject=1183710"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1183710/",
+    "douban_id": "1183710",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s1307848.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李杭育",
+            "link": "https://book.douban.com/author/4533699/"
+        },
+        {
+            "text": "上海社会科学院出版社",
+            "link": "https://book.douban.com/press/2180"
+        }
+    ],
+    "tag": "音乐"
+}

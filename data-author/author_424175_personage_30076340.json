@@ -1,0 +1,162 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "倪亚达",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35016648.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37131280/",
+                        "year": "2025",
+                        "id": 37131280
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "送行",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33314246.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34453066/",
+                        "year": "2019",
+                        "id": 34453066
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "猴子·罗汉池",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29891014.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/30296432/",
+                        "year": "2018",
+                        "id": 30296432
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "寂寞的游戏",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29508790.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27104286/",
+                        "year": "2017",
+                        "id": 27104286
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "秀才的手表",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29508798.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27104297/",
+                        "year": "2017",
+                        "id": 27104297
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "作家的愛情",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s1486981.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1469048/",
+                        "year": "2004",
+                        "id": 1469048
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "倪亚达FUN暑假",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s6467974.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/1103085/",
+                        "year": "2003",
+                        "id": 1103085
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "猴子",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s1386238.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/1362495/",
+                        "year": "2003",
+                        "id": 1362495
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "羅漢池",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s1386239.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/1362496/",
+                        "year": "2003",
+                        "id": 1362496
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "倪亞達黑白切",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s1386237.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1362280/",
+                        "year": "2003",
+                        "id": 1362280
+                    }
+                }
+            ],
+            "total": 13
+        }
+    },
+    "author_link": "https://book.douban.com/author/424175/",
+    "author_douban_id": "424175",
+    "personage_id": 30076340,
+    "name": [
+        "袁哲生",
+        "Zhesheng Yuan"
+    ],
+    "intro": "袁哲生（1966－2004），男，汉族。生于台湾高雄县冈山镇，毕业于中国文化大学英文系、淡江大学西洋语文研究所。作家。曾任自由时报副刊编辑与《FHM男人帮》杂志总编辑。代表作品《静止在树上的羊》、《寂寞的游戏》等。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30076340/photo/2906850510",
+        "https://www.douban.com/personage/30076340/photo/2906850509",
+        "https://www.douban.com/personage/30076340/photo/2906850508"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2906850510.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2906850509.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2906850508.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/1510021216.15.jpg",
+    "sex": 1,
+    "birth_date": 1966,
+    "death_date": 2004,
+    "age": 39,
+    "birth_place": [
+        "中国",
+        "台湾",
+        "高雄"
+    ],
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "title": "长安客",
+    "bookInfo": {
+        "作者": "北溟鱼",
+        "出版社": "天津人民出版社",
+        "出品方": "果麦文化",
+        "译者": "有2023年8月42印本",
+        "出版年": "2020-6",
+        "页数": "282",
+        "定价": "45",
+        "装帧": "平装",
+        "ISBN": "9787201153988"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    长安的大雨天，杜甫睡在青苔与积水里；李白困在翰林院的书堆里打瞌睡，金灿灿的宫殿仿佛近在咫尺，又远远相隔；小旅馆里王维正为少年时的诗作标注年龄，窗外慈恩寺里俗讲声嚣，他也许更渴望看一眼寺院墙上的丹青壁画；三十三岁的柳宗元在人生的顶点离开长安，走向崎岖；与他同时离开的朋友刘禹锡江湖漂泊二十多年后独自归来，只有玄都观的一树桃花依然为他开得灿烂；白菊花盛开的九月九日，李商隐只能在反目成仇的昔日好友令狐綯家客厅屏风上题一首诗，怀念曾经的重阳节；中年白居易从梦中惊醒，慢慢想起来，这是挚友元稹去世的第八个秋天……    最伟大的唐代诗人们，“诗圣”、”诗仙“、“诗佛”、“诗魔”……各有如雷贯耳的名字，他们的作品已经是不朽的经典。于他们而言，诗句曾经是用来炫耀才华，交换功名，铺展开自己人生地位与财富的筹码。诗人们怀揣着梦想来到长安，要出名，做官，买房，甚至重振家国，成为时代的英雄。那时候他们都年轻，都拥有卓绝的诗才，光明的未来仿佛触手可及。然而命运最叛逆，从不轻易满足人的心意。    本书集历史、传记、诗歌评论等多重元素于一体，可以说是一本诗人版《人类群星闪耀时》。用八个故事，串联起大唐由盛转衰直至灭亡的一段历史，从诗人的眼里看见时代与命运，讲年轻人在大城市里的梦想、艰难和漂泊。那些不朽的诗篇来自他们无数欢欣和至暗的时刻。通过这些故事，你或许能重新认识这些诗人，看见和我们一样的人。在他们对自我和时代的追问里，看见尊严，信仰，爱与同情，生命的意义。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "26.2%",
+        "four_star_rate": "50.3%",
+        "three_star_rate": "19.9%",
+        "two_star_rate": "2.6%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1716692/",
+            "name": "北溟鱼",
+            "role": "作者",
+            "douban_id": "1716692"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "36.00元",
+            "link": "https://read.douban.com/ebook/149523655/?dcs=subject-buylink&dcm=douban&dct=34983746"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.90元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=jingdong&srcpage=subject&price=1989&pos=2&url=https%3A%2F%2Fitem.jd.com%2F12684785.html&cntvendor=3&srcsubj=34983746&type=bkbuy&subject=34983746"
+        },
+        {
+            "name": "当当网",
+            "price": "40.50元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=dangdang&srcpage=subject&price=4050&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34983746%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28558256&cntvendor=3&srcsubj=34983746&type=bkbuy&subject=34983746"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34983746/",
+    "douban_id": "34983746",
+    "menu": [
+        "",
+        "        公元756年夏天，城市在细雨中倾倒",
+        "        王维：天之骄子的陨落",
+        "        杜甫：长安奥德赛",
+        "        李白： 赌徒",
+        "        柳宗元和刘禹锡：诗人的旅途",
+        "        白居易：去他的《长恨歌》",
+        "        李商隐：最后时过境迁，再回想谁的脸",
+        "        圆仁：最后的旅行",
+        "        后记：向确知走得足够远，未知才显现她的身影",
+        "        参考文献",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33657908.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "北溟鱼",
+            "link": "https://book.douban.com/search/%E5%8C%97%E6%BA%9F%E9%B1%BC"
+        },
+        {
+            "text": "天津人民出版社",
+            "link": "https://book.douban.com/press/2765"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "有2023年8月42印本",
+            "link": "https://book.douban.com/search/%E6%9C%892023%E5%B9%B48%E6%9C%8842%E5%8D%B0%E6%9C%AC"
+        }
+    ],
+    "tag": "人物传记"
+}

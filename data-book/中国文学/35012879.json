@@ -1,0 +1,86 @@
+{
+    "title": "抉择",
+    "bookInfo": {
+        "作者": "解玺璋",
+        "出版社": "天地出版社",
+        "出品方": "天喜文化",
+        "副标题": "鼎革之际的历史与人",
+        "出版年": "2020-4",
+        "页数": "288",
+        "定价": "58",
+        "装帧": "精装",
+        "ISBN": "9787545553789"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.4%",
+        "four_star_rate": "38.6%",
+        "three_star_rate": "20.5%",
+        "two_star_rate": "5.5%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "34.99元",
+            "link": "https://read.douban.com/ebook/326388626/?dcs=subject-buylink&dcm=douban&dct=35012879"
+        },
+        {
+            "name": "得到",
+            "price": "34.99元",
+            "link": "https://www.dedao.cn/eBook/gO8xJGVarB2qEQoplXvY14JRbVdnz0zDjN3jPmyDANKge8O65LG7Mk9xZYk69Zry?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.40元",
+            "link": "https://book.douban.com/link2/?lowest=1939&pre=0&vendor=jingdong&srcpage=subject&price=1939&pos=3&url=https%3A%2F%2Fitem.jd.com%2F10070504771655.html&cntvendor=4&srcsubj=35012879&type=bkbuy&subject=35012879"
+        },
+        {
+            "name": "中图网",
+            "price": "37.50元",
+            "link": "https://book.douban.com/link2/?lowest=1939&pre=0&vendor=bookschina&srcpage=subject&price=3750&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8277050.htm&cntvendor=4&srcsubj=35012879&type=bkbuy&subject=35012879"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35012879/",
+    "douban_id": "35012879",
+    "menu": [
+        "",
+        "        序：至暗时刻的君子之道/余世存",
+        "        001\t陈寿：非实录无以称良史",
+        "        015\t刘秉忠：北京城第一设计师",
+        "        027\t马致远：白头仍写颂圣诗",
+        "        039\t雨疾荷残说老莲",
+        "        055\t傅山：至死不渝的不合作主义",
+        "        071\t李贽：中国的路德？",
+        "        093\t黄宗羲：三百年前的中国《人权宣言》",
+        "        109\t吕留良：坚守中方显儒生本色",
+        "        125\t光绪帝要求群臣读的是部什么书？",
+        "        143\t怎么评价康、梁在戊戌变法中的作用？",
+        "        161\t戊戌风云中的徐世昌",
+        "        185\t清廷末日中的徐世昌",
+        "        201\t严复列名筹安会别议",
+        "        215\t余理初：故纸堆里的思想风暴",
+        "        235\t吕碧城拒绝秋瑾为哪般？",
+        "        245 一场诉讼：百年之后再评说",
+        "        272\t后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33888816.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "解玺璋",
+            "link": "https://book.douban.com/search/%E8%A7%A3%E7%8E%BA%E7%92%8B"
+        },
+        {
+            "text": "天地出版社",
+            "link": "https://book.douban.com/press/2712"
+        },
+        {
+            "text": "天喜文化",
+            "link": "https://book.douban.com/producers/130"
+        }
+    ],
+    "tag": "中国文学"
+}

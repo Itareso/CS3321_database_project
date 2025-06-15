@@ -1,0 +1,89 @@
+{
+    "title": "环界4",
+    "bookInfo": {
+        "作者": "铃木光司",
+        "出版社": "南海出版公司",
+        "出品方": "新经典文化",
+        "副标题": "新生",
+        "原作名": "バースデイ",
+        "译者": "平宣",
+        "出版年": "2017-1-1",
+        "页数": "184",
+        "定价": "37",
+        "装帧": "精装",
+        "丛书": "环界",
+        "ISBN": "9787544285667"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "12.4%",
+        "four_star_rate": "24.6%",
+        "three_star_rate": "44.9%",
+        "two_star_rate": "14.3%",
+        "one_star_rate": "3.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/121076/",
+            "name": "铃木光司",
+            "role": "作者",
+            "douban_id": "121076"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "22.20元",
+            "link": "https://www.dedao.cn/ebook/detail?id=kQX7yD4MVoN52PDAnlRdzK6qvg8XEwbZJRwZJjBb7rO4ypxGa9LeQm1kYng9YzK5&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "35.20元",
+            "link": "https://book.douban.com/link2/?lowest=2090&pre=0&vendor=jingdong&srcpage=subject&price=3520&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFsVWAECU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEgYrUCx3VCpITw5hC18AFTtYXh1pfzBrdVlFHw9aPAZeSgtveylQUyV1WxFCWCokcClgYBhWbyJ9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ1KSA_WEkWAA1zR18VWUQLUSALdQhnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFpaDE0UBW84G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHU1gzVE1ASDlAWBN7XQYHUV1YD0wnAW4JGVklbTZEDCgFbytARi9cTi9DBARDMVsLXjVrXAxmGQtXVF5qDF0fSDNvRTdAZTsTbQUy&cntvendor=4&srcsubj=26907068&type=bkbuy&subject=26907068"
+        },
+        {
+            "name": "当当网",
+            "price": "20.90元",
+            "link": "https://book.douban.com/link2/?lowest=2090&pre=0&vendor=dangdang&srcpage=subject&price=2090&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26907068%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D24177749&cntvendor=4&srcsubj=26907068&type=bkbuy&subject=26907068"
+        },
+        {
+            "name": "中图网",
+            "price": "28.70元",
+            "link": "https://book.douban.com/link2/?lowest=2090&pre=0&vendor=bookschina&srcpage=subject&price=2870&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7396128.htm&cntvendor=4&srcsubj=26907068&type=bkbuy&subject=26907068"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26907068/",
+    "douban_id": "26907068",
+    "menu": [
+        "",
+        "        第一章 空中浮棺",
+        "        第二章 剧团疑云",
+        "        第三章 生日快乐",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29171879.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "铃木光司",
+            "link": "https://book.douban.com/search/%E9%93%83%E6%9C%A8%E5%85%89%E5%8F%B8"
+        },
+        {
+            "text": "南海出版公司",
+            "link": "https://book.douban.com/press/2413"
+        },
+        {
+            "text": "新经典文化",
+            "link": "https://book.douban.com/producers/3"
+        },
+        {
+            "text": "平宣",
+            "link": "https://book.douban.com/search/%E5%B9%B3%E5%AE%A3"
+        },
+        {
+            "text": "环界",
+            "link": "https://book.douban.com/series/35632"
+        }
+    ],
+    "tag": "科幻"
+}

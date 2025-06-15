@@ -1,0 +1,82 @@
+{
+    "title": "请你记住我",
+    "bookInfo": {
+        "作者": "刘墨闻",
+        "出版社": "上海文艺出版社",
+        "出版年": "2019-5-22",
+        "页数": "304",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "ISBN": "9787532169252"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "50.0%",
+        "four_star_rate": "37.6%",
+        "three_star_rate": "8.3%",
+        "two_star_rate": "2.5%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/172336/",
+            "name": "刘墨闻",
+            "role": "作者",
+            "douban_id": "172336"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.70元",
+            "link": "https://book.douban.com/link2/?lowest=1910&pre=0&vendor=jingdong&srcpage=subject&price=1970&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQAHXF5fCkMXM2sJElsVWQQAUlleOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocUF9UCEsTAW0OHFgKBENeCW42VCofaztNQDsVR2NpICUidyJwdS9eF1clWgMFUllUC0wnA2sJH18lbQYDZB8zDE4WCmY4GVsUXAMCXFleCXsXBWoJGFoQXQ8GVl9eOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgRAW4KGVx7AQBVFgFeQAN5A24MGloUWAUyVl9cCkknM18BGCMVImNLLDc1cghMRiZNGgdcP3wFCiwzChFKfGxfGwRsNHN3NhY6e08XM2w4&cntvendor=2&srcsubj=33446272&type=bkbuy&subject=33446272"
+        },
+        {
+            "name": "中图网",
+            "price": "19.10元",
+            "link": "https://book.douban.com/link2/?lowest=1910&pre=0&vendor=bookschina&srcpage=subject&price=1910&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8084997.htm&cntvendor=2&srcsubj=33446272&type=bkbuy&subject=33446272"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33446272/",
+    "douban_id": "33446272",
+    "menu": [
+        "",
+        "        【目录】",
+        "        (一)附中",
+        "        (二) 就这一条路",
+        "        (三) 许桥",
+        "        (四) 葬礼",
+        "        (五) 第一场雪",
+        "        (六) 失认症",
+        "        (七) 我是我自己的娱乐",
+        "        (八) 让秋天先过去",
+        "        (九) 校庆",
+        "        (十) 自己走过去",
+        "        (十一) 重新开始",
+        "        (十二) 活着就是坐牢",
+        "        (十三) 造人",
+        "        (十四) 老灵魂",
+        "        (十五) 这个世界",
+        "        (十六) 走到最后",
+        "        (十七) 我好想你",
+        "        (十八) 秘密",
+        "        (十九) 哪怕月亮已经残破",
+        "        (二十) 你会变成你爱的人",
+        "        (二十一) 名字是最不重要的",
+        "        (二十二) 重逢",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s32319379.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘墨闻",
+            "link": "https://book.douban.com/author/172336"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        }
+    ],
+    "tag": "中国文学"
+}

@@ -1,0 +1,146 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "我见过那个人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35032569.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/37155417/",
+                        "year": "2025",
+                        "id": 37155417
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "灵魂的景深",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/37195025/",
+                        "year": "2025",
+                        "id": 37195025
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "魂器",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34959257.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/37042929/",
+                        "year": "2024",
+                        "id": 37042929
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "小说家的声音",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34941043.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/37013972/",
+                        "year": "2024",
+                        "id": 37013972
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 3.5,
+                        "rating_num": 7.2,
+                        "title": "你的目光",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34183509.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/35818896/",
+                        "year": "2022",
+                        "id": 35818896
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 3.5,
+                        "rating_num": 6.5,
+                        "title": "我们聊聊科比",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34362214.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/36136652/",
+                        "year": "2022",
+                        "id": 36136652
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 3.5,
+                        "rating_num": 7.4,
+                        "title": "野未来",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33923439.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/35413858/",
+                        "year": "2021",
+                        "id": 35413858
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "无法游牧的悲伤",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34238492.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/34944710/",
+                        "year": "2019",
+                        "id": 34944710
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 4.0,
+                        "rating_num": 8.2,
+                        "title": "生活课",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29531866.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/27127892/",
+                        "year": "2017",
+                        "id": 27127892
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 4.0,
+                        "rating_num": 7.6,
+                        "title": "倒立生活",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29639296.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/27604613/",
+                        "year": "2017",
+                        "id": 27604613
+                    }
+                }
+            ],
+            "total": 16
+        }
+    },
+    "author_link": "https://book.douban.com/author/331520/",
+    "author_douban_id": "331520",
+    "personage_id": 30125633,
+    "name": [
+        "王威廉"
+    ],
+    "intro": "王威廉，文学博士，中山大学中文系创意写作教研室主任。出版小说《魂器》《你的目光》《野未来》《内脸》《非法入住》《听盐生长的声音》《倒立生活》等，文论随笔集《小说家的声音》《无法游牧的悲伤》等。另有意大利文版小说《行星与记忆》《第二人》以及韩文版小说集《书鱼》在海外出版。获首届“紫金·人民文学之星”文学奖、十月文学奖、花城文学奖、茅盾文学新人奖、华语科幻文学大赛金奖、中华优秀出版物奖等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/1504429843.44.jpg",
+    "sex": 1,
+    "birth_date": 1982,
+    "age": 44,
+    "profession": [
+        "作者"
+    ]
+}

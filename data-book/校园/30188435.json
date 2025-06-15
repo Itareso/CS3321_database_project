@@ -1,0 +1,49 @@
+{
+    "title": "明若晓溪1",
+    "bookInfo": {
+        "作者": "明晓溪",
+        "出版社": "长江少年儿童出版社",
+        "副标题": "水晶般透明",
+        "出版年": "2015-8-1",
+        "页数": "236",
+        "定价": "CNY 29.00",
+        "装帧": "平装",
+        "丛书": "明若晓溪 2015年白金纪念版",
+        "ISBN": "9787556032013"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "12.3%",
+        "four_star_rate": "23.7%",
+        "three_star_rate": "41.1%",
+        "two_star_rate": "12.8%",
+        "one_star_rate": "10.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "中图网",
+            "price": "9.70元",
+            "link": "https://book.douban.com/link2/?lowest=969&pre=0&vendor=bookschina&srcpage=subject&price=969&pos=1&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6989293.htm&cntvendor=1&srcsubj=30188435&type=bkbuy&subject=30188435"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30188435/",
+    "douban_id": "30188435",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29733474.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "明晓溪",
+            "link": "https://book.douban.com/search/%E6%98%8E%E6%99%93%E6%BA%AA"
+        },
+        {
+            "text": "长江少年儿童出版社",
+            "link": "https://book.douban.com/press/2155"
+        },
+        {
+            "text": "明若晓溪 2015年白金纪念版",
+            "link": "https://book.douban.com/series/41833"
+        }
+    ],
+    "tag": "校园"
+}

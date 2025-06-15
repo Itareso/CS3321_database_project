@@ -1,0 +1,84 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "人生得遇苏东坡",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35057270.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37194626/",
+                        "year": "2025",
+                        "id": 37194626
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "大话中国艺术史",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34103893.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35747488/",
+                        "year": "2022",
+                        "id": 35747488
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "句句有梗的西洋藝術小史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34198069.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35871840/",
+                        "year": "2022",
+                        "id": 35871840
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "大话西方艺术史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33575930.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34948951/",
+                        "year": "2020",
+                        "id": 34948951
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4617149/",
+    "author_douban_id": "4617149",
+    "personage_id": 30380868,
+    "name": [
+        "潇涵",
+        "Xiao Han"
+    ],
+    "intro": "潇涵，人送外号“意公子”，是艺术自媒体“意外艺术”创始人。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30380868/photo/2540193570",
+        "https://www.douban.com/personage/30380868/photo/2540193315"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2540193570.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2540193315.webp"
+    ],
+    "main_image": "https://img2.doubanio.com/view/celebrity/m/public/p1542515980.01.jpg",
+    "更多中文名": "意公子潇涵 / 意公子 / 吴敏婕(本名)",
+    "sex": 0,
+    "birth_date": 1986,
+    "age": 40,
+    "profession": [
+        "演员",
+        "导演",
+        "作者"
+    ]
+}

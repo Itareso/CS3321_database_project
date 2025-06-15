@@ -1,0 +1,74 @@
+{
+    "title": "温柔有九分",
+    "bookInfo": {
+        "作者": "唧唧的猫",
+        "出版社": "魅丽文化",
+        "出品方": "魅丽文化",
+        "出版年": "2020-11",
+        "页数": "288",
+        "定价": "42.8",
+        "装帧": "平装",
+        "丛书": "温柔有九分",
+        "ISBN": "9787559451828"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "41.5%",
+        "four_star_rate": "31.0%",
+        "three_star_rate": "22.2%",
+        "two_star_rate": "3.5%",
+        "one_star_rate": "1.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624668/",
+            "name": "唧唧的猫",
+            "role": "作者",
+            "douban_id": "4624668"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "27.34元",
+            "link": "https://book.douban.com/link2/?lowest=2734&pre=0&vendor=jingdong&srcpage=subject&price=2734&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10026516534311.html&cntvendor=1&srcsubj=35239373&type=bkbuy&subject=35239373"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35239373/",
+    "douban_id": "35239373",
+    "menu": [
+        "",
+        "        第一章  雨天初遇",
+        "        第二章  我叫逢宁",
+        "        第三章  高贵冷艳的小孔雀",
+        "        第四章  半生沦陷的序幕",
+        "        第五章  可爱的小王子",
+        "        第六章  她的恶作剧",
+        "        第七章  她的壮举",
+        "        第八章  只适合当朋友",
+        "        第九章  爱要怎么说出口",
+        "        第十章  级花风波",
+        "        第十一章  从不说谎",
+        "        第十二章  我只在乎你",
+        "        第十三章  女主不爱男主",
+        "        第十四章  有你的第二名",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33784562.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "唧唧的猫",
+            "link": "https://book.douban.com/author/4624668"
+        },
+        {
+            "text": "魅丽文化",
+            "link": "https://book.douban.com/producers/272"
+        },
+        {
+            "text": "温柔有九分",
+            "link": "https://book.douban.com/series/67256"
+        }
+    ],
+    "tag": "校园"
+}

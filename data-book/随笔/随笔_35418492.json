@@ -1,0 +1,106 @@
+{
+    "title": "简洁如照片",
+    "bookInfo": {
+        "作者": "[英国] 约翰·伯格",
+        "出版社": "广西师范大学出版社",
+        "出品方": "理想国",
+        "原作名": "And Our Faces, My Heart, Brief as Photos",
+        "译者": "祝羽捷",
+        "出版年": "2021-4-10",
+        "页数": "192",
+        "定价": "48.00元",
+        "装帧": "精装",
+        "丛书": "理想国 约翰·伯格作品",
+        "ISBN": "9787559820327"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.6%",
+        "four_star_rate": "45.4%",
+        "three_star_rate": "20.9%",
+        "two_star_rate": "3.6%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4589371/",
+            "name": "约翰·伯格",
+            "role": "作者",
+            "douban_id": "4589371"
+        },
+        {
+            "link": "https://book.douban.com/author/4620349/",
+            "name": "祝羽捷",
+            "role": "译者",
+            "douban_id": "4620349"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "33.60元",
+            "link": "https://read.douban.com/ebook/320196579/?dcs=subject-buylink&dcm=douban&dct=35418492"
+        },
+        {
+            "name": "京东商城",
+            "price": "31.40元",
+            "link": "https://book.douban.com/link2/?lowest=3140&pre=0&vendor=jingdong&srcpage=subject&price=3140&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVgXXAECV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAV1xcD0sUHDZNRwYlHUQHPxstSCl0Z2h_Tg9JP2BSMFhfTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcCU1xUDEkeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXANsCFgKS05ORDBmG1oSXAUAXFltCkoWAW04K2tiNnAEXT4Vbjx0fBFwZQZiIV12EgklfR95AQh7cjBmW0MLI1pZfyASfSt7K1gl&cntvendor=4&srcsubj=35418492&type=bkbuy&subject=35418492"
+        },
+        {
+            "name": "当当网",
+            "price": "37.90元",
+            "link": "https://book.douban.com/link2/?lowest=3140&pre=0&vendor=dangdang&srcpage=subject&price=3790&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35418492%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29239250&cntvendor=4&srcsubj=35418492&type=bkbuy&subject=35418492"
+        },
+        {
+            "name": "中图网",
+            "price": "33.20元",
+            "link": "https://book.douban.com/link2/?lowest=3140&pre=0&vendor=bookschina&srcpage=subject&price=3320&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8578869.htm&cntvendor=4&srcsubj=35418492&type=bkbuy&subject=35418492"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35418492/",
+    "douban_id": "35418492",
+    "menu": [
+        "",
+        "        01 曾经",
+        "        从 前 /5",
+        "        在故事里 /9",
+        "        在诗里 /25",
+        "        在阿姆斯特丹 /27",
+        "        在画中 /34",
+        "        生命中的一刻 /38",
+        "        镜头一刻 /40",
+        "        童年一刻 /42",
+        "        在欧克索讷的经历 /45",
+        "        过去的一刻 /47",
+        "        一首歌里的时光 /58",
+        "        在高地的时光 /60",
+        "        02 此处",
+        "        附录　诗句原文 /151",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33864521.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英国] 约翰·伯格",
+            "link": "https://book.douban.com/author/4589371"
+        },
+        {
+            "text": "广西师范大学出版社",
+            "link": "https://book.douban.com/press/2476"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        },
+        {
+            "text": "祝羽捷",
+            "link": "https://book.douban.com/search/%E7%A5%9D%E7%BE%BD%E6%8D%B7"
+        },
+        {
+            "text": "理想国 约翰·伯格作品",
+            "link": "https://book.douban.com/series/30911"
+        }
+    ],
+    "tag": "随笔"
+}

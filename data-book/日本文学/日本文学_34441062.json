@@ -1,0 +1,85 @@
+{
+    "title": "逆行",
+    "bookInfo": {
+        "作者": "太宰治",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "九天译文",
+        "译者": "邹评",
+        "出版年": "2019-8",
+        "页数": "304",
+        "定价": "39.80元",
+        "装帧": "平装",
+        "丛书": "日本百年经典文学",
+        "ISBN": "9787559438492"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "27.4%",
+        "four_star_rate": "43.2%",
+        "three_star_rate": "27.4%",
+        "two_star_rate": "1.1%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4526460/",
+            "name": "太宰治",
+            "role": "作者",
+            "douban_id": "4526460"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.90元",
+            "link": "https://book.douban.com/link2/?lowest=1450&pre=0&vendor=jingdong&srcpage=subject&price=1989&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0UXAMAVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUl9cDUkWHDZNRwYlCVZ9NVofUS1yQzNTXBNiJlZ3PVoraEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAU19UAUoXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHg8UWQBsCFgKShtXB25mG1oSVQILXVptCkoWAW04K2tQCXxpND46Dy9FW2l2Ez52K35_CDYuaSJ5ATZTGQ93NnN5MC4tTR9UViZ1K1gl&cntvendor=2&srcsubj=34441062&type=bkbuy&subject=34441062"
+        },
+        {
+            "name": "中图网",
+            "price": "14.50元",
+            "link": "https://book.douban.com/link2/?lowest=1450&pre=0&vendor=bookschina&srcpage=subject&price=1450&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8167843.htm&cntvendor=2&srcsubj=34441062&type=bkbuy&subject=34441062"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34441062/",
+    "douban_id": "34441062",
+    "menu": [
+        "",
+        "        故乡",
+        "        哥哥",
+        "        逆行",
+        "        叶",
+        "        创生记",
+        "        山上通信",
+        "        姥舍",
+        "        鸥",
+        "        喝彩",
+        "        犯人",
+        "        浪漫灯笼",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33471171.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "太宰治",
+            "link": "https://book.douban.com/author/4526460"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "九天译文",
+            "link": "https://book.douban.com/producers/184"
+        },
+        {
+            "text": "邹评",
+            "link": "https://book.douban.com/search/%E9%82%B9%E8%AF%84"
+        },
+        {
+            "text": "日本百年经典文学",
+            "link": "https://book.douban.com/series/74917"
+        }
+    ],
+    "tag": "日本文学"
+}

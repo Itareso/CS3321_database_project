@@ -1,0 +1,89 @@
+{
+    "title": "矮大紧指北1",
+    "bookInfo": {
+        "作者": "高晓松",
+        "出版社": "北京长江新世纪",
+        "出品方": "长江新世纪",
+        "副标题": "文青手册",
+        "出版年": "2019-10",
+        "定价": "45.00",
+        "装帧": "平装",
+        "丛书": "矮大紧指北",
+        "ISBN": "9787570211227"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.1%",
+        "four_star_rate": "43.7%",
+        "three_star_rate": "33.5%",
+        "two_star_rate": "3.7%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/253978/",
+            "name": "高晓松",
+            "role": "作者",
+            "douban_id": "253978"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "44.60元",
+            "link": "https://book.douban.com/link2/?lowest=1810&pre=0&vendor=jingdong&srcpage=subject&price=4460&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13079292.html&cntvendor=2&srcsubj=34429340&type=bkbuy&subject=34429340"
+        },
+        {
+            "name": "中图网",
+            "price": "18.10元",
+            "link": "https://book.douban.com/link2/?lowest=1810&pre=0&vendor=bookschina&srcpage=subject&price=1810&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8185601.htm&cntvendor=2&srcsubj=34429340&type=bkbuy&subject=34429340"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34429340/",
+    "douban_id": "34429340",
+    "menu": [
+        "",
+        "        风华",
+        "        李宗盛：一口老井 _003",
+        "        凶猛王朔，羽化成仙 _007",
+        "        少侠朴树，清白之年 _014",
+        "        文青韩寒，乘风破浪 _023",
+        "        张大春：武装到牙齿的文青 _028",
+        "        黄磊：多少岁月，轻描淡写 _033",
+        "        王菲：有一种天赋，叫老天爷赏饭吃 _040",
+        "        张艾嘉：被命运垂青的“小妹” _047",
+        "        郑钧：我们曾拥有闪亮的日子 _052",
+        "        李敖：狂傲一世，风流一生 _058",
+        "        李安：电影之父，华人之光 _064",
+        "        王家卫：不拍生活拍生命 _070",
+        "        李煜：文到后主观止 _076",
+        "        天才诺兰，无冕之王 _081",
+        "        唐•麦克林：偶像老去 _088",
+        "        梅尔•吉布森：“钢铁直男” _093",
+        "        北野武：被讨厌的勇气 _099",
+        "        坂本龙一：不羁地长大，优雅地老去 _105",
+        "        朴赞郁：要狠就狠到骨子里 _111",
+        "        科恩兄弟：独立电影的精神 _118",
+        "        村上春树：山坡上的傻子 _125",
+        "        莎士比亚：文学的上帝本人（上） _131",
+        "        莎士比亚：文学的上帝本人（下） _137",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33477460.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "高晓松",
+            "link": "https://book.douban.com/search/%E9%AB%98%E6%99%93%E6%9D%BE"
+        },
+        {
+            "text": "长江新世纪",
+            "link": "https://book.douban.com/producers/105"
+        },
+        {
+            "text": "矮大紧指北",
+            "link": "https://book.douban.com/series/49119"
+        }
+    ],
+    "tag": "随笔"
+}

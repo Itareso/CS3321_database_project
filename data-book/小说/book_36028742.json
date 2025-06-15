@@ -1,0 +1,48 @@
+{
+    "title": "方舟",
+    "bookInfo": {
+        "作者": "夕木春央",
+        "出版社": "講談社",
+        "出版年": "2022-9-8",
+        "页数": "304",
+        "装帧": "単行本",
+        "丛书": "夕木春央作品",
+        "ISBN": "9784065292686"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.7%",
+        "four_star_rate": "45.6%",
+        "three_star_rate": "18.3%",
+        "two_star_rate": "2.0%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4628421/",
+            "name": "夕木春央",
+            "role": "作者",
+            "douban_id": "4628421"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "135.00元",
+            "link": "https://book.douban.com/link2/?lowest=13500&pre=0&vendor=jingdong&srcpage=subject&price=13500&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQgJK1olXQUDVVpbCkweB18IGloTXwYHXFpdDU0eA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkKG14dWQYHUlddFxJSXzI4HC0RFVZ5HSY9TUgNdRVoaSlVKkJLElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsTXw4BVG5fCEoWBm8AHFgUbQYEUV9dAEIXBWsBHl8lXQ4GZIfdv521kbaWkY6dyjYyZF1tOHsXM2w4RTUUDgEHXV5eCiVLBThJGAsVA2gCVVxYAUoQAV8KGloXXzYyZCIufRkfYxx8YyhJB31fJhtecgMeXzF_eTUXIG1iJzYPXhlvQDJBaxpNCU0yV24&cntvendor=1&srcsubj=36028742&type=bkbuy&subject=36028742"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36028742/",
+    "douban_id": "36028742",
+    "menu": [
+        "",
+        "        1.  方舟",
+        "        2. 天災と殺人",
+        "        3. 切られた首",
+        "        4. ナイフと爪切り",
+        "        5. 選別",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

@@ -1,0 +1,151 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "尔雅",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27401558.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/25957573/",
+                        "year": "2023",
+                        "id": 25957573
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "校勘学教程",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28392136.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25763208/",
+                        "year": "2013",
+                        "id": 25763208
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "三余札记",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s11232092.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/11542521/",
+                        "year": "2011",
+                        "id": 11542521
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "古漢語詞彙研究導論",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s24952190.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/20408222/",
+                        "year": "2006",
+                        "id": 20408222
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "古漢語詞彙研究導論",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36229936/",
+                        "year": "2006",
+                        "id": 36229936
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "汉语古籍校勘学",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s5692975.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1152777/",
+                        "year": "2003",
+                        "id": 1152777
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "中国古代标点符号发展史",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s9033774.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1547668/",
+                        "year": "2002",
+                        "id": 1547668
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "汉语标点符号流变史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s2821399.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1594290/",
+                        "year": "2002",
+                        "id": 1594290
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "多功能汉语拼音词典",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s8967099.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1546513/",
+                        "year": "2001",
+                        "id": 1546513
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "《史记》单音词研究",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1660247/",
+                        "year": "2000",
+                        "id": 1660247
+                    }
+                }
+            ],
+            "total": 12
+        }
+    },
+    "author_link": "https://book.douban.com/author/4631717/",
+    "author_douban_id": "4631717",
+    "personage_id": 36855576,
+    "name": [
+        "管锡华",
+        "Xihua Guan"
+    ],
+    "intro": "管锡华，安徽合肥人，博士，教授，硕士生导师。1982年至1985年就读于中山大学，师从赵仲邑、潘允中教授学习古代汉语，1985年获硕士学位。1995年至1998年就读于四川大学，师从赵振铎教授专攻汉语史，1998年获博士学位。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "sex": 1,
+    "birth_place": [
+        "中国",
+        "安徽",
+        "合肥"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

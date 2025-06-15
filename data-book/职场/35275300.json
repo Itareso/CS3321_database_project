@@ -1,0 +1,133 @@
+{
+    "title": "逻辑模型",
+    "bookInfo": {
+        "作者": "[日]西村克己",
+        "出版社": "中国青年出版社",
+        "副标题": "思考、表达、写作逻辑精进图鉴",
+        "出版年": "2020-12",
+        "页数": "288",
+        "定价": "59.00元",
+        "装帧": "平装",
+        "ISBN": "9787515361512"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "13.9%",
+        "four_star_rate": "27.0%",
+        "three_star_rate": "44.3%",
+        "two_star_rate": "13.9%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "23.63元",
+            "link": "https://www.dedao.cn/eBook/XOnaYG1qlM7amvGYerDZOy9JVnXL40BAxqwBkp1NKxoRdb86P2Q5AzgEj9vE5rDo?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "40.20元",
+            "link": "https://book.douban.com/link2/?lowest=4020&pre=0&vendor=jingdong&srcpage=subject&price=4020&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0TXA8EXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUlhcAU0fHDZNRwYlNlJWCSoYXA90VGxDcAtIFm4LVT0UaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LVF5fCUwSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gVVVRsCFgHVxdcAWtmGVoUWwEFVVttCkoWAW04K2tuL15YJFtZVzBRC2x2SBwTKlBRES4-fA55ARRyeSlGBwNjLwwPczlWRwp-K1gl&cntvendor=4&srcsubj=35275300&type=bkbuy&subject=35275300"
+        },
+        {
+            "name": "当当网",
+            "price": "56.60元",
+            "link": "https://book.douban.com/link2/?lowest=4020&pre=0&vendor=dangdang&srcpage=subject&price=5660&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35275300%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29165404&cntvendor=4&srcsubj=35275300&type=bkbuy&subject=35275300"
+        },
+        {
+            "name": "中图网",
+            "price": "46.40元",
+            "link": "https://book.douban.com/link2/?lowest=4020&pre=0&vendor=bookschina&srcpage=subject&price=4640&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8498228.htm&cntvendor=4&srcsubj=35275300&type=bkbuy&subject=35275300"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35275300/",
+    "douban_id": "35275300",
+    "menu": [
+        "",
+        "        第一部分 思考逻辑",
+        "        01 “逻辑性”与“讲大道理”的区别",
+        "        02 用三角逻辑阐明观点",
+        "        03 逻辑思考总是从提问“为什么”开始",
+        "        04 解决问题的基本步骤",
+        "        05 纵览宏观，深拓微观",
+        "        06 横向思考与纵向思考",
+        "        07 利用MECE分析法消除遗漏和重复",
+        "        08 利用框架整理信息",
+        "        09 逻辑树分析法",
+        "        10 以零基础思考摆脱障碍",
+        "        11 头脑风暴与分组",
+        "        12 头脑风暴的5项原则",
+        "        13 通过分组与重要性评估聚合信息",
+        "        14 从“is/is not”“before / after”的角度思考",
+        "        15 通过少量信息导出结论的“假设思考”",
+        "        16 用矩阵分析法系统展现",
+        "        17 使用SWOT分析法制定战略",
+        "        18 通过分析过程使业务流程可视化",
+        "        19 阐明理念",
+        "        20 有助于解决问题的SEP",
+        "        21 通过“选择性思考”扩大可能性",
+        "        22 确保决策过程的完整性",
+        "        23 使用ECRS原则进行“舍弃”",
+        "        24 用图形框整理相互关系",
+        "        25 用箭头整理因果关系",
+        "        26 区分图解的6种模式",
+        "        第二部分表达逻辑",
+        "        27 “你到底想说什么？”",
+        "        28 开会、商谈、打电话之前创建备忘录",
+        "        29 用三角逻辑有逻辑地表达",
+        "        30 归纳法与演绎法",
+        "        31 实事求是的观察能力",
+        "        32 低效传达的4个原因",
+        "        33 用图解构成的归纳思维",
+        "        34 树主干、理枝叶的演绎思维",
+        "        35 用金字塔结构整理内容",
+        "        36 策划、报告要灵活运用模板",
+        "        37 掌握赫曼模型的思考模式",
+        "        38 通过横向思考、分组、分解构成要素来寻找话题",
+        "        39 用逆向思维法抓住对方的兴趣",
+        "        40 双赢的关系是基本",
+        "        41 让对方参与到决策过程中来",
+        "        42 闲聊时“听”比“说”更重要",
+        "        43 根据对方的话题展开谈话",
+        "        44 把听者引导至一个方向",
+        "        第三部分写作逻辑",
+        "        45 句子长度控制在40字左右",
+        "        46 写文章之前先创建目录",
+        "        47 激发阅读兴趣的好开头、消减阅读欲望的坏开头",
+        "        48 “商务文件中结论先行”并不严谨",
+        "        49 沟通的6个组成部分",
+        "        50 用简易金字塔结构进行分层",
+        "        51 “分解要素”“分步骤”“对照概念”的3种方法",
+        "        52 简单的说明结构——并列型",
+        "        53 通过事例展开——解说型",
+        "        54 设定4个沟通条件",
+        "        55 用金字塔结构整理层次结构",
+        "        56 【传达的顺序①】结论先行的展开法",
+        "        57 【传达的顺序②】结论在后的展开法",
+        "        58 将目录分级“可视化”",
+        "        59 【步骤①】设定沟通条件",
+        "        60 【步骤②】完成具有说服力的文章结构",
+        "        61 【步骤③】整理标题，创建目录",
+        "        62 【步骤④】写一篇完整的文章",
+        "        63 【步骤⑤】重新阅读后做好收尾工作",
+        "        64 撰写公司内、外部文件",
+        "        65 撰写报告书",
+        "        66 撰写策划书①对内篇",
+        "        67 撰写策划书②对外篇",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33770947.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]西村克己",
+            "link": "https://book.douban.com/search/%E8%A5%BF%E6%9D%91%E5%85%8B%E5%B7%B1"
+        },
+        {
+            "text": "中国青年出版社",
+            "link": "https://book.douban.com/press/2833"
+        }
+    ],
+    "tag": "职场"
+}

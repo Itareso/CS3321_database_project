@@ -1,0 +1,114 @@
+{
+    "title": "托克维尔回忆录",
+    "bookInfo": {
+        "作者": "[法]托克维尔",
+        "出版社": "商务印书馆",
+        "原作名": "Souvenirs de Alexis de Tocqueville",
+        "译者": "董果良",
+        "出版年": "2010-11",
+        "页数": "365",
+        "定价": "26.00元",
+        "装帧": "平装",
+        "丛书": "汉译世界学术名著丛书·政治法律社会",
+        "ISBN": "9787100070263"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.2%",
+        "four_star_rate": "41.2%",
+        "three_star_rate": "11.8%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4517398/",
+            "name": "托克维尔",
+            "role": "作者",
+            "douban_id": "4517398"
+        },
+        {
+            "link": "https://book.douban.com/author/4635643/",
+            "name": "董果良",
+            "role": "译者",
+            "douban_id": "4635643"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.30元",
+            "link": "https://book.douban.com/link2/?lowest=2200&pre=0&vendor=jingdong&srcpage=subject&price=2630&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwWXwUBUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU11fC0gTHDZNRwYlCQYAUysVTAJ1QSt6eEUTGmZiVCtVaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4FXFxeD0kfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVRsCFgHVAJJCzJmGVoUWQ8LV1ltCkoWAW04K2sTWQZQXD49XgxuBW5IHVNgG3F_AiQWbhZ5AShbfl9FD3EEEzU2Dk8fdRILK1gl&cntvendor=3&srcsubj=5416379&type=bkbuy&subject=5416379"
+        },
+        {
+            "name": "当当网",
+            "price": "29.50元",
+            "link": "https://book.douban.com/link2/?lowest=2200&pre=0&vendor=dangdang&srcpage=subject&price=2950&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s5416379%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29142866&cntvendor=3&srcsubj=5416379&type=bkbuy&subject=5416379"
+        },
+        {
+            "name": "中图网",
+            "price": "22.00元",
+            "link": "https://book.douban.com/link2/?lowest=2200&pre=0&vendor=bookschina&srcpage=subject&price=2200&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8265075.htm&cntvendor=3&srcsubj=5416379&type=bkbuy&subject=5416379"
+        }
+    ],
+    "url": "https://book.douban.com/subject/5416379/",
+    "douban_id": "5416379",
+    "menu": [
+        "",
+        "        编者导言",
+        "        第一部分",
+        "        第一章 [《回忆录》的由来和性质——1848年革命之前时期的概况——这次革命的前兆]",
+        "        第二章 [宴会运动——政府的安全——反对派首领关心的事情——他们对大臣们的指控]",
+        "        第三章 [2月22日动乱——23日的会议——新内阁——迪福尔先生和博蒙先生的感想]",
+        "        第四章 [2月24日——内阁的反抗计划——国民自卫军——贝多将军]",
+        "        第五章 [议会开会——奥尔良公爵夫人——临时政府]",
+        "        第二部分",
+        "        第一章 我对2月24日的原因的判断及对由此产生的事态的看法",
+        "        第二章 2月24日次日的巴黎以及以后几天的情况——新革命的社会主义特点",
+        "        第三章 旧国会议员在作决定时态度暧昧——我对自己的所作所为的反思和我的决心",
+        "        第四章 我在芒什省竞选——地方的情况——大选",
+        "        第五章 制宪议会第一次会议——这个议会的场面",
+        "        第六章 我与拉马丁的关系——拉马丁的犹豫不定",
+        "        第七章 1848年5月15日",
+        "        第八章 协和的庆典和走向六月事件的道路",
+        "        第九章 六月事件",
+        "        第十章 六月事件(续)",
+        "        第十一章 宪法委员会",
+        "        第三部分",
+        "        第一章 归国——内阁成立",
+        "        第二章 内阁的面貌——至6月13日造反失败内阁的初期行动",
+        "        第三章 国内政治——内阁的内部纷争——内阁面对多数派和总统困难重重",
+        "        第四章 外交问题",
+        "        附录",
+        "        一 古·德·博蒙谈2月24日",
+        "        二 与巴罗的谈话(1850年10月10日)巴罗谈2月24日",
+        "        三 1848年2月24日纪要迪福尔先生和他的朋友为阻止二月革命所做的努力——梯也尔先生使这些努力不起作用应负的责任",
+        "        四 为1848年6月至1849年6月的《回忆录》所写的笔记(1851年4月)",
+        "        五 关于我将要写的《回忆录》部分内容的提要(1851年4月，在归国途中)",
+        "        六 1851年5月15日我与共和国总统的谈话(我从意大利回国后与他首次见面)",
+        "        七 修改宪法一1851年6月21日应我之邀来我家会晤中贝里耶与我的谈话。我们二人都是宪法修改委员会委员",
+        "        人名索引",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s4601706.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法]托克维尔",
+            "link": "https://book.douban.com/author/4517398"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "董果良",
+            "link": "https://book.douban.com/author/4635643"
+        },
+        {
+            "text": "汉译世界学术名著丛书·政治法律社会",
+            "link": "https://book.douban.com/series/27"
+        }
+    ],
+    "tag": "回忆录"
+}

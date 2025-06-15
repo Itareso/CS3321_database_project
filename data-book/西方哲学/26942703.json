@@ -1,0 +1,90 @@
+{
+    "title": "渎神",
+    "bookInfo": {
+        "作者": "[意大利] 吉奥乔·阿甘本",
+        "出版社": "北京大学出版社",
+        "出品方": "培文",
+        "译者": "王立秋",
+        "出版年": "2017-2",
+        "页数": "168",
+        "定价": "35.00元",
+        "装帧": "精装",
+        "丛书": "文化理论译丛",
+        "ISBN": "9787301277959"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "51.4%",
+        "four_star_rate": "38.8%",
+        "three_star_rate": "7.0%",
+        "two_star_rate": "1.9%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4586164/",
+            "name": "吉奥乔·阿甘本",
+            "role": "作者",
+            "douban_id": "4586164"
+        },
+        {
+            "link": "https://book.douban.com/author/4622938/",
+            "name": "王立秋",
+            "role": "译者",
+            "douban_id": "4622938"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.31元",
+            "link": "https://book.douban.com/link2/?lowest=2431&pre=0&vendor=jingdong&srcpage=subject&price=2431&pos=1&url=https%3A%2F%2Fitem.jd.com%2F25570012906.html&cntvendor=2&srcsubj=26942703&type=bkbuy&subject=26942703"
+        },
+        {
+            "name": "中图网",
+            "price": "25.50元",
+            "link": "https://book.douban.com/link2/?lowest=2431&pre=0&vendor=bookschina&srcpage=subject&price=2550&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7411647.htm&cntvendor=2&srcsubj=26942703&type=bkbuy&subject=26942703"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26942703/",
+    "douban_id": "26942703",
+    "menu": [
+        "",
+        "        I 守护神",
+        "        II 魔法与幸福",
+        "        III 审判日",
+        "        IV 助手",
+        "        V 滑稽模仿",
+        "        VI 欲望",
+        "        VII 特别的存在",
+        "        VIII 作为姿态的作者",
+        "        IX 渎神礼赞",
+        "        X 电影史上最美丽的六分钟",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34549670.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[意大利] 吉奥乔·阿甘本",
+            "link": "https://book.douban.com/author/4586164"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        },
+        {
+            "text": "培文",
+            "link": "https://book.douban.com/producers/286"
+        },
+        {
+            "text": "王立秋",
+            "link": "https://book.douban.com/author/4622938"
+        },
+        {
+            "text": "文化理论译丛",
+            "link": "https://book.douban.com/series/31284"
+        }
+    ],
+    "tag": "西方哲学"
+}

@@ -1,0 +1,153 @@
+{
+    "title": "常识工作法",
+    "bookInfo": {
+        "作者": "[美] 马丁·林斯特龙",
+        "出版社": "中信出版社",
+        "原作名": "THE MINISTRY OF COMMON SENSE",
+        "译者": "陈召强",
+        "出版年": "2021-8-1",
+        "定价": "69",
+        "装帧": "平装",
+        "ISBN": "9787521732375"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "7.7%",
+        "four_star_rate": "26.3%",
+        "three_star_rate": "51.9%",
+        "two_star_rate": "10.8%",
+        "one_star_rate": "3.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/150472/",
+            "name": "马丁·林斯特龙",
+            "role": "作者",
+            "douban_id": "150472"
+        },
+        {
+            "link": "https://book.douban.com/author/4617062/",
+            "name": "陈召强",
+            "role": "译者",
+            "douban_id": "4617062"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "24.99元",
+            "link": "https://read.douban.com/ebook/333748935/?dcs=subject-buylink&dcm=douban&dct=35539681"
+        },
+        {
+            "name": "得到",
+            "price": "24.99元",
+            "link": "https://www.dedao.cn/eBook/nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg04m52WJzxbE9LZl1o8RkGd2BPYv4x6d9meB?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "51.80元",
+            "link": "https://book.douban.com/link2/?lowest=5180&pre=0&vendor=jingdong&srcpage=subject&price=5180&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVkRXgYAUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVlpeCEkSHDZNRwYlLXoLISMKeht0CzcMRFoQJ0R1ElhYTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UWA4FVlhaD0wTM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGF8WXw5sCFgHVBZUCy5mGVoVXAQAU1ZtCkoWAW04K2tuP1ViND45Xj1Iaj96ci4UX21ZIigoegB5URd2TDllPXBBJDZYcylWexFoK1gl&cntvendor=5&srcsubj=35539681&type=bkbuy&subject=35539681"
+        },
+        {
+            "name": "当当网",
+            "price": "51.80元",
+            "link": "https://book.douban.com/link2/?lowest=5180&pre=0&vendor=dangdang&srcpage=subject&price=5180&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35539681%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29274307&cntvendor=5&srcsubj=35539681&type=bkbuy&subject=35539681"
+        },
+        {
+            "name": "中图网",
+            "price": "52.80元",
+            "link": "https://book.douban.com/link2/?lowest=5180&pre=0&vendor=bookschina&srcpage=subject&price=5280&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8633014.htm&cntvendor=5&srcsubj=35539681&type=bkbuy&subject=35539681"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35539681/",
+    "douban_id": "35539681",
+    "menu": [
+        "",
+        "        推荐序1",
+        "        回归常识，重建同理心 // 马歇尔·戈德史密斯",
+        "        推荐序2",
+        "        多就是少、少就是多 // 冉涛",
+        "        推荐序3",
+        "        我们的人生不能压缩到只剩PPT和聊天记录 // 史欣悦",
+        "        推荐序4",
+        "        可复制的新常识//小马宋",
+        "        前言 / XIX",
+        "        蠢事在世界各地上演",
+        "        第一章 / 001",
+        "        为什么我的电视打不开？",
+        "        忘记自己是独立的人 7",
+        "        有缺陷的企业生态 9",
+        "        第二章 / 013",
+        "        同理心到哪里去了？",
+        "        何为常识？ 16",
+        "        常识瓦解的背后 19",
+        "        常识缺乏与同理心 24",
+        "        “同情心”和“同理心”有区别 25",
+        "        不断下降的同理心 29",
+        "        第三章 / 035",
+        "        与客户脱节",
+        "        一点点常识就会让公司受益匪浅 39",
+        "        连续性可创造卓越 43",
+        "        由外及内，而非由内及外 46",
+        "        不切实际的KPI 54",
+        "        花时间和客户交谈 58",
+        "        第四章 / 061",
+        "        政治：无形的束缚",
+        "        办公室政治 65",
+        "        无声的语言 74",
+        "        去政治化，引入常识 76",
+        "        第五章 / 081",
+        "        您被拒绝访问本章",
+        "        技术导致常识消失？ 86",
+        "        被覆盖的直觉 90",
+        "        被扼杀的常识 94",
+        "        归咎于技术本身 98",
+        "        没有技术会发生什么？ 103",
+        "        第六章 / 107",
+        "        给我看看你的PPT",
+        "        来“喝”一杯常识怎么样？ 109",
+        "        缺乏常识的线上会议 115",
+        "        让线上会议更彰显文化 124",
+        "        好的会议都有一个共同点：设有PPT 126",
+        "        第七章 / 129",
+        "        阴影里潜伏的规则",
+        "        压缩开支的新政 133",
+        "        不成文的规定 136",
+        "        扭曲的语言现象 142",
+        "        第八章 / 147",
+        "        企业界的恐惧与憎恶",
+        "        合规部门永远不会同意，法务部门肯定会拒绝 151",
+        "        安全高于一切 156",
+        "        不必要的规则无处不在 162",
+        "        第九章 / 171",
+        "        抛弃过去的愚蠢行为",
+        "        五步回归常识 174",
+        "        第十章 / 195",
+        "        建立“常识部”",
+        "        落实建设 198",
+        "        渣打银行的“常识部” 204",
+        "        如何在你的公司设立“常识部”？ 207",
+        "        向谁报告？ 212",
+        "        后记 / 221",
+        "        致谢 / 223",
+        "        注释 / 231",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33954640.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 马丁·林斯特龙",
+            "link": "https://book.douban.com/author/150472"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "陈召强",
+            "link": "https://book.douban.com/author/4617062"
+        }
+    ],
+    "tag": "职场"
+}

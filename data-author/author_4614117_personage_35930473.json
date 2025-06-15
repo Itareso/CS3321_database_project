@@ -1,0 +1,122 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "穹笼 : 无归时空",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34693442.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36612551/",
+                        "year": "2024",
+                        "id": 36612551
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "宇宙工程师之歌",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34672520.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36530537/",
+                        "year": "2023",
+                        "id": 36530537
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "小镇奇谈",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33965347.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35556905/",
+                        "year": "2021",
+                        "id": 35556905
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.2,
+                        "title": "岩边的禅院",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33796464.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/35139971/",
+                        "year": "2021",
+                        "id": 35139971
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "白银尽头",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33631073.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34854333/",
+                        "year": "2020",
+                        "id": 34854333
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "群星",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33490619.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34841937/",
+                        "year": "2019",
+                        "id": 34841937
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "背面天堂",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s23130436.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/19967236/",
+                        "year": "2013",
+                        "id": 19967236
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "赋名师",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s4371786.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/4840935/",
+                        "year": "2010",
+                        "id": 4840935
+                    }
+                }
+            ],
+            "total": 8
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614117/",
+    "author_douban_id": "4614117",
+    "personage_id": 35930473,
+    "name": [
+        "七月",
+        "Lei Zhao"
+    ],
+    "intro": "七月，本名赵磊，是南京大学生物专业的研究生。2001年开始从事科幻写作，当年发表首作《天火事件》，于《世界科幻博览》、《科幻世界》、《科幻大王》、《大众软件》等杂志发表科幻、奇幻、游戏小说二十余万字。作品风格多样，语言老练，视野开阔，尤其擅长严密逻辑性，科学功底扎实，而不枯燥，对故事把握能力强。主要作品有《天火事件》、《背面天堂》、《水鑫日》、《撬动世界的哈林达姆》、《无名氏》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "更多中文名": "赵磊(本名)",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

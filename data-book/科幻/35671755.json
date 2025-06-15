@@ -1,0 +1,82 @@
+{
+    "title": "星港管制员",
+    "bookInfo": {
+        "作者": "[日] 小川一水",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "アリスマ王の愛した魔物",
+        "译者": "张乐",
+        "出版年": "2021-12",
+        "页数": "322",
+        "定价": "46.00",
+        "装帧": "平装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787572703683"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.3%",
+        "four_star_rate": "42.5%",
+        "three_star_rate": "27.4%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610685/",
+            "name": "小川一水",
+            "role": "作者",
+            "douban_id": "4610685"
+        },
+        {
+            "link": "https://book.douban.com/author/4618494/",
+            "name": "张乐",
+            "role": "译者",
+            "douban_id": "4618494"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "21.99元",
+            "link": "https://read.douban.com/ebook/400780692/?dcs=subject-buylink&dcm=douban&dct=35671755"
+        },
+        {
+            "name": "京东商城",
+            "price": "23.00元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=jingdong&srcpage=subject&price=2300&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVwUVAIDU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEgYrUCx3VCpITw5hJn4HUxpYXjB-QA1JdVlFHw9aPAZeSgtveylQfFhNWxFCWCokdCxgcG9LbzJ9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZYPCYuY0kRSg1rQz9qJFhyTgVZf053D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVCUMWAGw4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQD1ECAFYzVE1BAioBEhl7XQYHXF5YCk0nAW4JGVklbTZEDCgFbytARi9cTi9uJQMFEFsLcyJUYS5mGQtXVF5qDF0fSDNvRTdvGAMTbQUy&cntvendor=3&srcsubj=35671755&type=bkbuy&subject=35671755"
+        },
+        {
+            "name": "当当网",
+            "price": "46.00元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=dangdang&srcpage=subject&price=4600&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35671755%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29365935&cntvendor=3&srcsubj=35671755&type=bkbuy&subject=35671755"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35671755/",
+    "douban_id": "35671755",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34051207.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 小川一水",
+            "link": "https://book.douban.com/author/4610685"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "张乐",
+            "link": "https://book.douban.com/author/4618494"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

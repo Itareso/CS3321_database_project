@@ -1,0 +1,65 @@
+{
+    "title": "理想之城",
+    "bookInfo": {
+        "作者": "若花燃燃",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "记忆坊",
+        "出版年": "2021-9",
+        "页数": "290",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "ISBN": "9787559459749"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    本是顺风顺水的苏筱，与男友周峻的爱情即将瓜熟蒂落，未料其所负责工程被卷入讨薪风波、又发生坍塌事故，她不幸被上司拿去顶缸，惨遭开除，男友也劈腿离去。    苏筱被众建开除的劣迹以及注册造价师资格证被扣发，让她在应聘时屡屡受挫，人生跌入底谷。内疚的周峻暗中示意天成建筑的陈思民帮忙招聘苏筱，无路可选的苏筱只得接受，未料自己竟成了一个“黑户”。为让苏筱知难而退，陈思民交给她一份不可能完成的报价。不想苏筱加班加点一个多月，赶出一份漂亮的标书，并因此中标。    自此，她被陈思民视为眼中钉，充满狗血与阴谋的职场历程也就此拉开大幕，“贿赂门”“内奸门”“桃花门”事件应接不暇。而随着她踢走陈思民，PK掉财务主管，她也被人称为“苏妲己”“上司杀手”，在众人眼里仿佛是一个蛇蝎魔女。    天成的飞速发展被总裁赵显坤看在眼里。新年过后，一纸HR调令，将苏筱从一个子公司成本控制主管擢升为集团的副总经济师，而这只是这出职场大戏的幕间休息……\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "24.3%",
+        "four_star_rate": "49.1%",
+        "three_star_rate": "24.5%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611029/",
+            "name": "周唯",
+            "role": "作者",
+            "douban_id": "4611029"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.64元",
+            "link": "https://book.douban.com/link2/?lowest=1964&pre=0&vendor=jingdong&srcpage=subject&price=1964&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10036978225977.html&cntvendor=3&srcsubj=35561012&type=bkbuy&subject=35561012"
+        },
+        {
+            "name": "当当网",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=1964&pre=0&vendor=dangdang&srcpage=subject&price=4800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35561012%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29285502&cntvendor=3&srcsubj=35561012&type=bkbuy&subject=35561012"
+        },
+        {
+            "name": "中图网",
+            "price": "27.40元",
+            "link": "https://book.douban.com/link2/?lowest=1964&pre=0&vendor=bookschina&srcpage=subject&price=2740&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8656585.htm&cntvendor=3&srcsubj=35561012&type=bkbuy&subject=35561012"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35561012/",
+    "douban_id": "35561012",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33966949.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "若花燃燃",
+            "link": "https://book.douban.com/search/%E8%8B%A5%E8%8A%B1%E7%87%83%E7%87%83"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "记忆坊",
+            "link": "https://book.douban.com/producers/141"
+        }
+    ],
+    "tag": "职场"
+}

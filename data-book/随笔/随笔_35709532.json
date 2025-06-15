@@ -1,0 +1,107 @@
+{
+    "title": "极乐生活指南",
+    "bookInfo": {
+        "作者": "孔亚雷",
+        "出版社": "上海文艺出版社",
+        "出品方": "单读 / 铸刻文化",
+        "出版年": "2021-12",
+        "页数": "344",
+        "定价": "59.00元",
+        "装帧": "平装",
+        "丛书": "单读丛书",
+        "ISBN": "9787532182251"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    这是一部具有国际视野的文学评论随笔集，精选作者多年来创作的文章共二十篇，全面展现了作者作为小说家、翻译家独特的文学视野和非虚构写作上的精致文笔。一方面，它对世界各国的知名或新锐作家、诗人进行了深入细致而又眼光独到的长篇评析和推介，这其中既有广为人知的《爱丽丝漫游奇境》、村上春树、雷蒙德·卡佛、保罗·奥斯特、莱昂纳德·科恩等，也有经由本书作者译介而在近年来广受瞩目的詹姆斯·索特（长篇小说《光年》）、杰夫·戴尔（《然而，很美：爵士乐之书》）、塞萨尔·艾拉（《音乐大脑》）等。另一方面，它也是一部有着内在隐秘关联的个人史和创作谈。从《2666》到《爱丽丝漫游奇境》，从《斯通纳》到《光年》，从莱昂纳德·科恩的诗歌到保罗·奥斯特的奇遇，从卡佛的温柔失败到杰夫·戴尔的极乐之路，从硬汉派侦探到爵士乐，从B级电影到隐居乡间，从读书、翻译到写作……一部有浓烈文体意识与个人风格的评论集，一座附带秘密地图的私人图书馆，一次真诚、神秘而美妙的倾心长谈。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "32.0%",
+        "four_star_rate": "51.1%",
+        "three_star_rate": "12.2%",
+        "two_star_rate": "2.6%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/325495/",
+            "name": "孔亚雷",
+            "role": "作者",
+            "douban_id": "325495"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "42.25元",
+            "link": "https://read.douban.com/ebook/477134500/?dcs=subject-buylink&dcm=douban&dct=35709532"
+        },
+        {
+            "name": "得到",
+            "price": "65.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=donM9vjLM8m6d5YQ7lvJGVz2Xgaqb3pZezZ0nBRyejENkP1KZo9rD4OApxpxkY7K&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "31.27元",
+            "link": "https://book.douban.com/link2/?lowest=3127&pre=0&vendor=jingdong&srcpage=subject&price=3127&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVoQXAcGVG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUlpdWkN3YzlPYl1zXWZDNQsqfipCagYPdVlSDmMGBAwqDgx8aGkMGR5eXhFCWCokdC5jcAhMbCJhBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYKACcnagNAfw97WyRLBAFKLygUewp3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxcDEweAGY4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgYGU18zVE1AQCdOElp7XQcEVVZaC00nAW4JGVklbTYEUF4PACt3VShxHT0VPUdjASkraR5-amhmGRxGOAJSBilbTyB8BWsKXhAWbQUy&cntvendor=5&srcsubj=35709532&type=bkbuy&subject=35709532"
+        },
+        {
+            "name": "当当网",
+            "price": "33.20元",
+            "link": "https://book.douban.com/link2/?lowest=3127&pre=0&vendor=dangdang&srcpage=subject&price=3320&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35709532%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29350050&cntvendor=5&srcsubj=35709532&type=bkbuy&subject=35709532"
+        },
+        {
+            "name": "中图网",
+            "price": "35.20元",
+            "link": "https://book.douban.com/link2/?lowest=3127&pre=0&vendor=bookschina&srcpage=subject&price=3520&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8759980.htm&cntvendor=5&srcsubj=35709532&type=bkbuy&subject=35709532"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35709532/",
+    "douban_id": "35709532",
+    "menu": [
+        "",
+        "        001 神秘主义入门",
+        "        015 古老的光",
+        "        027 白色污迹",
+        "        041 标本博物馆 :",
+        "        045 2666 一篇书评",
+        "        069 爱丽丝漫游卡罗尔奇境",
+        "        077 爱丽丝漫游冷酷仙境",
+        "        087 让 · 艾什诺兹公园中按顺时针排列的十五部小说 097 植物的欲望",
+        "        103 六部半",
+        "        113 当我们谈论卡佛时，我们在谈论什么",
+        "        127 神圣的冷漠",
+        "        135 死比爱更冷",
+        "        153 菲利普·拉金 :事后烟",
+        "        169 保罗·奥斯特笔记簿",
+        "        183 科恩的诗与歌",
+        "        211 八十部小说环游地球 :艾拉博士的神奇写作 235 极乐生活指南",
+        "        261 W.G.塞巴尔德 :作茧自缚",
+        "        293 秋日之光",
+        "        323 附录",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34074402.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "孔亚雷",
+            "link": "https://book.douban.com/search/%E5%AD%94%E4%BA%9A%E9%9B%B7"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        },
+        {
+            "text": "单读",
+            "link": "https://book.douban.com/producers/520"
+        },
+        {
+            "text": "铸刻文化",
+            "link": "https://book.douban.com/producers/227"
+        },
+        {
+            "text": "单读丛书",
+            "link": "https://book.douban.com/series/4717"
+        }
+    ],
+    "tag": "随笔"
+}

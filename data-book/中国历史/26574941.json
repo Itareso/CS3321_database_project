@@ -1,0 +1,109 @@
+{
+    "title": "细说三国",
+    "bookInfo": {
+        "作者": "黎东方",
+        "出版社": "商务印书馆",
+        "出版年": "2015-6",
+        "页数": "380",
+        "定价": "66.00",
+        "装帧": "精装",
+        "丛书": "黎东方作品",
+        "ISBN": "9787100112130"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "31.3%",
+        "four_star_rate": "49.0%",
+        "three_star_rate": "12.5%",
+        "two_star_rate": "5.2%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609122/",
+            "name": "黎东方",
+            "role": "作者",
+            "douban_id": "4609122"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "51.40元",
+            "link": "https://book.douban.com/link2/?lowest=3550&pre=0&vendor=jingdong&srcpage=subject&price=5140&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFgQWwQEXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBV1tbCk0fHDZNRwYlB0B8ElYKCD50SzNDWiZ-CFZGCypZXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeBl8IHV4UWA4EVVpZCEkVM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1sWX1VsCFgHV0pHQW1mGVoUWQYAXVttCkoWAW04K2thWHZBK1tYCAAXSClyRgt-HQRgEyo1UDV5AQ54W15LHl1bHwsIfE5EdmZXK1gl&cntvendor=3&srcsubj=26574941&type=bkbuy&subject=26574941"
+        },
+        {
+            "name": "当当网",
+            "price": "54.10元",
+            "link": "https://book.douban.com/link2/?lowest=3550&pre=0&vendor=dangdang&srcpage=subject&price=5410&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26574941%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25194183&cntvendor=3&srcsubj=26574941&type=bkbuy&subject=26574941"
+        },
+        {
+            "name": "中图网",
+            "price": "35.50元",
+            "link": "https://book.douban.com/link2/?lowest=3550&pre=0&vendor=bookschina&srcpage=subject&price=3550&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7684241.htm&cntvendor=3&srcsubj=26574941&type=bkbuy&subject=26574941"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26574941/",
+    "douban_id": "26574941",
+    "menu": [
+        "",
+        "        写在《细说三国》之前001",
+        "        一  合久必分001",
+        "        二  黄巾006",
+        "        三  董卓010",
+        "        四  吕布031",
+        "        五  袁术042",
+        "        六  公孙瓒048",
+        "        七  陶谦055",
+        "        八  早期的刘备059",
+        "        九  袁曹之战082",
+        "        一○  乌桓098",
+        "        一一  公孙度100",
+        "        一二  公孙康102",
+        "        一三  公孙渊104",
+        "        一四  孙策106",
+        "        一五  孙权124",
+        "        一六  诸葛亮141",
+        "        一七  赤壁153",
+        "        一八  孙夫人176",
+        "        一九  荆州问题180",
+        "        二○  益州易手190",
+        "        二一  曹操收降张鲁209",
+        "        二二  刘备攻取汉中217",
+        "        二三  刘备称王220",
+        "        二四  孙刘翻脸224",
+        "        二五  汉吴同盟238",
+        "        二六  诸葛亮北伐246",
+        "        二七  诸葛亮的为人265",
+        "        二八  蒋琬282",
+        "        二九  费祎291",
+        "        三○  从董允到樊建293",
+        "        三一  曹家的事298",
+        "        三二  孙家的事324",
+        "        三三  刘家的事333",
+        "        三四  司马懿337",
+        "        三五  司马师355",
+        "        三六  司马昭359",
+        "        三七  姜维365",
+        "        三八  分久必合371",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s28319498.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "黎东方",
+            "link": "https://book.douban.com/author/4609122"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "黎东方作品",
+            "link": "https://book.douban.com/series/31186"
+        }
+    ],
+    "tag": "中国历史",
+    "avg_rate": 4.025
+}

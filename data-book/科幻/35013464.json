@@ -1,0 +1,70 @@
+{
+    "title": "华氏451",
+    "bookInfo": {
+        "作者": "[美] 蒂姆·汉密尔顿 / [美] 雷·布拉德伯里",
+        "出版社": "新星出版社",
+        "出品方": "次元书馆",
+        "原作名": "Ray Bradbury's Fahrenheit 451: The Authorized Adaptation",
+        "译者": "由美",
+        "出版年": "2020-9",
+        "页数": "160",
+        "定价": "79.00元",
+        "装帧": "平装",
+        "ISBN": "9787513337892"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    在这个特殊的世界中，书籍是不允许存在的，消防员的主要职责是焚烧书籍。华氏451度是纸的燃点。主人公蒙塔格已经当了十年消防员，从未考虑过自己工作的意义。一天，他遇到了一个奇怪的女孩，女孩的想法使他对自己从事的工作产生了怀疑。经过探寻，他认清了事实真相，开始觉醒，他要向世界发起挑战……    1953年，雷˙布拉德伯里构想了世界上最令人难忘的反乌托邦未来之一。艺术家蒂姆·汉密尔顿把《华氏451》这部惊世骇俗的现代杰作改编成了绚烂的图像小说。    雷·布拉德伯里亲自为本书撰写了序言。在他的热情配合下，汉密尔顿绘制出一幅幅醒目的画面，独树一帜地捕捉到主人公的觉醒过程以及哲学、神学和文学不可估量的价值，充分展示了作者的叙事才华，展现出故事中蕴含的足以冲破纸面的力量。    世纪影响深远的百部小说之一。    经典文学改编图像小说。    经典科幻小说改编，忠实还原原著。    二十世纪最重要的美国作家之一--雷·布拉德伯里授权改编并亲笔作序。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "29.1%",
+        "four_star_rate": "51.3%",
+        "three_star_rate": "16.5%",
+        "two_star_rate": "3.1%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4635105/",
+            "name": "由美",
+            "role": "译者",
+            "douban_id": "4635105"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "39.50元",
+            "link": "https://book.douban.com/link2/?lowest=3950&pre=0&vendor=jingdong&srcpage=subject&price=3950&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQAHXF1fAEIRM28JGlgUVAMKXFtaDksQMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWAG4BHlMdWAEEVFlCUQ5LXl9eQTlxC1RCCz4mCx51YCsPUCxmHw5UWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHlISWgcyVl5cCU4XC2gLGmsVWwMDV15bDE4fBmYBK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggTXwYHU1gzVE1BAjJQXwl7XQYGU1ZVDkwnAW4JGVklbTZkVAgVACtXRx1zbSFcHGd-KBUiVBNCWChmGSt3BQZ8HD88ehNnfBtPbTxQbQUy&cntvendor=2&srcsubj=35013464&type=bkbuy&subject=35013464"
+        },
+        {
+            "name": "中图网",
+            "price": "55.50元",
+            "link": "https://book.douban.com/link2/?lowest=3950&pre=0&vendor=bookschina&srcpage=subject&price=5550&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8405546.htm&cntvendor=2&srcsubj=35013464&type=bkbuy&subject=35013464"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35013464/",
+    "douban_id": "35013464",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33728580.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 蒂姆·汉密尔顿",
+            "link": "https://book.douban.com/search/%E8%92%82%E5%A7%86%C2%B7%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF"
+        },
+        {
+            "text": "[美] 雷·布拉德伯里",
+            "link": "https://book.douban.com/search/%E9%9B%B7%C2%B7%E5%B8%83%E6%8B%89%E5%BE%B7%E4%BC%AF%E9%87%8C"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "次元书馆",
+            "link": "https://book.douban.com/producers/55"
+        },
+        {
+            "text": "由美",
+            "link": "https://book.douban.com/author/4635105"
+        }
+    ],
+    "tag": "科幻"
+}

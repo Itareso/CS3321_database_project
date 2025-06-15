@@ -1,0 +1,80 @@
+{
+    "title": "再次遇见你",
+    "bookInfo": {
+        "作者": "[日] 森绘都",
+        "出版社": "上海文艺出版社",
+        "出品方": "读客文化",
+        "原作名": "出会いなおし",
+        "译者": "毛叶枫",
+        "出版年": "2020-3-10",
+        "页数": "224",
+        "定价": "38",
+        "丛书": "读客外国小说文库：森绘都",
+        "ISBN": "9787532174959"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ◆那个你念念不忘的人，总有一天会与你再次相遇。    -    ◆内容简介    《再次遇见你》是日本直木奖得主森绘都的短篇小说集，包含六个不同的故事，关于相遇、误会、羁绊以及时间的流逝。故事中的人们欢笑、争吵、离别，却依旧祈愿着能够再次相遇。    ◆关于相遇：《再次遇见你》    一场雨、一个约定、一段回不去的曾经。经过岁月的冲刷，她决定重新审视这段过去的友情。    ◆关于羁绊：《尾灯》    一条河、一块石头、一句没说出口的告白。当时她落荒而逃，多年以后她才明白这就是爱。    ◆关于时间的流逝：《妈妈》    一个包、一次回归、一段难以为继的岁月。即使去世了多年，妈妈也是守护神一样的存在。    -    ◆媒体评论    ◆这部短篇集告诉我们人生不是一个点，而是一条延长线。不是让人忘掉过去，而是让人重新相遇。    ——日本著名作家、直木奖得主朝井辽        ◆这本书肯定了人的年龄增长和生活经验的积累，“离别”并不是终点。    ——《达文西》杂志总编辑关口靖彦        ◆其特色不仅是单纯的“重逢”，而是“重新完成一次相遇”，继续曾经一度断绝的人际关系，然后再重新出发。    ——《达文西》杂志编辑高岗辽    ◆人生就是有高峰也有低谷，年龄的增长并不是一件坏事。这部短篇集就会告诉我们这一点。    ——《达文西》杂志编辑稻子美砂\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "20.2%",
+        "four_star_rate": "41.7%",
+        "three_star_rate": "33.4%",
+        "two_star_rate": "3.7%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4622182/",
+            "name": "森绘都",
+            "role": "作者",
+            "douban_id": "4622182"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "17.10元",
+            "link": "https://book.douban.com/link2/?lowest=1710&pre=0&vendor=jingdong&srcpage=subject&price=1710&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12661827.html&cntvendor=2&srcsubj=34970066&type=bkbuy&subject=34970066"
+        },
+        {
+            "name": "中图网",
+            "price": "17.30元",
+            "link": "https://book.douban.com/link2/?lowest=1710&pre=0&vendor=bookschina&srcpage=subject&price=1730&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8255177.htm&cntvendor=2&srcsubj=34970066&type=bkbuy&subject=34970066"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34970066/",
+    "douban_id": "34970066",
+    "menu": [
+        "",
+        "        再次遇见你                   001",
+        "        芜菁和西芹的盐渍海带沙拉     031",
+        "        妈妈                         065",
+        "        结扣                         093",
+        "        尾灯                         137",
+        "        蓝天                         191",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33585245.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 森绘都",
+            "link": "https://book.douban.com/author/4622182"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        },
+        {
+            "text": "读客文化",
+            "link": "https://book.douban.com/producers/6"
+        },
+        {
+            "text": "毛叶枫",
+            "link": "https://book.douban.com/search/%E6%AF%9B%E5%8F%B6%E6%9E%AB"
+        },
+        {
+            "text": "读客外国小说文库：森绘都",
+            "link": "https://book.douban.com/series/50826"
+        }
+    ],
+    "tag": "日本文学"
+}

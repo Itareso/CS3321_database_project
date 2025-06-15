@@ -1,0 +1,99 @@
+{
+    "title": "奥兰多",
+    "bookInfo": {
+        "作者": "[英] 弗吉尼亚·伍尔夫",
+        "出版社": "华中科技大学出版社",
+        "出品方": "译言",
+        "译者": "徐会坛 / 刘漪 / 王瑜玲 / 周乐怡",
+        "出版年": "2020-7",
+        "页数": "344",
+        "定价": "39.8",
+        "装帧": "平装",
+        "丛书": "伍尔夫作品集",
+        "ISBN": "9787568062473"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《奥兰多》被列入BBC评选出的“100部塑造我们世界的小说”，故事始于十六世纪伊丽莎白时代，历时四百年。奥兰多是一位天真无邪的贵族少年，因深受伊丽莎白女王宠爱而进入宫庭。詹姆斯王登基后，大霜冻降临，奥兰多偶遇一位俄罗斯公主，坠入情网，结果是失恋亦失宠，隐居乡间大宅。奥兰多从小迷恋文学和诗歌，莎士比亚的身影令他难以忘怀，设法与小有名气的诗人格林相识，不料又受戏弄，加之不堪忍受罗马尼亚女大公的纠缠，遂请缨出使土耳其。在君士坦丁堡的一场大火之后，奥兰多变为女子，离开官场，混迹于吉卜赛人之间。再后她返回英国，成为上流社会的贵妇，结识一批当时著名文人。之后，奥兰多漫长的生命便一直以女人的形象存在，带着前三十年男子的记忆和认知对男女的差异和世界观重新进入新的生活。到故事结尾时，奥兰多已是二十世纪的获奖诗人，回到那贯穿全书、象征传统的大宅，来到大橡树下，回顾她对文学与诗歌的永恒的追求。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "54.2%",
+        "four_star_rate": "37.0%",
+        "three_star_rate": "7.7%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4544620/",
+            "name": "弗吉尼亚·伍尔夫",
+            "role": "作者",
+            "douban_id": "4544620"
+        },
+        {
+            "link": "https://book.douban.com/author/4612185/",
+            "name": "刘漪",
+            "role": "译者",
+            "douban_id": "4612185"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.30元",
+            "link": "https://book.douban.com/link2/?lowest=1930&pre=0&vendor=jingdong&srcpage=subject&price=1930&pos=1&url=https%3A%2F%2Fitem.jd.com%2F72205939674.html&cntvendor=2&srcsubj=35088135&type=bkbuy&subject=35088135"
+        },
+        {
+            "name": "中图网",
+            "price": "23.70元",
+            "link": "https://book.douban.com/link2/?lowest=1930&pre=0&vendor=bookschina&srcpage=subject&price=2370&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8371009.htm&cntvendor=2&srcsubj=35088135&type=bkbuy&subject=35088135"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35088135/",
+    "douban_id": "35088135",
+    "menu": [
+        "",
+        "        序  言",
+        "        第一章 001",
+        "        第二章 057",
+        "        第三章 115",
+        "        第四章 149",
+        "        第五章 223",
+        "        第六章 261",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33754260.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 弗吉尼亚·伍尔夫",
+            "link": "https://book.douban.com/author/4544620"
+        },
+        {
+            "text": "华中科技大学出版社",
+            "link": "https://book.douban.com/press/2751"
+        },
+        {
+            "text": "译言",
+            "link": "https://book.douban.com/producers/62"
+        },
+        {
+            "text": "徐会坛",
+            "link": "https://book.douban.com/search/%E5%BE%90%E4%BC%9A%E5%9D%9B"
+        },
+        {
+            "text": "刘漪",
+            "link": "https://book.douban.com/author/4612185"
+        },
+        {
+            "text": "王瑜玲",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E7%91%9C%E7%8E%B2"
+        },
+        {
+            "text": "周乐怡",
+            "link": "https://book.douban.com/search/%E5%91%A8%E4%B9%90%E6%80%A1"
+        },
+        {
+            "text": "伍尔夫作品集",
+            "link": "https://book.douban.com/series/53554"
+        }
+    ],
+    "tag": "经典"
+}

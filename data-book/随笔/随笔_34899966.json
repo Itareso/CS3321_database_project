@@ -1,0 +1,107 @@
+{
+    "title": "莳花志",
+    "bookInfo": {
+        "作者": "周瘦鹃",
+        "出版社": "浙江文艺出版社",
+        "副标题": "周瘦鹃花卉美文集",
+        "出版年": "2020-1-1",
+        "页数": "260",
+        "定价": "48.00",
+        "装帧": "平装",
+        "ISBN": "9787533957957"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.6%",
+        "four_star_rate": "50.6%",
+        "three_star_rate": "13.0%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/241342/",
+            "name": "周瘦鹃",
+            "role": "作者",
+            "douban_id": "241342"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "12.99元",
+            "link": "https://read.douban.com/ebook/131976451/?dcs=subject-buylink&dcm=douban&dct=34899966"
+        },
+        {
+            "name": "得到",
+            "price": "19.19元",
+            "link": "https://www.dedao.cn/eBook/donM9vjLM8m6d5YQ7lvJGVz2Xgaqb3p5DYwnBRyejENkP1KZo9rD4OApxpxkY7Ke?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=1639&pre=0&vendor=jingdong&srcpage=subject&price=2400&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwUWQ8EUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUwIuWjsSczsNZVJQC19-IRYgah9FXRdTdVlcD11eLwwnW05teWhUWzMVGRFCWCokcCxgcBxUbARHBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ-HFklEh4UVgoPUyVzOF5CVAMKSQ93D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxZC0IXC2Y4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA4DXVYzVE1AQWZDUll7XQcEUVpfCEInAW4JGVklbTYFCC0PeE5nV2p2Eh5DBHp3HCM_XBlJezRmGRJHBlp5BiQODTFtBDNIc1tRbQUy&cntvendor=5&srcsubj=34899966&type=bkbuy&subject=34899966"
+        },
+        {
+            "name": "当当网",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=1639&pre=0&vendor=dangdang&srcpage=subject&price=4800&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34899966%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28494994&cntvendor=5&srcsubj=34899966&type=bkbuy&subject=34899966"
+        },
+        {
+            "name": "中图网",
+            "price": "16.40元",
+            "link": "https://book.douban.com/link2/?lowest=1639&pre=0&vendor=bookschina&srcpage=subject&price=1639&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8238734.htm&cntvendor=5&srcsubj=34899966&type=bkbuy&subject=34899966"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34899966/",
+    "douban_id": "34899966",
+    "menu": [
+        "",
+        "        花之语",
+        "        花木的神话 / 002",
+        "        百花生日 / 004",
+        "        关于花的恋爱故事 / 008",
+        "        卖花声 / 015",
+        "        神仙庙前看花去 / 018",
+        "        千红万紫盈花市 / 020",
+        "        花之道",
+        "        插花 / 026",
+        "        日本的花道 / 030",
+        "        夏天的瓶供 / 033",
+        "        四时之花·春",
+        "        初春的花 / 040",
+        "        花雨缤纷春去了 / 044",
+        "        不依时节乱开花 / 047",
+        "        水仙 / 053",
+        "        得水能仙天与奇 / 054",
+        "        迎春 / 060",
+        "        迎春花 / 061",
+        "        ……",
+        "        四时之花·冬",
+        "        蜡梅 / 228",
+        "        发寒独秀蜡梅花 / 229",
+        "        仙客来 / 232",
+        "        仙客来 / 233",
+        "        山茶 / 235",
+        "        山茶花开春未归 / 236",
+        "        梅 / 242",
+        "        我为什么爱梅花 / 243",
+        "        问梅花消息 / 247",
+        "        探梅香雪海 / 252",
+        "        邓尉看梅到元墓 / 257",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33539052.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "周瘦鹃",
+            "link": "https://book.douban.com/search/%E5%91%A8%E7%98%A6%E9%B9%83"
+        },
+        {
+            "text": "浙江文艺出版社",
+            "link": "https://book.douban.com/press/2384"
+        }
+    ],
+    "tag": "随笔"
+}

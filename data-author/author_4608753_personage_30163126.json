@@ -1,0 +1,145 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "西游八十一案",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35031015.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36955636/",
+                        "year": "2025",
+                        "id": 36955636
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "西遊八十一案 五  長安擊壤歌",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35087688.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37225484/",
+                        "year": "2025",
+                        "id": 37225484
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "西遊八十一案 五  長安擊壤歌 下",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35087695.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37225485/",
+                        "year": "2025",
+                        "id": 37225485
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "西遊八十一案 五  長安擊壤歌 上",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35087696.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37225486/",
+                        "year": "2025",
+                        "id": 37225486
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "西游八十一案",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35027260.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36955634/",
+                        "year": "2024",
+                        "id": 36955634
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "西游八十一案",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34956288.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36955635/",
+                        "year": "2024",
+                        "id": 36955635
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "西游八十一案",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35002905.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36955637/",
+                        "year": "2024",
+                        "id": 36955637
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "帝世纪",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s26592631.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/24713570/",
+                        "year": "2013",
+                        "id": 24713570
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "帝世纪",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s26280699.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/20279639/",
+                        "year": "2012",
+                        "id": 20279639
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "帝世纪",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s5779080.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/6124921/",
+                        "year": "2011",
+                        "id": 6124921
+                    }
+                }
+            ],
+            "total": 14
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608753/",
+    "author_douban_id": "4608753",
+    "personage_id": 30163126,
+    "name": [
+        "陈渐",
+        "Jian Chen"
+    ],
+    "intro": "陈渐，著名悬疑推理作家，紫焰品牌作家，西游叙事革新者。因深厚的史学功底和超凡的想象力，在国内悬疑推理作家中颇具声望，其笔下风云变幻，时有惊雷，极具文学感染力。《西游八十一案》系列是其研究古典名著《西游记》多年，查遍史书典籍，删改数十次的呕心沥血之作。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/X0uqkNv31tEcel_avatar_uploaded1520216630.36.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

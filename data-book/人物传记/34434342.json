@@ -1,0 +1,102 @@
+{
+    "title": "人类群星闪耀时",
+    "bookInfo": {
+        "作者": "[奥]斯蒂芬·茨威格",
+        "出版社": "上海文艺出版社",
+        "出品方": "果麦文化",
+        "副标题": "十四篇历史特写",
+        "原作名": "Sternstunden der Menschheit：Vierzehn historische Miniaturen",
+        "译者": "姜乙",
+        "出版年": "2019-7",
+        "页数": "288",
+        "定价": "49.00元",
+        "装帧": "软精装",
+        "丛书": "果麦·外国文学经典",
+        "ISBN": "9787532172313"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    当改变命运的时刻降临，犹豫就会败北！    《悉达多》译者姜乙三年打磨，重磅推出的全新译作    “传记之王”斯蒂芬·茨威格代表作品，德文直译无删节版    十四篇历史特写，十四个扭转乾坤的关键时刻，十四个英雄瞬间    《人类群星闪耀时》的内容正如它的副标题——十四篇历史特写（Vierzehn historische Miniaturen）。作者茨威格以诗人和艺术家的笔触，尊崇历史的真相，以其完全个人的独特视野创作而成。十四个故事，横跨不同时代和地域，虽然篇幅精短，但内容丰富完整，既保留了事件发生时的种种细节，也凭借茨威格深厚纯熟的笔力，展现了以旁观者视角面对这些关键时刻的复杂情绪：对悲剧英雄命运的关注、共情、怜惜，对造物主的敬畏，对人在有限生命中具备的神性，迸发的创造力的肯定以及对人间正义价值的遵照和捍卫。遥远如古罗马政治家、演说家西塞罗在面对恺撒遇刺、局势混乱时的犹豫不决；又如极富戏剧性的瞬间，格鲁希墨守成规而造成拿破仑滑铁卢的失败以致影响了之后的整个欧洲历史……十四个生死攸关、超越时代的故事，如群星般璀璨而不渝地照耀着暂时的黑夜。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "36.6%",
+        "four_star_rate": "42.2%",
+        "three_star_rate": "17.3%",
+        "two_star_rate": "3.0%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4514004/",
+            "name": "斯蒂芬·茨威格",
+            "role": "作者",
+            "douban_id": "4514004"
+        },
+        {
+            "link": "https://book.douban.com/author/4617176/",
+            "name": "姜乙",
+            "role": "译者",
+            "douban_id": "4617176"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "28.00元",
+            "link": "https://read.douban.com/ebook/120288996/?dcs=subject-buylink&dcm=douban&dct=34434342"
+        },
+        {
+            "name": "得到",
+            "price": "49.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=z4R9BQ7pP4ZEaXYkx8KvRdljeyqo6088PDG01m2bMAO9NnDL7gBGQr5VzJqrvmEV&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=jingdong&srcpage=subject&price=2450&pos=3&url=https%3A%2F%2Fitem.jd.com%2F12903312.html&cntvendor=3&srcsubj=34434342&type=bkbuy&subject=34434342"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34434342/",
+    "douban_id": "34434342",
+    "menu": [
+        "",
+        "        遁入不朽",
+        "        拜占庭的沦陷",
+        "        亨德尔的复活",
+        "        一夜天才",
+        "        决战滑铁卢",
+        "        马琳巴德哀歌",
+        "        发现黄金国",
+        "        英雄的瞬间",
+        "        越洋的第一次通话",
+        "        逃向上苍",
+        "        征战南极",
+        "        封闭的列车",
+        "        西塞罗",
+        "        威尔逊的失败",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33300419.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[奥]斯蒂芬·茨威格",
+            "link": "https://book.douban.com/author/4514004"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "姜乙",
+            "link": "https://book.douban.com/author/4617176"
+        },
+        {
+            "text": "果麦·外国文学经典",
+            "link": "https://book.douban.com/series/49275"
+        }
+    ],
+    "tag": "人物传记"
+}

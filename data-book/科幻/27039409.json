@@ -1,0 +1,82 @@
+{
+    "title": "分形王子",
+    "bookInfo": {
+        "作者": "[芬兰] 哈努·拉贾涅米",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "副标题": "“侠盗若昂”三部曲02",
+        "原作名": "The Fractal Prince",
+        "译者": "孙加",
+        "出版年": "2018-4",
+        "页数": "287",
+        "定价": "34",
+        "装帧": "平装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536486171"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.5%",
+        "four_star_rate": "39.6%",
+        "three_star_rate": "16.7%",
+        "two_star_rate": "3.6%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4627456/",
+            "name": "哈努·拉贾涅米",
+            "role": "作者",
+            "douban_id": "4627456"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "15.99元",
+            "link": "https://read.douban.com/ebook/336399243/?dcs=subject-buylink&dcm=douban&dct=27039409"
+        },
+        {
+            "name": "京东商城",
+            "price": "17.00元",
+            "link": "https://book.douban.com/link2/?lowest=1700&pre=0&vendor=jingdong&srcpage=subject&price=1700&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFkXWgUEUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOKC0oWkN3cBtwaAdNOnkHVwInQwJ8WQdsdVloNmZxPAwLWjNEUBN7SQduFhFCWCokcCtgShBKbARHBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZAUl1DVSNyZw1pGAZJClBSTicfdU9RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFlaDUsfB2o4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CVVszVE1BAmwLQQ17XQYFXFpdCEknAW4JGVklbTZ-JysPACtkdxd7RwNyIgMBCCQWQSBNawtmGSZ-PXVqBggPcBhEfxxaRyBebQUy&cntvendor=4&srcsubj=27039409&type=bkbuy&subject=27039409"
+        },
+        {
+            "name": "当当网",
+            "price": "34.00元",
+            "link": "https://book.douban.com/link2/?lowest=1700&pre=0&vendor=dangdang&srcpage=subject&price=3400&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27039409%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25262705&cntvendor=4&srcsubj=27039409&type=bkbuy&subject=27039409"
+        },
+        {
+            "name": "中图网",
+            "price": "25.10元",
+            "link": "https://book.douban.com/link2/?lowest=1700&pre=0&vendor=bookschina&srcpage=subject&price=2510&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7784730.htm&cntvendor=4&srcsubj=27039409&type=bkbuy&subject=27039409"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27039409/",
+    "douban_id": "27039409",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29743615.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[芬兰] 哈努·拉贾涅米",
+            "link": "https://book.douban.com/author/4627456"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "孙加",
+            "link": "https://book.douban.com/search/%E5%AD%99%E5%8A%A0"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

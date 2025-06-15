@@ -1,0 +1,103 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.1,
+                        "title": "狂飙",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34413297.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/36218542/",
+                        "year": "2023",
+                        "id": 36218542
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "秀才遇到兵",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29036092.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26871851/",
+                        "year": "2016",
+                        "id": 26871851
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "永不磨灭的番号",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s6877211.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/6772214/",
+                        "year": "2011",
+                        "id": 6772214
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "天敌",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s6185961.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/4879667/",
+                        "year": "2010",
+                        "id": 4879667
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "杀虎口",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s6011800.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/3691295/",
+                        "year": "2009",
+                        "id": 3691295
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4619535/",
+    "author_douban_id": "4619535",
+    "personage_id": 27482965,
+    "name": [
+        "徐纪周",
+        "Jizhou Xu"
+    ],
+    "intro": "中国内地男导演、编剧、 监制、制片人，毕业于中央戏剧学院导演系。2000 年起徐纪周从事影视创作，于 2001 年担任纪实警匪剧《中国刑警》的编剧、导演，打黑反腐剧《打黑风暴》 的编剧。 2006 年自编自导警匪剧《狙击》，其音像发行量位列全国第三季度冠军。 2008 年担任另类军旅剧《杀虎口》编剧、导演。 2010 年自编自导抗战剧《永不磨灭的番号》， 凭借该剧获得第 18 届上海电视节“白玉兰”奖电视剧最具实力导演奖，也同时开启了其制片人之路。2017 年执导并编剧电影《心理罪之城市之光》。 后又于2018 年首次任网络剧《媚者无疆》监制，同年担纲第 24届白玉兰奖中国电视剧单元评委。2019年担任了当代军旅剧《特战荣耀》的编剧、导演，其收视率在同期位列前茅。2020年，担任都市家庭轻喜剧《八零九零》总导演，2021年 ，担任时代报告剧《我们的新时代之腾飞》单元导演，并与同年改编并执导了扫黑题材时代大剧《狂飙》。代表作品有《狂飙》、《永不磨灭的番号》、《心理罪之城市之光》、《杀虎口》等。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27482965/photo/2506436616",
+        "https://www.douban.com/personage/27482965/photo/2506436443",
+        "https://www.douban.com/personage/27482965/photo/2887354556",
+        "https://www.douban.com/personage/27482965/photo/2506436488",
+        "https://www.douban.com/personage/27482965/photo/2506436407"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2506436616.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2506436443.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2887354556.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2506436488.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2506436407.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/be668e740af600bf5109453354d66410.jpg",
+    "sex": 1,
+    "birth_date": 1976,
+    "age": 50,
+    "IMDB": "nm8633544",
+    "profession": [
+        "导演",
+        "编剧",
+        "制片人",
+        "作者"
+    ]
+}

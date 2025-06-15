@@ -1,0 +1,65 @@
+{
+    "title": "朝俞",
+    "bookInfo": {
+        "作者": "木瓜黄",
+        "出版社": "广东旅游出版社",
+        "原作名": "伪装学渣",
+        "出版年": "2021-8",
+        "定价": "54.80元",
+        "装帧": "平装",
+        "丛书": "朝俞",
+        "ISBN": "9787557025519"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "57.7%",
+        "four_star_rate": "18.7%",
+        "three_star_rate": "16.6%",
+        "two_star_rate": "4.2%",
+        "one_star_rate": "2.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4617053/",
+            "name": "木瓜黄",
+            "role": "作者",
+            "douban_id": "4617053"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.60元",
+            "link": "https://book.douban.com/link2/?lowest=3160&pre=0&vendor=jingdong&srcpage=subject&price=3160&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMXXAYBVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXFxcCEgXHDZNRwYlIAIBU1gFXip0aitbXkVRIGRFMiU-eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4DUV9aDU0VM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHgsUDQdsCFgHU0tVXG1mGFMTXQUEVV5tCkoWAW04K2tCH29RXD5bS0pBQ2dqWj50FHh1XCRZbRh5AStQYxkXDllCVT0-XwlnXzNUK1gl&cntvendor=3&srcsubj=35585218&type=bkbuy&subject=35585218"
+        },
+        {
+            "name": "当当网",
+            "price": "38.20元",
+            "link": "https://book.douban.com/link2/?lowest=3160&pre=1&vendor=dangdang&srcpage=subject&price=3820&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35585218%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29293773&cntvendor=3&srcsubj=35585218&type=bkbuy&subject=35585218"
+        },
+        {
+            "name": "中图网",
+            "price": "33.40元",
+            "link": "https://book.douban.com/link2/?lowest=3160&pre=0&vendor=bookschina&srcpage=subject&price=3340&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8757889.htm&cntvendor=3&srcsubj=35585218&type=bkbuy&subject=35585218"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35585218/",
+    "douban_id": "35585218",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33998801.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "木瓜黄",
+            "link": "https://book.douban.com/author/4617053"
+        },
+        {
+            "text": "广东旅游出版社",
+            "link": "https://book.douban.com/press/2163"
+        },
+        {
+            "text": "朝俞",
+            "link": "https://book.douban.com/series/67628"
+        }
+    ],
+    "tag": "校园"
+}

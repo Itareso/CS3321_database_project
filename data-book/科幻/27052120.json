@@ -1,0 +1,49 @@
+{
+    "title": "幻影游船1",
+    "bookInfo": {
+        "作者": "郭妮",
+        "出版社": "安徽少年儿童出版社",
+        "副标题": "神奇博士的秘密基地",
+        "出版年": "2017-6-1",
+        "页数": "256",
+        "定价": "CNY 20.00",
+        "装帧": "平装",
+        "丛书": "幻影游船",
+        "ISBN": "9787539795669"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "71.3%",
+        "four_star_rate": "20.2%",
+        "three_star_rate": "6.4%",
+        "two_star_rate": "1.1%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "中图网",
+            "price": "8.00元",
+            "link": "https://book.douban.com/link2/?lowest=800&pre=0&vendor=bookschina&srcpage=subject&price=800&pos=1&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7515384.htm&cntvendor=1&srcsubj=27052120&type=bkbuy&subject=27052120"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27052120/",
+    "douban_id": "27052120",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29544385.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "郭妮",
+            "link": "https://book.douban.com/search/%E9%83%AD%E5%A6%AE"
+        },
+        {
+            "text": "安徽少年儿童出版社",
+            "link": "https://book.douban.com/press/2238"
+        },
+        {
+            "text": "幻影游船",
+            "link": "https://book.douban.com/series/40395"
+        }
+    ],
+    "tag": "科幻"
+}

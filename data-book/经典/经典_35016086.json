@@ -1,0 +1,72 @@
+{
+    "title": "春夜",
+    "bookInfo": {
+        "作者": "蔡骏",
+        "出版社": "作家出版社",
+        "出版年": "2020-12-11",
+        "定价": "59.80元",
+        "装帧": "精装",
+        "ISBN": "9787521209037"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "41.6%",
+        "four_star_rate": "30.0%",
+        "three_star_rate": "16.5%",
+        "two_star_rate": "6.6%",
+        "one_star_rate": "5.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4539806/",
+            "name": "蔡骏",
+            "role": "作者",
+            "douban_id": "4539806"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.69元",
+            "link": "https://book.douban.com/link2/?lowest=3169&pre=0&vendor=jingdong&srcpage=subject&price=3169&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVoXVAYBVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IODg0naxQeVW5fbw9mIH59EC0tfQ92RQkBdVkcWWFRVj08SBxkcDVbSTtiNBFCWCokdC5gSm9Pb1llBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZfBiMrVkJqQwxsS11xOVJwEVxfbT1BD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVpbDkkeAms4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCg8KUQ4zVE1ARjINRBp7XQcFVFhUAE4nAW4JGVklbTZYByQ-V0JBAjh8TyhoJXlGJy4oTCpRZWZmGVIROlUANz8dXzhkWTxaeyx8bQUy&cntvendor=3&srcsubj=35016086&type=bkbuy&subject=35016086"
+        },
+        {
+            "name": "当当网",
+            "price": "35.90元",
+            "link": "https://book.douban.com/link2/?lowest=3169&pre=0&vendor=dangdang&srcpage=subject&price=3590&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35016086%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29162501&cntvendor=3&srcsubj=35016086&type=bkbuy&subject=35016086"
+        },
+        {
+            "name": "中图网",
+            "price": "38.70元",
+            "link": "https://book.douban.com/link2/?lowest=3169&pre=0&vendor=bookschina&srcpage=subject&price=3870&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8452556.htm&cntvendor=3&srcsubj=35016086&type=bkbuy&subject=35016086"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35016086/",
+    "douban_id": "35016086",
+    "menu": [
+        "",
+        "        第一章    万箭穿心",
+        "        第二章    愚  人  节",
+        "        第三章    十  六  年",
+        "        第四章    追        凶",
+        "        第五章    死        别",
+        "        第六章    生        离",
+        "        第七章    归        来",
+        "        第八章    重        逢",
+        "        后        记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33773482.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "蔡骏",
+            "link": "https://book.douban.com/author/4539806"
+        },
+        {
+            "text": "作家出版社",
+            "link": "https://book.douban.com/press/2768"
+        }
+    ],
+    "tag": "经典"
+}

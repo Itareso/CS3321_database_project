@@ -1,0 +1,50 @@
+{
+    "title": "狼群",
+    "bookInfo": {
+        "作者": "刺血",
+        "出版社": "湖南文艺出版社",
+        "出版年": "2014-10-1",
+        "页数": "1012",
+        "定价": "CNY 70.00",
+        "装帧": "平装",
+        "ISBN": "9787540468255"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "59.0%",
+        "four_star_rate": "27.2%",
+        "three_star_rate": "11.1%",
+        "two_star_rate": "1.9%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/204020/",
+            "name": "刺血",
+            "role": "作者",
+            "douban_id": "204020"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "35.00元",
+            "link": "https://book.douban.com/link2/?lowest=3500&pre=0&vendor=jingdong&srcpage=subject&price=3500&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQAHXF5fCkMXM28JGlMdVQcAUVpYCkwUMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWC2cAGlkQWQMAU11CUQ5LXl94GAYUJXpXLz0NfhdpVyh6SAl2L1xiWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mH14UVA8yVl5cCU4XC2gLGmsVWwMDUVZUDUsUCm8OK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggSWA8CV1wzVE1NXCpcTgd7XwcBU11UC0onAW4JGVklbTYACzgPdk5gcxNsGCR1NXhcAis2YABLWGZmGQlSPFlFBjY6dAltSghTbBATbQUy&cntvendor=1&srcsubj=26310492&type=bkbuy&subject=26310492"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26310492/",
+    "douban_id": "26310492",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s27992321.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刺血",
+            "link": "https://book.douban.com/author/204020/"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        }
+    ],
+    "tag": "军事"
+}

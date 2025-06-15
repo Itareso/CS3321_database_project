@@ -1,0 +1,66 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "rating_star": 4.0,
+                        "rating_num": 8.3,
+                        "title": "大地中心的人",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34817155.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/36821429/",
+                        "year": "2024",
+                        "id": 36821429
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 4.0,
+                        "rating_num": 8.4,
+                        "title": "新大陆",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33712535.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/35191839/",
+                        "year": "2020",
+                        "id": 35191839
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 4.0,
+                        "rating_num": 8.0,
+                        "title": "不过是OPEN",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s3389014.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/3315384/",
+                        "year": "2008",
+                        "id": 3315384
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4621459/",
+    "author_douban_id": "4621459",
+    "personage_id": 36439457,
+    "name": [
+        "童末",
+        "Mo Tong"
+    ],
+    "intro": "童末，写小说与文学评论，作品有长篇小说《大地中心的人》、短篇小说集《新大陆》、童话集《故事们》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/55fad8ca991ff1a796b0a57f3c24d1fd.jpg",
+    "sex": 0,
+    "birth_date": 1985,
+    "age": 41,
+    "birth_place": [
+        "中国"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

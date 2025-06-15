@@ -1,0 +1,63 @@
+{
+    "title": "沙漏1",
+    "bookInfo": {
+        "作者": "饶雪漫",
+        "出版社": "万卷出版公司",
+        "出版年": "2010-5",
+        "页数": "244",
+        "定价": "25.00元",
+        "装帧": "平装",
+        "丛书": "饶雪漫青春疼痛系列",
+        "ISBN": "9787547008614"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.7%",
+        "four_star_rate": "33.5%",
+        "three_star_rate": "40.5%",
+        "two_star_rate": "6.2%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4514702/",
+            "name": "饶雪漫",
+            "role": "作者",
+            "douban_id": "4514702"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "9.40元",
+            "link": "https://book.douban.com/link2/?lowest=940&pre=0&vendor=jingdong&srcpage=subject&price=940&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGloXXg4BVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYDVVxeAEgXHDZNRwYlGmZZLV4NT090AWhsGj1oWltCKRkPaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UWA8KXFxaCUgRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlMUVA5sCFgHUAhWXGpmGFMTXw8BVFptCkoWAW04K2t1VW1BND4GWz5HRCoMax4UFWFyMxtdSil5AQ19HVNDHmF-IQgLaENqZBxAK1gl&cntvendor=1&srcsubj=4864370&type=bkbuy&subject=4864370"
+        }
+    ],
+    "url": "https://book.douban.com/subject/4864370/",
+    "douban_id": "4864370",
+    "menu": [
+        "",
+        "        PART1 莫醒醒",
+        "        我丢失的，常常不仅仅是青春和爱情。",
+        "        PART2 米砂",
+        "        而我终究要离开，像风筝飞向很蓝的天。",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s6173259.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "饶雪漫",
+            "link": "https://book.douban.com/author/4514702"
+        },
+        {
+            "text": "万卷出版公司",
+            "link": "https://book.douban.com/press/2729"
+        },
+        {
+            "text": "饶雪漫青春疼痛系列",
+            "link": "https://book.douban.com/series/31209"
+        }
+    ],
+    "tag": "校园"
+}

@@ -1,0 +1,68 @@
+{
+    "title": "到灯塔去",
+    "bookInfo": {
+        "作者": "[英] 弗吉尼亚·伍尔夫",
+        "出版社": "上海译文出版社",
+        "原作名": "To the Lighthouse",
+        "译者": "瞿世镜",
+        "出版年": "2022-10",
+        "页数": "368",
+        "定价": "69",
+        "装帧": "精装",
+        "丛书": "伍尔夫文集·布面精装版",
+        "ISBN": "9787532788637"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "57.3%",
+        "four_star_rate": "32.7%",
+        "three_star_rate": "8.6%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4544620/",
+            "name": "弗吉尼亚·伍尔夫",
+            "role": "作者",
+            "douban_id": "4544620"
+        },
+        {
+            "link": "https://book.douban.com/author/101185/",
+            "name": "瞿世镜",
+            "role": "译者",
+            "douban_id": "101185"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "39.99元",
+            "link": "https://read.douban.com/ebook/411378132/?dcs=subject-buylink&dcm=douban&dct=36062381"
+        },
+        {
+            "name": "得到",
+            "price": "68.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=vExPL6aYQPjadpoZxR5r6KDkbNJVO0oVyew84GeXyLElm92gnMA1zvB7qMKpBGkj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "34.50元",
+            "link": "https://book.douban.com/link2/?lowest=3450&pre=0&vendor=jingdong&srcpage=subject&price=3450&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGV4RWgAGVm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUlpdWkN3YzlPYl1jKlN8Fg0qbj13BW1NdVlSDmMGBAwqDgx8aGkMYlNsXhFCWCokdCJjYBBJbCJpBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ8BkA4V05ifwpoQw1UOxgBH0QJTRBBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFZYCUMTAm44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHUAkzVE1AQi1JUlh7XQcBUVZZDk0nAW4JGVklbTYEUF4PACt3VShxHS1iCHhAByk7fisRASpmGRxGOAJSBilbTyB8BWtxEyIWbQUy&cntvendor=5&srcsubj=36062381&type=bkbuy&subject=36062381"
+        },
+        {
+            "name": "当当网",
+            "price": "66.20元",
+            "link": "https://book.douban.com/link2/?lowest=3450&pre=0&vendor=dangdang&srcpage=subject&price=6620&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36062381%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29473660&cntvendor=5&srcsubj=36062381&type=bkbuy&subject=36062381"
+        },
+        {
+            "name": "中图网",
+            "price": "45.20元",
+            "link": "https://book.douban.com/link2/?lowest=3450&pre=0&vendor=bookschina&srcpage=subject&price=4520&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8961267.htm&cntvendor=5&srcsubj=36062381&type=bkbuy&subject=36062381"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36062381/",
+    "douban_id": "36062381",
+    "menu": [],
+    "tag": "小说"
+}

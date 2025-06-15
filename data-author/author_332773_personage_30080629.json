@@ -1,0 +1,166 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "BM 第2期",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s35011531.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37122448/",
+                        "year": "2024",
+                        "id": 37122448
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "张枣的诗",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34577842.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36323336/",
+                        "year": "2023",
+                        "id": 36323336
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "张枣诗文集",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33842441.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35324211/",
+                        "year": "2021",
+                        "id": 35324211
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "现代性的追寻",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33708254.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35153293/",
+                        "year": "2020",
+                        "id": 35153293
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "张枣随笔集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29849592.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/30304339/",
+                        "year": "2018",
+                        "id": 30304339
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "春秋来信",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29221460.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26934570/",
+                        "year": "2017",
+                        "id": 26934570
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "月之花",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s28711211.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26791176/",
+                        "year": "2016",
+                        "id": 26791176
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "钓云朵的人",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s28711221.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26791184/",
+                        "year": "2016",
+                        "id": 26791184
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "张枣译诗",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28131312.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26438711/",
+                        "year": "2015",
+                        "id": 26438711
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "鏡中",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28645335.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26775907/",
+                        "year": "2015",
+                        "id": 26775907
+                    }
+                }
+            ],
+            "total": 12
+        }
+    },
+    "author_link": "https://book.douban.com/author/332773/",
+    "author_douban_id": "332773",
+    "personage_id": 30080629,
+    "name": [
+        "张枣",
+        "Zao Zhang"
+    ],
+    "intro": "张枣，湖南长沙人，1962年出生。当代著名诗人，中国先锋诗歌的代表人之一。湖南师范大学英语系本科毕业，考入四川外语学院读硕士，1986年起旅居德国，获特里尔大学文哲博士，后在图宾根大学任教，归国后曾任教于河南大学、中央民族大学。张枣的诗歌从源头上继承了“风、骚”传统，也在当代融合了中西语境，《春秋来信》是他生前唯一出版的诗集。2010年3月8日，诗人因肺癌在德国图宾根去世，享年48岁。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30080629/photo/2905004546",
+        "https://www.douban.com/personage/30080629/photo/2905004545",
+        "https://www.douban.com/personage/30080629/photo/2905004544",
+        "https://www.douban.com/personage/30080629/photo/2905004542",
+        "https://www.douban.com/personage/30080629/photo/2905004541"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004546.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004545.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004544.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004542.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004541.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/887a290ac4e1a016c48f3ce14954b754.jpg",
+    "sex": 1,
+    "birth_date": 1962,
+    "death_date": 2010,
+    "age": 49,
+    "birth_place": [
+        "中国",
+        "湖南",
+        "长沙"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

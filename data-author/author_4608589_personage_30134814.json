@@ -1,0 +1,110 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "有花生的寻常一天",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34135849.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35780224/",
+                        "year": "2022",
+                        "id": 35780224
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "梭罗传",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33814334.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35336969/",
+                        "year": "2021",
+                        "id": 35336969
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "有些未来我不想去",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s32304930.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/33418858/",
+                        "year": "2019",
+                        "id": 33418858
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "不吃鸡蛋的人",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29617777.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27252756/",
+                        "year": "2018",
+                        "id": 27252756
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "文学经典怎么读",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33682431.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30258591/",
+                        "year": "2018",
+                        "id": 30258591
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "人只会老，不会死",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27410940.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25961836/",
+                        "year": "2014",
+                        "id": 25961836
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "粉红色旅馆",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s26810807.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/23012762/",
+                        "year": "2013",
+                        "id": 23012762
+                    }
+                }
+            ],
+            "total": 7
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608589/",
+    "author_douban_id": "4608589",
+    "personage_id": 30134814,
+    "name": [
+        "钱佳楠",
+        "Jianan Qian"
+    ],
+    "intro": "钱佳楠，毕业于复旦大学中文系，上海市作家协会会员，现就读于美国爱荷华作家工作坊。曾获第34届时报文学奖短篇小说组别评审奖，出版有短篇集《人只会老，不会死》，译有《粉红色旅馆》。《不吃鸡蛋的人》是其首部长篇小说，为上海市作家协会2015年签约作品。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/87330e159146c4d88a258e22da958afe.jpg",
+    "sex": 0,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

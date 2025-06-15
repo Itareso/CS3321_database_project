@@ -1,0 +1,71 @@
+{
+    "title": "三体",
+    "bookInfo": {
+        "作者": "刘慈欣",
+        "出版社": "重庆出版社",
+        "出品方": "科幻世界",
+        "副标题": "图文版",
+        "出版年": "2020-7",
+        "页数": "423",
+        "定价": "50.00",
+        "装帧": "平装",
+        "丛书": "科幻世界·中国科幻基石丛书",
+        "ISBN": "9787229151003"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "69.8%",
+        "four_star_rate": "20.1%",
+        "three_star_rate": "4.0%",
+        "two_star_rate": "0.5%",
+        "one_star_rate": "5.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561353/",
+            "name": "刘慈欣",
+            "role": "作者",
+            "douban_id": "4561353"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "25.00元",
+            "link": "https://book.douban.com/link2/?lowest=2500&pre=0&vendor=jingdong&srcpage=subject&price=2500&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFMQWQ4FXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOJDs4SjUSfjcKZideCkBxLCQHbztzUSxSdVlzKUBnDBxfCElSRh9tTg5GGxFCWCokcBtjcBxXbFlDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZmXVwff0wJcw1qXxlUGGVxEDoDDiNnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYNK1sTWAcBVFtVCEMSA2k4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWFIDVg4zVE1ASG8MTVt7XQYGVltUCEgnAW4JGVklbTZyMTsfdk5qW211ZxBCG3V6LgQ6eC9FQDVmGT1hG2NaFlxdCg5ScwpdTghTbQUy&cntvendor=3&srcsubj=35110161&type=bkbuy&subject=35110161"
+        },
+        {
+            "name": "当当网",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=2500&pre=0&vendor=dangdang&srcpage=subject&price=4800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35110161%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29002057&cntvendor=3&srcsubj=35110161&type=bkbuy&subject=35110161"
+        },
+        {
+            "name": "中图网",
+            "price": "33.50元",
+            "link": "https://book.douban.com/link2/?lowest=2500&pre=0&vendor=bookschina&srcpage=subject&price=3350&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8400730.htm&cntvendor=3&srcsubj=35110161&type=bkbuy&subject=35110161"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35110161/",
+    "douban_id": "35110161",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33679705.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3"
+        },
+        {
+            "text": "重庆出版社",
+            "link": "https://book.douban.com/press/2162"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "科幻世界·中国科幻基石丛书",
+            "link": "https://book.douban.com/series/38"
+        }
+    ],
+    "tag": "科幻"
+}

@@ -1,0 +1,81 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.5,
+                        "title": "楚辞",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s4442188.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/4917220/",
+                        "year": "2023",
+                        "id": 4917220
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 2.7,
+                        "title": "日本影弘仁本《文馆词林》校注",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34023671.jpg",
+                        "rating_star": 1.5,
+                        "url": "https://book.douban.com/subject/35634962/",
+                        "year": "2021",
+                        "id": 35634962
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "古典文献与浙江地域文学论集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29953229.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30403956/",
+                        "year": "2018",
+                        "id": 30403956
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "刘伯温集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29766212.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26848967/",
+                        "year": "2016",
+                        "id": 26848967
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4624475/",
+    "author_douban_id": "4624475",
+    "personage_id": 36595224,
+    "name": [
+        "林家骊",
+        "Jiali Lin"
+    ],
+    "intro": "林家骊，男，1951年出生，浙江温岭人，浙江大学人文学院中文系教授、中国古代文学专业博士生导师。兼任浙江树人大学人文学院院长。1979年9月考入杭州大学中文系，1983年7月毕业后留校任教；师从姜亮夫教授，1994年获文学博士学位。1998年四校合并为浙江大学。主要从事中国周秦汉魏晋南北朝文学、中国古典文献学、浙江地域文化研究；任浙江大学楚辞学研究中心副主任、浙江树人大学区域文化研究所所长。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/6cbda4ce776b3f4bcb2468dd59cc31e0.jpg",
+    "sex": 1,
+    "birth_date": 1951,
+    "age": 75,
+    "birth_place": [
+        "中国",
+        "浙江",
+        "温岭"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

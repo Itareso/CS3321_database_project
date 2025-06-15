@@ -1,0 +1,98 @@
+{
+    "title": "淮南子",
+    "bookInfo": {
+        "作者": "刘安",
+        "出版社": "中华书局",
+        "译者": "陈广忠",
+        "出版年": "2023-2-9",
+        "页数": "1296",
+        "定价": "82.00元",
+        "装帧": "精装",
+        "丛书": "中华经典名著全本全注全译丛书",
+        "ISBN": "9787101083132"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "47.4%",
+        "four_star_rate": "39.4%",
+        "three_star_rate": "10.8%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4529934/",
+            "name": "刘安",
+            "role": "作者",
+            "douban_id": "4529934"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "53.40元",
+            "link": "https://www.dedao.cn/eBook/ZykJDGjQ7AOLNa642rbP8dkEgemKDwdQyN0XoVRjpBxl95MJzqvYGynZ18MEl5Bo?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "66.70元",
+            "link": "https://book.douban.com/link2/?lowest=6670&pre=0&vendor=jingdong&srcpage=subject&price=6670&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVwXWgcBVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1xaCUgWHDZNRwYlKGUDCiAfTR11URkWcA5GKg4cECtUeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAUV5fDUIQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG10WDw9sCFgKSkxMVCxmG1oRVQ8EUl9tCkoWAW04K2tzXVBKXD4dTDlsdRVfTzxXBE19LAtZfCt5AR9qQ1trFWdjJgcEbktOWidNK1gl&cntvendor=3&srcsubj=10488575&type=bkbuy&subject=10488575"
+        },
+        {
+            "name": "中图网",
+            "price": "73.90元",
+            "link": "https://book.douban.com/link2/?lowest=6670&pre=0&vendor=bookschina&srcpage=subject&price=7390&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6654348.htm&cntvendor=3&srcsubj=10488575&type=bkbuy&subject=10488575"
+        }
+    ],
+    "url": "https://book.douban.com/subject/10488575/",
+    "douban_id": "10488575",
+    "menu": [
+        "",
+        "        前言",
+        "        上册",
+        "        第一卷 原道训",
+        "        第二卷 俶真训",
+        "        第三卷 天文训",
+        "        第四卷 地形训",
+        "        第五卷 时则训",
+        "        第六卷 览冥训",
+        "        第七卷 精神训",
+        "        第八卷 本经训",
+        "        第九卷 主术训",
+        "        第十卷 缪称训",
+        "        第十一卷 齐俗训",
+        "        下册",
+        "        第十二卷 道应训",
+        "        第十三卷 汜论训",
+        "        第十四卷 诠言训",
+        "        第十五卷 兵略训",
+        "        第十六卷 说山训",
+        "        第十七卷 说林训",
+        "        第十八卷 人间训",
+        "        第十九卷 修务训",
+        "        第二十卷 泰族训",
+        "        第二十一卷 要略",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s8976314.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘安",
+            "link": "https://book.douban.com/search/%E5%88%98%E5%AE%89"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "陈广忠",
+            "link": "https://book.douban.com/search/%E9%99%88%E5%B9%BF%E5%BF%A0"
+        },
+        {
+            "text": "中华经典名著全本全注全译丛书",
+            "link": "https://book.douban.com/series/4103"
+        }
+    ],
+    "tag": "经典"
+}

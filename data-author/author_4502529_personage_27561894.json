@@ -1,0 +1,157 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "呼吸",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34944849.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37020433/",
+                        "year": "2024",
+                        "id": 37020433
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "百年中篇小说名家经典 ：仿佛",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34896206.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36943567/",
+                        "year": "2024",
+                        "id": 36943567
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "千里江山图",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34613530.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35897992/",
+                        "year": "2022",
+                        "id": 35897992
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "时间玩偶",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34321779.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36096540/",
+                        "year": "2022",
+                        "id": 36096540
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "时光硬币的两面",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33906349.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35200501/",
+                        "year": "2021",
+                        "id": 35200501
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "我是少年酒坛子",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29847255.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30301895/",
+                        "year": "2018",
+                        "id": 30301895
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "百年百部中篇正典：火纸+卷毛+苍老的浮云+访问梦境",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33508581.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30628158/",
+                        "year": "2018",
+                        "id": 30628158
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "萌19(ONE一个杯第19届全国新概念作文大赛获奖作品选全新改版)",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29525427.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27122720/",
+                        "year": "2017",
+                        "id": 27122720
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "信使之函",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28905597.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26838608/",
+                        "year": "2016",
+                        "id": 26838608
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.2,
+                        "title": "甘露六短篇",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33582489.jpg",
+                        "rating_star": 2.5,
+                        "url": "https://book.douban.com/subject/26855369/",
+                        "year": "2016",
+                        "id": 26855369
+                    }
+                }
+            ],
+            "total": 29
+        }
+    },
+    "author_link": "https://book.douban.com/author/4502529/",
+    "author_douban_id": "4502529",
+    "personage_id": 27561894,
+    "name": [
+        "孙甘露",
+        "Ganlu Sun"
+    ],
+    "intro": "孙甘露，一九五九年七月十日出生于中国上海。祖籍山东荣城，父亲是军人，母亲是教师。1977年进入当地邮政局工作，1986年发表成名作《访问梦境》，随后的《我是少年酒坛子》和《信使之函》则使他成为一个典型的“先锋派”。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27561894/photo/2904324596"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2904324596.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/7f4358536bbc6179ae7794c15fee26d5.jpg",
+    "sex": 1,
+    "birth_date": 1959,
+    "age": 67,
+    "birth_place": [
+        "中国",
+        "上海"
+    ],
+    "IMDB": "nm11439622",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

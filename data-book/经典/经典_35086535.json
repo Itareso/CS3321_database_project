@@ -1,0 +1,81 @@
+{
+    "title": "科学的故事",
+    "bookInfo": {
+        "作者": "吴国盛",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "果麦文化",
+        "副标题": "起源篇",
+        "出版年": "2020-7",
+        "页数": "192",
+        "定价": "58",
+        "装帧": "平装",
+        "ISBN": "9787559448446"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.0%",
+        "four_star_rate": "43.2%",
+        "three_star_rate": "16.7%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "58.00元",
+            "link": "https://read.douban.com/ebook/151788615/?dcs=subject-buylink&dcm=douban&dct=35086535"
+        },
+        {
+            "name": "得到",
+            "price": "58.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=2BeEdA94ma8x6VX2zLjQBNq5dKveMw1QKgwJZPAO1lGbpRyYgonDEr97kMoLmlba&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.00元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=jingdong&srcpage=subject&price=2900&pos=3&url=https%3A%2F%2Fitem.jd.com%2F12690899.html&cntvendor=5&srcsubj=35086535&type=bkbuy&subject=35086535"
+        },
+        {
+            "name": "当当网",
+            "price": "55.70元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=dangdang&srcpage=subject&price=5570&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35086535%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28971003&cntvendor=5&srcsubj=35086535&type=bkbuy&subject=35086535"
+        },
+        {
+            "name": "中图网",
+            "price": "35.80元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=bookschina&srcpage=subject&price=3579&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8336425.htm&cntvendor=5&srcsubj=35086535&type=bkbuy&subject=35086535"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35086535/",
+    "douban_id": "35086535",
+    "menu": [
+        "",
+        "        前言",
+        "        希腊城邦文明：科学的诞生地",
+        "        米利都学派：寻求万物的始基",
+        "        毕达哥拉斯及其学派：数即万物",
+        "        柏拉图学园：不懂几何者不得入内",
+        "        亚里士多德的物理学：物性的科学",
+        "        希腊数理天文学：古代科学的范本",
+        "        结语",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33668962.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "吴国盛",
+            "link": "https://book.douban.com/search/%E5%90%B4%E5%9B%BD%E7%9B%9B"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        }
+    ],
+    "tag": "经典"
+}

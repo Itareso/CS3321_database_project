@@ -1,0 +1,242 @@
+{
+    "title": "银河边缘004：多面AI",
+    "bookInfo": {
+        "作者": "杨枫 / [美]迈克·雷斯尼克 编 / 杰克·麦克德维特 / 迈克尔·斯万维克 / 罗伯特·西尔弗伯格 / 埃德·麦克考温 / 维娜·杰敏·普拉萨德 / 刘宇昆 / 宝树 / 海漄 / 格里高利·本福德 / 拉里·尼文 / 乔伊·沃德 / L.斯普拉格·德·坎普 / 格雷戈里·本福德",
+        "出版社": "人民文学出版社",
+        "出品方": "八光分文化",
+        "原作名": "Galaxy‘s Edge",
+        "译者": "华龙 / 乔丽 / 刘文元 / 刘为民 / 刘皖竹 / 刘博洋 / 耿辉 / 罗妍莉",
+        "出版年": "2019-6",
+        "页数": "279",
+        "定价": "43",
+        "装帧": "平装",
+        "丛书": "银河边缘",
+        "ISBN": "9787020151837"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.7%",
+        "four_star_rate": "33.1%",
+        "three_star_rate": "25.0%",
+        "two_star_rate": "5.6%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624627/",
+            "name": "海漄",
+            "role": "作者",
+            "douban_id": "4624627"
+        },
+        {
+            "link": "https://book.douban.com/author/4618914/",
+            "name": "格雷戈里·本福德",
+            "role": "作者",
+            "douban_id": "4618914"
+        },
+        {
+            "link": "https://book.douban.com/author/4615752/",
+            "name": "乔丽",
+            "role": "译者",
+            "douban_id": "4615752"
+        },
+        {
+            "link": "https://book.douban.com/author/4615038/",
+            "name": "刘文元",
+            "role": "译者",
+            "douban_id": "4615038"
+        },
+        {
+            "link": "https://book.douban.com/author/4637138/",
+            "name": "刘皖竹",
+            "role": "译者",
+            "douban_id": "4637138"
+        },
+        {
+            "link": "https://book.douban.com/author/4616902/",
+            "name": "耿辉",
+            "role": "译者",
+            "douban_id": "4616902"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "34.40元",
+            "link": "https://read.douban.com/ebook/156951716/?dcs=subject-buylink&dcm=douban&dct=33436173"
+        },
+        {
+            "name": "得到",
+            "price": "43.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=AnKgjNlArlXVNGKD1yL2Ek6YaogQv0YYyae0bZ4RBn7j589zJpMxmdPeqOYDxqL4&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "32.25元",
+            "link": "https://book.douban.com/link2/?lowest=2580&pre=0&vendor=jingdong&srcpage=subject&price=3225&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwSXgQDXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOVT1UUCx3XGZyEwxrO00BMQZcegMRXjNtdVlxJV9hLwY1cjFVQW5rX1plBxFCWCokcCxjWjpNbzJDBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZeVicCVxEJfw1XATBhIBxJKx8oaFVBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVCEwXC2k4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgQGVV0zVE1BAipdWBl7XQYEVl9YCE0nAW4JGVklbTYDN1cFbytIChUATCVzFgVnDF8vQE1KXwpmGT9tBGV5DDYncglVAgxMGitPbQUy&cntvendor=5&srcsubj=33436173&type=bkbuy&subject=33436173"
+        },
+        {
+            "name": "当当网",
+            "price": "25.80元",
+            "link": "https://book.douban.com/link2/?lowest=2580&pre=0&vendor=dangdang&srcpage=subject&price=2580&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s33436173%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27906293&cntvendor=5&srcsubj=33436173&type=bkbuy&subject=33436173"
+        },
+        {
+            "name": "中图网",
+            "price": "29.00元",
+            "link": "https://book.douban.com/link2/?lowest=2580&pre=0&vendor=bookschina&srcpage=subject&price=2900&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8140235.htm&cntvendor=5&srcsubj=33436173&type=bkbuy&subject=33436173"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33436173/",
+    "douban_id": "33436173",
+    "menu": [
+        "",
+        "        【主编会客厅】",
+        "        那些“愚蠢”的科幻电影   1",
+        "        ／［美］迈克·雷斯尼克  著 华 龙  译",
+        "        【必读经典】",
+        "        未解谜的电波（星云奖提名作品）   11",
+        "        ／［美］杰克·麦克德维特  著 刘文元  乔 丽  译",
+        "        机器的脉搏（雨果奖获奖作品）   31",
+        "        ／［美］迈克尔·斯万维克  著 华 龙  译",
+        "        【特别策划·多面AI】",
+        "        梵蒂冈喜讯（星云奖获奖作品）   55",
+        "        ／［美］罗伯特·西尔弗伯格  著 刘为民  译",
+        "        孤独的我   65",
+        "        ／［美］埃德·麦克考温  著 刘皖竹  译",
+        "        机器人粉丝进阶（星云奖与雨果奖提名作品）   75",
+        "        ／［新加坡］维娜·杰敏·普拉萨德  著 耿 辉  译",
+        "        一封公开信   87",
+        "        ／［美］刘宇昆  著 耿 辉  译",
+        "        【中国新势力】",
+        "        天象祭司 (下)   93",
+        "        ／宝 树",
+        "        血 灾   147",
+        "        ／海 漄",
+        "        【科学家笔记】",
+        "        从伯恩斯泰尔说起：",
+        "        关于巨匠与科技的反思   173",
+        "        ／［美］格里高利·本福德  著 刘博洋  译",
+        "        【异星往事】",
+        "        耀斑时间   179",
+        "        ／［美］拉里·尼文  著 罗妍莉  译",
+        "        【名家访谈】",
+        "        对话梅赛德斯·莱基 & 拉里·狄克森   223",
+        "        ／［美］乔伊·沃德  著 华 龙  译",
+        "        【长篇连载】",
+        "        唯恐黑暗降临 01   233",
+        "        ／［美］L.斯普拉格·德·坎普  著 华 龙  译",
+        "        【幻想书房】",
+        "        《月端》等四部   276",
+        "        ／刘皖竹  译",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33689370.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "杨枫",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E6%9E%AB"
+        },
+        {
+            "text": "[美]迈克·雷斯尼克 编",
+            "link": "https://book.douban.com/search/%E8%BF%88%E5%85%8B%C2%B7%E9%9B%B7%E6%96%AF%E5%B0%BC%E5%85%8B%20%E7%BC%96"
+        },
+        {
+            "text": "杰克·麦克德维特",
+            "link": "https://book.douban.com/search/%E6%9D%B0%E5%85%8B%C2%B7%E9%BA%A6%E5%85%8B%E5%BE%B7%E7%BB%B4%E7%89%B9"
+        },
+        {
+            "text": "迈克尔·斯万维克",
+            "link": "https://book.douban.com/search/%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%96%AF%E4%B8%87%E7%BB%B4%E5%85%8B"
+        },
+        {
+            "text": "罗伯特·西尔弗伯格",
+            "link": "https://book.douban.com/search/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E8%A5%BF%E5%B0%94%E5%BC%97%E4%BC%AF%E6%A0%BC"
+        },
+        {
+            "text": "埃德·麦克考温",
+            "link": "https://book.douban.com/search/%E5%9F%83%E5%BE%B7%C2%B7%E9%BA%A6%E5%85%8B%E8%80%83%E6%B8%A9"
+        },
+        {
+            "text": "维娜·杰敏·普拉萨德",
+            "link": "https://book.douban.com/search/%E7%BB%B4%E5%A8%9C%C2%B7%E6%9D%B0%E6%95%8F%C2%B7%E6%99%AE%E6%8B%89%E8%90%A8%E5%BE%B7"
+        },
+        {
+            "text": "刘宇昆",
+            "link": "https://book.douban.com/search/%E5%88%98%E5%AE%87%E6%98%86"
+        },
+        {
+            "text": "宝树",
+            "link": "https://book.douban.com/search/%E5%AE%9D%E6%A0%91"
+        },
+        {
+            "text": "海漄",
+            "link": "https://book.douban.com/author/4624627"
+        },
+        {
+            "text": "格里高利·本福德",
+            "link": "https://book.douban.com/search/%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9C%AC%E7%A6%8F%E5%BE%B7"
+        },
+        {
+            "text": "拉里·尼文",
+            "link": "https://book.douban.com/search/%E6%8B%89%E9%87%8C%C2%B7%E5%B0%BC%E6%96%87"
+        },
+        {
+            "text": "乔伊·沃德",
+            "link": "https://book.douban.com/search/%E4%B9%94%E4%BC%8A%C2%B7%E6%B2%83%E5%BE%B7"
+        },
+        {
+            "text": "L.斯普拉格·德·坎普",
+            "link": "https://book.douban.com/search/L.%E6%96%AF%E6%99%AE%E6%8B%89%E6%A0%BC%C2%B7%E5%BE%B7%C2%B7%E5%9D%8E%E6%99%AE"
+        },
+        {
+            "text": "格雷戈里·本福德",
+            "link": "https://book.douban.com/author/4618914"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "八光分文化",
+            "link": "https://book.douban.com/producers/115"
+        },
+        {
+            "text": "华龙",
+            "link": "https://book.douban.com/search/%E5%8D%8E%E9%BE%99"
+        },
+        {
+            "text": "乔丽",
+            "link": "https://book.douban.com/author/4615752"
+        },
+        {
+            "text": "刘文元",
+            "link": "https://book.douban.com/author/4615038"
+        },
+        {
+            "text": "刘为民",
+            "link": "https://book.douban.com/search/%E5%88%98%E4%B8%BA%E6%B0%91"
+        },
+        {
+            "text": "刘皖竹",
+            "link": "https://book.douban.com/author/4637138"
+        },
+        {
+            "text": "刘博洋",
+            "link": "https://book.douban.com/search/%E5%88%98%E5%8D%9A%E6%B4%8B"
+        },
+        {
+            "text": "耿辉",
+            "link": "https://book.douban.com/author/4616902"
+        },
+        {
+            "text": "罗妍莉",
+            "link": "https://book.douban.com/author/4615265"
+        },
+        {
+            "text": "银河边缘",
+            "link": "https://book.douban.com/series/43484"
+        }
+    ],
+    "tag": "科幻"
+}

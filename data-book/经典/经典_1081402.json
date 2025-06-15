@@ -1,0 +1,73 @@
+{
+    "title": "经典常谈",
+    "bookInfo": {
+        "作者": "朱自清",
+        "出版社": "北京出版社",
+        "出版年": "2004-1",
+        "页数": "139",
+        "定价": "9.00元",
+        "装帧": "平装",
+        "丛书": "大家小书",
+        "ISBN": "9787200050905"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.5%",
+        "four_star_rate": "47.1%",
+        "three_star_rate": "14.3%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608569/",
+            "name": "朱自清",
+            "role": "作者",
+            "douban_id": "4608569"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.90元",
+            "link": "https://book.douban.com/link2/?lowest=1689&pre=0&vendor=jingdong&srcpage=subject&price=1689&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10026798239693.html&cntvendor=1&srcsubj=1081402&type=bkbuy&subject=1081402"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1081402/",
+    "douban_id": "1081402",
+    "menu": [
+        "",
+        "        序",
+        "        说文解字第一",
+        "        周易第二",
+        "        尚书第三",
+        "        诗经第四",
+        "        三礼第五",
+        "        春秋三传第六（国语附）",
+        "        四书第七",
+        "        战国策第八",
+        "        史记汉书第九",
+        "        诸子第十",
+        "        辞赋第十一",
+        "        诗第十二",
+        "        文第十三",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s1112976.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "朱自清",
+            "link": "https://book.douban.com/author/4608569"
+        },
+        {
+            "text": "北京出版社",
+            "link": "https://book.douban.com/press/2134"
+        },
+        {
+            "text": "大家小书",
+            "link": "https://book.douban.com/series/631"
+        }
+    ],
+    "tag": "经典"
+}

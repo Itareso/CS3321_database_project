@@ -1,0 +1,70 @@
+{
+    "title": "神秘博士：玛莎的故事",
+    "bookInfo": {
+        "作者": "[英] 丹·阿布尼特 等",
+        "出版社": "新星出版社",
+        "出品方": "八光分文化",
+        "副标题": "《神秘博士》新剧集官方小说",
+        "原作名": "Doctor Who: The Story of Martha",
+        "译者": "金雪妮",
+        "出版年": "2018-8",
+        "页数": "268",
+        "定价": "38.00元",
+        "装帧": "平装",
+        "丛书": "《神秘博士》官方小说",
+        "ISBN": "9787513331562"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.2%",
+        "four_star_rate": "44.8%",
+        "three_star_rate": "22.4%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "38.00元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=jingdong&srcpage=subject&price=3800&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13080608.html&cntvendor=3&srcsubj=30262579&type=bkbuy&subject=30262579"
+        },
+        {
+            "name": "当当网",
+            "price": "24.40元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=dangdang&srcpage=subject&price=2440&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30262579%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25325276&cntvendor=3&srcsubj=30262579&type=bkbuy&subject=30262579"
+        },
+        {
+            "name": "中图网",
+            "price": "29.60元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=bookschina&srcpage=subject&price=2960&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7864423.htm&cntvendor=3&srcsubj=30262579&type=bkbuy&subject=30262579"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30262579/",
+    "douban_id": "30262579",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29815633.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 丹·阿布尼特 等",
+            "link": "https://book.douban.com/search/%E4%B8%B9%C2%B7%E9%98%BF%E5%B8%83%E5%B0%BC%E7%89%B9%20%E7%AD%89"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "八光分文化",
+            "link": "https://book.douban.com/producers/115"
+        },
+        {
+            "text": "金雪妮",
+            "link": "https://book.douban.com/search/%E9%87%91%E9%9B%AA%E5%A6%AE"
+        },
+        {
+            "text": "《神秘博士》官方小说",
+            "link": "https://book.douban.com/series/40153"
+        }
+    ],
+    "tag": "科幻"
+}

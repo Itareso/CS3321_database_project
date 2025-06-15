@@ -1,0 +1,65 @@
+{
+    "title": "海星与狮子1",
+    "bookInfo": {
+        "作者": "郭妮",
+        "出版社": "北方妇女儿童出版社",
+        "副标题": "校园角斗士之卷",
+        "出版年": "2011-5",
+        "页数": "280",
+        "定价": "26.80元",
+        "装帧": "精装",
+        "丛书": "海星与狮子",
+        "ISBN": "9787538550061"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.0%",
+        "four_star_rate": "25.9%",
+        "three_star_rate": "25.0%",
+        "two_star_rate": "9.3%",
+        "one_star_rate": "1.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/309800/",
+            "name": "郭妮",
+            "role": "作者",
+            "douban_id": "309800"
+        }
+    ],
+    "shops": [
+        {
+            "name": "中图网",
+            "price": "9.00元",
+            "link": "https://book.douban.com/link2/?lowest=900&pre=0&vendor=bookschina&srcpage=subject&price=900&pos=1&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5143860.htm&cntvendor=1&srcsubj=6313439&type=bkbuy&subject=6313439"
+        }
+    ],
+    "url": "https://book.douban.com/subject/6313439/",
+    "douban_id": "6313439",
+    "menu": [
+        "",
+        "        1. 太子党神马人生 贵妃女浮云再会",
+        "        2. 美男牌太子中计 憨十月肉包打狗",
+        "        3. 熊杏儿引狼入室 姜喜嫔登门讨债",
+        "        4. 韩格格白马告白 明晨雨故人归来",
+        "        5. 父母爱白发齐眉 狮星王峰回路转",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s11137262.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "郭妮",
+            "link": "https://book.douban.com/author/309800"
+        },
+        {
+            "text": "北方妇女儿童出版社",
+            "link": "https://book.douban.com/press/2167"
+        },
+        {
+            "text": "海星与狮子",
+            "link": "https://book.douban.com/series/14896"
+        }
+    ],
+    "tag": "校园"
+}

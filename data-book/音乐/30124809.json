@@ -1,0 +1,65 @@
+{
+    "title": "音乐如何可能？",
+    "bookInfo": {
+        "作者": "[法]弗朗西斯·沃尔夫",
+        "出版社": "生活·读书·新知三联书店",
+        "译者": "白紫阳",
+        "出版年": "2018-8",
+        "页数": "483",
+        "定价": "59.00元",
+        "装帧": "平装",
+        "丛书": "新知文库（新版）",
+        "ISBN": "9787108062345"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.8%",
+        "four_star_rate": "25.7%",
+        "three_star_rate": "35.1%",
+        "two_star_rate": "5.4%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4628616/",
+            "name": "弗朗西斯·沃尔夫",
+            "role": "作者",
+            "douban_id": "4628616"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "43.50元",
+            "link": "https://book.douban.com/link2/?lowest=3820&pre=0&vendor=jingdong&srcpage=subject&price=4350&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olXwYCUl1VDEkVBV8KGV0cXwYCVFtZC3tTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSlxfDkIVA28IHl8WQl9HCANtDSN_QRdNext1FFZHKAFbCk0NQzUBTVcZbQEHU1haAUgQM28MGl8RbTYCVW4cZkwQB28JK1kVXAcHVFZaC0onA2kNGl4dVQQAVVhYAHsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEBGoBG1gQM1oEDgAICxRUbW0JGVkXVA8FZFxcCUkVM184cCxuGwQHEiEObShQdwpKEgZXG0FFMAI_Zklof29_Hh1BG1UEUikOazlPfl8LKw&cntvendor=2&srcsubj=30124809&type=bkbuy&subject=30124809"
+        },
+        {
+            "name": "中图网",
+            "price": "38.20元",
+            "link": "https://book.douban.com/link2/?lowest=3820&pre=0&vendor=bookschina&srcpage=subject&price=3820&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7908873.htm&cntvendor=2&srcsubj=30124809&type=bkbuy&subject=30124809"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30124809/",
+    "douban_id": "30124809",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29878627.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法]弗朗西斯·沃尔夫",
+            "link": "https://book.douban.com/author/4628616"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        },
+        {
+            "text": "白紫阳",
+            "link": "https://book.douban.com/search/%E7%99%BD%E7%B4%AB%E9%98%B3"
+        },
+        {
+            "text": "新知文库（新版）",
+            "link": "https://book.douban.com/series/491"
+        }
+    ],
+    "tag": "音乐"
+}

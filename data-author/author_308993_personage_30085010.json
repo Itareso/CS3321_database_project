@@ -1,0 +1,150 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "每個人都死了",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34781242.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36685138/",
+                        "year": "2024",
+                        "id": 36685138
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "我播種黃金",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34648296.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36566605/",
+                        "year": "2023",
+                        "id": 36566605
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "求劍",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34289887.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35929597/",
+                        "year": "2022",
+                        "id": 35929597
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "声誉",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33821797.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35058696/",
+                        "year": "2021",
+                        "id": 35058696
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "阅读的故事",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33615927.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35005125/",
+                        "year": "2020",
+                        "id": 35005125
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "文字的故事",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33615925.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35015037/",
+                        "year": "2020",
+                        "id": 35015037
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "重读",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33475834.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34438674/",
+                        "year": "2019",
+                        "id": 34438674
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "X的悲剧",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29244902.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26915344/",
+                        "year": "2017",
+                        "id": 26915344
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "眼前",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28423498.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26657573/",
+                        "year": "2016",
+                        "id": 26657573
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "那时没有王，各人任意而行",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29088032.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26367370/",
+                        "year": "2015",
+                        "id": 26367370
+                    }
+                }
+            ],
+            "total": 23
+        }
+    },
+    "author_link": "https://book.douban.com/author/308993/",
+    "author_douban_id": "308993",
+    "personage_id": 30085010,
+    "name": [
+        "唐诺",
+        "Nuo Tang"
+    ],
+    "intro": "\"唐诺,本名谢材俊，一九五八年生于台湾宜兰，毕业于台湾大学历史系。曾与朱天文、朱天心等共组著名文学团体“三三集刊”，后任职出版公司数年。近年专事写作，曾获多种文学奖项，朱天文誉之为“一个谦逊的博学者、聆听者和发想者”。2013年出版散文力作《尽头》，探索极限和人的现实处境，获评《亚洲周刊》年度十大好书与台湾金鼎奖。\"",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/img/author/medium/public/1494932248.73.jpg",
+    "更多中文名": "谢材俊(本名)",
+    "sex": 1,
+    "birth_date": 1958,
+    "age": 68,
+    "profession": [
+        "作者",
+        "译者",
+        "编剧"
+    ]
+}

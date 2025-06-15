@@ -1,0 +1,75 @@
+{
+    "title": "上京",
+    "bookInfo": {
+        "作者": "李唐",
+        "出版社": "中信出版集团",
+        "出品方": "春潮Nov+",
+        "出版年": "2023-1",
+        "页数": "240",
+        "定价": "56.00",
+        "装帧": "平装",
+        "ISBN": "9787521749731"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    【编辑推荐】    ◆  黄锦树、阿乙力荐 /《十月·长篇小说》（2021双月号-6）隆重推荐    ◆  现代主义×民国北京：软弱刺客，逢乱世、被激活、逐新生    1918年，京城。刺客梦生在执行任务期间情感和思想受到冲击，想要换种活法；出身优越的知识分子双寒冰写新小说、关心现实，却决定离国去法兰西；马戏团团长韩老板在各地表演魔术，靠技艺在乱世谋生……大历史背景下个体的悲欢离合和生命向往。    ◆ 《身外之海》作者、十月文学奖得主 李唐 突破之作    ◆  穿越和探索北京城：北京城可能并不只有一座，而是有许多座，它们相互叠加，构成了如今的样貌    李唐是北京人，他从自己居住的劲松地区入手，挖掘这里的前世今生，写出了这部以1918年五四运动前夕为背景的长篇小说《上京》。李唐说：“写作者都知道北京是一个历史时空叠加的城市。北京城可能并不只有一座，而是有许多座，它们相互叠加在一起，构成了如今北京的样貌。”    ◆  将现代和地域结合在一起，兼具创造力和思想性    ◆  精细描绘旧京风物，多角度窥视藏在过去中的未来    还原1918年的北京：旧时建筑旧时行当、各阶层人的衣食住行、新兴报业、社会状态……主人公在京城遇到的人、茶馆里听来的闲话，都反映着彼时各阶层对现实对未来的关注和讨论。    ◆  我已无法忍受将自己当成他人手中刀——刀不需要情感，不需要思想，更不需主张，但我是个人。    ◆  知名设计师操刀整体装帧，巧用“银象沉湖”姿态深入主人公精神的深处。    ------------------------------    【内容简介】    1918年，京城。天下大乱，军阀混战，列强盘踞。供职于“燕社”的职业刺客梦生接到最新任务——上京刺杀日本贵族山内丰成。一向不涉政治的“燕社”这次替谁杀人？出于何种目的？    刺杀目标终日有专人护卫，梦生只得持续跟踪，伺机而动。数月间，一向独来独往，只做他人手中刀的梦生，遇到不少奇人奇事，情感和思想受到冲击。    梦生曾笃信：“每个人都有自己的‘命’，都得走自己的道儿。”上京以来，心中屡屡生疑，试图摆脱刺客命运，挣脱自身的隐秘与软弱。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "14.4%",
+        "four_star_rate": "36.6%",
+        "three_star_rate": "39.5%",
+        "two_star_rate": "7.8%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609475/",
+            "name": "李唐",
+            "role": "作者",
+            "douban_id": "4609475"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "39.20元",
+            "link": "https://read.douban.com/ebook/419327867/?dcs=subject-buylink&dcm=douban&dct=36158449"
+        },
+        {
+            "name": "得到",
+            "price": "39.20元",
+            "link": "https://www.dedao.cn/ebook/detail?id=5lZOKpMGr9mgdOvYa6Ej75XRo1NML3jAZGWk8ZVzb2nqPpDxBeJlK4AyQ8RPQv2z&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "22.40元",
+            "link": "https://book.douban.com/link2/?lowest=2240&pre=0&vendor=jingdong&srcpage=subject&price=2240&pos=3&url=https%3A%2F%2Fitem.jd.com%2F13669275.html&cntvendor=5&srcsubj=36158449&type=bkbuy&subject=36158449"
+        },
+        {
+            "name": "当当网",
+            "price": "36.40元",
+            "link": "https://book.douban.com/link2/?lowest=2240&pre=0&vendor=dangdang&srcpage=subject&price=3640&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36158449%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29504238&cntvendor=5&srcsubj=36158449&type=bkbuy&subject=36158449"
+        },
+        {
+            "name": "中图网",
+            "price": "34.60元",
+            "link": "https://book.douban.com/link2/?lowest=2240&pre=0&vendor=bookschina&srcpage=subject&price=3460&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8988927.htm&cntvendor=5&srcsubj=36158449&type=bkbuy&subject=36158449"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36158449/",
+    "douban_id": "36158449",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34384285.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李唐",
+            "link": "https://book.douban.com/author/4609475"
+        },
+        {
+            "text": "中信出版集团",
+            "link": "https://book.douban.com/press/2908"
+        },
+        {
+            "text": "春潮Nov+",
+            "link": "https://book.douban.com/producers/101"
+        }
+    ],
+    "tag": "中国文学"
+}

@@ -1,0 +1,49 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "玉山丹池",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33844359.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35255465/",
+                        "year": "2021",
+                        "id": 35255465
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "有诗自唐来",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33986835.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35565929/",
+                        "year": "2021",
+                        "id": 35565929
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/4624791/",
+    "author_douban_id": "4624791",
+    "personage_id": 36619068,
+    "name": [
+        "冯乃希",
+        "Naixi Feng"
+    ],
+    "intro": "冯乃希，清华大学人文与社会科学高等研究所助理教授。2012年本科毕业于北京大学考古文博学院，并获社会学双学位，2019年毕业于美国芝加哥大学东亚语言与文明学系，获博士学位。2020年1月-2022年2月在清华大学人文学院从事博士后研究。近期研究兴趣为明清文学史、近现代思想史、民族区域、史学和文化理论等。论文及文章发表于Late Imperial China、Journal of the American Oriental Society、《开放时代》、《文与哲》等国内外权威期刊。有译著《玉山丹池：中国传统游记文学》（上海人民出版社2021年）、《有诗自唐来：唐代诗歌及其有形世界》（上海人民出版社2021年）。现任《区域》执行副主编。目前正在进行英文书稿 Reinventing the Capital: History, Knowledge, and Writings of Beijing from Late Imperial to Modern China 的写作。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/17699fe3ede698922f431cf5143d9911.jpg",
+    "sex": 0,
+    "profession": [
+        "译者"
+    ]
+}

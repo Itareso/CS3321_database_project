@@ -1,0 +1,80 @@
+{
+    "title": "我是月亮",
+    "bookInfo": {
+        "作者": "[日] 青山七惠 著 / [日] 刀根里衣 绘",
+        "出版社": "上海译文出版社",
+        "原作名": "わたし、お月さま",
+        "译者": "彭懿 / 周龙梅",
+        "出版年": "2021-6-1",
+        "页数": "34",
+        "定价": "68.00",
+        "装帧": "精装",
+        "ISBN": "9787532786084"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "44.5%",
+        "four_star_rate": "42.5%",
+        "three_star_rate": "10.6%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4527477/",
+            "name": "青山七惠",
+            "role": "作者",
+            "douban_id": "4527477"
+        },
+        {
+            "link": "https://book.douban.com/author/4618984/",
+            "name": "刀根里衣",
+            "role": "绘者",
+            "douban_id": "4618984"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=4450&pre=0&vendor=jingdong&srcpage=subject&price=4800&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVkUVAEFUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVl9UD0wSHDZNRwYlKXBdEB8mey11dTdoZQJ0VHVmEz1fXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcBUFhUDUsVM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFwWWQJsCFgKSxVIAWlmG1oXVAUGXFltCkoWAW04K2tMHFhAJFsPSiwUUBoJXhhIIHVDVF04VDJ5ASpAbBpoHwRUMzg7UQppZjx_K1gl&cntvendor=3&srcsubj=35468347&type=bkbuy&subject=35468347"
+        },
+        {
+            "name": "当当网",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=4450&pre=0&vendor=dangdang&srcpage=subject&price=4800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35468347%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29246588&cntvendor=3&srcsubj=35468347&type=bkbuy&subject=35468347"
+        },
+        {
+            "name": "中图网",
+            "price": "44.50元",
+            "link": "https://book.douban.com/link2/?lowest=4450&pre=0&vendor=bookschina&srcpage=subject&price=4450&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8607255.htm&cntvendor=3&srcsubj=35468347&type=bkbuy&subject=35468347"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35468347/",
+    "douban_id": "35468347",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33902077.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 青山七惠 著",
+            "link": "https://book.douban.com/search/%E9%9D%92%E5%B1%B1%E4%B8%83%E6%83%A0%20%E8%91%97"
+        },
+        {
+            "text": "[日] 刀根里衣 绘",
+            "link": "https://book.douban.com/search/%E5%88%80%E6%A0%B9%E9%87%8C%E8%A1%A3%20%E7%BB%98"
+        },
+        {
+            "text": "上海译文出版社",
+            "link": "https://book.douban.com/press/2582"
+        },
+        {
+            "text": "彭懿",
+            "link": "https://book.douban.com/search/%E5%BD%AD%E6%87%BF"
+        },
+        {
+            "text": "周龙梅",
+            "link": "https://book.douban.com/search/%E5%91%A8%E9%BE%99%E6%A2%85"
+        }
+    ],
+    "tag": "日本文学"
+}

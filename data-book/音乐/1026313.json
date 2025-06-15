@@ -1,0 +1,44 @@
+{
+    "title": "丰子恺音乐夜谭",
+    "bookInfo": {
+        "作者": "丰子恺",
+        "出版社": "上海人民美术出版社",
+        "出版年": "2004-08",
+        "页数": "209",
+        "定价": "38.00元",
+        "装帧": "平装",
+        "ISBN": "9787532240647"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.4%",
+        "four_star_rate": "44.9%",
+        "three_star_rate": "20.3%",
+        "two_star_rate": "4.3%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502077/",
+            "name": "丰子恺",
+            "role": "作者",
+            "douban_id": "4502077"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1026313/",
+    "douban_id": "1026313",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s1176096.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "丰子恺",
+            "link": "https://book.douban.com/author/4502077/"
+        },
+        {
+            "text": "上海人民美术出版社",
+            "link": "https://book.douban.com/press/2778"
+        }
+    ],
+    "tag": "音乐"
+}

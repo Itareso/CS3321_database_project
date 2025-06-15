@@ -1,0 +1,94 @@
+{
+    "title": "鹅笼记",
+    "bookInfo": {
+        "作者": "杨典",
+        "出版社": "武汉大学出版社",
+        "出品方": "鹿书deerbook",
+        "出版年": "2019-8-1",
+        "页数": "284",
+        "定价": "48",
+        "装帧": "平装",
+        "ISBN": "9787307209404"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ★ 当代小说的异教徒、野生作家杨典的七年心血之作，书写人性之恶，存在之痛。    ★ 《鹅笼记》暗含破古今之执、去中西之界的写作理想，是一部冲决文学樊笼的先锋之作。    ★ 杨典擅写荒诞、离奇而隐秘的故事，是对人生的大悲悯与大愤怒。    ★ 若说真的写作，可能什么都不为，或只为自己 之本色与率性，这部小说便如是。    ◎内容介绍    《鹅笼记》是一部短篇小说集，故事意象繁多，写法异质而独特，古史传奇与意识流叙事并存。既讲述了开明兽、折枝人、宗子国、尺八腿刘叉、太平天国秘史等传奇色彩浓厚的古典故事，也有酋长与文学史、占婆人与刹帝利、捕鲸与鹿子肉这样带有异域色彩的故事，另外，还有一部分是无法归类的，它似乎脱胎于作者的生活经历，记述了他自身“隐秘的体验、含蓄的绝望、不敢或无须告人的恶与寂寞”。最终构成这些故事的东西，不是历史、阅历与任何事件，而是对所有这些经验的记忆、描绘、比喻和阐释。    “杨典是当代少有的通才，知识渊博。他目前只被小众认可，如果能被大众认可，这是时代的一种幸事。”——余世存    “杨典无疑是当代小说的异教徒……人性之恶，存在之痛，小说应该是某种完整的空无，来自阿是穴的阿是般的叫喊。杨典，他心存的不是小说，而是大愤怒，大虚无。” ——诗人徐淳刚    “杨典是具有相当之素养的既传统又现代之文人，更是一位镌刻有八十年代气质的思想者。” ——北大教授陈均    “杨典从不谦虚客套，但也不狂妄自大。他对自己才情的自信，当然让某些人看了刺眼。老实说，他的确傲了些；不过，他说的，都是些真话。我喜欢他这样稍稍让人刺眼的自负。” ——台湾学者薛仁明\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "42.9%",
+        "four_star_rate": "35.7%",
+        "three_star_rate": "18.3%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "1.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609693/",
+            "name": "杨典",
+            "role": "作者",
+            "douban_id": "4609693"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "65.73元",
+            "link": "https://book.douban.com/link2/?lowest=3790&pre=0&vendor=jingdong&srcpage=subject&price=6573&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10066071980089.html&cntvendor=2&srcsubj=34466200&type=bkbuy&subject=34466200"
+        },
+        {
+            "name": "中图网",
+            "price": "37.90元",
+            "link": "https://book.douban.com/link2/?lowest=3790&pre=0&vendor=bookschina&srcpage=subject&price=3790&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8143539.htm&cntvendor=2&srcsubj=34466200&type=bkbuy&subject=34466200"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34466200/",
+    "douban_id": "34466200",
+    "menu": [
+        "",
+        "        鹅笼序",
+        "        官鬼午火",
+        "        森罗殿",
+        "        开明兽",
+        "        刹帝利",
+        "        酋长与文学史",
+        "        狼 烟",
+        "        尺八腿",
+        "        无立足境",
+        "        罗 盘",
+        "        太平天国中的幻影教派",
+        "        狯园折枝",
+        "        朱 厌",
+        "        肉边菜",
+        "        灯火在柴门",
+        "        武装割据时期的植物",
+        "        斩凤凰",
+        "        流 寇",
+        "        剪 径",
+        "        黑 门",
+        "        李元的酷刑",
+        "        沁芳闸",
+        "        斧劈皴",
+        "        纯",
+        "        婆 娘",
+        "        柔和七星",
+        "        雨伞记",
+        "        过海记",
+        "        月 照",
+        "        片 面",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33322810.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "杨典",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E5%85%B8"
+        },
+        {
+            "text": "武汉大学出版社",
+            "link": "https://book.douban.com/press/2436"
+        },
+        {
+            "text": "鹿书deerbook",
+            "link": "https://book.douban.com/producers/156"
+        }
+    ],
+    "tag": "中国文学"
+}

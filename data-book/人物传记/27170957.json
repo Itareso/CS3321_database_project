@@ -1,0 +1,146 @@
+{
+    "title": "解码者",
+    "bookInfo": {
+        "作者": "[英] 德莫特·图灵",
+        "出版社": "中国财政经济出版社",
+        "副标题": "艾伦·图灵传",
+        "原作名": "Prof: Alan Turing Decoded",
+        "译者": "韩阳",
+        "出版年": "2017-9",
+        "页数": "381",
+        "定价": "52.00元",
+        "装帧": "平装",
+        "ISBN": "9787509572337"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.4%",
+        "four_star_rate": "42.6%",
+        "three_star_rate": "20.6%",
+        "two_star_rate": "5.9%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4615070/",
+            "name": "韩阳",
+            "role": "译者",
+            "douban_id": "4615070"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "30.60元",
+            "link": "https://book.douban.com/link2/?lowest=1920&pre=0&vendor=jingdong&srcpage=subject&price=3060&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAc8JK1olXwUGXFxVCkoRB18IGloSWwEFXVZYDUsWC19MRANLAjZbERscSkAJHTRQRA1CCVkdDwtCWhVLHTdNTwcKBENeCVAfUg8bfhpeZ1gQJG9kFj9efipoSDpOQC1XXE13OlwhSB9iZBNxXj1CPEF9Ejg9UVxXDxtxaz5hBH1cI1wLWD9kdCh8cgFNOWVEEig_Uht1Ag9ObBBmKmFYJBcqQEp3YSZoWy9dB2FgHSYbf0l0cQxsZAxhJFBRLS0mSDxuez9zfCcTOE5hIjkCViNFZRNbbwJHSQV1IicpWzxjYCt-ciN8Pl8CECg_azt0WhBIb1lDNH9hKEpefygVYwx8aThKKW9QPSoEexVgXAdQKwsVOGBaTg0ra1UUYzhzazJiCVVkKBhRBHsQBmgOHFIWWjYCUF9ZDHsnA244WjUVXgAFUFhaC3sVA24JHlsdWgUDZF5bDUoSC2gOGVgSXgUyVFZZOJKXtLmqiYKL19OKw25tOEgnM18IGGsWbVhsVQ1bCksUCm1mR11PAUNXEh4zCkoWAW0BHFklXwcDVlxtOHtqdjl0GF5sNGBANV0raTRcVilTbRkUFnNsViIdXD5wfxZNfQx0GnlEMj4EOEgn&cntvendor=3&srcsubj=27170957&type=bkbuy&subject=27170957"
+        },
+        {
+            "name": "当当网",
+            "price": "52.00元",
+            "link": "https://book.douban.com/link2/?lowest=1920&pre=0&vendor=dangdang&srcpage=subject&price=5200&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27170957%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25175864&cntvendor=3&srcsubj=27170957&type=bkbuy&subject=27170957"
+        },
+        {
+            "name": "中图网",
+            "price": "19.20元",
+            "link": "https://book.douban.com/link2/?lowest=1920&pre=0&vendor=bookschina&srcpage=subject&price=1920&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7614129.htm&cntvendor=3&srcsubj=27170957&type=bkbuy&subject=27170957"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27170957/",
+    "douban_id": "27170957",
+    "menu": [
+        "",
+        "        引言 / 1",
+        "        第一章靠不住的先辈 / 5",
+        "        虚惊一场 / 9",
+        "        贫穷的意义 / 14",
+        "        分隔两地的抚育 / 18",
+        "        第二章悲惨的童年 / 21",
+        "        消失的公主 / 23",
+        "        沃德家的日子 / 26",
+        "        快照模板 / 31",
+        "        酒窖里的科学 / 38",
+        "        第三章旅途方向 / 43",
+        "        谢伯恩与三R原则 / 48",
+        "        晚餐后的演讲 / 52",
+        "        行星间的万有引力和一颗超新星 / 60",
+        "        第四章国王学院 / 69",
+        "        莫科姆一家 / 72",
+        "        在船上 / 76",
+        "        德语的主宰 / 83",
+        "        对数学思维积极的贡献 / 88",
+        "        第五章逻辑的机器 / 95",
+        "        邮寄带来的麻烦 / 105",
+        "        秋日离别 / 110",
+        "        镜中奇遇 / 114",
+        "        邱奇和艾伦的论文 / 123",
+        "        第六章教授 / 133",
+        "        怪异的建筑群 / 137",
+        "        波比男孩 / 142",
+        "        教授遇见神父 / 153",
+        "        无情行为 / 158",
+        "        “-1”的平方根 / 161",
+        "        金蛋 / 164",
+        "        封锁之中 / 167",
+        "        第七章窥镜的战争 / 173",
+        "        A.M.图灵博士 / 176",
+        "        窃听者 / 180",
+        "        青蜂侠 / 184",
+        "        教授回国 / 188",
+        "        猎场看守 / 191",
+        "        黛丽拉 / 193",
+        "        “水鱼”的处理 / 200",
+        "        纽曼在布莱切利 / 202",
+        "        男学生和他们的热情 / 205",
+        "        弗兰肯斯坦的城堡 / 209",
+        "        第八章差劲的电脑 / 215",
+        "        ACE / 219",
+        "        机器的进步和人的延迟 / 221",
+        "        设备与思维之战 / 225",
+        "        差劲的电脑 / 229",
+        "        机器人和废铁 / 233",
+        "        从零开始 / 237",
+        "        纽曼先生和冯•诺依曼博士 / 244",
+        "        分裂的原子和被盗的资产 / 248",
+        "        300年之久的求和问题 / 251",
+        "        十四行诗的游戏 / 254",
+        "        宣传 / 259",
+        "        第九章逐渐成形 / 263",
+        "        模式识别 / 272",
+        "        马不是球形对称的 / 279",
+        "        形态发生的计算 / 281",
+        "        第十章正义的机器 / 287",
+        "        窃贼事件 / 289",
+        "        犯罪者的治疗 / 298",
+        "        骑车、化学药品和沙发 / 300",
+        "        司法行政 / 302",
+        "        正交轨线 / 306",
+        "        一则小故事 / 310",
+        "        向治疗让步 / 315",
+        "        Perplication / 321",
+        "        第十一章冥冥之中 / 325",
+        "        令人惊奇的软泥 / 327",
+        "        上帝神圣的哑剧 / 332",
+        "        第三本练习册 / 336",
+        "        无止境的调查 / 344",
+        "        后记解码艾伦•图灵 / 349",
+        "        注释及参考 / 363",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29600658.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 德莫特·图灵",
+            "link": "https://book.douban.com/search/%E5%BE%B7%E8%8E%AB%E7%89%B9%C2%B7%E5%9B%BE%E7%81%B5"
+        },
+        {
+            "text": "中国财政经济出版社",
+            "link": "https://book.douban.com/press/2777"
+        },
+        {
+            "text": "韩阳",
+            "link": "https://book.douban.com/author/4615070"
+        }
+    ],
+    "tag": "人物传记"
+}

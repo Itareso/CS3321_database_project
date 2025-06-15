@@ -1,0 +1,48 @@
+{
+    "title": "我的爸爸在火星",
+    "bookInfo": {
+        "作者": "克丽丝塔•万•多尔查",
+        "出版社": "天津人民美术出版社",
+        "原作名": "Earth to Dad",
+        "出版年": "2019-3",
+        "定价": "46.00元",
+        "装帧": "平装",
+        "ISBN": "9787530590799"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.5%",
+        "four_star_rate": "41.9%",
+        "three_star_rate": "19.4%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "3.2%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "13.34元",
+            "link": "https://book.douban.com/link2/?lowest=1334&pre=0&vendor=jingdong&srcpage=subject&price=1334&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13562406.html&cntvendor=2&srcsubj=32581228&type=bkbuy&subject=32581228"
+        },
+        {
+            "name": "中图网",
+            "price": "22.60元",
+            "link": "https://book.douban.com/link2/?lowest=1334&pre=0&vendor=bookschina&srcpage=subject&price=2260&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8140420.htm&cntvendor=2&srcsubj=32581228&type=bkbuy&subject=32581228"
+        }
+    ],
+    "url": "https://book.douban.com/subject/32581228/",
+    "douban_id": "32581228",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s31471848.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "克丽丝塔•万•多尔查",
+            "link": "https://book.douban.com/search/%E5%85%8B%E4%B8%BD%E4%B8%9D%E5%A1%94%E2%80%A2%E4%B8%87%E2%80%A2%E5%A4%9A%E5%B0%94%E6%9F%A5"
+        },
+        {
+            "text": "天津人民美术出版社",
+            "link": "https://book.douban.com/press/2722"
+        }
+    ],
+    "tag": "科幻"
+}

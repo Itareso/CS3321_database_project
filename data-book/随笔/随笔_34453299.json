@@ -1,0 +1,127 @@
+{
+    "title": "我之谜",
+    "bookInfo": {
+        "作者": "[日]寺山修司",
+        "出版社": "南海出版公司",
+        "原作名": "私という謎",
+        "译者": "张冬梅",
+        "出版年": "2019-9",
+        "页数": "216",
+        "定价": "68.00",
+        "装帧": "精装",
+        "丛书": "电影人",
+        "ISBN": "9787544267922"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.2%",
+        "four_star_rate": "47.4%",
+        "three_star_rate": "16.5%",
+        "two_star_rate": "2.4%",
+        "one_star_rate": "3.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/154375/",
+            "name": "寺山修司",
+            "role": "作者",
+            "douban_id": "154375"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.70元",
+            "link": "https://book.douban.com/link2/?lowest=1970&pre=0&vendor=jingdong&srcpage=subject&price=1970&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13588232.html&cntvendor=3&srcsubj=34453299&type=bkbuy&subject=34453299"
+        },
+        {
+            "name": "当当网",
+            "price": "44.20元",
+            "link": "https://book.douban.com/link2/?lowest=1970&pre=0&vendor=dangdang&srcpage=subject&price=4420&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34453299%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27926534&cntvendor=3&srcsubj=34453299&type=bkbuy&subject=34453299"
+        },
+        {
+            "name": "中图网",
+            "price": "26.80元",
+            "link": "https://book.douban.com/link2/?lowest=1970&pre=0&vendor=bookschina&srcpage=subject&price=2680&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8183880.htm&cntvendor=3&srcsubj=34453299&type=bkbuy&subject=34453299"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34453299/",
+    "douban_id": "34453299",
+    "menu": [
+        "",
+        "        Ⅰ 自传",
+        "        汽笛",
+        "        羊水",
+        "        呕吐",
+        "        圣女",
+        "        空袭",
+        "        玉音放送",
+        "        我爱美国佬",
+        "        西部剧",
+        "        捉迷藏",
+        "        美空云雀",
+        "        我的村庄",
+        "        十七音",
+        "        老鼠的心，是灰色的",
+        "        寂寞的美国人",
+        "        鬼子母亲",
+        "        家庭游戏",
+        "        有时，就像个没有母亲的孩子",
+        "        穿长靴的男人",
+        "        《死者田园祭》手稿",
+        "        Ⅱ巡演演员的记录",
+        "        巡演演员的记录",
+        "        汗毛浓厚的女形",
+        "        马戏表演",
+        "        空气女的时间志",
+        "        童谣",
+        "        修改手相",
+        "        招魂",
+        "        给影子作画",
+        "        伪造的明信片",
+        "        关于书桌的故事",
+        "        女人还是老虎",
+        "        2 分 30 秒的赌博",
+        "        逃亡一代 Keystone",
+        "        寻找马洛的模样",
+        "        啊，蝙蝠伞",
+        "        会游泳的马",
+        "        旅行结束的时候",
+        "        Ⅲ我之谜",
+        "        西班牙启示录—洛尔迦",
+        "        父亲不在—博尔赫斯",
+        "        镜子—达利",
+        "        圣鼠之熵—托马斯·品钦",
+        "        洛克一直在敲门—维斯康蒂",
+        "        圆环状的死胡同—费德里科·费里尼",
+        "        我之谜—雷蒙·鲁塞尔",
+        "        脏器交换说—埃德加·爱伦·坡",
+        "        《猎奇歌》的结构—梦野久作",
+        "        现在，有这样一个男人—《伊势物语》",
+        "        寻找复仇的父亲—塚本邦雄",
+        "        少年侦探团的同学聚会—江户川乱步",
+        "        寺山修司年谱",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33471987.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]寺山修司",
+            "link": "https://book.douban.com/author/154375"
+        },
+        {
+            "text": "南海出版公司",
+            "link": "https://book.douban.com/press/2413"
+        },
+        {
+            "text": "张冬梅",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E5%86%AC%E6%A2%85"
+        },
+        {
+            "text": "电影人",
+            "link": "https://book.douban.com/series/37197"
+        }
+    ],
+    "tag": "随笔"
+}

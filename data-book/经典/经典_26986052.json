@@ -1,0 +1,132 @@
+{
+    "title": "约翰·克利斯朵夫",
+    "bookInfo": {
+        "作者": "[法] 罗曼·罗兰",
+        "出版社": "人民文学出版社",
+        "译者": "傅雷",
+        "出版年": "2018-8",
+        "页数": "1271",
+        "定价": "88.00元",
+        "装帧": "精装",
+        "丛书": "名著名译丛书",
+        "ISBN": "9787020124756"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "75.6%",
+        "four_star_rate": "17.6%",
+        "three_star_rate": "5.4%",
+        "two_star_rate": "0.7%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4504028/",
+            "name": "罗曼·罗兰",
+            "role": "作者",
+            "douban_id": "4504028"
+        },
+        {
+            "link": "https://book.douban.com/author/4505428/",
+            "name": "傅雷",
+            "role": "译者",
+            "douban_id": "4505428"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "44.00元",
+            "link": "https://read.douban.com/bundle/59364037/?dcs=subject-buylink&dcm=douban&dct=26986052"
+        },
+        {
+            "name": "得到",
+            "price": "39.60元",
+            "link": "https://www.dedao.cn/eBook/BpM1nLOerPa1XOp27zqQ8KGR56loVWranA0dLygv94jYmnENDxAMZJBkbNzEblgQ?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "45.76元",
+            "link": "https://book.douban.com/link2/?lowest=4576&pre=0&vendor=jingdong&srcpage=subject&price=4576&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF4WWAAKUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOLywFUjsSBzBzXVNzAg5DPAsLXz4TajJ6dVluJ2RwBwRYaTBFURR6ZwQcKxFCWCokcCJgWhhJbSJxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZKCioGXTZ-cAp9U0FdX2NdHwAkYxFBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVlcDE8WAWw4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgIBVlYzVE1ARiwMRhp7XQcLUltdDUonAW4JGVklbTZ5JgYHeE4TXBROEz1KVUdqAQgKfU9-Xh1mGSBvP3RRDls8cxlFeB10RFJjbQUy&cntvendor=5&srcsubj=26986052&type=bkbuy&subject=26986052"
+        },
+        {
+            "name": "当当网",
+            "price": "88.00元",
+            "link": "https://book.douban.com/link2/?lowest=4576&pre=0&vendor=dangdang&srcpage=subject&price=8800&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26986052%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25339563&cntvendor=5&srcsubj=26986052&type=bkbuy&subject=26986052"
+        },
+        {
+            "name": "中图网",
+            "price": "56.40元",
+            "link": "https://book.douban.com/link2/?lowest=4576&pre=0&vendor=bookschina&srcpage=subject&price=5640&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7900309.htm&cntvendor=5&srcsubj=26986052&type=bkbuy&subject=26986052"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26986052/",
+    "douban_id": "26986052",
+    "menu": [
+        "",
+        "        目录",
+        "        第一册",
+        "        原序",
+        "        卷一·黎明",
+        "        第一部",
+        "        第二部",
+        "        第三部",
+        "        卷二·清晨",
+        "        第一部约翰·米希尔之死",
+        "        第二部奥多",
+        "        第三部弥娜",
+        "        卷三·少年",
+        "        第一部于莱之家",
+        "        第二部萨皮纳",
+        "        第三部阿达",
+        "        第二册",
+        "        卷四·反抗",
+        "        卷四初版序",
+        "        第一部松动的沙土",
+        "        第二部陷落",
+        "        第三部解脱",
+        "        卷五·节场",
+        "        卷五初版序",
+        "        第一部",
+        "        第二部",
+        "        第三册",
+        "        卷六·安多纳德",
+        "        卷七·户内",
+        "        卷七初版序",
+        "        第一部",
+        "        第二部",
+        "        卷八·女朋友们",
+        "        第四册",
+        "        卷九·燃烧的荆棘",
+        "        第一部",
+        "        第二部",
+        "        卷十·复旦",
+        "        卷十初版序",
+        "        第一部",
+        "        第二部",
+        "        第三部",
+        "        第四部",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s35067046.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法] 罗曼·罗兰",
+            "link": "https://book.douban.com/search/%E7%BD%97%E6%9B%BC%C2%B7%E7%BD%97%E5%85%B0"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "傅雷",
+            "link": "https://book.douban.com/search/%E5%82%85%E9%9B%B7"
+        },
+        {
+            "text": "名著名译丛书",
+            "link": "https://book.douban.com/series/22609"
+        }
+    ],
+    "tag": "经典"
+}

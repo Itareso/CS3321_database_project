@@ -1,0 +1,110 @@
+{
+    "title": "苏东坡传",
+    "bookInfo": {
+        "作者": "林语堂",
+        "出版社": "湖南文艺出版社",
+        "出品方": "博集天卷",
+        "原作名": "The Gay Genius",
+        "译者": "张振玉",
+        "出版年": "2016-6",
+        "页数": "368",
+        "定价": "58",
+        "装帧": "精装",
+        "丛书": "林语堂逝世40周年纪念典藏版",
+        "ISBN": "9787540476250"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.7%",
+        "four_star_rate": "43.4%",
+        "three_star_rate": "18.2%",
+        "two_star_rate": "3.5%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502037/",
+            "name": "林语堂",
+            "role": "作者",
+            "douban_id": "4502037"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "17.99元",
+            "link": "https://read.douban.com/ebook/38147889/?dcs=subject-buylink&dcm=douban&dct=26847644"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.00元",
+            "link": "https://book.douban.com/link2/?lowest=2000&pre=0&vendor=jingdong&srcpage=subject&price=2000&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG1MRWQMHV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCXFpZDU4UHDZNRwYlNANDUl0rfVVyahltfBlJJnxiAjkPaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GUlteCE8QM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXQJsCFgHVEITXTBmGVoVXQIEUF9tCkoWAW04K2trOUJRND5faj1hBDNNaD5nLX9lJgVZDB55AQxtfT9MDgBVIhoZdi9MeGdcK1gl&cntvendor=2&srcsubj=26847644&type=bkbuy&subject=26847644"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26847644/",
+    "douban_id": "26847644",
+    "menu": [
+        "",
+        "        原序",
+        "        卷一 童年与青年",
+        "        第一章 文忠公",
+        "        第二章 眉山",
+        "        第三章 童年与青年",
+        "        第四章 应试",
+        "        第五章 父与子",
+        "        卷二 壮年",
+        "        第六章 神、鬼、人",
+        "        第七章 王安石变法",
+        "        第八章 拗相公",
+        "        第九章 人的恶行",
+        "        第十章 两兄弟",
+        "        第十一章 诗人、名妓、高僧",
+        "        第十二章 抗暴诗",
+        "        第十三章 黄楼",
+        "        第十四章 逮捕与审判",
+        "        卷三 老练",
+        "        第十五章 东坡居士",
+        "        第十六章 赤壁赋",
+        "        第十七章 瑜伽与炼丹",
+        "        第十八章 浪迹天涯",
+        "        第十九章 太后恩宠",
+        "        第二十章 国画",
+        "        第二十一章 谦退之道",
+        "        第二十二章 工程与赈灾",
+        "        第二十三章 百姓之友",
+        "        卷四 流放岁月",
+        "        第二十四章 二度迫害",
+        "        第二十五章 岭南流放",
+        "        第二十六章 仙居",
+        "        第二十七章 域外",
+        "        第二十八章 终了",
+        "        附录一 年谱",
+        "        附录二 参考书目及资料来源",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s28942595.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "林语堂",
+            "link": "https://book.douban.com/search/%E6%9E%97%E8%AF%AD%E5%A0%82"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        },
+        {
+            "text": "博集天卷",
+            "link": "https://book.douban.com/producers/20"
+        },
+        {
+            "text": "张振玉",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E6%8C%AF%E7%8E%89"
+        },
+        {
+            "text": "林语堂逝世40周年纪念典藏版",
+            "link": "https://book.douban.com/series/36251"
+        }
+    ],
+    "tag": "人物传记"
+}

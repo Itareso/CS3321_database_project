@@ -1,0 +1,154 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "张居正",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33298645.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34432625/",
+                        "year": "2019",
+                        "id": 34432625
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "大金王朝",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33488537.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34839326/",
+                        "year": "2019",
+                        "id": 34839326
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "行走的歌者（英汉对照）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34085373.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35055865/",
+                        "year": "2019",
+                        "id": 35055865
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "大金王朝·第二卷",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29198528.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26929277/",
+                        "year": "2016",
+                        "id": 26929277
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "大金王朝·卷一",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33544783.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30756132/",
+                        "year": "2016",
+                        "id": 30756132
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "大金王朝（第一卷）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28335010.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26659588/",
+                        "year": "2015",
+                        "id": 26659588
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "文人的情怀",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28052980.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26308394/",
+                        "year": "2015",
+                        "id": 26308394
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "文人的情怀",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34410649.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26357902/",
+                        "year": "2015",
+                        "id": 26357902
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "闲庐序跋集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34409652.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26585304/",
+                        "year": "2015",
+                        "id": 26585304
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "闲庐赋记",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28055478.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26373320/",
+                        "year": "2015",
+                        "id": 26373320
+                    }
+                }
+            ],
+            "total": 58
+        }
+    },
+    "author_link": "https://book.douban.com/author/112478/",
+    "author_douban_id": "112478",
+    "personage_id": 27562594,
+    "name": [
+        "熊召政",
+        "Zhaozheng Xiong"
+    ],
+    "intro": "\"熊召政，著名作家，诗人，现系中国作家协会会员，湖北省作协副主席。参过军，下过乡，22岁起担任英山县文化馆创作辅导干部，1973年，发表第一首长诗《献给祖国的歌》并和他的政治抒情诗《请举起森林一般的手，制止！》一起获得全国首届新诗奖。1999年开始相继出版长篇历史小说《张居正》四卷本，2005年更是凭借《张居正》全票获得茅盾文学奖第一名。2012年9月25日在湖北省文学艺术界联合会第九次代表大会上，当选为湖北省文联主席，现任中国文联全委会委员。\"",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/celebrity/m/public/p1492867055.57.jpg",
+    "sex": 1,
+    "birth_date": 1953,
+    "age": 73,
+    "birth_place": [
+        "中国",
+        "湖北"
+    ],
+    "IMDB": "nm6589124",
+    "profession": [
+        "作者",
+        "编剧",
+        "演员"
+    ]
+}

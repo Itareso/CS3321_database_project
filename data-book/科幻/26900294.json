@@ -1,0 +1,70 @@
+{
+    "title": "红星蓝调",
+    "bookInfo": {
+        "作者": "[加拿大] 罗伯特·索耶",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "Red Planet Blues",
+        "译者": "画龙",
+        "出版年": "2016-11-1",
+        "定价": "30.00元",
+        "装帧": "平装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536484849"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.1%",
+        "four_star_rate": "42.4%",
+        "three_star_rate": "36.4%",
+        "two_star_rate": "4.6%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/444018/",
+            "name": "罗伯特·索耶",
+            "role": "作者",
+            "douban_id": "444018"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "13.99元",
+            "link": "https://read.douban.com/ebook/327618340/?dcs=subject-buylink&dcm=douban&dct=26900294"
+        },
+        {
+            "name": "京东商城",
+            "price": "15.00元",
+            "link": "https://book.douban.com/link2/?lowest=1500&pre=0&vendor=jingdong&srcpage=subject&price=1500&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFoSVAEGXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOVT1UUCx3XGZyEwxrKlMCIyNcehFDQy9UdVlxJV9hLwY1cjFVQW5rXChpBxFCWCokcC5jWm9WbCJDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ1DiomCTF2fgx-HFMPWg9YVy4-UQh3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVAUsfAGc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgYGXQwzVE1BAitKQh97XQYEXVdaDEsnAW4JGVklbTYDN1cFbytIChUATCViCAZ1KV8vUh9XQzNmGT9tBGV5DDYncglVAgxPaCdPbQUy&cntvendor=2&srcsubj=26900294&type=bkbuy&subject=26900294"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26900294/",
+    "douban_id": "26900294",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29152722.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[加拿大] 罗伯特·索耶",
+            "link": "https://book.douban.com/author/444018"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "画龙",
+            "link": "https://book.douban.com/search/%E7%94%BB%E9%BE%99"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

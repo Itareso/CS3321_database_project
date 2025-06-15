@@ -1,0 +1,116 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "怪得和我一样的怪人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34497348.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36035400/",
+                        "year": "2023",
+                        "id": 36035400
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "迷路员",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33951105.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35512889/",
+                        "year": "2021",
+                        "id": 35512889
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "小行星掉在下午",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33531914.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34907855/",
+                        "year": "2019",
+                        "id": 34907855
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "屡次想起的人",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29476163.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27070201/",
+                        "year": "2017",
+                        "id": 27070201
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.2,
+                        "title": "我们从未陌生过",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28289738.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/26599193/",
+                        "year": "2015",
+                        "id": 26599193
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "不拆",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s11291818.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/11026577/",
+                        "year": "2012",
+                        "id": 11026577
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "梦的1/4旅行",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s3740730.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/3686287/",
+                        "year": "2009",
+                        "id": 3686287
+                    }
+                }
+            ],
+            "total": 7
+        }
+    },
+    "author_link": "https://book.douban.com/author/120184/",
+    "author_douban_id": "120184",
+    "personage_id": 30084593,
+    "name": [
+        "沈大成",
+        "Dacheng Shen"
+    ],
+    "intro": "沈大成，作家，文学杂志编辑，在《萌芽》杂志开设有短篇小说专栏“奇怪的人”。著有短篇小说集《屡次想起的人》、《小行星掉在下午》。首届宝珀理想国文学奖决选名单作者。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30084593/photo/2905844820"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2905844820.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/37c34c25bec809487ed39bdff2145ca9.jpg",
+    "sex": 0,
+    "birth_place": [
+        "中国"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

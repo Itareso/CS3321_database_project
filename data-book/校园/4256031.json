@@ -1,0 +1,72 @@
+{
+    "title": "女生寝室4",
+    "bookInfo": {
+        "作者": "沈醉天",
+        "出版社": "广西人民出版社",
+        "出版年": "2010-3",
+        "页数": "282",
+        "定价": "22.00元",
+        "装帧": "平装",
+        "ISBN": "9787219068236"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.7%",
+        "four_star_rate": "23.7%",
+        "three_star_rate": "38.8%",
+        "two_star_rate": "13.0%",
+        "one_star_rate": "3.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/642376/",
+            "name": "沈醉天",
+            "role": "作者",
+            "douban_id": "642376"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.99元",
+            "link": "https://read.douban.com/ebook/475612006/?dcs=subject-buylink&dcm=douban&dct=4256031"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgcLVVpeCk4TBV8IGloWVQ8DUVddC0wQAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmwAEloQVAYBU1leFxJSXzI4ZhBLGm4KDlk4aSkJVDVPHRxvNBxcAlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwIAVFxcOEkXAm4NGFoUWAEyVFhYCU4fA2gJElwTWDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRXF5eAE0UbTMOQQBWBw5bOl1VD08TAmkAK1kUXAQAZG5tcTFAWR9XZ152FkBSEl0uSDB2VwlJbTBvMwRrJhYnexFHAgwPQDhzJENUMG5eOA&cntvendor=2&srcsubj=4256031&type=bkbuy&subject=4256031"
+        }
+    ],
+    "url": "https://book.douban.com/subject/4256031/",
+    "douban_id": "4256031",
+    "menu": [
+        "",
+        "        序幕",
+        "        第一章　恶灵传说",
+        "        第二章　密室凶魂",
+        "        第三章　诡异蛊毒",
+        "        第四章　蒙面女巫",
+        "        第五章　爱情降头",
+        "        第六章　冥火自燃",
+        "        第七章　怨灵巫咒",
+        "        第八章　奇虫异毒",
+        "        第九章　爱恨情仇",
+        "        第十章　完美谋杀",
+        "        第十一章　祭司传人",
+        "        尾声",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s4156510.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "沈醉天",
+            "link": "https://book.douban.com/author/642376/"
+        },
+        {
+            "text": "广西人民出版社",
+            "link": "https://book.douban.com/press/2541"
+        }
+    ],
+    "tag": "校园"
+}

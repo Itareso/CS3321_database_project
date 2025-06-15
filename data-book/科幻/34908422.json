@@ -1,0 +1,76 @@
+{
+    "title": "神圣秘密",
+    "bookInfo": {
+        "作者": "[美]菲利普·迪克",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "VALIS",
+        "译者": "孙加",
+        "出版年": "2019-9",
+        "页数": "393",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536495890"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "49.4%",
+        "four_star_rate": "33.9%",
+        "three_star_rate": "12.0%",
+        "two_star_rate": "3.2%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4567460/",
+            "name": "菲利普·迪克",
+            "role": "作者",
+            "douban_id": "4567460"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFIVXgUBV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOVgE7WjUSdB90f1hWFlhYKFgoSklhYwlJdVlHGmddEww1bzdseG1XSFteWxFCWCokcBhgYDpKb1ltBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ8LytVQzZ-BgxAWwFrHFlrXTk_UC13D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcBVFhUDkgRBmc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCgEAUVwzVE1BAi1eEw17XQYHXFtYC0MnAW4JGVklbTYACzgPdk5gcxNsGBheA1x-UisfCj13ZS5mGQlSPFlFBjY6dDBsATBbGxATbQUy&cntvendor=3&srcsubj=34908422&type=bkbuy&subject=34908422"
+        },
+        {
+            "name": "当当网",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=dangdang&srcpage=subject&price=4200&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34908422%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28518634&cntvendor=3&srcsubj=34908422&type=bkbuy&subject=34908422"
+        },
+        {
+            "name": "中图网",
+            "price": "30.80元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=bookschina&srcpage=subject&price=3080&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8308396.htm&cntvendor=3&srcsubj=34908422&type=bkbuy&subject=34908422"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34908422/",
+    "douban_id": "34908422",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33944082.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]菲利普·迪克",
+            "link": "https://book.douban.com/search/%E8%8F%B2%E5%88%A9%E6%99%AE%C2%B7%E8%BF%AA%E5%85%8B"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "孙加",
+            "link": "https://book.douban.com/search/%E5%AD%99%E5%8A%A0"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

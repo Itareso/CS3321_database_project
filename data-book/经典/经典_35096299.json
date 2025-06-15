@@ -1,0 +1,90 @@
+{
+    "title": "变形记",
+    "bookInfo": {
+        "作者": "[奥地利] 弗朗茨·卡夫卡",
+        "出版社": "浙江人民出版社",
+        "出品方": "磨铁图书",
+        "译者": "姬健梅",
+        "出版年": "2020-11-1",
+        "页数": "168",
+        "定价": "39.80",
+        "装帧": "精装",
+        "丛书": "磨铁看名著",
+        "ISBN": "9787213097553"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "59.5%",
+        "four_star_rate": "34.6%",
+        "three_star_rate": "5.4%",
+        "two_star_rate": "0.4%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4539732/",
+            "name": "弗兰茨·卡夫卡",
+            "role": "作者",
+            "douban_id": "4539732"
+        },
+        {
+            "link": "https://book.douban.com/author/271522/",
+            "name": "姬健梅",
+            "role": "译者",
+            "douban_id": "271522"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "39.80元",
+            "link": "https://read.douban.com/ebook/162229046/?dcs=subject-buylink&dcm=douban&dct=35096299"
+        },
+        {
+            "name": "京东商城",
+            "price": "16.72元",
+            "link": "https://book.douban.com/link2/?lowest=1672&pre=0&vendor=jingdong&srcpage=subject&price=1672&pos=2&url=https%3A%2F%2Fitem.jd.com%2F10022230318332.html&cntvendor=2&srcsubj=35096299&type=bkbuy&subject=35096299"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35096299/",
+    "douban_id": "35096299",
+    "menu": [
+        "",
+        "        变形记",
+        "        001",
+        "        卡夫卡小传",
+        "        083",
+        "        卡夫卡素描",
+        "        101",
+        "        卡夫卡年表",
+        "        149",
+        "        卡夫卡语录",
+        "        157",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33760818.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[奥地利] 弗朗茨·卡夫卡",
+            "link": "https://book.douban.com/author/4539732"
+        },
+        {
+            "text": "浙江人民出版社",
+            "link": "https://book.douban.com/press/2507"
+        },
+        {
+            "text": "磨铁图书",
+            "link": "https://book.douban.com/producers/18"
+        },
+        {
+            "text": "姬健梅",
+            "link": "https://book.douban.com/author/271522"
+        },
+        {
+            "text": "磨铁看名著",
+            "link": "https://book.douban.com/series/49728"
+        }
+    ],
+    "tag": "经典"
+}

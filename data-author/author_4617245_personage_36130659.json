@@ -1,0 +1,85 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "格",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34724706.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36603505/",
+                        "year": "2024",
+                        "id": 36603505
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "白露春分",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34944820.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37013775/",
+                        "year": "2024",
+                        "id": 37013775
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "有人跳舞",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34600892.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36310568/",
+                        "year": "2023",
+                        "id": 36310568
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "晚婚",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33789487.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35275524/",
+                        "year": "2021",
+                        "id": 35275524
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "新婚之夜",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33530781.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34838232/",
+                        "year": "2019",
+                        "id": 34838232
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4617245/",
+    "author_douban_id": "4617245",
+    "personage_id": 36130659,
+    "name": [
+        "辽京",
+        "Jing Liao"
+    ],
+    "intro": "豆瓣阅读作者。80后，北京人，毕业于北京外国语大学。在北非工作两年，先后在网站和杂志做经管类报道记者。作品散见于《北京文学》《青年文学》等。中篇小说《我要告诉我妈妈》获第六届豆瓣阅读征文大赛“一种人生”组特别奖（“最难忘人物”奖），短篇小说《模特》获豆瓣阅读短篇小说写作比赛“中年风暴”组最佳作品奖。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/9c815f357f132ddd285488fdfa2ab43e.jpg",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

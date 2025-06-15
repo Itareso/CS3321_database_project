@@ -1,0 +1,86 @@
+{
+    "title": "温故一九四二",
+    "bookInfo": {
+        "作者": "刘震云",
+        "出版社": "花城出版社",
+        "出品方": "长江新世纪",
+        "出版年": "2022-7",
+        "定价": "52.00元",
+        "装帧": "精装",
+        "丛书": "刘震云作品选（2022版）",
+        "ISBN": "9787536097292"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "59.6%",
+        "four_star_rate": "32.8%",
+        "three_star_rate": "6.3%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4507615/",
+            "name": "刘震云",
+            "role": "作者",
+            "douban_id": "4507615"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "35.00元",
+            "link": "https://read.douban.com/ebook/485272326/?dcs=subject-buylink&dcm=douban&dct=36062392"
+        },
+        {
+            "name": "得到",
+            "price": "35.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=poVrgXBZpKrJvLmo89Q4bD7O1de2aWA1enWYgXGPxBMVzqlRNk5j6yEnAa9E576Q&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "23.40元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=jingdong&srcpage=subject&price=2340&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAdMJK1olXwUGXFxVCkoRB18IGloTWw8KUFdaCE0UA19MRANLAjZbERscSkAJHTRQRA1CCVkdDwtCWhVLHTdNTwcKBENeCVAfUg8bVj90SDt1XE5HKy4kCDtLZWpcYiJROWUKOlwFVjdHVjwIQx5wWVlKLQoBQVxXDxtxaz5hFH1eIic5Wz9OYC58GS9NOWVQEikFUix1AhtObS5lOGFYNBc9UEtkYSZgWy1nB2BgHSYbfil3ZA9STgxhJFBRLT0-VjwVcw1zfCcTOE5hIjkCViNFZRB6Yi9HWGUAPDgpazcSd210ci9MNkJ0JikqayhCQg9xaz9iKXIKIDwqfzxPYCh8GSd2KmV9CCpfcClsY3sKbk8XKDZ3AxkYDzVyZgxJTyROLmEHFiY4fRB3D2M4HF4SWwELV1ltCE8WB2s4K1sUbUdsVF1bD08RBGw4GVsUXAMCXFdUCnsXBWoJGFoXWQMFVF1YOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXQUyV24DZkpECmhcHFxFM1oEAxxVXQgUbW8JHl8RWQIAZFxcCUkVM184TgtpDmZiVRYYdztuAx9UfV5BJH9GMD1VZklPXRNYTggVBUNnUAEVcR9LSl8LKw&cntvendor=5&srcsubj=36062392&type=bkbuy&subject=36062392"
+        },
+        {
+            "name": "当当网",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=dangdang&srcpage=subject&price=2490&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36062392%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29437351&cntvendor=5&srcsubj=36062392&type=bkbuy&subject=36062392"
+        },
+        {
+            "name": "中图网",
+            "price": "30.60元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=bookschina&srcpage=subject&price=3060&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8911281.htm&cntvendor=5&srcsubj=36062392&type=bkbuy&subject=36062392"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36062392/",
+    "douban_id": "36062392",
+    "menu": [
+        "",
+        "        序  不堪回首 天道酬勤  冯小刚",
+        "        小说  温故一九四二",
+        "        电影剧本  一九四二",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34289068.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘震云",
+            "link": "https://book.douban.com/author/4507615"
+        },
+        {
+            "text": "花城出版社",
+            "link": "https://book.douban.com/press/2536"
+        },
+        {
+            "text": "长江新世纪",
+            "link": "https://book.douban.com/producers/105"
+        },
+        {
+            "text": "刘震云作品选（2022版）",
+            "link": "https://book.douban.com/series/62387"
+        }
+    ],
+    "tag": "中国文学"
+}

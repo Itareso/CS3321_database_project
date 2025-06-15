@@ -1,0 +1,100 @@
+{
+    "title": "思考的纹章学",
+    "bookInfo": {
+        "作者": "[日]涩泽龙彦",
+        "出版社": "广西师范大学出版社",
+        "出品方": "新民说",
+        "原作名": "思考の紋章学",
+        "译者": "刘佳宁",
+        "出版年": "2022-1",
+        "页数": "228",
+        "定价": "56.00元",
+        "装帧": "精装",
+        "丛书": "涩泽龙彦集",
+        "ISBN": "9787559843197"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "49.5%",
+        "four_star_rate": "39.7%",
+        "three_star_rate": "8.7%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1988420/",
+            "name": "涩泽龙彦",
+            "role": "作者",
+            "douban_id": "1988420"
+        },
+        {
+            "link": "https://book.douban.com/author/4641191/",
+            "name": "刘佳宁",
+            "role": "译者",
+            "douban_id": "4641191"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.36元",
+            "link": "https://book.douban.com/link2/?lowest=3136&pre=0&vendor=jingdong&srcpage=subject&price=3136&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV8TWA8FVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUFhYAUwWHDZNRwYlKkVmHSoFCwp1HT9sBSBXXQdcDyU8TkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeBl8IHV4UXgcCUFhfD08UM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1kWWAdsCFgKS0kVRmpmG1oQXQUHXVhtCkoWAW04K2tyIgVBKzs2ewJXXBZLTx1cP30DKxk5YRh5ARh-TSRwHgJBHQUGbzRUBWlrK1gl&cntvendor=3&srcsubj=35668574&type=bkbuy&subject=35668574"
+        },
+        {
+            "name": "当当网",
+            "price": "157.40元",
+            "link": "https://book.douban.com/link2/?lowest=3136&pre=0&vendor=dangdang&srcpage=subject&price=15740&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35668574%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29472355&cntvendor=3&srcsubj=35668574&type=bkbuy&subject=35668574"
+        },
+        {
+            "name": "中图网",
+            "price": "36.80元",
+            "link": "https://book.douban.com/link2/?lowest=3136&pre=0&vendor=bookschina&srcpage=subject&price=3679&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8763157.htm&cntvendor=3&srcsubj=35668574&type=bkbuy&subject=35668574"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35668574/",
+    "douban_id": "35668574",
+    "menu": [
+        "",
+        "        洋灯旋转 / 1",
+        "        关于梦 / 19",
+        "        幻鸟谭 / 37",
+        "        姐之力 / 57",
+        "        付丧神 / 77",
+        "        关于时间的悖论 / 95",
+        "        俄德拉代克 / 113",
+        "        Vita Sexualis / 129",
+        "        创造恶魔 / 147",
+        "        金甲虫 / 165",
+        "        环形的枯渴 / 181",
+        "        爱的植物学 / 197",
+        "        后记 / 217",
+        "        文库版后记 / 219",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34047197.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]涩泽龙彦",
+            "link": "https://book.douban.com/search/%E6%B6%A9%E6%B3%BD%E9%BE%99%E5%BD%A6"
+        },
+        {
+            "text": "广西师范大学出版社",
+            "link": "https://book.douban.com/press/2476"
+        },
+        {
+            "text": "新民说",
+            "link": "https://book.douban.com/producers/27"
+        },
+        {
+            "text": "刘佳宁",
+            "link": "https://book.douban.com/author/4641191"
+        },
+        {
+            "text": "涩泽龙彦集",
+            "link": "https://book.douban.com/series/36402"
+        }
+    ],
+    "tag": "随笔"
+}

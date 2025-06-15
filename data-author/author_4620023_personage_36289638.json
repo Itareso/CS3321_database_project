@@ -1,0 +1,69 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "推何演董",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34408360.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36071611/",
+                        "year": "2023",
+                        "id": 36071611
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.5,
+                        "title": "春秋公羊传",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29351302.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/26913494/",
+                        "year": "2022",
+                        "id": 26913494
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "春秋公羊礼疏",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28284320.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26306007/",
+                        "year": "2015",
+                        "id": 26306007
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4620023/",
+    "author_douban_id": "4620023",
+    "personage_id": 36289638,
+    "name": [
+        "黄铭",
+        "Ming Huang"
+    ],
+    "intro": "黄铭，江苏常熟人，中国哲学博士，重庆大学人文社会科学高等研究院讲师。曾就读于复旦大学哲学学院（2003年至2013年），获学士与博士学位。又在同济大学人文学院从事博士后工作（2013年至2015年）。2015年至2016年在中山大学博雅学院访学。研究方向为经学（侧重春秋与礼），汉代思想史。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/d05314114fc53cfdbb51fe7f7aad1c55.jpg",
+    "sex": 1,
+    "birth_date": 1985,
+    "age": 41,
+    "birth_place": [
+        "中国",
+        "江苏",
+        "常熟"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

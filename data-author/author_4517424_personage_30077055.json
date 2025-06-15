@@ -1,0 +1,145 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "无尽与有限",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34956412.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37038075/",
+                        "year": "2024",
+                        "id": 37038075
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "普通婚姻",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33773454.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35217831/",
+                        "year": "2021",
+                        "id": 35217831
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.6,
+                        "title": "幼稚园：你们人类的爱情真难攻破",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33461934.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/34800726/",
+                        "year": "2019",
+                        "id": 34800726
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "郊游",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29652602.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27603589/",
+                        "year": "2018",
+                        "id": 27603589
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "高绩效时间管控:让效率翻倍",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26943373/",
+                        "year": "2016",
+                        "id": 26943373
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.2,
+                        "title": "我们从未陌生过",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28289738.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/26599193/",
+                        "year": "2015",
+                        "id": 26599193
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "当一切在我们周围暗下来",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28285998.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26595964/",
+                        "year": "2015",
+                        "id": 26595964
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "这个世界上的一切都是瘦子的",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27185556.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/25746084/",
+                        "year": "2014",
+                        "id": 25746084
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "爱情是个冷笑话",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s11087797.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/11501855/",
+                        "year": "2012",
+                        "id": 11501855
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "最大的一场大火",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s4660887.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/6002030/",
+                        "year": "2011",
+                        "id": 6002030
+                    }
+                }
+            ],
+            "total": 13
+        }
+    },
+    "author_link": "https://book.douban.com/author/4517424/",
+    "author_douban_id": "4517424",
+    "personage_id": 30077055,
+    "name": [
+        "荞麦",
+        "Mai Qiao"
+    ],
+    "intro": "荞麦，写作者，电影公司策划总监。同时也是自媒体运营者，开有公号“郊游”。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/img/author/medium/public/1514640588.03.jpg",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

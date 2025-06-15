@@ -1,0 +1,145 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "后山开花",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34838458.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36857680/",
+                        "year": "2024",
+                        "id": 36857680
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "无端欢喜",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34951416.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37021417/",
+                        "year": "2024",
+                        "id": 37021417
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "Moonlight Rests on My Left Palm",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33958165.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35547872/",
+                        "year": "2021",
+                        "id": 35547872
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "La Femme sur le toit",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33931102.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35507026/",
+                        "year": "2021",
+                        "id": 35507026
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "我们爱过又忘记",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33576729.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34950796/",
+                        "year": "2020",
+                        "id": 34950796
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "且在人间",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29958602.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30413145/",
+                        "year": "2019",
+                        "id": 30413145
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "摇摇晃晃的人间",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29668045.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27605241/",
+                        "year": "2018",
+                        "id": 27605241
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "無端歡喜",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29874613.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30308830/",
+                        "year": "2018",
+                        "id": 30308830
+                    }
+                }
+            ],
+            "total": 8
+        }
+    },
+    "author_link": "https://book.douban.com/author/202577/",
+    "author_douban_id": "202577",
+    "personage_id": 27560178,
+    "name": [
+        "余秀华",
+        "Xiuhua Yu"
+    ],
+    "intro": "余秀华，1976年生于湖北省钟祥市石牌镇横店村，诗人。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27560178/photo/2872503465",
+        "https://www.douban.com/personage/27560178/photo/2872503461",
+        "https://www.douban.com/personage/27560178/photo/2872503462",
+        "https://www.douban.com/personage/27560178/photo/2872503460",
+        "https://www.douban.com/personage/27560178/photo/2872503619"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2872503465.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2872503461.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2872503462.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2872503460.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2872503619.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/celebrity/m/public/p1479899851.0.jpg",
+    "更多中文名": "暂无",
+    "更多外文名": "暂无",
+    "sex": 0,
+    "birth_date": 1976,
+    "age": 50,
+    "birth_place": [
+        "中国",
+        "湖北",
+        "钟祥"
+    ],
+    "family_member": "余文海(父), 周金香(母), 尹世平(前夫), 余紫桐(子), 余仕勇(弟)",
+    "IMDB": "nm8587438",
+    "profession": [
+        "作者",
+        "演员"
+    ]
+}

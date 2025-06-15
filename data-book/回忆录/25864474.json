@@ -1,0 +1,110 @@
+{
+    "title": "吾家小史",
+    "bookInfo": {
+        "作者": "余秋雨",
+        "出版社": "长江文艺出版社",
+        "原作名": "借我一生、我等不到了",
+        "出版年": "2014-5",
+        "页数": "352",
+        "定价": "38.00元",
+        "装帧": "平装",
+        "丛书": "余秋雨书系",
+        "ISBN": "9787535449429"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "32.5%",
+        "four_star_rate": "41.0%",
+        "three_star_rate": "21.4%",
+        "two_star_rate": "2.6%",
+        "one_star_rate": "2.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502473/",
+            "name": "余秋雨",
+            "role": "作者",
+            "douban_id": "4502473"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.10元",
+            "link": "https://book.douban.com/link2/?lowest=1320&pre=0&vendor=jingdong&srcpage=subject&price=2610&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG14RXg4LU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCUVpeAEIQHDZNRwYlA3EHLRYncjN1AWx_BRgXA00BXAg6eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GXV1UDk8WM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOE1hACARsCFgHVBsWW29mGVoUWg8EU1ltCkoWAW04K2tWFWRBJDcvSSBMaG9TWSx2LQJ9EywNDRJ5ATFJbhMWHlldPzY1SwNxSDt9K1gl&cntvendor=3&srcsubj=25864474&type=bkbuy&subject=25864474"
+        },
+        {
+            "name": "当当网",
+            "price": "49.30元",
+            "link": "https://book.douban.com/link2/?lowest=1320&pre=0&vendor=dangdang&srcpage=subject&price=4930&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25864474%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27866134&cntvendor=3&srcsubj=25864474&type=bkbuy&subject=25864474"
+        },
+        {
+            "name": "中图网",
+            "price": "13.20元",
+            "link": "https://book.douban.com/link2/?lowest=1320&pre=0&vendor=bookschina&srcpage=subject&price=1320&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6539988.htm&cntvendor=3&srcsubj=25864474&type=bkbuy&subject=25864474"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25864474/",
+    "douban_id": "25864474",
+    "menu": [
+        "",
+        "        目录",
+        "        自 序",
+        "        第一章",
+        "        一 秘史朦胧",
+        "        二 秘史渐近",
+        "        三 还债",
+        "        四 墓碑",
+        "        五 朱家小姐",
+        "        六 乡下",
+        "        七 那天下雨",
+        "        八 叔叔二十岁",
+        "        第二章",
+        "        一 无产地主",
+        "        二 妈妈下楼了",
+        "        三 夜晚",
+        "        四 姨妈和表哥",
+        "        五 上海的事",
+        "        六 饥荒",
+        "        第三章",
+        "        一 大民主",
+        "        二 同一个省",
+        "        三 那个冬天",
+        "        四 裸体",
+        "        五 稍稍打开的窗",
+        "        六 老人和老屋",
+        "        第四章",
+        "        一 紫玉楼梯",
+        "        二 齐华",
+        "        三 祖母无名",
+        "        四 在位和退位",
+        "        五 绣花婴儿鞋",
+        "        六 妓女和口红",
+        "        七 逃向海边",
+        "        八 爸爸的秘密",
+        "        九 悬崖守护",
+        "        十 天人对话",
+        "        归 结",
+        "        一 侍母日记",
+        "        二 为妈妈致悼词",
+        "        三 远方的海",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s28040547.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "余秋雨",
+            "link": "https://book.douban.com/author/4502473"
+        },
+        {
+            "text": "长江文艺出版社",
+            "link": "https://book.douban.com/press/2807"
+        },
+        {
+            "text": "余秋雨书系",
+            "link": "https://book.douban.com/series/15469"
+        }
+    ],
+    "tag": "回忆录"
+}

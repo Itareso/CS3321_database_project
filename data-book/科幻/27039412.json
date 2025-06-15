@@ -1,0 +1,81 @@
+{
+    "title": "流吧！我的眼泪",
+    "bookInfo": {
+        "作者": "[美] 菲利普·迪克",
+        "出版社": "译林出版社",
+        "原作名": "Flow My Tears, the Policeman Said",
+        "译者": "陈灼",
+        "出版年": "2017-10",
+        "页数": "330",
+        "定价": "45",
+        "装帧": "精装",
+        "丛书": "译林幻系列",
+        "ISBN": "9787544756563"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    “科幻鬼才”菲利普•迪克成长于西方科技文明创造出的崭新辉煌的时代。彼时，人类进入了太空，登上了月球，成功制造出第一台工业用机器人……科技的蓬勃发展也催生出主流科幻小说对人类创造力的无比自信，克拉克、阿西莫夫和海因莱因撑起了西方科幻的黄金时代。可是，迪克却反其道而行之，他的主人公迷惘于亦真亦假的世界上，挣扎于文明的陷落中，充满了对生命的依恋和对人性的追求。    《流吧！我的眼泪》是菲利普•迪克代表作，坎贝尔奖最佳长篇小说，并获星云奖和雨果奖提名。小说描绘了一种“平行世界”的可能，主人公在原来的世界里是举世瞩目的大明星，在“平行世界”里却默默无闻。他试图找回身份，整部作品都在述说这个“寻找自我”的过程。著名科幻作家星河长文导读。    10月11日，杰森•塔夫纳还是一个拥有三千万粉丝的大明星；10月12日，他却在一家破旅馆里醒来，还被抹去了所有个人资料。在一个缺乏身份证明就是犯罪的国度里，他不得不在混沌中摸索，全力追踪事实真相。    小说描述了一个警察和国民警卫队统治下的社会，内中交织着名人效应、基因改造、时空扭曲和毒品泛滥，探索了爱和人性的本质。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "42.4%",
+        "four_star_rate": "43.7%",
+        "three_star_rate": "12.7%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4567460/",
+            "name": "菲利普·迪克",
+            "role": "作者",
+            "douban_id": "4567460"
+        },
+        {
+            "link": "https://book.douban.com/author/4609888/",
+            "name": "陈灼",
+            "role": "译者",
+            "douban_id": "4609888"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.90元",
+            "link": "https://book.douban.com/link2/?lowest=2290&pre=0&vendor=jingdong&srcpage=subject&price=2290&pos=1&url=https%3A%2F%2Fitem.jd.com%2F35474178423.html&cntvendor=2&srcsubj=27039412&type=bkbuy&subject=27039412"
+        },
+        {
+            "name": "中图网",
+            "price": "30.20元",
+            "link": "https://book.douban.com/link2/?lowest=2290&pre=0&vendor=bookschina&srcpage=subject&price=3020&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7607974.htm&cntvendor=2&srcsubj=27039412&type=bkbuy&subject=27039412"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27039412/",
+    "douban_id": "27039412",
+    "menu": [
+        "",
+        "        第一部",
+        "        第二部",
+        "        第三部",
+        "        第四部",
+        "        流吧！科幻作家的眼泪（星河）",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29563539.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 菲利普·迪克",
+            "link": "https://book.douban.com/author/4567460"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "陈灼",
+            "link": "https://book.douban.com/search/%E9%99%88%E7%81%BC"
+        },
+        {
+            "text": "译林幻系列",
+            "link": "https://book.douban.com/series/54333"
+        }
+    ],
+    "tag": "科幻"
+}

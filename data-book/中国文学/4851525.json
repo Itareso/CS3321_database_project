@@ -1,0 +1,86 @@
+{
+    "title": "李白与杜甫",
+    "bookInfo": {
+        "作者": "郭沫若",
+        "出版社": "中国长安出版社",
+        "出品方": "胡杨文化",
+        "出版年": "2019-10",
+        "页数": "311",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "ISBN": "9787510701795"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    郭沫若封笔之作，晚年心境披露，揭示中国士人人格与仕途圆融之两难。    作者以其卓越的考据功底和敏锐的诗人感受，历数李白与杜甫的身世、婚姻、生活习性、政治活动、宗教倾向和文学创作，以及二人的交往和交游，生动还原了李白、杜甫生活状况及社会背景。    郭沫若的《李白与杜甫》，重点不在评述李杜的诗歌艺术，而是力图透过他们失败的仕途生涯，揭示士人人格与仕途圆融之两难。    作者分析鞭辟入里，道前贤所未能道。旁征博引，纵横自如，语言极富诗意，观点极富创见，妙趣横生，是独具典范价值的汉语学术文本。自问世以来，虽然争议不断，但至今研究李白与杜甫仍不能绕过此书。    著名散文家、学者周国平说：“不管人 们对这部书 的扬李抑杜立场有何不同意见，重读这部书，我仍由衷地钦佩郭老以八十之高龄，在连遭丧子惨祸之后，还能够把一部历史著作写得这样文情并茂，充满活力。”    书中诸多问题的论述极富创见，引人深思。    如：李白究竟是哪里人？    为什么说李白不是胡人？    为什么李白能一生游山玩水却不为生计愁？    为什么说李白既庸俗又洒脱?    为什么说杜甫嗜酒实不亚于李白？    为什么说杜甫信的是禅宗？\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "23.5%",
+        "four_star_rate": "41.0%",
+        "three_star_rate": "29.5%",
+        "two_star_rate": "3.3%",
+        "one_star_rate": "2.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502455/",
+            "name": "郭沫若",
+            "role": "作者",
+            "douban_id": "4502455"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=2140&pre=0&vendor=jingdong&srcpage=subject&price=4800&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12769031.html&cntvendor=2&srcsubj=4851525&type=bkbuy&subject=4851525"
+        },
+        {
+            "name": "中图网",
+            "price": "21.40元",
+            "link": "https://book.douban.com/link2/?lowest=2140&pre=0&vendor=bookschina&srcpage=subject&price=2140&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F4739589.htm&cntvendor=2&srcsubj=4851525&type=bkbuy&subject=4851525"
+        }
+    ],
+    "url": "https://book.douban.com/subject/4851525/",
+    "douban_id": "4851525",
+    "menu": [
+        "",
+        "        一、关于李白",
+        "        李白出生于中亚碎叶",
+        "        李白的家室索隐",
+        "        李白在政治活动中的第一次大失败",
+        "        ——待诏翰林与赐金还山",
+        "        李白在政治活动中的第二次大失败",
+        "        ——安禄山叛变与永王璘东巡",
+        "        李白在长流夜郎前后",
+        "        李白的道教迷信及其觉醒",
+        "        李白与杜甫在诗歌上的交往",
+        "        二、关于杜甫",
+        "        杜甫的阶级意识",
+        "        杜甫的门阀观念",
+        "        杜甫的功名欲望",
+        "        杜甫的地主生活",
+        "        杜甫的宗教信仰",
+        "        杜甫嗜酒终身",
+        "        杜甫与严武",
+        "        杜甫与岑参",
+        "        杜甫与苏涣",
+        "        三、李白杜甫年表",
+        "        附录　《李白与杜甫》是一本怎样的书",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33503124.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "郭沫若",
+            "link": "https://book.douban.com/author/4502455"
+        },
+        {
+            "text": "中国长安出版社",
+            "link": "https://book.douban.com/press/2519"
+        },
+        {
+            "text": "胡杨文化",
+            "link": "https://book.douban.com/producers/124"
+        }
+    ],
+    "tag": "中国文学"
+}

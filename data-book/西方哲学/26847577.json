@@ -1,0 +1,99 @@
+{
+    "title": "休谟",
+    "bookInfo": {
+        "作者": "[英] A.J.艾耶尔（A.J.Ayer）",
+        "出版社": "译林出版社",
+        "原作名": "Hume: A Very Short Introduction",
+        "译者": "张卜天",
+        "出版年": "2016-11",
+        "页数": "256",
+        "定价": "32.00",
+        "装帧": "平装",
+        "丛书": "牛津通识读本",
+        "ISBN": "9787544765466"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "14.2%",
+        "four_star_rate": "36.0%",
+        "three_star_rate": "37.0%",
+        "two_star_rate": "10.9%",
+        "one_star_rate": "2.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609548/",
+            "name": "艾耶尔",
+            "role": "作者",
+            "douban_id": "4609548"
+        },
+        {
+            "link": "https://book.douban.com/author/4608293/",
+            "name": "张卜天",
+            "role": "译者",
+            "douban_id": "4608293"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.99元",
+            "link": "https://read.douban.com/ebook/28292267/?dcs=subject-buylink&dcm=douban&dct=26847577"
+        },
+        {
+            "name": "得到",
+            "price": "19.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=8nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg04kZwJzxbE9LZl1o8RkGd2BPYv4x6d9meB&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.50元",
+            "link": "https://book.douban.com/link2/?lowest=1950&pre=0&vendor=jingdong&srcpage=subject&price=1950&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF8SXwYDXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUFlfCEoeHDZNRwYlAVx7ISgWfh1yVTtITzByPlp_UyQaTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GVlhbDksRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXARsCFgHVEpFWmlmGVoUVA4LU11tCkoWAW04K2sUPg9aMz4CATEfVGhgXgxrCQdSFQ4tDip5AQtwQjhuBW54LhwfCShMSxxSK1gl&cntvendor=5&srcsubj=26847577&type=bkbuy&subject=26847577"
+        },
+        {
+            "name": "当当网",
+            "price": "39.00元",
+            "link": "https://book.douban.com/link2/?lowest=1950&pre=0&vendor=dangdang&srcpage=subject&price=3900&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26847577%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27849635&cntvendor=5&srcsubj=26847577&type=bkbuy&subject=26847577"
+        },
+        {
+            "name": "中图网",
+            "price": "25.20元",
+            "link": "https://book.douban.com/link2/?lowest=1950&pre=0&vendor=bookschina&srcpage=subject&price=2520&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8061848.htm&cntvendor=5&srcsubj=26847577&type=bkbuy&subject=26847577"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26847577/",
+    "douban_id": "26847577",
+    "menu": [
+        "",
+        "        前言",
+        "        第一章　生平与个性",
+        "        第二章　目标与方法",
+        "        第三章　物体与自我",
+        "        第四章　原因与结果",
+        "        第五章　道德、政治与宗教",
+        "        索引",
+        "        英文原文",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29124792.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] A.J.艾耶尔（A.J.Ayer）",
+            "link": "https://book.douban.com/author/4609548"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "张卜天",
+            "link": "https://book.douban.com/author/4608293/"
+        },
+        {
+            "text": "牛津通识读本",
+            "link": "https://book.douban.com/series/721"
+        }
+    ],
+    "tag": "西方哲学"
+}

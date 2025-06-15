@@ -1,0 +1,75 @@
+{
+    "title": "叔本华思想随笔",
+    "bookInfo": {
+        "作者": "[德] 阿图尔·叔本华",
+        "出版社": "上海人民出版社",
+        "译者": "韦启昌",
+        "出版年": "2019-9-1",
+        "页数": "346",
+        "定价": "78.00元",
+        "丛书": "叔本华系列",
+        "ISBN": "9787208157415"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "71.1%",
+        "four_star_rate": "21.9%",
+        "three_star_rate": "4.4%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "1.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1041089/",
+            "name": "阿图尔·叔本华",
+            "role": "作者",
+            "douban_id": "1041089"
+        },
+        {
+            "link": "https://book.douban.com/author/4639475/",
+            "name": "韦启昌",
+            "role": "译者",
+            "douban_id": "4639475"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "68.20元",
+            "link": "https://book.douban.com/link2/?lowest=4390&pre=0&vendor=jingdong&srcpage=subject&price=6820&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHlkRVQ4FUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHVlpVAEwSHDZNRwYlFkJaBgFZDjt0AR1SYz9KH1VgLCMFTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFZVCUkRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFIdWFZsCFgKSgxfBS5mG1oRXwIHUl5tCkoWAW04K2tmIUVEITsITy5vZzxzWixzP0IAChYCWAx5ARp_SydjGwZgMQQHezcQYglbK1gl&cntvendor=3&srcsubj=30466225&type=bkbuy&subject=30466225"
+        },
+        {
+            "name": "当当网",
+            "price": "43.90元",
+            "link": "https://book.douban.com/link2/?lowest=4390&pre=0&vendor=dangdang&srcpage=subject&price=4390&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30466225%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27943682&cntvendor=3&srcsubj=30466225&type=bkbuy&subject=30466225"
+        },
+        {
+            "name": "中图网",
+            "price": "56.40元",
+            "link": "https://book.douban.com/link2/?lowest=4390&pre=0&vendor=bookschina&srcpage=subject&price=5640&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9295044.htm&cntvendor=3&srcsubj=30466225&type=bkbuy&subject=30466225"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30466225/",
+    "douban_id": "30466225",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33625711.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] 阿图尔·叔本华",
+            "link": "https://book.douban.com/author/1041089"
+        },
+        {
+            "text": "上海人民出版社",
+            "link": "https://book.douban.com/press/2733"
+        },
+        {
+            "text": "韦启昌",
+            "link": "https://book.douban.com/author/4639475"
+        },
+        {
+            "text": "叔本华系列",
+            "link": "https://book.douban.com/series/19890"
+        }
+    ],
+    "tag": "随笔"
+}

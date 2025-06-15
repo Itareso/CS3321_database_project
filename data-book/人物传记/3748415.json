@@ -1,0 +1,53 @@
+{
+    "title": "约翰·济慈",
+    "bookInfo": {
+        "作者": "Stephen Hebron 编著",
+        "出版社": "上海外语教育出版社",
+        "出版年": "2009-3",
+        "页数": "122",
+        "定价": "24.00元",
+        "装帧": "平装",
+        "丛书": "英国作家生平丛书",
+        "ISBN": "9787544611367"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.0%",
+        "four_star_rate": "51.9%",
+        "three_star_rate": "11.1%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "17.40元",
+            "link": "https://book.douban.com/link2/?lowest=1739&pre=0&vendor=jingdong&srcpage=subject&price=1739&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGloXXAYGVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYDVVxcCE8VHDZNRwYlNEQETiVHbRx3QjdDGCJoHn18AFgPTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4KVFpZC0wQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFwXWlVsCFgHVkNEC2dmGVoUXg4DVl9tCkoWAW04K2tLC2daND4ZdAoWdmx9ezNiJAViJisNYzF5ASxNSQ1gBUZxFVZVVh1tWTNbK1gl&cntvendor=2&srcsubj=3748415&type=bkbuy&subject=3748415"
+        },
+        {
+            "name": "中图网",
+            "price": "20.20元",
+            "link": "https://book.douban.com/link2/?lowest=1739&pre=0&vendor=bookschina&srcpage=subject&price=2020&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F3904254.htm&cntvendor=2&srcsubj=3748415&type=bkbuy&subject=3748415"
+        }
+    ],
+    "url": "https://book.douban.com/subject/3748415/",
+    "douban_id": "3748415",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s4087199.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "Stephen Hebron 编著",
+            "link": "https://book.douban.com/search/Stephen%20Hebron%20%E7%BC%96%E8%91%97"
+        },
+        {
+            "text": "上海外语教育出版社",
+            "link": "https://book.douban.com/press/2227"
+        },
+        {
+            "text": "英国作家生平丛书",
+            "link": "https://book.douban.com/series/2019"
+        }
+    ],
+    "tag": "人物传记"
+}

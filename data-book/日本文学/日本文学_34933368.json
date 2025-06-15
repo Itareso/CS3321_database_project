@@ -1,0 +1,90 @@
+{
+    "title": "斜阳",
+    "bookInfo": {
+        "作者": "[日]太宰治",
+        "出版社": "江苏凤凰文艺出版社",
+        "译者": "罗越",
+        "出版年": "2020-4",
+        "页数": "200",
+        "定价": "49.80元",
+        "装帧": "精装",
+        "丛书": "太宰治人间三部曲",
+        "ISBN": "9787559444639"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.0%",
+        "four_star_rate": "47.4%",
+        "three_star_rate": "12.3%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4526460/",
+            "name": "太宰治",
+            "role": "作者",
+            "douban_id": "4526460"
+        },
+        {
+            "link": "https://book.douban.com/author/4608525/",
+            "name": "罗越",
+            "role": "译者",
+            "douban_id": "4608525"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.04元",
+            "link": "https://read.douban.com/ebook/134813655/?dcs=subject-buylink&dcm=douban&dct=34933368"
+        },
+        {
+            "name": "得到",
+            "price": "19.04元",
+            "link": "https://www.dedao.cn/ebook/detail?id=vExPL6aYQPjadpoZxR5r6KDkbNJVO0oEKk384GeXyLElm92gnMA1zvB7qMKpBGkj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.70元",
+            "link": "https://book.douban.com/link2/?lowest=1689&pre=0&vendor=jingdong&srcpage=subject&price=2170&pos=3&url=https%3A%2F%2Fitem.jd.com%2F10032982866974.html&cntvendor=4&srcsubj=34933368&type=bkbuy&subject=34933368"
+        },
+        {
+            "name": "中图网",
+            "price": "16.90元",
+            "link": "https://book.douban.com/link2/?lowest=1689&pre=0&vendor=bookschina&srcpage=subject&price=1689&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8281180.htm&cntvendor=4&srcsubj=34933368&type=bkbuy&subject=34933368"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34933368/",
+    "douban_id": "34933368",
+    "menu": [
+        "",
+        "        斜阳",
+        "        樱桃",
+        "        母亲",
+        "        乡愁",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33587550.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]太宰治",
+            "link": "https://book.douban.com/search/%E5%A4%AA%E5%AE%B0%E6%B2%BB"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "罗越",
+            "link": "https://book.douban.com/author/4608525"
+        },
+        {
+            "text": "太宰治人间三部曲",
+            "link": "https://book.douban.com/series/49859"
+        }
+    ],
+    "tag": "日本文学"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "去年天气旧亭台",
+    "bookInfo": {
+        "作者": "叶广芩",
+        "出版社": "北京十月文艺出版社",
+        "出品方": "十月文化",
+        "出版年": "2019-8",
+        "页数": "382",
+        "定价": "49.80元",
+        "装帧": "精装",
+        "丛书": "叶广芩京味小说三部曲",
+        "ISBN": "9787530218778"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "51.6%",
+        "four_star_rate": "40.6%",
+        "three_star_rate": "7.6%",
+        "two_star_rate": "0.1%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4551361/",
+            "name": "叶广芩",
+            "role": "作者",
+            "douban_id": "4551361"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=jingdong&srcpage=subject&price=2490&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwdXAAAVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOJig6Di93QBZAexN9PFNlASQ1QBJuQBVcdVljJEF0Blg6TQNcSB1-EgJVORFCWCokcCxuYAhJbwRlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZdF10hahtPVQ13T1ITPX5wKRhdfilRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYNK1sTWAcBVVxVD0oQCm44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQUGA14zVE1AQTcARwF7XQcGXF9UAU4nAW4JGVklbTZwIjlbbCtUeidoUzN0CGFXLjYVUTJUeTtmGS1sGnBQUjkYQABccRkBQhtxbQUy&cntvendor=3&srcsubj=34802145&type=bkbuy&subject=34802145"
+        },
+        {
+            "name": "当当网",
+            "price": "47.80元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=dangdang&srcpage=subject&price=4780&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34802145%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27923316&cntvendor=3&srcsubj=34802145&type=bkbuy&subject=34802145"
+        },
+        {
+            "name": "中图网",
+            "price": "33.40元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=bookschina&srcpage=subject&price=3340&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8160714.htm&cntvendor=3&srcsubj=34802145&type=bkbuy&subject=34802145"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34802145/",
+    "douban_id": "34802145",
+    "menu": [
+        "",
+        "        太阳宫",
+        "        月亮门",
+        "        鬼子坟",
+        "        后罩楼",
+        "        扶桑馆",
+        "        树德桥",
+        "        唱晚亭",
+        "        黄金台",
+        "        苦雨斋",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33535233.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "叶广芩",
+            "link": "https://book.douban.com/author/4551361"
+        },
+        {
+            "text": "北京十月文艺出版社",
+            "link": "https://book.douban.com/press/2194"
+        },
+        {
+            "text": "十月文化",
+            "link": "https://book.douban.com/producers/38"
+        },
+        {
+            "text": "叶广芩京味小说三部曲",
+            "link": "https://book.douban.com/series/50444"
+        }
+    ],
+    "tag": "中国文学"
+}

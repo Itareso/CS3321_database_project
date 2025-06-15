@@ -1,0 +1,76 @@
+{
+    "title": "迁宿者",
+    "bookInfo": {
+        "作者": "鹳耳",
+        "出版社": "天地出版社",
+        "出品方": "人天兀鲁思",
+        "原作名": "双宿时代",
+        "出版年": "2022-8",
+        "页数": "600",
+        "定价": "88.00元",
+        "装帧": "平装",
+        "丛书": "豆瓣方舟文库·悬疑推理",
+        "ISBN": "9787545570410"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《迁宿者》是一部科幻类长篇小说。小说描绘了一个幻想出来的近未来世界。某日，毫无征兆的情况下，世界上陆续有小部分人成对互换了意识，并且在互换后，同时拥有两具身体的全部记忆。他们被称为“双宿人”。    29岁的华人韦一宸，居住在与中国接壤的某新兴移民城市，是安防司的一名干员。一 天，他接到上级指派的秘密任务——保护一名能判断一个人是否是“双宿人”的鉴证师叶春璟。两人迅速被卷入涉及“双宿人”的矛盾纠纷之中，而影响时代走向的阴谋正在悄然显现。    《迁宿者》融合幻想和悬疑的类型特色，获得了豆瓣阅读长篇拉力赛幻想组冠军，并已售出影视改编权，入选中国电视新文艺群体英才培养项目登攀计划六大IP片单。    .    【编辑推荐】    1.《迁宿者》是一部平行现实世界类的科幻小说，荣获“豆瓣阅读长篇拉力赛”幻想组冠军，评分9.8，得到马伯庸推荐！    2.鹳耳新作，融合幻想和悬疑的类型特色，是一部掀起华语幻想新浪潮，创造电影级阅读快感的小说。    3.小说深入探讨了人性、欲望与灵魂。当灵魂寄宿于陌生的肉体，你是谁？我又是谁？在模糊的自我身份边界中，该如何找寻真正的自我？    4.虚构的幻境，真实的困境，每个人都有各自的虚无要面对。发生巨变的世界里，信任危机与生存困境上演，真情、信任和背叛的含义都将被重新改写。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "30.9%",
+        "four_star_rate": "33.9%",
+        "three_star_rate": "21.7%",
+        "two_star_rate": "9.1%",
+        "one_star_rate": "4.3%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "14.15元",
+            "link": "https://read.douban.com/column/34001578/?dcs=subject-buylink&dcm=douban&dct=35870664"
+        },
+        {
+            "name": "当当网",
+            "price": "44.00元",
+            "link": "https://book.douban.com/link2/?lowest=4400&pre=0&vendor=dangdang&srcpage=subject&price=4400&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35870664%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29452154&cntvendor=3&srcsubj=35870664&type=bkbuy&subject=35870664"
+        },
+        {
+            "name": "中图网",
+            "price": "44.10元",
+            "link": "https://book.douban.com/link2/?lowest=4400&pre=0&vendor=bookschina&srcpage=subject&price=4410&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8940343.htm&cntvendor=3&srcsubj=35870664&type=bkbuy&subject=35870664"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35870664/",
+    "douban_id": "35870664",
+    "menu": [
+        "",
+        "        引子",
+        "        第一章  洪水中聆听",
+        "        第二章  低频率恐慌",
+        "        第三章  坏教育",
+        "        外编",
+        "        第四章  呐喊始于黄昏前",
+        "        第五章  觅火者自辩",
+        "        第六章  坚定的锡兵",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34267577.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "鹳耳",
+            "link": "https://book.douban.com/search/%E9%B9%B3%E8%80%B3"
+        },
+        {
+            "text": "天地出版社",
+            "link": "https://book.douban.com/press/2712"
+        },
+        {
+            "text": "人天兀鲁思",
+            "link": "https://book.douban.com/producers/82"
+        },
+        {
+            "text": "豆瓣方舟文库·悬疑推理",
+            "link": "https://book.douban.com/series/44816"
+        }
+    ],
+    "tag": "科幻"
+}

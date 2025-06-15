@@ -1,0 +1,102 @@
+{
+    "title": "颜氏家训",
+    "bookInfo": {
+        "作者": "颜之推",
+        "出版社": "中华书局",
+        "译者": "檀作文",
+        "出版年": "2023-2-4",
+        "页数": "340",
+        "定价": "21.00元",
+        "装帧": "精装",
+        "丛书": "中华经典名著全本全注全译丛书",
+        "ISBN": "9787101080940"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "40.1%",
+        "four_star_rate": "39.4%",
+        "three_star_rate": "19.6%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4613425/",
+            "name": "檀作文",
+            "role": "译者 / 校注",
+            "douban_id": "4613425"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "12.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=2BeEdA94ma8x6VX2zLjQBNq5dKveMw1rAG0JZPAO1lGbpRyYgonDEr97kMoLmlba&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "18.70元",
+            "link": "https://book.douban.com/link2/?lowest=1720&pre=0&vendor=jingdong&srcpage=subject&price=1870&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG1MSXQUKU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCXFldC0MQHDZNRwYlIVxBFRsKczJ1AxkNTi18WgcHISBDeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcGUl5cAU0SM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCgNsCFgKTRBVASRmG1oTWwYLXVZtCkoWAW04K2scXn4CKzsUcCJ_eSxNeFIWKlpLJxkHUyN5ATVVZFhCXVl7PSsoAUhlBSwIK1gl&cntvendor=3&srcsubj=6879363&type=bkbuy&subject=6879363"
+        },
+        {
+            "name": "中图网",
+            "price": "17.20元",
+            "link": "https://book.douban.com/link2/?lowest=1720&pre=0&vendor=bookschina&srcpage=subject&price=1720&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8062198.htm&cntvendor=3&srcsubj=6879363&type=bkbuy&subject=6879363"
+        }
+    ],
+    "url": "https://book.douban.com/subject/6879363/",
+    "douban_id": "6879363",
+    "menu": [
+        "",
+        "        前言",
+        "        卷一",
+        "        序致第一",
+        "        教子第二",
+        "        兄弟第三",
+        "        后娶第四",
+        "        治家第五",
+        "        卷二",
+        "        风操第六",
+        "        慕贤第七",
+        "        卷三",
+        "        勉学第八",
+        "        卷四",
+        "        文章第九",
+        "        名实第十",
+        "        涉务第十一",
+        "        卷五",
+        "        省事第十二",
+        "        止足第十三",
+        "        诫兵第十四",
+        "        养生第十五",
+        "        归心第十六",
+        "        卷六",
+        "        书证第十七",
+        "        卷七",
+        "        音辞第十八",
+        "        杂艺第十九",
+        "        终制第二十",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s27985158.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "颜之推",
+            "link": "https://book.douban.com/search/%E9%A2%9C%E4%B9%8B%E6%8E%A8"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "檀作文",
+            "link": "https://book.douban.com/search/%E6%AA%80%E4%BD%9C%E6%96%87"
+        },
+        {
+            "text": "中华经典名著全本全注全译丛书",
+            "link": "https://book.douban.com/series/4103"
+        }
+    ],
+    "tag": "中国文学"
+}

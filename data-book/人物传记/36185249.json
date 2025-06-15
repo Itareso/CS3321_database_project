@@ -1,0 +1,100 @@
+{
+    "title": "硅谷钢铁侠",
+    "bookInfo": {
+        "作者": "(美) 阿什利·万斯",
+        "出版社": "中信出版社",
+        "副标题": "埃隆·马斯克创造未来的人（增订版）",
+        "译者": "周恒星",
+        "出版年": "2022-11",
+        "页数": "364",
+        "定价": "79.0",
+        "装帧": "平装",
+        "ISBN": "9787521748567"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    特斯拉CEO Zip2、X.com、PayPal、SpaceX、太阳城的创立者 美国国家工程院院士 爱迪生发明奖、霍金科学传播奖获得者 …… 作为全球广受瞩目的人物，马斯克身上的标签一直在增加，以至于你很难定义他。 从Zip2、X.com、PayPal，到SpaceX、太阳城、特斯拉，马斯克的每一次跨领域创新，都体现了非凡的智慧。他所开创的事业，无论是深度还是广度，都对世界的发展产生了重要的影响。他是美国商业历史上不寻常且引人注目的存在，是当代富有远见的传奇发明家和实业家的混合体。他把自己的精力和巨额财富都奉献给了创造一个像科幻小说中的黄金时代一样丰富而深远的未来。 这本书是全球首部埃隆·马斯克授权的传记。在将近4年的时间里，资深科技记者阿什利·万斯与马斯克有超过40个小时的深度对话，记录了马斯克从南非到国际商业世界的不凡之旅。作者深入特斯拉、SpaceX等公司，亲密接触了马斯克的创业伙伴、员工、家人、朋友300余人，真实地讲述了马斯克在创立、运营他那些足以改变世界的公司时发生的惊人故事，捕捉到现实版“钢铁侠”工作和生活的全貌。也揭示了企业家和创业者如何专注于创业本身、同时管理多领域公司，以及如何在与许多竞争对手交手时不断推进企业创新的步伐。 预测未来最好的方法就是创造它，这正是马斯克一直在做的。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "32.9%",
+        "four_star_rate": "48.2%",
+        "three_star_rate": "15.3%",
+        "two_star_rate": "3.0%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4639077/",
+            "name": "周恒星",
+            "role": "译者",
+            "douban_id": "4639077"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "55.30元",
+            "link": "https://read.douban.com/ebook/420178374/?dcs=subject-buylink&dcm=douban&dct=36185249"
+        },
+        {
+            "name": "得到",
+            "price": "55.30元",
+            "link": "https://www.dedao.cn/ebook/detail?id=vExPL6aYQPjadpoZxR5r6KDkbNJVO0ovzkw84GeXyLElm92gnMA1zvB7qMKpBGkj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "48.20元",
+            "link": "https://book.douban.com/link2/?lowest=4820&pre=0&vendor=jingdong&srcpage=subject&price=4820&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV8TWQUKUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUFhZC0MTHDZNRwYlKl1APAorCkh3SDMKSTJLPm4ANy0oaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4EXVpUCkgfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXQJsCFgHVxJPWGlmGVoWWAMGV1ZtCkoWAW04K2thWHZBK1tYCAAXSClyX1xdFQRgEygiciN5AQ54W15LHl1bHwsIfE50AQlXK1gl&cntvendor=5&srcsubj=36185249&type=bkbuy&subject=36185249"
+        },
+        {
+            "name": "当当网",
+            "price": "59.30元",
+            "link": "https://book.douban.com/link2/?lowest=4820&pre=0&vendor=dangdang&srcpage=subject&price=5930&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36185249%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29489950&cntvendor=5&srcsubj=36185249&type=bkbuy&subject=36185249"
+        },
+        {
+            "name": "中图网",
+            "price": "54.70元",
+            "link": "https://book.douban.com/link2/?lowest=4820&pre=0&vendor=bookschina&srcpage=subject&price=5470&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8974058.htm&cntvendor=5&srcsubj=36185249&type=bkbuy&subject=36185249"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36185249/",
+    "douban_id": "36185249",
+    "menu": [
+        "",
+        "        本书赞誉",
+        "        第一章 马斯克的世界：跨领域创造",
+        "        第二章 出生地非洲：冒险基因的源头",
+        "        第三章 挺进加拿大：追寻太阳的人",
+        "        第四章 第一次创业：征服网络世界",
+        "        第五章 贝宝黑帮大佬：发动国际金融革命",
+        "        第六章 太空召唤：建立 SpaceX 创新大军",
+        "        第七章 全电动汽车：技术前沿特斯拉",
+        "        第八章 痛苦、磨难与新生：钢铁侠的商业版图",
+        "        第九章 腾飞：被颠覆的航天业",
+        "        第十章 电动汽车的复仇：最好的时机",
+        "        第十一章 统一场理论：下一个10年",
+        "        结语",
+        "        附录",
+        "        附录1",
+        "        附录2",
+        "        附录3",
+        "        附录4",
+        "        致谢",
+        "        注释",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34389194.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "(美) 阿什利·万斯",
+            "link": "https://book.douban.com/search/%E9%98%BF%E4%BB%80%E5%88%A9%C2%B7%E4%B8%87%E6%96%AF"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "周恒星",
+            "link": "https://book.douban.com/author/4639077"
+        }
+    ],
+    "tag": "人物传记"
+}

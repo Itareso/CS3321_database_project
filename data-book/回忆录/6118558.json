@@ -1,0 +1,73 @@
+{
+    "title": "柏杨回忆录",
+    "bookInfo": {
+        "作者": "柏杨 (口述) / 周碧瑟",
+        "出版社": "人民文学出版社",
+        "出版年": "2011-2",
+        "页数": "292",
+        "定价": "45.00",
+        "装帧": "平装",
+        "ISBN": "9787020083794"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "46.5%",
+        "four_star_rate": "34.9%",
+        "three_star_rate": "18.6%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4526168/",
+            "name": "柏杨",
+            "role": "作者",
+            "douban_id": "4526168"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.90元",
+            "link": "https://book.douban.com/link2/?lowest=2190&pre=0&vendor=jingdong&srcpage=subject&price=2190&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10030001865432.html&cntvendor=1&srcsubj=6118558&type=bkbuy&subject=6118558"
+        }
+    ],
+    "url": "https://book.douban.com/subject/6118558/",
+    "douban_id": "6118558",
+    "menu": [
+        "",
+        "        序：重飞来时路",
+        "        陪柏杨重走七十五年(代序)",
+        "        1．野生动物",
+        "        2．家庭",
+        "        3．继母",
+        "        4．上小学的日子",
+        "        5．恶师和初中",
+        "        6．背影和呼喊",
+        "        7．逐出学校",
+        "        8．剧毒海洛因",
+        "        9．奇迹——平面几何",
+        "        10．轰轰烈烈的恋爱",
+        "        11．西安事变",
+        "        12．犯上作乱",
+        "        13．蛇山一带红点多",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s4709433.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "柏杨 (口述)",
+            "link": "https://book.douban.com/author/4526168"
+        },
+        {
+            "text": "周碧瑟",
+            "link": "https://book.douban.com/search/%E5%91%A8%E7%A2%A7%E7%91%9F"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        }
+    ],
+    "tag": "回忆录"
+}

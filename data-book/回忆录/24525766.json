@@ -1,0 +1,101 @@
+{
+    "title": "记忆小屋",
+    "bookInfo": {
+        "作者": "[美] 托尼·朱特",
+        "出版社": "商务印书馆",
+        "出品方": "三辉图书",
+        "原作名": "The Memory Chalet",
+        "译者": "何静芝",
+        "出版年": "2013-5",
+        "页数": "172",
+        "定价": "28.00元",
+        "装帧": "平装",
+        "丛书": "托尼·朱特作品",
+        "ISBN": "9787100098632"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "49.0%",
+        "four_star_rate": "40.7%",
+        "three_star_rate": "9.6%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/418271/",
+            "name": "托尼·朱特",
+            "role": "作者",
+            "douban_id": "418271"
+        },
+        {
+            "link": "https://book.douban.com/author/4633252/",
+            "name": "何静芝",
+            "role": "译者",
+            "douban_id": "4633252"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/24525766/",
+    "douban_id": "24525766",
+    "menu": [
+        "",
+        "        序言",
+        "        1记忆小屋",
+        "        2夜",
+        "        第一部分",
+        "        3艰苦年代",
+        "        4食物",
+        "        5汽车",
+        "        6帕特尼",
+        "        7绿线巴士",
+        "        8互仿的欲望",
+        "        9五港总督号",
+        "        第二部分",
+        "        10乔",
+        "        11基布兹",
+        "        12铺床工",
+        "        13巴黎已成明日黄花",
+        "        14革命者",
+        "        15工作",
+        "        16精英",
+        "        17语言文字",
+        "        第三部分",
+        "        18向西去，朱特",
+        "        19中年危机",
+        "        20被禁锢的头脑",
+        "        21女孩，女孩，女孩",
+        "        22纽约，纽约",
+        "        23边缘人",
+        "        24托尼",
+        "        尾声",
+        "        25魔山",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s26376944.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 托尼·朱特",
+            "link": "https://book.douban.com/author/418271"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "三辉图书",
+            "link": "https://book.douban.com/producers/13"
+        },
+        {
+            "text": "何静芝",
+            "link": "https://book.douban.com/author/4633252"
+        },
+        {
+            "text": "托尼·朱特作品",
+            "link": "https://book.douban.com/series/19264"
+        }
+    ],
+    "tag": "回忆录"
+}

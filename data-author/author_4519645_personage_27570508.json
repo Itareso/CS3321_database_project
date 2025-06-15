@@ -1,0 +1,164 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "他们笔下的她们",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34820188.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36829059/",
+                        "year": "2024",
+                        "id": 36829059
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "城南旧事·惠安馆",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34888867.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36930906/",
+                        "year": "2024",
+                        "id": 36930906
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "城南旧事",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35060476.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37020372/",
+                        "year": "2024",
+                        "id": 37020372
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "城南旧事",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37020370/",
+                        "year": "2024",
+                        "id": 37020370
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "城南旧事",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35019063.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37020371/",
+                        "year": "2024",
+                        "id": 37020371
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "城南旧事",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33778643.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30666609/",
+                        "year": "2020",
+                        "id": 30666609
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "两地",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33446818.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34780321/",
+                        "year": "2019",
+                        "id": 34780321
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "慢慢走，总会到的",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33488490.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34839251/",
+                        "year": "2019",
+                        "id": 34839251
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "爸爸",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s32319121.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/33444472/",
+                        "year": "2019",
+                        "id": 33444472
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "城南旧事(拼音版下)",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33877057.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35241910/",
+                        "year": "2019",
+                        "id": 35241910
+                    }
+                }
+            ],
+            "total": 135
+        }
+    },
+    "author_link": "https://book.douban.com/author/4519645/",
+    "author_douban_id": "4519645",
+    "personage_id": 27570508,
+    "name": [
+        "林海音",
+        "Haiyin Lin"
+    ],
+    "intro": "林海音（1918-2001）担任「联副」主编期间（1953-1963），抵抗政治压抑的风气，发掘了林怀民、七等生、黄春明、郑清文、锺理和等新人，创办“纯文学”出版社。林海音家的客厅是“是半个台湾文坛”，文坛尊称她为“林先生”。1960年《城南旧事》出版，写北京城南的童年，奠定了林海音在文学界的传世地位。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27570508/photo/2910342505",
+        "https://www.douban.com/personage/27570508/photo/2910342503",
+        "https://www.douban.com/personage/27570508/photo/2910342502"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2910342505.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2910342503.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2910342502.webp"
+    ],
+    "main_image": "https://img2.doubanio.com/img/author/medium/public/1490366241.11.jpg",
+    "sex": 0,
+    "birth_date": 1918,
+    "death_date": 2001,
+    "age": 84,
+    "birth_place": [
+        "日本",
+        "大阪"
+    ],
+    "IMDB": "nm0510885",
+    "profession": [
+        "作者",
+        "译者",
+        "编者",
+        "编剧"
+    ]
+}

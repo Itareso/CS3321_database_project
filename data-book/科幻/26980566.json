@@ -1,0 +1,76 @@
+{
+    "title": "尼乌尔克3.阿尔法",
+    "bookInfo": {
+        "作者": "[法]奥利维耶•瓦提纳（Olivier Vatine）",
+        "出版社": "世界图书出版公司",
+        "出品方": "世界图书出版公司北京公司",
+        "原作名": "Niourk 3. Alpha",
+        "译者": "卞文佳",
+        "出版年": "2017-6",
+        "页数": "64",
+        "定价": "65.00",
+        "装帧": "精装",
+        "丛书": "尼乌尔克",
+        "ISBN": "9787519224219"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "42.0%",
+        "four_star_rate": "41.0%",
+        "three_star_rate": "15.0%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4617973/",
+            "name": "奥利维耶·瓦提纳",
+            "role": "作者 / 绘者",
+            "douban_id": "4617973"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "32.50元",
+            "link": "https://book.douban.com/link2/?lowest=3250&pre=0&vendor=jingdong&srcpage=subject&price=3250&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFsUWwUEUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOHwwKCDseChloGTNpIV9kCCwVdQllADkBdVlKAUJQC14KUitlcSRaHjxuAhFCWCokcClgcBRKbARxBWJhEhg9ehF3YW58XThwLWJlDgwUfBMXeg1BfxtiFVxgNl81TjwVUTxoaA5CKX9UByoUdxdjXAtYYD1pI1FaFjc6CCMfZSRoQyx2CEN2PSI5cShwXxh8b08XKDZaXSkdfRUTQgwAfRpsPH0BDRsiYzBRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVAUsQBG84G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgQFAwozVE1BAitKSxp7XQYEVlleDEonAW4JGVklbTZJBgldeEIedQ8KcydpBGBeJhYgSjkUVWZmGQRJGVRdVAkHaDllSD0NfCBKbQUy&cntvendor=3&srcsubj=26980566&type=bkbuy&subject=26980566"
+        },
+        {
+            "name": "当当网",
+            "price": "36.60元",
+            "link": "https://book.douban.com/link2/?lowest=3250&pre=0&vendor=dangdang&srcpage=subject&price=3660&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26980566%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25099638&cntvendor=3&srcsubj=26980566&type=bkbuy&subject=26980566"
+        },
+        {
+            "name": "中图网",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=3250&pre=0&vendor=bookschina&srcpage=subject&price=4200&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7526229.htm&cntvendor=3&srcsubj=26980566&type=bkbuy&subject=26980566"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26980566/",
+    "douban_id": "26980566",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29450445.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法]奥利维耶•瓦提纳（Olivier Vatine）",
+            "link": "https://book.douban.com/author/4617973"
+        },
+        {
+            "text": "世界图书出版公司",
+            "link": "https://book.douban.com/press/2675"
+        },
+        {
+            "text": "世界图书出版公司北京公司",
+            "link": "https://book.douban.com/producers/602"
+        },
+        {
+            "text": "卞文佳",
+            "link": "https://book.douban.com/search/%E5%8D%9E%E6%96%87%E4%BD%B3"
+        },
+        {
+            "text": "尼乌尔克",
+            "link": "https://book.douban.com/series/37376"
+        }
+    ],
+    "tag": "科幻"
+}

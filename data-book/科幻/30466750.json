@@ -1,0 +1,86 @@
+{
+    "title": "弗兰肯斯坦",
+    "bookInfo": {
+        "作者": "[英] 玛丽·雪莱",
+        "出版社": "上海文艺出版社",
+        "出品方": "读客文化",
+        "原作名": "Frankenstein",
+        "译者": "周沛郁",
+        "出版年": "2019-3",
+        "页数": "232",
+        "定价": "29.90元",
+        "装帧": "平装",
+        "丛书": "三个圈经典文库",
+        "ISBN": "9787532170067"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ◆一切对科技绑架人类的思考，从《弗兰肯斯坦》开始。    ◆在人类文学史上，《弗兰肯斯坦》是文学对科学的率先反思，它预见了科技对人的极端异化，被公认为世界上首部科幻小说。    ◆入选BBC“5部影响历史的小说”；入选BBC“ 100本经典”，排名超过《百年孤独》。    ◆出版200周年纪念版；全新无删节译本；收录玛丽·雪莱手稿；收录1818首版封面。    ◆一位疯狂的科学家，一个疯狂实验诞生的怪物，一场疯狂的报复与追杀……科技与人类的角逐终于开始！    ◆《弗兰肯斯坦》作为一部具有划时代意义的小说，率先反思了科技对世界所产生的影响。——詹姆斯·冈恩（美国科幻评论家，1983年雨果奖获得者）    ◆《弗兰肯斯坦》的真正魅力和力量在于其中超越时代的预见性思考。——安德鲁·桑德斯（著有《牛津简明英国文学史》）    ◆这个故事中的怪物形象过去从未出现过。——珀西·比希·雪莱（英国著名诗人，代表作《西风颂》）\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "27.4%",
+        "four_star_rate": "46.2%",
+        "three_star_rate": "24.5%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/161677/",
+            "name": "玛丽·雪莱",
+            "role": "作者",
+            "douban_id": "161677"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "15.99元",
+            "link": "https://read.douban.com/ebook/110707379/?dcs=subject-buylink&dcm=douban&dct=30466750"
+        },
+        {
+            "name": "得到",
+            "price": "29.90元",
+            "link": "https://www.dedao.cn/ebook/detail?id=pqvNQ1KRJa7EmgG8MPKrzykNVbDpBWZjMaWQA1xO54nlvZq296YodejLXVJE5eAd&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "13.46元",
+            "link": "https://book.douban.com/link2/?lowest=1240&pre=0&vendor=jingdong&srcpage=subject&price=1346&pos=3&url=https%3A%2F%2Fitem.jd.com%2F12661837.html&cntvendor=5&srcsubj=30466750&type=bkbuy&subject=30466750"
+        },
+        {
+            "name": "当当网",
+            "price": "29.90元",
+            "link": "https://book.douban.com/link2/?lowest=1240&pre=0&vendor=dangdang&srcpage=subject&price=2990&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30466750%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D26910854&cntvendor=5&srcsubj=30466750&type=bkbuy&subject=30466750"
+        },
+        {
+            "name": "中图网",
+            "price": "12.40元",
+            "link": "https://book.douban.com/link2/?lowest=1240&pre=0&vendor=bookschina&srcpage=subject&price=1240&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8036808.htm&cntvendor=5&srcsubj=30466750&type=bkbuy&subject=30466750"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30466750/",
+    "douban_id": "30466750",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s32293796.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 玛丽·雪莱",
+            "link": "https://book.douban.com/author/161677"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        },
+        {
+            "text": "读客文化",
+            "link": "https://book.douban.com/producers/6"
+        },
+        {
+            "text": "周沛郁",
+            "link": "https://book.douban.com/search/%E5%91%A8%E6%B2%9B%E9%83%81"
+        },
+        {
+            "text": "三个圈经典文库",
+            "link": "https://book.douban.com/series/41603"
+        }
+    ],
+    "tag": "科幻"
+}

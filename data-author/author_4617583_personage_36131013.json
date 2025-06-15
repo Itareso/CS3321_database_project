@@ -1,0 +1,134 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "次要人物",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34965310.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37052490/",
+                        "year": "2024",
+                        "id": 37052490
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "漫游的辩证法",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34936075.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36799718/",
+                        "year": "2024",
+                        "id": 36799718
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "聖誕禮物",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35067827.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37214639/",
+                        "year": "2024",
+                        "id": 37214639
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "牛仔很忙",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34836183.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36854003/",
+                        "year": "2024",
+                        "id": 36854003
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "卷心菜与国王",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34468603.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36310676/",
+                        "year": "2023",
+                        "id": 36310676
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "从始至终",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34312679.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36028352/",
+                        "year": "2022",
+                        "id": 36028352
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "山魈考残编",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34043729.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35662837/",
+                        "year": "2021",
+                        "id": 35662837
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "纸上行舟",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33499923.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34820409/",
+                        "year": "2019",
+                        "id": 34820409
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "东西谣曲",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29784194.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/27601155/",
+                        "year": "2018",
+                        "id": 27601155
+                    }
+                }
+            ],
+            "total": 9
+        }
+    },
+    "author_link": "https://book.douban.com/author/4617583/",
+    "author_douban_id": "4617583",
+    "personage_id": 36131013,
+    "name": [
+        "黎幺",
+        "Yao Li"
+    ],
+    "intro": "黎幺，小说写作者、文本实践者。现居南方。著有小说集《纸上行舟》，译作有《东西谣曲：吉卜林诗选》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/2c931d5fda3e3183264e22870fc76438.jpg",
+    "sex": 1,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

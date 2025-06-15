@@ -1,0 +1,62 @@
+{
+    "title": "海边",
+    "bookInfo": {
+        "作者": "[英] 阿卜杜勒拉扎克·古尔纳",
+        "出版社": "上海译文出版社",
+        "原作名": "By the Sea",
+        "译者": "黄协安",
+        "出版年": "2022-9",
+        "页数": "304",
+        "定价": "78.00元",
+        "装帧": "精装",
+        "丛书": "古尔纳作品",
+        "ISBN": "9787532790906"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ★ 2021年诺贝尔文学奖获奖作家古尔纳代表作    ★ 入围2001年布克奖长名单和《洛杉矶时报》图书奖短名单    ★ 两颗孤独冰冷的心 两个无助绝望的异乡人 在海边小镇完成自己的血泪救赎    ★ 特别收录古尔纳获奖演说未删节全译，一睹跨越两个大陆、多种文明交融下的成长与写作之秘密    《海边》是2021年诺奖作家古尔纳的代表作之一，小说讲述了20世纪末从桑给巴尔来到英国寻求政治避难的中年人萨利赫·奥马尔的遭遇。抵达英国后，奥马尔被安排暂住在一个海边小镇，由于入境时使用了昔日家乡仇敌赖哲卜·舍尔邦的名字，其子拉蒂夫找上门来，由此引出了两家人的恩怨情仇。一同身处饱受敌视的异国他乡，奥马尔和拉蒂夫渐渐敞开心扉，真相终于浮出水面……    小说采用倒叙、插叙等方式交代了主人公奥马尔背井离乡的原因，由此引出种种记忆，小到家族恩怨，大到桑给巴尔的殖民独立史。叙述角度的不断变化，回忆与遗忘相互交叠，形成了古尔纳独特的叙事艺术。《海边》展现了古尔纳对难民处境的深切关注，尤其是对于身处不同文化夹缝中的难民。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "30.8%",
+        "four_star_rate": "52.3%",
+        "three_star_rate": "15.1%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611588/",
+            "name": "阿卜杜勒拉扎克·古尔纳",
+            "role": "作者",
+            "douban_id": "4611588"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "49.99元",
+            "link": "https://read.douban.com/ebook/405881785/?dcs=subject-buylink&dcm=douban&dct=36000961"
+        },
+        {
+            "name": "得到",
+            "price": "77.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=pqvNQ1KRJa7EmgG8MPKrzykNVbDpBWZkkn3QA1xO54nlvZq296YodejLXVJE5eAd&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "54.60元",
+            "link": "https://book.douban.com/link2/?lowest=5090&pre=0&vendor=jingdong&srcpage=subject&price=5460&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVkWWAUBVG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUFgtCBByWwhqQzJvFmFpPFsUeipcfBt6dVlOBw4EB14DCClgdGsOZD5FKBFCWCokdCtgWhhKb1lhBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZEKBYYWiMQfw12WyBOC3BkESBfWg5nD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFlZAEwWAGk4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA4DXQwzVE1AXWpfGwt7XQcCU1heAEInAW4JGVklbTYGUi5dUy5PZA1QciFeOm1qURcvaQBodx1mGQBPVQBRVABdajxgB2l3fgtgbQUy&cntvendor=5&srcsubj=36000961&type=bkbuy&subject=36000961"
+        },
+        {
+            "name": "当当网",
+            "price": "73.90元",
+            "link": "https://book.douban.com/link2/?lowest=5090&pre=0&vendor=dangdang&srcpage=subject&price=7390&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36000961%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29443873&cntvendor=5&srcsubj=36000961&type=bkbuy&subject=36000961"
+        },
+        {
+            "name": "中图网",
+            "price": "50.90元",
+            "link": "https://book.douban.com/link2/?lowest=5090&pre=0&vendor=bookschina&srcpage=subject&price=5090&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8934683.htm&cntvendor=5&srcsubj=36000961&type=bkbuy&subject=36000961"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36000961/",
+    "douban_id": "36000961",
+    "menu": [],
+    "tag": "小说"
+}

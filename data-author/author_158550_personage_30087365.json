@@ -1,0 +1,155 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "雪山大地",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34675550.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36547745/",
+                        "year": "2023",
+                        "id": 36547745
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "无岸的海",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34671824.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36606993/",
+                        "year": "2023",
+                        "id": 36606993
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "三江源的扎西德勒",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34160090.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35799099/",
+                        "year": "2022",
+                        "id": 35799099
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "伏藏（上、下册）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34224824.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35315723/",
+                        "year": "2021",
+                        "id": 35315723
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "最后的农民工",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33925562.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35501076/",
+                        "year": "2021",
+                        "id": 35501076
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "藏獒",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33487117.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34825922/",
+                        "year": "2019",
+                        "id": 34825922
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "无岸的海",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29972183.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30426440/",
+                        "year": "2018",
+                        "id": 30426440
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "巴颜喀拉山的孩子",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29968409.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30422417/",
+                        "year": "2018",
+                        "id": 30422417
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "海底隧道",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29257769.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26947377/",
+                        "year": "2017",
+                        "id": 26947377
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "最后的獒王",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28280956.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/21318750/",
+                        "year": "2013",
+                        "id": 21318750
+                    }
+                }
+            ],
+            "total": 48
+        }
+    },
+    "author_link": "https://book.douban.com/author/158550/",
+    "author_douban_id": "158550",
+    "personage_id": 30087365,
+    "name": [
+        "杨志军",
+        "Zhijun Yang"
+    ],
+    "intro": "杨志军，1955年5月出生于青海西宁，祖籍河南孟津，现定居青岛。着有长篇小说《环湖崩溃》、《海昨天退去》、《大悲原》、《失去男根的亚当》。作品曾被翻译成多种文字，在国外出版。2008年，杨志军以160万元的版税收入，荣登“2008第三届中国作家富豪榜”第19位，引起广泛关注。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/celebrity/m/public/p1513157470.2.jpg",
+    "sex": 1,
+    "birth_date": 1955,
+    "age": 71,
+    "birth_place": [
+        "中国",
+        "青海",
+        "西宁"
+    ],
+    "IMDB": "nm6744412",
+    "profession": [
+        "作者",
+        "译者",
+        "编剧"
+    ]
+}

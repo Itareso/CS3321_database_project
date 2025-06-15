@@ -1,0 +1,61 @@
+{
+    "title": "攀登者",
+    "bookInfo": {
+        "作者": "阿来",
+        "出版社": "人民文学出版社",
+        "出品方": "99读书人",
+        "原作名": "The Climber",
+        "出版年": "2019-10",
+        "页数": "172",
+        "定价": "39.80元",
+        "装帧": "平装",
+        "ISBN": "9787020156467"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "13.6%",
+        "four_star_rate": "22.5%",
+        "three_star_rate": "49.3%",
+        "two_star_rate": "11.3%",
+        "one_star_rate": "3.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/110104/",
+            "name": "阿来",
+            "role": "作者",
+            "douban_id": "110104"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "10.80元",
+            "link": "https://book.douban.com/link2/?lowest=1080&pre=0&vendor=jingdong&srcpage=subject&price=1080&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwQCVl9aAEseCl8IGloTWQMKXFhYCE0eA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkMHlMdWwMCUlddFxJSXzI4TwJKXFEHPx84DB9xaDNeYjBAGGB4ElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXXgAKU1heOEkXAm4NG1MSXgcyVFhYCUgWBGoLGlkRWjYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRU1gPDRkUbTMOTB5dFl1EOl5cAEwWBW4AK1kUXAQAZG5taEN8QA9oQAhgDUF8NTcmATNwRzpVRC5TMwRgIVhVXghwfxprGi5CIWdaHG5eOA&cntvendor=2&srcsubj=34809871&type=bkbuy&subject=34809871"
+        },
+        {
+            "name": "中图网",
+            "price": "19.50元",
+            "link": "https://book.douban.com/link2/?lowest=1080&pre=0&vendor=bookschina&srcpage=subject&price=1950&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8183625.htm&cntvendor=2&srcsubj=34809871&type=bkbuy&subject=34809871"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34809871/",
+    "douban_id": "34809871",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33477687.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "阿来",
+            "link": "https://book.douban.com/search/%E9%98%BF%E6%9D%A5"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "99读书人",
+            "link": "https://book.douban.com/producers/1"
+        }
+    ],
+    "tag": "中国文学"
+}

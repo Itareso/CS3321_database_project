@@ -1,0 +1,70 @@
+{
+    "title": "时间足够你爱",
+    "bookInfo": {
+        "作者": "[美]罗伯特·海因莱因",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "Time Enough for Love",
+        "译者": "张建光",
+        "出版年": "2018-3",
+        "定价": "78",
+        "装帧": "软精装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536488939"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.9%",
+        "four_star_rate": "30.9%",
+        "three_star_rate": "25.5%",
+        "two_star_rate": "7.4%",
+        "one_star_rate": "5.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614036/",
+            "name": "罗伯特·A·海因莱因",
+            "role": "",
+            "douban_id": "4614036"
+        }
+    ],
+    "shops": [
+        {
+            "name": "当当网",
+            "price": "78.00元",
+            "link": "https://book.douban.com/link2/?lowest=3744&pre=0&vendor=dangdang&srcpage=subject&price=7800&pos=1&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27599133%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25262708&cntvendor=2&srcsubj=27599133&type=bkbuy&subject=27599133"
+        },
+        {
+            "name": "京东商城",
+            "price": "37.44元",
+            "link": "https://book.douban.com/link2/?lowest=3744&pre=0&vendor=jingdong&srcpage=subject&price=3744&pos=2&url=https%3A%2F%2Fitem.jd.com%2F28541984072.html&cntvendor=2&srcsubj=27599133&type=bkbuy&subject=27599133"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27599133/",
+    "douban_id": "27599133",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29686983.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]罗伯特·海因莱因",
+            "link": "https://book.douban.com/search/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E6%B5%B7%E5%9B%A0%E8%8E%B1%E5%9B%A0"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "张建光",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E5%BB%BA%E5%85%89"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

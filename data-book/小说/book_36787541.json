@@ -1,0 +1,64 @@
+{
+    "title": "破碎的四月",
+    "bookInfo": {
+        "作者": "[阿尔巴尼亚] 伊斯玛依尔·卡达莱",
+        "出版社": "上海译文出版社",
+        "出品方": "上海译文新文本",
+        "原作名": "Prilli i thyer",
+        "译者": "郑恩波",
+        "出版年": "2024-4-20",
+        "页数": "240",
+        "定价": "56.00",
+        "装帧": "平装",
+        "丛书": "伊斯梅尔·卡达莱作品",
+        "ISBN": "9787532794584"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    * 首届布克国际文学奖得主 诺贝尔文学奖热门候选人 伊斯玛依尔·卡达莱代表作    * 阿尔巴尼亚文学研究专家郑恩波 从阿尔巴尼亚文直译 保留原汁原味    * 吟游诗人传唱的东欧经典 暗黑版本的陀思妥耶夫斯基    故事围绕着阿尔巴尼亚过去的一个特殊的传统习俗展开，根据统治阿尔 巴尼亚北部高原地区的法典，如果一个人被杀死，他的家人必须以血还血，为他报仇。    主人公焦尔古的哥哥被仇家杀死，他为哥哥报仇，在三月十七日那天成功杀死了仇家。从此他的生活就离他而去，他无法摆脱宿命。在被死者家属追杀之前，他得到了三十天的休战协定，于是他的四月破碎成了两部分，在四月十七日之前，是安全的、“白色的”，之后便是亡命的、“黑色的”。    与焦尔古的命运交织在一起的，是一对新婚夫妇。他们来自阿尔巴尼亚首都地拉那，对高原文化充满向往。新娘迪阿娜不可遏制地被只有一面之缘的焦尔古吸引了，甚至抛下新婚的丈夫，想去寻找这个神秘的年轻人，与此同时，焦尔古也想在四月转成黑色之前再次邂逅迪阿娜。    该小说曾被改编为电影《太阳背后》，于2012年上映。    凭借着《破碎的四月》，卡达莱先生跻身于国际一流小说家之列。——《纽约时报》    卡达莱给读者带来了一部强有力的传统小说，几乎是陀思妥耶夫斯基的暗黑版本。——《柯克斯评论》\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "24.2%",
+        "four_star_rate": "53.0%",
+        "three_star_rate": "19.0%",
+        "two_star_rate": "3.1%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/253389/",
+            "name": "伊斯梅尔·卡达莱",
+            "role": "作者",
+            "douban_id": "253389"
+        },
+        {
+            "link": "https://book.douban.com/author/560884/",
+            "name": "郑恩波",
+            "role": "译者",
+            "douban_id": "560884"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "55.99元",
+            "link": "https://read.douban.com/ebook/476090115/?dcs=subject-buylink&dcm=douban&dct=36787541"
+        },
+        {
+            "name": "得到",
+            "price": "55.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=XOnaYG1qlM7amvGYerDZOy9JVnXL40BoQl2WBkp1NKxoRdb86P2Q5AzgEj9vE5rD&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "28.00元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=jingdong&srcpage=subject&price=2800&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwMAU1ldCEwQBV8IGlsUXAUDVVdbD0IVA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA24JGFoUVAAFXVxdFxJSXzI4SztQBkJ-MSk_TylVChRBUAtyJAJ5ElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXWA8BXFhfOEkXAm4NG1McVAMyVFhYCUsfBW0LGF8XVDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlxcWxwXbTMOTAVOFlpBOl5cCE4TCm8OK1kUXAQAZG5tXwl-UGdoHRgUC0ZVEC0NChFpAWZQaTxIMwRGDCYfChhIQ25dUA9QCQBxCG5eOA&cntvendor=4&srcsubj=36787541&type=bkbuy&subject=36787541"
+        },
+        {
+            "name": "中图网",
+            "price": "36.30元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=bookschina&srcpage=subject&price=3629&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9311501.htm&cntvendor=4&srcsubj=36787541&type=bkbuy&subject=36787541"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36787541/",
+    "douban_id": "36787541",
+    "menu": [],
+    "tag": "小说"
+}

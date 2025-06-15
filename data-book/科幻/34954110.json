@@ -1,0 +1,81 @@
+{
+    "title": "圆圆的肥皂泡",
+    "bookInfo": {
+        "作者": "刘慈欣 原著",
+        "出版社": "中信出版社",
+        "出品方": "漫传奇 / 漫传奇文化",
+        "副标题": "刘慈欣科幻漫画系列第1辑",
+        "原作名": "Yuanyuan's Bubbles",
+        "译者": "谢倩雪",
+        "出版年": "2020-5",
+        "页数": "76",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "丛书": "刘慈欣科幻漫画系列",
+        "ISBN": "9787521714661"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.9%",
+        "four_star_rate": "41.8%",
+        "three_star_rate": "25.5%",
+        "two_star_rate": "2.0%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561353/",
+            "name": "刘慈欣",
+            "role": "作者",
+            "douban_id": "4561353"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=jingdong&srcpage=subject&price=2490&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwXWAcAXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU1xYCUkfHDZNRwYlAFZfIBgeCgx3GStXSQhlXFwLIgs-aEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYEXF5aCUsXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCgNsCFgLCQ5CXDVmG1sSWQcDXVttCkoWAW04K2tjJk9JKgE7djtncDtoQCBPPlVqFzgPbih5AR1vYCBJFlx8JAECfjATSBJ4K1gl&cntvendor=3&srcsubj=34954110&type=bkbuy&subject=34954110"
+        },
+        {
+            "name": "当当网",
+            "price": "32.00元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=dangdang&srcpage=subject&price=3200&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34954110%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28525625&cntvendor=3&srcsubj=34954110&type=bkbuy&subject=34954110"
+        },
+        {
+            "name": "中图网",
+            "price": "35.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=bookschina&srcpage=subject&price=3590&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8408457.htm&cntvendor=3&srcsubj=34954110&type=bkbuy&subject=34954110"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34954110/",
+    "douban_id": "34954110",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33601713.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣 原著",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3%20%E5%8E%9F%E8%91%97"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "漫传奇",
+            "link": "https://book.douban.com/producers/711"
+        },
+        {
+            "text": "漫传奇文化",
+            "link": "https://book.douban.com/producers/812"
+        },
+        {
+            "text": "谢倩雪",
+            "link": "https://book.douban.com/search/%E8%B0%A2%E5%80%A9%E9%9B%AA"
+        },
+        {
+            "text": "刘慈欣科幻漫画系列",
+            "link": "https://book.douban.com/series/50609"
+        }
+    ],
+    "tag": "科幻"
+}

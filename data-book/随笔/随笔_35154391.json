@@ -1,0 +1,125 @@
+{
+    "title": "书太多了（增订版）",
+    "bookInfo": {
+        "作者": "吕叔湘",
+        "出版社": "上海文艺出版社",
+        "出品方": "艺文志eons",
+        "出版年": "2020-12",
+        "页数": "324",
+        "定价": "68.00",
+        "装帧": "精装",
+        "丛书": "书读完了系列",
+        "ISBN": "9787532177639"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.8%",
+        "four_star_rate": "60.0%",
+        "three_star_rate": "20.8%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4623925/",
+            "name": "吕叔湘",
+            "role": "作者",
+            "douban_id": "4623925"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "39.00元",
+            "link": "https://read.douban.com/ebook/170032460/?dcs=subject-buylink&dcm=douban&dct=35154391"
+        },
+        {
+            "name": "京东商城",
+            "price": "36.04元",
+            "link": "https://book.douban.com/link2/?lowest=3020&pre=0&vendor=jingdong&srcpage=subject&price=3604&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVoXXwYCV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOVDgASzt-dWleHBpsIVJULxY7AE8VeSRzdVlwNUVkIh0Pdh1WQm9uYyNPORFCWCokdC5gSgRPbyJtBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZRVjsedwNreA9IGFNMBw4GEiUCFiBnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVV1bDEgRAGY4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CV1ozVE1AQC1dQR57XQcFXVhcCkonAW4JGVklbTYCMgMeeCJhBTkPWiJpCVB5HDhVDEltSBRmGT59HmB0FwwjXgpWAwlwYwFxbQUy&cntvendor=4&srcsubj=35154391&type=bkbuy&subject=35154391"
+        },
+        {
+            "name": "当当网",
+            "price": "38.30元",
+            "link": "https://book.douban.com/link2/?lowest=3020&pre=0&vendor=dangdang&srcpage=subject&price=3829&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35154391%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29162178&cntvendor=4&srcsubj=35154391&type=bkbuy&subject=35154391"
+        },
+        {
+            "name": "中图网",
+            "price": "30.20元",
+            "link": "https://book.douban.com/link2/?lowest=3020&pre=0&vendor=bookschina&srcpage=subject&price=3020&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8448760.htm&cntvendor=4&srcsubj=35154391&type=bkbuy&subject=35154391"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35154391/",
+    "douban_id": "35154391",
+    "menu": [
+        "",
+        "        编者前言:节制的美德 i",
+        "        书太多了",
+        "        《未晚斋杂览》小引 003",
+        "        霭理斯论塔布及其他 006",
+        "        赫胥黎和救世军 018",
+        "        葛德文其人 033",
+        "        李尔和他的谐趣诗 040",
+        "        第二梦 052",
+        "        书太多了 065",
+        "        买书·卖书·搬书 074",
+        "        《文明与野蛮》译者序 081",
+        "        《文明与野蛮》重印后记 085",
+        "        编辑的修养 089",
+        "        关于中学生与文艺 099",
+        "        谈谈学理学文的问题 102",
+        "        语文常谈",
+        "        《语文常谈》序 107",
+        "        语言和文字 109",
+        "        意内言外 118",
+        "        从文言到白话 131",
+        "        文学和语言的关系 137",
+        "        文风问题杂感 141",
+        "        从改诗的笑话说起 167",
+        "        诗句的次序 169",
+        "        莫须有 171",
+        "        一不作，二不休 175",
+        "        绿帽子的来源与产地 178",
+        "        剪不断，理还乱——汉字汉文里糊涂账 181",
+        "        咬文嚼字 187",
+        "        学文杂感 191",
+        "        给一位青年同志的信 193",
+        "        说“达” 200",
+        "        翻译工作和“杂学” 204",
+        "        由“rose”译为“玫瑰”引起的感想 210",
+        "        中国人学英语——原理和方法 213",
+        "        论学忆往",
+        "        读书忆旧 229",
+        "        北京图书馆忆旧 233",
+        "        《汉语大词典》的回顾与前瞻 236",
+        "        记寓居牛津二三事 250",
+        "        回忆和佩弦先生的交往 253",
+        "        纪念浦江清先生 256",
+        "        悼念王力教授 263",
+        "        怀念圣陶先生 267",
+        "        忆刘北茂 275",
+        "        我的简单回忆——致外孙吕大年 279",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33776250.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "吕叔湘",
+            "link": "https://book.douban.com/author/4623925"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        },
+        {
+            "text": "艺文志eons",
+            "link": "https://book.douban.com/producers/123"
+        },
+        {
+            "text": "书读完了系列",
+            "link": "https://book.douban.com/series/54798"
+        }
+    ],
+    "tag": "随笔"
+}

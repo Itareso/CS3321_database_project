@@ -1,0 +1,52 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "古代人的衣食住行",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34837898.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36455738/",
+                        "year": "2024",
+                        "id": 36455738
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "古代人的衣食住行2",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34837901.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36538760/",
+                        "year": "2024",
+                        "id": 36538760
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/4615336/",
+    "author_douban_id": "4615336",
+    "personage_id": 36057672,
+    "name": [
+        "王磊",
+        "Lei Wang"
+    ],
+    "intro": "“讲历史的王老师”，本名王磊，毕业于东北师范大学历史系，现为东北师范大学附属中学的历史教师。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/f0eb911ff0f43fb096669267b01c0134.jpg",
+    "更多中文名": "讲历史的王老师",
+    "sex": 1,
+    "birth_date": 1988,
+    "age": 38,
+    "profession": [
+        "作者"
+    ]
+}

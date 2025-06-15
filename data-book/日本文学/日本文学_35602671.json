@@ -1,0 +1,86 @@
+{
+    "title": "华丽人生",
+    "bookInfo": {
+        "作者": "[日] 伊坂幸太郎",
+        "出版社": "新星出版社",
+        "原作名": "ラッシュライフ",
+        "译者": "吕灵芝",
+        "出版年": "2021-11",
+        "页数": "300",
+        "定价": "49.00元",
+        "丛书": "午夜文库·日系佳作：伊坂幸太郎系列",
+        "ISBN": "9787513346887"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    一本值得读很多次的书，一本有些费神的书    一次仿佛行走于莫比乌斯环的阅读体验    改编电影由堺雅人扮演黑泽    -    是一团乱麻，但请抓住藏于乱序叙事中的线索啊！    内含25个新鲜出炉的中国读者与伊坂老师的互动问答，非常可爱！    -    作品五度入围直木奖    在日本人气比肩村上春树、东野圭吾    作品改编电影有瑛太、松田龙平、堺雅人倾情出演    ------------------------------------------------    ★内容介绍    世界有什么规则吗？    小偷黑泽打开房门，遇到了从未见过面的邻居，他热心地帮助邻居抬走醉酒的友人后，捡起了一张写着外国文字的纸片；热爱绘画的河原崎在咖啡厅里等人，他在顺手拿到的传单背面涂鸦，传单正面是寻人启事，上面详细描述了失踪青年的特征；心理咨询师京子一大早接到了丈夫的电话，丈夫提出离婚，而她本打算今晚和情夫联手除掉各自的现任伴侣；无业中年丰田第四十次应聘被拒，他在车站附近闲逛，听见路人聊着“流浪狗”的话题。    如果世界以此为开端，后续会有怎样的发展？年轻画家志奈子和中年画商户田想就此打个赌，你认为谁能赢呢？\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "34.4%",
+        "four_star_rate": "47.2%",
+        "three_star_rate": "17.1%",
+        "two_star_rate": "1.1%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4524979/",
+            "name": "伊坂幸太郎",
+            "role": "作者",
+            "douban_id": "4524979"
+        },
+        {
+            "link": "https://book.douban.com/author/4612202/",
+            "name": "吕灵芝",
+            "role": "译者",
+            "douban_id": "4612202"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "42.00元",
+            "link": "https://read.douban.com/ebook/333148032/?dcs=subject-buylink&dcm=douban&dct=35602671"
+        },
+        {
+            "name": "得到",
+            "price": "42.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=EJmMZXq1b8qOpBlD69XAdP7LEGaKJWEMNxWxRnme5vrVzo4QMZYgNyk2jNA5467K&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "26.95元",
+            "link": "https://book.douban.com/link2/?lowest=2695&pre=0&vendor=jingdong&srcpage=subject&price=2695&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV4dXAECU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUVZcD0sQHDZNRwYlWwNxNVkPXE53ShUWQzJ0L2BjIiohaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UXgcCXFpfD0IVM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsQWg5sCFgKSxgfAzFmG1oQWAQLVVltCkoWAW04K2tWFWRBJDcvSSBMaCxeEgZQXwIBCjs1Szt5ATFJbhMWHlldPzY1SwNoeRR9K1gl&cntvendor=5&srcsubj=35602671&type=bkbuy&subject=35602671"
+        },
+        {
+            "name": "当当网",
+            "price": "47.00元",
+            "link": "https://book.douban.com/link2/?lowest=2695&pre=0&vendor=dangdang&srcpage=subject&price=4700&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35602671%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29317754&cntvendor=5&srcsubj=35602671&type=bkbuy&subject=35602671"
+        },
+        {
+            "name": "中图网",
+            "price": "34.80元",
+            "link": "https://book.douban.com/link2/?lowest=2695&pre=0&vendor=bookschina&srcpage=subject&price=3479&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8697944.htm&cntvendor=5&srcsubj=35602671&type=bkbuy&subject=35602671"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35602671/",
+    "douban_id": "35602671",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34020555.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 伊坂幸太郎",
+            "link": "https://book.douban.com/search/%E4%BC%8A%E5%9D%82%E5%B9%B8%E5%A4%AA%E9%83%8E"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "吕灵芝",
+            "link": "https://book.douban.com/search/%E5%90%95%E7%81%B5%E8%8A%9D"
+        },
+        {
+            "text": "午夜文库·日系佳作：伊坂幸太郎系列",
+            "link": "https://book.douban.com/series/20263"
+        }
+    ],
+    "tag": "日本文学"
+}

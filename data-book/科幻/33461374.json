@@ -1,0 +1,46 @@
+{
+    "title": "雪山上的机器人",
+    "bookInfo": {
+        "作者": "王勇英",
+        "出版社": "福建少年儿童出版社",
+        "出版年": "2019-4",
+        "定价": "22",
+        "ISBN": "9787539567532"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "80.6%",
+        "four_star_rate": "9.7%",
+        "three_star_rate": "3.2%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "6.5%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "11.00元",
+            "link": "https://book.douban.com/link2/?lowest=940&pre=0&vendor=jingdong&srcpage=subject&price=1100&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF8SVAELXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUFlUD0IfHDZNRwYlNmNlJgA8CCByfzN3UihPXnJCBx00TkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYEXF5aDEIXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgRsCFgLCQ5DATZmG1sTVAMKUVttCkoWAW04K2sRW3YCDzsFbylPahhTZVwVCU9-JBYUdk95ATRSE11GXVgCNikqDE0QQQl9K1gl&cntvendor=2&srcsubj=33461374&type=bkbuy&subject=33461374"
+        },
+        {
+            "name": "中图网",
+            "price": "9.40元",
+            "link": "https://book.douban.com/link2/?lowest=940&pre=0&vendor=bookschina&srcpage=subject&price=940&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8239996.htm&cntvendor=2&srcsubj=33461374&type=bkbuy&subject=33461374"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33461374/",
+    "douban_id": "33461374",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s32330503.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "王勇英",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E5%8B%87%E8%8B%B1"
+        },
+        {
+            "text": "福建少年儿童出版社",
+            "link": "https://book.douban.com/press/2662"
+        }
+    ],
+    "tag": "科幻"
+}

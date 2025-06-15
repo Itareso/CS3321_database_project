@@ -1,0 +1,61 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "收获长篇小说2021春卷",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33865079.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35419280/",
+                        "year": "2021",
+                        "id": 35419280
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "感受即命名",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29855757.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30266633/",
+                        "year": "2018",
+                        "id": 30266633
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "从《雪庐》到《漂移者》",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27306792.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/25895457/",
+                        "year": "2014",
+                        "id": 25895457
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4615891/",
+    "author_douban_id": "4615891",
+    "personage_id": 36083782,
+    "name": [
+        "来颖燕",
+        "Yingyan Lai"
+    ],
+    "intro": "来颖燕，《上海文学》杂志副主编，副编审，中国现代文学馆特邀研究员。在《小说评论》《中国当代文学研究》《上海文化》《扬子江文学评论》《当代文坛》《南方文坛》《青年文学》《山花》《解放日报》《新京报》等报刊发表文章。著有评论集《感受即命名》（上海人民出版社，2018年8月）。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/efe4a32454546749ddc4f79b7fc18ecf.jpg",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

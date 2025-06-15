@@ -1,0 +1,55 @@
+{
+    "title": "我的音乐往事",
+    "bookInfo": {
+        "作者": "李欧梵",
+        "出版社": "江苏教育出版社",
+        "出版年": "2005-12",
+        "页数": "281",
+        "定价": "23.00元",
+        "装帧": "简裝本",
+        "丛书": "李欧梵作品系列",
+        "ISBN": "9787534365478"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "13.1%",
+        "four_star_rate": "59.1%",
+        "three_star_rate": "24.7%",
+        "two_star_rate": "3.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4539023/",
+            "name": "李欧梵",
+            "role": "作者",
+            "douban_id": "4539023"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=4200&pre=0&vendor=jingdong&srcpage=subject&price=4200&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10047094392330.html&cntvendor=1&srcsubj=1475742&type=bkbuy&subject=1475742"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1475742/",
+    "douban_id": "1475742",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s1566369.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李欧梵",
+            "link": "https://book.douban.com/author/4539023/"
+        },
+        {
+            "text": "江苏教育出版社",
+            "link": "https://book.douban.com/press/2336"
+        },
+        {
+            "text": "李欧梵作品系列",
+            "link": "https://book.douban.com/series/9555"
+        }
+    ],
+    "tag": "音乐"
+}

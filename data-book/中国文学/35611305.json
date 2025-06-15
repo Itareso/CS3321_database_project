@@ -1,0 +1,78 @@
+{
+    "title": "阮途记",
+    "bookInfo": {
+        "作者": "舒飞廉",
+        "出版社": "上海文艺出版社",
+        "副标题": "飞廉的江湖奇谈",
+        "出版年": "2021-10",
+        "页数": "258",
+        "定价": "65",
+        "装帧": "平装",
+        "ISBN": "9787532179350"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.0%",
+        "four_star_rate": "24.2%",
+        "three_star_rate": "20.6%",
+        "two_star_rate": "8.0%",
+        "one_star_rate": "2.3%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "52.00元",
+            "link": "https://read.douban.com/ebook/336561209/?dcs=subject-buylink&dcm=douban&dct=35611305"
+        },
+        {
+            "name": "得到",
+            "price": "52.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg046VZ3JzxbE9LZl1o8RkGd2BPYv4x6d9meB&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "35.43元",
+            "link": "https://book.douban.com/link2/?lowest=2510&pre=0&vendor=jingdong&srcpage=subject&price=3543&pos=3&url=https%3A%2F%2Fitem.jd.com%2F10039424140979.html&cntvendor=5&srcsubj=35611305&type=bkbuy&subject=35611305"
+        },
+        {
+            "name": "当当网",
+            "price": "36.60元",
+            "link": "https://book.douban.com/link2/?lowest=2510&pre=0&vendor=dangdang&srcpage=subject&price=3660&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35611305%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29317434&cntvendor=5&srcsubj=35611305&type=bkbuy&subject=35611305"
+        },
+        {
+            "name": "中图网",
+            "price": "25.10元",
+            "link": "https://book.douban.com/link2/?lowest=2510&pre=0&vendor=bookschina&srcpage=subject&price=2510&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8696187.htm&cntvendor=5&srcsubj=35611305&type=bkbuy&subject=35611305"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35611305/",
+    "douban_id": "35611305",
+    "menu": [
+        "",
+        "        目录",
+        "        浮舟记",
+        "        洞庭记",
+        "        金驴记",
+        "        林语记",
+        "        阮途记",
+        "        渡淮记",
+        "        龙宫记",
+        "        木兰记",
+        "        驴皮记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34007882.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "舒飞廉",
+            "link": "https://book.douban.com/search/%E8%88%92%E9%A3%9E%E5%BB%89"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        }
+    ],
+    "tag": "中国文学"
+}

@@ -1,0 +1,153 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "道德故事集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34735079.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36699350/",
+                        "year": "2024",
+                        "id": 36699350
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "光从哪里来",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34741791.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36586867/",
+                        "year": "2024",
+                        "id": 36586867
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "面纱下的女性",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34810611.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36706389/",
+                        "year": "2024",
+                        "id": 36706389
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "思想之诗",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34562738.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36445280/",
+                        "year": "2023",
+                        "id": 36445280
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "达摩流浪者",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33861336.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35791941/",
+                        "year": "2022",
+                        "id": 35791941
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "室内流亡",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34227644.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35767700/",
+                        "year": "2022",
+                        "id": 35767700
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "白日漫游",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s32289202.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33404843/",
+                        "year": "2019",
+                        "id": 33404843
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "爱莫能助",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29496700.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27089850/",
+                        "year": "2017",
+                        "id": 27089850
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "我用一整个青春去爱你",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29356452.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26978892/",
+                        "year": "2017",
+                        "id": 26978892
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "夜晚属于恋人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28659628.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26698665/",
+                        "year": "2016",
+                        "id": 26698665
+                    }
+                }
+            ],
+            "total": 13
+        }
+    },
+    "author_link": "https://book.douban.com/author/4565046/",
+    "author_douban_id": "4565046",
+    "personage_id": 30115790,
+    "name": [
+        "远子",
+        "Yuan Zi"
+    ],
+    "intro": "远子，青年作家，湖北红安人，1987年出生。毕业于苏州大学哲学系。已出版短篇小说集《十七个远方》《夜晚属于恋人》《白日漫游》。其中，《白日漫游》入围2019年第二届宝珀理想国文学奖决选名单。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/f2e7981d323488c697bb086854bf5abe.jpg",
+    "sex": 1,
+    "birth_date": 1987,
+    "age": 39,
+    "birth_place": [
+        "中国",
+        "湖北",
+        "红安"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

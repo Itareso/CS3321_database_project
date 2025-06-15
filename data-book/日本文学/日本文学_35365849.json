@@ -1,0 +1,71 @@
+{
+    "title": "潮骚",
+    "bookInfo": {
+        "作者": "[日]三岛由纪夫",
+        "出版社": "辽宁人民出版社",
+        "原作名": "潮騒",
+        "译者": "陈德文",
+        "出版年": "2021-2",
+        "页数": "220",
+        "定价": "32.00元",
+        "装帧": "平装",
+        "丛书": "一頁文库·三岛由纪夫作品",
+        "ISBN": "9787205100643"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.0%",
+        "four_star_rate": "45.9%",
+        "three_star_rate": "14.7%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4508171/",
+            "name": "三岛由纪夫",
+            "role": "作者",
+            "douban_id": "4508171"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.64元",
+            "link": "https://book.douban.com/link2/?lowest=1664&pre=0&vendor=jingdong&srcpage=subject&price=1664&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVgUXAMLUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAV19cDUISHDZNRwYlR1ZEUQRaQUJ3ZitQeB1AOwMDDwUEXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeBl8IHV4UXgcBUF5dCEoXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsXXAdsCFgKSxQRBzRmG1oQVAMKUl5tCkoWAW04K2tTBXBaMz4KTQtDVhtQZwhdAwNUDC4mQRN5AT9KEgN9BQVAFCYlThNEVmwOK1gl&cntvendor=3&srcsubj=35365849&type=bkbuy&subject=35365849"
+        },
+        {
+            "name": "当当网",
+            "price": "32.00元",
+            "link": "https://book.douban.com/link2/?lowest=1664&pre=0&vendor=dangdang&srcpage=subject&price=3200&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35365849%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29224014&cntvendor=3&srcsubj=35365849&type=bkbuy&subject=35365849"
+        },
+        {
+            "name": "中图网",
+            "price": "19.90元",
+            "link": "https://book.douban.com/link2/?lowest=1664&pre=0&vendor=bookschina&srcpage=subject&price=1989&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8536829.htm&cntvendor=3&srcsubj=35365849&type=bkbuy&subject=35365849"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35365849/",
+    "douban_id": "35365849",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33832854.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]三岛由纪夫",
+            "link": "https://book.douban.com/search/%E4%B8%89%E5%B2%9B%E7%94%B1%E7%BA%AA%E5%A4%AB"
+        },
+        {
+            "text": "辽宁人民出版社",
+            "link": "https://book.douban.com/press/2669"
+        },
+        {
+            "text": "陈德文",
+            "link": "https://book.douban.com/search/%E9%99%88%E5%BE%B7%E6%96%87"
+        },
+        {
+            "text": "一頁文库·三岛由纪夫作品",
+            "link": "https://book.douban.com/series/55597"
+        }
+    ],
+    "tag": "日本文学"
+}

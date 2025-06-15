@@ -1,0 +1,74 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "今晚出门散心去",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34989335.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37033126/",
+                        "year": "2024",
+                        "id": 37033126
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "国王的身体",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34980903.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37013821/",
+                        "year": "2024",
+                        "id": 37013821
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "看那些灯光，亲爱的",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34685576.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36514762/",
+                        "year": "2023",
+                        "id": 36514762
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "微渺人生",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36897181/",
+                        "year": "",
+                        "id": 36897181
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4636625/",
+    "author_douban_id": "4636625",
+    "personage_id": 37033811,
+    "name": [
+        "田嘉伟",
+        "Jiawei Tian"
+    ],
+    "intro": "田嘉伟，1989年8月生于渝湘黔交界的秀山土家族苗族自治县，先后就读于北京师范大学文学院、北京大学世界文学研究所、巴黎第十大学法国及法语世界语言与文学系，文学博士，现任教于华东师范大学国际汉语文化学院比较文学系，主要研究方向为法国当代文学和中法文学关系，出版法语专著《法国当代作家笔下中国文人的生命与功课》，译有皮埃尔·米雄和安妮·埃尔诺等法国当代作家的作品，上海“普鲁斯特慢读会”主讲人，曾用笔名科西嘉。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/d209f22cb8e5bae98eaa40756843d11c.jpg",
+    "sex": 1,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

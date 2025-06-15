@@ -1,0 +1,53 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "生命的厚度",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34258924.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35775011/",
+                        "year": "2022",
+                        "id": 35775011
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "帕斯卡尔",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28438112.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25837414/",
+                        "year": "2014",
+                        "id": 25837414
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614480/",
+    "author_douban_id": "4614480",
+    "personage_id": 35982562,
+    "name": [
+        "江绪林",
+        "Xulin Jiang"
+    ],
+    "intro": "江绪林，1975年生于湖北红安，哲学博士。1995年起先后在中国人民大学国际关系学院、北京大学哲学系、香港浸会大学宗教与哲学系学习。硕士毕业后曾任中华书局编辑，2009年起执教于华东师范大学政治学系，主要从事西方政治哲学、政治思想史研究。2016年2月19日晚自缢身亡。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/08c3b5293dd6add6eb35cb779fa66f9c.jpg",
+    "sex": 1,
+    "birth_date": 1975,
+    "death_date": 2016,
+    "age": 42,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

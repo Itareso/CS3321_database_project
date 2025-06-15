@@ -1,0 +1,103 @@
+{
+    "title": "加缪手记",
+    "bookInfo": {
+        "作者": "(法) 阿尔贝·加缪",
+        "出版社": "浙江大学出版社",
+        "出品方": "启真馆",
+        "原作名": "Carnets",
+        "译者": "黄馨慧",
+        "出版年": "2019-8",
+        "页数": "731",
+        "定价": "158.00",
+        "装帧": "精装",
+        "丛书": "启真·加缪作品",
+        "ISBN": "9787308194761"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "75.4%",
+        "four_star_rate": "19.6%",
+        "three_star_rate": "4.1%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4513690/",
+            "name": "阿尔贝·加缪",
+            "role": "作者",
+            "douban_id": "4513690"
+        },
+        {
+            "link": "https://book.douban.com/author/4617646/",
+            "name": "黄馨慧",
+            "role": "译者",
+            "douban_id": "4617646"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "79.00元",
+            "link": "https://book.douban.com/link2/?lowest=7900&pre=0&vendor=jingdong&srcpage=subject&price=7900&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVIWXgMCVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAXV1eDUsWHDZNRwYlWGBhSh8YUVF0QC9-fBlGLkULDCUheEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAXV9fCUkRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgRsCFgKSh9RAjBmG1oTWgUEUF9tCkoWAW04K2tJWkdhMD44WBlrZSxoGQRRW0d7V1hZDxt5ATJDaVx9PnEEBickVEwQX2lNK1gl&cntvendor=3&srcsubj=34802764&type=bkbuy&subject=34802764"
+        },
+        {
+            "name": "当当网",
+            "price": "143.20元",
+            "link": "https://book.douban.com/link2/?lowest=7900&pre=0&vendor=dangdang&srcpage=subject&price=14319&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34802764%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28469765&cntvendor=3&srcsubj=34802764&type=bkbuy&subject=34802764"
+        },
+        {
+            "name": "中图网",
+            "price": "96.40元",
+            "link": "https://book.douban.com/link2/?lowest=7900&pre=0&vendor=bookschina&srcpage=subject&price=9640&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8197702.htm&cntvendor=3&srcsubj=34802764&type=bkbuy&subject=34802764"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34802764/",
+    "douban_id": "34802764",
+    "menu": [
+        "",
+        "        第一卷",
+        "        编辑说明",
+        "        第一本 1935-1937",
+        "        第二本 1937-1939",
+        "        第三本 1939-1942",
+        "        第二卷",
+        "        编辑说明",
+        "        第四本 1942年1月-1945年9月",
+        "        第五本 1945年9月-1948年4月",
+        "        第六本 1948年4月-1951年3月",
+        "        第三卷",
+        "        编辑说明",
+        "        第七本 1951年3月-1954年7月",
+        "        第八本 1954年8月-1958年7月",
+        "        第九本 1958年7月-1959年12月",
+        "        大事记",
+        "        加缪作品表",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33736361.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "(法) 阿尔贝·加缪",
+            "link": "https://book.douban.com/search/%E9%98%BF%E5%B0%94%E8%B4%9D%C2%B7%E5%8A%A0%E7%BC%AA"
+        },
+        {
+            "text": "浙江大学出版社",
+            "link": "https://book.douban.com/press/2574"
+        },
+        {
+            "text": "启真馆",
+            "link": "https://book.douban.com/producers/31"
+        },
+        {
+            "text": "黄馨慧",
+            "link": "https://book.douban.com/author/4617646"
+        },
+        {
+            "text": "启真·加缪作品",
+            "link": "https://book.douban.com/series/72736"
+        }
+    ],
+    "tag": "随笔"
+}

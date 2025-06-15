@@ -1,0 +1,61 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "香尘灭",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34896269.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36931113/",
+                        "year": "2024",
+                        "id": 36931113
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "李商隐十五日谈",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34295503.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36048380/",
+                        "year": "2022",
+                        "id": 36048380
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "所思不远",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34387244.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34945794/",
+                        "year": "2020",
+                        "id": 34945794
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614939/",
+    "author_douban_id": "4614939",
+    "personage_id": 36035906,
+    "name": [
+        "李让眉",
+        "Rangmei Li"
+    ],
+    "intro": "暂无",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/7ff31d1d497b3ec6f0f644230e773db6.jpg",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

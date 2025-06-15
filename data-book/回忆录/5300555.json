@@ -1,0 +1,56 @@
+{
+    "title": "我额头青枝绿叶",
+    "bookInfo": {
+        "作者": "灰娃",
+        "出版社": "人民文学出版社",
+        "副标题": "灰娃自述",
+        "出版年": "2010-8",
+        "页数": "265",
+        "定价": "26.00",
+        "装帧": "平装",
+        "丛书": "人与岁月丛书",
+        "ISBN": "9787020080021"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.9%",
+        "four_star_rate": "42.9%",
+        "three_star_rate": "28.6%",
+        "two_star_rate": "2.9%",
+        "one_star_rate": "2.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1736475/",
+            "name": "灰娃",
+            "role": "作者",
+            "douban_id": "1736475"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "98.00元",
+            "link": "https://book.douban.com/link2/?lowest=9800&pre=0&vendor=jingdong&srcpage=subject&price=9800&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10066130931601.html&cntvendor=1&srcsubj=5300555&type=bkbuy&subject=5300555"
+        }
+    ],
+    "url": "https://book.douban.com/subject/5300555/",
+    "douban_id": "5300555",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s4554195.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "灰娃",
+            "link": "https://book.douban.com/author/1736475/"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "人与岁月丛书",
+            "link": "https://book.douban.com/series/7264"
+        }
+    ],
+    "tag": "回忆录"
+}

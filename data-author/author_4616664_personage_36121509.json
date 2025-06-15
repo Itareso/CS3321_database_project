@@ -1,0 +1,66 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "大胆使用了绿色",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34678788.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36488313/",
+                        "year": "2023",
+                        "id": 36488313
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "捉住那只发情的猫",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34316084.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36104764/",
+                        "year": "2022",
+                        "id": 36104764
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "一定要给你个惊喜",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29271808.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26923541/",
+                        "year": "2016",
+                        "id": 26923541
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4616664/",
+    "author_douban_id": "4616664",
+    "personage_id": 36121509,
+    "name": [
+        "谈波",
+        "Bo Tan"
+    ],
+    "intro": "谈波，1964年生，居大连。小说多见于《今天》《人民文学》《野草》《青春》《鸭绿江》等杂志。著有短篇小说集《一定要给你个惊喜》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/e9afdf9bf44378b7ea1ff5562ba50752.jpg",
+    "sex": 1,
+    "birth_date": 1964,
+    "age": 62,
+    "birth_place": [
+        "大连"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

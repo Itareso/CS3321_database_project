@@ -1,0 +1,146 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "人物志",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27287880.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/25891332/",
+                        "year": "2022",
+                        "id": 25891332
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "儒藏（精华编一九八）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29276383.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26952899/",
+                        "year": "2017",
+                        "id": 26952899
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "观人经",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s26556828.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/24381428/",
+                        "year": "2013",
+                        "id": 24381428
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "以眼察人以心观心",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s26559008.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/23691945/",
+                        "year": "2013",
+                        "id": 23691945
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "冰鉴全编（上下两册）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s24557547.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/20385717/",
+                        "year": "2012",
+                        "id": 20385717
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "人物志",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s9081582.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3552612/",
+                        "year": "2009",
+                        "id": 3552612
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "观人经",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s7620528.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/2179877/",
+                        "year": "2007",
+                        "id": 2179877
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "人物志",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s5899664.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3085701/",
+                        "year": "2007",
+                        "id": 3085701
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "人物志",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s2174124.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1045496/",
+                        "year": "2001",
+                        "id": 1045496
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "辨经",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s8928911.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/1014570/",
+                        "year": "2000",
+                        "id": 1014570
+                    }
+                }
+            ],
+            "total": 12
+        }
+    },
+    "author_link": "https://book.douban.com/author/4573811/",
+    "author_douban_id": "4573811",
+    "personage_id": 30124248,
+    "name": [
+        "刘邵"
+    ],
+    "intro": "刘邵，字孔才，男，广平邯郸（今河北邯郸）人，生于汉灵帝建宁年间（168年-172年），卒于魏齐王正始年间（240年-249年）。汉献帝时入仕，初为广平吏，历官太子舍人、秘书郎等，入魏朝之后，曾担任尚书郎、散骑侍郎、陈留太守等。后曾受爵“关内侯”，死后追赠光禄勋。 刘邵学问详博，通览群书，曾经执经讲学。编有类书《皇览》，参与制定《新律》。著有《赵都赋》《许都赋》《洛都赋》等，著作多已亡佚。目前仅见《人物志》、《赵都赋》、《上都官考课疏》（收入于《全三国文》中）。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/img/author/medium/public/1492167466.28.jpg",
+    "去世日期": "公元 242年",
+    "更多中文名": "字孔才",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

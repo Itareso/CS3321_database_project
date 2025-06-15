@@ -1,0 +1,62 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "中国文学史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34384940.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35870980/",
+                        "year": "2022",
+                        "id": 35870980
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "中国诗史",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34384941.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35870979/",
+                        "year": "2022",
+                        "id": 35870979
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "历代时令天象诗选",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/4172614/",
+                        "year": "1994",
+                        "id": 4172614
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4615507/",
+    "author_douban_id": "4615507",
+    "personage_id": 36060767,
+    "name": [
+        "徐少舟",
+        "Shaozhou Xu"
+    ],
+    "intro": "徐少舟，武汉大学副教授，1982年获武汉大学文学学士学位，1984年12月获武汉大学文学硕士学位，武汉大学文学院古代文学专业博士在读生。1985年留武汉大学中文系任教，1999年转入武汉大学社会学系。主要承担民俗学和中国传统文化等方面的教学科研工作。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/0c801dd48a15376beac28fee42bf9060.jpg",
+    "profession": [
+        "作者",
+        "译者",
+        "编者"
+    ]
+}

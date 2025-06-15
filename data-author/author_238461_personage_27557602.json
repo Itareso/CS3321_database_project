@@ -1,0 +1,168 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "木心遗稿",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34097454.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35705035/",
+                        "year": "2022",
+                        "id": 35705035
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "文学回忆录(1989-1994)",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33679539.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35114633/",
+                        "year": "2020",
+                        "id": 35114633
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "云雀叫了一整天",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33679474.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34908057/",
+                        "year": "2020",
+                        "id": 34908057
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "素履之往",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33679471.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34900698/",
+                        "year": "2020",
+                        "id": 34900698
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "哥伦比亚的倒影",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33679486.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34908033/",
+                        "year": "2020",
+                        "id": 34908033
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "琼美卡随想录",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33679473.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34908055/",
+                        "year": "2020",
+                        "id": 34908055
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "我纷纷的情欲",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33679536.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34996425/",
+                        "year": "2020",
+                        "id": 34996425
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "温莎墓园日记",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33679472.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34908025/",
+                        "year": "2020",
+                        "id": 34908025
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "鱼丽之宴",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33679456.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34908044/",
+                        "year": "2020",
+                        "id": 34908044
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "即兴判断",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33715856.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34908032/",
+                        "year": "2020",
+                        "id": 34908032
+                    }
+                }
+            ],
+            "total": 34
+        }
+    },
+    "author_link": "https://book.douban.com/author/238461/",
+    "author_douban_id": "238461",
+    "personage_id": 27557602,
+    "name": [
+        "木心",
+        "Xin Mu"
+    ],
+    "intro": "木心，1927年生于浙江桐乡乌镇东栅。本名孙璞，字仰中，号牧心，笔名木心。毕业于上海美术专科学校。1982年定居纽约。2011年12月21日3时逝世于故乡乌镇，享年84岁。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27557602/photo/2571412004",
+        "https://www.douban.com/personage/27557602/photo/2571412152",
+        "https://www.douban.com/personage/27557602/photo/2571412114",
+        "https://www.douban.com/personage/27557602/photo/2884109366",
+        "https://www.douban.com/personage/27557602/photo/2571412116"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2571412004.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2571412152.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2571412114.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2884109366.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2571412116.webp"
+    ],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/0dfbe81812e83d41b437f509a21ecd2e.jpg",
+    "更多中文名": "孙璞(本名)",
+    "sex": 1,
+    "birth_date": 1927,
+    "death_date": 2011,
+    "age": 85,
+    "birth_place": [
+        "中国",
+        "浙江",
+        "嘉兴"
+    ],
+    "profession": [
+        "作者",
+        "演员",
+        "编剧"
+    ]
+}

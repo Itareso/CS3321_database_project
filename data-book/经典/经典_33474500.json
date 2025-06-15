@@ -1,0 +1,69 @@
+{
+    "title": "罂粟之家",
+    "bookInfo": {
+        "作者": "苏童",
+        "出版社": "浙江人民出版社",
+        "出版年": "2019-5",
+        "页数": "240",
+        "定价": "48.00元",
+        "装帧": "精装",
+        "丛书": "苏童作品集（精装典藏版）",
+        "ISBN": "9787213091926"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.3%",
+        "four_star_rate": "49.0%",
+        "three_star_rate": "26.7%",
+        "two_star_rate": "1.9%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4510362/",
+            "name": "苏童",
+            "role": "作者",
+            "douban_id": "4510362"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "180.60元",
+            "link": "https://book.douban.com/link2/?lowest=1920&pre=0&vendor=jingdong&srcpage=subject&price=18060&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwWXQIGXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU11dDE8eHDZNRwYlWGZpFg4lQBx1XidpZiAXJWF_NgkNXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHV1ldCU0UM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1sUVABsCFgKShVWVCxmG1oSWgIFV1ptCkoWAW04K2tsJ1FYJAEhDShcRRt1EhJmPGdyCQdbXTV5AQZ6UyFmB1YDNwIBcTFhCzZsK1gl&cntvendor=2&srcsubj=33474500&type=bkbuy&subject=33474500"
+        },
+        {
+            "name": "中图网",
+            "price": "19.20元",
+            "link": "https://book.douban.com/link2/?lowest=1920&pre=0&vendor=bookschina&srcpage=subject&price=1920&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8147123.htm&cntvendor=2&srcsubj=33474500&type=bkbuy&subject=33474500"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33474500/",
+    "douban_id": "33474500",
+    "menu": [
+        "",
+        "        自序",
+        "        罂粟之家",
+        "        一九三四年的逃亡",
+        "        飞越我的枫杨树故乡",
+        "        三盏灯",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33321776.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "苏童",
+            "link": "https://book.douban.com/author/4510362"
+        },
+        {
+            "text": "浙江人民出版社",
+            "link": "https://book.douban.com/press/2507"
+        },
+        {
+            "text": "苏童作品集（精装典藏版）",
+            "link": "https://book.douban.com/series/46127"
+        }
+    ],
+    "tag": "经典"
+}

@@ -1,0 +1,154 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "寂静连绵的山脉",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34465378.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36304481/",
+                        "year": "2023",
+                        "id": 36304481
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "欣泣集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34388449.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36207887/",
+                        "year": "2022",
+                        "id": 36207887
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "浮生六记",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33816978.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35346124/",
+                        "year": "2021",
+                        "id": 35346124
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "闲情偶寄",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33852971.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35346128/",
+                        "year": "2021",
+                        "id": 35346128
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "我去钱德勒威尔参加舞会",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33752319.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35223212/",
+                        "year": "2020",
+                        "id": 35223212
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "不检点与倍缠绵书",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33752322.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35223206/",
+                        "year": "2020",
+                        "id": 35223206
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "随园食单",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33668049.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35100491/",
+                        "year": "2020",
+                        "id": 35100491
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "瓶史 瓶花谱 瓶花三说",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33703055.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35170095/",
+                        "year": "2020",
+                        "id": 35170095
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "河流守望者：水起",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29348791.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26976178/",
+                        "year": "2016",
+                        "id": 26976178
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "ddf10",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s26387035.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/24526969/",
+                        "year": "2013",
+                        "id": 24526969
+                    }
+                }
+            ],
+            "total": 15
+        }
+    },
+    "author_link": "https://book.douban.com/author/4622002/",
+    "author_douban_id": "4622002",
+    "personage_id": 36471628,
+    "name": [
+        "彭剑斌",
+        "Jianbin Peng"
+    ],
+    "intro": "彭剑斌，笔名鳜膛弃，1982年12月生，湖南郴州人。著有小说集《我去钱德勒威尔参加舞会》《不检点与倍缠绵书》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/d95e8c2e7eefc29e468791c9f3961767.jpg",
+    "更多中文名": "鳜膛弃(笔名)",
+    "sex": 1,
+    "birth_date": 1982,
+    "age": 44,
+    "birth_place": [
+        "中国",
+        "湖南",
+        "郴州"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

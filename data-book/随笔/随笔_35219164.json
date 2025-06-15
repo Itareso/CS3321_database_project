@@ -1,0 +1,86 @@
+{
+    "title": "文学：八个关键词",
+    "bookInfo": {
+        "作者": "张炜",
+        "出版社": "世界·观 广西师范大学出版社",
+        "出版年": "2021-1",
+        "页数": "388",
+        "定价": "59.80元",
+        "装帧": "精装",
+        "ISBN": "9787559832702"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "23.6%",
+        "four_star_rate": "43.6%",
+        "three_star_rate": "25.5%",
+        "two_star_rate": "5.5%",
+        "one_star_rate": "1.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4515467/",
+            "name": "张炜",
+            "role": "作者",
+            "douban_id": "4515467"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.10元",
+            "link": "https://book.douban.com/link2/?lowest=3110&pre=0&vendor=jingdong&srcpage=subject&price=3110&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0cWQYGUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUldZCE8THDZNRwYlWXFqMV8YXU91SBkWTAVwBHFSJyAgaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFdaCE8SM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOE14cDQNsCFgKSgxJCy9mG1oTWwMLUVttCkoWAW04K2tvNFJJKlsaXxtQWSZ3cB1sX3oFBy4rSgl5ARV1WjJvFnZwBBcUciJHBBFoK1gl&cntvendor=3&srcsubj=35219164&type=bkbuy&subject=35219164"
+        },
+        {
+            "name": "当当网",
+            "price": "47.20元",
+            "link": "https://book.douban.com/link2/?lowest=3110&pre=0&vendor=dangdang&srcpage=subject&price=4720&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35219164%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29177035&cntvendor=3&srcsubj=35219164&type=bkbuy&subject=35219164"
+        },
+        {
+            "name": "中图网",
+            "price": "41.10元",
+            "link": "https://book.douban.com/link2/?lowest=3110&pre=0&vendor=bookschina&srcpage=subject&price=4110&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8472607.htm&cntvendor=3&srcsubj=35219164&type=bkbuy&subject=35219164"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35219164/",
+    "douban_id": "35219164",
+    "menu": [
+        "",
+        "        目 录",
+        "        第一讲　童年 / 001",
+        "        出发和回归——影响一生的视角——外祖母现象——难以愈合的伤口——分别寄出的信件——反抗和不屈的种子——儿童在网络中",
+        "        ［讨论］ / 031",
+        "        第二讲　动物 / 051",
+        "        他者和弱者—— 通向神秘世界的窗口——我们的道路多么漫长——如海潮一般的诅咒——那个喧哗活泼的世界——踞于人的左右——从最大的自由书说起",
+        "        ［讨论］ / 088",
+        "        第三讲　荒野 / 097",
+        "        荒野离永恒最近——摆脱狭窄的精神空间——荒野与农业文明——切近而深刻的诗意——遥远的敬畏和恐惧——渺小无知的虚拟世界",
+        "        ［讨论］ / 129",
+        "        第四讲　海洋 / 143",
+        "        最遥远、最神奇的存在——水与土的区别——西方文学中的大角色——齐文化是一个例外——干燥的现世主义——苏东坡的坡与海明威的海",
+        "        ［讨论］ / 181",
+        "        第五讲　流浪 / 191",
+        "        杰作常有流浪的气质——人生的单程旅行——精神远游的重要方式——古今行走之大不同——一些流亡的作家——极少数天才不需要旅行——我们是喜静的民族",
+        "        ［讨论］ / 232",
+        "        第六讲　地域 / 239",
+        "        地域性与世界性——类型化是一种机会主义——在同一片星空下——人在他乡——文化与自然的板块——虚假的乡土文学",
+        "        ［讨论］ / 271",
+        "        第七讲　恐惧 / 283",
+        "        人类最古老的体验—— 对同类的恐惧—— 共同的与特殊的—— 哲学和信仰的力量——日常生活的深刻性——福克纳怎样说恐惧",
+        "        ［讨论］ / 317",
+        "        第八讲　困境 / 327",
+        "        困境离恐惧有多远——共同的困境——关于人的“被打败”——生存的荒诞——现代书写的纵深地带——作家的特殊困境",
+        "        ［讨论］ / 363",
+        "        附记 / 371",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33807552.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张炜",
+            "link": "https://book.douban.com/author/4515467"
+        }
+    ],
+    "tag": "随笔"
+}

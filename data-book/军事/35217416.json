@@ -1,0 +1,85 @@
+{
+    "title": "虎式坦克全书",
+    "bookInfo": {
+        "作者": "[英] 托马斯·安德森（Thomas Anderson）",
+        "出版社": "机械工业出版社",
+        "原作名": "Tiger",
+        "译者": "王行健",
+        "出版年": "2020-9-1",
+        "页数": "245",
+        "定价": "118",
+        "装帧": "平装",
+        "丛书": "鱼鹰军事经典译丛",
+        "ISBN": "9787111657118"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "74.2%",
+        "four_star_rate": "16.1%",
+        "three_star_rate": "9.7%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4612727/",
+            "name": "王行健",
+            "role": "译者",
+            "douban_id": "4612727"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "66.08元",
+            "link": "https://book.douban.com/link2/?lowest=6608&pre=0&vendor=jingdong&srcpage=subject&price=6608&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMRVQ4AU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXFpVAEkQHDZNRwYlJQUYAhlVSDd1VDN9biBrIk8EKhcEeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GU1hUAEgeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1oXCA5sCFgHVExVRWdmGFMdWw8CV1ZtCkoWAW04K2tqOn1JND5dfUhAQC9JXjJVP2RbURUEfk15AQRhaDxsFlxWVxkadyxQdjFPK1gl&cntvendor=3&srcsubj=35217416&type=bkbuy&subject=35217416"
+        },
+        {
+            "name": "当当网",
+            "price": "88.50元",
+            "link": "https://book.douban.com/link2/?lowest=6608&pre=0&vendor=dangdang&srcpage=subject&price=8850&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35217416%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29120969&cntvendor=3&srcsubj=35217416&type=bkbuy&subject=35217416"
+        },
+        {
+            "name": "中图网",
+            "price": "74.30元",
+            "link": "https://book.douban.com/link2/?lowest=6608&pre=0&vendor=bookschina&srcpage=subject&price=7430&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8412634.htm&cntvendor=3&srcsubj=35217416&type=bkbuy&subject=35217416"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35217416/",
+    "douban_id": "35217416",
+    "menu": [
+        "",
+        "        第 1 章　研发历程 1",
+        "        第 2 章　部队编制 17",
+        "        第 3 章　机动性 47",
+        "        第 4 章　火力 69",
+        "        第 5 章　装甲 85",
+        "        第 6 章　作战 97",
+        "        第 7 章　维修 191",
+        "        第 8 章　如何对付虎式坦克 221",
+        "        第 9 章　总结 233",
+        "        致谢 248",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33732274.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 托马斯·安德森（Thomas Anderson）",
+            "link": "https://book.douban.com/search/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E5%AE%89%E5%BE%B7%E6%A3%AE"
+        },
+        {
+            "text": "机械工业出版社",
+            "link": "https://book.douban.com/press/2793"
+        },
+        {
+            "text": "王行健",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E8%A1%8C%E5%81%A5"
+        },
+        {
+            "text": "鱼鹰军事经典译丛",
+            "link": "https://book.douban.com/series/54556"
+        }
+    ],
+    "tag": "军事"
+}

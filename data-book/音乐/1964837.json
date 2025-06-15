@@ -1,0 +1,63 @@
+{
+    "title": "李斯特论柏辽兹与舒曼",
+    "bookInfo": {
+        "作者": "李斯特",
+        "出版社": "人民音乐出版社",
+        "译者": "张洪岛 / 张洪谟 / 张宁",
+        "出版年": "1979.3",
+        "页数": "176",
+        "定价": "0.96",
+        "装帧": "平装",
+        "ISBN": "9787103027578"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "46.7%",
+        "four_star_rate": "53.3%",
+        "three_star_rate": "0.0%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4620601/",
+            "name": "李斯特",
+            "role": "作者",
+            "douban_id": "4620601"
+        },
+        {
+            "link": "https://book.douban.com/author/398330/",
+            "name": "张洪岛",
+            "role": "译者",
+            "douban_id": "398330"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1964837/",
+    "douban_id": "1964837",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s3999296.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李斯特",
+            "link": "https://book.douban.com/author/4620601"
+        },
+        {
+            "text": "人民音乐出版社",
+            "link": "https://book.douban.com/press/2660"
+        },
+        {
+            "text": "张洪岛",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E6%B4%AA%E5%B2%9B"
+        },
+        {
+            "text": "张洪谟",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E6%B4%AA%E8%B0%9F"
+        },
+        {
+            "text": "张宁",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E5%AE%81"
+        }
+    ],
+    "tag": "音乐"
+}

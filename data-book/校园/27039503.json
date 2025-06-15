@@ -1,0 +1,58 @@
+{
+    "title": "老马",
+    "bookInfo": {
+        "作者": "左手韩",
+        "出版社": "作家出版社",
+        "出品方": "中作华文",
+        "出版年": "2017-5-1",
+        "页数": "120",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "ISBN": "9787506394673"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.3%",
+        "four_star_rate": "44.9%",
+        "three_star_rate": "25.0%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "49.80元",
+            "link": "https://book.douban.com/link2/?lowest=2240&pre=0&vendor=jingdong&srcpage=subject&price=4980&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFsdXA8AU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVFZcAUkQHDZNRwYlFlJ1JBsueDt3RjdTEzluAxx4Iy0fXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4BXFZeCkIQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlMUVFZsCFgHUhYRS29mGFMcVAQLU1ttCkoWAW04K2t-Kn1EVlsbdxhyYCh4Wz9pG0REVlYfCzR5ARB0GywQG1JEB1hbYzxzczF1K1gl&cntvendor=3&srcsubj=27039503&type=bkbuy&subject=27039503"
+        },
+        {
+            "name": "当当网",
+            "price": "47.30元",
+            "link": "https://book.douban.com/link2/?lowest=2240&pre=0&vendor=dangdang&srcpage=subject&price=4730&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27039503%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25085049&cntvendor=3&srcsubj=27039503&type=bkbuy&subject=27039503"
+        },
+        {
+            "name": "中图网",
+            "price": "22.40元",
+            "link": "https://book.douban.com/link2/?lowest=2240&pre=0&vendor=bookschina&srcpage=subject&price=2240&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7490479.htm&cntvendor=3&srcsubj=27039503&type=bkbuy&subject=27039503"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27039503/",
+    "douban_id": "27039503",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29461874.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "左手韩",
+            "link": "https://book.douban.com/search/%E5%B7%A6%E6%89%8B%E9%9F%A9"
+        },
+        {
+            "text": "作家出版社",
+            "link": "https://book.douban.com/press/2768"
+        },
+        {
+            "text": "中作华文",
+            "link": "https://book.douban.com/producers/307"
+        }
+    ],
+    "tag": "校园"
+}

@@ -1,0 +1,76 @@
+{
+    "title": "一个男人的位置",
+    "bookInfo": {
+        "作者": "[法]安妮·埃尔诺",
+        "出版社": "上海人民出版社",
+        "副标题": "全新修订版",
+        "原作名": "La Place",
+        "译者": "郭玉梅",
+        "出版年": "2022-10",
+        "页数": "89",
+        "定价": "42",
+        "装帧": "精装",
+        "丛书": "安妮·埃尔诺作品",
+        "ISBN": "9787208178328"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "32.7%",
+        "four_star_rate": "52.3%",
+        "three_star_rate": "13.8%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611654/",
+            "name": "安妮·埃尔诺",
+            "role": "作者",
+            "douban_id": "4611654"
+        },
+        {
+            "link": "https://book.douban.com/author/4616451/",
+            "name": "郭玉梅",
+            "role": "译者",
+            "douban_id": "4616451"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.99元",
+            "link": "https://read.douban.com/ebook/454000633/?dcs=subject-buylink&dcm=douban&dct=36112202"
+        },
+        {
+            "name": "得到",
+            "price": "29.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=rEQKv6PKN7rEo2Gxg96ZjApyMvQVlw5rpq0Xb14PJzDkYaReqd8n5LOmB8d7egBx&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.40元",
+            "link": "https://book.douban.com/link2/?lowest=2660&pre=0&vendor=jingdong&srcpage=subject&price=2940&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV4XWw8DVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUVxbAUoXHDZNRwYlFVJxUQJDUSx0fB0WSBhQHGB7PDs-TkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXQ4LV1dUCE8fM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOE1hACARsCFgKSU5JQjVmG1oXXAQLXVltCkoWAW04K2tRHQJxK1sfekx2UxZYTVpMBXILIyA6Dwl5AThebRt3LgJ4UyAjTAtwYzJtK1gl&cntvendor=5&srcsubj=36112202&type=bkbuy&subject=36112202"
+        },
+        {
+            "name": "当当网",
+            "price": "40.30元",
+            "link": "https://book.douban.com/link2/?lowest=2660&pre=0&vendor=dangdang&srcpage=subject&price=4029&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36112202%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29469079&cntvendor=5&srcsubj=36112202&type=bkbuy&subject=36112202"
+        },
+        {
+            "name": "中图网",
+            "price": "26.60元",
+            "link": "https://book.douban.com/link2/?lowest=2660&pre=0&vendor=bookschina&srcpage=subject&price=2660&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8953014.htm&cntvendor=5&srcsubj=36112202&type=bkbuy&subject=36112202"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36112202/",
+    "douban_id": "36112202",
+    "menu": [
+        "",
+        "        媒体赞誉",
+        "        一个男人的位置",
+        "        追求“再现真实”与“内心流亡”的安妮·埃尔诺——代译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

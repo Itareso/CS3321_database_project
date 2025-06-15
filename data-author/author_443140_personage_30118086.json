@@ -1,0 +1,150 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "华太平家传",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34644414.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36558183/",
+                        "year": "2023",
+                        "id": 36558183
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "1949來台日記",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34197948.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35630898/",
+                        "year": "2022",
+                        "id": 35630898
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "非情書",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34197950.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35630899/",
+                        "year": "2022",
+                        "id": 35630899
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "小說家者流",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34196524.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35515550/",
+                        "year": "2022",
+                        "id": 35515550
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "破晓时分",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33889309.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35451966/",
+                        "year": "2021",
+                        "id": 35451966
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "狼",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33896448.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35451769/",
+                        "year": "2021",
+                        "id": 35451769
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "冶金者",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34088530.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35515551/",
+                        "year": "2021",
+                        "id": 35515551
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "加減乘除",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34072999.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35463359/",
+                        "year": "2021",
+                        "id": 35463359
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "畫夢紀",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34036955.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35655673/",
+                        "year": "2021",
+                        "id": 35655673
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "貓",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34090961.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35655463/",
+                        "year": "2021",
+                        "id": 35655463
+                    }
+                }
+            ],
+            "total": 28
+        }
+    },
+    "author_link": "https://book.douban.com/author/443140/",
+    "author_douban_id": "443140",
+    "personage_id": 30118086,
+    "name": [
+        "朱西甯",
+        "Hsi-Ning Chu"
+    ],
+    "intro": "朱西甯，本名朱青海(1927年6月16日-1998年3月22日)，当代台湾作家，笔名朱西甯，籍贯山东省临朐县。他的作品题材广泛，手法多变，亦有实验性质的作品，长于描写百姓生活。有小说《七对怨偶》、《八二三注》、《大火炬的爱》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/c4fb4cab749ef7f024d2ef14f159550a.jpg",
+    "更多中文名": "朱青海(原名)",
+    "sex": 1,
+    "birth_date": 1927,
+    "death_date": 1998,
+    "age": 72,
+    "IMDB": "nm6752757",
+    "profession": [
+        "作者"
+    ]
+}

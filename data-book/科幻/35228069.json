@@ -1,0 +1,89 @@
+{
+    "title": "零K",
+    "bookInfo": {
+        "作者": "唐·德里罗",
+        "出版社": "译林出版社",
+        "原作名": "Zero K",
+        "译者": "靖振忠",
+        "出版年": "2021-5-1",
+        "页数": "228",
+        "定价": "59.00元",
+        "装帧": "精装",
+        "丛书": "唐·德里罗作品系列",
+        "ISBN": "9787544784207"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "27.0%",
+        "four_star_rate": "44.1%",
+        "three_star_rate": "24.2%",
+        "two_star_rate": "3.5%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/432787/",
+            "name": "唐·德里罗",
+            "role": "作者",
+            "douban_id": "432787"
+        },
+        {
+            "link": "https://book.douban.com/author/4614772/",
+            "name": "靖振忠",
+            "role": "译者",
+            "douban_id": "4614772"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "43.99元",
+            "link": "https://read.douban.com/ebook/318041554/?dcs=subject-buylink&dcm=douban&dct=35228069"
+        },
+        {
+            "name": "得到",
+            "price": "43.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=YxRj1dbLGNgA2oaD6VBevmQZ7rnbYWmg4VwkyOKRMzJpX9lP5dxqE41j8De2pmOP&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.14元",
+            "link": "https://book.douban.com/link2/?lowest=2914&pre=0&vendor=jingdong&srcpage=subject&price=2914&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAcgJK1olVQIGVFdYCkseM28JGlkUWA8HVVtZDk0fMytXQwVKbV9HER8fA1UJWDdXTQxBAhlZAUEPVhcJWypcR0RMGFpfWhwHTEdjBh9LZF4QXU0CHyQJaUlfZW0MGgdpJ0dsVj8tSE5JQDRRUDBGAAd8CyACHwsbdxZ4fixcOkZ0PT44fDhkQhhXQQNxOW5EIxYHbCleYyl-fitzOlxyHSo_CSx1Ah9IbSlPOWQDKBg-CjBkdCZBTC9sC2F1HRcBfElrZhRvZ11wFWV0MwEDYBlxfwp8eDBLKQRQBCkuWkJ0aj1hYihAGXB7Djo9azRTdCdgfSJ2IkR2JjkkfAN0XBthbzhsPlNcICclUHtCYRNTQAVhCWZ3BBlfS0hIajxWXj5TUQoyU1taDkweAGg4G18UWQIyZF5cOAp5A2sNH18QbQQCVV9YCEMQAG44G10QXAUCUllVAEsWAV8IE18lhIa1gvzP0dWd1uefK2slXjYyZF5eOEgnXQEJSF0XXQVWUzABDh0WXS8ATzUVXQILV1xaDnsVAm4KGWslbXIHJB0iDU4XSG9DYQ90X05kVlpcVDdtQgEKeitVWFhBDwcWYxhKAhFXZQQlXjY&cntvendor=4&srcsubj=35228069&type=bkbuy&subject=35228069"
+        },
+        {
+            "name": "当当网",
+            "price": "59.00元",
+            "link": "https://book.douban.com/link2/?lowest=2914&pre=0&vendor=dangdang&srcpage=subject&price=5900&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35228069%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29240769&cntvendor=4&srcsubj=35228069&type=bkbuy&subject=35228069"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35228069/",
+    "douban_id": "35228069",
+    "menu": [
+        "",
+        "        第一部 车里雅宾斯克时期",
+        "        阿尔蒂·马蒂诺",
+        "        第二部 康斯坦丁诺夫卡时期·",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33869425.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "唐·德里罗",
+            "link": "https://book.douban.com/author/432787"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "靖振忠",
+            "link": "https://book.douban.com/search/%E9%9D%96%E6%8C%AF%E5%BF%A0"
+        },
+        {
+            "text": "唐·德里罗作品系列",
+            "link": "https://book.douban.com/series/18172"
+        }
+    ],
+    "tag": "科幻"
+}

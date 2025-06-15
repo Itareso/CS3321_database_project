@@ -1,0 +1,61 @@
+{
+    "title": "东线",
+    "bookInfo": {
+        "作者": "朱世巍",
+        "出版社": "重庆出版社",
+        "副标题": "决战第聂泊河",
+        "出版年": "2007-10",
+        "页数": "153",
+        "定价": "28.00元",
+        "装帧": "平装",
+        "丛书": "东线1941-1945",
+        "ISBN": "9787536691216"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "23.6%",
+        "four_star_rate": "45.8%",
+        "three_star_rate": "19.4%",
+        "two_star_rate": "4.2%",
+        "one_star_rate": "6.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/362407/",
+            "name": "朱世巍",
+            "role": "作者",
+            "douban_id": "362407"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "41.00元",
+            "link": "https://book.douban.com/link2/?lowest=4100&pre=0&vendor=jingdong&srcpage=subject&price=4100&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10036902870721.html&cntvendor=1&srcsubj=2316001&type=bkbuy&subject=2316001"
+        }
+    ],
+    "url": "https://book.douban.com/subject/2316001/",
+    "douban_id": "2316001",
+    "menu": [
+        "",
+        "        序章  夏日插曲的回音：姆加与米乌斯    一、夏天的回音（1）：姆加战役    二、夏天的回音（2）：米乌斯河—北顿涅茨河之战1   奔向第聂伯河的秋天    一、实力对比、红军战略、第聂伯河    二、顿巴斯之战    三、曼斯坦因北翼动摇2   撤退与追击：向第聂伯河的赛跑    一、追击：中央方面军    二、追击：沃罗涅日方面军    三、追击：草原方面军    四、顿巴斯与尾声    特别附录：焦土政策3   斯摩棱克与库班    一、斯摩棱克会战    二、库班桥头堡的末日4   决战第聂伯河    一：从夏至秋    二、新的态势与新的计划    三、第聂伯河下游战役与科涅夫的攻势    四、基辅战役    五、日托米尔反击    六、曼斯坦因第聂伯河防线的瓦解尾声   德黑兰——强权者的盛宴",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s24492138.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "朱世巍",
+            "link": "https://book.douban.com/search/%E6%9C%B1%E4%B8%96%E5%B7%8D"
+        },
+        {
+            "text": "重庆出版社",
+            "link": "https://book.douban.com/press/2162"
+        },
+        {
+            "text": "东线1941-1945",
+            "link": "https://book.douban.com/series/1041"
+        }
+    ],
+    "tag": "军事"
+}

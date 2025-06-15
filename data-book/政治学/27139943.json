@@ -1,0 +1,78 @@
+{
+    "title": "雅尔塔",
+    "bookInfo": {
+        "作者": "[美] 沙希利·浦洛基",
+        "出版社": "中信出版社",
+        "出品方": "新思文化",
+        "副标题": "改变世界格局的八天",
+        "原作名": "Yalta: The Price of Peace",
+        "译者": "林添贵",
+        "出版年": "2018-3",
+        "页数": "568",
+        "定价": "72.00元",
+        "装帧": "精装",
+        "ISBN": "9787508681849"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    从1914年到1945年，世界经历两次大战的浩劫，人们从未如此渴望和平。    1945年2月4日至2月11日，和平曙光初现，罗斯福、斯大林、丘吉尔带着精明的谈判代表，在雅尔塔举行秘密会议。短短八天里，三巨头手握大小不等的筹码，时而两两联手，时而互相背叛，时而强硬，时而妥协，在理念与现实、道义与利益、意识形态与地缘政治之间摇摆权衡。他们想尽快结束战争，想维护战胜国的利益，还想遏制一切战争的根源，而这一切，都是以小国的利益为代价的。波兰、德国、中国……许多国家的战后轨迹就此改变。    会议结束时，与会者充满了乐观的希望，他们得到了各自想要的，也相信雅尔塔精神所代表的妥协和谅解，将成为战后盟国关系的基础。然而，1947年，铁幕降下，冷战开始。雅尔塔成了错失和平机会的象征。    哈佛大学东欧史专家沙希利•浦洛基则要为雅尔塔会议正名。他梳理苏联解密档案、各国政府文件、与会者回忆录和未发表日记，生动重现了这场争议极大、影响深远的会议。他重建当时的情势，从会议参与者的选择、计算、利益、理念出发，证明雅尔塔虽是通往分裂、危险的世界之路上的重要一步，却绝非冷战的肇因。实际上，与会者协助结束战争，建立了经由谈判得到的和平环境，尽管和平仍有缺憾，但在当时的情形下，恐怕不会有更好的结果了。当然，这场意在为和平铺路的会议，也为达成和平付出了代价。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "39.3%",
+        "four_star_rate": "48.4%",
+        "three_star_rate": "10.3%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4612725/",
+            "name": "沙希利·浦洛基",
+            "role": "作者",
+            "douban_id": "4612725"
+        },
+        {
+            "link": "https://book.douban.com/author/4622939/",
+            "name": "林添贵",
+            "role": "译者",
+            "douban_id": "4622939"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "42.67元",
+            "link": "https://read.douban.com/ebook/51401054/?dcs=subject-buylink&dcm=douban&dct=27139943"
+        },
+        {
+            "name": "得到",
+            "price": "42.67元",
+            "link": "https://www.dedao.cn/ebook/detail?id=XOnaYG1qlM7amvGYerDZOy9JVnXL40BoAJWBkp1NKxoRdb86P2Q5AzgEj9vE5rDo&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "46.80元",
+            "link": "https://book.douban.com/link2/?lowest=4680&pre=0&vendor=jingdong&srcpage=subject&price=4680&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgcLVVpeCk4TBV8IGloQXQcAXF5YDEkXB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoIGlkdXQMGVl5ZFxJSXzI4GDlONWBXUTU-Xz0WQBpIXQROVXYcJFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwIAVFxcOEkXAm4NG1MSXgcyVFhYCU4fCmkAH1gUWDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRXF5eAE0UbTMOQQUVAFFWOlxcCEsXBmcMK1kUXAQAZG5tSRJUWwtoQRJsNlALEB02AT4feDlAUhB-MwRWFyoEdhNISBZebyZvHmVZJm5eOA&cntvendor=3&srcsubj=27139943&type=bkbuy&subject=27139943"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27139943/",
+    "douban_id": "27139943",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29897374.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 沙希利·浦洛基",
+            "link": "https://book.douban.com/search/%E6%B2%99%E5%B8%8C%E5%88%A9%C2%B7%E6%B5%A6%E6%B4%9B%E5%9F%BA"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "新思文化",
+            "link": "https://book.douban.com/producers/60"
+        },
+        {
+            "text": "林添贵",
+            "link": "https://book.douban.com/author/4622939"
+        }
+    ],
+    "tag": "政治学"
+}

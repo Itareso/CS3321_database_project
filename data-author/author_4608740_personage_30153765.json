@@ -1,0 +1,153 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "象征的漂移",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34987676.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37087767/",
+                        "year": "2024",
+                        "id": 37087767
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "海豚说着我听不懂的语言",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34944581.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36838038/",
+                        "year": "2024",
+                        "id": 36838038
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "张枣的诗",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34577842.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36323336/",
+                        "year": "2023",
+                        "id": 36323336
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "非一般的阅读课 第一辑",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34652173.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36570805/",
+                        "year": "2023",
+                        "id": 36570805
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "非一般的阅读课 第三辑",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34652172.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36529228/",
+                        "year": "2023",
+                        "id": 36529228
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "非一般的阅读课 第二辑",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34651727.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36570908/",
+                        "year": "2023",
+                        "id": 36570908
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "张枣诗文集",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33842441.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35324211/",
+                        "year": "2021",
+                        "id": 35324211
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "世上谩相识",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33992854.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34834577/",
+                        "year": "2021",
+                        "id": 34834577
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.5,
+                        "title": "化欧化古的当代汉语诗艺",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34184250.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/35248832/",
+                        "year": "2020",
+                        "id": 35248832
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "张枣随笔集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29849592.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/30304339/",
+                        "year": "2018",
+                        "id": 30304339
+                    }
+                }
+            ],
+            "total": 13
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608740/",
+    "author_douban_id": "4608740",
+    "personage_id": 30153765,
+    "name": [
+        "颜炼军",
+        "Lianjun Yan"
+    ],
+    "intro": "颜炼军，1980年生于云南大理，南京大学文学院教授。英国伦敦大学亚非学院访问学者，曾任教于浙江工业大学人文学院。已出版《象征的漂移》（广西师范大学出版社2015年）《诗的啤酒肚》（东方出版社2018年）《世上谩相识》（人民文学出版社2021年）《海豚说着我听不懂的语言》（华东师范大学出版社2024年）等学术和批评著作，另编有《张枣的诗》（人民文学出版社2023年）《张枣诗文集》（四川文艺出版社2021年，五卷本）等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/37da636c6f834187df27a873904d5e64.jpg",
+    "sex": 1,
+    "birth_date": 1980,
+    "age": 46,
+    "birth_place": [
+        "中国",
+        "云南",
+        "大理"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "黄粱一梦",
+    "bookInfo": {
+        "作者": "不明眼",
+        "出版社": "百花文艺出版社",
+        "出品方": "宏泰恒信",
+        "出版年": "2024-5",
+        "页数": "352",
+        "定价": "58.00元",
+        "装帧": "平装",
+        "ISBN": "9787530688137"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "53.4%",
+        "four_star_rate": "32.3%",
+        "three_star_rate": "10.6%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4641055/",
+            "name": "不明眼",
+            "role": "作者",
+            "douban_id": "4641055"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "9.35元",
+            "link": "https://read.douban.com/column/61575579/?dcs=subject-buylink&dcm=douban&dct=36874364"
+        },
+        {
+            "name": "京东商城",
+            "price": "28.60元",
+            "link": "https://book.douban.com/link2/?lowest=2860&pre=0&vendor=jingdong&srcpage=subject&price=2860&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHlsRWQcLVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHVFpZCUIVHDZNRwYlHHh1XFYAQBBydjt6HhhpKnR8FitcTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXQ4FUl9eD0oSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gdWwVsCFgKVkxWU2ZmG1oUWAIAVldtCkoWAW04K2sRW3YCDzsFbylPahUNGRxmI09wVjVbczF5ATRSE11GXVgCNikqDE1KRx99K1gl&cntvendor=4&srcsubj=36874364&type=bkbuy&subject=36874364"
+        },
+        {
+            "name": "当当网",
+            "price": "55.70元",
+            "link": "https://book.douban.com/link2/?lowest=2860&pre=0&vendor=dangdang&srcpage=subject&price=5570&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36874364%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29726422&cntvendor=4&srcsubj=36874364&type=bkbuy&subject=36874364"
+        },
+        {
+            "name": "中图网",
+            "price": "32.30元",
+            "link": "https://book.douban.com/link2/?lowest=2860&pre=0&vendor=bookschina&srcpage=subject&price=3229&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9327576.htm&cntvendor=4&srcsubj=36874364&type=bkbuy&subject=36874364"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36874364/",
+    "douban_id": "36874364",
+    "menu": [
+        "",
+        "        第一章 开业大吉           001",
+        "        第二章 富贵险中求         037",
+        "        第三章 专程找茬           071",
+        "        第四章 新世纪唯物主义     107",
+        "        第五章 没有故事的女同学   139",
+        "        第六章 白央 .exe 停止运行  167",
+        "        第七章 进击的网红店       199",
+        "        番外一 白奶油             233",
+        "        番外二 饺子皮             251",
+        "        番外三 生日蛋糕           261",
+        "        番外四 玫瑰裱花           277",
+        "        番外五 薄荷糖             295",
+        "        番外六 辣椒和砂糖         311",
+        "        番外七 网红店开业指南     331",
+        "        新番外 外卖订单           341",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

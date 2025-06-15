@@ -1,0 +1,154 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "儒教中国及其现代命运",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34894009.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36884135/",
+                        "year": "2024",
+                        "id": 36884135
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "城乡变奏",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34510245.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36374106/",
+                        "year": "2023",
+                        "id": 36374106
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "北京大学",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36609014/",
+                        "year": "2023",
+                        "id": 36609014
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "哈佛新编中国现代文学史",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34330367.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35716743/",
+                        "year": "2022",
+                        "id": 35716743
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "趙元任早年自傳",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33845014.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35387620/",
+                        "year": "2021",
+                        "id": 35387620
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "新文化的位置",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33944138.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35512927/",
+                        "year": "2021",
+                        "id": 35512927
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "五四讀本",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s32307722.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/33399292/",
+                        "year": "2019",
+                        "id": 33399292
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "重写旧京",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29549119.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/27140963/",
+                        "year": "2017",
+                        "id": 27140963
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "中国现代女性作家与中国革命，1905-1948",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s6509645.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/6520513/",
+                        "year": "2011",
+                        "id": 6520513
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "北平的大学教育与文学生产",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s4673084.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/6026266/",
+                        "year": "2011",
+                        "id": 6026266
+                    }
+                }
+            ],
+            "total": 13
+        }
+    },
+    "author_link": "https://book.douban.com/author/4624787/",
+    "author_douban_id": "4624787",
+    "personage_id": 36619052,
+    "name": [
+        "季剑青",
+        "Jianqing Ji"
+    ],
+    "intro": "季剑青，1979年生，安徽肥东人。1996年至2000年就读于北京大学生命科学学院，2000年起就读于北京大学中文系，2007年毕业，获文学博士学位。2007年7月至2021年6月任职于北京市社会科学院文学所（后改为文化所）。2019年8月至2020年7月为哈佛大学东亚系访问学者。2021年7月入职北京大学中文系，现为现代文学教研室长聘副教授，研究员。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/e0841a2bb6b85f65c40ce3c199a07bf0.jpg",
+    "sex": 1,
+    "birth_date": 1979,
+    "age": 47,
+    "birth_place": [
+        "中国",
+        "安徽",
+        "肥东"
+    ],
+    "profession": [
+        "作者",
+        "译者",
+        "编者"
+    ]
+}

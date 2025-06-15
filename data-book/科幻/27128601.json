@@ -1,0 +1,72 @@
+{
+    "title": "佐伊的战争",
+    "bookInfo": {
+        "作者": "[美]约翰·斯卡尔齐",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "读客文化",
+        "副标题": "老人的战争六部曲第4部",
+        "原作名": "Zoe's Tale",
+        "译者": "姚向辉",
+        "出版年": "2017-11",
+        "页数": "289",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "丛书": "约翰·斯卡尔齐作品",
+        "ISBN": "9787559411167"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "15.4%",
+        "four_star_rate": "39.4%",
+        "three_star_rate": "34.5%",
+        "two_star_rate": "8.8%",
+        "one_star_rate": "2.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/995629/",
+            "name": "约翰·斯卡尔齐",
+            "role": "作者",
+            "douban_id": "995629"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "8.70元",
+            "link": "https://book.douban.com/link2/?lowest=869&pre=0&vendor=jingdong&srcpage=subject&price=869&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFgRVAMAU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBV1pUDUkQHDZNRwYlWW15CyMCcw91Zh1wQCt-OkJpChYnXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYEXF1eDUkRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1kRCAFsCFgLCQ5PX2hmG1sRVQYBXFltCkoWAW04K2trOUJRND5faj1hBB17QidlAX8LED4KXTh5AQxtfT9MDgBVIhoZdi9kAgZcK1gl&cntvendor=2&srcsubj=27128601&type=bkbuy&subject=27128601"
+        },
+        {
+            "name": "中图网",
+            "price": "15.70元",
+            "link": "https://book.douban.com/link2/?lowest=869&pre=0&vendor=bookschina&srcpage=subject&price=1570&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7655265.htm&cntvendor=2&srcsubj=27128601&type=bkbuy&subject=27128601"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27128601/",
+    "douban_id": "27128601",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s29603401.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]约翰·斯卡尔齐",
+            "link": "https://book.douban.com/author/995629"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "读客文化",
+            "link": "https://book.douban.com/producers/6"
+        },
+        {
+            "text": "姚向辉",
+            "link": "https://book.douban.com/search/%E5%A7%9A%E5%90%91%E8%BE%89"
+        },
+        {
+            "text": "约翰·斯卡尔齐作品",
+            "link": "https://book.douban.com/series/22389"
+        }
+    ],
+    "tag": "科幻"
+}

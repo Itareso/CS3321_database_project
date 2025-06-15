@@ -1,0 +1,81 @@
+{
+    "title": "作为教育家的叔本华",
+    "bookInfo": {
+        "作者": "(德) 尼采",
+        "出版社": "译林出版社",
+        "译者": "周国平",
+        "出版年": "2012-3",
+        "页数": "88",
+        "定价": "20.00元",
+        "装帧": "平装",
+        "丛书": "汉译经典",
+        "ISBN": "9787544726108"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "55.7%",
+        "four_star_rate": "33.9%",
+        "three_star_rate": "8.5%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4508932/",
+            "name": "尼采",
+            "role": "作者",
+            "douban_id": "4508932"
+        },
+        {
+            "link": "https://book.douban.com/author/4505884/",
+            "name": "周国平",
+            "role": "译者",
+            "douban_id": "4505884"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "48.74元",
+            "link": "https://book.douban.com/link2/?lowest=4874&pre=0&vendor=jingdong&srcpage=subject&price=4874&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10066527832916.html&cntvendor=1&srcsubj=10485841&type=bkbuy&subject=10485841"
+        }
+    ],
+    "url": "https://book.douban.com/subject/10485841/",
+    "douban_id": "10485841",
+    "menu": [
+        "",
+        "        目    录",
+        "        译者导言：哲学•人生•时代",
+        "        作为教育家的叔本华",
+        "        一、成为你自己",
+        "        二、回归简单和诚实",
+        "        三、叔本华的范例",
+        "        四、负着人的形象上升",
+        "        五、自然为何要产生哲学家",
+        "        六、现代文化与自然的目标背道而驰",
+        "        七、我们对哲学家承担什么责任",
+        "        八、把哲学从学院里驱逐出去",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s8976738.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "(德) 尼采",
+            "link": "https://book.douban.com/author/4508932"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "周国平",
+            "link": "https://book.douban.com/author/4505884/"
+        },
+        {
+            "text": "汉译经典",
+            "link": "https://book.douban.com/series/7936"
+        }
+    ],
+    "tag": "西方哲学"
+}

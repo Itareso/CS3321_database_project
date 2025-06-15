@@ -1,0 +1,94 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "逍遥游",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35027259.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37056275/",
+                        "year": "2024",
+                        "id": 37056275
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "冬泳",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34582875.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36124346/",
+                        "year": "2023",
+                        "id": 36124346
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "缓步",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34354072.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36124370/",
+                        "year": "2022",
+                        "id": 36124370
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "大宇宙",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28352978.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26675995/",
+                        "year": "2015",
+                        "id": 26675995
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4612828/",
+    "author_douban_id": "4612828",
+    "personage_id": 35637255,
+    "name": [
+        "班宇",
+        "Yu Ban"
+    ],
+    "intro": "班宇，1986年生，沈阳人，小说作品见于《收获》《当代》《十月》等刊。已出版小说集《冬泳》《逍遥游》《缓步》。曾用笔名坦克手贝吉塔。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/35637255/photo/2880200907",
+        "https://www.douban.com/personage/35637255/photo/2880200904",
+        "https://www.douban.com/personage/35637255/photo/2904747677",
+        "https://www.douban.com/personage/35637255/photo/2880200908",
+        "https://www.douban.com/personage/35637255/photo/2880200906"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2880200907.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2880200904.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2904747677.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2880200908.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2880200906.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/77f6ea9b237093a25e0187790905e0ff.jpg",
+    "更多中文名": "坦克手贝吉塔",
+    "sex": 1,
+    "birth_date": 1986,
+    "age": 40,
+    "birth_place": [
+        "中国",
+        "辽宁",
+        "沈阳"
+    ],
+    "profession": [
+        "编剧",
+        "作者"
+    ]
+}

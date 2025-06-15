@@ -1,0 +1,90 @@
+{
+    "title": "不正义的多重面孔",
+    "bookInfo": {
+        "作者": "[美]朱迪丝·N.施克莱",
+        "出版社": "上海人民出版社",
+        "原作名": "The Faces of Injustice",
+        "译者": "钱一栋",
+        "出版年": "2020-4",
+        "页数": "233",
+        "定价": "40.00",
+        "装帧": "平装",
+        "丛书": "思想剧场",
+        "ISBN": "9787208162761"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.4%",
+        "four_star_rate": "40.6%",
+        "three_star_rate": "18.4%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "1.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609153/",
+            "name": "朱迪丝·N.施克莱",
+            "role": "作者",
+            "douban_id": "4609153"
+        },
+        {
+            "link": "https://book.douban.com/author/4617412/",
+            "name": "钱一栋",
+            "role": "译者",
+            "douban_id": "4617412"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "30.00元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=jingdong&srcpage=subject&price=3000&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFIXVAEFUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVxUD0wSHDZNRwYlKk5rFwM1CjNyeXVySTloA3tgHwohXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4EUl1UDEsQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXQRsCFgHVx9XVmhmGVoWXgEAVFZtCkoWAW04K2tqOn1JND5dfUhAQC8LHSZ2GmRbLg4bWit5AQRhaDxsFlxWVxkadyxyXWZPK1gl&cntvendor=3&srcsubj=34950156&type=bkbuy&subject=34950156"
+        },
+        {
+            "name": "当当网",
+            "price": "30.00元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=dangdang&srcpage=subject&price=3000&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34950156%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28539092&cntvendor=3&srcsubj=34950156&type=bkbuy&subject=34950156"
+        },
+        {
+            "name": "中图网",
+            "price": "23.00元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=bookschina&srcpage=subject&price=2300&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8281310.htm&cntvendor=3&srcsubj=34950156&type=bkbuy&subject=34950156"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34950156/",
+    "douban_id": "34950156",
+    "menu": [
+        "",
+        "        前　言　_ i",
+        "        导　论　_ 1",
+        "        第1章",
+        "        给予不正义应有的重视　_ 29",
+        "        第2章",
+        "        不幸与不正义　_ 95",
+        "        第3章",
+        "        不正义感　_ 153",
+        "        索引　_ 227",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33608250.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]朱迪丝·N.施克莱",
+            "link": "https://book.douban.com/search/%E6%9C%B1%E8%BF%AA%E4%B8%9D%C2%B7N.%E6%96%BD%E5%85%8B%E8%8E%B1"
+        },
+        {
+            "text": "上海人民出版社",
+            "link": "https://book.douban.com/press/2733"
+        },
+        {
+            "text": "钱一栋",
+            "link": "https://book.douban.com/author/4617412"
+        },
+        {
+            "text": "思想剧场",
+            "link": "https://book.douban.com/series/42977"
+        }
+    ],
+    "tag": "政治学"
+}

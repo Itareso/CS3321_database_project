@@ -1,0 +1,61 @@
+{
+    "title": "怒火重燃",
+    "bookInfo": {
+        "作者": "[英] 理查德·摩根",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "副标题": "科瓦奇三部曲03",
+        "原作名": "Woken Furies",
+        "译者": "朱佳文",
+        "出版年": "2017-6",
+        "页数": "650",
+        "定价": "58.00元",
+        "装帧": "平装",
+        "丛书": "世界流行科幻丛书",
+        "ISBN": "9787536486256"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "23.7%",
+        "four_star_rate": "44.1%",
+        "three_star_rate": "25.7%",
+        "two_star_rate": "5.3%",
+        "one_star_rate": "1.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608491/",
+            "name": "理查德·摩根",
+            "role": "作者",
+            "douban_id": "4608491"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/27024112/",
+    "douban_id": "27024112",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29468450.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 理查德·摩根",
+            "link": "https://book.douban.com/search/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%91%A9%E6%A0%B9"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "朱佳文",
+            "link": "https://book.douban.com/search/%E6%9C%B1%E4%BD%B3%E6%96%87"
+        },
+        {
+            "text": "世界流行科幻丛书",
+            "link": "https://book.douban.com/series/1390"
+        }
+    ],
+    "tag": "科幻"
+}

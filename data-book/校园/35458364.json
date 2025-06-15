@@ -1,0 +1,64 @@
+{
+    "title": "阿也",
+    "bookInfo": {
+        "作者": "引路星",
+        "出版社": "长江出版社",
+        "原作名": "我喜欢你的信息素",
+        "出版年": "2021-4",
+        "定价": "39.8",
+        "丛书": "阿也",
+        "ISBN": "9787549276042"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "51.0%",
+        "four_star_rate": "25.4%",
+        "three_star_rate": "18.3%",
+        "two_star_rate": "3.5%",
+        "one_star_rate": "1.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624894/",
+            "name": "引路星",
+            "role": "作者",
+            "douban_id": "4624894"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.89元",
+            "link": "https://book.douban.com/link2/?lowest=1610&pre=0&vendor=jingdong&srcpage=subject&price=2189&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFITXgYCUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVheCEsTHDZNRwYlNENYETdfD1VyQw1cRUULDXFdIQsmaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4DU19fCk4TM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8SWg5sCFgHU0wWWC9mGFMQVAECUlxtCkoWAW04K2tHFkZpXD4EACNORml8fwloI2NpADUZcCB5AW0PfxAXNltwPFxfWgBlaDVcK1gl&cntvendor=3&srcsubj=35458364&type=bkbuy&subject=35458364"
+        },
+        {
+            "name": "当当网",
+            "price": "22.10元",
+            "link": "https://book.douban.com/link2/?lowest=1610&pre=0&vendor=dangdang&srcpage=subject&price=2210&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35458364%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29276399&cntvendor=3&srcsubj=35458364&type=bkbuy&subject=35458364"
+        },
+        {
+            "name": "中图网",
+            "price": "16.10元",
+            "link": "https://book.douban.com/link2/?lowest=1610&pre=0&vendor=bookschina&srcpage=subject&price=1610&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8932463.htm&cntvendor=3&srcsubj=35458364&type=bkbuy&subject=35458364"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35458364/",
+    "douban_id": "35458364",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33914755.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "引路星",
+            "link": "https://book.douban.com/author/4624894"
+        },
+        {
+            "text": "长江出版社",
+            "link": "https://book.douban.com/press/2260"
+        },
+        {
+            "text": "阿也",
+            "link": "https://book.douban.com/series/67566"
+        }
+    ],
+    "tag": "校园"
+}

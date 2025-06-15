@@ -1,0 +1,74 @@
+{
+    "title": "不被大风吹倒",
+    "bookInfo": {
+        "作者": "莫言",
+        "出版社": "北京日报出版社",
+        "出品方": "读客文化",
+        "出版年": "2024-10",
+        "定价": "50.00元",
+        "装帧": "平装",
+        "丛书": "读客莫言作品",
+        "ISBN": "9787547750407"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.5%",
+        "four_star_rate": "40.4%",
+        "three_star_rate": "36.4%",
+        "two_star_rate": "5.5%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4514884/",
+            "name": "莫言",
+            "role": "作者",
+            "douban_id": "4514884"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "59.90元",
+            "link": "https://read.douban.com/ebook/484799500/?dcs=subject-buylink&dcm=douban&dct=36978314"
+        },
+        {
+            "name": "京东商城",
+            "price": "27.00元",
+            "link": "https://book.douban.com/link2/?lowest=2700&pre=0&vendor=jingdong&srcpage=subject&price=2700&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHlkWWAMDUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHVl1YDUoTHDZNRwYlXVNwIyhYdi51XSdIGD9yIgJ2LRsnTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcCV11UCEIUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVoUCQBsCFgKSAxWCixmG1oQXwACXVhtCkoWAW04K2sRW3YCDzsFbylPahV0XFtIL09wFzc4Dk55ATRSE11GXVgCNikqDE1LCjB9K1gl&cntvendor=4&srcsubj=36978314&type=bkbuy&subject=36978314"
+        },
+        {
+            "name": "当当网",
+            "price": "39.80元",
+            "link": "https://book.douban.com/link2/?lowest=2700&pre=0&vendor=dangdang&srcpage=subject&price=3979&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36978314%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29808132&cntvendor=4&srcsubj=36978314&type=bkbuy&subject=36978314"
+        },
+        {
+            "name": "中图网",
+            "price": "38.10元",
+            "link": "https://book.douban.com/link2/?lowest=2700&pre=0&vendor=bookschina&srcpage=subject&price=3810&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9451968.htm&cntvendor=4&srcsubj=36978314&type=bkbuy&subject=36978314"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36978314/",
+    "douban_id": "36978314",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s35020417.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "莫言",
+            "link": "https://book.douban.com/author/4514884"
+        },
+        {
+            "text": "北京日报出版社",
+            "link": "https://book.douban.com/press/2656"
+        },
+        {
+            "text": "读客文化",
+            "link": "https://book.douban.com/producers/6"
+        },
+        {
+            "text": "读客莫言作品",
+            "link": "https://book.douban.com/series/61385"
+        }
+    ],
+    "tag": "随笔"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "通往宇宙之门",
+    "bookInfo": {
+        "作者": "[美] 弗雷德里克·波尔",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "Gateway",
+        "译者": "严伟",
+        "出版年": "2019-7",
+        "定价": "42",
+        "装帧": "平装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536494459"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "19.9%",
+        "four_star_rate": "49.5%",
+        "three_star_rate": "24.1%",
+        "two_star_rate": "5.6%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/208252/",
+            "name": "弗雷德里克·波尔",
+            "role": "作者",
+            "douban_id": "208252"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.99元",
+            "link": "https://read.douban.com/ebook/342554810/?dcs=subject-buylink&dcm=douban&dct=33423751"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwQWw4HVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEgYrUCx3VCpITw5hHX4KNA5YXgt-RRVAdVlFHw9aPAZeSgtveylQS1xoWxFCWCokcCxjcBRXbDJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZYVhkpby1ncA9AASJyO1IHPRdHQAhnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFpYCEIfB2c4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRXV8zVE1ASDxMXQd7XQYHXV5dAEwnAW4JGVklbTZEDCgFbytARi9cTi9VJQ5iBFsLSCJReSdmGQtXVF5qDF0fSDNvRTdYHCYTbQUy&cntvendor=3&srcsubj=33423751&type=bkbuy&subject=33423751"
+        },
+        {
+            "name": "当当网",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=dangdang&srcpage=subject&price=4200&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s33423751%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27897169&cntvendor=3&srcsubj=33423751&type=bkbuy&subject=33423751"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33423751/",
+    "douban_id": "33423751",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33312977.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 弗雷德里克·波尔",
+            "link": "https://book.douban.com/author/208252"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "严伟",
+            "link": "https://book.douban.com/search/%E4%B8%A5%E4%BC%9F"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

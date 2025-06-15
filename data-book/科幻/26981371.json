@@ -1,0 +1,86 @@
+{
+    "title": "科幻作品",
+    "bookInfo": {
+        "作者": "[英]戴维·锡德",
+        "出版社": "译林出版社",
+        "原作名": "Science Fiction",
+        "译者": "邵志军",
+        "出版年": "2017-7",
+        "页数": "151（中）+135（英）",
+        "定价": "32.00",
+        "丛书": "牛津通识读本",
+        "ISBN": "9787544768399"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "11.2%",
+        "four_star_rate": "50.9%",
+        "three_star_rate": "34.4%",
+        "two_star_rate": "3.3%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.99元",
+            "link": "https://read.douban.com/ebook/35770613/?dcs=subject-buylink&dcm=douban&dct=26981371"
+        },
+        {
+            "name": "得到",
+            "price": "19.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=6donM9vjLM8m6d5YQ7lvJGVz2Xgaqb3pkkWnBRyejENkP1KZo9rD4OApxpxkY7Ke&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.50元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=jingdong&srcpage=subject&price=1950&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF8SWQcCUW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOLSQKUjtIf2prUB1hX1xRIiA8eCxSASdpdVl8L054JwQNCShLXxZybVluORFCWCokcC1jWhxMbyJ1BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZSNDtaCVUeRwpQfV9qPHp2FgdcYRNRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFdaDE8TBm04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CVFszVE1BA2cBEwZ7XQYLVllbCEwnAW4JGVklbTZ7LgkHeBRrBgxDXS8XB1V0Kj8tbw4VSw5mGTJnFXxxDg5caxdLehV-GSBxbQUy&cntvendor=5&srcsubj=26981371&type=bkbuy&subject=26981371"
+        },
+        {
+            "name": "当当网",
+            "price": "18.00元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=dangdang&srcpage=subject&price=1800&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26981371%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25105912&cntvendor=5&srcsubj=26981371&type=bkbuy&subject=26981371"
+        },
+        {
+            "name": "中图网",
+            "price": "22.40元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=bookschina&srcpage=subject&price=2240&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8045211.htm&cntvendor=5&srcsubj=26981371&type=bkbuy&subject=26981371"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26981371/",
+    "douban_id": "26981371",
+    "menu": [
+        "",
+        "        前言",
+        "        第一章\t太空漫游",
+        "        第二章\t遭遇异族",
+        "        第三章\t科幻与技术",
+        "        第四章\t乌托邦与敌托邦",
+        "        第五章\t时间的小说",
+        "        第六章\t科幻的领域",
+        "        索引",
+        "        英文原文",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s29452231.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英]戴维·锡德",
+            "link": "https://book.douban.com/search/%E6%88%B4%E7%BB%B4%C2%B7%E9%94%A1%E5%BE%B7"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "邵志军",
+            "link": "https://book.douban.com/search/%E9%82%B5%E5%BF%97%E5%86%9B"
+        },
+        {
+            "text": "牛津通识读本",
+            "link": "https://book.douban.com/series/721"
+        }
+    ],
+    "tag": "科幻"
+}

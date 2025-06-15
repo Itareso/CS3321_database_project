@@ -1,0 +1,114 @@
+{
+    "title": "纽约客故事集",
+    "bookInfo": {
+        "作者": "[美] 安·比蒂",
+        "出版社": "北京联合出版公司",
+        "出品方": "九读（GoRead）",
+        "原作名": "The New Yorker Stories",
+        "译者": "周玮",
+        "出版年": "2025-1",
+        "页数": "738",
+        "定价": "100.00元",
+        "装帧": "平装",
+        "ISBN": "9787559680341"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "41.5%",
+        "four_star_rate": "45.6%",
+        "three_star_rate": "10.4%",
+        "two_star_rate": "2.6%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4616438/",
+            "name": "安·比蒂",
+            "role": "作者",
+            "douban_id": "4616438"
+        },
+        {
+            "link": "https://book.douban.com/author/357284/",
+            "name": "周玮",
+            "role": "译者",
+            "douban_id": "357284"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "50.00元",
+            "link": "https://book.douban.com/link2/?lowest=5000&pre=0&vendor=jingdong&srcpage=subject&price=5000&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlIcWAMEXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOKzkmQyt3AxoLTBgWWHYLKAo_QwplYjZ9dVl-NHVlLRUHXEhQRBBqYlwdGhFCWCokaBhucBhIbARDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ4ByAGQzYWBQx1Q1NVXX1aMTkUVThnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYNK1sTWAcCXFhZCE4XA2w4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTVQMLBFszVE1AXTEKTAN7XQcBUVZUDkwnAW4JGVklbTZ9MyUWaCsXdmxfWFgQLQ9-ADwWSTl2WhpmGTB8LmF7HwQJCwxQfA1xHFNSbQUy&cntvendor=3&srcsubj=37113259&type=bkbuy&subject=37113259"
+        },
+        {
+            "name": "当当网",
+            "price": "60.00元",
+            "link": "https://book.douban.com/link2/?lowest=5000&pre=0&vendor=dangdang&srcpage=subject&price=6000&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s37113259%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29821064&cntvendor=3&srcsubj=37113259&type=bkbuy&subject=37113259"
+        },
+        {
+            "name": "中图网",
+            "price": "61.00元",
+            "link": "https://book.douban.com/link2/?lowest=5000&pre=0&vendor=bookschina&srcpage=subject&price=6100&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9489842.htm&cntvendor=3&srcsubj=37113259&type=bkbuy&subject=37113259"
+        }
+    ],
+    "url": "https://book.douban.com/subject/37113259/",
+    "douban_id": "37113259",
+    "menu": [
+        "",
+        "        1970s——",
+        "        柏拉图之恋",
+        "        异想天开",
+        "        狼的梦",
+        "        侏儒之家",
+        "        蛇的鞋子",
+        "        佛蒙特",
+        "        下坡路",
+        "        旺达家",
+        "        科罗拉多",
+        "        草坪聚会",
+        "        秘密和惊喜",
+        "        周末",
+        "        星期二晚上",
+        "        换挡",
+        "        遥远的音乐",
+        "        一辆老式雷鸟",
+        "        灰姑娘华尔兹",
+        "        着火的房子",
+        "        等待",
+        "        格林尼治时间",
+        "        1980s——",
+        "        重力",
+        "        奔跑的梦",
+        "        漂浮",
+        "        私房话",
+        "        如同玻璃",
+        "        欲望",
+        "        移动的水",
+        "        康尼岛",
+        "        电视",
+        "        高处",
+        "        一天",
+        "        夏夜的天堂",
+        "        时代",
+        "        在白色的夜",
+        "        避暑的人",
+        "        两面神",
+        "        骨架",
+        "        你会找到我的地方",
+        "        玛丽的家",
+        "        霍拉肖的把戏",
+        "        1990s——",
+        "        第二个问题",
+        "        扎拉",
+        "        2000s——",
+        "        世上的女人",
+        "        洛杉矶最后的古怪一日",
+        "        查找和替换",
+        "        免子洞是更可信的解释",
+        "        压顶石",
+        "        安心诱鸟",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

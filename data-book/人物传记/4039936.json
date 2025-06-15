@@ -1,0 +1,87 @@
+{
+    "title": "旁观者",
+    "bookInfo": {
+        "作者": "彼得·德鲁克",
+        "出版社": "机械工业出版社",
+        "副标题": "管理大师德鲁克回忆录",
+        "出版年": "2009-9-1",
+        "页数": "332",
+        "定价": "39.00元",
+        "装帧": "平装",
+        "丛书": "华章管理大师经典之德鲁克系列",
+        "ISBN": "9787111280798"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "52.2%",
+        "four_star_rate": "36.5%",
+        "three_star_rate": "9.2%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/130872/",
+            "name": "彼得·德鲁克",
+            "role": "",
+            "douban_id": "130872"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "25.60元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=jingdong&srcpage=subject&price=2560&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10066123478868.html&cntvendor=2&srcsubj=4039936&type=bkbuy&subject=4039936"
+        },
+        {
+            "name": "中图网",
+            "price": "24.40元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=bookschina&srcpage=subject&price=2440&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F4290244.htm&cntvendor=2&srcsubj=4039936&type=bkbuy&subject=4039936"
+        }
+    ],
+    "url": "https://book.douban.com/subject/4039936/",
+    "douban_id": "4039936",
+    "menu": [
+        "",
+        "        推荐序一（邵明路）",
+        "        推荐序二（杨斌）",
+        "        新版序",
+        "        旁观者的诞生",
+        "        第一部分 来自亚特兰提斯的报告",
+        "        第1章 老奶奶与20世纪",
+        "        第2章 赫姆和吉妮亚",
+        "        第3章 怀恩师",
+        "        第4章 真假弗洛伊德",
+        "        第5章 伯爵与女伶",
+        "        第二部分 旧世界里的年轻人",
+        "        第6章 波拉尼这一家",
+        "        第7章 基辛格的再造恩人",
+        "        第8章 怪兽与绵羊",
+        "        第9章 英国最后一个异议分子",
+        "        第10章 弗里德伯格的世界",
+        "        第11章 银行家的女人",
+        "        第三部分 无私天真的夕阳岁月",
+        "        第12章 美国报阀鲁斯",
+        "        第13章 荒野上的先知",
+        "        第14章 斯隆的专业风采",
+        "        第15章 无私天真的夕阳岁月",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s6075332.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "彼得·德鲁克",
+            "link": "https://book.douban.com/author/4608336"
+        },
+        {
+            "text": "机械工业出版社",
+            "link": "https://book.douban.com/press/2793"
+        },
+        {
+            "text": "华章管理大师经典之德鲁克系列",
+            "link": "https://book.douban.com/series/19628"
+        }
+    ],
+    "tag": "人物传记"
+}

@@ -1,0 +1,85 @@
+{
+    "title": "图书馆奇谈",
+    "bookInfo": {
+        "作者": "[日] 村上春树 著 / [德] 卡特·曼施克 图",
+        "出版社": "南海出版公司",
+        "出品方": "新经典文化",
+        "原作名": "図書館奇譚",
+        "译者": "施小炜",
+        "出版年": "2020-9",
+        "页数": "64",
+        "定价": "45.00元",
+        "装帧": "精装",
+        "丛书": "新经典文库·村上春树作品",
+        "ISBN": "9787544298971"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    本书收录村上春树的短篇小说《图书馆奇谈》。    少年独自去图书馆查找资料，却被一个长相诡异的老人囚禁起来。老人提出条件，如果他能在一个月内将书背得滚瓜烂熟，就可重获自由。但负责看管的羊男却偷偷告诉他：“你的脑袋会被锯下来，脑浆会被喝光。” 听了这话，他茫然若失： “每一家图书馆都在这么干吗？”    这是一个少年冲破禁锢、完成青春成年礼的故事，充满村上式的暗黑童话色彩。全书由德国知名插画家卡特·曼施克度身绘制20幅超现实主义插图，堪称艺术品级别，立体呈现出村上小说瑰丽的想象与冒险精神。    印制上也大胆挑战工艺极限，全书采用双次过油印刷与烫金工艺，只有翻阅才能得见的美丽，诠释出纸书不可取代的真正理由。    ——————————————————————————————————    值得一提的是，这部作品好像激发了设计师和插画家们的创作欲望。——村上春树    像童话一样简单和富有诗意，像童话一样不合逻辑、残忍和令人不安，但也像童话一样充满希望。——斯瓦比亚报    一场卡夫卡式的噩梦和一个敏感的关于失落和孤独的故事，搭配优美的、近乎神秘的绘画。——德国西南报\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "11.6%",
+        "four_star_rate": "37.2%",
+        "three_star_rate": "43.8%",
+        "two_star_rate": "6.1%",
+        "one_star_rate": "1.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502361/",
+            "name": "村上春树",
+            "role": "作者",
+            "douban_id": "4502361"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "27.00元",
+            "link": "https://read.douban.com/ebook/317396353/?dcs=subject-buylink&dcm=douban&dct=35003740"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.70元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=jingdong&srcpage=subject&price=2070&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFIdWAYHV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEgYrUCx3VCpITw5hXFtyKFxYXkpRVBF9dVlFHw9aPAZeSgtveylQeVhAWxFCWCokcBhuYBhPbDJtBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZWAw4WbQ9oBA0JSyZeDnUGMQEvbTVRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxbCkoWAGY4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRXV8zVE1AQTpbRAN7XQcFV15cCU4nAW4JGVklbTZEDCgFbytARi9cTi8UAHZ-VlsLCQ1AfRpmGQtXVF5qDF0fSDNvRTdqGA4TbQUy&cntvendor=4&srcsubj=35003740&type=bkbuy&subject=35003740"
+        },
+        {
+            "name": "当当网",
+            "price": "38.30元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=dangdang&srcpage=subject&price=3829&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35003740%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29121377&cntvendor=4&srcsubj=35003740&type=bkbuy&subject=35003740"
+        },
+        {
+            "name": "中图网",
+            "price": "23.00元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=bookschina&srcpage=subject&price=2300&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8336366.htm&cntvendor=4&srcsubj=35003740&type=bkbuy&subject=35003740"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35003740/",
+    "douban_id": "35003740",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33659005.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 村上春树 著",
+            "link": "https://book.douban.com/author/4502361"
+        },
+        {
+            "text": "[德] 卡特·曼施克 图",
+            "link": "https://book.douban.com/search/%E5%8D%A1%E7%89%B9%C2%B7%E6%9B%BC%E6%96%BD%E5%85%8B%20%E5%9B%BE"
+        },
+        {
+            "text": "南海出版公司",
+            "link": "https://book.douban.com/press/2413"
+        },
+        {
+            "text": "新经典文化",
+            "link": "https://book.douban.com/producers/3"
+        },
+        {
+            "text": "施小炜",
+            "link": "https://book.douban.com/search/%E6%96%BD%E5%B0%8F%E7%82%9C"
+        },
+        {
+            "text": "新经典文库·村上春树作品",
+            "link": "https://book.douban.com/series/4643"
+        }
+    ],
+    "tag": "日本文学"
+}

@@ -1,0 +1,79 @@
+{
+    "title": "他人",
+    "bookInfo": {
+        "作者": "[韩] 姜禾吉",
+        "出版社": "台海出版社",
+        "出品方": "磨铁·文治图书",
+        "原作名": "다른 사람",
+        "译者": "简郁璇",
+        "出版年": "2023-4",
+        "页数": "288",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "丛书": "文治·韩国文学作品",
+        "ISBN": "9787516834930"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ★韩国文学至高荣誉——韩民族文学奖获奖作品，韩国《中央日报》推荐好书。《他人》体现出女性对女性的诚实。    她们都是受害者，她们也是加害者。不仅是来自受害者的漫长煎熬与群体自白，更是一面残酷的镜子，直射每个人内心的阴暗。    ★“姜禾吉是韩国文学的未来”，赵南柱、崔真英外，韩国当代最具影响力的女性作家之一，《他人》是其代表作。    本书从不同人物视角，拼凑出三个东亚女孩的人生。从家乡到都市，从校园到职场与家庭生活......她们为何竭尽全力，想做“他人”？《他人》作为姜禾吉首部长篇作品即斩获第22届韩民族文学奖。    ★《82年生的金智英》之后，一部必看的东亚女性小说。    一部勇触敏感话题的作品，撕开社会厌女面目，揭露女性焦虑与恐惧。这明明是我的身体、我的人生，为何我却控制不了？    -    贞雅无法忍受男友的施暴，将自身遭遇发布到网络诉诸公评。起初大众与她同一战线，却在同事爆出不利于她的聊天截图后，舆论瞬间反转，贞雅成为“说谎精”“活该被打的女人”。这让她想起自己两个大学同学，秀珍和宥利。被妈妈抛弃、由外婆抚养长大、大家都说没家教的秀珍，居然厚脸皮搭上了全校完美的学长；而外形出众的宥利，却因为全身散发着主动气息，被男人们唾弃........    本书从不同人物的视角，拼凑出三个女孩的人生，她们都竭尽全力，想做个与自己无关的“他人”，却用自己所受的伤，伤害了彼此。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "37.5%",
+        "four_star_rate": "46.7%",
+        "three_star_rate": "14.0%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624199/",
+            "name": "姜禾吉",
+            "role": "作者",
+            "douban_id": "4624199"
+        },
+        {
+            "link": "https://book.douban.com/author/4618006/",
+            "name": "简郁璇",
+            "role": "作者 / 译者",
+            "douban_id": "4618006"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.40元",
+            "link": "https://book.douban.com/link2/?lowest=3140&pre=0&vendor=jingdong&srcpage=subject&price=3140&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQgJK1olXQYFV1pfDkIfBF8IGloTXgMDXFxbDk4WBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkLHlodXwAEUV9YFxJSXzI4Zix1ChxYXAg-FjkJfDVPZDMVIwZBElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVwXWQUFVG5fCEoWBm8AHFgUbQYEUV9dAEITAGwMGVwlXQ4GZIfdv521kbaWkY6dyjYyZF1tOHsXM2w4RTUUDgAAVQ0JXCVLBThJExpOFWgCVV1fCkgRBl8KGloXXzYyZB0Vaghnah1JcAB-HlxUKAhdDEhEfCtJbTUXA0d3HF0eVxR8YSlQYgJ0B3MyV24&cntvendor=2&srcsubj=36238843&type=bkbuy&subject=36238843"
+        },
+        {
+            "name": "中图网",
+            "price": "32.20元",
+            "link": "https://book.douban.com/link2/?lowest=3140&pre=0&vendor=bookschina&srcpage=subject&price=3220&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9085377.htm&cntvendor=2&srcsubj=36238843&type=bkbuy&subject=36238843"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36238843/",
+    "douban_id": "36238843",
+    "menu": [
+        "",
+        "        第一部",
+        "        01 贞雅",
+        "        02 你要像个大人嘛",
+        "        03 贞雅",
+        "        04 吸尘器",
+        "        05 贞雅",
+        "        06 分析",
+        "        第二部",
+        "        07 东熙",
+        "        08 贞雅",
+        "        09 秀珍",
+        "        10 贞雅",
+        "        11 秀珍",
+        "        12 贞雅",
+        "        13 康贤",
+        "        14 贞雅",
+        "        15 秀珍",
+        "        16 玛丽安，无数的玛丽安",
+        "        第三部",
+        "        17 还有，给伊英",
+        "        18 宥利",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "云球（第四部）",
+    "bookInfo": {
+        "作者": "白丁",
+        "出版社": "四川科学技术出版社",
+        "出版年": "2020-2",
+        "页数": "480",
+        "定价": "89.00元",
+        "装帧": "平装",
+        "丛书": "云球",
+        "ISBN": "9787536494428"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.9%",
+        "four_star_rate": "41.2%",
+        "three_star_rate": "24.7%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "3.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "16.00元",
+            "link": "https://read.douban.com/ebook/128641156/?dcs=subject-buylink&dcm=douban&dct=34833412"
+        },
+        {
+            "name": "得到",
+            "price": "16.99元",
+            "link": "https://www.dedao.cn/eBook/6JvkYVNn8NXVry5MeG6Z9RALK2dxJ3GYML07olBEmjgakz1DPvYObQ4qpQdZqme9?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "53.40元",
+            "link": "https://book.douban.com/link2/?lowest=4360&pre=0&vendor=jingdong&srcpage=subject&price=5340&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlIVWAAAU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOMyFeSzRyaBxBWwRsWFJRABgmCUxQfB96dVliK1B9MR1ZSwJMWAgNfgFXPhFCWCokaBhgYBhJbwR9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZpLh1cYCBkWQ8KQwhVK3BaLyQedAhRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVCE4SCmg4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCg8KUg4zVE1BAipaTQ57XQYHXFtdCUInAW4JGVklbTZlK10edy58cCZIRCIQCVVWEiVcDwxocx1mGSxjC3lnF1oeQRBMZGptQRl2bQUy&cntvendor=4&srcsubj=34833412&type=bkbuy&subject=34833412"
+        },
+        {
+            "name": "中图网",
+            "price": "43.60元",
+            "link": "https://book.douban.com/link2/?lowest=4360&pre=0&vendor=bookschina&srcpage=subject&price=4360&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8433642.htm&cntvendor=4&srcsubj=34833412&type=bkbuy&subject=34833412"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34833412/",
+    "douban_id": "34833412",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33621127.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "白丁",
+            "link": "https://book.douban.com/search/%E7%99%BD%E4%B8%81"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "云球",
+            "link": "https://book.douban.com/series/51752"
+        }
+    ],
+    "tag": "科幻"
+}

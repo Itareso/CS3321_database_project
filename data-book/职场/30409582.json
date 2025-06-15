@@ -1,0 +1,98 @@
+{
+    "title": "重构",
+    "bookInfo": {
+        "作者": "村西边老王",
+        "出版社": "中国友谊出版公司",
+        "出品方": "磨铁图书",
+        "副标题": "年轻人的精进指南",
+        "出版年": "2018-12-1",
+        "页数": "240",
+        "定价": "45",
+        "装帧": "平装",
+        "ISBN": "9787505745193"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "12.1%",
+        "four_star_rate": "23.2%",
+        "three_star_rate": "37.9%",
+        "two_star_rate": "18.4%",
+        "one_star_rate": "8.4%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "8.99元",
+            "link": "https://read.douban.com/ebook/106939295/?dcs=subject-buylink&dcm=douban&dct=30409582"
+        },
+        {
+            "name": "得到",
+            "price": "22.50元",
+            "link": "https://www.dedao.cn/ebook/detail?id=rJRdy1qe4xAVBgZrvdGmz8ykaop6QWX5b23EJnD7LR51qb2KY9NPMXOljVa28m5K&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "45.00元",
+            "link": "https://book.douban.com/link2/?lowest=4500&pre=0&vendor=jingdong&srcpage=subject&price=4500&pos=3&url=https%3A%2F%2Fitem.jd.com%2F13079972.html&cntvendor=3&srcsubj=30409582&type=bkbuy&subject=30409582"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30409582/",
+    "douban_id": "30409582",
+    "menu": [
+        "",
+        "        第一章 我和环境是什么关系",
+        "        不同城市的职场生态 / 002",
+        "        不同人群的时空区隔 / 012",
+        "        人和环境的关系 / 018",
+        "        人生的七次机遇 / 023",
+        "        满足感的提前和延迟 / 029",
+        "        IP的力量 / 036",
+        "        第二章 我该对老板感恩吗",
+        "        大公司好还是小公司好，这是个问题 / 046",
+        "        工作是第一生产力，兴趣是第二生产力 / 052",
+        "        职场转型的机遇和瓶颈 / 059",
+        "        HR和猎头的套路 / 068",
+        "        我该对老板感恩吗 / 077",
+        "        组织文化和人才机遇 / 083",
+        "        第三章 我该如何选大学",
+        "        我该如何选大学 / 092",
+        "        “曲线救国”，从一线到二线 / 102",
+        "        区域型行业和行业集中度 / 111",
+        "        放开你的视野：全球化择业的时代 / 118",
+        "        外语技能的优势和误区 / 125",
+        "        教育的浪费和过度投资 / 133",
+        "        第四章 行业视角",
+        "        互联网公司的核心竞争力 / 144",
+        "        资本、产业链、业务升级 / 152",
+        "        互联网的新趋势（一）：B2B和线下扩张 / 160",
+        "        互联网的新趋势（二）：变现和存量战争 / 168",
+        "        传统零售业的迷茫 / 177",
+        "        4A广告业的沉浮 / 186",
+        "        珠宝行业的面子和里子 / 195",
+        "        第五章 审美就是生产力",
+        "        空巢青年经济学 / 204",
+        "        新经济，新财富 / 211",
+        "        出名要趁早 / 219",
+        "        审美就是生产力 / 224",
+        "        在中庸和个性之间 / 231",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29954592.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "村西边老王",
+            "link": "https://book.douban.com/search/%E6%9D%91%E8%A5%BF%E8%BE%B9%E8%80%81%E7%8E%8B"
+        },
+        {
+            "text": "中国友谊出版公司",
+            "link": "https://book.douban.com/press/2416"
+        },
+        {
+            "text": "磨铁图书",
+            "link": "https://book.douban.com/producers/18"
+        }
+    ],
+    "tag": "职场"
+}

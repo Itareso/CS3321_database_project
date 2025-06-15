@@ -1,0 +1,66 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "迷人的金子",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34993788.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37059621/",
+                        "year": "2024",
+                        "id": 37059621
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "一生悬命",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34718096.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36584893/",
+                        "year": "2023",
+                        "id": 36584893
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "欧阳钢柱想不通",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37237554/",
+                        "year": "",
+                        "id": 37237554
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4625145/",
+    "author_douban_id": "4625145",
+    "personage_id": 36572935,
+    "name": [
+        "陆春吾",
+        "Chunwu Lu"
+    ],
+    "intro": "豆瓣阅读黑马悬疑作者，中国现当代文学硕士。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/36572935/photo/2917407662"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2917407662.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/9abc630091eb7cdbdf8683fbf3bf2db5.jpg",
+    "sex": 0,
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

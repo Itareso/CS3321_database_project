@@ -1,0 +1,79 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "团圆记",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34917303.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36956148/",
+                        "year": "2024",
+                        "id": 36956148
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "巷里林泉",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34949857.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37026917/",
+                        "year": "2024",
+                        "id": 37026917
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "幸得诸君慰平生",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34243008.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35873142/",
+                        "year": "2022",
+                        "id": 35873142
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "最好的生活，是与喜欢撞个满怀",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33913550.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35481758/",
+                        "year": "2021",
+                        "id": 35481758
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614388/",
+    "author_douban_id": "4614388",
+    "personage_id": 35869581,
+    "name": [
+        "杨云苏",
+        "Yunsu Yang"
+    ],
+    "intro": "资深媒体人，作家，笔名故园风雨前，代表作《幸得诸君慰平生》、《巷里林泉》。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/35869581/photo/2871440137"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2871440137.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/75fee121d81e0492f0a7b39631219c70.jpg",
+    "更多中文名": "故园风雨前(笔名)",
+    "sex": 0,
+    "profession": [
+        "作者",
+        "导演"
+    ]
+}

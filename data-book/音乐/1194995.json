@@ -1,0 +1,55 @@
+{
+    "title": "罗伯特·舒曼",
+    "bookInfo": {
+        "作者": "巴巴拉·迈尔",
+        "出版社": "人民音乐出版社",
+        "副标题": "罗伯特·舒曼",
+        "译者": "杜新华",
+        "出版年": "2004-10",
+        "页数": "218",
+        "定价": "10.10元",
+        "装帧": "简裝本",
+        "丛书": "罗沃尔特音乐家传记丛书",
+        "ISBN": "9787103029275"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "27.3%",
+        "four_star_rate": "45.5%",
+        "three_star_rate": "18.2%",
+        "two_star_rate": "9.1%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4637807/",
+            "name": "杜新华",
+            "role": "译者",
+            "douban_id": "4637807"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1194995/",
+    "douban_id": "1194995",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s24548480.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "巴巴拉·迈尔",
+            "link": "https://book.douban.com/search/%E5%B7%B4%E5%B7%B4%E6%8B%89%C2%B7%E8%BF%88%E5%B0%94"
+        },
+        {
+            "text": "人民音乐出版社",
+            "link": "https://book.douban.com/press/2660"
+        },
+        {
+            "text": "杜新华",
+            "link": "https://book.douban.com/author/4637807"
+        },
+        {
+            "text": "罗沃尔特音乐家传记丛书",
+            "link": "https://book.douban.com/series/10"
+        }
+    ],
+    "tag": "音乐"
+}

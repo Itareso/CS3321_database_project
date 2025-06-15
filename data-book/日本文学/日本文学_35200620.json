@@ -1,0 +1,101 @@
+{
+    "title": "文章读本",
+    "bookInfo": {
+        "作者": "[日] 谷崎润一郎",
+        "出版社": "上海译文出版社",
+        "原作名": "文章読本",
+        "译者": "赖明珠",
+        "出版年": "2021-2",
+        "页数": "180",
+        "定价": "35.00",
+        "装帧": "平装",
+        "丛书": "谷崎润一郎作品系列",
+        "ISBN": "9787532785278"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    日本唯美派文学大师 谷崎润一郎    写给未来作家的创作经验谈    解开《阴翳礼赞》《细雪》《春琴抄》的写作密钥    1、写给未来作家的创作经验谈，三堂深入浅出的写作课    何谓文章？如何鉴赏日本经典？    如何研磨感觉，体会语言的精妙？    如何写出晓畅、悦目又悦耳的文章？    本书一一给出答案。    2、日本唯美派大师的“文学自白”    谷崎润一郎的小说世界充满荒诞与怪异，在丑中寻求美，在赞美恶中肯定善，在死亡中思考生存的意义。他的散文世界则洋溢着浓郁的日本风，耽溺于阴翳的神秘、官能的愉悦与民族的风情。他的诸多名作如《阴翳礼赞》等深入探讨了日本美学的要义，《细雪》《春琴抄》等小说自成一格，对日本文学产生了很大的影响。《文章读本》在日本出版后，引起了巨大反响，三岛由纪夫、川端康成等作家都以“文章读本”为题著书。    3、名家名译，彰显文章之美    日文翻译名家赖明珠译本。本书与谷崎的名作《阴翳礼赞》一同构成日式美学的完整拼图。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "19.7%",
+        "four_star_rate": "52.4%",
+        "three_star_rate": "25.9%",
+        "two_star_rate": "2.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/152177/",
+            "name": "谷崎润一郎",
+            "role": "作者",
+            "douban_id": "152177"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "34.99元",
+            "link": "https://read.douban.com/ebook/171387877/?dcs=subject-buylink&dcm=douban&dct=35200620"
+        },
+        {
+            "name": "得到",
+            "price": "34.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=lxaVvndNG6D4kgLJ2OKxqVMmE1zXPwVZ46wAdjyQeYR75vbaBnr9ol8pZERLg1my&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2230&pre=0&vendor=jingdong&srcpage=subject&price=2450&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVocXgcGU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IODBg5ex4SajZ2eQBiLVwHPRsiewIfcBdJdVlACgNEAy0lXDV2YjdOYzgVCRFCWCokdC5ucDpMbCJ9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYEUAlZfhtIVQx6RwIWKXAHCSslalF3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtUD0kUAG44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CV1kzVE1ARm9UG1t7XQcLUVhYD04nAW4JGVklbTZaEjouXU5-WhFqQCxlBwNrESEuQUNkey5mGQ5CWEBVJyYJdip2WylweFtBbQUy&cntvendor=5&srcsubj=35200620&type=bkbuy&subject=35200620"
+        },
+        {
+            "name": "当当网",
+            "price": "25.20元",
+            "link": "https://book.douban.com/link2/?lowest=2230&pre=0&vendor=dangdang&srcpage=subject&price=2520&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35200620%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29191782&cntvendor=5&srcsubj=35200620&type=bkbuy&subject=35200620"
+        },
+        {
+            "name": "中图网",
+            "price": "22.30元",
+            "link": "https://book.douban.com/link2/?lowest=2230&pre=0&vendor=bookschina&srcpage=subject&price=2230&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8508834.htm&cntvendor=5&srcsubj=35200620&type=bkbuy&subject=35200620"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35200620/",
+    "douban_id": "35200620",
+    "menu": [
+        "",
+        "        一、 何谓文章",
+        "        ◎语言和文章",
+        "        ◎实用性文章和艺术性文章",
+        "        ◎现代文和古典文",
+        "        ◎西洋文章和日本文章",
+        "        二、　文章精进法",
+        "        ◎不要被文法囚禁",
+        "        ◎研磨感觉",
+        "        三、　文章的要素",
+        "        ◎文章有六个要素",
+        "        ◎用语",
+        "        ◎调子",
+        "        ◎文体",
+        "        ◎体裁",
+        "        ◎品格",
+        "        ◎含蓄",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33794480.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 谷崎润一郎",
+            "link": "https://book.douban.com/author/152177"
+        },
+        {
+            "text": "上海译文出版社",
+            "link": "https://book.douban.com/press/2582"
+        },
+        {
+            "text": "赖明珠",
+            "link": "https://book.douban.com/search/%E8%B5%96%E6%98%8E%E7%8F%A0"
+        },
+        {
+            "text": "谷崎润一郎作品系列",
+            "link": "https://book.douban.com/series/6017"
+        }
+    ],
+    "tag": "日本文学"
+}

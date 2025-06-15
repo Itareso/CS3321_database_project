@@ -1,0 +1,87 @@
+{
+    "title": "伦理学与哲学的限度",
+    "bookInfo": {
+        "作者": "[英] B. 威廉斯",
+        "出版社": "商务印书馆",
+        "原作名": "Ethics and the Limits of Philosophy",
+        "译者": "陈嘉映",
+        "出版年": "2017-6-1",
+        "页数": "308",
+        "定价": "32.00元",
+        "装帧": "平装",
+        "ISBN": "9787100129855"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "67.0%",
+        "four_star_rate": "24.9%",
+        "three_star_rate": "6.2%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609497/",
+            "name": "伯纳德·威廉斯",
+            "role": "作者",
+            "douban_id": "4609497"
+        },
+        {
+            "link": "https://book.douban.com/author/4535068/",
+            "name": "陈嘉映",
+            "role": "译者",
+            "douban_id": "4535068"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.85元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=jingdong&srcpage=subject&price=2485&pos=1&url=https%3A%2F%2Fitem.jd.com%2F72368834643.html&cntvendor=2&srcsubj=26989503&type=bkbuy&subject=26989503"
+        },
+        {
+            "name": "中图网",
+            "price": "23.40元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=bookschina&srcpage=subject&price=2340&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7562376.htm&cntvendor=2&srcsubj=26989503&type=bkbuy&subject=26989503"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26989503/",
+    "douban_id": "26989503",
+    "menu": [
+        "",
+        "        序言",
+        "        第一章 苏格拉底问题",
+        "        第二章 阿基米德支点",
+        "        第三章 基础：良好生活",
+        "        第四章 基础：实践理性",
+        "        第五章 伦理学理论的类型",
+        "        第六章 理论与成见",
+        "        第七章 语言转向",
+        "        第八章 知识、科学、会同",
+        "        第九章 相对主义与反思",
+        "        第十章 道德这种奇特建制",
+        "        补论",
+        "        文本评述 A.W.摩尔",
+        "        注释",
+        "        索引",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29544410.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] B. 威廉斯",
+            "link": "https://book.douban.com/search/B.%20%E5%A8%81%E5%BB%89%E6%96%AF"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "陈嘉映",
+            "link": "https://book.douban.com/author/4535068/"
+        }
+    ],
+    "tag": "西方哲学"
+}

@@ -1,0 +1,86 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.7,
+                        "title": "古文观止（全本 全注 全译 全彩图本）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34747476.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/36717030/",
+                        "year": "2024",
+                        "id": 36717030
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "古文标点例说",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33714340.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35193994/",
+                        "year": "1985",
+                        "id": 35193994
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国古代科学家传记选注",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s3024910.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3034516/",
+                        "year": "1984",
+                        "id": 3034516
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国古代史家家传记选注",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34810027.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36812169/",
+                        "year": "1984",
+                        "id": 36812169
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "简明历史辞典",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29732687.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30187519/",
+                        "year": "1983",
+                        "id": 30187519
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4630523/",
+    "author_douban_id": "4630523",
+    "personage_id": 36811543,
+    "name": [
+        "阙勋吾",
+        "Xunwu Que"
+    ],
+    "intro": "阙勋吾，历史学家、武汉大学历史系教授。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "去世日期": "2017年8月",
+    "sex": 1,
+    "profession": [
+        "编者"
+    ]
+}

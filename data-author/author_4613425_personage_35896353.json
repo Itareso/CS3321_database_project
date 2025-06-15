@@ -1,0 +1,101 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "颜氏家训",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27985158.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/6879363/",
+                        "year": "2023",
+                        "id": 6879363
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.5,
+                        "title": "曾国藩家书(套装共3册)",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29618876.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/27589914/",
+                        "year": "2022",
+                        "id": 27589914
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "声律启蒙（中华经典名著全本全注全译丛书）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34663224.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/33425387/",
+                        "year": "2022",
+                        "id": 33425387
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "之子于归",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34094300.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35736443/",
+                        "year": "2022",
+                        "id": 35736443
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "周邦彦词选",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29709429.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30163618/",
+                        "year": "2018",
+                        "id": 30163618
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "曾国藩家书",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s28849291.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26826152/",
+                        "year": "2016",
+                        "id": 26826152
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/4613425/",
+    "author_douban_id": "4613425",
+    "personage_id": 35896353,
+    "name": [
+        "檀作文",
+        "Zuowen Tan"
+    ],
+    "intro": "檀作文，男，安徽东至人，1973年3月生。1994年7月毕业于南京大学社会学系，获法学学士学位。1994年9月入北京大学中文系，师从孙静教授，研读魏晋南北朝隋唐文学，1997年7月获文学硕士学位。现任教于首都师范大学。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/2ca81f67a92aca650857b30278968b24.jpg",
+    "sex": 1,
+    "birth_date": 1973,
+    "age": 53,
+    "profession": [
+        "作者",
+        "译者",
+        "编者"
+    ]
+}

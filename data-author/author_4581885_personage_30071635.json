@@ -1,0 +1,156 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "散文的变身",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34898760.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36941226/",
+                        "year": "2024",
+                        "id": 36941226
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "好骨头",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34392531.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36161297/",
+                        "year": "2023",
+                        "id": 36161297
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "镜迷宫",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34503693.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36191103/",
+                        "year": "2023",
+                        "id": 36191103
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "老负鼠的实用猫经",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34312677.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36097682/",
+                        "year": "2022",
+                        "id": 36097682
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "我坐在火山的最边缘",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33851579.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35365362/",
+                        "year": "2021",
+                        "id": 35365362
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "中古英语抒情诗的艺术",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33855065.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35020097/",
+                        "year": "2021",
+                        "id": 35020097
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "世界抒情诗选：灰烬的光芒",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33665036.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35096600/",
+                        "year": "2020",
+                        "id": 35096600
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "沙仑的玫瑰",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33708501.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35140034/",
+                        "year": "2020",
+                        "id": 35140034
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "青年翻译家的肖像",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33743513.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35140343/",
+                        "year": "2020",
+                        "id": 35140343
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "假如听到喵喵叫",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33646694.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35071116/",
+                        "year": "2020",
+                        "id": 35071116
+                    }
+                }
+            ],
+            "total": 24
+        }
+    },
+    "author_link": "https://book.douban.com/author/4581885/",
+    "author_douban_id": "4581885",
+    "personage_id": 30071635,
+    "name": [
+        "包慧怡",
+        "Huiyi Bao"
+    ],
+    "intro": "\"包慧怡，1985年生于上海，毕业于复旦大学英语系，都柏林大学英语系中世纪文学博士生，研习中古英语头韵诗及8-15世纪手抄本。 著有诗集《异教时辰书》，出版译作《好骨头》《隐者》《爱丽尔》等九种，2014年爱尔兰都柏林市驻市译者。散文及专栏见于《书城》《东方早报》《上海壹周》《上海文化》《澎湃》等。\"",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30071635/photo/2899697612"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2899697612.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/49a525d6acbcb2cbf19c185128b24983.jpg",
+    "sex": 0,
+    "birth_date": 1985,
+    "age": 41,
+    "birth_place": [
+        "中国",
+        "上海"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

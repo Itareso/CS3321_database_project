@@ -1,0 +1,61 @@
+{
+    "title": "多余人的回忆",
+    "bookInfo": {
+        "作者": "[美] 艾伯特·杰伊·诺克",
+        "出版社": "江西人民出版社",
+        "原作名": "The Memoirs of a Superfluous Man",
+        "译者": "亓光",
+        "出版年": "2016-2",
+        "页数": "405",
+        "定价": "65.00",
+        "装帧": "精装",
+        "丛书": "西方保守主义经典译丛",
+        "ISBN": "9787210078869"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.3%",
+        "four_star_rate": "39.7%",
+        "three_star_rate": "27.6%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "1.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/524376/",
+            "name": "兀光",
+            "role": "译者",
+            "douban_id": "524376"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "55.71元",
+            "link": "https://book.douban.com/link2/?lowest=5571&pre=0&vendor=jingdong&srcpage=subject&price=5571&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG1IcVQ4GUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCXVdVAE8THDZNRwYlHk9rEQEjeBVyUy9RS11AA0FyFDVYeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4FVltVDEMeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFkSClRsCFgHVBYQVitmGVoVXAAAUFttCkoWAW04K2tVGQVaND4BXTRUfTdBYhhdOUZXBl1YSit5AS1dSB9XBVVWKzo5SA8efwxYK1gl&cntvendor=1&srcsubj=26640437&type=bkbuy&subject=26640437"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26640437/",
+    "douban_id": "26640437",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29827538.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 艾伯特·杰伊·诺克",
+            "link": "https://book.douban.com/search/%E8%89%BE%E4%BC%AF%E7%89%B9%C2%B7%E6%9D%B0%E4%BC%8A%C2%B7%E8%AF%BA%E5%85%8B"
+        },
+        {
+            "text": "江西人民出版社",
+            "link": "https://book.douban.com/press/2145"
+        },
+        {
+            "text": "亓光",
+            "link": "https://book.douban.com/search/%E4%BA%93%E5%85%89"
+        },
+        {
+            "text": "西方保守主义经典译丛",
+            "link": "https://book.douban.com/series/33751"
+        }
+    ],
+    "tag": "政治学"
+}

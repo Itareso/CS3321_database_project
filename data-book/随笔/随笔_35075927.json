@@ -1,0 +1,93 @@
+{
+    "title": "荒野集",
+    "bookInfo": {
+        "作者": "[美国] 肯特",
+        "出版社": "生活·读书·新知三联书店",
+        "副标题": "阿拉斯加的宁静探险日志",
+        "原作名": "A Journal of Quiet Adventure in Alaska",
+        "译者": "杨鹏",
+        "出版年": "2020-7",
+        "页数": "328",
+        "定价": "75.00元",
+        "装帧": "精装",
+        "ISBN": "9787108068576"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "40.7%",
+        "four_star_rate": "37.5%",
+        "three_star_rate": "18.9%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/439498/",
+            "name": "肯特",
+            "role": "作者",
+            "douban_id": "439498"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "37.50元",
+            "link": "https://book.douban.com/link2/?lowest=3750&pre=0&vendor=jingdong&srcpage=subject&price=3750&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwdXgcBUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU1ZeCUgRHDZNRwYlKkJUHTxecit0VidKYQNKVFVQEysYeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAUVdYCUkTM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsQWVJsCFgKSkIXRDlmG1oRWQcKXV1tCkoWAW04K2tADXpRND5cQA5oczBOQlJKPlJdVz01AS15ATdWZwtADgZaESopXRtgAj9BK1gl&cntvendor=3&srcsubj=35075927&type=bkbuy&subject=35075927"
+        },
+        {
+            "name": "当当网",
+            "price": "42.20元",
+            "link": "https://book.douban.com/link2/?lowest=3750&pre=0&vendor=dangdang&srcpage=subject&price=4220&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35075927%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28987070&cntvendor=3&srcsubj=35075927&type=bkbuy&subject=35075927"
+        },
+        {
+            "name": "中图网",
+            "price": "58.00元",
+            "link": "https://book.douban.com/link2/?lowest=3750&pre=0&vendor=bookschina&srcpage=subject&price=5800&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8361527.htm&cntvendor=3&srcsubj=35075927&type=bkbuy&subject=35075927"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35075927/",
+    "douban_id": "35075927",
+    "menu": [
+        "",
+        "        前言",
+        "        中文版前言",
+        "        第一版序",
+        "        第二版序",
+        "        第三版序",
+        "        阿拉斯加画集的导言",
+        "        日志",
+        "        I 发现",
+        "        II 到达",
+        "        Ⅲ 日常",
+        "        IV 冬日",
+        "        V 等待",
+        "        VI 出行",
+        "        VII 家",
+        "        Ⅷ 圣诞节",
+        "        IX 新年",
+        "        X 奥尔森！",
+        "        XI 余晖",
+        "        疯隐士",
+        "        图版目录",
+        "        译后记：浓缩的人生",
+        "        洛克威尔•肯特年表",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33699213.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美国] 肯特",
+            "link": "https://book.douban.com/author/439498"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        },
+        {
+            "text": "杨鹏",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E9%B9%8F"
+        }
+    ],
+    "tag": "随笔"
+}

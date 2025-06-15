@@ -1,0 +1,62 @@
+{
+    "title": "你好，安娜",
+    "bookInfo": {
+        "作者": "蒋韵",
+        "出版社": "花城出版社",
+        "出版年": "2019-9",
+        "页数": "310",
+        "定价": "45.00",
+        "装帧": "平装",
+        "ISBN": "9787536089440"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.8%",
+        "four_star_rate": "44.6%",
+        "three_star_rate": "18.3%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "1.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4531397/",
+            "name": "蒋韵",
+            "role": "作者",
+            "douban_id": "4531397"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.50元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=jingdong&srcpage=subject&price=2250&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF8TWQIBUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOKSsLdEgSegZuWTpANlpqNw4bSCx-eAx1dVlpHVJ3MyIkTS0UABJ9aytJBBFCWCokcC1jShxLb1lxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZrCQkKcUt2Sg9fbUEXHEFHMCslADh3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVlcAE8TBGY4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggVCgUCVVgzVE1ARi0JUlt7XQcKUFdcAU4nAW4JGVklbTZ_IQghC05uaglKeg5-AW5hBBgdbyJsYBJmGSdVCXNlKCcYbkgUfhp4awdMbQUy&cntvendor=2&srcsubj=34812579&type=bkbuy&subject=34812579"
+        },
+        {
+            "name": "当当网",
+            "price": "42.80元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=dangdang&srcpage=subject&price=4280&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34812579%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27939228&cntvendor=2&srcsubj=34812579&type=bkbuy&subject=34812579"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34812579/",
+    "douban_id": "34812579",
+    "menu": [
+        "",
+        "        上篇：天国的葡萄园",
+        "        下篇：玛娜",
+        "        后记《记忆的背影》",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33469293.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "蒋韵",
+            "link": "https://book.douban.com/author/4531397"
+        },
+        {
+            "text": "花城出版社",
+            "link": "https://book.douban.com/press/2536"
+        }
+    ],
+    "tag": "中国文学"
+}

@@ -1,0 +1,67 @@
+{
+    "title": "利维坦",
+    "bookInfo": {
+        "作者": "[英] 霍布斯",
+        "出版社": "商务印书馆",
+        "译者": "黎思复 / 黎廷弼",
+        "出版年": "2017-3",
+        "页数": "580",
+        "定价": "55.00",
+        "装帧": "精装",
+        "丛书": "汉译经典精装本",
+        "ISBN": "9787100123556"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《利维坦》全书分为四部分。第一部分《论人类》，开宗明义宣布了作者的彻底唯物主义自然观和一般的哲学观点，声称宇宙是由物质的微粒构成，物体是独立的客观存在，物质永恒存在，既非人所创造，也非人所能消灭，一切物质都于运动状态中。第二部分《论国家》，是全书的主体，主要描述自然状态中人们在不幸的生活中都享有“生而平等”的自然权利，又都有渴望和平和安定生活的共同要求，于是出于人的理性，人们相互间同意订立契约(信约)，放弃各人的自然权利，把它托付给某一个人或一个由多人组成的集体(如议会)，这个人或集体能把大家的意志化为一个意志，能把大家的人格统一为一个人格；大家则服从他的意志，服从他的判断。第三部分《论基督教体系的国家》，旨在否认自成一统的教会，抨击教皇掌有超越世俗政权的大权。第四部分《论黑暗的王国》，其主要矛头是针对罗马教会，大量揭发了罗马教会的腐败黑暗、剥削贪婪的种种丑行劣迹，从而神的圣洁尊崇，教会的威严神秘，已经在霍布斯的笔下黯然失色。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "58.9%",
+        "four_star_rate": "33.1%",
+        "three_star_rate": "6.7%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "64.64元",
+            "link": "https://book.douban.com/link2/?lowest=5020&pre=0&vendor=jingdong&srcpage=subject&price=6464&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF8UWAUCVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUF9YC0sVHDZNRwYlAUV2JgBadjtyfTtTQh1KNl1-CjYPXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4BVFlaD0oXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgRsCFgHUklPQDBmGFMcWg4LXFttCkoWAW04K2txI2BBVzs8CkJgYSZNHFgQAkUCLFw2dz55AW4ARiUTHnFRXR4dbDV0VG94K1gl&cntvendor=3&srcsubj=26831912&type=bkbuy&subject=26831912"
+        },
+        {
+            "name": "当当网",
+            "price": "78.70元",
+            "link": "https://book.douban.com/link2/?lowest=5020&pre=0&vendor=dangdang&srcpage=subject&price=7870&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26831912%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D26923609&cntvendor=3&srcsubj=26831912&type=bkbuy&subject=26831912"
+        },
+        {
+            "name": "中图网",
+            "price": "50.20元",
+            "link": "https://book.douban.com/link2/?lowest=5020&pre=0&vendor=bookschina&srcpage=subject&price=5020&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8043997.htm&cntvendor=3&srcsubj=26831912&type=bkbuy&subject=26831912"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26831912/",
+    "douban_id": "26831912",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s32308335.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 霍布斯",
+            "link": "https://book.douban.com/search/%E9%9C%8D%E5%B8%83%E6%96%AF"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "黎思复",
+            "link": "https://book.douban.com/search/%E9%BB%8E%E6%80%9D%E5%A4%8D"
+        },
+        {
+            "text": "黎廷弼",
+            "link": "https://book.douban.com/search/%E9%BB%8E%E5%BB%B7%E5%BC%BC"
+        },
+        {
+            "text": "汉译经典精装本",
+            "link": "https://book.douban.com/series/48693"
+        }
+    ],
+    "tag": "西方哲学"
+}

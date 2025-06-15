@@ -1,0 +1,159 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "我在所有的秘密里爱你",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34944590.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37016781/",
+                        "year": "2024",
+                        "id": 37016781
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "和孩子一起读童话",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34594939.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36448818/",
+                        "year": "2023",
+                        "id": 36448818
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "小号童诗·动物园",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34367394.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36177295/",
+                        "year": "2022",
+                        "id": 36177295
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "歪帽子坦克与丽娜",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34346865.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36148662/",
+                        "year": "2022",
+                        "id": 36148662
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "地下梦想城",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34346863.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36148660/",
+                        "year": "2022",
+                        "id": 36148660
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "大树快跑",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34346864.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36148661/",
+                        "year": "2022",
+                        "id": 36148661
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "河海谣与里拉琴",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33906327.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35450214/",
+                        "year": "2021",
+                        "id": 35450214
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "我和毛毛",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33873935.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35431377/",
+                        "year": "2020",
+                        "id": 35431377
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "给孩子的100堂诗歌课",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33560552.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34905916/",
+                        "year": "2019",
+                        "id": 34905916
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "女性五人诗",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29978293.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27201055/",
+                        "year": "2019",
+                        "id": 27201055
+                    }
+                }
+            ],
+            "total": 35
+        }
+    },
+    "author_link": "https://book.douban.com/author/4576247/",
+    "author_douban_id": "4576247",
+    "personage_id": 30122160,
+    "name": [
+        "蓝蓝",
+        "Lan Lan"
+    ],
+    "intro": "蓝蓝（1967—），原名胡兰兰，祖籍河南郏县。著名诗人。曾被誉为“新世纪十佳青年女诗人”之一（由《诗刊》社等部门联合推选）。郑州大学新闻系毕业。历任河南省文联《大河》诗刊社编辑，《热风》杂志社编辑，省文学院专业作家，省诗歌学会副会长。1980年开始发表作品。1993年加入中国作家协会。著有诗集《含笑终生》、《情歌》、《内心生活》、《睡梦睡梦》，散文集《人间情书》、《滴水的书卷》、《飘散的书页》、《夜有一张脸》，童话集《蓝蓝的童话》，长篇童话《梦想城》等。曾获河南省首届、第二届文学作品奖。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30122160/photo/2906092229"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2906092229.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/453e30375e240a04b20ce7a2b9487a9a.jpg",
+    "更多中文名": "胡兰兰(原名)",
+    "sex": 0,
+    "birth_date": 1967,
+    "age": 59,
+    "birth_place": [
+        "中国",
+        "山东",
+        "烟台"
+    ],
+    "profession": [
+        "作者",
+        "译者",
+        "编者"
+    ]
+}

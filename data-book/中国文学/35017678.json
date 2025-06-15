@@ -1,0 +1,89 @@
+{
+    "title": "流溪",
+    "bookInfo": {
+        "作者": "林棹",
+        "出版社": "上海三联书店",
+        "出品方": "理想国",
+        "出版年": "2020-4",
+        "页数": "192",
+        "定价": "48.00",
+        "装帧": "精装",
+        "ISBN": "9787542669988"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    林棹的这部小说是我这些年读到的中文小说里尤为特殊的一部。她有点恍惚的叙述方式和她描写的茂密的内容甚至具有一种互文关系，气候、植物、气温这些都因为人物的行为和感受而具有一种官能性。这种相异于传统的常规的文学叙事的表现，这种异质性的力量，这种放任自己失常的勇气是值得珍视的。 ——孙甘露    林棹的小说值得推荐给阅读文学作品的年轻人。读者不必被她的语言狂欢的迷雾所困扰，《流溪》的写作就像是作者的一场又一场的内观，作者邀请我们进入她内在的丛林，她的写作呈现了诸多层面的现实——用的是迷人的当代汉语，尽管语言一次又一次害了我们。——棉棉    这是一份疑点重重的独白：很难说清叙述者是天真少女、狂人、骗子，抑或三者皆是。她周旋在浪荡的情人、破碎的母亲、暴戾的父亲之间，用泡沫和幻梦高筑起可疑的前半生，最终坠向不可挽回的结局。    这部处女作呈现细密画质地，携带着亚热带岭南独有的滋味、风景与记忆，讲述成长的歧途和可能的代价，纪念那些被随意折断与腐败在地的微弱者，和他们有过的爱与生活。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "26.4%",
+        "four_star_rate": "42.7%",
+        "three_star_rate": "22.2%",
+        "two_star_rate": "6.5%",
+        "one_star_rate": "2.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611948/",
+            "name": "林棹",
+            "role": "作者",
+            "douban_id": "4611948"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.99元",
+            "link": "https://read.douban.com/ebook/313611543/?dcs=subject-buylink&dcm=douban&dct=35017678"
+        },
+        {
+            "name": "得到",
+            "price": "29.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=xGM6Evn5byxq2PnXBz71AjZaol6R8WJGg93OKpGkd4gmMLEJrYNQe9VvD8P4jLkK&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "32.16元",
+            "link": "https://book.douban.com/link2/?lowest=2740&pre=0&vendor=jingdong&srcpage=subject&price=3215&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFIRWgcKVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEwU-e0kSYCR8HSZVGFp5P1lUUylRYT0AdVkTX21ZEC0VUT9ofChTRgFSJxFCWCokcBhjYBBMbSJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZQUhY7Wg1sdg8BZRhHGXNqHCQ-cAh3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxZCEoVBmg4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWAECBgszVE1AQWZUHw57XQcFXVxfAE0nAW4JGVklbTZFDz0uCk50SBsOZhtQAX1pU1cGag11UWdmGV0XNl1GJxYEfDRoRDRVQRxvbQUy&cntvendor=5&srcsubj=35017678&type=bkbuy&subject=35017678"
+        },
+        {
+            "name": "当当网",
+            "price": "29.70元",
+            "link": "https://book.douban.com/link2/?lowest=2740&pre=0&vendor=dangdang&srcpage=subject&price=2970&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35017678%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28541408&cntvendor=5&srcsubj=35017678&type=bkbuy&subject=35017678"
+        },
+        {
+            "name": "中图网",
+            "price": "27.40元",
+            "link": "https://book.douban.com/link2/?lowest=2740&pre=0&vendor=bookschina&srcpage=subject&price=2740&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8589125.htm&cntvendor=5&srcsubj=35017678&type=bkbuy&subject=35017678"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35017678/",
+    "douban_id": "35017678",
+    "menu": [
+        "",
+        "        一　鞋盒",
+        "        二　雾",
+        "        三　树",
+        "        四　浪子",
+        "        五　处女",
+        "        六　ΔFosB",
+        "        七　咸水",
+        "        八　耗子",
+        "        九　小孩",
+        "        十　流溪",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33750233.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "林棹",
+            "link": "https://book.douban.com/search/%E6%9E%97%E6%A3%B9"
+        },
+        {
+            "text": "上海三联书店",
+            "link": "https://book.douban.com/press/2723"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        }
+    ],
+    "tag": "中国文学"
+}

@@ -1,0 +1,116 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "峡河西流去",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34806838.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36790832/",
+                        "year": "2024",
+                        "id": 36790832
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "陈年喜的诗",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34183565.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35814642/",
+                        "year": "2022",
+                        "id": 35814642
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "一地霜白",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34117145.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35709600/",
+                        "year": "2022",
+                        "id": 35709600
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "微尘",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33985995.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35585201/",
+                        "year": "2021",
+                        "id": 35585201
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "活着就是冲天一喊",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33923642.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35498378/",
+                        "year": "2021",
+                        "id": 35498378
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "炸裂志",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33931771.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/32569408/",
+                        "year": "2019",
+                        "id": 32569408
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/4610810/",
+    "author_douban_id": "4610810",
+    "personage_id": 27575296,
+    "name": [
+        "陈年喜",
+        "Nianxi Chen"
+    ],
+    "intro": "\"陈年喜，爆破工人、诗人。\"",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27575296/photo/2911884103",
+        "https://www.douban.com/personage/27575296/photo/2911884000",
+        "https://www.douban.com/personage/27575296/photo/2911884104",
+        "https://www.douban.com/personage/27575296/photo/2911884102",
+        "https://www.douban.com/personage/27575296/photo/2911884007"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2911884103.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2911884000.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2911884104.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2911884102.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2911884007.webp"
+    ],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/75c769aa7a442ad1f633afa54b8046ee.jpg",
+    "sex": 1,
+    "birth_date": 1970,
+    "age": 56,
+    "birth_place": [
+        "中国",
+        "陕西",
+        "丹凤"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

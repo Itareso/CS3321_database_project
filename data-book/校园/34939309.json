@@ -1,0 +1,41 @@
+{
+    "title": "我喜歡你的信息素 下",
+    "bookInfo": {
+        "作者": "引路星",
+        "出版社": "沒譜文化出版社",
+        "原作名": "我喜欢你的信息素",
+        "出版年": "2020-2",
+        "页数": "416",
+        "定价": "NTD 350",
+        "装帧": "平装",
+        "ISBN": "9789869853040"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "41.3%",
+        "four_star_rate": "31.7%",
+        "three_star_rate": "22.2%",
+        "two_star_rate": "3.8%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624894/",
+            "name": "引路星",
+            "role": "作者",
+            "douban_id": "4624894"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/34939309/",
+    "douban_id": "34939309",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33553537.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "引路星",
+            "link": "https://book.douban.com/author/4624894"
+        }
+    ],
+    "tag": "校园"
+}

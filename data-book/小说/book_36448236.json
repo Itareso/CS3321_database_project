@@ -1,0 +1,89 @@
+{
+    "title": "畅销小说写作指南",
+    "bookInfo": {
+        "作者": "[美] 阿尔伯特·扎克曼",
+        "出版社": "北京联合出版公司",
+        "出品方": "九读（GoRead）",
+        "原作名": "Writing the Blockbuster Novel",
+        "译者": "姚瑶",
+        "出版年": "2023-8-31",
+        "页数": "328",
+        "定价": "59.00元",
+        "装帧": "平装",
+        "丛书": "九读文化（GoRead）·读与写",
+        "ISBN": "9787559666970"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    肯·福莱特这样的畅销书作家有一个共同点：他们掌握了写出极具吸引力的世界级畅销小说的诀窍。阿尔伯特·扎克曼是位传奇文学经纪人，与许多畅销书作家合作过，包括肯·福莱特、迈克尔·刘易斯（《大空头》）和斯蒂芬·霍金。扎克曼是教授作家进入畅销书榜所需技巧的大师。    在这部已授权七种语言的畅销写作指南中，扎克曼为你解密不为人知的写出畅销长篇小说的窍门，让你知道你也可能写出销量百万的小说。    阅读此书，你将学会如何构建、使用大纲，如何选择、塑造人物，如何控制视角并利用视角引起读者的共鸣，如何将人物关系交织在一起，大场景的重要性以及如何构建场景，如何编织情节线以营造最大程度的冲突，如何把握情节的节奏，何为故事点以及如何创造故事点。    这些知识点都是在对经典作品的分析中提出，比如《飘》《教父》和《荆棘鸟》等。    如果你梦想写出一部畅销小说，这本书对你来说将是无价之宝。读一读本书，好好学习，说不定你的名字有一天也能出现在畅销书榜上。谁知道呢？\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "26.5%",
+        "four_star_rate": "50.0%",
+        "three_star_rate": "19.1%",
+        "two_star_rate": "3.9%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4623094/",
+            "name": "阿尔伯特·扎克曼",
+            "role": "作者",
+            "douban_id": "4623094"
+        },
+        {
+            "link": "https://book.douban.com/author/4608580/",
+            "name": "姚瑶",
+            "role": "译者",
+            "douban_id": "4608580"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "33.28元",
+            "link": "https://read.douban.com/ebook/483084954/?dcs=subject-buylink&dcm=douban&dct=36448236"
+        },
+        {
+            "name": "得到",
+            "price": "33.28元",
+            "link": "https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0R9RJrw8XDBK9qZpgkRELd75z4Ma6oDRrqj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.50元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=jingdong&srcpage=subject&price=2950&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVIUVA8DXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEB5ZezQSQR0PegtsIUVhICgpAQ9MfBJDdVlCC3BCNi1ZckxpfStIeiFHOBFCWCokdBhgcG9UbzJPBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZXDiIEfiNKZA18Xy1rHgV1A1tdQTJRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFdcDE4QBWY4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRAA0zVE1AXSRWQAJ7XQcBVVdcCkgnAW4JGVklbTZGFFoud05VcWhpSyJpHmV2IipUTBBofiRmGQxDK0ZgJ1onDzVpRy9pYQlwbQUy&cntvendor=5&srcsubj=36448236&type=bkbuy&subject=36448236"
+        },
+        {
+            "name": "当当网",
+            "price": "59.00元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=dangdang&srcpage=subject&price=5900&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36448236%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29606158&cntvendor=5&srcsubj=36448236&type=bkbuy&subject=36448236"
+        },
+        {
+            "name": "中图网",
+            "price": "42.30元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=bookschina&srcpage=subject&price=4230&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9142719.htm&cntvendor=5&srcsubj=36448236&type=bkbuy&subject=36448236"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36448236/",
+    "douban_id": "36448236",
+    "menu": [
+        "",
+        "        序言",
+        "        2016版前言",
+        "        01. 开篇",
+        "        02.何为大书",
+        "        03.设定小说的背景",
+        "        04.如何拟定大纲",
+        "        05.“大于生活”的人物",
+        "        06.视角",
+        "        07.强化人物关系",
+        "        08.构建场景",
+        "        09.大场景",
+        "        10.编织情节串",
+        "        11.情节编排的节奏",
+        "        12.故事点",
+        "        13.修订",
+        "        14.付梓出版，登上畅销书榜",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

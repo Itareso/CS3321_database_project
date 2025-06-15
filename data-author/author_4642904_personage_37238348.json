@@ -1,0 +1,96 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "第七位囚禁者",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34720621.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36429805/",
+                        "year": "2023",
+                        "id": 36429805
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "原生之蔓",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35082282.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35479657/",
+                        "year": "2021",
+                        "id": 35479657
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "看不见的蔷薇",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33728780.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35182236/",
+                        "year": "2020",
+                        "id": 35182236
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "月光森林",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s32344412.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30836561/",
+                        "year": "2019",
+                        "id": 30836561
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "金色麦田",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s32344411.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33404959/",
+                        "year": "2019",
+                        "id": 33404959
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "双生之蔓",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37192531/",
+                        "year": "",
+                        "id": 37192531
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/4642904/",
+    "author_douban_id": "4642904",
+    "personage_id": 37238348,
+    "name": [
+        "葵田谷"
+    ],
+    "intro": "葵田谷，知名推理小说作家，编剧。华语原创小说榜最受欢迎作品奖得主，天涯论坛全国小说征文赛亚军，悬疑公众号“没药花园”联合作者。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/1d0d4e165beb86fa103ab7fea69b2891.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

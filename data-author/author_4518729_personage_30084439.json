@@ -1,0 +1,153 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "繁花〔批註本〕",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34903713.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36955997/",
+                        "year": "2024",
+                        "id": 36955997
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "情急：痴男怨女问沈爷2",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27987546.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26305619/",
+                        "year": "2015",
+                        "id": 26305619
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "痴男怨女问沈爷",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s6883221.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/6785611/",
+                        "year": "2011",
+                        "id": 6785611
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "上流社会知识竞赛",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s3558724.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/3430536/",
+                        "year": "2009",
+                        "id": 3430536
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "笑场",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s1651531.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/1768331/",
+                        "year": "2006",
+                        "id": 1768331
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "黄色潜水艇",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s10422831.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/1451505/",
+                        "year": "2006",
+                        "id": 1451505
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "大熊猫看小电影",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s2447152.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/1326000/",
+                        "year": "2005",
+                        "id": 1326000
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "饮食男女",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s1238641.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1071800/",
+                        "year": "2004",
+                        "id": 1071800
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "写食主义",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s21186255.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1007246/",
+                        "year": "2003",
+                        "id": 1007246
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "食相报告",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s1176361.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1062913/",
+                        "year": "2003",
+                        "id": 1062913
+                    }
+                }
+            ],
+            "total": 13
+        }
+    },
+    "author_link": "https://book.douban.com/author/4518729/",
+    "author_douban_id": "4518729",
+    "personage_id": 30084439,
+    "name": [
+        "沈宏非",
+        "Hongfei Shen"
+    ],
+    "intro": "沈宏非，1962年出生于上海，自由撰稿人，电视节目策划人、制片人。沈宏非毕业于暨南大学新闻系，1984年至2000年在广州、北京、香港等地从事媒体工作，是《南方周末》、《新民晚报》等报刊的专栏作家。2003年，沈宏非获选《南方周末》“年度中国杰出专栏作家”。他的代表作品有《发现广州餐厅》、《写食主义》、《食相报告》、《思想工作》、《饮食男女》、《大熊猫看小电影》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/celebrity/m/public/p1541042278.04.jpg",
+    "sex": 1,
+    "birth_date": 1962,
+    "age": 64,
+    "birth_place": [
+        "上海"
+    ],
+    "IMDB": "nm9039881",
+    "profession": [
+        "作者",
+        "演员",
+        "导演"
+    ]
+}

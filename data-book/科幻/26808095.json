@@ -1,0 +1,71 @@
+{
+    "title": "坠落天使",
+    "bookInfo": {
+        "作者": "[英] 理查德·摩根",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "副标题": "科瓦奇三部曲",
+        "原作名": "Broken Angels",
+        "译者": "郑赛芬",
+        "出版年": "2016-12-31",
+        "页数": "507",
+        "定价": "56.00元",
+        "装帧": "平装",
+        "丛书": "世界流行科幻丛书",
+        "ISBN": "9787536483675"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.0%",
+        "four_star_rate": "35.4%",
+        "three_star_rate": "35.4%",
+        "two_star_rate": "6.7%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608491/",
+            "name": "理查德·摩根",
+            "role": "作者",
+            "douban_id": "4608491"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/26808095/",
+    "douban_id": "26808095",
+    "menu": [
+        "",
+        "        第一部 伤员",
+        "        第二部 商业决策",
+        "        第三部 破坏元素",
+        "        第四部 无法解释之现象",
+        "        第五部 动摇的忠诚",
+        "        尾声",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29262083.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 理查德·摩根",
+            "link": "https://book.douban.com/search/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%91%A9%E6%A0%B9"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "郑赛芬",
+            "link": "https://book.douban.com/search/%E9%83%91%E8%B5%9B%E8%8A%AC"
+        },
+        {
+            "text": "世界流行科幻丛书",
+            "link": "https://book.douban.com/series/1390"
+        }
+    ],
+    "tag": "科幻"
+}

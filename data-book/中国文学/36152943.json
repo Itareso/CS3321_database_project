@@ -1,0 +1,148 @@
+{
+    "title": "通俗小说",
+    "bookInfo": {
+        "作者": "仁科",
+        "出版社": "四川文艺出版社",
+        "出品方": "磨铁图书 / 磨铁读诗会",
+        "副标题": "五条人乐队仁科首部小说集",
+        "出版年": "2022-12-15",
+        "页数": "256",
+        "定价": "49",
+        "装帧": "平装",
+        "ISBN": "9787541164880"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "12.3%",
+        "four_star_rate": "31.6%",
+        "three_star_rate": "39.8%",
+        "two_star_rate": "12.3%",
+        "one_star_rate": "4.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4619799/",
+            "name": "仁科",
+            "role": "作者",
+            "douban_id": "4619799"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "49.00元",
+            "link": "https://read.douban.com/ebook/415081977/?dcs=subject-buylink&dcm=douban&dct=36152943"
+        },
+        {
+            "name": "得到",
+            "price": "49.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg04eQbWJzxbE9LZl1o8RkGd2BPYv4x6d9meB&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "23.70元",
+            "link": "https://book.douban.com/link2/?lowest=2370&pre=0&vendor=jingdong&srcpage=subject&price=2370&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwQCVl9aAEseCl8IGloTXQECVVhUAUkeBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkIHFsUWw8LVldbFxJSXzI4UFkRXFpDCS0-ajkXQBsLeC5gPltkJFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXXgAKU1heOEkXAm4NG1MSXgcyVFhYCUgWB2cKG10WWTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlxdDUwXbTMOTB5LBV5EOl5cDkkVBGYLK1kUXAQAZG5tWxFVcDANeT8TKE8FAygGXgJ-AAx1WSNUMwQBUgAHQThHaGlyHgJ8BmdDNW5eOA&cntvendor=5&srcsubj=36152943&type=bkbuy&subject=36152943"
+        },
+        {
+            "name": "当当网",
+            "price": "36.80元",
+            "link": "https://book.douban.com/link2/?lowest=2370&pre=0&vendor=dangdang&srcpage=subject&price=3679&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36152943%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29489579&cntvendor=5&srcsubj=36152943&type=bkbuy&subject=36152943"
+        },
+        {
+            "name": "中图网",
+            "price": "27.90元",
+            "link": "https://book.douban.com/link2/?lowest=2370&pre=0&vendor=bookschina&srcpage=subject&price=2790&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8975205.htm&cntvendor=5&srcsubj=36152943&type=bkbuy&subject=36152943"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36152943/",
+    "douban_id": "36152943",
+    "menu": [
+        "",
+        "        ***",
+        "        01",
+        "        ***",
+        "        005 地球仪",
+        "        009 发廊",
+        "        013 电影爱好者",
+        "        018 破旅馆之梦",
+        "        022 云",
+        "        023 红城快车",
+        "        027 工作、走鬼、骗子、小偷，还有小赵的青春歌舞团",
+        "        044 杀人犯",
+        "        045 without 狄仁杰和包青天",
+        "        046 故事大王",
+        "        047 梦幻士多店",
+        "        053 露水",
+        "        058 乐队",
+        "        060 文身店的爱恨情仇",
+        "        064 歌手和古惑仔",
+        "        ***",
+        "        02",
+        "        ***",
+        "        071 在城市之中",
+        "        074 人性的弱点",
+        "        080 懒汉鱼",
+        "        085 巴浪鱼之梦",
+        "        091 老鼠和啤酒妹",
+        "        100 明天太阳会从财富广场升起",
+        "        105 守株待兔",
+        "        106 抢劫",
+        "        107 “美猴王”",
+        "        110 火影忍者和蜘蛛侠在街上派传单",
+        "        115 三和大神",
+        "        117 鬼",
+        "        118 迷路鬼的故事",
+        "        121 外卖仔",
+        "        122 打兔子",
+        "        130 一个小屁孩打开笼子放走一只鸡",
+        "        131 音乐鸡",
+        "        132 绿岛西餐厅",
+        "        134 烩面和蟑螂",
+        "        140 蟑螂",
+        "        142 情书",
+        "        150 情歌",
+        "        151 偷东西、学习、火车梦",
+        "        ***",
+        "        03",
+        "        ***",
+        "        157 宝石城",
+        "        162 工业革命",
+        "        163 交通事故",
+        "        165 卡拉永远OK，爱情瞬间破碎",
+        "        175 镜子",
+        "        176 瘦子的故事",
+        "        177 爱情的故事",
+        "        178 梦中梦",
+        "        183 旅行、蓝色的水母，还有一巴掌",
+        "        191 螃蟹横着走",
+        "        196 电驴",
+        "        198 一条空空荡荡的大街",
+        "        199 沙发",
+        "        200 马戏团和流浪歌手来到捷胜城",
+        "        214 疯马村永恒的一天",
+        "        235 骆驼停在斑马线上",
+        "        237 鬼故事、八哥鸟、索菲娅，还有一条蛇",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34369811.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "仁科",
+            "link": "https://book.douban.com/search/%E4%BB%81%E7%A7%91"
+        },
+        {
+            "text": "四川文艺出版社",
+            "link": "https://book.douban.com/press/2529"
+        },
+        {
+            "text": "磨铁图书",
+            "link": "https://book.douban.com/producers/18"
+        },
+        {
+            "text": "磨铁读诗会",
+            "link": "https://book.douban.com/producers/687"
+        }
+    ],
+    "tag": "中国文学"
+}

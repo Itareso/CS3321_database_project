@@ -1,0 +1,45 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "一路生花",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35000009.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36956789/",
+                        "year": "2024",
+                        "id": 36956789
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4638063/",
+    "author_douban_id": "4638063",
+    "personage_id": 37090357,
+    "name": [
+        "杨妞花",
+        "Niuhua Yang"
+    ],
+    "intro": "杨妞花，曾用名李素燕，女，1990年出生在贵州省织金县官寨苗族乡，1995年在贵阳被余华英拐走，以2500元的价格卖到河北邯郸，并且更名“李素燕”。2024年10月10日，杨妞花正式改回本名。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/67ac275a810ed99176dfa159f2471795.jpg",
+    "更多中文名": "李素燕(曾用名)",
+    "sex": 0,
+    "birth_date": 1990,
+    "age": 36,
+    "birth_place": [
+        "中国",
+        "贵州",
+        "织金"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

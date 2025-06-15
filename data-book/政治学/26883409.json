@@ -1,0 +1,86 @@
+{
+    "title": "哲学书简",
+    "bookInfo": {
+        "作者": "[法]伏尔泰",
+        "出版社": "商务印书馆",
+        "译者": "閻素伟",
+        "出版年": "2016-8-1",
+        "页数": "155",
+        "定价": "18.00",
+        "装帧": "平装",
+        "ISBN": "9787100119221"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.0%",
+        "four_star_rate": "57.1%",
+        "three_star_rate": "17.6%",
+        "two_star_rate": "3.3%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608678/",
+            "name": "伏尔泰",
+            "role": "作者",
+            "douban_id": "4608678"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "12.90元",
+            "link": "https://book.douban.com/link2/?lowest=1290&pre=0&vendor=jingdong&srcpage=subject&price=1290&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFoQXgEAUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVVteD0kSHDZNRwYlBmUFJy4iDkt0cRVxRVhJNlF8PFk2aEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UWA4GXFdVC00VM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsWVARsCFgHVB5BVm5mGFMdVA8FXFptCkoWAW04K2tTBXBaMz4KTQtDVjBfQCR9XgN3Ax1aYQB5AT9KEgN9BQVAFCYlThNfXhQOK1gl&cntvendor=1&srcsubj=26883409&type=bkbuy&subject=26883409"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26883409/",
+    "douban_id": "26883409",
+    "menu": [
+        "",
+        "        引言",
+        "        伏尔泰年表",
+        "        第一封信：关于贵格会信徒",
+        "        第二封信：关于贵格会信徒",
+        "        第三封信：关于贵格会信徒",
+        "        第四封信：关于贵格会信徒",
+        "        第五封信：关于英国圣公会",
+        "        第六封信：关于长老会信徒",
+        "        第七封信：关于苏西尼教派的信徒或者阿里乌斯教派的信徒，或者反三位一体教派的信徒",
+        "        第八封信：关于议会",
+        "        第九封信：关于政府",
+        "        第十封信：关于商业",
+        "        第十一封信：关于种牛痘",
+        "        第十二封信：关于掌玺大臣培根",
+        "        第十三封信：关于洛克",
+        "        第十四封信：关于笛卡尔和牛顿",
+        "        第十五封信：关于引力系统",
+        "        第十六封信：关于牛顿的光学",
+        "        第十七封信：关于无限和纪年",
+        "        第十八封信：关于悲剧",
+        "        第十九封信：关于喜剧",
+        "        第二十封信：关于培养文学爱好的达官贵人们",
+        "        第二十一封信：关于罗切斯特伯爵和韦勒先生",
+        "        第二十二封信：关于蒲柏先生和其他几位著名的诗人",
+        "        第二十三封信：关于人们对文人应有的尊重",
+        "        第二十四封信：关于科学院",
+        "        第二十五封信：关于帕斯卡的《思想录》",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29089834.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法]伏尔泰",
+            "link": "https://book.douban.com/author/4608678"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "閻素伟",
+            "link": "https://book.douban.com/search/%E9%96%BB%E7%B4%A0%E4%BC%9F"
+        }
+    ],
+    "tag": "政治学"
+}

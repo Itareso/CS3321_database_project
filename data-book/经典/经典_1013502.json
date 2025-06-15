@@ -1,0 +1,86 @@
+{
+    "title": "钢铁是怎样炼成的",
+    "bookInfo": {
+        "作者": "[苏] 尼·奥斯特洛夫斯基",
+        "出版社": "译林出版社",
+        "原作名": "Как закалялась сталь",
+        "译者": "曹缦西 / 王志棣",
+        "出版年": "1996-10",
+        "页数": "458",
+        "定价": "20.00元",
+        "装帧": "精装",
+        "丛书": "名著译林",
+        "ISBN": "9787805674254"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.0%",
+        "four_star_rate": "43.2%",
+        "three_star_rate": "26.2%",
+        "two_star_rate": "3.1%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/519554/",
+            "name": "尼古拉·阿列克谢耶维奇·奥斯特洛夫斯基",
+            "role": "作者",
+            "douban_id": "519554"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.00元",
+            "link": "https://book.douban.com/link2/?lowest=2200&pre=0&vendor=jingdong&srcpage=subject&price=2200&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10042986540896.html&cntvendor=1&srcsubj=1013502&type=bkbuy&subject=1013502"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1013502/",
+    "douban_id": "1013502",
+    "menu": [
+        "",
+        "        第一部",
+        "        第一章",
+        "        第二章",
+        "        第三章",
+        "        第四章",
+        "        第五章",
+        "        第六章",
+        "        第七章",
+        "        ……",
+        "        第二部",
+        "        第一章",
+        "        第二章",
+        "        第三章",
+        "        第四章",
+        "        第五章",
+        "        ……",
+        "        附注",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s2241708.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[苏] 尼·奥斯特洛夫斯基",
+            "link": "https://book.douban.com/author/519554"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "曹缦西",
+            "link": "https://book.douban.com/search/%E6%9B%B9%E7%BC%A6%E8%A5%BF"
+        },
+        {
+            "text": "王志棣",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E5%BF%97%E6%A3%A3"
+        },
+        {
+            "text": "名著译林",
+            "link": "https://book.douban.com/series/45973"
+        }
+    ],
+    "tag": "经典"
+}

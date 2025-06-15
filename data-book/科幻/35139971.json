@@ -1,0 +1,60 @@
+{
+    "title": "岩边的禅院",
+    "bookInfo": {
+        "作者": "七月",
+        "出版社": "人民文学出版社",
+        "出版年": "2021-2",
+        "页数": "204",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "ISBN": "9787020164554"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "9.8%",
+        "four_star_rate": "21.6%",
+        "three_star_rate": "46.3%",
+        "two_star_rate": "17.3%",
+        "one_star_rate": "5.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614117/",
+            "name": "七月",
+            "role": "作者",
+            "douban_id": "4614117"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "17.10元",
+            "link": "https://book.douban.com/link2/?lowest=1710&pre=0&vendor=jingdong&srcpage=subject&price=1710&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVsWXwMFU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOMl4LQEN3Qyt6YC1vXUVxCRYWdwNAChZ4dVllP14CKhY8aTlOWgkIRzkdGBFCWCokdClgWgRIbFl9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZlUAIhEhRqfQ1UeRJlAUNjFlZUTR9nD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVCEgQAm04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA4DXQwzVE1BAipbGlx7XQYEV1tbDU8nAW4JGVklbTZkVAgVACtXRx1zbSEVHnVfHBUiQBweeh9mGSt3BQZ8HD88ehJOZW9UeVNQbQUy&cntvendor=3&srcsubj=35139971&type=bkbuy&subject=35139971"
+        },
+        {
+            "name": "当当网",
+            "price": "33.80元",
+            "link": "https://book.douban.com/link2/?lowest=1710&pre=0&vendor=dangdang&srcpage=subject&price=3379&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35139971%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29204588&cntvendor=3&srcsubj=35139971&type=bkbuy&subject=35139971"
+        },
+        {
+            "name": "中图网",
+            "price": "32.40元",
+            "link": "https://book.douban.com/link2/?lowest=1710&pre=0&vendor=bookschina&srcpage=subject&price=3240&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8516401.htm&cntvendor=3&srcsubj=35139971&type=bkbuy&subject=35139971"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35139971/",
+    "douban_id": "35139971",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33796464.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "七月",
+            "link": "https://book.douban.com/author/4614117"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        }
+    ],
+    "tag": "科幻"
+}

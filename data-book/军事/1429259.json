@@ -1,0 +1,67 @@
+{
+    "title": "虎牙",
+    "bookInfo": {
+        "作者": "（美）克兰西（Clancy,T.）",
+        "出版社": "上海译文出版社",
+        "译者": "管舒宁 / 陈瑛 / 卢秋平",
+        "出版年": "2005-07-01",
+        "页数": "326",
+        "定价": "27.00",
+        "装帧": "平装",
+        "丛书": "汤姆·克兰西军事系列",
+        "ISBN": "9787532737093"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.1%",
+        "four_star_rate": "43.5%",
+        "three_star_rate": "34.8%",
+        "two_star_rate": "5.0%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/136950/",
+            "name": "汤姆·克兰西",
+            "role": "作者",
+            "douban_id": "136950"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1429259/",
+    "douban_id": "1429259",
+    "menu": [
+        "",
+        "        引子 河的另一边第一章 反空训练",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s26675245.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "（美）克兰西（Clancy,T.）",
+            "link": "https://book.douban.com/author/136950"
+        },
+        {
+            "text": "上海译文出版社",
+            "link": "https://book.douban.com/press/2582"
+        },
+        {
+            "text": "管舒宁",
+            "link": "https://book.douban.com/search/%E7%AE%A1%E8%88%92%E5%AE%81"
+        },
+        {
+            "text": "陈瑛",
+            "link": "https://book.douban.com/search/%E9%99%88%E7%91%9B"
+        },
+        {
+            "text": "卢秋平",
+            "link": "https://book.douban.com/search/%E5%8D%A2%E7%A7%8B%E5%B9%B3"
+        },
+        {
+            "text": "汤姆·克兰西军事系列",
+            "link": "https://book.douban.com/series/9109"
+        }
+    ],
+    "tag": "军事"
+}

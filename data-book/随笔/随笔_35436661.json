@@ -1,0 +1,57 @@
+{
+    "title": "四合院活物记",
+    "bookInfo": {
+        "作者": "崔岱远 著 / 林雨飞 绘",
+        "出版社": "商务印书馆",
+        "出版年": "2021-4",
+        "页数": "257",
+        "定价": "58.00",
+        "装帧": "精装",
+        "ISBN": "9787100193214"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.9%",
+        "four_star_rate": "42.9%",
+        "three_star_rate": "17.5%",
+        "two_star_rate": "3.2%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "50.50元",
+            "link": "https://book.douban.com/link2/?lowest=4860&pre=0&vendor=jingdong&srcpage=subject&price=5050&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVscWgcBXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVFdaCUgeHDZNRwYlOGNxET07Y01ySxlTHil1PUAKKA5HaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFdaCUsVM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgJsCFgKSgxJBydmG1ocXgIEU15tCkoWAW04K2tMHFhAJFsPSiwUUA1oXwFJAXVFIFw6VUh5ASpAbBpoHwRUMzg7UQppf29_K1gl&cntvendor=3&srcsubj=35436661&type=bkbuy&subject=35436661"
+        },
+        {
+            "name": "当当网",
+            "price": "57.40元",
+            "link": "https://book.douban.com/link2/?lowest=4860&pre=0&vendor=dangdang&srcpage=subject&price=5740&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35436661%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29325186&cntvendor=3&srcsubj=35436661&type=bkbuy&subject=35436661"
+        },
+        {
+            "name": "中图网",
+            "price": "48.60元",
+            "link": "https://book.douban.com/link2/?lowest=4860&pre=0&vendor=bookschina&srcpage=subject&price=4860&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8709444.htm&cntvendor=3&srcsubj=35436661&type=bkbuy&subject=35436661"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35436661/",
+    "douban_id": "35436661",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33878121.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "崔岱远 著",
+            "link": "https://book.douban.com/search/%E5%B4%94%E5%B2%B1%E8%BF%9C%20%E8%91%97"
+        },
+        {
+            "text": "林雨飞 绘",
+            "link": "https://book.douban.com/search/%E6%9E%97%E9%9B%A8%E9%A3%9E%20%E7%BB%98"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        }
+    ],
+    "tag": "随笔"
+}

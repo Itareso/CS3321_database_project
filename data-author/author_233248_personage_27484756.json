@@ -1,0 +1,157 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "暴风眼",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33843342.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35366132/",
+                        "year": "2021",
+                        "id": 35366132
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "理想照耀中国",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33914957.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35486937/",
+                        "year": "2021",
+                        "id": 35486937
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "澳门人家",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33534706.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34905533/",
+                        "year": "2019",
+                        "id": 34905533
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "楚辞·赏",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29994581.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30449237/",
+                        "year": "2019",
+                        "id": 30449237
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "思美人 (三)",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29659106.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/27623446/",
+                        "year": "2017",
+                        "id": 27623446
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "思美人·山鬼",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29388954.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26992125/",
+                        "year": "2017",
+                        "id": 26992125
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "思美人·湘君",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29389135.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26992221/",
+                        "year": "2017",
+                        "id": 26992221
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "思美人（全四卷）典藏版",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29388920.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26992108/",
+                        "year": "2017",
+                        "id": 26992108
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "思美人·天问",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29389138.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26992223/",
+                        "year": "2017",
+                        "id": 26992223
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "思美人·离骚",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29389139.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26992225/",
+                        "year": "2017",
+                        "id": 26992225
+                    }
+                }
+            ],
+            "total": 19
+        }
+    },
+    "author_link": "https://book.douban.com/author/233248/",
+    "author_douban_id": "233248",
+    "personage_id": 27484756,
+    "name": [
+        "梁振华",
+        "Zhenhua Liang"
+    ],
+    "intro": "文学博士。北京师范大学文学院教授、博士生导师。中国作家协会会员，影视编剧、制片人。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/f8335d2e18990af7e28e224354a5ee97.jpg",
+    "sex": 1,
+    "birth_date": 1977,
+    "age": 49,
+    "birth_place": [
+        "中国",
+        "湖南",
+        "邵阳"
+    ],
+    "IMDB": "nm9066921",
+    "profession": [
+        "编剧",
+        "制片人",
+        "美术",
+        "作者",
+        "编者"
+    ]
+}

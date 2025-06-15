@@ -1,0 +1,77 @@
+{
+    "title": "神秘博士：异种",
+    "bookInfo": {
+        "作者": "[英]贾斯廷·理查兹",
+        "出版社": "新星出版社",
+        "出品方": "八光分文化",
+        "副标题": "《神秘博士》新剧集官方小说",
+        "原作名": "Doctor Who: The Deviant Strain",
+        "译者": "吕灵芝",
+        "出版年": "2020-4",
+        "页数": "259",
+        "定价": "41.00元",
+        "装帧": "平装",
+        "丛书": "《神秘博士》官方小说",
+        "ISBN": "9787513336451"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    英国国剧《神秘博士》新剧集官方小说    第九任博士和罗丝、杰克上校的孤岛大冒险    ———————————————————————————————————    【媒体推荐】    《时代周刊》：《神秘博士》对人类最美好的品质——智慧、 好奇心和善良进行了探索塑造。    路透社：神秘博士是全世界极具标志性的科幻人物。    《纽约客》：《神秘博士》是一部拓宽幻想边界的作品。    ———————————————————————————————————    【名人推荐】    斯蒂芬•斯皮尔伯格：“如果没有《神秘博士》，世界将是个很逊的地方。”    《神探夏洛克》《神秘博士》制作人史蒂文•莫法特：“我是《神秘博士》的头号受害者，我不知道它对我做了些什么，但是我发誓它干得好啊！”    尼尔•盖曼：“在了解希腊、罗马和埃及神话前，《神秘博士》是我最先熟知的神话。”    ———————————————————————————————————    【关于本书】    在冰天雪地的极地半岛上，隐藏着一个与世隔绝的绝密机构。    博士、罗丝和杰克上校收到来自此地的神秘求救信号，却发现岛上谜团重重：    十余艘潜水艇锈迹斑斑，人们却任其化作废铁；    反应堆的运转情况堪忧，人们却对它视而不见；    恐怖死亡事件频频发生，人们却对此讳莫如深。    诡异的巨石阵、异增的能量脉冲、干枯皱缩的尸体……    所有的线索都指向一项秘密实验。    异常的能量从何而来？究竟是谁亟待救援？    时间所剩无几，博士和他的朋友们能否绝地逢生？\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "40.6%",
+        "four_star_rate": "32.8%",
+        "three_star_rate": "21.9%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "3.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610011/",
+            "name": "贾斯廷·理查兹",
+            "role": "作者",
+            "douban_id": "4610011"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "17.04元",
+            "link": "https://book.douban.com/link2/?lowest=1704&pre=0&vendor=jingdong&srcpage=subject&price=1704&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070285645394.html&cntvendor=3&srcsubj=34976887&type=bkbuy&subject=34976887"
+        },
+        {
+            "name": "当当网",
+            "price": "26.40元",
+            "link": "https://book.douban.com/link2/?lowest=1704&pre=0&vendor=dangdang&srcpage=subject&price=2640&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34976887%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28534726&cntvendor=3&srcsubj=34976887&type=bkbuy&subject=34976887"
+        },
+        {
+            "name": "中图网",
+            "price": "23.50元",
+            "link": "https://book.douban.com/link2/?lowest=1704&pre=0&vendor=bookschina&srcpage=subject&price=2350&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8292908.htm&cntvendor=3&srcsubj=34976887&type=bkbuy&subject=34976887"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34976887/",
+    "douban_id": "34976887",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33601174.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英]贾斯廷·理查兹",
+            "link": "https://book.douban.com/search/%E8%B4%BE%E6%96%AF%E5%BB%B7%C2%B7%E7%90%86%E6%9F%A5%E5%85%B9"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "八光分文化",
+            "link": "https://book.douban.com/producers/115"
+        },
+        {
+            "text": "吕灵芝",
+            "link": "https://book.douban.com/search/%E5%90%95%E7%81%B5%E8%8A%9D"
+        },
+        {
+            "text": "《神秘博士》官方小说",
+            "link": "https://book.douban.com/series/40153"
+        }
+    ],
+    "tag": "科幻"
+}

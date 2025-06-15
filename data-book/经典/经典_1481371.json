@@ -1,0 +1,49 @@
+{
+    "title": "封神演義 1",
+    "bookInfo": {
+        "作者": "藤崎龙",
+        "出版社": "東立出版社有限公司",
+        "副标题": "日本集英社正式授權臺灣中文版",
+        "译者": "楊雅玲",
+        "定价": "85元",
+        "装帧": "平裝",
+        "丛书": "封神演義",
+        "ISBN": "9789573471677"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "52.1%",
+        "four_star_rate": "30.6%",
+        "three_star_rate": "15.1%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/607096/",
+            "name": "藤崎竜",
+            "role": "作者",
+            "douban_id": "607096"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1481371/",
+    "douban_id": "1481371",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s3141958.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "藤崎龙",
+            "link": "https://book.douban.com/search/%E8%97%A4%E5%B4%8E%E9%BE%99"
+        },
+        {
+            "text": "楊雅玲",
+            "link": "https://book.douban.com/search/%E6%A5%8A%E9%9B%85%E7%8E%B2"
+        },
+        {
+            "text": "封神演義",
+            "link": "https://book.douban.com/series/5899"
+        }
+    ],
+    "tag": "经典"
+}

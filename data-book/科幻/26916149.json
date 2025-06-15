@@ -1,0 +1,89 @@
+{
+    "title": "回忆爱玛侬",
+    "bookInfo": {
+        "作者": "[日] 梶尾真治",
+        "出版社": "新星出版社",
+        "原作名": "おもいでエマノン",
+        "译者": "王玮",
+        "出版年": "2017-5",
+        "页数": "240",
+        "定价": "32.80元",
+        "装帧": "平装",
+        "丛书": "幻象文库",
+        "ISBN": "9787513323727"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.4%",
+        "four_star_rate": "37.9%",
+        "three_star_rate": "37.9%",
+        "two_star_rate": "5.7%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4565830/",
+            "name": "鹤田谦二",
+            "role": "作者",
+            "douban_id": "4565830"
+        },
+        {
+            "link": "https://book.douban.com/author/4528925/",
+            "name": "梶尾真治",
+            "role": "作者",
+            "douban_id": "4528925"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "9.90元",
+            "link": "https://www.dedao.cn/eBook/lxaVvndNG6D4kgLJ2OKxqVMmE1zXPwVYLA3AdjyQeYR75vbaBnr9ol8pZERLg1my?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "9.00元",
+            "link": "https://book.douban.com/link2/?lowest=900&pre=0&vendor=jingdong&srcpage=subject&price=900&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQIKVVxZAEsWM28JGlwRWAcGVlxbCUseMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWBGsNGl8XXwADVFdCUQ5LXl8BWFJvPlt5VDwdUAlrQAZIHQ5RWnliWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHl0TXAEyVl5cCU4XC2gLGmsVWwMDV15aDkkXBWsPK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggdXQUKUlwzVE1BAm1DXBp7XQYGV19cDE4nAW4JGVklbTZYByQ-V0JBAjh8Tyh1IEdUKS4oQT5sYjxmGVIROlUANz8dXzRjVWhgTyd8bQUy&cntvendor=3&srcsubj=26916149&type=bkbuy&subject=26916149"
+        },
+        {
+            "name": "中图网",
+            "price": "10.80元",
+            "link": "https://book.douban.com/link2/?lowest=900&pre=0&vendor=bookschina&srcpage=subject&price=1080&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7514627.htm&cntvendor=3&srcsubj=26916149&type=bkbuy&subject=26916149"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26916149/",
+    "douban_id": "26916149",
+    "menu": [
+        "",
+        "        回忆爱玛侬",
+        "        逆转的印痕",
+        "        路过的失忆者",
+        "        彷徨的命运",
+        "        盖伦的背叛",
+        "        黄昏下的接触",
+        "        进化的海风",
+        "        山中一梦",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29469902.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 梶尾真治",
+            "link": "https://book.douban.com/author/4565830"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "王玮",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E7%8E%AE"
+        },
+        {
+            "text": "幻象文库",
+            "link": "https://book.douban.com/series/13154"
+        }
+    ],
+    "tag": "科幻"
+}

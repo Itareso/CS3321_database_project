@@ -1,0 +1,49 @@
+{
+    "title": "御者（全三册）",
+    "bookInfo": {
+        "作者": "折一枚針 / 折一枚针",
+        "出版社": "沒譜文化出版社",
+        "原作名": "御者",
+        "出版年": "2019-12",
+        "定价": "NTD 939",
+        "装帧": "平装",
+        "丛书": "御者",
+        "ISBN": "9789869811484"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "42.8%",
+        "four_star_rate": "38.0%",
+        "three_star_rate": "13.4%",
+        "two_star_rate": "4.8%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624979/",
+            "name": "折一枚针",
+            "role": "作者",
+            "douban_id": "4624979"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/34949078/",
+    "douban_id": "34949078",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33560725.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "折一枚針",
+            "link": "https://book.douban.com/search/%E6%8A%98%E4%B8%80%E6%9E%9A%E9%87%9D"
+        },
+        {
+            "text": "折一枚针",
+            "link": "https://book.douban.com/author/4624979"
+        },
+        {
+            "text": "御者",
+            "link": "https://book.douban.com/series/56231"
+        }
+    ],
+    "tag": "科幻"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "老娘駕到",
+    "bookInfo": {
+        "作者": "大S徐熙媛",
+        "出版社": "平裝本出版有限公司",
+        "出版年": "2015-6-29",
+        "页数": "160",
+        "定价": "NT$320",
+        "装帧": "平装",
+        "ISBN": "9789578039636"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "19.3%",
+        "four_star_rate": "21.1%",
+        "three_star_rate": "40.0%",
+        "two_star_rate": "14.3%",
+        "one_star_rate": "5.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/210361/",
+            "name": "徐熙媛",
+            "role": "作者",
+            "douban_id": "210361"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "214.80元",
+            "link": "https://book.douban.com/link2/?lowest=21480&pre=0&vendor=jingdong&srcpage=subject&price=21480&pos=1&url=https%3A%2F%2Fitem.jd.com%2F16094547.html&cntvendor=1&srcsubj=26421317&type=bkbuy&subject=26421317"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26421317/",
+    "douban_id": "26421317",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s28106144.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "大S徐熙媛",
+            "link": "https://book.douban.com/search/%E5%A4%A7S%E5%BE%90%E7%86%99%E5%AA%9B"
+        }
+    ],
+    "tag": "随笔"
+}

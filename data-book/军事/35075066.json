@@ -1,0 +1,121 @@
+{
+    "title": "勇敢的人",
+    "bookInfo": {
+        "作者": "[美]厄尼·派尔",
+        "出版社": "文化发展出版社",
+        "译者": "夏夜",
+        "出版年": "2021-5",
+        "装帧": "平装",
+        "丛书": "大战纪",
+        "ISBN": "9787514227901"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "51.5%",
+        "four_star_rate": "39.4%",
+        "three_star_rate": "6.1%",
+        "two_star_rate": "3.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4640942/",
+            "name": "厄尼·派尔",
+            "role": "作者",
+            "douban_id": "4640942"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "32.99元",
+            "link": "https://read.douban.com/ebook/384174450/?dcs=subject-buylink&dcm=douban&dct=35075066"
+        },
+        {
+            "name": "得到",
+            "price": "32.99元",
+            "link": "https://www.dedao.cn/eBook/ZykJDGjQ7AOLNa642rbP8dkEgemKDwd4XjwXoVRjpBxl95MJzqvYGynZ18MEl5Bo?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "27.88元",
+            "link": "https://book.douban.com/link2/?lowest=2788&pre=0&vendor=jingdong&srcpage=subject&price=2788&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVkWXA8AU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVl1cAUkQHDZNRwYlVGMDCSoHDhxyRwkIfD5pPHlfMAsaTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUV5YCUIXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFsRWgdsCFgHVw5AUSxmGVoWWwIDU11tCkoWAW04K2tnK2EEMD4ecQN3SylsUyxcIG5jCjkDaQ15ARlxXC1HW2FHHBUWej1VQDdsK1gl&cntvendor=5&srcsubj=35075066&type=bkbuy&subject=35075066"
+        },
+        {
+            "name": "当当网",
+            "price": "68.00元",
+            "link": "https://book.douban.com/link2/?lowest=2788&pre=0&vendor=dangdang&srcpage=subject&price=6800&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35075066%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29261852&cntvendor=5&srcsubj=35075066&type=bkbuy&subject=35075066"
+        },
+        {
+            "name": "中图网",
+            "price": "44.50元",
+            "link": "https://book.douban.com/link2/?lowest=2788&pre=0&vendor=bookschina&srcpage=subject&price=4450&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8613168.htm&cntvendor=5&srcsubj=35075066&type=bkbuy&subject=35075066"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35075066/",
+    "douban_id": "35075066",
+    "menu": [
+        "",
+        "        第一篇  西西里登陆战  1943年6月—9月",
+        "        第1章　序幕",
+        "        第2章　舰队出征",
+        "        第3章　西西里登陆日",
+        "        第4章　海军待命",
+        "        第5章　医疗兵与死伤者",
+        "        第6章　工兵的战争",
+        "        第7章　征战西西里",
+        "        第8章　西西里陷落",
+        "        第9章　炮兵",
+        "        第二篇  意大利  1943年12月—1944年4月",
+        "        第10章　军中另类与题外话",
+        "        第11章　山地战",
+        "        第12章　俯冲轰炸机",
+        "        第13章　了不起的步兵",
+        "        第14章　轻型轰炸机",
+        "        第15章　坦克登陆舰的巡航",
+        "        第16章　安齐奥-内图诺登陆场",
+        "        第17章　安齐奥滩头的战士",
+        "        第18章　补给线",
+        "        第19章　医院船",
+        "        第20章　告别意大利",
+        "        第三篇  英国  1944年4月—5月",
+        "        第21章　英国此时",
+        "        第22章　高级将领",
+        "        第23章　空中矛头",
+        "        第24章　准备登陆",
+        "        第四篇  法国  1944年6月—9月",
+        "        第25章　哨声响起",
+        "        第26章　向柏林进军",
+        "        第27章　法兰西万岁",
+        "        第28章　美军高射炮",
+        "        第29章　巷战",
+        "        第30章　侦察",
+        "        第31章　军械署",
+        "        第32章　突破诺曼底",
+        "        第33章　战斗在灌木篱墙间",
+        "        第34章　巴黎解放",
+        "        第35章　结语",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33892948.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]厄尼·派尔",
+            "link": "https://book.douban.com/author/4640942"
+        },
+        {
+            "text": "文化发展出版社",
+            "link": "https://book.douban.com/press/2401"
+        },
+        {
+            "text": "夏夜",
+            "link": "https://book.douban.com/search/%E5%A4%8F%E5%A4%9C"
+        },
+        {
+            "text": "大战纪",
+            "link": "https://book.douban.com/series/59725"
+        }
+    ],
+    "tag": "军事"
+}

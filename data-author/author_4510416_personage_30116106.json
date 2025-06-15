@@ -1,0 +1,153 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "梦溪笔谈",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29148896.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26913867/",
+                        "year": "2022",
+                        "id": 26913867
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "梦溪笔谈校证",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29142778.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26888454/",
+                        "year": "2016",
+                        "id": 26888454
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "梦溪笔谈【注译】",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29067691.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26881137/",
+                        "year": "2016",
+                        "id": 26881137
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "梦溪笔谈译注",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28663593.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26780088/",
+                        "year": "2015",
+                        "id": 26780088
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "梦溪笔谈",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29043192.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26874604/",
+                        "year": "2015",
+                        "id": 26874604
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "梦溪笔谈",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28569635.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26759198/",
+                        "year": "2015",
+                        "id": 26759198
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "梦溪笔谈译注",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28033615.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/25901106/",
+                        "year": "2014",
+                        "id": 25901106
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.4,
+                        "title": "梦溪笔谈全译",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27035757.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/24737635/",
+                        "year": "2013",
+                        "id": 24737635
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "梦溪笔谈-青少版",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s24558795.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/20396410/",
+                        "year": "2012",
+                        "id": 20396410
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "梦溪笔谈",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s7000070.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/6878993/",
+                        "year": "2011",
+                        "id": 6878993
+                    }
+                }
+            ],
+            "total": 36
+        }
+    },
+    "author_link": "https://book.douban.com/author/4510416/",
+    "author_douban_id": "4510416",
+    "personage_id": 30116106,
+    "name": [
+        "沈括",
+        "Kuo Shen"
+    ],
+    "intro": "沈括（1031年－1095年），字存中，号梦溪丈人，汉族，杭州钱塘县（今浙江杭州）人，北宋官员、科学家。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30116106/photo/2918243914"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2918243914.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/bf155884c008e639b50a742d1a718467.jpg",
+    "更多中文名": "字存中，晚年自号梦溪丈人、梦溪翁、岸老",
+    "sex": 1,
+    "birth_date": 1031,
+    "death_date": 1095,
+    "age": 65,
+    "profession": [
+        "作者"
+    ]
+}

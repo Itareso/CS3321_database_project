@@ -1,0 +1,75 @@
+{
+    "title": "我的一生",
+    "bookInfo": {
+        "作者": "[意] 贾科莫·卡萨诺瓦",
+        "出版社": "新星出版社",
+        "副标题": "卡萨诺瓦自传",
+        "译者": "高中甫 / 贺骥 / 杜新华",
+        "出版年": "2018-3",
+        "页数": "616",
+        "定价": "69.00元",
+        "装帧": "精装",
+        "丛书": "传记文库",
+        "ISBN": "9787513328302"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    卡萨诺瓦的回忆录没有深邃的哲理，但是同时却使他的回忆录成了一部历史导游手册，一座18世纪的宫廷，一种有趣的丑闻纪事，一个世纪编年的完整的横切面。通过其他任何人都不如通过卡萨诺瓦来了解18世纪的日常生活现象，也就是文化现象，当时的舞会、剧院、咖啡馆、城堡、旅店、赌场、妓院、狩猎场、修道院和要塞。通过他，我们可以了解到在那个时候如何旅行，如何进餐，如何读博，如何跳舞，如何居住，如何谈情说爱，如何消遣娱乐，风俗道德如何，教养举止如何，言语风度如何以及生活方式如何，而在这些丰富多彩的事实，也就是客观的生活现实场景之外，还可以了解到那些喧哗嘈杂，不住地轮番出现的各色人物。那些人物足够写作二十部长篇小说，可以供一代的，不，可以供十代的中篇小说家使用。那些人物是多么丰富呀！有士兵和亲王诸侯，有教皇和国王，有流浪汉和赌场骗子，有商人和公证人，还有阉人，驱赶妓女者，歌手，少女和娼妓，作家和哲学家，贤明人和愚蠢人。这是把一个个人物聚集在一本书的围栏里最有趣和最丰富的人物大汇展。数以百计的中篇小说和戏剧都借助于他的作品才写出了最好的人物形象和场景。这一座题材矿山至今依然是取之不竭的，正如曾经有十代人为了新建筑而从罗马广场取用石材一样，还会有好几代的文人学士要从大挥霍者那里借用基础和人物。    卡萨诺瓦证明了：一个人不是作家，但能写出世界上最使人感兴趣的长篇小说；一个人不是历史学家，但可能编写出最完整的时代画像。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "41.7%",
+        "four_star_rate": "35.3%",
+        "three_star_rate": "16.5%",
+        "two_star_rate": "5.8%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4627800/",
+            "name": "贾科莫·卡萨诺瓦",
+            "role": "作者",
+            "douban_id": "4627800"
+        },
+        {
+            "link": "https://book.douban.com/author/4637807/",
+            "name": "杜新华",
+            "role": "译者",
+            "douban_id": "4637807"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "48.30元",
+            "link": "https://book.douban.com/link2/?lowest=4830&pre=0&vendor=jingdong&srcpage=subject&price=4830&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQgJK1olXQMGXFhaDUoVCl8IGloXXQcHUVlcCk4XCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0IGl4QWgcAUV5UFxJSXzI4fhALJ2VkPT44YxdgZ2hVeC0UIWFpNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsQVQQHVW5fCEoWBm8AHFgUbQYEUV9YAEweA24BG18lXQ4GZIfdv521kbaWkY6dyjYyZF1tOHsXM2w4RTUUDgEEBlsPCyVLBTVUXFgdB2gAVV5UCk0fA18KGloXXzYyZBYeaCAfY2dUXR9hAQUHP1sYWBFyWg9pQjUXC198Fwk2ahZRcw90fiIcHAAyV24&cntvendor=1&srcsubj=30164652&type=bkbuy&subject=30164652"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30164652/",
+    "douban_id": "30164652",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29710353.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[意] 贾科莫·卡萨诺瓦",
+            "link": "https://book.douban.com/author/4627800"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "高中甫",
+            "link": "https://book.douban.com/search/%E9%AB%98%E4%B8%AD%E7%94%AB"
+        },
+        {
+            "text": "贺骥",
+            "link": "https://book.douban.com/search/%E8%B4%BA%E9%AA%A5"
+        },
+        {
+            "text": "杜新华",
+            "link": "https://book.douban.com/author/4637807"
+        },
+        {
+            "text": "传记文库",
+            "link": "https://book.douban.com/series/35910"
+        }
+    ],
+    "tag": "人物传记"
+}

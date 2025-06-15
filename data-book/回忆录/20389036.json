@@ -1,0 +1,60 @@
+{
+    "title": "铁幕",
+    "bookInfo": {
+        "作者": "(英)温斯顿·丘吉尔",
+        "出版社": "译林出版社",
+        "副标题": "丘吉尔第二次世界大战回忆录12",
+        "原作名": "The Iron Curtain",
+        "出版年": "2013-9",
+        "页数": "429",
+        "丛书": "丘吉尔第二次世界大战回忆录",
+        "ISBN": "9787544734417"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "44.7%",
+        "four_star_rate": "38.2%",
+        "three_star_rate": "14.5%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "2.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502522/",
+            "name": "温斯顿·丘吉尔",
+            "role": "作者",
+            "douban_id": "4502522"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "13.21元",
+            "link": "https://www.dedao.cn/eBook/A1De6QkaNRMlK5yxrdmnEBXY97ZL23ndg10o6zvGDekj1QgA84VbpqJOPLgxEJlY?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.50元",
+            "link": "https://book.douban.com/link2/?lowest=2050&pre=0&vendor=jingdong&srcpage=subject&price=2050&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQIJK1olXwIFV1ZbAE0RB18PHlgXXAEHUVdcCHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSllYC0kWBGoNEloVQl9HCANtCilCWyQWa151KFpSBDUeFhdFWzh7XVcZbQEHU1haAUgQM28MGl8RbTYCVW4cZkwTA2YJHGsXXQcDUV5VD0gWM28OHloQVQ8CUltZCEMnA2cMK4KV6tCgxofDgp6flF84K1glbTYCZF1tViUWUGcIGFpHW2heUgQCVhtPBAEKGlsWXgcKUG5fCUoVAV84KwZcXwZ8XQ4dSiJVaD1hGxBxPgEKJFcFViUVX2Z1UjwVXw5APVo-fRxOBzY4GGs&cntvendor=2&srcsubj=20389036&type=bkbuy&subject=20389036"
+        }
+    ],
+    "url": "https://book.douban.com/subject/20389036/",
+    "douban_id": "20389036",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s26998612.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "(英)温斯顿·丘吉尔",
+            "link": "https://book.douban.com/search/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "丘吉尔第二次世界大战回忆录",
+            "link": "https://book.douban.com/series/12845"
+        }
+    ],
+    "tag": "回忆录"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "我的造梦之路",
+    "bookInfo": {
+        "作者": "[日] 今敏",
+        "出版社": "湖南文艺出版社",
+        "出品方": "雅众文化",
+        "原作名": "KON'S TONE?「千年女優」への道",
+        "译者": "焦阳",
+        "出版年": "2020-1",
+        "页数": "288",
+        "定价": "52.00",
+        "装帧": "精装",
+        "ISBN": "9787540494568"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "47.2%",
+        "four_star_rate": "38.9%",
+        "three_star_rate": "13.2%",
+        "two_star_rate": "0.7%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4551663/",
+            "name": "今敏",
+            "role": "作者",
+            "douban_id": "4551663"
+        },
+        {
+            "link": "https://book.douban.com/author/4616911/",
+            "name": "焦阳",
+            "role": "译者",
+            "douban_id": "4616911"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.22元",
+            "link": "https://book.douban.com/link2/?lowest=2622&pre=0&vendor=jingdong&srcpage=subject&price=2622&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olVQIGVFdYCkseM2gKEl4XWAQCXFlaOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocU1xUDUkSAW8AHFwKBENeCW44CksJYBZrYzscK15wV18uQTUXeyReF1clWgMFUllUC0wnA2sJH18lbQYDZB8zCE8SB2sNK1kVXAcHVFZaC0onA2kNGlgUXgACV1pdDnsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEBjgBSFlCM1oEAx0eUBEebW8JGVMQWgAEZFxcCUkVM184Xg9vNmZiM1k5WhNcAzhTYS1tNEFGFxc0ZklOWG1ceTBgJmJyXAwhdBxtfl8LKw&cntvendor=1&srcsubj=34854406&type=bkbuy&subject=34854406"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34854406/",
+    "douban_id": "34854406",
+    "menu": [
+        "",
+        "        遥远千年的呼唤",
+        "        《未麻的房间》战记",
+        "        NOTEBOOK Selection",
+        "        我是谁？",
+        "        WORKS",
+        "        后记：出于兴趣",
+        "        附录：平泽进访谈",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33556264.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 今敏",
+            "link": "https://book.douban.com/search/%E4%BB%8A%E6%95%8F"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        },
+        {
+            "text": "雅众文化",
+            "link": "https://book.douban.com/producers/41"
+        },
+        {
+            "text": "焦阳",
+            "link": "https://book.douban.com/author/4616911"
+        }
+    ],
+    "tag": "随笔"
+}

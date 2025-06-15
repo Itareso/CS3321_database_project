@@ -1,0 +1,87 @@
+{
+    "title": "论自由",
+    "bookInfo": {
+        "作者": "[英] 约翰·穆勒",
+        "出版社": "上海文化出版社",
+        "出品方": "果麦文化",
+        "译者": "欧阳瑾 / 戴花",
+        "出版年": "2020-6-8",
+        "页数": "200",
+        "定价": "39.80",
+        "丛书": "果麦·外国文学经典",
+        "ISBN": "9787553519609"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "60.4%",
+        "four_star_rate": "28.6%",
+        "three_star_rate": "8.5%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "18.00元",
+            "link": "https://read.douban.com/ebook/149523364/?dcs=subject-buylink&dcm=douban&dct=35055618"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.90元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=jingdong&srcpage=subject&price=1989&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFITWwIKXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVhbDEMeHDZNRwYlCwRSHyQ6TA91dBkMHDpwFG8KShdbXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHVllUCU0SM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gdWwVsCFgKSggWAmpmG1oSXgYFXVdtCkoWAW04K2tnK2EEMD4ecQN3SwdfUzt-BW5KNjlbXj55ARlxXC1HW2FHHBUWej1eXAhsK1gl&cntvendor=4&srcsubj=35055618&type=bkbuy&subject=35055618"
+        },
+        {
+            "name": "当当网",
+            "price": "38.20元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=dangdang&srcpage=subject&price=3820&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35055618%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28558255&cntvendor=4&srcsubj=35055618&type=bkbuy&subject=35055618"
+        },
+        {
+            "name": "中图网",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=bookschina&srcpage=subject&price=2490&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8316947.htm&cntvendor=4&srcsubj=35055618&type=bkbuy&subject=35055618"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35055618/",
+    "douban_id": "35055618",
+    "menu": [
+        "",
+        "        第一章\t引言/1",
+        "        第二章\t论思想与讨论之自由/21",
+        "        第三章\t论幸福要素之个性自由/78",
+        "        第四章\t论社会对个人行使权力之限制/106",
+        "        第五章\t论自由原则之应用/134",
+        "        注释/167",
+        "        约翰·穆勒生平大事年表/182                                                                                               译后记/186",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34641704.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 约翰·穆勒",
+            "link": "https://book.douban.com/search/%E7%BA%A6%E7%BF%B0%C2%B7%E7%A9%86%E5%8B%92"
+        },
+        {
+            "text": "上海文化出版社",
+            "link": "https://book.douban.com/press/2389"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "欧阳瑾",
+            "link": "https://book.douban.com/search/%E6%AC%A7%E9%98%B3%E7%91%BE"
+        },
+        {
+            "text": "戴花",
+            "link": "https://book.douban.com/search/%E6%88%B4%E8%8A%B1"
+        },
+        {
+            "text": "果麦·外国文学经典",
+            "link": "https://book.douban.com/series/49275"
+        }
+    ],
+    "tag": "经典"
+}

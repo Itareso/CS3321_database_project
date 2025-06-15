@@ -1,0 +1,42 @@
+{
+    "title": "毕业一年才明白",
+    "bookInfo": {
+        "作者": "猫猫",
+        "出版社": "广东经济出版社",
+        "出品方": "时代光华",
+        "出版年": "2013-1",
+        "页数": "248",
+        "定价": "32.00元",
+        "装帧": "平装",
+        "ISBN": "9787545415742"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "11.5%",
+        "four_star_rate": "23.1%",
+        "three_star_rate": "42.3%",
+        "two_star_rate": "11.5%",
+        "one_star_rate": "11.5%"
+    },
+    "authors": [],
+    "shops": [],
+    "url": "https://book.douban.com/subject/21248958/",
+    "douban_id": "21248958",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s25507225.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "猫猫",
+            "link": "https://book.douban.com/search/%E7%8C%AB%E7%8C%AB"
+        },
+        {
+            "text": "广东经济出版社",
+            "link": "https://book.douban.com/press/2743"
+        },
+        {
+            "text": "时代光华",
+            "link": "https://book.douban.com/producers/282"
+        }
+    ],
+    "tag": "职场"
+}

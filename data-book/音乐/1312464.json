@@ -1,0 +1,47 @@
+{
+    "title": "音乐与人生",
+    "bookInfo": {
+        "作者": "夏代尔",
+        "出版社": "安徽教育出版社",
+        "译者": "卢晓",
+        "出版年": "2005-1",
+        "页数": "218",
+        "定价": "25.00元",
+        "ISBN": "9787533643065"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "24.1%",
+        "four_star_rate": "25.9%",
+        "three_star_rate": "44.8%",
+        "two_star_rate": "5.2%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "66.40元",
+            "link": "https://book.douban.com/link2/?lowest=6640&pre=0&vendor=jingdong&srcpage=subject&price=6640&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10066156019379.html&cntvendor=1&srcsubj=1312464&type=bkbuy&subject=1312464"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1312464/",
+    "douban_id": "1312464",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s9955146.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "夏代尔",
+            "link": "https://book.douban.com/search/%E5%A4%8F%E4%BB%A3%E5%B0%94"
+        },
+        {
+            "text": "安徽教育出版社",
+            "link": "https://book.douban.com/press/2561"
+        },
+        {
+            "text": "卢晓",
+            "link": "https://book.douban.com/search/%E5%8D%A2%E6%99%93"
+        }
+    ],
+    "tag": "音乐"
+}

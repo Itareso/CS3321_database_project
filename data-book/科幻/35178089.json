@@ -1,0 +1,125 @@
+{
+    "title": "弗兰肯斯坦",
+    "bookInfo": {
+        "作者": "[英] 玛丽·雪莱",
+        "出版社": "上海译文出版社",
+        "副标题": "修订本",
+        "原作名": "Frankenstein",
+        "译者": "刘新民",
+        "出版年": "2020-9",
+        "页数": "304",
+        "定价": "55.00",
+        "装帧": "精装",
+        "丛书": "译文经典（精装本）",
+        "ISBN": "9787532784110"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.3%",
+        "four_star_rate": "47.3%",
+        "three_star_rate": "22.1%",
+        "two_star_rate": "1.9%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/161677/",
+            "name": "玛丽·雪莱",
+            "role": "作者",
+            "douban_id": "161677"
+        },
+        {
+            "link": "https://book.douban.com/author/4639633/",
+            "name": "刘新民",
+            "role": "译者",
+            "douban_id": "4639633"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "32.99元",
+            "link": "https://read.douban.com/ebook/162923000/?dcs=subject-buylink&dcm=douban&dct=35178089"
+        },
+        {
+            "name": "得到",
+            "price": "54.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0R46r38XDBK9qZpgkRELd75z4Ma6oDRrqjY&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "38.50元",
+            "link": "https://book.douban.com/link2/?lowest=3350&pre=0&vendor=jingdong&srcpage=subject&price=3850&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF0QVAMEUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOBwQfexQSYQsObhISBk9VIFo0CyxIRCxMdVkWW1hYHS0NY01rfzxSWlIQPBFCWCokcC9jcG9IbARxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZnLysoCSpgdwxqHAFnNlVeAggIci9BD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYNK1sTWAcBVFpaDUwVAW04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCg8KUg4zVE1ASDlISQ57XQYAUV9YAE0nAW4JGVklbTZRDhwuV051Z2l9UlxOFFF2UDdebxRQQCtmGVgTA1xLJw42DjdrUDVJEl50bQUy&cntvendor=5&srcsubj=35178089&type=bkbuy&subject=35178089"
+        },
+        {
+            "name": "当当网",
+            "price": "52.20元",
+            "link": "https://book.douban.com/link2/?lowest=3350&pre=0&vendor=dangdang&srcpage=subject&price=5220&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35178089%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29144323&cntvendor=5&srcsubj=35178089&type=bkbuy&subject=35178089"
+        },
+        {
+            "name": "中图网",
+            "price": "33.50元",
+            "link": "https://book.douban.com/link2/?lowest=3350&pre=0&vendor=bookschina&srcpage=subject&price=3350&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8435008.htm&cntvendor=5&srcsubj=35178089&type=bkbuy&subject=35178089"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35178089/",
+    "douban_id": "35178089",
+    "menu": [
+        "",
+        "        译本序",
+        "        作者导言",
+        "        原序",
+        "        插图",
+        "        致英格兰的萨维尔夫人的第一封信",
+        "        致英格兰的萨维尔夫人的第二封信",
+        "        致英格兰的萨维尔夫人的第三封信",
+        "        致英格兰的萨维尔夫人的第四封信",
+        "        第一章",
+        "        第二章",
+        "        第三章",
+        "        第四章",
+        "        第五章",
+        "        第六章",
+        "        第七章",
+        "        第八章",
+        "        第九章",
+        "        第十章",
+        "        第十一章",
+        "        第十二章",
+        "        第十三章",
+        "        第十四章",
+        "        第十五章",
+        "        第十六章",
+        "        第十七章",
+        "        第十八章",
+        "        第十九章",
+        "        第二十章",
+        "        第二十一章",
+        "        第二十二章",
+        "        第二十三章",
+        "        第二十四章",
+        "        沃尔顿致萨维尔夫人的信（续）",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33710200.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 玛丽·雪莱",
+            "link": "https://book.douban.com/author/161677"
+        },
+        {
+            "text": "上海译文出版社",
+            "link": "https://book.douban.com/press/2582"
+        },
+        {
+            "text": "刘新民",
+            "link": "https://book.douban.com/author/4639633"
+        },
+        {
+            "text": "译文经典（精装本）",
+            "link": "https://book.douban.com/series/1831"
+        }
+    ],
+    "tag": "科幻"
+}

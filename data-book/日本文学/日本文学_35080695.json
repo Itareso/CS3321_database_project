@@ -1,0 +1,65 @@
+{
+    "title": "明暗",
+    "bookInfo": {
+        "作者": "[日] 夏目漱石 人天兀鲁思 出品",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "人天兀鲁思",
+        "译者": "章蓓蕾",
+        "出版年": "2020-7",
+        "页数": "424",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "ISBN": "9787559448828"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.3%",
+        "four_star_rate": "43.8%",
+        "three_star_rate": "17.1%",
+        "two_star_rate": "3.5%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503311/",
+            "name": "夏目漱石",
+            "role": "作者",
+            "douban_id": "4503311"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.64元",
+            "link": "https://book.douban.com/link2/?lowest=2464&pre=0&vendor=jingdong&srcpage=subject&price=2464&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10034013875623.html&cntvendor=2&srcsubj=35080695&type=bkbuy&subject=35080695"
+        },
+        {
+            "name": "中图网",
+            "price": "31.40元",
+            "link": "https://book.douban.com/link2/?lowest=2464&pre=0&vendor=bookschina&srcpage=subject&price=3140&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8333909.htm&cntvendor=2&srcsubj=35080695&type=bkbuy&subject=35080695"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35080695/",
+    "douban_id": "35080695",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33990591.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 夏目漱石 人天兀鲁思 出品",
+            "link": "https://book.douban.com/search/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3%20%E4%BA%BA%E5%A4%A9%E5%85%80%E9%B2%81%E6%80%9D%20%E5%87%BA%E5%93%81"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "人天兀鲁思",
+            "link": "https://book.douban.com/producers/82"
+        },
+        {
+            "text": "章蓓蕾",
+            "link": "https://book.douban.com/search/%E7%AB%A0%E8%93%93%E8%95%BE"
+        }
+    ],
+    "tag": "日本文学"
+}

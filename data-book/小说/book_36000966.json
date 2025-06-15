@@ -1,0 +1,62 @@
+{
+    "title": "来世",
+    "bookInfo": {
+        "作者": "[英] 阿卜杜勒拉扎克·古尔纳",
+        "出版社": "上海译文出版社",
+        "原作名": "Afterlives",
+        "译者": "李和庆",
+        "出版年": "2022-8",
+        "页数": "345",
+        "定价": "78.00元",
+        "装帧": "精装",
+        "丛书": "古尔纳作品",
+        "ISBN": "9787532790876"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "36.4%",
+        "four_star_rate": "48.9%",
+        "three_star_rate": "13.4%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611588/",
+            "name": "阿卜杜勒拉扎克·古尔纳",
+            "role": "作者",
+            "douban_id": "4611588"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "49.99元",
+            "link": "https://read.douban.com/ebook/405881456/?dcs=subject-buylink&dcm=douban&dct=36000966"
+        },
+        {
+            "name": "得到",
+            "price": "77.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0ROOnW8XDBK9qZpgkRELd75z4Ma6oDRrqjY&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "54.60元",
+            "link": "https://book.douban.com/link2/?lowest=4780&pre=0&vendor=jingdong&srcpage=subject&price=5460&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVkWWAUBUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOMCA7S0hyYm0BbDlhPF4ABlweUh9TeS5bdVkUVVt8Uh0qW0JXQwt2cyRPLRFCWCokdCtgWhhKb1lxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZeFDkrQT5LWQpffTBGBUNEMhUBcR9RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFhZDU0XBW44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRA10zVE1AXTFKUhx7XQcCU1ddAEonAW4JGVklbTZmKjgeCy52AWZ_eS90BQRQVh0HXA9tQjxmGVodAHgEFykOAQtXZxFgZAFlbQUy&cntvendor=5&srcsubj=36000966&type=bkbuy&subject=36000966"
+        },
+        {
+            "name": "当当网",
+            "price": "73.90元",
+            "link": "https://book.douban.com/link2/?lowest=4780&pre=0&vendor=dangdang&srcpage=subject&price=7390&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36000966%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29443872&cntvendor=5&srcsubj=36000966&type=bkbuy&subject=36000966"
+        },
+        {
+            "name": "中图网",
+            "price": "47.80元",
+            "link": "https://book.douban.com/link2/?lowest=4780&pre=0&vendor=bookschina&srcpage=subject&price=4780&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8934745.htm&cntvendor=5&srcsubj=36000966&type=bkbuy&subject=36000966"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36000966/",
+    "douban_id": "36000966",
+    "menu": [],
+    "tag": "小说"
+}

@@ -1,0 +1,65 @@
+{
+    "title": "黑客横行",
+    "bookInfo": {
+        "出版社": "北京理工大学出版社",
+        "出版年": "2017-6-1",
+        "页数": "256",
+        "定价": "39.80元",
+        "装帧": "平装",
+        "丛书": "“科幻中国”精装经典",
+        "ISBN": "9787568239592"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "15.0%",
+        "four_star_rate": "46.0%",
+        "three_star_rate": "36.0%",
+        "two_star_rate": "2.0%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.90元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=jingdong&srcpage=subject&price=1989&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFsdXQcAV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOHQMKYyt3eQ9dRT58X3BBVSQYfzhVWBxqdVkSWENfUjU_QB4QBCZVeSJrNRFCWCokcCluYAxMbwRtBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYLUg4vSTcUCwoNZQwSG1VwBiNHaFFRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFlZCUwSBm04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHU1YzVE1ASCQPGlN7XQYGVVleC0snAW4JGVklbTZLCQk2aCttYzpWfjIXK0UDLhsqewlMcA1mGVwQGFsEPzwVXUwQSjJqYiV9bQUy&cntvendor=3&srcsubj=27028961&type=bkbuy&subject=27028961"
+        },
+        {
+            "name": "当当网",
+            "price": "37.80元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=dangdang&srcpage=subject&price=3779&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27028961%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25093968&cntvendor=3&srcsubj=27028961&type=bkbuy&subject=27028961"
+        },
+        {
+            "name": "中图网",
+            "price": "20.10元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=bookschina&srcpage=subject&price=2010&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7532996.htm&cntvendor=3&srcsubj=27028961&type=bkbuy&subject=27028961"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27028961/",
+    "douban_id": "27028961",
+    "menu": [
+        "",
+        "        太原之恋——IT怨念 / 刘慈欣/ 001",
+        "        镜子——水至清则无鱼 / 刘慈欣/019",
+        "        祸害万年在——千年虫，万年毒 / 何夕/075",
+        "        天生我材——是否需要个别人来代替众生思考 / 何夕/087",
+        "        我是谁——密钥之乱 / 何夕/129",
+        "        七重外壳——刺不穿的虚拟世界 / 王晋康/165",
+        "        爱做梦的小鸟——重压之下“卡夫卡”走入科幻世界 / 刘维佳/201",
+        "        售梦者——一些事你不要太当真 / 刘维佳/217",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29724050.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "北京理工大学出版社",
+            "link": "https://book.douban.com/press/2695"
+        },
+        {
+            "text": "“科幻中国”精装经典",
+            "link": "https://book.douban.com/series/38027"
+        }
+    ],
+    "tag": "科幻"
+}

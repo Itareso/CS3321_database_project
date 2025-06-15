@@ -1,0 +1,129 @@
+{
+    "title": "濠上漫与",
+    "bookInfo": {
+        "作者": "陈尚君 著",
+        "出版社": "中华书局",
+        "副标题": "陈尚君读书随笔",
+        "出版年": "2019-8",
+        "页数": "267",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "ISBN": "9787101139945"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "23.8%",
+        "four_star_rate": "40.0%",
+        "three_star_rate": "32.4%",
+        "two_star_rate": "2.9%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609396/",
+            "name": "陈尚君",
+            "role": "作者",
+            "douban_id": "4609396"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "24.98元",
+            "link": "https://www.dedao.cn/eBook/DLnMGAEG7gKLyYmkAbPaEXxD8BM4J0Lr5M3ROrpdZn19VNzv2o5e6lqjQQ1poxqy?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "31.50元",
+            "link": "https://book.douban.com/link2/?lowest=3030&pre=0&vendor=jingdong&srcpage=subject&price=3150&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwcXAIKXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU1dcDEMeHDZNRwYlI34DAD8PdSN0XWxXBSRoWUJ8KQQNaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFZZAU4QM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1kRVQRsCFgKSgxQQG9mG1oSWAYKV19tCkoWAW04K2sUPg9aMz4CATEfVBFQWQJOHwdwNxYjCSt5AQtwQjhuBW54LhwfCShTUDpSK1gl&cntvendor=4&srcsubj=34648437&type=bkbuy&subject=34648437"
+        },
+        {
+            "name": "当当网",
+            "price": "30.30元",
+            "link": "https://book.douban.com/link2/?lowest=3030&pre=0&vendor=dangdang&srcpage=subject&price=3030&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34648437%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27916994&cntvendor=4&srcsubj=34648437&type=bkbuy&subject=34648437"
+        },
+        {
+            "name": "中图网",
+            "price": "30.40元",
+            "link": "https://book.douban.com/link2/?lowest=3030&pre=0&vendor=bookschina&srcpage=subject&price=3040&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8163916.htm&cntvendor=4&srcsubj=34648437&type=bkbuy&subject=34648437"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34648437/",
+    "douban_id": "34648437",
+    "menu": [
+        "",
+        "        濠上的风景（代序）",
+        "        独孤三姐妹",
+        "        扬州几曾有迷楼",
+        "        唐太宗的另一面",
+        "        殷颜世婚与文化传承",
+        "        重读李林甫",
+        "        讲故事的高力士",
+        "        郭子仪的生存智慧",
+        "        元载的平反",
+        "        上海的唐诗僧",
+        "        高贵的灵魂",
+        "        改一个字好难",
+        "        偶见杨凝式佚诗",
+        "        文学史不可忽忘的胖和尚",
+        "        存世唐诗知多少",
+        "        跨代的诗人",
+        "        跋上海图书馆藏汲古阁影宋写本《极玄集》",
+        "        吕洞宾的最早记录",
+        "        尴尬的《春秋》笔法",
+        "        司马光的团队",
+        "        读书种子刘恕",
+        "        宋代好记者",
+        "        贾似道的困局",
+        "        宋本之可重",
+        "        元好问的大节",
+        "        清必万年清",
+        "        郭嵩焘与严复的忘年交",
+        "        叶家花园的主人",
+        "        偶读张荫桓",
+        "        狱吏唐烜",
+        "        唐文治谈古文作法",
+        "        最后的雅集不朽的完人",
+        "        ——张元济先生的朋友圈和人生志业",
+        "        斯世再无熊希龄",
+        "        章太炎先生的最后五年",
+        "        张钫与河南赈灾",
+        "        修补战火烧残的学术",
+        "        《中国文学批评史大纲》校补本的新内容",
+        "        冯振与无锡国专",
+        "        想到程千帆先生",
+        "        随李庆甲先生办会",
+        "        述《唐人选唐诗新编》",
+        "        陶敏教授的遗著",
+        "        摸清明代文学的家底",
+        "        寂寞使学术更加庄严",
+        "        两种唐诗选",
+        "        《唐诗鉴赏辞典》文献审读",
+        "        重读《古小说简目》",
+        "        讲清杜甫离开草堂的缘由",
+        "        读陈允吉师新著《追怀故老》",
+        "        贺《全宋笔记》出版十编",
+        "        唐时明月照人来",
+        "        我作《辞海》修订",
+        "        我的神明书架",
+        "        网络时代的传统文史之学",
+        "        日本的年号与天皇家",
+        "        美国的补丁",
+        "        美国总统的病历",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33443611.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "陈尚君 著",
+            "link": "https://book.douban.com/search/%E9%99%88%E5%B0%9A%E5%90%9B%20%E8%91%97"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        }
+    ],
+    "tag": "随笔"
+}

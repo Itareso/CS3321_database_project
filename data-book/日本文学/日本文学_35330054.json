@@ -1,0 +1,70 @@
+{
+    "title": "箱庭图书馆",
+    "bookInfo": {
+        "作者": "[日]乙一",
+        "出版社": "人民文学出版社",
+        "译者": "潘璐",
+        "出版年": "2022-1",
+        "页数": "276",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "丛书": "乙一作品",
+        "ISBN": "9787020169702"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "32.8%",
+        "four_star_rate": "44.6%",
+        "three_star_rate": "21.0%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/150964/",
+            "name": "乙一",
+            "role": "作者",
+            "douban_id": "150964"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.50元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=jingdong&srcpage=subject&price=2250&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGV8dWwYHXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IONSZeW0N3XRQARjwVVAUGJzwaUj8WZm1ddVlhPnZ6Uw08W0NPWw5weAR-LxFCWCokdC1uYBRPbDJDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZlIQNZQElsCg9DTxgcOXZUV0ACXktRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVpdAEkfBm04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHU1gzVE1ARmZJEg97XQcFUlpVCEMnAW4JGVklbTZjLF0OACtJeGdVfFscXgJxNhkHfEpyATpmGS92LX4FBz8OABNPYhdrRDBnbQUy&cntvendor=3&srcsubj=35330054&type=bkbuy&subject=35330054"
+        },
+        {
+            "name": "当当网",
+            "price": "45.00元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=dangdang&srcpage=subject&price=4500&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35330054%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29360234&cntvendor=3&srcsubj=35330054&type=bkbuy&subject=35330054"
+        },
+        {
+            "name": "中图网",
+            "price": "24.40元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=bookschina&srcpage=subject&price=2440&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8760398.htm&cntvendor=3&srcsubj=35330054&type=bkbuy&subject=35330054"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35330054/",
+    "douban_id": "35330054",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34061180.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]乙一",
+            "link": "https://book.douban.com/author/150964"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "潘璐",
+            "link": "https://book.douban.com/search/%E6%BD%98%E7%92%90"
+        },
+        {
+            "text": "乙一作品",
+            "link": "https://book.douban.com/series/34131"
+        }
+    ],
+    "tag": "日本文学"
+}

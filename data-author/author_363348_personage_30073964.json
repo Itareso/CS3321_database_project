@@ -1,0 +1,145 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "聊斋志异（全四册）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33734824.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26417287/",
+                        "year": "2022",
+                        "id": 26417287
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "儒藏（精华编·六）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29290023.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26957341/",
+                        "year": "2014",
+                        "id": 26957341
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "孟子",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s8853233.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/6879364/",
+                        "year": "2011",
+                        "id": 6879364
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "庄子",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s4559441.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/4305987/",
+                        "year": "2010",
+                        "id": 4305987
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "新白话聊斋志异（上下册）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s6028273.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/3772790/",
+                        "year": "2009",
+                        "id": 3772790
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "庄子",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s28998801.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/5353701/",
+                        "year": "2009",
+                        "id": 5353701
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "钦定词谱（上下）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s3277724.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3159797/",
+                        "year": "2008",
+                        "id": 3159797
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.4,
+                        "title": "庄子",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s5765615.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/2046236/",
+                        "year": "2007",
+                        "id": 2046236
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "庄子",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s2340642.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/2030934/",
+                        "year": "2007",
+                        "id": 2030934
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "庄子",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s10139106.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/2172025/",
+                        "year": "2007",
+                        "id": 2172025
+                    }
+                }
+            ],
+            "total": 14
+        }
+    },
+    "author_link": "https://book.douban.com/author/363348/",
+    "author_douban_id": "363348",
+    "personage_id": 30073964,
+    "name": [
+        "孙通海"
+    ],
+    "intro": "暂无",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "profession": [
+        "作者",
+        "译者",
+        "编者"
+    ]
+}

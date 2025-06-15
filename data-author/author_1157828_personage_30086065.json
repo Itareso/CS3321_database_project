@@ -1,0 +1,39 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "鹤唳华亭：珍藏版",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33477665.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34825920/",
+                        "year": "2019",
+                        "id": 34825920
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/1157828/",
+    "author_douban_id": "1157828",
+    "personage_id": 30086065,
+    "name": [
+        "雪满梁园",
+        "Snowman"
+    ],
+    "intro": "雪满梁园，女，汉族，网络写手，原名偷换韩香，常驻晋江原创网。博览诗书，文字优美而富有内涵，令一众读者叹服。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/img/author/medium/public/1492167433.8.jpg",
+    "更多中文名": "偷换韩香",
+    "sex": 0,
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

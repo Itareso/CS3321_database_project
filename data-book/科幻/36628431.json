@@ -1,0 +1,88 @@
+{
+    "title": "行星语书店",
+    "bookInfo": {
+        "作者": "[韩] 金草叶",
+        "出版社": "中国友谊出版公司",
+        "出品方": "创美工厂",
+        "原作名": "행성어 서점",
+        "译者": "王志国",
+        "出版年": "2024-3",
+        "定价": "49.80元",
+        "装帧": "精装",
+        "ISBN": "9787505757356"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.7%",
+        "four_star_rate": "38.7%",
+        "three_star_rate": "35.6%",
+        "two_star_rate": "4.5%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611057/",
+            "name": "金草叶",
+            "role": "作者",
+            "douban_id": "4611057"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=jingdong&srcpage=subject&price=2490&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlkSWAEKVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOHQMKYyt3eQ9dRT58XG9DLz8Yfw5RCh9jdVkSWENfUjU_QB4QBCZVfB9dNRFCWCokaCtjWhhWbSJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ0BiIbSk1uVQxBHCwdC15mTgIKVDBnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFlZDU4VCm04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWAECBgszVE1ASCRDSwh7XQYFVlxYDU4nAW4JGVklbTZLCQk2aCttYzpWfjIUNEd5NRsqTQ0ecwRmGVwQGFsEPzwVXUwQSjJvXxN9bQUy&cntvendor=3&srcsubj=36628431&type=bkbuy&subject=36628431"
+        },
+        {
+            "name": "当当网",
+            "price": "47.80元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=dangdang&srcpage=subject&price=4780&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36628431%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29683349&cntvendor=3&srcsubj=36628431&type=bkbuy&subject=36628431"
+        },
+        {
+            "name": "中图网",
+            "price": "30.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=bookschina&srcpage=subject&price=3090&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9277009.htm&cntvendor=3&srcsubj=36628431&type=bkbuy&subject=36628431"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36628431/",
+    "douban_id": "36628431",
+    "menu": [
+        "",
+        "        拥抱仙人掌 003",
+        "        赛博格认可运动 020",
+        "        哈密瓜商贩和小提琴手 029",
+        "        黛西和奇怪的机器 042",
+        "        行星语书店 048",
+        "        愿望采集者 061",
+        "        不要再唱悲伤情歌 071",
+        "        无法捕捉的风景 078",
+        "        沼泽少年 095",
+        "        离开西蒙 114",
+        "        我家可可 124",
+        "        污染区 136",
+        "        地球上的其他居民 155",
+        "        边缘之外 186",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34768966.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[韩] 金草叶",
+            "link": "https://book.douban.com/author/4611057"
+        },
+        {
+            "text": "中国友谊出版公司",
+            "link": "https://book.douban.com/press/2416"
+        },
+        {
+            "text": "创美工厂",
+            "link": "https://book.douban.com/producers/152"
+        },
+        {
+            "text": "王志国",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E5%BF%97%E5%9B%BD"
+        }
+    ],
+    "tag": "科幻"
+}

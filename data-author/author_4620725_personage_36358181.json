@@ -1,0 +1,85 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "江湖的倒影",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34815164.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36788045/",
+                        "year": "2024",
+                        "id": 36788045
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "盛名之下",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34493595.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36341670/",
+                        "year": "2023",
+                        "id": 36341670
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "随园小说：神出鬼没",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s32328231.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/33415254/",
+                        "year": "2018",
+                        "id": 33415254
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "宋词（套装上下册）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s5919187.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3160610/",
+                        "year": "2008",
+                        "id": 3160610
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "咏探诗心",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34564885.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36449636/",
+                        "year": "",
+                        "id": 36449636
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4620725/",
+    "author_douban_id": "4620725",
+    "personage_id": 36358181,
+    "name": [
+        "彭洁明"
+    ],
+    "intro": "彭洁明，南京大学文学博士，研究方向为中国古代文学，大学教师，现居广州。已出版《江湖的倒影：金庸的武侠世界与人生寓言》《盛名之下：历史人物的真实与幻影》《宋词》《神出鬼没：随园小说》等作品，参与国家重大古籍项目《全清词》的编纂整理，系《全清词·嘉道卷》第十七册整理者，发表过《姜夔、贺裳品词之争及其咏物观的差异》等多篇论文，擅长古典诗词写作。为知乎盐选专栏签约作者。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/9e48d7bfed4f9928e285d1e9a1fcaff7.jpg",
+    "sex": 0,
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

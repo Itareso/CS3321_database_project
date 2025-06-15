@@ -1,0 +1,46 @@
+{
+    "title": "我所度過的時光",
+    "bookInfo": {
+        "作者": "周有光",
+        "出版社": "香港中文大學出版社",
+        "副标题": "周有光百年口述",
+        "出版年": "2015-4",
+        "页数": "600",
+        "定价": "HK$ 190.00",
+        "装帧": "平装",
+        "丛书": "當代中國文化研究中心·中國近現代史研究",
+        "ISBN": "9789629966553"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "54.7%",
+        "four_star_rate": "39.1%",
+        "three_star_rate": "6.3%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4525220/",
+            "name": "周有光",
+            "role": "作者",
+            "douban_id": "4525220"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/25964787/",
+    "douban_id": "25964787",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s28072570.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "周有光",
+            "link": "https://book.douban.com/author/4525220"
+        },
+        {
+            "text": "當代中國文化研究中心·中國近現代史研究",
+            "link": "https://book.douban.com/series/41072"
+        }
+    ],
+    "tag": "回忆录"
+}

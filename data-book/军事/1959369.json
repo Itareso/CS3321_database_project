@@ -1,0 +1,42 @@
+{
+    "title": "特战先驱",
+    "bookInfo": {
+        "作者": "业余狙击手",
+        "出版社": "大众文艺出版社",
+        "出版年": "2007-1",
+        "页数": "343",
+        "定价": "29.80元",
+        "ISBN": "9787801719140"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "50.5%",
+        "four_star_rate": "34.7%",
+        "three_star_rate": "11.6%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "96.71元",
+            "link": "https://book.douban.com/link2/?lowest=9671&pre=0&vendor=jingdong&srcpage=subject&price=9671&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10026495611113.html&cntvendor=1&srcsubj=1959369&type=bkbuy&subject=1959369"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1959369/",
+    "douban_id": "1959369",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s10431583.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "业余狙击手",
+            "link": "https://book.douban.com/search/%E4%B8%9A%E4%BD%99%E7%8B%99%E5%87%BB%E6%89%8B"
+        },
+        {
+            "text": "大众文艺出版社",
+            "link": "https://book.douban.com/press/2488"
+        }
+    ],
+    "tag": "军事"
+}

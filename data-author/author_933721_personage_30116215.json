@@ -1,0 +1,150 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "雲雀與夜鶯",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34581772.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36437921/",
+                        "year": "2023",
+                        "id": 36437921
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "遗恨",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33451118.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/33477384/",
+                        "year": "2019",
+                        "id": 33477384
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "哀伤纪",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33451117.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30489684/",
+                        "year": "2019",
+                        "id": 30489684
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "春在绿芜中",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s22788984.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/14449069/",
+                        "year": "2013",
+                        "id": 14449069
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "停车暂借问",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s6866634.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/6527141/",
+                        "year": "2011",
+                        "id": 6527141
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "腐朽和期待",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s24978778.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/1433770/",
+                        "year": "1996",
+                        "id": 1433770
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "离合",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s24978754.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/1328197/",
+                        "year": "1996",
+                        "id": 1328197
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "飘零梦",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s4621361.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/2136520/",
+                        "year": "1990",
+                        "id": 2136520
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "哀歌",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s3554757.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/3429859/",
+                        "year": "1989",
+                        "id": 3429859
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "爱妻",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s25968019.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/19944463/",
+                        "year": "1989",
+                        "id": 19944463
+                    }
+                }
+            ],
+            "total": 11
+        }
+    },
+    "author_link": "https://book.douban.com/author/933721/",
+    "author_douban_id": "933721",
+    "personage_id": 30116215,
+    "name": [
+        "钟晓阳",
+        "Sharon Chung"
+    ],
+    "intro": "生于广州，在香港成长。于香港玛利诺修院学校中学部毕业，并在美国密歇根大学电影系大学毕业，后来定居澳洲。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/img/author/medium/public/1521282328.88.jpg",
+    "更多中文名": "锺晓阳",
+    "sex": 0,
+    "birth_date": 1962,
+    "age": 64,
+    "IMDB": "nm1880327",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

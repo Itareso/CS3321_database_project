@@ -1,0 +1,30 @@
+{
+    "title": "音乐天堂",
+    "bookInfo": {
+        "作者": "音乐天堂",
+        "出版社": "江西文化",
+        "定价": "13.8",
+        "ISBN": "9787884100866"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "75.6%",
+        "four_star_rate": "19.9%",
+        "three_star_rate": "4.5%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1700258/",
+    "douban_id": "1700258",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s2358656.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "音乐天堂",
+            "link": "https://book.douban.com/search/%E9%9F%B3%E4%B9%90%E5%A4%A9%E5%A0%82"
+        }
+    ],
+    "tag": "音乐"
+}

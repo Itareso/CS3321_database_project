@@ -1,0 +1,89 @@
+{
+    "title": "在雪山和雪山之间",
+    "bookInfo": {
+        "作者": "乔阳",
+        "出版社": "北京联合出版公司",
+        "出品方": "乐府文化",
+        "原作名": "在雪山和雪山之间",
+        "出版年": "2020-7",
+        "页数": "303",
+        "定价": "42",
+        "装帧": "平装",
+        "丛书": "雪山书系",
+        "ISBN": "9787559642141"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.5%",
+        "four_star_rate": "38.3%",
+        "three_star_rate": "25.7%",
+        "two_star_rate": "6.9%",
+        "one_star_rate": "2.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4612844/",
+            "name": "乔阳",
+            "role": "作者",
+            "douban_id": "4612844"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "33.60元",
+            "link": "https://read.douban.com/ebook/443892508/?dcs=subject-buylink&dcm=douban&dct=35093374"
+        },
+        {
+            "name": "得到",
+            "price": "33.60元",
+            "link": "https://www.dedao.cn/ebook/detail?id=qPKdG1m9B8MaveyJdxRzNnKYlqgVZ3kpZBwo5pL7E4m1r26kQjXDAPObGkYgJ4pN&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFMQXAUGVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOKjoZWyt3AQ1-bVxnGnRcDV4kATNKcA5OdVl2OGBmDQ1bXz1TRxFsHl9pCRFCWCokcBtjcAhKbCJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYAJiYZXyxgYwxIQx4PO29rXBVcADt3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtbDkkeC284G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgYGU18zVE1AQSRJGR97XQcLUV9dAE8nAW4JGVklbTZ8MBoOaCsVYRl-HClSL1hbVCdUcBZkYilmGThwO2JbB1gKfg9TfQsNHydBbQUy&cntvendor=5&srcsubj=35093374&type=bkbuy&subject=35093374"
+        },
+        {
+            "name": "当当网",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=dangdang&srcpage=subject&price=4200&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35093374%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28980896&cntvendor=5&srcsubj=35093374&type=bkbuy&subject=35093374"
+        },
+        {
+            "name": "中图网",
+            "price": "30.80元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=bookschina&srcpage=subject&price=3080&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8386961.htm&cntvendor=5&srcsubj=35093374&type=bkbuy&subject=35093374"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35093374/",
+    "douban_id": "35093374",
+    "menu": [
+        "",
+        "        第一章：在雪山和雪山之间",
+        "        第二章：夏日植物巡行",
+        "        第三章：山中十日",
+        "        第四章：牵风",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33662542.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "乔阳",
+            "link": "https://book.douban.com/search/%E4%B9%94%E9%98%B3"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "乐府文化",
+            "link": "https://book.douban.com/producers/83"
+        },
+        {
+            "text": "雪山书系",
+            "link": "https://book.douban.com/series/57301"
+        }
+    ],
+    "tag": "随笔"
+}

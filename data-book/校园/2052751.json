@@ -1,0 +1,59 @@
+{
+    "title": "遥远的风铃",
+    "bookInfo": {
+        "作者": "黄蓓佳",
+        "出版社": "江苏少年儿童出版社",
+        "出版年": "2009-3",
+        "页数": "293",
+        "定价": "18.00元",
+        "丛书": "黄蓓佳倾情小说系列",
+        "ISBN": "9787534638220"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "74.7%",
+        "four_star_rate": "20.2%",
+        "three_star_rate": "4.8%",
+        "two_star_rate": "0.1%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4514741/",
+            "name": "黄蓓佳",
+            "role": "作者",
+            "douban_id": "4514741"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.22元",
+            "link": "https://book.douban.com/link2/?lowest=2222&pre=0&vendor=jingdong&srcpage=subject&price=2222&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV8SVAEBUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUFlUD0gSHDZNRwYlRwVZUlwBU0l3HQlvTD9RAGZpCSQIaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4CVVhaDEIQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXARsCFgHUx0TQjxmGFMcXAELUlZtCkoWAW04K2sUPg9aMz4CATEfVGh0WhloCQdSUgY4UCp5AQtwQjhuBW54LhwfCShxfjBSK1gl&cntvendor=1&srcsubj=2052751&type=bkbuy&subject=2052751"
+        }
+    ],
+    "url": "https://book.douban.com/subject/2052751/",
+    "douban_id": "2052751",
+    "menu": [
+        "",
+        "        1.场部2.学校3.情书4.冬雪5.医生6.风铃7.惊变8.秋阳9.摇晃10.艺校11.影展12.高考",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s11082272.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "黄蓓佳",
+            "link": "https://book.douban.com/search/%E9%BB%84%E8%93%93%E4%BD%B3"
+        },
+        {
+            "text": "江苏少年儿童出版社",
+            "link": "https://book.douban.com/press/2325"
+        },
+        {
+            "text": "黄蓓佳倾情小说系列",
+            "link": "https://book.douban.com/series/61545"
+        }
+    ],
+    "tag": "校园"
+}

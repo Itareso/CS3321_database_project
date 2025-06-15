@@ -1,0 +1,80 @@
+{
+    "title": "呼啸山庄",
+    "bookInfo": {
+        "作者": "【英】爱米丽·勃朗特",
+        "出版社": "浙江文艺出版社",
+        "出品方": "果麦文化",
+        "原作名": "Wuthering Heights",
+        "译者": "张玲 / 张扬",
+        "出版年": "2019-5",
+        "页数": "392",
+        "定价": "58",
+        "装帧": "精装",
+        "丛书": "果麦·外国文学经典",
+        "ISBN": "9787533956059"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "49.0%",
+        "four_star_rate": "36.3%",
+        "three_star_rate": "12.3%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4540781/",
+            "name": "艾米莉·勃朗特",
+            "role": "作者",
+            "douban_id": "4540781"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "16.00元",
+            "link": "https://read.douban.com/ebook/115858608/?dcs=subject-buylink&dcm=douban&dct=30471282"
+        },
+        {
+            "name": "京东商城",
+            "price": "26.30元",
+            "link": "https://book.douban.com/link2/?lowest=2630&pre=0&vendor=jingdong&srcpage=subject&price=2630&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olVQIGVFdYCkseM2oPHl0dXgQKXF9ZOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocUVlYDkMUAWcAGl8KBENeCW4bV0gWWTFhQzlKCQR1NiwqSFFoaBRoF1clWgMFUllUC0wnA2sJH18lbQYDZB8zCE8SB2sNK1kVXAcHVFZaC0onA2kNGlgUWQAFUFdeDXsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEBWwKHAxAM1oEAxsHQBNCbW8JEl8XWgEGZFxcCUkVM184SRBVNg5iDVY1UQ5eBSpLcl9wJ3ReDzgdZkkVBAtDGTBIL24AVg07CC0WV18LKw&cntvendor=2&srcsubj=30471282&type=bkbuy&subject=30471282"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30471282/",
+    "douban_id": "30471282",
+    "menu": [
+        "",
+        "        譯者張玲、張揚。張玲譯有喬治.艾略特等英國八位女作家中短篇小說合集《牧師情史》（百花文藝，1983，張玲唯一一部單獨署名的譯作），著有《英國偉大的小說家——狄更斯》（外國文學知識叢書之一，北京出版社，1983），與張揚、黃水乞合譯有《羅曼司和幻想故事：哈代中短篇小說集》（中國華僑，1989），編選《世界心理小說名著選.英國部分》（貴州人民，1992）、《哈代  鄉土小說》（上海文藝，1997）、《世界散文經典.英國卷》（春風文藝，1997），與張揚合譯有《雙城記》（上海譯文，1989）《卡斯特橋市長》（上海譯文，1991；2004年收入人民文學版“名著名譯插圖本”“哈代文集”）、《傲慢與偏見》（收入“世界文學名著文庫”“外國古典文學名著選粹”等叢書，人民文學，1993）、《呼嘯山莊》（收入“名著名譯”“名著名譯插圖本”“外國文學名著讀物”等叢書，人民文學版；2020年後收入“外國文學名著叢書”）、《孤寂深淵》（文化藝術，2004；上海譯文，2011）等。",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s32304855.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "【英】爱米丽·勃朗特",
+            "link": "https://book.douban.com/search/%E7%88%B1%E7%B1%B3%E4%B8%BD%C2%B7%E5%8B%83%E6%9C%97%E7%89%B9"
+        },
+        {
+            "text": "浙江文艺出版社",
+            "link": "https://book.douban.com/press/2384"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "张玲",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E7%8E%B2"
+        },
+        {
+            "text": "张扬",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E6%89%AC"
+        },
+        {
+            "text": "果麦·外国文学经典",
+            "link": "https://book.douban.com/series/49275"
+        }
+    ],
+    "tag": "经典"
+}

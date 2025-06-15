@@ -1,0 +1,88 @@
+{
+    "title": "威尼斯日记",
+    "bookInfo": {
+        "作者": "阿城",
+        "出版社": "上海三联书店",
+        "出品方": "理想国",
+        "出版年": "2019-4",
+        "定价": "48.00元",
+        "装帧": "精装",
+        "丛书": "阿城作品",
+        "ISBN": "9787542664624"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "24.3%",
+        "four_star_rate": "49.6%",
+        "three_star_rate": "23.5%",
+        "two_star_rate": "2.4%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/122104/",
+            "name": "阿城",
+            "role": "作者",
+            "douban_id": "122104"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "33.60元",
+            "link": "https://read.douban.com/ebook/116165681/?dcs=subject-buylink&dcm=douban&dct=30309619"
+        },
+        {
+            "name": "得到",
+            "price": "23.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0RgX9W8XDBK9qZpgkRELd75z4Ma6oDRrqjY&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.96元",
+            "link": "https://book.douban.com/link2/?lowest=2496&pre=0&vendor=jingdong&srcpage=subject&price=2496&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF8TWgMDUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUFhaDUoSHDZNRwYlXARgIAxcai13GStyYiNeBFRjMC4tTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFlYAUoUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNSQwVCQ5sCFgKSgwRQSxmG1oRXwYCUVhtCkoWAW04K2tqOn1JND5dfUhAQC1aeQhAHmRHKzdYaTx5AQRhaDxsFlxWVxkadyx8egxPK1gl&cntvendor=5&srcsubj=30309619&type=bkbuy&subject=30309619"
+        },
+        {
+            "name": "当当网",
+            "price": "32.00元",
+            "link": "https://book.douban.com/link2/?lowest=2496&pre=0&vendor=dangdang&srcpage=subject&price=3200&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30309619%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D26924429&cntvendor=5&srcsubj=30309619&type=bkbuy&subject=30309619"
+        },
+        {
+            "name": "中图网",
+            "price": "27.40元",
+            "link": "https://book.douban.com/link2/?lowest=2496&pre=0&vendor=bookschina&srcpage=subject&price=2740&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8071651.htm&cntvendor=5&srcsubj=30309619&type=bkbuy&subject=30309619"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30309619/",
+    "douban_id": "30309619",
+    "menu": [
+        "",
+        "        五月/1",
+        "        六月/91",
+        "        七月/159",
+        "        代后记/169",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s32281345.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "阿城",
+            "link": "https://book.douban.com/author/122104"
+        },
+        {
+            "text": "上海三联书店",
+            "link": "https://book.douban.com/press/2723"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        },
+        {
+            "text": "阿城作品",
+            "link": "https://book.douban.com/series/46864"
+        }
+    ],
+    "tag": "中国文学",
+    "avg_rate": 3.955
+}

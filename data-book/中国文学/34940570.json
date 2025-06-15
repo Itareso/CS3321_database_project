@@ -1,0 +1,72 @@
+{
+    "title": "于谦动物园",
+    "bookInfo": {
+        "作者": "于谦",
+        "出版社": "浙江文艺出版社",
+        "出品方": "果麦文化",
+        "副标题": "“我的第四大爱好——看它们吃饭！”",
+        "原作名": "YuQian Zoo",
+        "出版年": "2020-3",
+        "页数": "264",
+        "定价": "39.80元",
+        "装帧": "平装",
+        "ISBN": "9787533959104"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "21.0%",
+        "four_star_rate": "44.3%",
+        "three_star_rate": "30.5%",
+        "two_star_rate": "3.1%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609169/",
+            "name": "于谦",
+            "role": "作者",
+            "douban_id": "4609169"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.90元",
+            "link": "https://book.douban.com/link2/?lowest=1490&pre=0&vendor=jingdong&srcpage=subject&price=1989&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12913390.html&cntvendor=2&srcsubj=34940570&type=bkbuy&subject=34940570"
+        },
+        {
+            "name": "中图网",
+            "price": "14.90元",
+            "link": "https://book.douban.com/link2/?lowest=1490&pre=0&vendor=bookschina&srcpage=subject&price=1490&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8273243.htm&cntvendor=2&srcsubj=34940570&type=bkbuy&subject=34940570"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34940570/",
+    "douban_id": "34940570",
+    "menu": [
+        "",
+        "        开园：沾沾锦鲤的福",
+        "        鸣虫馆：蛐蛐儿、蝈蝈儿、油葫芦",
+        "        杂食动物区：猪、通灵犬、京巴、貂与黄鼠狼",
+        "        草食动物区：兔子、小矮马、马",
+        "        飞禽馆：燕子、鹦鹉、老北京观赏鸽",
+        "        游客注意：蚊子",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33620696.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "于谦",
+            "link": "https://book.douban.com/search/%E4%BA%8E%E8%B0%A6"
+        },
+        {
+            "text": "浙江文艺出版社",
+            "link": "https://book.douban.com/press/2384"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        }
+    ],
+    "tag": "中国文学"
+}

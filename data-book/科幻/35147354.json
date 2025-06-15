@@ -1,0 +1,73 @@
+{
+    "title": "未来症",
+    "bookInfo": {
+        "作者": "鲁般",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "出版年": "2020-7",
+        "页数": "440",
+        "定价": "54.00",
+        "装帧": "平装",
+        "丛书": "科幻世界·中国科幻基石丛书",
+        "ISBN": "9787536497764"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.6%",
+        "four_star_rate": "41.5%",
+        "three_star_rate": "18.5%",
+        "two_star_rate": "3.3%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611826/",
+            "name": "鲁般",
+            "role": "作者",
+            "douban_id": "4611826"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "25.99元",
+            "link": "https://read.douban.com/ebook/177128635/?dcs=subject-buylink&dcm=douban&dct=35147354"
+        },
+        {
+            "name": "京东商城",
+            "price": "34.20元",
+            "link": "https://book.douban.com/link2/?lowest=3420&pre=0&vendor=jingdong&srcpage=subject&price=3420&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQgJK1olXgYHUV1cDEsRBV8IGloQWQEHVFlfD0kfC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoMHF4VWgQFVlZVFxJSXzI4Yj8QJHRcIF49YEwQAwprRw9rFWMGNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVgWXA8LUm5fCEoWBm8AHFgUbQYEUV9eCE0fA28LHFklXQ4GZIfdv521kbaWkY6dyjYyZF1tOHsXM2w4RTUUDgNVXVZYWCVLBTkJXlNeHGgCVFtVCkMQAF8KGloXXzYyZCY8dQgSZi5raBJuGGYHPRtZVy9HSyRubTUXWAddNRYebR1kZ29PXB1uXFMyV24&cntvendor=2&srcsubj=35147354&type=bkbuy&subject=35147354"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35147354/",
+    "douban_id": "35147354",
+    "menu": [
+        "",
+        "        1.Neith              001",
+        "        2.上帝的鸿沟    117",
+        "        3.极光之夜        241",
+        "        后记                  428",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33691480.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "鲁般",
+            "link": "https://book.douban.com/search/%E9%B2%81%E8%88%AC"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "科幻世界·中国科幻基石丛书",
+            "link": "https://book.douban.com/series/38"
+        }
+    ],
+    "tag": "科幻"
+}

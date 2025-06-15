@@ -1,0 +1,48 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "走河",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33577893.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34971436/",
+                        "year": "2020",
+                        "id": 34971436
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "转山",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27255122.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/25859790/",
+                        "year": "2014",
+                        "id": 25859790
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/1105716/",
+    "author_douban_id": "1105716",
+    "personage_id": 30095980,
+    "name": [
+        "谢旺霖"
+    ],
+    "intro": "谢旺霖，1980年生于台湾，东吴大学政治、法律双学士，现就读于台湾“清华大学”台湾文学研究所。2004年10月，24岁的谢旺霖，独自从丽江骑车到拉萨。一路骑过了梅里雪山、南迦巴瓦峰等13座海拔几千米的高山，经过了金沙江、澜沧江、雅鲁藏布江等6条河流。主要作品有《转山》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/1495858382.75.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

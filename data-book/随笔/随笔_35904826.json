@@ -1,0 +1,116 @@
+{
+    "title": "罗马日记",
+    "bookInfo": {
+        "作者": "[美国] 裘帕·拉希莉",
+        "出版社": "广西师范大学出版社",
+        "出品方": "理想国",
+        "原作名": "IN ALTRE PAROLE",
+        "译者": "张亦非",
+        "出版年": "2022-6",
+        "页数": "200",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "ISBN": "9787559849960"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.1%",
+        "four_star_rate": "50.2%",
+        "three_star_rate": "17.6%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4541438/",
+            "name": "裘帕·拉希莉",
+            "role": "作者",
+            "douban_id": "4541438"
+        },
+        {
+            "link": "https://book.douban.com/author/4614811/",
+            "name": "张亦非",
+            "role": "译者",
+            "douban_id": "4614811"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.40元",
+            "link": "https://read.douban.com/ebook/419092863/?dcs=subject-buylink&dcm=douban&dct=35904826"
+        },
+        {
+            "name": "得到",
+            "price": "29.40元",
+            "link": "https://www.dedao.cn/ebook/detail?id=DAOVMEb6LKoq7rM4DAYENOVl8XBgJ3QxgAW1v5kjeam9ZxzbQGn2PpyRdYQ2L8mX&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.84元",
+            "link": "https://book.douban.com/link2/?lowest=2184&pre=0&vendor=jingdong&srcpage=subject&price=2184&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVgWVAMCUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAV11UDUsTHDZNRwYlDnBiNyxUTk13ZjdYSSNnPFpEB14ATkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAU1tZC0sXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFwWWQJsCFgKShhPCjdmG1oQWQ8GVFltCkoWAW04K2tKX1lhND41ThBScTN3flpwHFRfHCxVSUx5ASRBUFlvPlhRDygrV0l0UzVNK1gl&cntvendor=5&srcsubj=35904826&type=bkbuy&subject=35904826"
+        },
+        {
+            "name": "当当网",
+            "price": "33.10元",
+            "link": "https://book.douban.com/link2/?lowest=2184&pre=0&vendor=dangdang&srcpage=subject&price=3310&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35904826%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29422878&cntvendor=5&srcsubj=35904826&type=bkbuy&subject=35904826"
+        },
+        {
+            "name": "中图网",
+            "price": "29.10元",
+            "link": "https://book.douban.com/link2/?lowest=2184&pre=0&vendor=bookschina&srcpage=subject&price=2910&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8885967.htm&cntvendor=5&srcsubj=35904826&type=bkbuy&subject=35904826"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35904826/",
+    "douban_id": "35904826",
+    "menu": [
+        "",
+        "        001 穿湖而过",
+        "        005 词典",
+        "        010 一见钟情",
+        "        015 流亡",
+        "        022 对话",
+        "        028 放弃",
+        "        032 借助词典阅读",
+        "        037 收集词语",
+        "        042 日记",
+        "        048 故事",
+        "        053 交换",
+        "        065 脆弱的庇护所",
+        "        070 不可能之事",
+        "        076 威尼斯",
+        "        080 未完成过去时",
+        "        092 毛头小伙",
+        "        100 第二次流亡",
+        "        108 墙",
+        "        118 三角",
+        "        129 变形记",
+        "        140 探查",
+        "        150 脚手架",
+        "        159 半明半暗",
+        "        167 后记",
+        "        193 致谢",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34257116.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美国] 裘帕·拉希莉",
+            "link": "https://book.douban.com/author/4541438"
+        },
+        {
+            "text": "广西师范大学出版社",
+            "link": "https://book.douban.com/press/2476"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        },
+        {
+            "text": "张亦非",
+            "link": "https://book.douban.com/author/4614811"
+        }
+    ],
+    "tag": "随笔"
+}

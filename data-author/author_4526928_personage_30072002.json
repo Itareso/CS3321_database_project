@@ -1,0 +1,154 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "认识我的人慢慢忘了我",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34766559.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36527078/",
+                        "year": "2024",
+                        "id": 36527078
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "必要的角度",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34900088.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36899527/",
+                        "year": "2024",
+                        "id": 36899527
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "聂鲁达情诗",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34786205.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36630041/",
+                        "year": "2024",
+                        "id": 36630041
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "奥登诗精选",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34898473.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36827876/",
+                        "year": "2024",
+                        "id": 36827876
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "黄灿然的诗",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34725579.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36581775/",
+                        "year": "2023",
+                        "id": 36581775
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "詩合集 I",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34706939.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36623215/",
+                        "year": "2023",
+                        "id": 36623215
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "詩合集 II",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34706940.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36623216/",
+                        "year": "2023",
+                        "id": 36623216
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "致后代：布莱希特诗选",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34208700.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35852732/",
+                        "year": "2022",
+                        "id": 35852732
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "内心活动",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34289913.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35985099/",
+                        "year": "2022",
+                        "id": 35985099
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "曼德尔施塔姆文选",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34054167.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35680633/",
+                        "year": "2022",
+                        "id": 35680633
+                    }
+                }
+            ],
+            "total": 48
+        }
+    },
+    "author_link": "https://book.douban.com/author/4526928/",
+    "author_douban_id": "4526928",
+    "personage_id": 30072002,
+    "name": [
+        "黄灿然",
+        "Canran Huang"
+    ],
+    "intro": "黄灿然，1963年生于福建泉州，1978年移居香港，1988年毕业于广州暨南大学，现为香港《大公报》国际新闻翻译。曾任《红土诗抄》主编、《声音》诗刊主编和《倾向》杂志诗歌编辑。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/eb17ab60f343fe407d601ed9c9bdfef2.jpg",
+    "sex": 1,
+    "birth_date": 1963,
+    "age": 63,
+    "birth_place": [
+        "中国",
+        "福建",
+        "泉州"
+    ],
+    "profession": [
+        "作者",
+        "译者",
+        "编者"
+    ]
+}

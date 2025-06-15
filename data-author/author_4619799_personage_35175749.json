@@ -1,0 +1,68 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "通俗小说",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34369811.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36152943/",
+                        "year": "2022",
+                        "id": 36152943
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4619799/",
+    "author_douban_id": "4619799",
+    "personage_id": 35175749,
+    "name": [
+        "仁科",
+        "Ke Ren"
+    ],
+    "intro": "五条人主唱、手风琴手。1986年出生于汕尾市捷胜镇。2004年在朋友的介绍下，前往广州会师阿茂，一同摆地摊“走鬼”。在广州慢慢靠近了民谣，并渐渐显露了他的音乐灵性与才华，有人这样称赞仁科“一个年仅二十二的民谣小子，擅长将音乐即兴把玩于指掌口舌之间，近年来广东民谣界的一个意外惊喜”，“作品风格自由随意,即兴成分很大\\\"。2008年组建五条人。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/35175749/photo/2620763382",
+        "https://www.douban.com/personage/35175749/photo/2620768183",
+        "https://www.douban.com/personage/35175749/photo/2620763376",
+        "https://www.douban.com/personage/35175749/photo/2620768182",
+        "https://www.douban.com/personage/35175749/photo/2620768174"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2620763382.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2620768183.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2620763376.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2620768182.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2620768174.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/5703e74e22ffbb60782709083710bd8d.jpg",
+    "更多中文名": "许昌锄(本名)",
+    "更多外文名": "Renke",
+    "厂牌": "BADHEAD",
+    "流派": "民谣 / 摇滚",
+    "擅长乐器": "手风琴 / 电吉他 / 键盘",
+    "语言": "海丰话 / 国语 / 粤语 / 客家话 / 英语 / 葡萄牙语 / 泰语",
+    "所属乐队": "五条人",
+    "sex": 1,
+    "birth_date": 1986,
+    "age": 40,
+    "birth_place": [
+        "中国",
+        "广东",
+        "汕尾"
+    ],
+    "IMDB": "nm12443906",
+    "profession": [
+        "音乐人",
+        "演员",
+        "配音",
+        "导演",
+        "作者"
+    ]
+}

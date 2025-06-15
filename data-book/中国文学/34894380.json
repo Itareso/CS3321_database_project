@@ -1,0 +1,74 @@
+{
+    "title": "雾行者",
+    "bookInfo": {
+        "作者": "路内",
+        "出版社": "上海三联书店",
+        "出品方": "理想国",
+        "出版年": "2020-1",
+        "页数": "580",
+        "定价": "88.00",
+        "装帧": "精装",
+        "ISBN": "9787542668547"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.2%",
+        "four_star_rate": "42.4%",
+        "three_star_rate": "23.6%",
+        "two_star_rate": "3.9%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/573172/",
+            "name": "路内",
+            "role": "作者",
+            "douban_id": "573172"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "58.96元",
+            "link": "https://book.douban.com/link2/?lowest=4940&pre=0&vendor=jingdong&srcpage=subject&price=5896&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF0TVQ8AUW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOMyFeSzRyaBxBWwRsLVJSNAkmCRFQAjFydVliK1B9MR1ZSwJMWAh3eQV-PhFCWCokcC9jSiZUbwR1BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZrLwcGWyITHQptXwZlB2MAVAodWi1nD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVlYCE0XCm44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggcW1FSBAkzVE1ARidBGB57XQcLVFlcDE0nAW4JGVklbTZlK10edy58cCZIRCJlCVZiAyVcUgwWXRVmGSxjC3lnF1oeQRBMZBBqRTB2bQUy&cntvendor=3&srcsubj=34894380&type=bkbuy&subject=34894380"
+        },
+        {
+            "name": "当当网",
+            "price": "52.80元",
+            "link": "https://book.douban.com/link2/?lowest=4940&pre=0&vendor=dangdang&srcpage=subject&price=5280&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34894380%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28522507&cntvendor=3&srcsubj=34894380&type=bkbuy&subject=34894380"
+        },
+        {
+            "name": "中图网",
+            "price": "49.40元",
+            "link": "https://book.douban.com/link2/?lowest=4940&pre=0&vendor=bookschina&srcpage=subject&price=4940&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8899232.htm&cntvendor=3&srcsubj=34894380&type=bkbuy&subject=34894380"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34894380/",
+    "douban_id": "34894380",
+    "menu": [
+        "",
+        "        第一章　暴雪（2004）",
+        "        第二章　逆戟鲸（1998）",
+        "        第三章　迦楼罗（1999）",
+        "        第四章　变容（2008）",
+        "        第五章　人山人海（1999—2007）",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33547055.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "路内",
+            "link": "https://book.douban.com/author/573172"
+        },
+        {
+            "text": "上海三联书店",
+            "link": "https://book.douban.com/press/2723"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        }
+    ],
+    "tag": "中国文学"
+}

@@ -1,0 +1,52 @@
+{
+    "title": "满世界",
+    "bookInfo": {
+        "作者": "龚曙光",
+        "出版社": "人民文学出版社",
+        "出版年": "2019-7",
+        "页数": "335",
+        "定价": "66.00元",
+        "ISBN": "9787020152841"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "41.4%",
+        "four_star_rate": "45.1%",
+        "three_star_rate": "11.3%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "49.50元",
+            "link": "https://book.douban.com/link2/?lowest=2480&pre=0&vendor=jingdong&srcpage=subject&price=4950&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF8QWg4HXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOABs7SzV-SGwMQVkRNGBAVjkrWz1PdhxsdVlUDW5HAh0OXU9yZjtNQFJOIxFCWCokcC1jcBBXbDJPBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZLPwcnYytQBQxvaR91LkFWLTgrT053D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxeCEoSB244G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQUKUlkzVE1AQWwPWF57XQcGVlhUCU4nAW4JGVklbTZWETgediJcAGtSGV98O0QAMygOfhNicAtmGRpFNUNUFw0IDC5yVypTEgBrbQUy&cntvendor=3&srcsubj=34454807&type=bkbuy&subject=34454807"
+        },
+        {
+            "name": "当当网",
+            "price": "39.60元",
+            "link": "https://book.douban.com/link2/?lowest=2480&pre=0&vendor=dangdang&srcpage=subject&price=3960&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34454807%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27898405&cntvendor=3&srcsubj=34454807&type=bkbuy&subject=34454807"
+        },
+        {
+            "name": "中图网",
+            "price": "24.80元",
+            "link": "https://book.douban.com/link2/?lowest=2480&pre=0&vendor=bookschina&srcpage=subject&price=2480&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8134114.htm&cntvendor=3&srcsubj=34454807&type=bkbuy&subject=34454807"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34454807/",
+    "douban_id": "34454807",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33318607.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "龚曙光",
+            "link": "https://book.douban.com/search/%E9%BE%9A%E6%9B%99%E5%85%89"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        }
+    ],
+    "tag": "随笔"
+}

@@ -1,0 +1,61 @@
+{
+    "title": "创作的基因",
+    "bookInfo": {
+        "作者": "[日] 小岛秀夫",
+        "出版社": "新星出版社",
+        "出品方": "天闻角川",
+        "副标题": "我所爱着的MEME们",
+        "出版年": "2022-5",
+        "页数": "236",
+        "定价": "49.00",
+        "装帧": "平装",
+        "ISBN": "9787513348096"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.8%",
+        "four_star_rate": "44.1%",
+        "three_star_rate": "19.1%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610727/",
+            "name": "小岛秀夫",
+            "role": "作者",
+            "douban_id": "4610727"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "30.80元",
+            "link": "https://book.douban.com/link2/?lowest=3080&pre=0&vendor=jingdong&srcpage=subject&price=3080&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVsXVQcEUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVFxVCU0THDZNRwYlGFR5JD48CC5ydBVsHBBTBEVbCzwbTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAVllZD0oSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gUDwBsCFgKSk9PWjBmG1oRVQ4AUFxtCkoWAW04K2tGB0RxC1s_bE1iShlNZBhjW291JCs9Wwt5AWwORQFcLlZpUiIhWxFAfGxpK1gl&cntvendor=2&srcsubj=35873664&type=bkbuy&subject=35873664"
+        },
+        {
+            "name": "当当网",
+            "price": "39.00元",
+            "link": "https://book.douban.com/link2/?lowest=3080&pre=0&vendor=dangdang&srcpage=subject&price=3900&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35873664%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29394547&cntvendor=2&srcsubj=35873664&type=bkbuy&subject=35873664"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35873664/",
+    "douban_id": "35873664",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34199883.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 小岛秀夫",
+            "link": "https://book.douban.com/author/4610727"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "天闻角川",
+            "link": "https://book.douban.com/producers/67"
+        }
+    ],
+    "tag": "随笔"
+}

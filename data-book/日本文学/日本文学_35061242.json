@@ -1,0 +1,79 @@
+{
+    "title": "土",
+    "bookInfo": {
+        "作者": "[日]长塚节",
+        "出版社": "古吴轩出版社",
+        "出品方": "凤凰颐合",
+        "译者": "常非常",
+        "出版年": "2020-5",
+        "页数": "336",
+        "定价": "52.00",
+        "装帧": "平装",
+        "丛书": "人间镜像",
+        "ISBN": "9787554615492"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《土》是日本短歌作家长塚节的代表作，作品系首次翻译出版。长塚节作为一个地主阶级，但却与农民佃户相处甚好，同时也非常享受自然环境，从而成就了这部小说，并在夏目漱石的邀约下，自1910年6月在《东京朝日新闻》上连载。    小说以鬼怒川边的农村为舞台，围绕农民堪次展开，描写他的生活与劳作环境，一同书写的还有他得破伤风死去的妻子阿品、能干善良的长女阿次以及一直不和的岳父卯平。一家人生活在农村，与周围邻居交往和谐，甚至与东家的关系也很好。作者长塚节对于自然四季、农夫劳作非常熟悉，以“写生文”的描述手法，排除矫揉造作，对审美客体进行精细观察，立足体验，成功写出明治四十年代农民的生活。既有堪次一家勤劳耕作的一面，也有他迫于贫穷偷盗且屡次不改的一面，人性无非如此。同时，文本中涉及诸多日本民间风俗及俚语使用，比如葬礼、婚礼的举办形式、吃食、穿着等，所以《土》不仅有很高的文学欣赏价值，在史学方面的意义也不容漠视。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "59.4%",
+        "four_star_rate": "30.2%",
+        "three_star_rate": "8.3%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609765/",
+            "name": "长塚节",
+            "role": "作者",
+            "douban_id": "4609765"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "30.68元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=jingdong&srcpage=subject&price=3068&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMUWQYBV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXF9ZCEgUHDZNRwYlNlVxNxYVfDF3AHVvbT5RA1kKViYPeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcGV1hVD0MUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1sWX1VsCFgKTRtMVzBmG1oTXwMEVVptCkoWAW04K2scXn4CKzsUcCJ_eSxtYzJ9CFpLB1ckbgJ5ATVVZFhCXVl7PSsoAUh8dhcIK1gl&cntvendor=2&srcsubj=35061242&type=bkbuy&subject=35061242"
+        },
+        {
+            "name": "中图网",
+            "price": "23.40元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=bookschina&srcpage=subject&price=2340&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8387707.htm&cntvendor=2&srcsubj=35061242&type=bkbuy&subject=35061242"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35061242/",
+    "douban_id": "35061242",
+    "menu": [
+        "",
+        "        关于《土》/夏目漱石",
+        "        土",
+        "        附录一 长塚节年谱与《土》大事年表",
+        "        附录二 度量衡与币制",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33660457.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]长塚节",
+            "link": "https://book.douban.com/search/%E9%95%BF%E5%A1%9A%E8%8A%82"
+        },
+        {
+            "text": "古吴轩出版社",
+            "link": "https://book.douban.com/press/2681"
+        },
+        {
+            "text": "凤凰颐合",
+            "link": "https://book.douban.com/producers/177"
+        },
+        {
+            "text": "常非常",
+            "link": "https://book.douban.com/search/%E5%B8%B8%E9%9D%9E%E5%B8%B8"
+        },
+        {
+            "text": "人间镜像",
+            "link": "https://book.douban.com/series/52334"
+        }
+    ],
+    "tag": "日本文学"
+}

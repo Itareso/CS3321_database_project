@@ -1,0 +1,122 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "李诞脱口秀工作手册",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33968562.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35552655/",
+                        "year": "2021",
+                        "id": 35552655
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "笑场",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33646189.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34985981/",
+                        "year": "2020",
+                        "id": 34985981
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "候场",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33756541.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35250412/",
+                        "year": "2020",
+                        "id": 35250412
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.6,
+                        "title": "幼稚园：你们人类的爱情真难攻破",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33461934.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/34800726/",
+                        "year": "2019",
+                        "id": 34800726
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.4,
+                        "title": "冷场",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29909704.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/30365801/",
+                        "year": "2018",
+                        "id": 30365801
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "宇宙超度指南",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29610062.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27145908/",
+                        "year": "2017",
+                        "id": 27145908
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/4610796/",
+    "author_douban_id": "4610796",
+    "personage_id": 27492756,
+    "name": [
+        "李诞",
+        "Dan Li"
+    ],
+    "intro": "“蛋蛋”是《今晚80后脱口秀》中主持人王自健常挂在嘴边调侃的“唯二的朋友”，“自扯自蛋”是在新浪微博拥有近百万粉丝的大V，好饮酒、擅写诗、冷中带萌。两个画风违和的名字其实属于同一个人，就是兼具主持人、脱口秀演员、编剧、诗人等多个身份的李诞。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27492756/photo/2538674988",
+        "https://www.douban.com/personage/27492756/photo/2540044066",
+        "https://www.douban.com/personage/27492756/photo/2545809170",
+        "https://www.douban.com/personage/27492756/photo/2538675018",
+        "https://www.douban.com/personage/27492756/photo/2545809184"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2538674988.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2540044066.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2545809170.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2538675018.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2545809184.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/d1762f1c0e062aa116b45f3cd52fc793.jpg",
+    "更多中文名": "李瑞超(本名) / 自扯自蛋(笔名) / 蛋蛋",
+    "sex": 1,
+    "birth_date": 1989,
+    "age": 37,
+    "birth_place": [
+        "中国",
+        "内蒙古",
+        "锡林郭勒"
+    ],
+    "family_member": "黑尾酱(前妻)",
+    "IMDB": "nm10786899",
+    "profession": [
+        "演员",
+        "主持人",
+        "制片人",
+        "作者"
+    ]
+}

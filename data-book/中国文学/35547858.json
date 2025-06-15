@@ -1,0 +1,73 @@
+{
+    "title": "竟然是真的",
+    "bookInfo": {
+        "作者": "刘天昭",
+        "出版社": "上海文艺出版社",
+        "出品方": "单读 / 铸刻文化",
+        "出版年": "2021-8",
+        "页数": "142",
+        "定价": "36.00元",
+        "丛书": "单读丛书",
+        "ISBN": "9787532180110"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "32.3%",
+        "four_star_rate": "46.9%",
+        "three_star_rate": "17.0%",
+        "two_star_rate": "3.3%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4588330/",
+            "name": "刘天昭",
+            "role": "作者",
+            "douban_id": "4588330"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.08元",
+            "link": "https://book.douban.com/link2/?lowest=1650&pre=0&vendor=jingdong&srcpage=subject&price=1907&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFMVWAUGUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOFBpeUCt3Xzp3WCV9BWRmBDYdAA9XQiprdVlXCFVGFgYOXDRzZy9MXxhIDRFCWCokcBtgYBhKbCJHBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYAViQWCExAZgoPbR9tOFpEVCleQBJnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVV1VDksWB2g4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CVVszVE1AQCYLG117XQcFXFZUCUMnAW4JGVklbTZCEF0FaCtLVhBLZTNNP2JSPB5VTAtWRgxmGRlADkJADA0Jdy9zQytMWAZFbQUy&cntvendor=3&srcsubj=35547858&type=bkbuy&subject=35547858"
+        },
+        {
+            "name": "当当网",
+            "price": "20.30元",
+            "link": "https://book.douban.com/link2/?lowest=1650&pre=0&vendor=dangdang&srcpage=subject&price=2030&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35547858%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29284890&cntvendor=3&srcsubj=35547858&type=bkbuy&subject=35547858"
+        },
+        {
+            "name": "中图网",
+            "price": "16.50元",
+            "link": "https://book.douban.com/link2/?lowest=1650&pre=0&vendor=bookschina&srcpage=subject&price=1650&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8653753.htm&cntvendor=3&srcsubj=35547858&type=bkbuy&subject=35547858"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35547858/",
+    "douban_id": "35547858",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33963820.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘天昭",
+            "link": "https://book.douban.com/search/%E5%88%98%E5%A4%A9%E6%98%AD"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        },
+        {
+            "text": "单读",
+            "link": "https://book.douban.com/producers/520"
+        },
+        {
+            "text": "铸刻文化",
+            "link": "https://book.douban.com/producers/227"
+        },
+        {
+            "text": "单读丛书",
+            "link": "https://book.douban.com/series/4717"
+        }
+    ],
+    "tag": "中国文学"
+}

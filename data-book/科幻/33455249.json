@@ -1,0 +1,68 @@
+{
+    "title": "地球副本",
+    "bookInfo": {
+        "作者": "[美] 威尔·麦金托什",
+        "出版社": "北京联合出版公司",
+        "出品方": "未读·文艺家 / 未读",
+        "原作名": "Faller",
+        "译者": "王焱",
+        "出版年": "2019-7",
+        "页数": "448",
+        "定价": "58",
+        "装帧": "平装",
+        "ISBN": "9787559632685"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "5.0%",
+        "four_star_rate": "24.9%",
+        "three_star_rate": "49.8%",
+        "two_star_rate": "17.8%",
+        "one_star_rate": "2.5%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "15.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=2BeEdA94ma8x6VX2zLjQBNq5dKveMw1QrmwJZPAO1lGbpRyYgonDEr97kMoLmlba&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "40.25元",
+            "link": "https://book.douban.com/link2/?lowest=2190&pre=0&vendor=jingdong&srcpage=subject&price=4025&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQQCV11fC0oXM2sNH1wRWAcEVlpcOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocUFtZD08SAmkKH1oKBENeCW4BQA90fihjWj5JFVtmPw46XlVTW3FeF1clWgMFUllUC0wnA2sJH18lbQYDZB8zDUsWCm04GVsUXAMCXFleCXsXBWoJGFsQVQ8DVF1UOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgRC2oBS157AQBVH10LWxx5A28MGVkVVA8yVl9cCkknM197ZxhTKGNXEzslbBhMXChIWR8XI09UNigzCj5gUxN-XVt3OFxYFR8qUBREM2w4&cntvendor=3&srcsubj=33455249&type=bkbuy&subject=33455249"
+        },
+        {
+            "name": "中图网",
+            "price": "21.90元",
+            "link": "https://book.douban.com/link2/?lowest=2190&pre=0&vendor=bookschina&srcpage=subject&price=2190&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8148166.htm&cntvendor=3&srcsubj=33455249&type=bkbuy&subject=33455249"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33455249/",
+    "douban_id": "33455249",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33324949.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 威尔·麦金托什",
+            "link": "https://book.douban.com/search/%E5%A8%81%E5%B0%94%C2%B7%E9%BA%A6%E9%87%91%E6%89%98%E4%BB%80"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "未读·文艺家",
+            "link": "https://book.douban.com/producers/166"
+        },
+        {
+            "text": "未读",
+            "link": "https://book.douban.com/producers/22"
+        },
+        {
+            "text": "王焱",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E7%84%B1"
+        }
+    ],
+    "tag": "科幻"
+}

@@ -1,0 +1,75 @@
+{
+    "title": "繁花",
+    "bookInfo": {
+        "作者": "金宇澄 / 沈宏非（批注） / 姜庆共（排版）",
+        "出版社": "长江文艺出版社",
+        "副标题": "批注本",
+        "出版年": "2023-7",
+        "页数": "682",
+        "定价": "98.00元",
+        "装帧": "平装",
+        "ISBN": "9787570217588"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.4%",
+        "four_star_rate": "32.9%",
+        "three_star_rate": "14.1%",
+        "two_star_rate": "6.4%",
+        "one_star_rate": "11.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/410773/",
+            "name": "金宇澄",
+            "role": "作者",
+            "douban_id": "410773"
+        },
+        {
+            "link": "https://book.douban.com/author/4518729/",
+            "name": "沈宏非",
+            "role": "作者",
+            "douban_id": "4518729"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.50元",
+            "link": "https://book.douban.com/link2/?lowest=2650&pre=0&vendor=jingdong&srcpage=subject&price=2650&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHloTWwcAUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHVVhbCUkSHDZNRwYlFmB2FQAmVSJyXw1AeQNPLURZAV01eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcGXVZcCEoeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVRsCFgKTRRLVypmG1oTVAMGVFhtCkoWAW04K2tlOGNAKlsgUElqfyRgWDwVAlxlBDsUSjR5AQl8XT5NHwQCVhsYeC5VS2dOK1gl&cntvendor=3&srcsubj=35216335&type=bkbuy&subject=35216335"
+        },
+        {
+            "name": "当当网",
+            "price": "63.70元",
+            "link": "https://book.douban.com/link2/?lowest=2650&pre=0&vendor=dangdang&srcpage=subject&price=6370&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35216335%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29602911&cntvendor=3&srcsubj=35216335&type=bkbuy&subject=35216335"
+        },
+        {
+            "name": "中图网",
+            "price": "49.00元",
+            "link": "https://book.douban.com/link2/?lowest=2650&pre=0&vendor=bookschina&srcpage=subject&price=4900&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9301471.htm&cntvendor=3&srcsubj=35216335&type=bkbuy&subject=35216335"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35216335/",
+    "douban_id": "35216335",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34743107.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "金宇澄",
+            "link": "https://book.douban.com/author/410773"
+        },
+        {
+            "text": "沈宏非（批注）",
+            "link": "https://book.douban.com/author/4518729"
+        },
+        {
+            "text": "姜庆共（排版）",
+            "link": "https://book.douban.com/search/%E5%A7%9C%E5%BA%86%E5%85%B1"
+        },
+        {
+            "text": "长江文艺出版社",
+            "link": "https://book.douban.com/press/2807"
+        }
+    ],
+    "tag": "中国文学"
+}

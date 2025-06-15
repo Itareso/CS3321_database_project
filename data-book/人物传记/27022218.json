@@ -1,0 +1,54 @@
+{
+    "title": "袁隆平的世界",
+    "bookInfo": {
+        "作者": "陈启文",
+        "出版社": "湖南文艺出版社",
+        "出版年": "2016-12-01",
+        "页数": "494",
+        "定价": "42.0",
+        "ISBN": "9787540478988"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "59.7%",
+        "four_star_rate": "29.9%",
+        "three_star_rate": "9.1%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/854514/",
+            "name": "陈启文",
+            "role": "作者",
+            "douban_id": "854514"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=jingdong&srcpage=subject&price=2490&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVkQXgUGVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOFxY_Szt-cS5jQDAVBHpGHDxZdwpOfztedVlLHHNKVx0CVyB_ayxAHBJdKBFCWCokdCtjcDpKbCJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZpVjY9TQN3QwpyeT4dPVJhAhUFaBNBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcHXFZdDUMUBmg4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgQFAwszVE1NXWcPRl97XwcBU1hYCEsnAW4JGVklbTZBHDweeCJlQgRTcFtMIUJKNloiSRJrVzlmGQVUKE4BFwECYyN_QCcPUhNgbQUy&cntvendor=2&srcsubj=27022218&type=bkbuy&subject=27022218"
+        },
+        {
+            "name": "中图网",
+            "price": "33.20元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=bookschina&srcpage=subject&price=3320&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8629349.htm&cntvendor=2&srcsubj=27022218&type=bkbuy&subject=27022218"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27022218/",
+    "douban_id": "27022218",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29428359.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "陈启文",
+            "link": "https://book.douban.com/author/854514"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        }
+    ],
+    "tag": "人物传记"
+}

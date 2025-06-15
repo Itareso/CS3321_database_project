@@ -1,0 +1,70 @@
+{
+    "title": "神秘博士：盗梦贼",
+    "bookInfo": {
+        "作者": "[英] 史蒂夫·莱昂斯",
+        "出版社": "新星出版社",
+        "出品方": "八光分文化",
+        "副标题": "《神秘博士》新剧集官方小说",
+        "原作名": "Doctor Who: The Stealer of Dreams",
+        "译者": "王金晶",
+        "出版年": "2018-8",
+        "页数": "236",
+        "定价": "34.00元",
+        "装帧": "平装",
+        "丛书": "《神秘博士》官方小说",
+        "ISBN": "9787513331753"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "31.5%",
+        "four_star_rate": "48.9%",
+        "three_star_rate": "18.5%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.29元",
+            "link": "https://book.douban.com/link2/?lowest=1929&pre=0&vendor=jingdong&srcpage=subject&price=1929&pos=1&url=https%3A%2F%2Fitem.jd.com%2F71678077421.html&cntvendor=3&srcsubj=30272318&type=bkbuy&subject=30272318"
+        },
+        {
+            "name": "当当网",
+            "price": "21.90元",
+            "link": "https://book.douban.com/link2/?lowest=1929&pre=0&vendor=dangdang&srcpage=subject&price=2190&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30272318%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25343369&cntvendor=3&srcsubj=30272318&type=bkbuy&subject=30272318"
+        },
+        {
+            "name": "中图网",
+            "price": "19.70元",
+            "link": "https://book.douban.com/link2/?lowest=1929&pre=0&vendor=bookschina&srcpage=subject&price=1970&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7901701.htm&cntvendor=3&srcsubj=30272318&type=bkbuy&subject=30272318"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30272318/",
+    "douban_id": "30272318",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29868178.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 史蒂夫·莱昂斯",
+            "link": "https://book.douban.com/search/%E5%8F%B2%E8%92%82%E5%A4%AB%C2%B7%E8%8E%B1%E6%98%82%E6%96%AF"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "八光分文化",
+            "link": "https://book.douban.com/producers/115"
+        },
+        {
+            "text": "王金晶",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E9%87%91%E6%99%B6"
+        },
+        {
+            "text": "《神秘博士》官方小说",
+            "link": "https://book.douban.com/series/40153"
+        }
+    ],
+    "tag": "科幻"
+}

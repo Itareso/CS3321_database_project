@@ -1,0 +1,71 @@
+{
+    "title": "西南联大行思录",
+    "bookInfo": {
+        "作者": "张曼菱",
+        "出版社": "生活·读书·新知三联书店",
+        "出版年": "2013-6",
+        "页数": "425",
+        "定价": "48.00",
+        "装帧": "平装",
+        "ISBN": "9787108043856"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "42.5%",
+        "four_star_rate": "40.5%",
+        "three_star_rate": "14.3%",
+        "two_star_rate": "2.0%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/179782/",
+            "name": "张曼菱",
+            "role": "作者",
+            "douban_id": "179782"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "28.80元",
+            "link": "https://read.douban.com/ebook/23311256/?dcs=subject-buylink&dcm=douban&dct=24838578"
+        },
+        {
+            "name": "京东商城",
+            "price": "39.98元",
+            "link": "https://book.douban.com/link2/?lowest=3997&pre=0&vendor=jingdong&srcpage=subject&price=3997&pos=2&url=https%3A%2F%2Fitem.jd.com%2F10036811823940.html&cntvendor=2&srcsubj=24838578&type=bkbuy&subject=24838578"
+        }
+    ],
+    "url": "https://book.douban.com/subject/24838578/",
+    "douban_id": "24838578",
+    "menu": [
+        "",
+        "        序：从传说到寻觅",
+        "        第一章南迁",
+        "        第二章山城第三章弦诵：教授“立”校",
+        "        第四章弦诵：“无为而治”",
+        "        第五章从军",
+        "        第六章学潮",
+        "        第七章北归",
+        "        第八章两岸",
+        "        附录",
+        "        《西南联大启示录》观后感（任继愈）",
+        "        西南联大课余学术报告会（任继愈）",
+        "        后记：一本“活书”",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s26810225.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张曼菱",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E6%9B%BC%E8%8F%B1"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        }
+    ],
+    "tag": "回忆录"
+}

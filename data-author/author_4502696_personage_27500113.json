@@ -1,0 +1,165 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "白蛇传",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34929687.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36996017/",
+                        "year": "2024",
+                        "id": 36996017
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "張恨水精品集７：秦淮世家【典藏新版】",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34703565.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36653845/",
+                        "year": "2023",
+                        "id": 36653845
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "金粉世家",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34067087.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35699810/",
+                        "year": "2022",
+                        "id": 35699810
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "似水流年",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34092521.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35732850/",
+                        "year": "2022",
+                        "id": 35732850
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "啼笑因缘",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34273088.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35590574/",
+                        "year": "2021",
+                        "id": 35590574
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "北京人随笔",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33855075.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35354310/",
+                        "year": "2021",
+                        "id": 35354310
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "張恨水精品集４：啼笑因緣【典藏新版】",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34703567.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36653847/",
+                        "year": "2021",
+                        "id": 36653847
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "張恨水精品集１：金粉世家（上）【典藏新版】",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34703566.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36653846/",
+                        "year": "2021",
+                        "id": 36653846
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "纸醉金迷",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33460086.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30757786/",
+                        "year": "2019",
+                        "id": 30757786
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "欢喜冤家",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33460089.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30666357/",
+                        "year": "2019",
+                        "id": 30666357
+                    }
+                }
+            ],
+            "total": 124
+        }
+    },
+    "author_link": "https://book.douban.com/author/4502696/",
+    "author_douban_id": "4502696",
+    "personage_id": 27500113,
+    "name": [
+        "张恨水",
+        "Henshui Zhang"
+    ],
+    "intro": "张恨水是著名章回小说家，也是鸳鸯蝴蝶派代表作家。有“中国大仲马”、“民国第一写手”之称。作品情节曲折复杂，结构布局严谨完整，将中国传统的章回体小说与西洋小说的新技法融为一体。更以作品多产出名，他五十几年的写作生涯中，创作了一百多部通俗小说，总字数近两千万言，堪称著作等身。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27500113/photo/2100435846",
+        "https://www.douban.com/personage/27500113/photo/2100425138",
+        "https://www.douban.com/personage/27500113/photo/2100425145"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2100435846.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2100425138.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2100425145.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/celebrity/m/public/pUrNC6ArBfMcel_avatar_uploaded1377049591.77.jpg",
+    "更多中文名": "张心远（本名）",
+    "sex": 1,
+    "birth_date": 1895,
+    "death_date": 1967,
+    "age": 73,
+    "birth_place": [
+        "中国",
+        "江西",
+        "广信"
+    ],
+    "family_member": "徐文淑(第一任夫人) / 胡秋霞(第二任夫人) / 周南(第三任夫人) / 张钰(父) / 戴信兰(母) / 张心恒(二弟) / 张其范(大妹) / 张朴野(三弟) / 张牧野(四弟) / 张其伟(二妹) / 张东野(堂兄)",
+    "IMDB": "nm1887256",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

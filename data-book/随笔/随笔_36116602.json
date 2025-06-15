@@ -1,0 +1,101 @@
+{
+    "title": "通宵俱乐部",
+    "bookInfo": {
+        "作者": "阿乙",
+        "出版社": "上海文艺出版社",
+        "出品方": "单读 / 铸刻文化",
+        "出版年": "2022-10-1",
+        "页数": "392",
+        "定价": "58.00元",
+        "装帧": "平装",
+        "ISBN": "9787532183029"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.8%",
+        "four_star_rate": "41.9%",
+        "three_star_rate": "29.5%",
+        "two_star_rate": "7.0%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4572806/",
+            "name": "阿乙",
+            "role": "作者",
+            "douban_id": "4572806"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "37.70元",
+            "link": "https://read.douban.com/ebook/477135086/?dcs=subject-buylink&dcm=douban&dct=36116602"
+        },
+        {
+            "name": "得到",
+            "price": "58.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=JblNOdGPBpZdjEgmN4JLq7yaRvKV206mq8aw1roMz6xYX5QDG8l9bnOeAkey1g25&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "30.74元",
+            "link": "https://book.douban.com/link2/?lowest=3074&pre=0&vendor=jingdong&srcpage=subject&price=3074&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGV4RXwALVG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOFBpeUCt3Xzp3WCV9BXpCKA0dAA9KAxZUdVlXCFVGFgYOXDRzZy9MehtnDRFCWCokdCJjYARJbTJhBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYHHFkLThAffgpsRzp9VQZiMSMAVhBBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtZDkoVC244G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXlIBA18zVE1AQShaGVJ7XQcLV1hdAUgnAW4JGVklbTZCEF0FaCtLVhBLZTNNIUZ-Bx5VTBYXejNmGRlADkJADA0Jdy9zQytpWylFbQUy&cntvendor=5&srcsubj=36116602&type=bkbuy&subject=36116602"
+        },
+        {
+            "name": "当当网",
+            "price": "32.70元",
+            "link": "https://book.douban.com/link2/?lowest=3074&pre=0&vendor=dangdang&srcpage=subject&price=3270&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36116602%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29471268&cntvendor=5&srcsubj=36116602&type=bkbuy&subject=36116602"
+        },
+        {
+            "name": "中图网",
+            "price": "41.80元",
+            "link": "https://book.douban.com/link2/?lowest=3074&pre=0&vendor=bookschina&srcpage=subject&price=4180&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8947924.htm&cntvendor=5&srcsubj=36116602&type=bkbuy&subject=36116602"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36116602/",
+    "douban_id": "36116602",
+    "menu": [
+        "",
+        "        1996",
+        "        1997",
+        "        1998",
+        "        1999",
+        "        2002",
+        "        2004",
+        "        2007",
+        "        2010",
+        "        2011",
+        "        2012",
+        "        2013",
+        "        2014",
+        "        2015",
+        "        2016",
+        "        2017",
+        "        2018",
+        "        2019",
+        "        2020",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34326421.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "阿乙",
+            "link": "https://book.douban.com/author/4572806"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        },
+        {
+            "text": "单读",
+            "link": "https://book.douban.com/producers/520"
+        },
+        {
+            "text": "铸刻文化",
+            "link": "https://book.douban.com/producers/227"
+        }
+    ],
+    "tag": "随笔"
+}

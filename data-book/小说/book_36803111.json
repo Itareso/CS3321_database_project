@@ -1,0 +1,72 @@
+{
+    "title": "阅读清单",
+    "bookInfo": {
+        "作者": "[英] 莎拉·妮莎·亚当斯",
+        "出版社": "北京联合出版公司",
+        "出品方": "光尘",
+        "原作名": "The Reading List",
+        "译者": "王喆 / 陈榆",
+        "出版年": "2024-7",
+        "页数": "432",
+        "定价": "59",
+        "装帧": "平装",
+        "ISBN": "9787559674814"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    1.阅读是一座随身携带的避难所    书中的女孩意外得到这张阅读清单后，决定阅读清单上的每一本书，正是这些书以及阅读的非凡力量，使她得以逃离来自原生家庭的痛苦。    2.入围Goodreads年度最受期待图书    被《新闻周刊》《多伦多星报》《书单》等评为夏季最佳读物。    3.这是一本内容丰富、主题鲜明的治愈小说    命运的巧合、阅读的力量、孤独与陪伴、希望与重生这些关于人生的重要主题无一不包含其中，像经历一次沿途风景优美的旅行。    4.经典文学的索引    书中涉及的世界经典文学包括《杀死一只知更鸟》《小妇人》《少年派的奇幻漂流》《傲慢与偏见》《追风筝的人》，以此书为索引，可以探索更多更好的文学著作。    5.当生活无法收场时，总有一本书将你带出泥沼，走向旷野    一份阅读清单，两个截然不同的生命，是阅读的力量，令阿莱莎和穆克什拥有了相互治愈的可能，重新找回生活的意义和美好。    ~~~~~~~~~~~~~~~~~~~~~~~    在失去心爱的妻子后，穆克什在伦敦过着平静的生活。他每周三购物，做礼拜，除了这些事情，他总是隐隐担心着他的孙女普利娅。孙女喜欢躲在房间里看书，两人似乎无法真正地亲近对方。    阿莱莎是一个聪慧但焦虑的少女。暑假期间，她在当地图书馆工作。一天，阿莱莎在《杀死一只知更鸟》的背面发现了一张皱巴巴的纸，这是一份她以前从未听说过的小说清单。出于好奇，她决定阅读清单上的每一本书。阿莱莎沉浸在故事里，从家庭带来的痛苦中得以喘息片刻。    当穆克什来到图书馆，迫切希望与他的书虫孙女建立联系时，阿莱莎将阅读清单递给了他……共享的书籍在两个孤独的灵魂之间焕发魔力，令他们逐渐走出悲伤，重新找到快乐。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "43.5%",
+        "four_star_rate": "31.5%",
+        "three_star_rate": "18.5%",
+        "two_star_rate": "5.6%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614942/",
+            "name": "王喆",
+            "role": "译者",
+            "douban_id": "4614942"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.50元",
+            "link": "https://read.douban.com/ebook/479878559/?dcs=subject-buylink&dcm=douban&dct=36803111"
+        },
+        {
+            "name": "得到",
+            "price": "29.50元",
+            "link": "https://www.dedao.cn/ebook/detail?id=AnKgjNlArlXVNGKD1yL2Ek6YaogQv0YYknl0bZ4RBn7j589zJpMxmdPeqOYDxqL4&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "35.40元",
+            "link": "https://book.douban.com/link2/?lowest=3540&pre=0&vendor=jingdong&srcpage=subject&price=3540&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZsJK1olXwIEVFxdAE8SBV8IHlwSVAcLU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEgYrUCx3VCpITw5WPkZ6KC1YcChcXRFzdVlFHw9aPAZeSgtveylQQwFuWxFCWCokaCxjWm9MbTJ9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZFNA0pCBQSCgxTXwlgAHlYXF0NcT9RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYNK1sTWAcCXFlZDUoUBms4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggcWlIFUw0zVE1AXW0OUAt7VQ4BXVZVDHsVAm4KGWslbUBaIgY6aBxSQztdWDhVJXpxUSY-QxVpeAEKSxkcBW5aVxwdcDNRWzdSYF0lXjY&cntvendor=4&srcsubj=36803111&type=bkbuy&subject=36803111"
+        },
+        {
+            "name": "中图网",
+            "price": "42.30元",
+            "link": "https://book.douban.com/link2/?lowest=3540&pre=0&vendor=bookschina&srcpage=subject&price=4230&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9386963.htm&cntvendor=4&srcsubj=36803111&type=bkbuy&subject=36803111"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36803111/",
+    "douban_id": "36803111",
+    "menu": [
+        "",
+        "        楔子",
+        "        寒冰期",
+        "        无处可逃的青春",
+        "        故人的阴影",
+        "        图书馆的新朋友",
+        "        纸上旅行",
+        "        朦胧的爱意",
+        "        初次约会",
+        "        无声告别",
+        "        相约图书馆",
+        "        作者的话：我的阅读清单",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

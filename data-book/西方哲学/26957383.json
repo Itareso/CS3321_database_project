@@ -1,0 +1,77 @@
+{
+    "title": "海拉斯与斐洛诺斯对话三篇",
+    "bookInfo": {
+        "作者": "[英] 贝克莱",
+        "出版社": "商务印书馆",
+        "译者": "关文运",
+        "出版年": "2017-4",
+        "页数": "126",
+        "定价": "15.00",
+        "装帧": "平装",
+        "ISBN": "9787100128896"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "52.0%",
+        "four_star_rate": "38.9%",
+        "three_star_rate": "7.6%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609613/",
+            "name": "乔治·贝克莱",
+            "role": "作者",
+            "douban_id": "4609613"
+        },
+        {
+            "link": "https://book.douban.com/author/4609075/",
+            "name": "乔治·贝克莱",
+            "role": "作者",
+            "douban_id": "4609075"
+        },
+        {
+            "link": "https://book.douban.com/author/4642110/",
+            "name": "关文运",
+            "role": "译者",
+            "douban_id": "4642110"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "11.82元",
+            "link": "https://book.douban.com/link2/?lowest=1080&pre=0&vendor=jingdong&srcpage=subject&price=1182&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFsdVAcBU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVFZUCUgQHDZNRwYlGlpVTgwgfBVyAh0WWiNWWnJ2MFg7eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GUFhUDkoeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHgsUDQdsCFgHVE5IWTpmGVoUWQUDVlxtCkoWAW04K2tyIgVBKzs2ewJXXBl4WDBDNn0HDg1eABJ5ARh-TSRwHgJBHQUGbzRpAixrK1gl&cntvendor=3&srcsubj=26957383&type=bkbuy&subject=26957383"
+        },
+        {
+            "name": "当当网",
+            "price": "10.80元",
+            "link": "https://book.douban.com/link2/?lowest=1080&pre=0&vendor=dangdang&srcpage=subject&price=1080&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26957383%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25080957&cntvendor=3&srcsubj=26957383&type=bkbuy&subject=26957383"
+        },
+        {
+            "name": "中图网",
+            "price": "11.50元",
+            "link": "https://book.douban.com/link2/?lowest=1080&pre=0&vendor=bookschina&srcpage=subject&price=1150&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7484991.htm&cntvendor=3&srcsubj=26957383&type=bkbuy&subject=26957383"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26957383/",
+    "douban_id": "26957383",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29466642.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 贝克莱",
+            "link": "https://book.douban.com/search/%E8%B4%9D%E5%85%8B%E8%8E%B1"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "关文运",
+            "link": "https://book.douban.com/author/4642110"
+        }
+    ],
+    "tag": "西方哲学"
+}

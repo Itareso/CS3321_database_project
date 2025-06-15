@@ -1,0 +1,61 @@
+{
+    "title": "麥舟的朋友圈",
+    "bookInfo": {
+        "作者": "張學鋒",
+        "出版社": "山东人民出版社",
+        "副标题": "一位學者的日常",
+        "出版年": "2021-4",
+        "页数": "384",
+        "定价": "69.00",
+        "装帧": "平装",
+        "ISBN": "9787209113922"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "43.4%",
+        "four_star_rate": "35.4%",
+        "three_star_rate": "15.2%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "5.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614083/",
+            "name": "张学锋",
+            "role": "作者",
+            "douban_id": "4614083"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "49.60元",
+            "link": "https://book.douban.com/link2/?lowest=4100&pre=0&vendor=jingdong&srcpage=subject&price=4960&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVgUXQ4LV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOJig6Di93QBZAexN9K219JwQ1QBBJSzt8dVljJEF0Blg6TQNcSB1-WThVORFCWCokdChgcAxXbTJtBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZlCF4uWANSVgxfUzteLnpFE1wKbD5RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtZAU8TAmY4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgQGVV0zVE1AQShXWFN7XQcEUl9YCE0nAW4JGVklbTZwIjlbbCtUeidoUzNjNnlxDjYVUxVfVxtmGS1sGnBQUjkYQABccRlKeBtxbQUy&cntvendor=3&srcsubj=35413729&type=bkbuy&subject=35413729"
+        },
+        {
+            "name": "当当网",
+            "price": "49.60元",
+            "link": "https://book.douban.com/link2/?lowest=4100&pre=0&vendor=dangdang&srcpage=subject&price=4960&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35413729%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29218299&cntvendor=3&srcsubj=35413729&type=bkbuy&subject=35413729"
+        },
+        {
+            "name": "中图网",
+            "price": "41.00元",
+            "link": "https://book.douban.com/link2/?lowest=4100&pre=0&vendor=bookschina&srcpage=subject&price=4100&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8572060.htm&cntvendor=3&srcsubj=35413729&type=bkbuy&subject=35413729"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35413729/",
+    "douban_id": "35413729",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33860366.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "張學鋒",
+            "link": "https://book.douban.com/search/%E5%BC%B5%E5%AD%B8%E9%8B%92"
+        },
+        {
+            "text": "山东人民出版社",
+            "link": "https://book.douban.com/press/2263"
+        }
+    ],
+    "tag": "随笔"
+}

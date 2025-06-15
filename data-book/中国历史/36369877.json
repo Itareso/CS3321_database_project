@@ -1,0 +1,163 @@
+{
+    "title": "学随世转",
+    "bookInfo": {
+        "作者": "虞云国",
+        "出版社": "上海人民出版社",
+        "副标题": "20世纪中国的史家与史学",
+        "出版年": "2023-7",
+        "页数": "468",
+        "定价": "98.00元",
+        "装帧": "精装",
+        "丛书": "虞云国著作集",
+        "ISBN": "9787208182462"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "48.2%",
+        "four_star_rate": "46.0%",
+        "three_star_rate": "4.7%",
+        "two_star_rate": "0.7%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609485/",
+            "name": "虞云国",
+            "role": "作者",
+            "douban_id": "4609485"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "59.00元",
+            "link": "https://read.douban.com/ebook/477237207/?dcs=subject-buylink&dcm=douban&dct=36369877"
+        },
+        {
+            "name": "得到",
+            "price": "59.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=5kMLgX2vKGy7x5M8YRoDQbLgqkEeAw27a4E0BNn2r6ljVPO1mX9ad4JZpzZn1Rbe&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "73.50元",
+            "link": "https://book.douban.com/link2/?lowest=6370&pre=0&vendor=jingdong&srcpage=subject&price=7350&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV0cWQUAUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUldZC0kRHDZNRwYlVHwEASUFTU50GWhKS1tQK0B1AycPXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4FVV5fCEgQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwITFkUVQBsCFgHVB5fQDVmGFMdXwADU15tCkoWAW04K2tKX1lhND41ThBScSQKaw1OA1R4NwIKTEl5ASRBUFlvPlhRDygrV0kXXxFNK1gl&cntvendor=4&srcsubj=36369877&type=bkbuy&subject=36369877"
+        },
+        {
+            "name": "中图网",
+            "price": "63.70元",
+            "link": "https://book.douban.com/link2/?lowest=6370&pre=0&vendor=bookschina&srcpage=subject&price=6370&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9138144.htm&cntvendor=4&srcsubj=36369877&type=bkbuy&subject=36369877"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36369877/",
+    "douban_id": "36369877",
+    "menu": [
+        "",
+        "        自序/1",
+        "        前编",
+        "        吕思勉：用新方法整理旧国故",
+        "        一、 吕思勉史学的构成背景/3",
+        "        二、 吕思勉的史学思想/10",
+        "        三、 吕思勉史学及其方法论/16",
+        "        四、 放在新史学的序列中/23",
+        "        附：写在《吕思勉全集》的边上/32",
+        "        陈垣：不为乾嘉作殿军",
+        "        一、 参用乾嘉清儒考证方法/41",
+        "        二、 得预新史学的潮流/46",
+        "        三、 “有意义之史学”的新探索/55",
+        "        世间已无陈寅恪",
+        "        一、 史学范式：“传人难遇又如何”/66",
+        "        二、 文化托命：“续命河汾梦亦休”/75",
+        "        三、 余论：中国只有一个陈寅恪/84",
+        "        陈寅恪史学方法论",
+        "        一、 历史观对史学方法的决定性影响/90",
+        "        二、 治学方法的继承和借鉴/97",
+        "        三、 史料处理的全新方法/102",
+        "        四、 治史特点与方法举隅/114",
+        "        五、 从诗文证史到人格心态史学/126",
+        "        六、 结语：把人文学术从传统带进了现代/136",
+        "        史坛南北二陈论",
+        "        一、 史界双星：从初晤到深契/139",
+        "        二、 抗日战争时期：“未树新义，以负如来”/143",
+        "        三、 在沧桑剧变前：“感受痛苦”和“恍然觉悟”/151",
+        "        四、 在历史大变局后：“立身处世，各走极端”/154",
+        "        五、 学术异同：“蹊径大同，差异也很大”/163",
+        "        顾颉刚：古史辨“剿袭”案的再辩谳",
+        "        一、 公案的缘起/172",
+        "        二、 白鸟古史批判的双重标准/173",
+        "        三、 章太炎古史观及其对古史辨派的误判/176",
+        "        四、 插一个参照系：梁启超“新史学”的日本媒介/179",
+        "        五、 顾颉刚古史辨的价值取向/180",
+        "        六、 顾颉刚古史辨的学术渊源/183",
+        "        后编",
+        "        吴晗三调",
+        "        一、 吴晗逸札的本事钩沉/189",
+        "        二、 吴晗自述语境中与胡适关系的蜕变/200",
+        "        三、 《吴晗全集》自传书信的系年与校点/214",
+        "        丁则良：进退失据于政治与学术之间",
+        "        一、 清华学子的多重面相/230",
+        "        二、 联大岁月的学人风采/237",
+        "        三、 国难当头的入世情怀/242",
+        "        四、 英伦去来的得失是非/248",
+        "        五、 鼎革初期的政学取径/254",
+        "        六、 史坛新星的遽然陨落/259",
+        "        丁则良史学的发轫与转轨",
+        "        一、 宋史研究：深得张荫麟的神韵/267",
+        "        二、 史学转轨：“供我们振兴祖国的借鉴”/275",
+        "        三、 以《李提摩太》为中心：配合时局的政治批判/281",
+        "        四、 近代亚洲史与苏俄史研究：汇入时代的史学主潮/288",
+        "        五、 结语：诘问与思考/294",
+        "        《学习与批判》里的海上学人",
+        "        一、 旧刊新读说缘起/297",
+        "        二、 卓然名家的第一代学人/298",
+        "        三、 第二代学人的众生相/305",
+        "        四、 初露头角的第三代学人/309",
+        "        五、 对狼奶的反思/313",
+        "        严耕望与他的《治史三书》",
+        "        一、 严耕望：一个坚强纯净的学术人/318",
+        "        二、 《治史三书》的成书与影响/320",
+        "        三、 最佳的治史入门书/323",
+        "        四、 《治史三书》的其他价值/336",
+        "        五、 《治史三书》的读法/340",
+        "        刘子健的学术生涯与故国情怀",
+        "        一、 从燕京大学到东京审判/343",
+        "        二、 客居美国的学术生涯/349",
+        "        三、 家国情思与国际襟怀/353",
+        "        四、 故国异邦与半宾半主/358",
+        "        刘子健的历史观与方法论",
+        "        一、 历史观：“本人是倾向多元论的”/365",
+        "        二、 学问：“首先要学会提出问题”/370",
+        "        三、 “先建议一个分析的格局”/376",
+        "        四、 模式与类型在分析格局中的作用/380",
+        "        五、 史料批判与历史写作/386",
+        "        外编",
+        "        张家驹三题",
+        "        一、 燕园岁月：尚余春梦足清谈/395",
+        "        二、 顾颉刚与谭其骧笔下的张家驹/405",
+        "        三、 张家驹与他的《宋代社会中心南迁史》/417",
+        "        程应镠的命运与史学",
+        "        一、 斗争文字疾风雷：1949年以前/427",
+        "        二、 报国谁知白首心：1949年以后/436",
+        "        三、 历史教育家的成功实践/448",
+        "        四、 历史学家的丰硕成果/456",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34595847.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "虞云国",
+            "link": "https://book.douban.com/search/%E8%99%9E%E4%BA%91%E5%9B%BD"
+        },
+        {
+            "text": "上海人民出版社",
+            "link": "https://book.douban.com/press/2733"
+        },
+        {
+            "text": "虞云国著作集",
+            "link": "https://book.douban.com/series/73069"
+        }
+    ],
+    "tag": "中国历史",
+    "avg_rate": 4.409
+}

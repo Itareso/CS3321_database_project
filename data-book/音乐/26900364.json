@@ -1,0 +1,84 @@
+{
+    "title": "罗曼·罗兰音乐笔记",
+    "bookInfo": {
+        "作者": "[法]罗曼·罗兰",
+        "出版社": "研究出版社",
+        "出品方": "译言",
+        "原作名": "Voyage musical aux pays du passé.",
+        "译者": "孟洁冰",
+        "出版年": "2017-1",
+        "页数": "232",
+        "定价": "32.00元",
+        "装帧": "平装",
+        "ISBN": "9787801689917"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "56.3%",
+        "four_star_rate": "34.4%",
+        "three_star_rate": "7.8%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4504028/",
+            "name": "罗曼·罗兰",
+            "role": "作者",
+            "douban_id": "4504028"
+        },
+        {
+            "link": "https://book.douban.com/author/4614925/",
+            "name": "孟洁冰",
+            "role": "译者",
+            "douban_id": "4614925"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.51元",
+            "link": "https://book.douban.com/link2/?lowest=1320&pre=0&vendor=jingdong&srcpage=subject&price=2451&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQQCV11fC0oXM28IG1sUWQ8DVFxUOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocVF5dCEoTCm4IGVIKBENeCW4-Q0MWC2pcYDhmHU9FIygBCilcZDlOF1clWgMFUllUC0wnA2sJH18lbQYDZB8zDUsWCm04GVsUXAMCXFleCXsXBWoJHlMdXwQBVF5cOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgRAG8MEgl7AQBYCgtfSRJ5AW4KGVgRWgcyVl9cCkknM19eRT5XIwNWD14OcC11C2xfbANJI3lpHCQzCgNTSjF-WQtcXWZiEQQZCQt_M2w4&cntvendor=2&srcsubj=26900364&type=bkbuy&subject=26900364"
+        },
+        {
+            "name": "中图网",
+            "price": "13.20元",
+            "link": "https://book.douban.com/link2/?lowest=1320&pre=0&vendor=bookschina&srcpage=subject&price=1320&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7340544.htm&cntvendor=2&srcsubj=26900364&type=bkbuy&subject=26900364"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26900364/",
+    "douban_id": "26900364",
+    "menu": [
+        "",
+        "        第一章  十八世纪音乐家的幽默小说",
+        "        第二章  佩皮斯日记",
+        "        第三章  亨德尔传",
+        "        第四章  十八世纪古典音乐风格的起源",
+        "        第五章  泰勒曼：一位被遗忘的大师",
+        "        第六章  梅塔斯塔齐奥：格鲁克的先行者",
+        "        第七章  十八世纪意大利音乐之旅",
+        "        第八章  十八世纪德国音乐之旅",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29272028.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法]罗曼·罗兰",
+            "link": "https://book.douban.com/author/4504028"
+        },
+        {
+            "text": "研究出版社",
+            "link": "https://book.douban.com/press/2125"
+        },
+        {
+            "text": "译言",
+            "link": "https://book.douban.com/producers/62"
+        },
+        {
+            "text": "孟洁冰",
+            "link": "https://book.douban.com/author/4614925"
+        }
+    ],
+    "tag": "音乐"
+}

@@ -1,0 +1,122 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "天是真的",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33853352.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35402337/",
+                        "year": "2021",
+                        "id": 35402337
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "朵朵的星",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33912239.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35480320/",
+                        "year": "2021",
+                        "id": 35480320
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "孩子的音乐启蒙发声书：一起听民乐",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33591302.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34963388/",
+                        "year": "2019",
+                        "id": 34963388
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "双语中国故事·宝船开往新世界",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33502938.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34860757/",
+                        "year": "2019",
+                        "id": 34860757
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "《刘墉少年成长智慧书•改变自己的力量》",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29737958.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30192700/",
+                        "year": "2018",
+                        "id": 30192700
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "《刘墉少年成长智慧书•做个受欢迎的人》",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29738295.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30192691/",
+                        "year": "2018",
+                        "id": 30192691
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "《刘墉少年成长智慧书•你可以变得更聪明》",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29737935.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30192687/",
+                        "year": "2018",
+                        "id": 30192687
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国儿童文学分级读本：世界的诗意（四年级）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33634084.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35052019/",
+                        "year": "",
+                        "id": 35052019
+                    }
+                }
+            ],
+            "total": 8
+        }
+    },
+    "author_link": "https://book.douban.com/author/4611783/",
+    "author_douban_id": "4611783",
+    "personage_id": 35636854,
+    "name": [
+        "王修竹"
+    ],
+    "intro": "王修竹（笔名：阿修），中国知名青年插画师，1993年生。曾多次为腾讯、植木童装、周大生、百度、万科、天猫精灵、“奈雪の茶”等知名品牌创作设计品牌形象及包装，是《刘墉少年成长智慧系列书》《玫瑰园》《爱上一朵云》《世界的诗意》《朵朵的星》《宝船开往新世界》《叮叮叮，魔法新世界》《尼尔斯骑鹅旅行记》《孩子的音乐启蒙发声书》《天是真的》等图书的全内页配图绘制插画师。王修竹个人站酷号（账号名：阿修wenzi）人气超151万，是一位在网络及美术设计领域知名的插画师。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/9c59089622f4b38bca1b63406aeeaf92.jpg",
+    "sex": 0,
+    "birth_date": 1993,
+    "age": 33,
+    "profession": [
+        "绘者"
+    ]
+}

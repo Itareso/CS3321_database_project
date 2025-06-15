@@ -1,0 +1,86 @@
+{
+    "title": "战国争鸣记",
+    "bookInfo": {
+        "作者": "李亮",
+        "出版社": "重庆出版社",
+        "出品方": "紫焰小说",
+        "副标题": "墨守之城",
+        "出版年": "2020-11",
+        "页数": "380",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "丛书": "战国争鸣记",
+        "ISBN": "9787229151850"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.5%",
+        "four_star_rate": "39.4%",
+        "three_star_rate": "11.9%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "1.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/190693/",
+            "name": "李亮",
+            "role": "作者",
+            "douban_id": "190693"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "13.50元",
+            "link": "https://book.douban.com/link2/?lowest=1350&pre=0&vendor=jingdong&srcpage=subject&price=1350&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12780685.html&cntvendor=3&srcsubj=35153437&type=bkbuy&subject=35153437"
+        },
+        {
+            "name": "当当网",
+            "price": "25.40元",
+            "link": "https://book.douban.com/link2/?lowest=1350&pre=0&vendor=dangdang&srcpage=subject&price=2540&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35153437%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29161072&cntvendor=3&srcsubj=35153437&type=bkbuy&subject=35153437"
+        },
+        {
+            "name": "中图网",
+            "price": "25.70元",
+            "link": "https://book.douban.com/link2/?lowest=1350&pre=0&vendor=bookschina&srcpage=subject&price=2570&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8457407.htm&cntvendor=3&srcsubj=35153437&type=bkbuy&subject=35153437"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35153437/",
+    "douban_id": "35153437",
+    "menu": [
+        "",
+        "        第一章 大取桥",
+        "        第二章 小取城",
+        "        第三章 百家阵",
+        "        第四章 不义地",
+        "        第五章 辞过楼",
+        "        第六章 青云路",
+        "        第七章 摇钱树",
+        "        第八章 韩王宫",
+        "        第九章 伤心地",
+        "        第十章 生死场",
+        "        后 记 给痛苦者的赞歌",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33718333.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李亮",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E4%BA%AE"
+        },
+        {
+            "text": "重庆出版社",
+            "link": "https://book.douban.com/press/2162"
+        },
+        {
+            "text": "紫焰小说",
+            "link": "https://book.douban.com/producers/100"
+        },
+        {
+            "text": "战国争鸣记",
+            "link": "https://book.douban.com/series/75675"
+        }
+    ],
+    "tag": "经典"
+}

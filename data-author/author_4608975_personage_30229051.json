@@ -1,0 +1,147 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "离奇手环",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s35025081.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37143129/",
+                        "year": "2025",
+                        "id": 37143129
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "极地迷踪",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34766454.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36744896/",
+                        "year": "2024",
+                        "id": 36744896
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "地穴历险",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35014704.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37128566/",
+                        "year": "2024",
+                        "id": 37128566
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "护宝联盟",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35020442.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37033305/",
+                        "year": "2024",
+                        "id": 37033305
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "古宅奇谈",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34681780.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36623933/",
+                        "year": "2023",
+                        "id": 36623933
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "虚拟侦探",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34438072.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36271589/",
+                        "year": "2023",
+                        "id": 36271589
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "2021年中国悬疑小说精选",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34071128.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35674124/",
+                        "year": "2022",
+                        "id": 35674124
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "夜幕幻影",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34210942.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35886433/",
+                        "year": "2022",
+                        "id": 35886433
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "丛林危机",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34185652.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35849089/",
+                        "year": "2022",
+                        "id": 35849089
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "三国少年事件簿",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33853972.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35217388/",
+                        "year": "2021",
+                        "id": 35217388
+                    }
+                }
+            ],
+            "total": 41
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608975/",
+    "author_douban_id": "4608975",
+    "personage_id": 30229051,
+    "name": [
+        "河狸",
+        "Li He"
+    ],
+    "intro": "辽宁省作家协会会员。悬疑推理小说作家、儿童文学作家。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/9987680348daa0270cfb7cad59f9ef81.jpg",
+    "sex": 1,
+    "birth_date": 1978,
+    "age": 48,
+    "profession": [
+        "作者"
+    ]
+}

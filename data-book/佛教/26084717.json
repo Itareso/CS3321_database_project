@@ -1,0 +1,41 @@
+{
+    "title": "佛学指南",
+    "bookInfo": {
+        "作者": "太虚大师",
+        "出版社": "东方出版社",
+        "出版年": "2014-4",
+        "页数": "224",
+        "定价": "22.00",
+        "丛书": "佛学入门四书",
+        "ISBN": "9787506072120"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.3%",
+        "four_star_rate": "45.7%",
+        "three_star_rate": "17.1%",
+        "two_star_rate": "2.9%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [],
+    "url": "https://book.douban.com/subject/26084717/",
+    "douban_id": "26084717",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s28075667.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "太虚大师",
+            "link": "https://book.douban.com/search/%E5%A4%AA%E8%99%9A%E5%A4%A7%E5%B8%88"
+        },
+        {
+            "text": "东方出版社",
+            "link": "https://book.douban.com/press/2731"
+        },
+        {
+            "text": "佛学入门四书",
+            "link": "https://book.douban.com/series/32448"
+        }
+    ],
+    "tag": "佛教"
+}

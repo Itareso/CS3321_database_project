@@ -1,0 +1,82 @@
+{
+    "title": "替身",
+    "bookInfo": {
+        "作者": "[日本] 青山七惠",
+        "出版社": "四川文艺出版社",
+        "出品方": "酷威文化",
+        "原作名": "みがわり",
+        "译者": "李雨萍 / 李雨萍/雪小朵",
+        "出版年": "2022-10",
+        "页数": "256",
+        "定价": "42.00",
+        "ISBN": "9787541164156"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ★芥川奖、川端奖得主，《一个人的好天气》作者——青山七惠全新力作，重磅引进！以引起中国年轻一代读者广泛共鸣的轻盈语调，讲述人与人关系里的细碎温柔。    ★畅销书《一个人的好天气》作者青山七惠题材突破力作！融合青山七惠个人真实经历的“私小说”，首次以“小说家”为创作主角。    ★感人泪下的姐妹成长物语！回忆无声无息地积累，顷刻便在我们体内掀起狂风巨浪。    ★多维度视角变换叙事，草蛇灰线的细节伏笔，故事之中嵌套故事，带你穿越一场模糊了现实与虚构的往昔之梦。    ★如果命运是可以任意改写的故事，你会渴望怎样的人生？    【内容简介】    一场用纸和文字进行的冒险，一次被童话掩埋的人生互换。    无人问津的新人作家园洲律，接到神秘女人梗子的写作委托，内容是替对方已逝的姐姐百合创作传记。当作家一点一点拼凑起百合的人生时，也不经意间揭开了这对姐妹的身世秘密。    意外身亡的姐姐百合、行踪不定的丈夫青磁、骄纵任性的女儿沙罗……关于这个家族的一切恩怨纠葛，或许都要从姐妹俩的童年游戏说起……\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "14.7%",
+        "four_star_rate": "30.6%",
+        "three_star_rate": "43.2%",
+        "two_star_rate": "9.8%",
+        "one_star_rate": "1.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4527477/",
+            "name": "青山七惠",
+            "role": "作者",
+            "douban_id": "4527477"
+        },
+        {
+            "link": "https://book.douban.com/author/4634138/",
+            "name": "李雨萍",
+            "role": "译者",
+            "douban_id": "4634138"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.90元",
+            "link": "https://read.douban.com/ebook/422137737/?dcs=subject-buylink&dcm=douban&dct=36065625"
+        },
+        {
+            "name": "得到",
+            "price": "19.90元",
+            "link": "https://www.dedao.cn/ebook/detail?id=bODoM61kAj9Rql84gzG5nVNZopXKY3DqGdJwJLrBmEDv2QPMOyx7a6e1dbPQj2Zd&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVkTWAEBUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVlhYD0gRHDZNRwYlGFNDSlw5QEx0Bj9tYhJSFVwcHT0qaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXQ4FVFpbAUIeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXQNsCFgKVwwWSD9mG1oVVQYKU19tCkoWAW04K2sRW3YCDzsFbylPahVRWD10IE9wIzotACl5ATRSE11GXVgCNikqDE0UVjV9K1gl&cntvendor=5&srcsubj=36065625&type=bkbuy&subject=36065625"
+        },
+        {
+            "name": "当当网",
+            "price": "36.10元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=dangdang&srcpage=subject&price=3610&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36065625%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29457404&cntvendor=5&srcsubj=36065625&type=bkbuy&subject=36065625"
+        },
+        {
+            "name": "中图网",
+            "price": "24.10元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=bookschina&srcpage=subject&price=2410&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8936260.htm&cntvendor=5&srcsubj=36065625&type=bkbuy&subject=36065625"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36065625/",
+    "douban_id": "36065625",
+    "menu": [
+        "",
+        "        1.吉兆蜂",
+        "        2.不需要企鹅",
+        "        3.奇妙的野生动物园",
+        "        4.不唱歌的玛利亚老师",
+        "        5.涂浅蓝色的少女",
+        "        6.丁香爆炸",
+        "        7.想象自传",
+        "        8.面包店的圣人",
+        "        9.人情、面子、雨",
+        "        10.我的一切",
+        "        窗的另一侧",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

@@ -1,0 +1,82 @@
+{
+    "title": "因果天使",
+    "bookInfo": {
+        "作者": "[芬兰] 哈努·拉贾涅米",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "副标题": "“侠盗若昂”三部曲03",
+        "原作名": "The Causal Angel",
+        "译者": "孙加",
+        "出版年": "2018-8",
+        "页数": "317",
+        "定价": "36",
+        "装帧": "平装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536487376"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "46.4%",
+        "four_star_rate": "36.3%",
+        "three_star_rate": "13.1%",
+        "two_star_rate": "3.0%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4627456/",
+            "name": "哈努·拉贾涅米",
+            "role": "作者",
+            "douban_id": "4627456"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "16.99元",
+            "link": "https://read.douban.com/ebook/336399844/?dcs=subject-buylink&dcm=douban&dct=27081781"
+        },
+        {
+            "name": "京东商城",
+            "price": "18.00元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=jingdong&srcpage=subject&price=1800&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF4XXQ8DXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEgYrUCx3VCpITw5hGnEBKFdYXgwfdRFadVlFHw9aPAZeSgtveylQeC1-WxFCWCokcCJgSgxUbzJDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZSNSEPXSx_Cg1_Sw5sHlt-XAIWEjd3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFpYDEMTAW44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSW1QHBl0zVE1ASD1IHQx7XQYFV1peCEknAW4JGVklbTZEDCgFbytARi9cTi9SKgV-XVsLT0NhfT1mGQtXVF5qDF0fSDNvRTdrbTATbQUy&cntvendor=4&srcsubj=27081781&type=bkbuy&subject=27081781"
+        },
+        {
+            "name": "当当网",
+            "price": "36.00元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=dangdang&srcpage=subject&price=3600&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27081781%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25339783&cntvendor=4&srcsubj=27081781&type=bkbuy&subject=27081781"
+        },
+        {
+            "name": "中图网",
+            "price": "26.60元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=bookschina&srcpage=subject&price=2660&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7937536.htm&cntvendor=4&srcsubj=27081781&type=bkbuy&subject=27081781"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27081781/",
+    "douban_id": "27081781",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29843235.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[芬兰] 哈努·拉贾涅米",
+            "link": "https://book.douban.com/author/4627456"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "孙加",
+            "link": "https://book.douban.com/search/%E5%AD%99%E5%8A%A0"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

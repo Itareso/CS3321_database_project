@@ -1,0 +1,65 @@
+{
+    "title": "我是猫",
+    "bookInfo": {
+        "作者": "[日] 夏目漱石",
+        "出版社": "北京燕山出版社",
+        "原作名": "我輩が猫である",
+        "译者": "任艳红",
+        "出版年": "2018-8",
+        "定价": "39.80元",
+        "装帧": "平装",
+        "ISBN": "9787540253776"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.8%",
+        "four_star_rate": "45.8%",
+        "three_star_rate": "25.0%",
+        "two_star_rate": "5.5%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503311/",
+            "name": "夏目漱石",
+            "role": "作者",
+            "douban_id": "4503311"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "8.90元",
+            "link": "https://book.douban.com/link2/?lowest=890&pre=0&vendor=jingdong&srcpage=subject&price=890&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwWVAIFV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOVDgASzt-dWleHBpSNHxiDgw7UEl_BBJodVlwNUVkIh0Pdh1WQm9uf15eORFCWCokcCxgWm9LbFltBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZlXB01cENlcwpIQwwdG0ZcU15dTTJ3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVpaAE0VCm84G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHUAozVE1ARjRRRQh7XQcEVFleCUonAW4JGVklbTYCMgMeeCJhBTkPWhx8J2ZYBjgFCiMQfg9mGT59HmB0FwwjXgpWAwlsHhBxbQUy&cntvendor=3&srcsubj=33427959&type=bkbuy&subject=33427959"
+        },
+        {
+            "name": "当当网",
+            "price": "14.10元",
+            "link": "https://book.douban.com/link2/?lowest=890&pre=0&vendor=dangdang&srcpage=subject&price=1410&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s33427959%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27885008&cntvendor=3&srcsubj=33427959&type=bkbuy&subject=33427959"
+        },
+        {
+            "name": "中图网",
+            "price": "12.90元",
+            "link": "https://book.douban.com/link2/?lowest=890&pre=0&vendor=bookschina&srcpage=subject&price=1290&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8112419.htm&cntvendor=3&srcsubj=33427959&type=bkbuy&subject=33427959"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33427959/",
+    "douban_id": "33427959",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33493907.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 夏目漱石",
+            "link": "https://book.douban.com/author/4503311"
+        },
+        {
+            "text": "北京燕山出版社",
+            "link": "https://book.douban.com/press/2634"
+        },
+        {
+            "text": "任艳红",
+            "link": "https://book.douban.com/search/%E4%BB%BB%E8%89%B3%E7%BA%A2"
+        }
+    ],
+    "tag": "经典"
+}

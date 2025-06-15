@@ -1,0 +1,88 @@
+{
+    "title": "一个革命的幸存者",
+    "bookInfo": {
+        "作者": "曾志",
+        "出版社": "四川人民出版社",
+        "副标题": "曾志回忆录",
+        "出版年": "2020-4",
+        "页数": "506",
+        "定价": "78.00元",
+        "装帧": "平装",
+        "ISBN": "9787220113819"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.1%",
+        "four_star_rate": "43.0%",
+        "three_star_rate": "12.3%",
+        "two_star_rate": "3.8%",
+        "one_star_rate": "2.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4616623/",
+            "name": "曾志",
+            "role": "作者",
+            "douban_id": "4616623"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "48.00元",
+            "link": "https://read.douban.com/ebook/423721458/?dcs=subject-buylink&dcm=douban&dct=35019620"
+        },
+        {
+            "name": "京东商城",
+            "price": "50.47元",
+            "link": "https://book.douban.com/link2/?lowest=4700&pre=0&vendor=jingdong&srcpage=subject&price=5047&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwXVQcHVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU1xVCU4XHDZNRwYlNXFYFCgpVU93QydJfg50LgZaKjs6XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LVFlaAEoWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8SWlZsCFgHVxUSXzdmGFMdWwYFV1ZtCkoWAW04K2twLVZaND5aYxFfYzxzWicdL1hWUgVfTUx5AW9oHCtpBVlYDgoJbTt1AA12K1gl&cntvendor=4&srcsubj=35019620&type=bkbuy&subject=35019620"
+        },
+        {
+            "name": "当当网",
+            "price": "67.10元",
+            "link": "https://book.douban.com/link2/?lowest=4700&pre=0&vendor=dangdang&srcpage=subject&price=6709&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35019620%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28534506&cntvendor=4&srcsubj=35019620&type=bkbuy&subject=35019620"
+        },
+        {
+            "name": "中图网",
+            "price": "47.00元",
+            "link": "https://book.douban.com/link2/?lowest=4700&pre=0&vendor=bookschina&srcpage=subject&price=4700&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8275477.htm&cntvendor=4&srcsubj=35019620&type=bkbuy&subject=35019620"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35019620/",
+    "douban_id": "35019620",
+    "menu": [
+        "",
+        "        第一章 少儿时代",
+        "        第二章 初涉洪流",
+        "        第三章 经历失败",
+        "        第四章 井冈上下",
+        "        第五章 白区岁月",
+        "        第六章 驰骋闽东",
+        "        第七章 千里寻党",
+        "        第八章 武汉重逢",
+        "        第九章 两条战线",
+        "        第十章 宝塔山下",
+        "        第十一章 转战东北",
+        "        第十二章 工业书记",
+        "        第十三章 陶铸落难",
+        "        第十四章 监管插队",
+        "        第十五章 北京供养",
+        "        第十六章 耀邦麾下",
+        "        第十七章 照人余光",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34382928.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "曾志",
+            "link": "https://book.douban.com/search/%E6%9B%BE%E5%BF%97"
+        },
+        {
+            "text": "四川人民出版社",
+            "link": "https://book.douban.com/press/2449"
+        }
+    ],
+    "tag": "人物传记"
+}

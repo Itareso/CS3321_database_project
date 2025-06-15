@@ -1,0 +1,141 @@
+{
+    "title": "驱魔",
+    "bookInfo": {
+        "作者": "韩松",
+        "出版社": "上海文艺出版社",
+        "出版年": "2017-5",
+        "页数": "271",
+        "定价": "35.00元",
+        "装帧": "平装",
+        "丛书": "医院三部曲",
+        "ISBN": "9787532163465"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.9%",
+        "four_star_rate": "38.5%",
+        "three_star_rate": "30.8%",
+        "two_star_rate": "8.1%",
+        "one_star_rate": "4.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/238835/",
+            "name": "韩松",
+            "role": "作者",
+            "douban_id": "238835"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "12.00元",
+            "link": "https://read.douban.com/ebook/43742346/?dcs=subject-buylink&dcm=douban&dct=27064871"
+        },
+        {
+            "name": "京东商城",
+            "price": "18.20元",
+            "link": "https://book.douban.com/link2/?lowest=1820&pre=0&vendor=jingdong&srcpage=subject&price=1820&pos=2&url=https%3A%2F%2Fitem.jd.com%2F47022099442.html&cntvendor=4&srcsubj=27064871&type=bkbuy&subject=27064871"
+        },
+        {
+            "name": "当当网",
+            "price": "19.70元",
+            "link": "https://book.douban.com/link2/?lowest=1820&pre=0&vendor=dangdang&srcpage=subject&price=1970&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27064871%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25106971&cntvendor=4&srcsubj=27064871&type=bkbuy&subject=27064871"
+        },
+        {
+            "name": "中图网",
+            "price": "24.80元",
+            "link": "https://book.douban.com/link2/?lowest=1820&pre=0&vendor=bookschina&srcpage=subject&price=2480&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7542222.htm&cntvendor=4&srcsubj=27064871&type=bkbuy&subject=27064871"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27064871/",
+    "douban_id": "27064871",
+    "menu": [
+        "",
+        "        大海和鸟笼",
+        "        1.从前皆非今是",
+        "        2.尘满面，鬓如霜",
+        "        3.余生寄叶舟",
+        "        4.使君能得几回来",
+        "        5.老夫聊发少年狂",
+        "        6.佳处辄迟留",
+        "        7.竹杖芒鞋轻胜马",
+        "        8.遗恨寄沧州",
+        "        9.夜来幽梦忽还乡",
+        "        10.倚天无数开青壁",
+        "        11.谁道人生无再少",
+        "        12.休将白发唱黄鸡",
+        "        13.红颜蔚不衰",
+        "        14.死生契阔君休问",
+        "        15.算来著甚干忙",
+        "        16.知命无忧子何病",
+        "        17.斜阳正与长安对",
+        "        18.翁今为飞仙",
+        "        19.高处不胜寒",
+        "        20.空里浮花梦里身",
+        "        21.欲寻遗址强沾裳",
+        "        22.鸟囚不忘飞",
+        "        23.歌君江湖曲",
+        "        死亡及艺术",
+        "        1.吾生行且休",
+        "        2.本自无生可得亡",
+        "        3.与君各赋一篇诗",
+        "        4.跻攀寸步千险",
+        "        5.人生如逆旅",
+        "        6.总是少年行乐处",
+        "        7.清香凝夜宴",
+        "        8.万劫终飞灰",
+        "        9.且将新火试新茶",
+        "        10.衣带渐宽无别意",
+        "        11.千古风流人物",
+        "        12.破帽多情却恋头",
+        "        13.我今忘我兼忘世",
+        "        14.来日苦无多",
+        "        战争与和平",
+        "        1.欲问兴亡意",
+        "        2.舟中行客何所爱",
+        "        3.山人更吃懒残残",
+        "        4.旧官何物与新官",
+        "        5.借聊旧史诛奸强",
+        "        6.西南火星如弹丸",
+        "        7.犀甲檀枪百万军",
+        "        8.困兽何须杀",
+        "        9.漂流百战偶然存",
+        "        10.唯酒可忘忧",
+        "        11.天教分付点酥娘",
+        "        12.纵使相逢应不识",
+        "        13.事皆前定，谁弱又谁强",
+        "        14.未满三朝已食牛",
+        "        15.秾艳一枝细看取",
+        "        16.狂走儿童闹歌舞",
+        "        17.真个成归计",
+        "        18.到处逢君是主人",
+        "        19.自叹才尽倾空罍",
+        "        20.首入汉庭身委地",
+        "        21.将死微言犹可录",
+        "        22.天涯何处无芳草",
+        "        23.长恨此身非我有",
+        "        24.白衣仙人在高堂",
+        "        25.乐事回头一笑空",
+        "        26.独回首，烟波里",
+        "        附录 医疗人工智能简史",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29496952.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "韩松",
+            "link": "https://book.douban.com/search/%E9%9F%A9%E6%9D%BE"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        },
+        {
+            "text": "医院三部曲",
+            "link": "https://book.douban.com/series/38451"
+        }
+    ],
+    "tag": "科幻"
+}

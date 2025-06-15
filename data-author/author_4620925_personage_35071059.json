@@ -1,0 +1,49 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.2,
+                        "title": "凛冬之刃",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34518326.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/36282772/",
+                        "year": "2023",
+                        "id": 36282772
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4620925/",
+    "author_douban_id": "4620925",
+    "personage_id": 35071059,
+    "name": [
+        "于小千",
+        "Xiaoqian Yu"
+    ],
+    "intro": "编剧，毕业于中国传媒大学。2006-2007年期间担任情景喜剧《家有儿女》三、四部签约编剧；2010-2012年担任电视剧《满秋》《雷哥老范》编剧，情景喜剧《圆圆的故事》联合编剧，凭借《晚秋》荣获第四届新农村电视艺术节优秀农村题材电视剧评奖最佳电视剧等奖项；2013-2014年担任电视剧《最美的时光》主编剧以及《金玉良缘》编剧，后者荣获2014年中国大学生电视剧最受大学生瞩目古装传奇题材电视剧；2015爱奇艺之夜年度华语电视剧等奖项；2015-2019年担任电视剧《乌鸦嘴妙女郎》《花谢花飞花满天》联合编剧，电视剧《不能没有家》《王初一和刘十五》《这个世界不看脸》编剧；2020年担任电视剧《扫黑风暴》《我的砍价女王》《我们为什么会分手》《凛冬之刃》《石头开花》的多部作品编剧；2021年电影《扫黑·拨云见日》编剧；2022年影视剧《漫长的季节》编剧。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/35071059/photo/2891740708"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2891740708.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/348ca01dc86b7789548b46f5345ef2ca.jpg",
+    "sex": 1,
+    "birth_date": 1978,
+    "age": 48,
+    "birth_place": [
+        "中国",
+        "山东"
+    ],
+    "IMDB": "nm12832295",
+    "profession": [
+        "编剧",
+        "作者"
+    ]
+}

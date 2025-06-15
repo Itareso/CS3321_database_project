@@ -1,0 +1,89 @@
+{
+    "title": "变形记",
+    "bookInfo": {
+        "作者": "[奥地利] 弗朗茨·卡夫卡",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "读客文化",
+        "原作名": "Die Verwandlung（德语）、The Metamorphosis（英语）",
+        "译者": "姬健梅",
+        "出版年": "2019-12",
+        "页数": "256",
+        "定价": "45.9",
+        "装帧": "平装",
+        "丛书": "三个圈经典文库",
+        "ISBN": "9787559404572"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "44.5%",
+        "four_star_rate": "40.4%",
+        "three_star_rate": "12.4%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4539732/",
+            "name": "弗兰茨·卡夫卡",
+            "role": "作者",
+            "douban_id": "4539732"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "9.90元",
+            "link": "https://read.douban.com/ebook/125933958/?dcs=subject-buylink&dcm=douban&dct=34839265"
+        },
+        {
+            "name": "得到",
+            "price": "9.90元",
+            "link": "https://www.dedao.cn/ebook/detail?id=DAOVMEb6LKoq7rM4DAYENOVl8XBgJ3Qg8N01v5kjeam9ZxzbQGn2PpyRdYQ2L8mX&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "26.60元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=jingdong&srcpage=subject&price=2660&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0RXQEFUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUlpdD0wTHDZNRwYlFFp0Elo0cgp1BBkAbyMUGVoBBi0ATkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcGUllZC0wTM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFkXCQZsCFgKTRFfAW5mG1ocWQAEVFptCkoWAW04K2t3NUJAJFsAWhMeB258YShVB216ESUUcDB5AQ9uTjNzH3R3DBYVaiNfUAleK1gl&cntvendor=4&srcsubj=34839265&type=bkbuy&subject=34839265"
+        },
+        {
+            "name": "中图网",
+            "price": "20.70元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=bookschina&srcpage=subject&price=2070&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8197513.htm&cntvendor=4&srcsubj=34839265&type=bkbuy&subject=34839265"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34839265/",
+    "douban_id": "34839265",
+    "menu": [
+        "",
+        "        一                          001",
+        "        二                          041",
+        "        三                          085",
+        "        给父亲的一封信    129",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33503611.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[奥地利] 弗朗茨·卡夫卡",
+            "link": "https://book.douban.com/author/4539732"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "读客文化",
+            "link": "https://book.douban.com/producers/6"
+        },
+        {
+            "text": "姬健梅",
+            "link": "https://book.douban.com/search/%E5%A7%AC%E5%81%A5%E6%A2%85"
+        },
+        {
+            "text": "三个圈经典文库",
+            "link": "https://book.douban.com/series/41603"
+        }
+    ],
+    "tag": "经典"
+}

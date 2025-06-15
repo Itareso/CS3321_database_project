@@ -1,0 +1,92 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "肯定的火",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35088173.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37192500/",
+                        "year": "2025",
+                        "id": 37192500
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "月球",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34006209.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35578815/",
+                        "year": "2021",
+                        "id": 35578815
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "我愿意学习发抖",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29920624.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30360045/",
+                        "year": "2019",
+                        "id": 30360045
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "新北京人",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29633382.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27194515/",
+                        "year": "2018",
+                        "id": 27194515
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "正午时踏进光焰",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29895367.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30346621/",
+                        "year": "2018",
+                        "id": 30346621
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4611676/",
+    "author_douban_id": "4611676",
+    "personage_id": 35367702,
+    "name": [
+        "郭爽",
+        "Shuang Guo"
+    ],
+    "intro": "1984年出生于贵州，祖父母是支援贵州建设的科技工作者，父亲开过一家书店。17岁时考入厦门大学，学习中国语言文学。2005年大学毕业后进入广州的报社工作。2009年起在广州、香港的报纸开设专栏。2016年从报社辞职，开始发表小说。《正午时踏进光焰》是郭爽于2018年出版的首部小说集，展示了她在小说创作上的才华，获得了广泛的好评和认可 。《我愿意学习发抖》出版于2019年，郭爽通过这部作品深入探索了个人心灵和童年记忆，融合了虚构与非虚构的元素，获得了多个文学奖项 。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/celebrity/m/public/p1623138889.12.jpg",
+    "sex": 0,
+    "birth_date": 1984,
+    "age": 42,
+    "birth_place": [
+        "中国",
+        "贵州"
+    ],
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

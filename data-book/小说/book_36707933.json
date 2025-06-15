@@ -1,0 +1,63 @@
+{
+    "title": "不能赢的辩护",
+    "bookInfo": {
+        "作者": "[英] 史蒂夫·卡瓦纳",
+        "出版社": "北京日报出版社",
+        "出品方": "酷威文化",
+        "原作名": "The Defence",
+        "译者": "叶旻臻",
+        "出版年": "2024-4",
+        "页数": "336",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "丛书": "艾迪·弗林系列",
+        "ISBN": "9787547747957"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.6%",
+        "four_star_rate": "37.7%",
+        "three_star_rate": "28.3%",
+        "two_star_rate": "4.2%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624692/",
+            "name": "史蒂夫·卡瓦纳",
+            "role": "作者",
+            "douban_id": "4624692"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.20元",
+            "link": "https://read.douban.com/ebook/472594754/?dcs=subject-buylink&dcm=douban&dct=36707933"
+        },
+        {
+            "name": "得到",
+            "price": "19.20元",
+            "link": "https://www.dedao.cn/ebook/detail?id=5lZOKpMGr9mgdOvYa6Ej75XRo1NML3jOdd1wk8ZVzb2nqPpDxBeJlK4AyQ8RPQv2&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=jingdong&srcpage=subject&price=2400&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQIJK1olXwIEVFxdAE8SBV8IHl8VWwICVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHUF5bDEsWHDZNRwYlBhx5HB8peD13AC8SUCBTIXFWKVs8XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXQ4FU1xZD0wUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8WCgBsCFgKVk8fXypmE1MQXQcLUW5fCUoVAV84KzBiJkAAURgiWy50VjkAGw53HwJ7V1wEVSUVfBMIbF5TCUBRUlg2fyoSBBI4GGs&cntvendor=5&srcsubj=36707933&type=bkbuy&subject=36707933"
+        },
+        {
+            "name": "当当网",
+            "price": "41.30元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=dangdang&srcpage=subject&price=4130&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36707933%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29701591&cntvendor=5&srcsubj=36707933&type=bkbuy&subject=36707933"
+        },
+        {
+            "name": "中图网",
+            "price": "30.30元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=bookschina&srcpage=subject&price=3030&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9289508.htm&cntvendor=5&srcsubj=36707933&type=bkbuy&subject=36707933"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36707933/",
+    "douban_id": "36707933",
+    "menu": [],
+    "tag": "小说"
+}

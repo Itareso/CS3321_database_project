@@ -1,0 +1,52 @@
+{
+    "title": "日复一日",
+    "bookInfo": {
+        "作者": "[匈]特雷齐娅·莫拉 / 特雷西娅·莫拉",
+        "出版社": "广西师范大学出版社",
+        "出品方": "新民说",
+        "原作名": "Alle Tage",
+        "译者": "贾苳",
+        "出版年": "2023-3",
+        "页数": "528",
+        "定价": "99.00元",
+        "装帧": "精装",
+        "ISBN": "9787559856555"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "47.1%",
+        "four_star_rate": "24.3%",
+        "three_star_rate": "27.1%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4640545/",
+            "name": "特雷西娅·莫拉",
+            "role": "作者",
+            "douban_id": "4640545"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "55.44元",
+            "link": "https://book.douban.com/link2/?lowest=5544&pre=0&vendor=jingdong&srcpage=subject&price=5544&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVIXVQ8KU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAXVxVAUMQHDZNRwYlDl1hJAYlfB93Bj9QZUV3Kk4LCQAjXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXQ4EUFZdDEseM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHgsUDQdsCFgKVgpUBDlmG1oWWQcHXFhtCkoWAW04K2scXn4CKzsUcCJ_eTYAWjloKFpdUjc9by55ATVVZFhCXVl7PSsoAUh1Qz0IK1gl&cntvendor=3&srcsubj=36176992&type=bkbuy&subject=36176992"
+        },
+        {
+            "name": "当当网",
+            "price": "55.70元",
+            "link": "https://book.douban.com/link2/?lowest=5544&pre=0&vendor=dangdang&srcpage=subject&price=5570&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36176992%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29522253&cntvendor=3&srcsubj=36176992&type=bkbuy&subject=36176992"
+        },
+        {
+            "name": "中图网",
+            "price": "64.40元",
+            "link": "https://book.douban.com/link2/?lowest=5544&pre=0&vendor=bookschina&srcpage=subject&price=6440&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9031166.htm&cntvendor=3&srcsubj=36176992&type=bkbuy&subject=36176992"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36176992/",
+    "douban_id": "36176992",
+    "menu": [],
+    "tag": "小说"
+}

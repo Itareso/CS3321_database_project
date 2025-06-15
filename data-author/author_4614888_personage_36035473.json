@@ -1,0 +1,59 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "刹那",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34324491.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35965080/",
+                        "year": "2022",
+                        "id": 35965080
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "鹌鹑",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33610334.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34969939/",
+                        "year": "2020",
+                        "id": 34969939
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "冷雨",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29938801.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30362714/",
+                        "year": "2019",
+                        "id": 30362714
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614888/",
+    "author_douban_id": "4614888",
+    "personage_id": 36035473,
+    "name": [
+        "郭沛文"
+    ],
+    "intro": "郭沛文，1991 年出生于湖南澧县，现居长沙。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/fb521bb4db394e0217538389e3ae14b9.jpg",
+    "profession": [
+        "作者"
+    ]
+}

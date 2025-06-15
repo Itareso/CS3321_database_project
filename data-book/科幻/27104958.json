@@ -1,0 +1,90 @@
+{
+    "title": "环裂",
+    "bookInfo": {
+        "作者": "[日] 铃木光司",
+        "出版社": "人民文学出版社",
+        "出品方": "99读书人",
+        "译者": "赵秀娟",
+        "出版年": "2017-12",
+        "页数": "316",
+        "定价": "48.00元",
+        "装帧": "精装",
+        "丛书": "贞子之环",
+        "ISBN": "9787020132102"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "12.7%",
+        "four_star_rate": "28.7%",
+        "three_star_rate": "48.7%",
+        "two_star_rate": "6.0%",
+        "one_star_rate": "4.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/121076/",
+            "name": "铃木光司",
+            "role": "作者",
+            "douban_id": "121076"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "18.00元",
+            "link": "https://read.douban.com/ebook/134112485/?dcs=subject-buylink&dcm=douban&dct=27104958"
+        },
+        {
+            "name": "得到",
+            "price": "18.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=VEDA2bKO27MKbRardAGJ1N4ln9BLVwgnjD38ZQyXmYqg5PpkEjxovze6DB84dpj6&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "16.20元",
+            "link": "https://book.douban.com/link2/?lowest=1620&pre=0&vendor=jingdong&srcpage=subject&price=1620&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQIKVVxZAEsWM2wPGF8WXA4EXFxUOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocV1leDEgWC2kAGVIKBENeCW46bjJRUQl7fDljDW5aDgMWbhkTChBeF1clWgMFUllUC0wnA2sJH18lbQYDZB8zDU0RAmg4GVsUXAMCXFleCXsXBWoJGFsTVQUHVVhVOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgSUTpaHQl7AQBUVRsGTwh5A28MGlsXXQ8yVl9cCkknM18IfQZWLW90UghaSQxqXxNzTj1NBk5GHyIzCi5_QAl-WAlrC0dDJF1bQSxzM2w4&cntvendor=4&srcsubj=27104958&type=bkbuy&subject=27104958"
+        },
+        {
+            "name": "中图网",
+            "price": "26.10元",
+            "link": "https://book.douban.com/link2/?lowest=1620&pre=0&vendor=bookschina&srcpage=subject&price=2610&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7689412.htm&cntvendor=4&srcsubj=27104958&type=bkbuy&subject=27104958"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27104958/",
+    "douban_id": "27104958",
+    "menu": [
+        "",
+        "        序曲",
+        "        第一章 渺远之记忆",
+        "        第二章 冥冥中的指引",
+        "        第三章 午夜凶铃",
+        "        第四章 噩梦",
+        "        尾声",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29657539.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 铃木光司",
+            "link": "https://book.douban.com/author/121076"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "99读书人",
+            "link": "https://book.douban.com/producers/1"
+        },
+        {
+            "text": "赵秀娟",
+            "link": "https://book.douban.com/search/%E8%B5%B5%E7%A7%80%E5%A8%9F"
+        },
+        {
+            "text": "贞子之环",
+            "link": "https://book.douban.com/series/41022"
+        }
+    ],
+    "tag": "科幻"
+}

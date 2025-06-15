@@ -1,0 +1,56 @@
+{
+    "title": "中国轨道号",
+    "bookInfo": {
+        "作者": "吴岩",
+        "出版社": "安徽少年儿童出版社",
+        "出版年": "2020-12-1",
+        "定价": "35.00元",
+        "装帧": "平装",
+        "ISBN": "9787570709564"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "55.1%",
+        "four_star_rate": "24.5%",
+        "three_star_rate": "15.3%",
+        "two_star_rate": "4.1%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "18.20元",
+            "link": "https://book.douban.com/link2/?lowest=1430&pre=0&vendor=jingdong&srcpage=subject&price=1820&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0cWwQFVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUldbCkwVHDZNRwYlX3gGVBUmYQB1QA1BGTtXOl5xCywNXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYGXV9UAU0WM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNSQwVCQ5sCFgKQxERQChmG1sXWA4FXV9tCkoWAW04K2sRW3YCDzsFbylPahgMYw1NW09-MgoVVg55ATRSE11GXVgCNikqDE1JSGh9K1gl&cntvendor=2&srcsubj=35308301&type=bkbuy&subject=35308301"
+        },
+        {
+            "name": "中图网",
+            "price": "14.30元",
+            "link": "https://book.douban.com/link2/?lowest=1430&pre=0&vendor=bookschina&srcpage=subject&price=1430&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8507730.htm&cntvendor=2&srcsubj=35308301&type=bkbuy&subject=35308301"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35308301/",
+    "douban_id": "35308301",
+    "menu": [
+        "",
+        "        第一章  水系  001",
+        "        第二章  舱门  065",
+        "        第三章  飞壑  133",
+        "        第四章  飘灯  177",
+        "        后记                251",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33824454.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "吴岩",
+            "link": "https://book.douban.com/search/%E5%90%B4%E5%B2%A9"
+        },
+        {
+            "text": "安徽少年儿童出版社",
+            "link": "https://book.douban.com/press/2238"
+        }
+    ],
+    "tag": "科幻"
+}

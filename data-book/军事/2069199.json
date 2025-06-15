@@ -1,0 +1,66 @@
+{
+    "title": "武器事典",
+    "bookInfo": {
+        "作者": "市川定春",
+        "出版社": "汕头大学出版社",
+        "出版年": "2006-12",
+        "页数": "365",
+        "定价": "39.80元",
+        "ISBN": "9787811200232"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "8.2%",
+        "four_star_rate": "47.4%",
+        "three_star_rate": "41.2%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/115793/",
+            "name": "市川定春",
+            "role": "作者",
+            "douban_id": "115793"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/2069199/",
+    "douban_id": "2069199",
+    "menu": [
+        "",
+        "        本书的读法",
+        "        1　刀剑",
+        "        刀剑类各部名称（剑/剑身/西洋花式剑柄（swept hilt））",
+        "        2　匕首",
+        "        3　长柄",
+        "        长柄类各部名称（长柄武器/骑兵长矛）",
+        "        4　打击",
+        "        打击类各部名称（斧/连枷）",
+        "        5　射击",
+        "        射击类各部名称（弓/弓矢/十字弓（弩）枪/主要射击武器的射程）",
+        "        6　投掷",
+        "        主要投掷武器的射程",
+        "        7　特殊",
+        "        主要特殊武器的射程",
+        "        8　大型兵器",
+        "        大型兵器类各部名称（大炮/主要大型兵器的射程）",
+        "        参考文献",
+        "        索引",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s2521181.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "市川定春",
+            "link": "https://book.douban.com/search/%E5%B8%82%E5%B7%9D%E5%AE%9A%E6%98%A5"
+        },
+        {
+            "text": "汕头大学出版社",
+            "link": "https://book.douban.com/press/2224"
+        }
+    ],
+    "tag": "军事"
+}

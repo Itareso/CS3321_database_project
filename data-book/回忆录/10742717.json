@@ -1,0 +1,93 @@
+{
+    "title": "单独作战",
+    "bookInfo": {
+        "作者": "(英)温斯顿·丘吉尔",
+        "出版社": "译林出版社",
+        "副标题": "丘吉尔第二次世界大战回忆录04",
+        "原作名": "Alone",
+        "译者": "李平沤 等",
+        "出版年": "2012-8",
+        "页数": "323",
+        "定价": "35.80元",
+        "丛书": "丘吉尔第二次世界大战回忆录",
+        "ISBN": "9787544727983"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    在《单独作战：丘吉尔第二次世界大战回忆录》中，作者温斯顿·丘吉尔讲述了二战初期作为首相兼第一财政大臣、国防大臣和下院领袖，在德国对英国发动致命攻击之际，在缺乏外来援助的情况下，率领全英国人民英勇奋战，共同度过了战争的最困难时期。其间，英国人民虽孤立无援，却始终坚守堡垒，顽强抵抗德国飞机不分昼夜的空袭。北非形势更不容乐观，意大利人也乘机不断蚕食北非国家。在这种形势下，英国政府积极寻求美国、西班牙等国家的支持，以图联合对抗法西斯主义的进一步扩张。        瑞典学院在授予丘吉尔诺贝尔文学奖的颁奖词中说：“丘吉尔的演讲用词洗练、文思敏捷、精辟中的、感人肺腑。他的演讲似乎具有重新锻造历史的力量。……在关乎人类自由和尊严的千钧一发之际，丘吉尔以其独特的雄辩鼓舞了人们的斗志。或许，正是这些伟大的演讲，为他树立了不朽的丰碑。”        《单独作战：丘吉尔第二次世界大战回忆录》由译林出版社出版发行。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "46.2%",
+        "four_star_rate": "44.9%",
+        "three_star_rate": "5.1%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "2.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502522/",
+            "name": "温斯顿·丘吉尔",
+            "role": "作者",
+            "douban_id": "4502522"
+        },
+        {
+            "link": "https://book.douban.com/author/4509709/",
+            "name": "李平沤",
+            "role": "译者",
+            "douban_id": "4509709"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "11.05元",
+            "link": "https://www.dedao.cn/eBook/poVrgXBZpKrJvLmo89Q4bD7O1de2aWAdKJ0YgXGPxBMVzqlRNk5j6yEnAa9E576Q?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "39.50元",
+            "link": "https://book.douban.com/link2/?lowest=3950&pre=0&vendor=jingdong&srcpage=subject&price=3950&pos=2&url=https%3A%2F%2Fitem.jd.com%2F10070640968545.html&cntvendor=2&srcsubj=10742717&type=bkbuy&subject=10742717"
+        }
+    ],
+    "url": "https://book.douban.com/subject/10742717/",
+    "douban_id": "10742717",
+    "menu": [
+        "",
+        "        第一章 不列颠之战",
+        "        第二章 闪电战",
+        "        第三章 “伦敦毫不在乎”",
+        "        第四章 巫术战",
+        "        第五章 美国驱逐舰和西印度群岛的基地",
+        "        第六章 埃及与中东",
+        "        第七章 取道地中海",
+        "        第八章 九月的紧张局势",
+        "        第九章 达喀尔",
+        "        第十章 艾登先生的使命",
+        "        第十一章 同维希和西班牙的关系",
+        "        第十二章 墨索里尼进攻希腊",
+        "        第十三章 租借法案",
+        "        第十四章 德国与俄国",
+        "        第十五章 海上的灾难",
+        "        第十六章 沙漠中的胜利",
+        "        附录",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s22702923.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "(英)温斯顿·丘吉尔",
+            "link": "https://book.douban.com/search/%E6%B8%A9%E6%96%AF%E9%A1%BF%C2%B7%E4%B8%98%E5%90%89%E5%B0%94"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "李平沤 等",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E5%B9%B3%E6%B2%A4%20%E7%AD%89"
+        },
+        {
+            "text": "丘吉尔第二次世界大战回忆录",
+            "link": "https://book.douban.com/series/12845"
+        }
+    ],
+    "tag": "回忆录"
+}

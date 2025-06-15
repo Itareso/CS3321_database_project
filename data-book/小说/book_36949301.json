@@ -1,0 +1,54 @@
+{
+    "title": "蓝色的雪",
+    "bookInfo": {
+        "作者": "[日] 麻加朋",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "酷威文化",
+        "原作名": "青い雪",
+        "译者": "向燕萍",
+        "出版年": "2024-7",
+        "页数": "320",
+        "定价": "45.00元",
+        "ISBN": "9787559487605"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.4%",
+        "four_star_rate": "36.3%",
+        "three_star_rate": "22.9%",
+        "two_star_rate": "10.4%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "22.50元",
+            "link": "https://read.douban.com/ebook/481541702/?dcs=subject-buylink&dcm=douban&dct=36949301"
+        },
+        {
+            "name": "得到",
+            "price": "22.50元",
+            "link": "https://www.dedao.cn/ebook/detail?id=poVrgXBZpKrJvLmo89Q4bD7O1de2aWAqAgmWYgXGPxBMVzqlRNk5j6yEnAa9E576&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "22.50元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=jingdong&srcpage=subject&price=2250&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHlgWWgcKUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHV11aCUMRHDZNRwYlKV5iCB5acx50cDNoHg9XDltYUwwJXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeBl8IHV4UXQ4EVFpfD0IWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwITAtCWAZsCFgKVh1CUWZmG1oUVAcCVF5tCkoWAW04K2tvNFJJKlsaXxtQWTEAGiB0KnpBFTcFWgN5ARV1WjJvFnZwBBcUciJNWyRoK1gl&cntvendor=5&srcsubj=36949301&type=bkbuy&subject=36949301"
+        },
+        {
+            "name": "当当网",
+            "price": "38.70元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=dangdang&srcpage=subject&price=3870&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36949301%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29758326&cntvendor=5&srcsubj=36949301&type=bkbuy&subject=36949301"
+        },
+        {
+            "name": "中图网",
+            "price": "27.10元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=bookschina&srcpage=subject&price=2710&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9384695.htm&cntvendor=5&srcsubj=36949301&type=bkbuy&subject=36949301"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36949301/",
+    "douban_id": "36949301",
+    "menu": [],
+    "tag": "小说"
+}

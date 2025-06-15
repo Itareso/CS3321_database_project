@@ -1,0 +1,85 @@
+{
+    "title": "超频交易商",
+    "bookInfo": {
+        "作者": "谢云宁",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "副标题": "谢云宁科幻小说选",
+        "出版年": "2017-10",
+        "定价": "30.00元",
+        "装帧": "平装",
+        "丛书": "科幻世界·中国科幻基石丛书",
+        "ISBN": "9787536487918"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "14.5%",
+        "four_star_rate": "35.5%",
+        "three_star_rate": "35.5%",
+        "two_star_rate": "14.5%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611825/",
+            "name": "谢云宁",
+            "role": "作者",
+            "douban_id": "4611825"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "5.99元",
+            "link": "https://read.douban.com/ebook/46238173/?dcs=subject-buylink&dcm=douban&dct=27159401"
+        },
+        {
+            "name": "京东商城",
+            "price": "15.00元",
+            "link": "https://book.douban.com/link2/?lowest=1500&pre=0&vendor=jingdong&srcpage=subject&price=1500&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFgRVAAHXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOVgE7WjUSdB90f1hWWGJXNAMoSipMcRBMdVlHGmddEww1bzdseG1XHCF9WxFCWCokcChjYG9JbDJDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ5XBc8d0JxaA14fTxSG15UDQonATxBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVC0kVBGc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYBAFkzVE1BAipTSFJ7XQYGXFlZCkwnAW4JGVklbTYACzgPdk5gcxNsGBgQOVNiCSsfaRBlfCtmGQlSPFlFBjY6dDBsATAPYTMTbQUy&cntvendor=3&srcsubj=27159401&type=bkbuy&subject=27159401"
+        },
+        {
+            "name": "当当网",
+            "price": "30.00元",
+            "link": "https://book.douban.com/link2/?lowest=1500&pre=0&vendor=dangdang&srcpage=subject&price=3000&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27159401%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25183953&cntvendor=3&srcsubj=27159401&type=bkbuy&subject=27159401"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27159401/",
+    "douban_id": "27159401",
+    "menu": [
+        "",
+        "        回溯",
+        "        深度撞击",
+        "        宇宙涟漪中的星球",
+        "        宇宙涟漪中的魔法师",
+        "        梦绕地心",
+        "        星际灯塔",
+        "        五块石传奇",
+        "        恒河边的乞讨者",
+        "        超频交易商",
+        "        超频反击",
+        "        搭便车",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29595593.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "谢云宁",
+            "link": "https://book.douban.com/search/%E8%B0%A2%E4%BA%91%E5%AE%81"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "科幻世界·中国科幻基石丛书",
+            "link": "https://book.douban.com/series/38"
+        }
+    ],
+    "tag": "科幻"
+}

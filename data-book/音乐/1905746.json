@@ -1,0 +1,64 @@
+{
+    "title": "音乐史学原理",
+    "bookInfo": {
+        "作者": "卡尔·达尔豪斯 / Carl Darlhaus",
+        "出版社": "上海音乐学院出版社",
+        "译者": "杨燕迪",
+        "出版年": "2006",
+        "页数": "290",
+        "定价": "26.00元",
+        "装帧": "平装",
+        "丛书": "上音译丛",
+        "ISBN": "9787806922279"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "67.6%",
+        "four_star_rate": "26.8%",
+        "three_star_rate": "4.2%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609018/",
+            "name": "杨燕迪",
+            "role": "译者",
+            "douban_id": "4609018"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "206.20元",
+            "link": "https://book.douban.com/link2/?lowest=20620&pre=0&vendor=jingdong&srcpage=subject&price=20620&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgAAV1dfAE8XBV8IGloQWA4GUlxeCksWBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoNE18TXwUAVF9YFxJSXzI4eB0PHmMAC1g-cxdXfWxQHBxRKFRqElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwABUlZYOEkXAm4NG1MSXgcyVFhYCU4fBGcNG1sTXDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlxcCkkQbTMOQQdcGUJVOl1VAUMUCmkKK1kUXAQAZG5tdyxsSA9oGy4WCkVCJzcCACx1WjJqeQBLMwRpPS06cQBNV2x7RjJKPmR3E25eOA&cntvendor=1&srcsubj=1905746&type=bkbuy&subject=1905746"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1905746/",
+    "douban_id": "1905746",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s1884412.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "卡尔·达尔豪斯",
+            "link": "https://book.douban.com/search/%E5%8D%A1%E5%B0%94%C2%B7%E8%BE%BE%E5%B0%94%E8%B1%AA%E6%96%AF"
+        },
+        {
+            "text": "Carl Darlhaus",
+            "link": "https://book.douban.com/search/Carl%20Darlhaus"
+        },
+        {
+            "text": "上海音乐学院出版社",
+            "link": "https://book.douban.com/press/2724"
+        },
+        {
+            "text": "杨燕迪",
+            "link": "https://book.douban.com/author/4609018/"
+        },
+        {
+            "text": "上音译丛",
+            "link": "https://book.douban.com/series/33663"
+        }
+    ],
+    "tag": "音乐"
+}

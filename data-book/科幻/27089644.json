@@ -1,0 +1,81 @@
+{
+    "title": "环溯",
+    "bookInfo": {
+        "出版社": "人民文学出版社",
+        "出品方": "99读书人",
+        "译者": "吴曦",
+        "出版年": "2018-1",
+        "页数": "344",
+        "定价": "48.00元",
+        "装帧": "精装",
+        "丛书": "贞子之环",
+        "ISBN": "9787020131037"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "9.9%",
+        "four_star_rate": "19.9%",
+        "three_star_rate": "46.8%",
+        "two_star_rate": "17.0%",
+        "one_star_rate": "6.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/121076/",
+            "name": "铃木光司",
+            "role": "作者",
+            "douban_id": "121076"
+        },
+        {
+            "link": "https://book.douban.com/author/4617170/",
+            "name": "吴曦",
+            "role": "",
+            "douban_id": "4617170"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "20.00元",
+            "link": "https://read.douban.com/ebook/134112543/?dcs=subject-buylink&dcm=douban&dct=27089644"
+        },
+        {
+            "name": "得到",
+            "price": "20.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=rEQKv6PKN7rEo2Gxg96ZjApyMvQVlw5z860Xb14PJzDkYaReqd8n5LOmB8d7egBx&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "22.74元",
+            "link": "https://book.douban.com/link2/?lowest=2274&pre=0&vendor=jingdong&srcpage=subject&price=2274&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQQCV11fC0oXM2wPGlsRXgEBVFpZOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocV1lcCE8UBGwIH18KBENeCW4fTChLaARYezkWCUFwLgcPew9XAm1oF1clWgMFUllUC0wnA2sJH18lbQYDZB8zDUsWCm04GVsUXAMCXFleCXsXBWoJGFsTVQUBVFdbOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgRAGsLGVN7AQBUVRsFX0x5A28OGVoWVAUyVl9cCkknM19tawtNPWYFPwQVaC9jRW5ofgVuBFlWAAgzCkt3BB90QwRPB1JWCT4IXwBpM2w4&cntvendor=4&srcsubj=27089644&type=bkbuy&subject=27089644"
+        },
+        {
+            "name": "中图网",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2274&pre=0&vendor=bookschina&srcpage=subject&price=2450&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7689413.htm&cntvendor=4&srcsubj=27089644&type=bkbuy&subject=27089644"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27089644/",
+    "douban_id": "27089644",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29657544.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "99读书人",
+            "link": "https://book.douban.com/producers/1"
+        },
+        {
+            "text": "吴曦",
+            "link": "https://book.douban.com/author/4616215"
+        },
+        {
+            "text": "贞子之环",
+            "link": "https://book.douban.com/series/41022"
+        }
+    ],
+    "tag": "科幻"
+}

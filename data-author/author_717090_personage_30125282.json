@@ -1,0 +1,50 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "老虎与不夜城",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33514790.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34821347/",
+                        "year": "2019",
+                        "id": 34821347
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "决战语文书",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s26379389.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/24381273/",
+                        "year": "2013",
+                        "id": 24381273
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/717090/",
+    "author_douban_id": "717090",
+    "personage_id": 30125282,
+    "name": [
+        "陈志炜"
+    ],
+    "intro": "陈志炜，1989年4月28日出生于浙江宁波，曾获得过第八届全国新概念作文大赛二等奖、第五届全球华人少年美文大赛少年美文奖等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "sex": 1,
+    "birth_date": 1989,
+    "age": 37,
+    "profession": [
+        "作者"
+    ]
+}

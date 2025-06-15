@@ -1,0 +1,76 @@
+{
+    "title": "无梦之境",
+    "bookInfo": {
+        "作者": "七堇年",
+        "出版社": "人民文学出版社",
+        "出版年": "2018-4-12",
+        "定价": "39.00元",
+        "装帧": "平装",
+        "丛书": "七堇年作品",
+        "ISBN": "9787020140381"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "12.2%",
+        "four_star_rate": "26.4%",
+        "three_star_rate": "43.4%",
+        "two_star_rate": "14.9%",
+        "one_star_rate": "3.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/201939/",
+            "name": "七堇年",
+            "role": "作者",
+            "douban_id": "201939"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "29.10元",
+            "link": "https://book.douban.com/link2/?lowest=1580&pre=0&vendor=jingdong&srcpage=subject&price=2910&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFkXXQ4LUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVlxdAEITHDZNRwYlAFMGVltHQD13cx1xRF5iHwZQFD4peEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYEXF1dD04XM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1oXCA5sCFgLCQ5OSCdmG1sSWAEKVF9tCkoWAW04K2sWVH9QND4lVhJLBi5OexxvOlMEAgA-ay55ATxXeFJLD3QLDSMgC0JgWmhJK1gl&cntvendor=3&srcsubj=30188473&type=bkbuy&subject=30188473"
+        },
+        {
+            "name": "当当网",
+            "price": "23.40元",
+            "link": "https://book.douban.com/link2/?lowest=1580&pre=0&vendor=dangdang&srcpage=subject&price=2340&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30188473%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25257615&cntvendor=3&srcsubj=30188473&type=bkbuy&subject=30188473"
+        },
+        {
+            "name": "中图网",
+            "price": "15.80元",
+            "link": "https://book.douban.com/link2/?lowest=1580&pre=0&vendor=bookschina&srcpage=subject&price=1580&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7746340.htm&cntvendor=3&srcsubj=30188473&type=bkbuy&subject=30188473"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30188473/",
+    "douban_id": "30188473",
+    "menu": [
+        "",
+        "        自序 空山问雪",
+        "        序幕",
+        "        第一章",
+        "        第二章",
+        "        第三章",
+        "        第四章",
+        "        第五章",
+        "        尾声",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29926280.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "七堇年",
+            "link": "https://book.douban.com/author/201939"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "七堇年作品",
+            "link": "https://book.douban.com/series/23843"
+        }
+    ],
+    "tag": "科幻"
+}

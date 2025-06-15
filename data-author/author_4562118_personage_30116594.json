@@ -1,0 +1,147 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "莲花白",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34690941.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36635744/",
+                        "year": "2023",
+                        "id": 36635744
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "米莲分",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34290238.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36065839/",
+                        "year": "2022",
+                        "id": 36065839
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "把时间浪费在美好的事物上：经典版",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34333347.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35170231/",
+                        "year": "2020",
+                        "id": 35170231
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "女朋友们",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33668882.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35097104/",
+                        "year": "2020",
+                        "id": 35097104
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "善意如清流",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29157621.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26907498/",
+                        "year": "2017",
+                        "id": 26907498
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "和喜欢的一切在一起",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28064004.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26381771/",
+                        "year": "2015",
+                        "id": 26381771
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "绝妙的馊主意",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27975129.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/25985365/",
+                        "year": "2015",
+                        "id": 25985365
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "真怕你是个乖孩子",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s25799882.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/21336944/",
+                        "year": "2013",
+                        "id": 21336944
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "红酒",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s26829451.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/20474250/",
+                        "year": "2013",
+                        "id": 20474250
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "远远的村庄",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s9095642.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/10736589/",
+                        "year": "2012",
+                        "id": 10736589
+                    }
+                }
+            ],
+            "total": 99
+        }
+    },
+    "author_link": "https://book.douban.com/author/4562118/",
+    "author_douban_id": "4562118",
+    "personage_id": 30116594,
+    "name": [
+        "宁远",
+        "Yuan Ning"
+    ],
+    "intro": "宁不远（曾用名：宁远 ）",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/bf4d5a1126d47ff559f60d6c6ecf1de4.jpg",
+    "更多中文名": "宁不远",
+    "sex": 0,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

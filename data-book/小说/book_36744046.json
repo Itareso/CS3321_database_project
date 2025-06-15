@@ -1,0 +1,58 @@
+{
+    "title": "珍珠",
+    "bookInfo": {
+        "作者": "[美] 约翰·斯坦贝克",
+        "出版社": "上海译文出版社",
+        "原作名": "The Pearl",
+        "译者": "巫宁坤",
+        "出版年": "2024-4",
+        "页数": "152",
+        "定价": "78.00元",
+        "装帧": "精装",
+        "丛书": "企鹅布纹经典",
+        "ISBN": "9787532791729"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "21.3%",
+        "four_star_rate": "52.5%",
+        "three_star_rate": "24.8%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/165838/",
+            "name": "约翰·斯坦贝克",
+            "role": "作者",
+            "douban_id": "165838"
+        },
+        {
+            "link": "https://book.douban.com/author/348223/",
+            "name": "巫宁坤",
+            "role": "译者",
+            "douban_id": "348223"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "38.20元",
+            "link": "https://book.douban.com/link2/?lowest=3820&pre=0&vendor=jingdong&srcpage=subject&price=3820&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQkJK1olXwQCVl9aAEseCl8IGlsVXAACV1xcDkMTBF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA28JHVsWXwcEXFpaFxJSXzI4YSYLNA5QIgE-dgNPADtbGV0VIXNDAlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXXgAKU1heOEkXAm4NG1MSXgcyVFhYCUsfBGsPGlsXXjYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRXVkJChxHbTMOTAUXAlRGOlZVCkoRAWo4GVoUXwQyZG4bUD1PZA9fXhtBCEVhISY5b05vYG9WaCF7X1ZAXQY1UEhVQzJpXSdeO38EZF1t&cntvendor=3&srcsubj=36744046&type=bkbuy&subject=36744046"
+        },
+        {
+            "name": "当当网",
+            "price": "74.90元",
+            "link": "https://book.douban.com/link2/?lowest=3820&pre=0&vendor=dangdang&srcpage=subject&price=7490&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36744046%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29695258&cntvendor=3&srcsubj=36744046&type=bkbuy&subject=36744046"
+        },
+        {
+            "name": "中图网",
+            "price": "50.10元",
+            "link": "https://book.douban.com/link2/?lowest=3820&pre=0&vendor=bookschina&srcpage=subject&price=5010&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9276849.htm&cntvendor=3&srcsubj=36744046&type=bkbuy&subject=36744046"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36744046/",
+    "douban_id": "36744046",
+    "menu": [],
+    "tag": "小说"
+}

@@ -1,0 +1,55 @@
+{
+    "title": "日界线",
+    "bookInfo": {
+        "作者": "夏茗悠",
+        "出版社": "华文出版社",
+        "出版年": "2010-3",
+        "页数": "250",
+        "定价": "23.00元",
+        "装帧": "平装",
+        "ISBN": "9787507530407"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.9%",
+        "four_star_rate": "39.0%",
+        "three_star_rate": "32.2%",
+        "two_star_rate": "4.8%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/171359/",
+            "name": "夏茗悠",
+            "role": "作者",
+            "douban_id": "171359"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "9.80元",
+            "link": "https://book.douban.com/link2/?lowest=980&pre=0&vendor=jingdong&srcpage=subject&price=980&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQQJK1olXQMLXVpZC00UBV8MGV4XWQ8FVl5UAHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSlpfDUkTCmgKG1IdQl9HCANtVEsfQip6YAh1Gl5VKD0mdylLfRMAa1cZbQEHU1haAUgQM28MGl8RbTYCVW4cZksWAm0NH1MSbQQCVV9YCEMQAG44G10QXAMKV1xZCUwQA18IE18lhIa1gvzP0dWd1uefK2slXjYyZF5tC3tJbW5bElxBX1FSOgJbUhERVS1YdVgdWQ4FUV1YOEkWAm0KK2slCFZ-Bz49CQNSfB9aSAltDnFWBg4hVxlubW1QRSdFCFUCDBspfDZ2UzYIUmsWbQ&cntvendor=2&srcsubj=4246952&type=bkbuy&subject=4246952"
+        },
+        {
+            "name": "中图网",
+            "price": "11.80元",
+            "link": "https://book.douban.com/link2/?lowest=980&pre=0&vendor=bookschina&srcpage=subject&price=1180&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F4540291.htm&cntvendor=2&srcsubj=4246952&type=bkbuy&subject=4246952"
+        }
+    ],
+    "url": "https://book.douban.com/subject/4246952/",
+    "douban_id": "4246952",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s6136495.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "夏茗悠",
+            "link": "https://book.douban.com/search/%E5%A4%8F%E8%8C%97%E6%82%A0"
+        },
+        {
+            "text": "华文出版社",
+            "link": "https://book.douban.com/press/2499"
+        }
+    ],
+    "tag": "校园"
+}

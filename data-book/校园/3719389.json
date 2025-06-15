@@ -1,0 +1,70 @@
+{
+    "title": "1年级鲜事多",
+    "bookInfo": {
+        "作者": "王淑芬 / 绘者 赖马  / 绘者 赖马",
+        "出版社": "河北少年儿童出版社",
+        "副标题": "君伟上小学",
+        "出版年": "2009-4",
+        "页数": "120",
+        "定价": "10.00元",
+        "装帧": "平装",
+        "丛书": "君伟上小学",
+        "ISBN": "9787537633253"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "65.7%",
+        "four_star_rate": "28.4%",
+        "three_star_rate": "3.0%",
+        "two_star_rate": "3.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4551977/",
+            "name": "王淑芬",
+            "role": "作者",
+            "douban_id": "4551977"
+        },
+        {
+            "link": "https://book.douban.com/author/4625887/",
+            "name": "赖马",
+            "role": "绘者",
+            "douban_id": "4625887"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "13.11元",
+            "link": "https://book.douban.com/link2/?lowest=1311&pre=0&vendor=jingdong&srcpage=subject&price=1311&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQQCV11fC0oXM28JGl4WXQADXF5bDUgQMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWBmwIHVodXQAHV1lCUQ5LXl9vbBBKAX9WND4pUAtrVBxzWiEVPEByWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHlsUVAQyVl5cCU4XC2gLGmsVWwMDUVdVAEwXAm8KK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggTXwdRA1kzVE1NWy0BUlJ7Xg4GXVdbDEMnAW4JGVklbTZCEwcZWAhcQShcWhNxWH9kPVwGby9qUyxmHBtTVEFQECEofhtzXzlzbRtsbQUy&cntvendor=1&srcsubj=3719389&type=bkbuy&subject=3719389"
+        }
+    ],
+    "url": "https://book.douban.com/subject/3719389/",
+    "douban_id": "3719389",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s3789394.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "王淑芬",
+            "link": "https://book.douban.com/author/4551977/"
+        },
+        {
+            "text": "绘者 赖马",
+            "link": "https://book.douban.com/search//"
+        },
+        {
+            "text": "绘者 赖马",
+            "link": "https://book.douban.com/author/4625887/"
+        },
+        {
+            "text": "河北少年儿童出版社",
+            "link": "https://book.douban.com/press/2595"
+        },
+        {
+            "text": "君伟上小学",
+            "link": "https://book.douban.com/series/909"
+        }
+    ],
+    "tag": "校园"
+}

@@ -1,0 +1,58 @@
+{
+    "title": "死在火星上",
+    "bookInfo": {
+        "作者": "天瑞说符",
+        "出版社": "青岛出版社",
+        "出版年": "2022-1",
+        "定价": "98.00元",
+        "装帧": "平装",
+        "ISBN": "9787555291732"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "31.7%",
+        "four_star_rate": "39.6%",
+        "three_star_rate": "21.0%",
+        "two_star_rate": "5.3%",
+        "one_star_rate": "2.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4625036/",
+            "name": "天瑞说符",
+            "role": "作者",
+            "douban_id": "4625036"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "58.00元",
+            "link": "https://book.douban.com/link2/?lowest=5800&pre=0&vendor=jingdong&srcpage=subject&price=5800&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10045382896606.html&cntvendor=1&srcsubj=35356241&type=bkbuy&subject=35356241"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35356241/",
+    "douban_id": "35356241",
+    "menu": [
+        "",
+        "        第一卷 地球消失之日",
+        "        第二卷 孤独的红色荒原",
+        "        第三卷 在世界的边缘遥望",
+        "        第四卷 天空中的遇难船",
+        "        第五卷 最后的拯救之路",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34103716.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "天瑞说符",
+            "link": "https://book.douban.com/author/4625036"
+        },
+        {
+            "text": "青岛出版社",
+            "link": "https://book.douban.com/press/2818"
+        }
+    ],
+    "tag": "科幻"
+}

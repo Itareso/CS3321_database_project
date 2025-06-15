@@ -1,0 +1,66 @@
+{
+    "title": "思想的黄昏",
+    "bookInfo": {
+        "作者": "[罗]埃米尔·齐奥朗",
+        "出版社": "花城出版社",
+        "原作名": "Amurgul gândurilor",
+        "译者": "陆象淦",
+        "出版年": "2019-6",
+        "页数": "212",
+        "定价": "42.00",
+        "装帧": "平装",
+        "丛书": "蓝色东欧",
+        "ISBN": "9787536085114"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    齐奥朗是罗马尼亚伟大作家，享有世界声誉，在中国有相当多的读者。“蓝色东欧”从多年前即开始寻找其版权，因其离群索居且无子嗣而困难重重。此次终于通过罗马尼亚版协寻到其罗马尼亚语版权，且由罗语权威陆象淦老师翻译，相信出版后会引起良好的社会反响。 《思想的黄昏》是齐奥朗标志性的断章体的作品。全书分为十四部分，每一部分都由数十甚至上百个独立段落组成。文笔简洁、含义深邃、耐咀嚼。这是他在1940年出版的用罗马尼亚语撰写的作品，作品体现哲学化色彩：个人化乃至自传性的，警句格言式的思想及语言。以探索人生、生死、命运、信仰、孤独、爱情等问题及其价值为主题，视野开阔、联想丰富、言辞犀利，充分调动作为社会批判利器的逆向思维的魅力。作品中黑色幽默的语句频出。他始终是一个孤独而清醒的旁观者，又是一个勇于主动打破虚伪和粉饰太平的人。他用无情、冷峻的口吻揭示出生命和生活潜在的真谛。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "36.6%",
+        "four_star_rate": "35.4%",
+        "three_star_rate": "22.4%",
+        "two_star_rate": "2.7%",
+        "one_star_rate": "2.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1056964/",
+            "name": "E. M. 齐奥朗",
+            "role": "作者",
+            "douban_id": "1056964"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.21元",
+            "link": "https://book.douban.com/link2/?lowest=2121&pre=0&vendor=jingdong&srcpage=subject&price=2121&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQAFVV9UDEsQM2gOHFwTXgIBU1xUOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocU1haD00UB2wPGVIKBENeCW4qDTINAWxSGT5XK1p9UC0qCEoVcyd4F1clWgMFUllUC0wnA2sJH18lbQYDZB8zDUofBGo4GVsUXAMCXFdUCnsXBWoJHlMWXAYDUV9ZOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgQBmYIG197AQBYDl9aAQ15AGcBHFIcWwAyVl9cCkknM19AWDt-VWYKCBgZfBd8WxJ4YQtPHmNkVBczCh1OfSxfcDlIG2RwUBocATURM2w4&cntvendor=2&srcsubj=30488074&type=bkbuy&subject=30488074"
+        },
+        {
+            "name": "中图网",
+            "price": "35.30元",
+            "link": "https://book.douban.com/link2/?lowest=2121&pre=0&vendor=bookschina&srcpage=subject&price=3529&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8428070.htm&cntvendor=2&srcsubj=30488074&type=bkbuy&subject=30488074"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30488074/",
+    "douban_id": "30488074",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s32319666.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[罗]埃米尔·齐奥朗",
+            "link": "https://book.douban.com/search/%E5%9F%83%E7%B1%B3%E5%B0%94%C2%B7%E9%BD%90%E5%A5%A5%E6%9C%97"
+        },
+        {
+            "text": "花城出版社",
+            "link": "https://book.douban.com/press/2536"
+        },
+        {
+            "text": "陆象淦",
+            "link": "https://book.douban.com/search/%E9%99%86%E8%B1%A1%E6%B7%A6"
+        },
+        {
+            "text": "蓝色东欧",
+            "link": "https://book.douban.com/series/11080"
+        }
+    ],
+    "tag": "西方哲学"
+}

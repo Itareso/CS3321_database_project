@@ -1,0 +1,74 @@
+{
+    "title": "布鲁克林有棵树",
+    "bookInfo": {
+        "作者": "[美]贝蒂·史密斯",
+        "出版社": "上海文艺出版社",
+        "出品方": "新东方大愚文化",
+        "原作名": "A Tree Grows in Brooklyn",
+        "译者": "任爱红",
+        "出版年": "2024-6",
+        "页数": "526",
+        "定价": "79.9元",
+        "装帧": "精装",
+        "ISBN": "9787532189434"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "75.0%",
+        "four_star_rate": "22.6%",
+        "three_star_rate": "2.4%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1828653/",
+            "name": "贝蒂·史密斯",
+            "role": "作者",
+            "douban_id": "1828653"
+        },
+        {
+            "link": "https://book.douban.com/author/4616852/",
+            "name": "任爱红",
+            "role": "译者",
+            "douban_id": "4616852"
+        },
+        {
+            "link": "https://book.douban.com/author/4635445/",
+            "name": "李茵豆",
+            "role": "绘者",
+            "douban_id": "4635445"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "23.97元",
+            "link": "https://book.douban.com/link2/?lowest=2397&pre=0&vendor=jingdong&srcpage=subject&price=2397&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZsJK1olXwIEVFxdAE8SBV8IHlwcWwULV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEQonYyt3ZGhsSQMTNE9pAAEldRxsYzFVdVlMBgRWNjUocy9ncypcclMQIBFCWCokaCxucBRKbTJtBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ-MB02dlVLaAxIaR1IKkcCUhVeVhZnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYNK1sTWAcCXFpUAUMXBWs4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQD1NQUgwzVE1AXC4ARwh7VQ8LUlhUCXsVAm4KGWslbUNWLjU9aCwQZz1QHTJcNlJdLCMKcytJXgEKQgAXCWRpISU5eDtSVwYAHiYlXjY&cntvendor=3&srcsubj=36943002&type=bkbuy&subject=36943002"
+        },
+        {
+            "name": "当当网",
+            "price": "79.90元",
+            "link": "https://book.douban.com/link2/?lowest=2397&pre=0&vendor=dangdang&srcpage=subject&price=7990&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36943002%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29749417&cntvendor=3&srcsubj=36943002&type=bkbuy&subject=36943002"
+        },
+        {
+            "name": "中图网",
+            "price": "50.50元",
+            "link": "https://book.douban.com/link2/?lowest=2397&pre=0&vendor=bookschina&srcpage=subject&price=5050&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9469674.htm&cntvendor=3&srcsubj=36943002&type=bkbuy&subject=36943002"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36943002/",
+    "douban_id": "36943002",
+    "menu": [
+        "",
+        "        插画",
+        "        第一卷",
+        "        第二卷",
+        "        第三卷",
+        "        第四卷",
+        "        第五卷",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

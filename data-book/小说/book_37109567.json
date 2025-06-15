@@ -1,0 +1,76 @@
+{
+    "title": "阿缪莱特酒店",
+    "bookInfo": {
+        "作者": "[日] 方丈贵惠",
+        "出版社": "新星出版社",
+        "原作名": "アミュレット·ホテル",
+        "译者": "吕灵芝",
+        "出版年": "2024-12",
+        "页数": "256",
+        "定价": "52.00元",
+        "装帧": "平装",
+        "丛书": "午夜文库·日系佳作",
+        "ISBN": "9787513355704"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "3.4%",
+        "four_star_rate": "19.0%",
+        "three_star_rate": "57.5%",
+        "two_star_rate": "17.2%",
+        "one_star_rate": "2.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609268/",
+            "name": "方丈贵惠",
+            "role": "作者",
+            "douban_id": "4609268"
+        },
+        {
+            "link": "https://book.douban.com/author/4612202/",
+            "name": "吕灵芝",
+            "role": "译者",
+            "douban_id": "4612202"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "28.99元",
+            "link": "https://read.douban.com/ebook/489317795/?dcs=subject-buylink&dcm=douban&dct=37109567"
+        },
+        {
+            "name": "得到",
+            "price": "28.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=gO8xJGVarB2qEQoplXvY14JRbVdnz0zE16awjPmyDANKge8O65LG7Mk9xZYk69Zr&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "28.60元",
+            "link": "https://book.douban.com/link2/?lowest=2600&pre=0&vendor=jingdong&srcpage=subject&price=2860&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlkRXgcHUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOHwwKCDseChloGTNFKVALBBcVThB-A2ljdVlKAUJQC14KUitlcSRaUl1cAhFCWCokaCtjYDpMbDJHBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZWSjoDAR9Afw9NRz9nC2Z_VzgEUh1RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFdYAE0RBWw4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQD1NQUgwzVE1AQmcPTFl7XQcDXVxbDkgnAW4JGVklbTZJBgldeEIedQ8KcwthCw9SHRYbUyIXBQRmGQRJGVRdVAkHaDllSD1BHRJKbQUy&cntvendor=5&srcsubj=37109567&type=bkbuy&subject=37109567"
+        },
+        {
+            "name": "当当网",
+            "price": "26.00元",
+            "link": "https://book.douban.com/link2/?lowest=2600&pre=0&vendor=dangdang&srcpage=subject&price=2600&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s37109567%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29827883&cntvendor=5&srcsubj=37109567&type=bkbuy&subject=37109567"
+        },
+        {
+            "name": "中图网",
+            "price": "36.90元",
+            "link": "https://book.douban.com/link2/?lowest=2600&pre=0&vendor=bookschina&srcpage=subject&price=3690&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9481420.htm&cntvendor=5&srcsubj=37109567&type=bkbuy&subject=37109567"
+        }
+    ],
+    "url": "https://book.douban.com/subject/37109567/",
+    "douban_id": "37109567",
+    "menu": [
+        "",
+        "        Episode 1 阿缪莱特酒店",
+        "        Episode 0 年度犯罪者颁奖典礼上的谋杀",
+        "        Episode 2 谢绝生客",
+        "        Episode 3 泰坦的谋杀",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

@@ -1,0 +1,39 @@
+{
+    "title": "夫朋妻友(上)",
+    "bookInfo": {
+        "作者": "焰雪雪",
+        "出版社": "威向",
+        "出版年": "2009-11-5",
+        "定价": "NT$190",
+        "装帧": "平装",
+        "ISBN": "9789862065464"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.9%",
+        "four_star_rate": "44.1%",
+        "three_star_rate": "23.2%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/270165/",
+            "name": "焰雪雪",
+            "role": "作者",
+            "douban_id": "270165"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/3676441/",
+    "douban_id": "3676441",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s3731544.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "焰雪雪",
+            "link": "https://book.douban.com/author/270165/"
+        }
+    ],
+    "tag": "校园"
+}

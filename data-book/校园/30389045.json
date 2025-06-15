@@ -1,0 +1,44 @@
+{
+    "title": "スキップとローファー 1",
+    "bookInfo": {
+        "作者": "高松 美咲",
+        "出版社": "講談社",
+        "出版年": "2019-1-23",
+        "页数": "192",
+        "定价": "JPY 680",
+        "丛书": "スキップとローファー",
+        "ISBN": "9784065142097"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "68.1%",
+        "four_star_rate": "25.9%",
+        "three_star_rate": "5.2%",
+        "two_star_rate": "0.5%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4622797/",
+            "name": "高松美咲",
+            "role": "绘者",
+            "douban_id": "4622797"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/30389045/",
+    "douban_id": "30389045",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29986473.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "高松 美咲",
+            "link": "https://book.douban.com/search/%E9%AB%98%E6%9D%BE%20%E7%BE%8E%E5%92%B2"
+        },
+        {
+            "text": "スキップとローファー",
+            "link": "https://book.douban.com/series/47536"
+        }
+    ],
+    "tag": "校园"
+}

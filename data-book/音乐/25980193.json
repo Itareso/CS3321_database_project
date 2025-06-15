@@ -1,0 +1,101 @@
+{
+    "title": "纸上交响",
+    "bookInfo": {
+        "作者": "陈子善",
+        "出版社": "百花文艺出版社",
+        "出版年": "2014-8",
+        "页数": "152",
+        "定价": "23.00元",
+        "装帧": "精装",
+        "丛书": "百花谭文丛",
+        "ISBN": "9787530664520"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "12.2%",
+        "four_star_rate": "56.1%",
+        "three_star_rate": "24.4%",
+        "two_star_rate": "7.3%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4523165/",
+            "name": "陈子善",
+            "role": "作者",
+            "douban_id": "4523165"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "9.90元",
+            "link": "https://www.dedao.cn/eBook/DLnMGAEG7gKLyYmkAbPaEXxD8BM4J0LMAqWROrpdZn19VNzv2o5e6lqjQQ1poxqy?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "10.90元",
+            "link": "https://book.douban.com/link2/?lowest=790&pre=0&vendor=jingdong&srcpage=subject&price=1090&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG18XWQILVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCUFxZDEIVHDZNRwYlOW9eAC5Hek90RhljQj0XB1hkEiJfXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LV1lbCkseM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8SWg5sCFgHVwtHASZmGFMdWwIDV1xtCkoWAW04K2sRW3YCDzsFbylPagxxG11pXU96Aw4afix5ATRSE11GXVgCNikqDE0TRy59K1gl&cntvendor=4&srcsubj=25980193&type=bkbuy&subject=25980193"
+        },
+        {
+            "name": "当当网",
+            "price": "11.50元",
+            "link": "https://book.douban.com/link2/?lowest=790&pre=0&vendor=dangdang&srcpage=subject&price=1150&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25980193%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23613186&cntvendor=4&srcsubj=25980193&type=bkbuy&subject=25980193"
+        },
+        {
+            "name": "中图网",
+            "price": "7.90元",
+            "link": "https://book.douban.com/link2/?lowest=790&pre=0&vendor=bookschina&srcpage=subject&price=790&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5925395.htm&cntvendor=4&srcsubj=25980193&type=bkbuy&subject=25980193"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25980193/",
+    "douban_id": "25980193",
+    "menu": [
+        "",
+        "        我的古典音乐之旅（代序）",
+        "        辑一",
+        "        新文学巨匠笔下的瓦格纳",
+        "        音乐会奇缘：徐志摩、林徽因与克赖斯勒",
+        "        沈从文与莫扎特",
+        "        刘荣恩：迷恋古典音乐的新诗人",
+        "        谭小麟、欣德米特和傅雷",
+        "        别开生面的音乐评论",
+        "        张爱玲说《毛毛雨》",
+        "        辑二",
+        "        我买到了萧友梅签名本",
+        "        《贝多芬传》初版本",
+        "        闪亮的生命",
+        "        对莫扎特的新阐释",
+        "        激动，为什么激动",
+        "        不断延伸的音乐子午线",
+        "        傅聪望七了",
+        "        走近施波尔",
+        "        赏乐日记三则",
+        "        辑三",
+        "        《雅人乐话》之我见",
+        "        浅释“流动的经典”",
+        "        李欧梵的《音乐的遐思》",
+        "        投向音乐海",
+        "        附录",
+        "        读完《想乐》听古典音乐马玥浩",
+        "        跋",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s27461030.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "陈子善",
+            "link": "https://book.douban.com/search/%E9%99%88%E5%AD%90%E5%96%84"
+        },
+        {
+            "text": "百花文艺出版社",
+            "link": "https://book.douban.com/press/2588"
+        },
+        {
+            "text": "百花谭文丛",
+            "link": "https://book.douban.com/series/25300"
+        }
+    ],
+    "tag": "音乐"
+}

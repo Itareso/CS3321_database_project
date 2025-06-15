@@ -1,0 +1,66 @@
+{
+    "title": "领导力",
+    "bookInfo": {
+        "作者": "刘澜",
+        "出版社": "北京大学出版社",
+        "副标题": "解决挑战性难题",
+        "出版年": "2018-6",
+        "页数": "309",
+        "定价": "48",
+        "装帧": "平装",
+        "ISBN": "9787301295991"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "47.5%",
+        "four_star_rate": "39.0%",
+        "three_star_rate": "10.2%",
+        "two_star_rate": "2.5%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4631193/",
+            "name": "刘澜",
+            "role": "作者",
+            "douban_id": "4631193"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "38.40元",
+            "link": "https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0R9Yrw8XDBK9qZpgkRELd75z4Ma6oDRrqjY&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "34.20元",
+            "link": "https://book.douban.com/link2/?lowest=3420&pre=0&vendor=jingdong&srcpage=subject&price=3420&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFkdXgEHVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVlZeD04VHDZNRwYlL2F4AD4tUBR3XXVUZxhpOGBnDiwleEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GUVhbAEMQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCgZsCFgHVEhORytmGFMdWQ4LU1ZtCkoWAW04K2tCH29RXD5bS0pBQzZUTiRSD3gBHCsEQwx5AStQYxkXDllCVT0-XwlIAiRUK1gl&cntvendor=4&srcsubj=30469267&type=bkbuy&subject=30469267"
+        },
+        {
+            "name": "当当网",
+            "price": "45.60元",
+            "link": "https://book.douban.com/link2/?lowest=3420&pre=0&vendor=dangdang&srcpage=subject&price=4560&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30469267%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25313982&cntvendor=4&srcsubj=30469267&type=bkbuy&subject=30469267"
+        },
+        {
+            "name": "中图网",
+            "price": "37.00元",
+            "link": "https://book.douban.com/link2/?lowest=3420&pre=0&vendor=bookschina&srcpage=subject&price=3700&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7843084.htm&cntvendor=4&srcsubj=30469267&type=bkbuy&subject=30469267"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30469267/",
+    "douban_id": "30469267",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34397202.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘澜",
+            "link": "https://book.douban.com/author/4631193"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        }
+    ],
+    "tag": "职场"
+}

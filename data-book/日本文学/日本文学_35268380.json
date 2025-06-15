@@ -1,0 +1,61 @@
+{
+    "title": "消逝的谎言",
+    "bookInfo": {
+        "作者": "[日] 恩田陆",
+        "出版社": "中国工人出版社",
+        "原作名": "木洩れ日に泳ぐ魚",
+        "译者": "孙科",
+        "出版年": "2020-12",
+        "页数": "260",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "ISBN": "9787500875147"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.9%",
+        "four_star_rate": "37.5%",
+        "three_star_rate": "28.9%",
+        "two_star_rate": "3.9%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610496/",
+            "name": "恩田陆",
+            "role": "作者",
+            "douban_id": "4610496"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "23.44元",
+            "link": "https://book.douban.com/link2/?lowest=2344&pre=0&vendor=jingdong&srcpage=subject&price=2344&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQQCV11fC0oXM28JGlgRWwQLUFhZDEMTMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWAGsOGVIRWwIGXFpCUQ5LXl9ABQNSWkNVVzxDWCtVUQdRQFJ0D29yWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHlsUVAQyVl5cCU4XC2gLGmsVWwMDV19eCk4QBm8JK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggTXwYHUAkzVE1AQDRWGBh7XQcHUl5dD0snAW4JGVklbTZZEzU-AUJseTNuGl52L0ViBAkIT0xDRgtmGV8WWUF9NxcPVDVhcQhbZgFpbQUy&cntvendor=2&srcsubj=35268380&type=bkbuy&subject=35268380"
+        },
+        {
+            "name": "中图网",
+            "price": "26.20元",
+            "link": "https://book.douban.com/link2/?lowest=2344&pre=0&vendor=bookschina&srcpage=subject&price=2620&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8466971.htm&cntvendor=2&srcsubj=35268380&type=bkbuy&subject=35268380"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35268380/",
+    "douban_id": "35268380",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33777409.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 恩田陆",
+            "link": "https://book.douban.com/search/%E6%81%A9%E7%94%B0%E9%99%86"
+        },
+        {
+            "text": "中国工人出版社",
+            "link": "https://book.douban.com/press/2774"
+        },
+        {
+            "text": "孙科",
+            "link": "https://book.douban.com/search/%E5%AD%99%E7%A7%91"
+        }
+    ],
+    "tag": "日本文学"
+}

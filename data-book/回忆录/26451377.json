@@ -1,0 +1,90 @@
+{
+    "title": "在华五十年",
+    "bookInfo": {
+        "作者": "[美]司徒雷登",
+        "出版社": "译林出版社",
+        "译者": "李晶",
+        "出版年": "2015-8",
+        "页数": "252",
+        "定价": "21.80元",
+        "装帧": "平装",
+        "丛书": "西方视野里的中国",
+        "ISBN": "9787544755665"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "24.9%",
+        "four_star_rate": "49.5%",
+        "three_star_rate": "23.5%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4637334/",
+            "name": "司徒雷登",
+            "role": "作者",
+            "douban_id": "4637334"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "2.00元",
+            "link": "https://read.douban.com/ebook/32239744/?dcs=subject-buylink&dcm=douban&dct=26451377"
+        },
+        {
+            "name": "得到",
+            "price": "9.90元",
+            "link": "https://www.dedao.cn/eBook/V5R16yPmaYOMqGRAv82jkX4KDe175w7L9e0rbx6pNgznl9VZPLJQyEBodb89mqoO?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "41.00元",
+            "link": "https://book.douban.com/link2/?lowest=4100&pre=0&vendor=jingdong&srcpage=subject&price=4100&pos=3&url=https%3A%2F%2Fitem.jd.com%2F10037072165723.html&cntvendor=3&srcsubj=26451377&type=bkbuy&subject=26451377"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26451377/",
+    "douban_id": "26451377",
+    "menu": [
+        "",
+        "        译者序",
+        "        第一章 家世溯源",
+        "        第二章 大学和神学院时期",
+        "        第三章 中国，我又来了",
+        "        第四章 创建燕京大学",
+        "        第五章 在燕京大学经历的种种",
+        "        第六章 中国各阶层的人物",
+        "        第七章 日本占领和孤岛上的自由",
+        "        第八章 遭受监禁和重获自由",
+        "        第九章 成为外交界一员",
+        "        第十章 没有结果的努力",
+        "        第十一章 不断加深的困惑",
+        "        第十二章 在竹幕之下",
+        "        第十三章 重返华盛顿",
+        "        第十四章 退休后的思索",
+        "        第十五章 中美关系将何去何从",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s28278107.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]司徒雷登",
+            "link": "https://book.douban.com/author/4637334"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "李晶",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E6%99%B6"
+        },
+        {
+            "text": "西方视野里的中国",
+            "link": "https://book.douban.com/series/26371"
+        }
+    ],
+    "tag": "回忆录"
+}

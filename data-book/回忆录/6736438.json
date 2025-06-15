@@ -1,0 +1,68 @@
+{
+    "title": "八十溯往",
+    "bookInfo": {
+        "作者": "沈昌文",
+        "出版社": "海豚出版社",
+        "出版年": "2011-8-1",
+        "页数": "205",
+        "定价": "26.00元",
+        "装帧": "精装",
+        "丛书": "海豚文存",
+        "ISBN": "9787511005151"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "7.1%",
+        "four_star_rate": "37.0%",
+        "three_star_rate": "45.7%",
+        "two_star_rate": "8.7%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/307053/",
+            "name": "沈昌文",
+            "role": "作者",
+            "douban_id": "307053"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "65.05元",
+            "link": "https://book.douban.com/link2/?lowest=6505&pre=0&vendor=jingdong&srcpage=subject&price=6505&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10045555744787.html&cntvendor=1&srcsubj=6736438&type=bkbuy&subject=6736438"
+        }
+    ],
+    "url": "https://book.douban.com/subject/6736438/",
+    "douban_id": "6736438",
+    "menu": [
+        "",
+        "        我唯一的完整学历",
+        "        学徒生涯纪程",
+        "        学习做出版",
+        "        我和因是子老前辈的因缘",
+        "        我与三联书店的三段因缘",
+        "        在追求特色中前进",
+        "        开放·品格·服务 ——纪念三联书店恢复建制五周年",
+        "        三联书店六十周年时的一些感想",
+        "        几十年前的往事",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s6891023.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "沈昌文",
+            "link": "https://book.douban.com/search/%E6%B2%88%E6%98%8C%E6%96%87"
+        },
+        {
+            "text": "海豚出版社",
+            "link": "https://book.douban.com/press/2490"
+        },
+        {
+            "text": "海豚文存",
+            "link": "https://book.douban.com/series/9414"
+        }
+    ],
+    "tag": "回忆录"
+}

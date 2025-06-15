@@ -1,0 +1,59 @@
+{
+    "title": "居里夫人自传",
+    "bookInfo": {
+        "作者": "玛丽·居里",
+        "出版社": "译林出版社",
+        "译者": "陈筱卿",
+        "出版年": "2012-7",
+        "页数": "196",
+        "定价": "19.80元",
+        "丛书": "世界名人传记丛书",
+        "ISBN": "9787544727181"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "43.3%",
+        "four_star_rate": "44.7%",
+        "three_star_rate": "10.8%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608698/",
+            "name": "玛丽·居里",
+            "role": "作者",
+            "douban_id": "4608698"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/10788579/",
+    "douban_id": "10788579",
+    "menu": [
+        "",
+        "        居里夫人自传",
+        "        皮埃尔·居里传",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s10432758.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "玛丽·居里",
+            "link": "https://book.douban.com/author/4608698"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "陈筱卿",
+            "link": "https://book.douban.com/search/%E9%99%88%E7%AD%B1%E5%8D%BF"
+        },
+        {
+            "text": "世界名人传记丛书",
+            "link": "https://book.douban.com/series/13720"
+        }
+    ],
+    "tag": "人物传记"
+}

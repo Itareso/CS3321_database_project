@@ -1,0 +1,65 @@
+{
+    "title": "五万言",
+    "bookInfo": {
+        "作者": "韩东",
+        "出版社": "四川文艺出版社",
+        "出品方": "磨铁读诗会",
+        "出版年": "2020-3",
+        "页数": "176",
+        "定价": "59.90",
+        "装帧": "精装",
+        "ISBN": "9787541155826"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.5%",
+        "four_star_rate": "41.3%",
+        "three_star_rate": "27.0%",
+        "two_star_rate": "4.0%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4562626/",
+            "name": "韩东",
+            "role": "作者",
+            "douban_id": "4562626"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "23.96元",
+            "link": "https://read.douban.com/ebook/134813525/?dcs=subject-buylink&dcm=douban&dct=34996940"
+        },
+        {
+            "name": "得到",
+            "price": "23.96元",
+            "link": "https://www.dedao.cn/eBook/z4R9BQ7pP4ZEaXYkx8KvRdljeyqo60876kw1m2bMAO9NnDL7gBGQr5VzJqrvmEVN?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.90元",
+            "link": "https://book.douban.com/link2/?lowest=2990&pre=0&vendor=jingdong&srcpage=subject&price=2990&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgEGXF1fAUMeCl8IGloWVQ4AXFddDEgXAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmwAE1kdVAYGV15eFxJSXzI4chBJHmZBFjs-DANWBm8KWR1oG1h9JFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUVAMDUFxdOEkXAm4NG1MSXgcyVFhYCUgWBmsAGlgSXDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlxcW0IWbTMOTBlSHlFGOl5cD0IfC2gKK1kUXAQAZG5tcylEYw9ofw1jAm9HIl0Dcj18AR1PRTpgM1R6Kgk_eCthQB9WeghWXgNSNG5eOA&cntvendor=3&srcsubj=34996940&type=bkbuy&subject=34996940"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34996940/",
+    "douban_id": "34996940",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33596407.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "韩东",
+            "link": "https://book.douban.com/search/%E9%9F%A9%E4%B8%9C"
+        },
+        {
+            "text": "四川文艺出版社",
+            "link": "https://book.douban.com/press/2529"
+        },
+        {
+            "text": "磨铁读诗会",
+            "link": "https://book.douban.com/producers/687"
+        }
+    ],
+    "tag": "中国文学"
+}

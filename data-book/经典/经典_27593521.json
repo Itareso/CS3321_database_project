@@ -1,0 +1,103 @@
+{
+    "title": "红字",
+    "bookInfo": {
+        "作者": "纳撒尼尔·霍桑",
+        "出版社": "天津人民出版社",
+        "出品方": "果麦文化",
+        "译者": "汪洋",
+        "出版年": "2017-12-1",
+        "页数": "232",
+        "定价": "36",
+        "装帧": "平装",
+        "丛书": "果麦·外国文学经典",
+        "ISBN": "9787201124797"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "27.8%",
+        "four_star_rate": "47.3%",
+        "three_star_rate": "22.3%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4540836/",
+            "name": "纳撒尼尔·霍桑",
+            "role": "作者",
+            "douban_id": "4540836"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "9.99元",
+            "link": "https://read.douban.com/ebook/43556105/?dcs=subject-buylink&dcm=douban&dct=27593521"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.71元",
+            "link": "https://book.douban.com/link2/?lowest=1360&pre=0&vendor=jingdong&srcpage=subject&price=2071&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQQCV11fC0oXM2oBGF4QWQcKU19eOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocUVdeDU4TAmcPGlgKBENeCW4ZUi1TYywNYTlqJwd1ASQhegoVAhdOF1clWgMFUllUC0wnA2sJH18lbQYDZB8zDUsWCm04GVsUXAMCXFdUDXsXBWoJGFoQVAEHUVpeOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgRADtbH157AQBVEV4CCR55A24OE1wSWQ8yVl9cCkknM19NTyF-PWZlUzoPUABKVAl3RiN8PkJ_KQEzChJMATtqcC5uOXZyVAU0S05qM2w4&cntvendor=3&srcsubj=27593521&type=bkbuy&subject=27593521"
+        },
+        {
+            "name": "中图网",
+            "price": "13.60元",
+            "link": "https://book.douban.com/link2/?lowest=1360&pre=0&vendor=bookschina&srcpage=subject&price=1360&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7652800.htm&cntvendor=3&srcsubj=27593521&type=bkbuy&subject=27593521"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27593521/",
+    "douban_id": "27593521",
+    "menu": [
+        "",
+        "        第一章 牢门",
+        "        第二章 市场",
+        "        第三章 相认",
+        "        第四章 会面",
+        "        第五章 海丝特做针线",
+        "        第六章 珀尔",
+        "        第七章 总督府大厅",
+        "        第八章 精灵孩和牧师",
+        "        第九章 医生",
+        "        第十章 医生和病人",
+        "        第十一章 内心深处",
+        "        第十二章 牧师的不眠之夜",
+        "        第十三章 海丝特的另一面",
+        "        第十四章 海丝特和医生",
+        "        第十五章 海丝特和珀尔",
+        "        第十六章 林中漫步",
+        "        第十七章 牧师和教民",
+        "        第十八章 灿烂阳光",
+        "        第十九章 溪边的孩子",
+        "        第二十章 迷惘的牧师",
+        "        第二十一章 新英格兰的节日",
+        "        第二十二章 游行",
+        "        第二十三章 红字的显露",
+        "        第二十四章 尾声",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29623212.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "纳撒尼尔·霍桑",
+            "link": "https://book.douban.com/author/4540836"
+        },
+        {
+            "text": "天津人民出版社",
+            "link": "https://book.douban.com/press/2765"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "汪洋",
+            "link": "https://book.douban.com/search/%E6%B1%AA%E6%B4%8B"
+        },
+        {
+            "text": "果麦·外国文学经典",
+            "link": "https://book.douban.com/series/49275"
+        }
+    ],
+    "tag": "经典"
+}

@@ -1,0 +1,144 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "异境：三十九城",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34389114.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36206319/",
+                        "year": "2023",
+                        "id": 36206319
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "琥珀",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s32318661.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30475970/",
+                        "year": "2019",
+                        "id": 30475970
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "琥珀（上卷）",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s32331321.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30357109/",
+                        "year": "2018",
+                        "id": 30357109
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "琥珀（下卷）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s32331332.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30357110/",
+                        "year": "2018",
+                        "id": 30357110
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "小仙",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29901255.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30357108/",
+                        "year": "2016",
+                        "id": 30357108
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "小寂寞",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s24977235.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/21354758/",
+                        "year": "2013",
+                        "id": 21354758
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "掘金纪",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s9067294.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/10618120/",
+                        "year": "2012",
+                        "id": 10618120
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "太平盛世",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s8895003.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/6510144/",
+                        "year": "2011",
+                        "id": 6510144
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "小中尉",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s7628285.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/3757057/",
+                        "year": "2009",
+                        "id": 3757057
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "黄小艾",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s2954812.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/2205200/",
+                        "year": "2005",
+                        "id": 2205200
+                    }
+                }
+            ],
+            "total": 11
+        }
+    },
+    "author_link": "https://book.douban.com/author/4622738/",
+    "author_douban_id": "4622738",
+    "personage_id": 36507332,
+    "name": [
+        "闻人悦阅"
+    ],
+    "intro": "闻人悦阅，70 后作家，生于杭州，求学纽约，现定居香港。纽约 Cooper Union 大学电机工程学士，纽约大学商学院金融硕士。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/64ba6bdcf49f70ab618116448f0a7b6c.jpg",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

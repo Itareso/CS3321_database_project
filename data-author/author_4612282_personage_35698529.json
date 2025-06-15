@@ -1,0 +1,63 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "洛阳伽蓝记",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s9012761.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/10488582/",
+                        "year": "2022",
+                        "id": 10488582
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.8,
+                        "title": "重刊洛阳伽蓝记  山涛论",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27299967.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/24868124/",
+                        "year": "2013",
+                        "id": 24868124
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "洛阳伽蓝记",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s1076534.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/1068900/",
+                        "year": "2001",
+                        "id": 1068900
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4612282/",
+    "author_douban_id": "4612282",
+    "personage_id": 35698529,
+    "name": [
+        "杨衒之",
+        "Xuanzhi Yang"
+    ],
+    "intro": "杨衒之（杨炫之），杨或作阳，又误作羊（史通作姓羊）。生卒年不详，北平（今天津蓟县一带）人。生年不详，约卒于北齐文宣帝天保中。初仕魏，魏末为抚军府司马。历秘书监，出为期城太守。魏都洛阳之佛寺，甲于天下。永熙之乱（公元五三四年），城郭为墟。炫之行役洛阳，感念舆废，因抚拾旧闻，追叙故绩，作洛阳伽蓝记。洛阳伽蓝记为书凡五卷，（《隋书志》、《两唐书志》及今通行本均同）大约作于魏孝静帝武定之末。（公元五四八年左右）",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "去世日期": "公元 555年",
+    "更多中文名": "杨炫之 / 阳衒之 / 羊衒之",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

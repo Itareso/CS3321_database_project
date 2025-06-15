@@ -1,0 +1,108 @@
+{
+    "title": "无人生还",
+    "bookInfo": {
+        "作者": "[英] 阿加莎·克里斯蒂",
+        "出版社": "新星出版社",
+        "副标题": "精装纪念新版",
+        "原作名": "And Then There Were None",
+        "译者": "夏阳",
+        "出版年": "2019-5",
+        "页数": "304",
+        "定价": "49.00元",
+        "装帧": "精装",
+        "丛书": "午夜小红壳纪念版",
+        "ISBN": "9787513335287"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "64.1%",
+        "four_star_rate": "29.8%",
+        "three_star_rate": "5.6%",
+        "two_star_rate": "0.3%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4543693/",
+            "name": "阿加莎·克里斯蒂",
+            "role": "作者",
+            "douban_id": "4543693"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.10元",
+            "link": "https://book.douban.com/link2/?lowest=2210&pre=0&vendor=jingdong&srcpage=subject&price=2210&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF8dWAYBVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOIzUrDkJ3Swl_eCRrJVNLMRwGfA12YgdzdVlyLm9pJ1gYATwTBxhjeRpyLhFCWCokcC1uYBhPb1llBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZlNQJUezIfSgxpHCJIPk5VBwRdEg5RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcBVV1aAEsWA2Y4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQABBFYzVE1AQCwIUwV7XQcGUVtcDk0nAW4JGVklbTZ1PyhbAStfZRhrZCVtCE9nFgUpTip2axRmGTxmNG1xUhtUf08TdARqWjxmbQUy&cntvendor=3&srcsubj=30466192&type=bkbuy&subject=30466192"
+        },
+        {
+            "name": "当当网",
+            "price": "44.10元",
+            "link": "https://book.douban.com/link2/?lowest=2210&pre=0&vendor=dangdang&srcpage=subject&price=4410&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30466192%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27859180&cntvendor=3&srcsubj=30466192&type=bkbuy&subject=30466192"
+        },
+        {
+            "name": "中图网",
+            "price": "34.80元",
+            "link": "https://book.douban.com/link2/?lowest=2210&pre=0&vendor=bookschina&srcpage=subject&price=3479&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8078124.htm&cntvendor=3&srcsubj=30466192&type=bkbuy&subject=30466192"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30466192/",
+    "douban_id": "30466192",
+    "menu": [
+        "",
+        "        首版时间：",
+        "        報刊連載——",
+        "        美国：Saturday Evening Post, 1939年5-7月连载，题为Ten Little Niggers",
+        "        英国：Daily Express, 1939年6-7月连载，题为And Then There Were None",
+        "        單行本——",
+        "        英国：Collins, 1939.11，题为Ten Little Niggers",
+        "        美国：Dodd Mead, 1940.01，题为And Then There Were None",
+        "        中文譯本：",
+        "        天網恢恢 臺灣大陸出版社 1959.03 祝西 譯",
+        "        孤岛奇案 地质出版社 1980.04 德玮 译",
+        "        十个小印第安人(收录于《长眠不醒——外国现代惊险小说选第一集》，傅惟慈 选编)广东人民出版社 1980.12 傅涛涛 译",
+        "        十个小印第安人(收录于《长眠不醒——外国现代惊险小说选集之一》，傅惟慈 选编)上海文艺出版社 1980.12 傅涛涛 译",
+        "        童謠凶殺案 臺灣星光/輕舟出版社 1986.08 鄭秀美 譯",
+        "        童謠凶殺案 臺灣星光/輕舟出版社 1996.04 鄭秀美 譯",
+        "        孤岛十命 外文出版社 1998.01 （在中國出版的英文版）",
+        "        无人生还 贵州人民出版社 1998.07/1998.10 王丽丽 刘万勇 译",
+        "        童謠凶殺案 臺灣星光/輕舟出版社 2002.03 鄭秀美 譯",
+        "        一個都不留 臺灣遠流出版事業股份有限公司 2003.07.01 王麗麗 劉萬勇 譯",
+        "        十个小印第安人(收录于《5种惊险——世界惊险小说选粹》) 中国书籍出版社 2007.10 傅涛涛 译(有删节)",
+        "        无人生还 人民文学出版社 2008.02 祁阿红 译",
+        "        一個都不留(克莉絲蒂120誕辰紀念版) 臺灣遠流出版事業股份有限公司 2010.08.01 王麗麗 劉萬勇 譯",
+        "        无人生还(作品集10) 新星出版社(午夜文库) 2013.08 夏阳 译",
+        "        无人生还 新星出版社（精裝版） 2016.08 （有2017年2月3印本）夏阳 译",
+        "        舞臺劇本：",
+        "        无人生还 上海译文出版社 2010.09 张颖 译",
+        "        改編漫畫：",
+        "        Dix petits nègres，2002年11月5日，法国Emmanuel Proust Editions公司出版",
+        "        改编：François Rivère",
+        "        绘制：Frank Leclercq",
+        "        2009年4月30日，英国Harper Collins公司将法语版改编为英语版And Then There Were None (Agatha Christie Comic Strip)出版",
+        "        十个小黑人  内蒙古人民出版社 2010.09，[法]弗兰克·勒克莱尔 绘画，姚瑶 译",
+        "        以上信息主要來自阿加莎.克里斯蒂中文站：http://www.cnajs.com/novel/33/33.htm",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s32301291.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 阿加莎·克里斯蒂",
+            "link": "https://book.douban.com/author/4543693"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "夏阳",
+            "link": "https://book.douban.com/search/%E5%A4%8F%E9%98%B3"
+        },
+        {
+            "text": "午夜小红壳纪念版",
+            "link": "https://book.douban.com/series/37829"
+        }
+    ],
+    "tag": "经典"
+}

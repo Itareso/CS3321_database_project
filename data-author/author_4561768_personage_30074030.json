@@ -1,0 +1,154 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "灵隐",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34920390.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36982815/",
+                        "year": "2024",
+                        "id": 36982815
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "入瓷",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34903613.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36892341/",
+                        "year": "2024",
+                        "id": 36892341
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "飞发",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34849210.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36872881/",
+                        "year": "2024",
+                        "id": 36872881
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "风球",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34848137.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36871337/",
+                        "year": "2024",
+                        "id": 36871337
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "燕食記",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34688862.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36633154/",
+                        "year": "2023",
+                        "id": 36633154
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "小山河",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34470833.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36314641/",
+                        "year": "2023",
+                        "id": 36314641
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "梨与枣",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34418075.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36234532/",
+                        "year": "2023",
+                        "id": 36234532
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "据几曾看",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34287236.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36058522/",
+                        "year": "2022",
+                        "id": 36058522
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "朱雀",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33934007.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35219412/",
+                        "year": "2021",
+                        "id": 35219412
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "瓦猫",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33810237.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35316427/",
+                        "year": "2021",
+                        "id": 35316427
+                    }
+                }
+            ],
+            "total": 34
+        }
+    },
+    "author_link": "https://book.douban.com/author/4561768/",
+    "author_douban_id": "4561768",
+    "personage_id": 30074030,
+    "name": [
+        "葛亮",
+        "Liang Ge"
+    ],
+    "intro": "葛亮，原籍南京，现居香港，任教于高校。香港大学中文系博士。作品出版于两岸三地，著有小说《北鸢》《朱雀》《七声》《谜鸦》《浣熊》《戏年》，文化随笔《绘色》，学术论著《此心安处亦吾乡》等。部分作品译为英、法、俄、日、韩等国文字。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/4379ca7ed4daffc75ff3ebd2b74eed6f.jpg",
+    "sex": 1,
+    "birth_date": 1978,
+    "age": 48,
+    "birth_place": [
+        "中国",
+        "江苏",
+        "南京"
+    ],
+    "family_member": "葛康俞(祖父) / 陈独秀(太舅公) / 邓稼先(叔公)",
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

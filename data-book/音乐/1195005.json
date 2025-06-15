@@ -1,0 +1,48 @@
+{
+    "title": "柴科夫斯基",
+    "bookInfo": {
+        "作者": "埃弗里特·赫尔姆",
+        "出版社": "人民音乐出版社",
+        "出版年": "2004-10",
+        "页数": "213",
+        "定价": "10.00元",
+        "装帧": "简裝本",
+        "丛书": "罗沃尔特音乐家传记丛书",
+        "ISBN": "9787103029343"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.7%",
+        "four_star_rate": "50.0%",
+        "three_star_rate": "14.3%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "109.80元",
+            "link": "https://book.douban.com/link2/?lowest=10980&pre=0&vendor=jingdong&srcpage=subject&price=10980&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10027837541815.html&cntvendor=1&srcsubj=1195005&type=bkbuy&subject=1195005"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1195005/",
+    "douban_id": "1195005",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s5799678.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "埃弗里特·赫尔姆",
+            "link": "https://book.douban.com/search/%E5%9F%83%E5%BC%97%E9%87%8C%E7%89%B9%C2%B7%E8%B5%AB%E5%B0%94%E5%A7%86"
+        },
+        {
+            "text": "人民音乐出版社",
+            "link": "https://book.douban.com/press/2660"
+        },
+        {
+            "text": "罗沃尔特音乐家传记丛书",
+            "link": "https://book.douban.com/series/10"
+        }
+    ],
+    "tag": "音乐"
+}

@@ -1,0 +1,58 @@
+{
+    "title": "维摩诘经",
+    "bookInfo": {
+        "出版社": "中华书局",
+        "译者": "高永旺 张仲娟 译注",
+        "出版年": "2016-6",
+        "页数": "276",
+        "定价": "18",
+        "装帧": "平装",
+        "丛书": "佛教十三经",
+        "ISBN": "9787101117448"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "84.9%",
+        "four_star_rate": "11.8%",
+        "three_star_rate": "2.3%",
+        "two_star_rate": "0.7%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "12.96元",
+            "link": "https://book.douban.com/link2/?lowest=1230&pre=0&vendor=jingdong&srcpage=subject&price=1296&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG1MQWAEHUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCXFtYD04THDZNRwYlNXtUPyYuQSh3cztuTjhFCAVgBDcZeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4BVVlcAEoWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCgVsCFgHUksfBTxmGFMTXw4HUl1tCkoWAW04K2tGB0RxC1s_bE1iSghhHTlrAG9wCQQmSRJ5AWwORQFcLlZpUiIhWxFxADFpK1gl&cntvendor=3&srcsubj=30332152&type=bkbuy&subject=30332152"
+        },
+        {
+            "name": "当当网",
+            "price": "18.00元",
+            "link": "https://book.douban.com/link2/?lowest=1230&pre=0&vendor=dangdang&srcpage=subject&price=1800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30332152%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23998327&cntvendor=3&srcsubj=30332152&type=bkbuy&subject=30332152"
+        },
+        {
+            "name": "中图网",
+            "price": "12.30元",
+            "link": "https://book.douban.com/link2/?lowest=1230&pre=0&vendor=bookschina&srcpage=subject&price=1230&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7253371.htm&cntvendor=3&srcsubj=30332152&type=bkbuy&subject=30332152"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30332152/",
+    "douban_id": "30332152",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34366812.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "高永旺 张仲娟 译注",
+            "link": "https://book.douban.com/search/%E9%AB%98%E6%B0%B8%E6%97%BA%20%E5%BC%A0%E4%BB%B2%E5%A8%9F%20%E8%AF%91%E6%B3%A8"
+        },
+        {
+            "text": "佛教十三经",
+            "link": "https://book.douban.com/series/3827"
+        }
+    ],
+    "tag": "佛教"
+}

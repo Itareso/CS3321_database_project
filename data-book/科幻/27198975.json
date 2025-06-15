@@ -1,0 +1,69 @@
+{
+    "title": "量子之夜",
+    "bookInfo": {
+        "作者": "[加拿大] 罗伯特·索耶",
+        "出版社": "重庆出版社",
+        "原作名": "Quantum Night",
+        "译者": "包新周 / 谢琳琳",
+        "出版年": "2018-3",
+        "定价": "54.00元",
+        "装帧": "平装",
+        "丛书": "独角兽书系",
+        "ISBN": "9787229128524"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "13.1%",
+        "four_star_rate": "36.1%",
+        "three_star_rate": "41.0%",
+        "two_star_rate": "8.2%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/444018/",
+            "name": "罗伯特·索耶",
+            "role": "作者",
+            "douban_id": "444018"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "27.75元",
+            "link": "https://book.douban.com/link2/?lowest=2420&pre=0&vendor=jingdong&srcpage=subject&price=2775&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olVQIGVFdYCkseM2wBHFITWQIBUVlfOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocV1daAU0TB2wNHFkKBENeCW4hUjxDWQpPYD51DW18Sj4iQR9IfjZoF1clWgMFUllUC0wnA2sJH18lbQYDZB8zCE8SB2sNK1kVXAcHVFZaC0onA2kNGlgVWw4BVFtZAXsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEBWwKHAxAM1oEAl8YUQ9TbW8IHVkWWgECZFxcCUkVM184eFpPG3gHISM8eg9PAh9AeidxOEBdNFwGZklpYhUJRR1WWWdVAx0qYy9yVl8LKw&cntvendor=2&srcsubj=27198975&type=bkbuy&subject=27198975"
+        },
+        {
+            "name": "中图网",
+            "price": "24.20元",
+            "link": "https://book.douban.com/link2/?lowest=2420&pre=0&vendor=bookschina&srcpage=subject&price=2420&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7757548.htm&cntvendor=2&srcsubj=27198975&type=bkbuy&subject=27198975"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27198975/",
+    "douban_id": "27198975",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29610993.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[加拿大] 罗伯特·索耶",
+            "link": "https://book.douban.com/search/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E7%B4%A2%E8%80%B6"
+        },
+        {
+            "text": "重庆出版社",
+            "link": "https://book.douban.com/press/2162"
+        },
+        {
+            "text": "包新周",
+            "link": "https://book.douban.com/search/%E5%8C%85%E6%96%B0%E5%91%A8"
+        },
+        {
+            "text": "谢琳琳",
+            "link": "https://book.douban.com/search/%E8%B0%A2%E7%90%B3%E7%90%B3"
+        },
+        {
+            "text": "独角兽书系",
+            "link": "https://book.douban.com/series/5608"
+        }
+    ],
+    "tag": "科幻"
+}

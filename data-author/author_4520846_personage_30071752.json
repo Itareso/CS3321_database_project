@@ -1,0 +1,164 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "冬牧场",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34882368.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36919388/",
+                        "year": "2024",
+                        "id": 36919388
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "我的阿勒泰",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34897811.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36919387/",
+                        "year": "2024",
+                        "id": 36919387
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "阿勒泰的角落",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34735442.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36629769/",
+                        "year": "2024",
+                        "id": 36629769
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "走夜路请放声歌唱",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34994021.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37098474/",
+                        "year": "2024",
+                        "id": 37098474
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "九篇雪",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34882369.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36919389/",
+                        "year": "2024",
+                        "id": 36919389
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "羊道·春牧场",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34269745.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35982110/",
+                        "year": "2022",
+                        "id": 35982110
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "羊道·前山夏牧场",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34269744.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35982107/",
+                        "year": "2022",
+                        "id": 35982107
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "羊道·深山夏牧场",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34269746.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35982104/",
+                        "year": "2022",
+                        "id": 35982104
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "火车快开",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35087748.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36127786/",
+                        "year": "2022",
+                        "id": 36127786
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "记一忘三二",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34657640.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35040904/",
+                        "year": "2020",
+                        "id": 35040904
+                    }
+                }
+            ],
+            "total": 18
+        }
+    },
+    "author_link": "https://book.douban.com/author/4520846/",
+    "author_douban_id": "4520846",
+    "personage_id": 30071752,
+    "name": [
+        "李娟",
+        "Juan Li"
+    ],
+    "intro": "李娟",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30071752/photo/2904164993",
+        "https://www.douban.com/personage/30071752/photo/2904324725",
+        "https://www.douban.com/personage/30071752/photo/2904324730",
+        "https://www.douban.com/personage/30071752/photo/2907480373",
+        "https://www.douban.com/personage/30071752/photo/2907480367"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2904164993.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2904324725.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2904324730.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907480373.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907480367.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/3e025945adca892abf820147cff928cd.jpg",
+    "sex": 0,
+    "birth_date": 1979,
+    "age": 47,
+    "birth_place": [
+        "中国",
+        "新疆"
+    ],
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

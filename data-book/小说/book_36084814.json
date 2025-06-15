@@ -1,0 +1,59 @@
+{
+    "title": "从诗善开始",
+    "bookInfo": {
+        "作者": "[韩国] 郑世朗",
+        "出版社": "四川文艺出版社",
+        "出品方": "磨铁·文治图书",
+        "原作名": "시선으로부터,",
+        "译者": "田禾子",
+        "出版年": "2022-11",
+        "页数": "256",
+        "定价": "48.00",
+        "装帧": "平装",
+        "丛书": "文治·韩国文学作品",
+        "ISBN": "9787541164316"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.1%",
+        "four_star_rate": "41.8%",
+        "three_star_rate": "11.9%",
+        "two_star_rate": "1.1%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609925/",
+            "name": "郑世朗",
+            "role": "作者",
+            "douban_id": "4609925"
+        },
+        {
+            "link": "https://book.douban.com/author/4616500/",
+            "name": "田禾子",
+            "role": "译者",
+            "douban_id": "4616500"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.20元",
+            "link": "https://read.douban.com/ebook/410310008/?dcs=subject-buylink&dcm=douban&dct=36084814"
+        },
+        {
+            "name": "得到",
+            "price": "19.20元",
+            "link": "https://www.dedao.cn/ebook/detail?id=ORa2P4NNLqmQPG2178z5gvkDndlOxWyvlP3ajK6BEVXYRrJpA9M4oybeZpqAKQgj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "32.60元",
+            "link": "https://book.douban.com/link2/?lowest=3260&pre=0&vendor=jingdong&srcpage=subject&price=3260&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQgJK1olXQYFV1pfDkIfBF8IGloRVQIFVVtUDUsTAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmsAH1wUWA8HVFpeFxJSXzI4UCVRD3IHPDY_aD1hQi1PQCBlPkVcJFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVwXWQUFVG5fCEoWBm8AHFgUbQYEUV9dAE0eAWsBHlslXQ4GZIfdv521kbaWkY6dyjYyZF1tOHsXM2w4RTUUDg4CVVwICiVLBThWXxBUX2gCVV5UDk4RAV8KGloXXzYyZD8lCxgfYzFzEwZyWQ5aLSAYTyMVZC9JeDUXKWVyLFkOaRgfZQh4QBNuNHQyV24&cntvendor=3&srcsubj=36084814&type=bkbuy&subject=36084814"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36084814/",
+    "douban_id": "36084814",
+    "menu": [],
+    "tag": "小说"
+}

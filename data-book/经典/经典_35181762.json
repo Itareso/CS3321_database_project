@@ -1,0 +1,117 @@
+{
+    "title": "世界观 (原书第3版)",
+    "bookInfo": {
+        "作者": "[美] 理查德·德威特",
+        "出版社": "机械工业出版社",
+        "副标题": "现代人必须要懂的科学哲学和科学史",
+        "原作名": "Worldviews: An Introduction to the History and Philosophy of Science",
+        "译者": "孙天",
+        "出版年": "2020-8-20",
+        "页数": "512",
+        "定价": "109.00元",
+        "装帧": "平装",
+        "ISBN": "9787111659099"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "63.2%",
+        "four_star_rate": "27.3%",
+        "three_star_rate": "7.7%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4615053/",
+            "name": "孙天",
+            "role": "译者",
+            "douban_id": "4615053"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "54.00元",
+            "link": "https://read.douban.com/ebook/156941355/?dcs=subject-buylink&dcm=douban&dct=35181762"
+        },
+        {
+            "name": "得到",
+            "price": "71.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=pqvNQ1KRJa7EmgG8MPKrzykNVbDpBWZEL40QA1xO54nlvZq296YodejLXVJE5eAd&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "59.95元",
+            "link": "https://book.douban.com/link2/?lowest=5995&pre=0&vendor=jingdong&srcpage=subject&price=5995&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMQWwADU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXFtbDkoQHDZNRwYlLWEcAQc1cjZ1ay8LS1sLFUIKMCQ7aEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFpdDkMSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVRsCFgKSg9eQDhmG1oSVA4EUlZtCkoWAW04K2tiNnAEXT4Vbjx0fBNybB9HBF1pUwUCQT55AQh7cjBmW0MLI1pZfyB0ZDt7K1gl&cntvendor=5&srcsubj=35181762&type=bkbuy&subject=35181762"
+        },
+        {
+            "name": "当当网",
+            "price": "86.10元",
+            "link": "https://book.douban.com/link2/?lowest=5995&pre=0&vendor=dangdang&srcpage=subject&price=8610&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35181762%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29113407&cntvendor=5&srcsubj=35181762&type=bkbuy&subject=35181762"
+        },
+        {
+            "name": "中图网",
+            "price": "75.20元",
+            "link": "https://book.douban.com/link2/?lowest=5995&pre=0&vendor=bookschina&srcpage=subject&price=7520&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8376736.htm&cntvendor=5&srcsubj=35181762&type=bkbuy&subject=35181762"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35181762/",
+    "douban_id": "35181762",
+    "menu": [
+        "",
+        "        前言",
+        "        第一部分 基础命题",
+        "        第1章 世界观",
+        "        第2章 真理",
+        "        第3章 经验事实和哲学性/概念性事实",
+        "        第4章 证实与不证实证据和推理",
+        "        第5章 奎因-迪昂论点和对科学方法的意义",
+        "        第6章 哲学插曲：归纳的问题和困惑",
+        "        第7章 可证伪性",
+        "        第8章 工具主义和现实主义",
+        "        第二部分 从亚里士多德世界观到牛顿世界观的转变",
+        "        第9章 亚里士多德世界观中的宇宙结构",
+        "        第10章 托勒密《至大论》序言：地球是球形的、静止的，并且位于宇宙中心",
+        "        第11章 天文学数据：经验事实",
+        "        第12章 天文学数据：哲学性/概念性事实",
+        "        第13章 托勒密体系",
+        "        第14章 哥白尼体系",
+        "        第15章 第谷体系",
+        "        第16章 开普勒体系",
+        "        第17章 伽利略和通过望远镜得到的证据",
+        "        第18章 亚里士多德世界观所面临问题的总结",
+        "        第19章 新科学发展过程中的哲学性/概念性关联",
+        "        第20章 新科学和牛顿世界观概述",
+        "        第21章 哲学插曲：什么是科学定律",
+        "        第22章 1700～1900年牛顿世界观的发展",
+        "        第三部分 科学及世界观的新近发展",
+        "        第23章 狭义相对论",
+        "        第24章 广义相对论",
+        "        第25章 哲学插曲：科学理论是不可通约的吗",
+        "        第26章 量子理论导论：量子理论的基本经验事实和数学方法",
+        "        第27章 现实问题：测量难题和量子理论的诠释",
+        "        第28章 量子理论与定域性：EPR、贝尔定理和阿斯派克特实验",
+        "        第29章 演化论概述",
+        "        第30章 对演化的思考",
+        "        第31章 世界观：总结思考",
+        "        章节注释和推荐阅读书目",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33708330.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 理查德·德威特",
+            "link": "https://book.douban.com/search/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E5%BE%B7%E5%A8%81%E7%89%B9"
+        },
+        {
+            "text": "机械工业出版社",
+            "link": "https://book.douban.com/press/2793"
+        },
+        {
+            "text": "孙天",
+            "link": "https://book.douban.com/author/4615053"
+        }
+    ],
+    "tag": "经典"
+}

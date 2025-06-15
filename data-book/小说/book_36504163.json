@@ -1,0 +1,73 @@
+{
+    "title": "玻璃长颈鹿",
+    "bookInfo": {
+        "作者": "[日]加纳朋子",
+        "出版社": "新星出版社",
+        "原作名": "ガラスの麒麟",
+        "译者": "董纾含",
+        "出版年": "2024-3",
+        "页数": "268",
+        "定价": "52.00元",
+        "装帧": "平装",
+        "丛书": "午夜文库·日系佳作",
+        "ISBN": "9787513352963"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "9.1%",
+        "four_star_rate": "23.9%",
+        "three_star_rate": "51.3%",
+        "two_star_rate": "12.3%",
+        "one_star_rate": "3.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4622936/",
+            "name": "加纳朋子",
+            "role": "作者",
+            "douban_id": "4622936"
+        },
+        {
+            "link": "https://book.douban.com/author/4615045/",
+            "name": "董纾含",
+            "role": "译者",
+            "douban_id": "4615045"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "39.99元",
+            "link": "https://read.douban.com/ebook/459203385/?dcs=subject-buylink&dcm=douban&dct=36504163"
+        },
+        {
+            "name": "京东商城",
+            "price": "28.60元",
+            "link": "https://book.douban.com/link2/?lowest=2860&pre=0&vendor=jingdong&srcpage=subject&price=2860&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHloWWQIAVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHVV1ZDEkXHDZNRwYlDVtAHwgHVSN0U3VOGjJLWEVdVCAGTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UXQ4FXVZeAE4VM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1oXCA5sCFgKVhtVBzlmG1oVXQYAV11tCkoWAW04K2t9P0VaMD4ibRZwUT9-fScQD3RHXTtfST15AWcITDl2BVRbCR0eYCliQhB4K1gl&cntvendor=4&srcsubj=36504163&type=bkbuy&subject=36504163"
+        },
+        {
+            "name": "当当网",
+            "price": "49.90元",
+            "link": "https://book.douban.com/link2/?lowest=2860&pre=0&vendor=dangdang&srcpage=subject&price=4990&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36504163%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29697402&cntvendor=4&srcsubj=36504163&type=bkbuy&subject=36504163"
+        },
+        {
+            "name": "中图网",
+            "price": "35.80元",
+            "link": "https://book.douban.com/link2/?lowest=2860&pre=0&vendor=bookschina&srcpage=subject&price=3579&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9282581.htm&cntvendor=4&srcsubj=36504163&type=bkbuy&subject=36504163"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36504163/",
+    "douban_id": "36504163",
+    "menu": [
+        "",
+        "        玻璃长颈鹿",
+        "        三月兔",
+        "        忧郁腊肠犬",
+        "        镜之国的企鹅",
+        "        暗夜乌鸦",
+        "        最后的纳摩盖吐龙",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

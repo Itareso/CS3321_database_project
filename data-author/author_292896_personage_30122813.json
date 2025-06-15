@@ -1,0 +1,144 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "莫莉和森克",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34832689.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36848164/",
+                        "year": "2024",
+                        "id": 36848164
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "国贸三十八层",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34800091.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36780311/",
+                        "year": "2024",
+                        "id": 36780311
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "头等舱的贼",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33855497.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35406332/",
+                        "year": "2021",
+                        "id": 35406332
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "复苏人",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34015966.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35624104/",
+                        "year": "2021",
+                        "id": 35624104
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "秘密调查师Ⅴ：网中人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33703699.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35109395/",
+                        "year": "2020",
+                        "id": 35109395
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "秘密调查师Ⅲ",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s32327727.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33457368/",
+                        "year": "2019",
+                        "id": 33457368
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "秘密调查师Ⅳ",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s32327719.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33457358/",
+                        "year": "2019",
+                        "id": 33457358
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "秘密调查师1:黄雀",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29725140.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30179802/",
+                        "year": "2018",
+                        "id": 30179802
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.0,
+                        "title": "国贸三十八层",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29784989.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/30239755/",
+                        "year": "2018",
+                        "id": 30239755
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "秘密调查师2:卧底",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29725149.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30179837/",
+                        "year": "2018",
+                        "id": 30179837
+                    }
+                }
+            ],
+            "total": 13
+        }
+    },
+    "author_link": "https://book.douban.com/author/292896/",
+    "author_douban_id": "292896",
+    "personage_id": 30122813,
+    "name": [
+        "永城"
+    ],
+    "intro": "中国商业犯罪间谍小说第一人。代表作《网中人》《国贸三十八层》《秘密调查师》系列小说影视版权全部售出。2017 年首部科幻长篇《复苏人》在《中国作家》刊发后，入选《中华文学选刊》，获得好评。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/1509604228.65.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

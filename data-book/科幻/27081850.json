@@ -1,0 +1,88 @@
+{
+    "title": "寄生之魔",
+    "bookInfo": {
+        "作者": "罗隆翔",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "副标题": "罗隆翔科幻小说集",
+        "出版年": "2017-10",
+        "定价": "34.00元",
+        "装帧": "平装",
+        "丛书": "科幻世界·中国科幻基石丛书",
+        "ISBN": "9787536487390"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "15.7%",
+        "four_star_rate": "41.4%",
+        "three_star_rate": "35.7%",
+        "two_star_rate": "7.1%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611824/",
+            "name": "罗隆翔",
+            "role": "作者",
+            "douban_id": "4611824"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "6.99元",
+            "link": "https://read.douban.com/ebook/46326047/?dcs=subject-buylink&dcm=douban&dct=27081850"
+        },
+        {
+            "name": "京东商城",
+            "price": "17.00元",
+            "link": "https://book.douban.com/link2/?lowest=1700&pre=0&vendor=jingdong&srcpage=subject&price=1700&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFgVXgQCXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOXD4aSzV-RhhMHgJlFHh3NhtdaBdyQS1zdVl9OQViMR1YTg9JXWdobzp1LhFCWCokcChgYDpNbyJPBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ0PCUICh1MRAxSYVJIWQ4cBAUtXDtnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVC0kQCmg4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwcDAFgzVE1BAipTQVt7XQYFUVpYCUMnAW4JGVklbTYKNBkediJSdCsNQitcI3NgEV49VC5VQRRmGTNxXmZnF1sbTBVJCw98ejtmbQUy&cntvendor=3&srcsubj=27081850&type=bkbuy&subject=27081850"
+        },
+        {
+            "name": "当当网",
+            "price": "34.00元",
+            "link": "https://book.douban.com/link2/?lowest=1700&pre=0&vendor=dangdang&srcpage=subject&price=3400&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27081850%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25179848&cntvendor=3&srcsubj=27081850&type=bkbuy&subject=27081850"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27081850/",
+    "douban_id": "27081850",
+    "menu": [
+        "",
+        "        寄生之魔",
+        "        山海间",
+        "        异天行",
+        "        囚魂曲",
+        "        以前的黄昏",
+        "        在他乡",
+        "        娃娃",
+        "        村庄里的高塔",
+        "        龙喉海洋",
+        "        逃离兄弟会",
+        "        陌路星辰",
+        "        吃货联盟的恐龙牧场",
+        "        朕是猫",
+        "        天堂的黄昏",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s29586441.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "罗隆翔",
+            "link": "https://book.douban.com/search/%E7%BD%97%E9%9A%86%E7%BF%94"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "科幻世界·中国科幻基石丛书",
+            "link": "https://book.douban.com/series/38"
+        }
+    ],
+    "tag": "科幻"
+}

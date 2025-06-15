@@ -1,0 +1,69 @@
+{
+    "title": "轻描淡写",
+    "bookInfo": {
+        "作者": "[波兰] 亚当·扎加耶夫斯基",
+        "出版社": "北岳文艺出版社",
+        "译者": "杨靖",
+        "出版年": "2020-5",
+        "定价": "59.80",
+        "装帧": "平装",
+        "丛书": "天星文库·短经典",
+        "ISBN": "9787537861441"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.3%",
+        "four_star_rate": "55.9%",
+        "three_star_rate": "9.8%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/325904/",
+            "name": "亚当·扎加耶夫斯基",
+            "role": "作者",
+            "douban_id": "325904"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "29.90元",
+            "link": "https://book.douban.com/link2/?lowest=2990&pre=0&vendor=jingdong&srcpage=subject&price=2990&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwcXwUEVG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOXD4aSzV-RhhMHgJlHlBZPzxdaCtHeyQPdVl9OQViMR1YTg9JXWdoUjJwLhFCWCokcCxucARKbARhBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZjFQgKfRUQYwxAbVhzKE4AKRULakx3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtZAEsXC2o4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRA1wzVE1AQShKHhp7XQcFXVhdDEonAW4JGVklbTYKNBkediJSdCsNQitWC11pNl49aBtvSGhmGTNxXmZnF1sbTBVJCw9Bcj5mbQUy&cntvendor=3&srcsubj=34974566&type=bkbuy&subject=34974566"
+        },
+        {
+            "name": "当当网",
+            "price": "59.80元",
+            "link": "https://book.douban.com/link2/?lowest=2990&pre=0&vendor=dangdang&srcpage=subject&price=5980&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34974566%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28979203&cntvendor=3&srcsubj=34974566&type=bkbuy&subject=34974566"
+        },
+        {
+            "name": "中图网",
+            "price": "36.90元",
+            "link": "https://book.douban.com/link2/?lowest=2990&pre=0&vendor=bookschina&srcpage=subject&price=3690&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8322097.htm&cntvendor=3&srcsubj=34974566&type=bkbuy&subject=34974566"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34974566/",
+    "douban_id": "34974566",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33663625.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[波兰] 亚当·扎加耶夫斯基",
+            "link": "https://book.douban.com/author/325904"
+        },
+        {
+            "text": "北岳文艺出版社",
+            "link": "https://book.douban.com/press/2310"
+        },
+        {
+            "text": "杨靖",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E9%9D%96"
+        },
+        {
+            "text": "天星文库·短经典",
+            "link": "https://book.douban.com/series/31248"
+        }
+    ],
+    "tag": "随笔"
+}

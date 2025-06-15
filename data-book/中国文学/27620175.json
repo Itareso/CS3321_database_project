@@ -1,0 +1,54 @@
+{
+    "title": "出家",
+    "bookInfo": {
+        "作者": "张忌",
+        "出版社": "中信出版社",
+        "出品方": "大方",
+        "出版年": "2019-3",
+        "页数": "294",
+        "定价": "49",
+        "装帧": "精装",
+        "丛书": "中信大方·张忌作品系列",
+        "ISBN": "9787508685007"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.2%",
+        "four_star_rate": "44.8%",
+        "three_star_rate": "30.8%",
+        "two_star_rate": "3.0%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "37.40元",
+            "link": "https://book.douban.com/link2/?lowest=3740&pre=0&vendor=jingdong&srcpage=subject&price=3740&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQIJK1olXQYFV1pfDkIfBF8NE1gQXg8FU1tYCHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSltVC04UCmgPHl4VQl9HCANtbDNhADFpXjp2JHhjF1sbDwxUADxNe1cZbQEHU1haAUgQM28MGl8RbTYCVW4cZkwVB2wPG2sXXQcDUV5VAUISM28OHloWXAQGVVpbAEwnA2cMK4KV6tCgxofDgp6flF84K1glbTYCZF1tViUWUGkLEl4cDmheUgkfARNIRgEIGl0QXQILXW5fCUoVAV84KzsdNkViNAUOfRtQfTR4flxlOkJ1EQcUTSUVYRoOEw1WOnp3AggffQsRZCc4GGs&cntvendor=1&srcsubj=27620175&type=bkbuy&subject=27620175"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27620175/",
+    "douban_id": "27620175",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s30025576.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张忌",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E5%BF%8C"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "大方",
+            "link": "https://book.douban.com/producers/37"
+        },
+        {
+            "text": "中信大方·张忌作品系列",
+            "link": "https://book.douban.com/series/40298"
+        }
+    ],
+    "tag": "中国文学",
+    "avg_rate": 3.798
+}

@@ -1,0 +1,71 @@
+{
+    "title": "狂飙",
+    "bookInfo": {
+        "作者": "徐纪周 / 朱俊懿 / 白文君",
+        "出版社": "青岛出版社",
+        "出版年": "2023-2",
+        "页数": "496",
+        "定价": "68.00元",
+        "装帧": "平装",
+        "ISBN": "9787573604309"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "10.2%",
+        "four_star_rate": "23.4%",
+        "three_star_rate": "48.3%",
+        "two_star_rate": "14.9%",
+        "one_star_rate": "3.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4619535/",
+            "name": "徐纪周",
+            "role": "作者",
+            "douban_id": "4619535"
+        },
+        {
+            "link": "https://book.douban.com/author/4619534/",
+            "name": "白文君",
+            "role": "作者",
+            "douban_id": "4619534"
+        },
+        {
+            "link": "https://book.douban.com/author/4619533/",
+            "name": "朱俊懿",
+            "role": "作者",
+            "douban_id": "4619533"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "25.00元",
+            "link": "https://read.douban.com/ebook/419505393/?dcs=subject-buylink&dcm=douban&dct=36218542"
+        },
+        {
+            "name": "得到",
+            "price": "25.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=bxEYR1zAbZMmVzK4p1oxl67XeNaB83OrgOW92GJERgryYQdDnqjkPLvO5eOZ8Nqr&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "34.00元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=jingdong&srcpage=subject&price=3400&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAaAJK1olXwMHUFdbAEIQCl8IGVwWXgUHXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IODxk2a0IeeBVUfVpvWERhL1oKVBF2CiZ7dVkRXgJFKz0UWhdwZDRPc1JQIRFCWCokdCxgWjpKbDJPBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZYNh4Wfj9uZAx0Rx90XmdaJFdUUAJBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVBsVF9cCUoWB2sPGzVGBwUAUl5tCksWAmoIE1wWXDYCUltcCEMfAW0AHFMcbQYKUG6EiPzBof3RhdHA1ZEyZG5eOHsnA2w4GGtLMwdRUlZYARsSbTMOTBpWVAVUOl5cCkIWCmcLK1kUXAQAZG5tUwx8YGYBYCFJOwd4URw-c09AXzVpEhJmMwQGV1oadyheUTNvfABSNQ9HKG5eOA&cntvendor=5&srcsubj=36218542&type=bkbuy&subject=36218542"
+        },
+        {
+            "name": "当当网",
+            "price": "65.30元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=dangdang&srcpage=subject&price=6530&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36218542%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29507701&cntvendor=5&srcsubj=36218542&type=bkbuy&subject=36218542"
+        },
+        {
+            "name": "中图网",
+            "price": "46.10元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=bookschina&srcpage=subject&price=4610&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9000814.htm&cntvendor=5&srcsubj=36218542&type=bkbuy&subject=36218542"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36218542/",
+    "douban_id": "36218542",
+    "menu": [],
+    "tag": "小说"
+}

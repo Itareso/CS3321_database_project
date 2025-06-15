@@ -1,0 +1,154 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "元杂剧研究",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34869743.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36792125/",
+                        "year": "2024",
+                        "id": 36792125
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "杜甫詩注 第十一冊",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34990386.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37093611/",
+                        "year": "2024",
+                        "id": 37093611
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "杜甫私记",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34469931.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36313388/",
+                        "year": "2023",
+                        "id": 36313388
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "陶渊明传",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34740571.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36462341/",
+                        "year": "2023",
+                        "id": 36462341
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "汉文漫话",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34513474.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35885817/",
+                        "year": "2023",
+                        "id": 35885817
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "新唐诗选",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34740570.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36466780/",
+                        "year": "2023",
+                        "id": 36466780
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国詩史",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34961225.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37045487/",
+                        "year": "2023",
+                        "id": 37045487
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "中国诗史",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34384941.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35870979/",
+                        "year": "2022",
+                        "id": 35870979
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "中国文学史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34384940.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35870980/",
+                        "year": "2022",
+                        "id": 35870980
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "汉武帝",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33689018.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35127759/",
+                        "year": "2020",
+                        "id": 35127759
+                    }
+                }
+            ],
+            "total": 56
+        }
+    },
+    "author_link": "https://book.douban.com/author/4609886/",
+    "author_douban_id": "4609886",
+    "personage_id": 35303127,
+    "name": [
+        "吉川幸次郎",
+        "Kojiro Yoshikawa"
+    ],
+    "intro": "吉川幸次郎（1904–1980），日本最具代表性的汉学家之一，京都大学文学博士，曾任京都大学教授，日本东方学会会长。代表作有《中国文学史》《中国诗史》《陶渊明传》《杜甫私记》《元杂剧研究》等，并有《吉川幸次郎全集》二十七卷传世。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/26ef5bcb4527effd414b16408331aafe.jpg",
+    "sex": 1,
+    "birth_date": 1904,
+    "death_date": 1980,
+    "age": 77,
+    "birth_place": [
+        "日本",
+        "兵库县",
+        "神户市"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

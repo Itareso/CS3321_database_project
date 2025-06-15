@@ -1,0 +1,42 @@
+{
+    "title": "古典音乐",
+    "bookInfo": {
+        "作者": "（美）波格（Pogue D.)",
+        "出版社": "机械工业出版社",
+        "出版年": "2005-6",
+        "页数": "298",
+        "定价": "38.00元",
+        "装帧": "简裝本",
+        "丛书": "阿呆系列",
+        "ISBN": "9787111163862"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "44.3%",
+        "four_star_rate": "43.6%",
+        "three_star_rate": "11.0%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1321743/",
+    "douban_id": "1321743",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s9962737.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "（美）波格（Pogue D.)",
+            "link": "https://book.douban.com/search/%E6%B3%A2%E6%A0%BC"
+        },
+        {
+            "text": "机械工业出版社",
+            "link": "https://book.douban.com/press/2793"
+        },
+        {
+            "text": "阿呆系列",
+            "link": "https://book.douban.com/series/8955"
+        }
+    ],
+    "tag": "音乐"
+}

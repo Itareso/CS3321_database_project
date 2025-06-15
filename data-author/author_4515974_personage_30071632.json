@@ -1,0 +1,155 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "世纪之交的风景与记忆",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34979706.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36991626/",
+                        "year": "2024",
+                        "id": 36991626
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "危機時刻的知識分子",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34796885.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36788026/",
+                        "year": "2023",
+                        "id": 36788026
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "可畏的想像力",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34511493.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36244120/",
+                        "year": "2023",
+                        "id": 36244120
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "哈佛新编中国现代文学史",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34330367.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35716743/",
+                        "year": "2022",
+                        "id": 35716743
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "南洋讀本",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34355638.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35972934/",
+                        "year": "2022",
+                        "id": 35972934
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "文學赤子：劉再復先生八秩壽慶文集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33977934.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35574946/",
+                        "year": "2021",
+                        "id": 35574946
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "當代人文的三個方向",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33704542.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35150051/",
+                        "year": "2020",
+                        "id": 35150051
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "史诗时代的抒情声音",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s32811991.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30428839/",
+                        "year": "2019",
+                        "id": 30428839
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "悬崖边的树",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33440418.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34650113/",
+                        "year": "2019",
+                        "id": 34650113
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "千迴萬轉: 張愛玲學重探",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29825195.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30279258/",
+                        "year": "2018",
+                        "id": 30279258
+                    }
+                }
+            ],
+            "total": 73
+        }
+    },
+    "author_link": "https://book.douban.com/author/4515974/",
+    "author_douban_id": "4515974",
+    "personage_id": 30071632,
+    "name": [
+        "王德威",
+        "David Der-wei Wang"
+    ],
+    "intro": "王德威 （1954年11月6日—），比较文学及文学评论学者，哈佛大学东亚语言与文明系讲座教授，长江学者，中央研究院院士。1976年，于国立台湾大学外文系毕业。1982年，取得美国威斯康辛大学麦迪逊分校比较文学博士学位。2002年至2004年间曾任哥伦比亚大学丁龙讲座教授。专长研究比较文学和文学评论。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/b7473c22f8364b68b553f5aef51d9eff.jpg",
+    "sex": 1,
+    "birth_date": 1954,
+    "age": 72,
+    "birth_place": [
+        "中国",
+        "台湾",
+        "台北"
+    ],
+    "IMDB": "nm11989585",
+    "profession": [
+        "作者",
+        "译者",
+        "编者"
+    ]
+}

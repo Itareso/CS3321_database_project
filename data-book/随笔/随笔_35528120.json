@@ -1,0 +1,125 @@
+{
+    "title": "书问京都",
+    "bookInfo": {
+        "作者": "苏枕书",
+        "出版社": "中华书局",
+        "出版年": "2021-8",
+        "页数": "400",
+        "定价": "68.00元",
+        "装帧": "平装",
+        "丛书": "京都通信",
+        "ISBN": "9787101152463"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.2%",
+        "four_star_rate": "47.9%",
+        "three_star_rate": "19.1%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "1.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/201941/",
+            "name": "苏枕书",
+            "role": "作者",
+            "douban_id": "201941"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "40.80元",
+            "link": "https://www.dedao.cn/eBook/lxaVvndNG6D4kgLJ2OKxqVMmE1zXPwVoO10AdjyQeYR75vbaBnr9ol8pZERLg1my?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "52.84元",
+            "link": "https://book.douban.com/link2/?lowest=4720&pre=0&vendor=jingdong&srcpage=subject&price=5284&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMVWg4EVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXF5aAE0XHDZNRwYlPlZKE14cfyh1QjdqTlsRFENKVEBYXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcBVVlaDUgSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXQRsCFgKSx5JA2dmG1oSXwYEUldtCkoWAW04K2t9P0VaMD4ibRZwUStQEjxQC3RcNg0BaSN5AWcITDl2BVRbCR0eYClDS2t4K1gl&cntvendor=4&srcsubj=35528120&type=bkbuy&subject=35528120"
+        },
+        {
+            "name": "当当网",
+            "price": "68.00元",
+            "link": "https://book.douban.com/link2/?lowest=4720&pre=0&vendor=dangdang&srcpage=subject&price=6800&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35528120%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29287915&cntvendor=4&srcsubj=35528120&type=bkbuy&subject=35528120"
+        },
+        {
+            "name": "中图网",
+            "price": "47.20元",
+            "link": "https://book.douban.com/link2/?lowest=4720&pre=0&vendor=bookschina&srcpage=subject&price=4720&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8653954.htm&cntvendor=4&srcsubj=35528120&type=bkbuy&subject=35528120"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35528120/",
+    "douban_id": "35528120",
+    "menu": [
+        "",
+        "        序 / 1",
+        "        壬辰年 二〇一二年",
+        "        奈良的晚上",
+        "        癸巳年 二〇一三年",
+        "        东京巡礼",
+        "        丙申年 二〇一六年",
+        "        框内，框外？ 39",
+        "        南纪旧闻 51",
+        "        诱我如痴几上书",
+        "        丁酉年 二〇一七年",
+        "        纸之话",
+        "        读十砚山房傅增湘旧藏",
+        "        读书漫游",
+        "        朝鲜藏书印",
+        "        春季书市",
+        "        “别的慰解”",
+        "        杏雨书屋之行",
+        "        缓缓归",
+        "        天理大学观书记",
+        "        戊戌年 二〇一八年",
+        "        节分祭前夜",
+        "        东大寺的礼物",
+        "        溶溶春水浸春云",
+        "        牡丹坠落的清晨",
+        "        春季古书市第一日",
+        "        乱买书",
+        "        风景此处佳",
+        "        秋夜忆南山城",
+        "        岁末得书",
+        "        己亥年 二〇一九年",
+        "        梅雨薰风翻书页",
+        "        宁乐之游",
+        "        怀人书",
+        "        庚子年 二〇二〇年",
+        "        非常时期",
+        "        春蔬之味",
+        "        莫名其妙结束的非常时期",
+        "        解封以后",
+        "        车中闲语",
+        "        南腔北调",
+        "        药用与饮食",
+        "        古书店与藏书印",
+        "        小城奇遇",
+        "        万山不隔中秋月",
+        "        久违的书市",
+        "        山鸟不知名",
+        "        海东琴事说琴山",
+        "        辛丑年 二〇二一年",
+        "        梅信到窗前",
+        "        异乡人的西云院",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33951205.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "苏枕书",
+            "link": "https://book.douban.com/search/%E8%8B%8F%E6%9E%95%E4%B9%A6"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "京都通信",
+            "link": "https://book.douban.com/series/69390"
+        }
+    ],
+    "tag": "随笔"
+}

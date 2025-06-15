@@ -1,0 +1,136 @@
+{
+    "title": "水星播种",
+    "bookInfo": {
+        "作者": "刘慈欣 / 郝景芳 / 韩松 / 王晋康 / 陈楸帆 / 江波 / 宝树 / 陈茜 / 夏笳",
+        "出版社": "沈阳出版社",
+        "出版年": "2017-10-1",
+        "页数": "280",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "丛书": "中国科幻小说基因库",
+        "ISBN": "9787544186674"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.8%",
+        "four_star_rate": "31.6%",
+        "three_star_rate": "25.5%",
+        "two_star_rate": "8.0%",
+        "one_star_rate": "14.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/711438/",
+            "name": "宝树",
+            "role": "",
+            "douban_id": "711438"
+        },
+        {
+            "link": "https://book.douban.com/author/459173/",
+            "name": "江波",
+            "role": "作者",
+            "douban_id": "459173"
+        },
+        {
+            "link": "https://book.douban.com/author/333598/",
+            "name": "陈楸帆",
+            "role": "作者",
+            "douban_id": "333598"
+        },
+        {
+            "link": "https://book.douban.com/author/238835/",
+            "name": "韩松",
+            "role": "作者",
+            "douban_id": "238835"
+        },
+        {
+            "link": "https://book.douban.com/author/502907/",
+            "name": "郝景芳",
+            "role": "作者",
+            "douban_id": "502907"
+        },
+        {
+            "link": "https://book.douban.com/author/4561353/",
+            "name": "刘慈欣",
+            "role": "作者",
+            "douban_id": "4561353"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "8.00元",
+            "link": "https://book.douban.com/link2/?lowest=800&pre=0&vendor=jingdong&srcpage=subject&price=800&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070462814141.html&cntvendor=2&srcsubj=27178057&type=bkbuy&subject=27178057"
+        },
+        {
+            "name": "中图网",
+            "price": "27.10元",
+            "link": "https://book.douban.com/link2/?lowest=800&pre=0&vendor=bookschina&srcpage=subject&price=2710&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7613594.htm&cntvendor=2&srcsubj=27178057&type=bkbuy&subject=27178057"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27178057/",
+    "douban_id": "27178057",
+    "menu": [
+        "",
+        "        山/1",
+        "        最后一个勇敢的人/33",
+        "        暗室/51",
+        "        水星播种/97",
+        "        鼠年/137",
+        "        桃源惊梦/171",
+        "        海的女儿/195",
+        "        百鬼夜行街/219",
+        "        一个人的愿望/235",
+        "        后记/259",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29587842.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3"
+        },
+        {
+            "text": "郝景芳",
+            "link": "https://book.douban.com/search/%E9%83%9D%E6%99%AF%E8%8A%B3"
+        },
+        {
+            "text": "韩松",
+            "link": "https://book.douban.com/search/%E9%9F%A9%E6%9D%BE"
+        },
+        {
+            "text": "王晋康",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E6%99%8B%E5%BA%B7"
+        },
+        {
+            "text": "陈楸帆",
+            "link": "https://book.douban.com/search/%E9%99%88%E6%A5%B8%E5%B8%86"
+        },
+        {
+            "text": "江波",
+            "link": "https://book.douban.com/search/%E6%B1%9F%E6%B3%A2"
+        },
+        {
+            "text": "宝树",
+            "link": "https://book.douban.com/author/311536"
+        },
+        {
+            "text": "陈茜",
+            "link": "https://book.douban.com/search/%E9%99%88%E8%8C%9C"
+        },
+        {
+            "text": "夏笳",
+            "link": "https://book.douban.com/search/%E5%A4%8F%E7%AC%B3"
+        },
+        {
+            "text": "沈阳出版社",
+            "link": "https://book.douban.com/press/2283"
+        },
+        {
+            "text": "中国科幻小说基因库",
+            "link": "https://book.douban.com/series/55980"
+        }
+    ],
+    "tag": "科幻"
+}

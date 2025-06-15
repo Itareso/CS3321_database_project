@@ -1,0 +1,87 @@
+{
+    "title": "真好",
+    "bookInfo": {
+        "作者": "老树画画",
+        "出版社": "上海书画出版社",
+        "出版年": "2021-5",
+        "页数": "160",
+        "定价": "48",
+        "装帧": "精装",
+        "丛书": "活着真好",
+        "ISBN": "9787547926024"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "47.1%",
+        "four_star_rate": "32.9%",
+        "three_star_rate": "17.6%",
+        "two_star_rate": "2.4%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/406236/",
+            "name": "刘树勇",
+            "role": "作者",
+            "douban_id": "406236"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "25.20元",
+            "link": "https://book.douban.com/link2/?lowest=2520&pre=0&vendor=jingdong&srcpage=subject&price=2520&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFITXAEGUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVhcD08THDZNRwYlCQ8EBgBfDlFyGTdzGyhvR19yB15HTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcBVVdYCUIUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGA8dVAZsCFgKSx8XXCpmG1oSWAcBUlZtCkoWAW04K2tpLnNQXD4ufDNkXzdaWwBVFnxJJxxcck55ARJjeyh9D1BQLA0OdDhuUTVDK1gl&cntvendor=3&srcsubj=35491476&type=bkbuy&subject=35491476"
+        },
+        {
+            "name": "当当网",
+            "price": "27.00元",
+            "link": "https://book.douban.com/link2/?lowest=2520&pre=0&vendor=dangdang&srcpage=subject&price=2700&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35491476%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29254077&cntvendor=3&srcsubj=35491476&type=bkbuy&subject=35491476"
+        },
+        {
+            "name": "中图网",
+            "price": "27.40元",
+            "link": "https://book.douban.com/link2/?lowest=2520&pre=0&vendor=bookschina&srcpage=subject&price=2740&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8611604.htm&cntvendor=3&srcsubj=35491476&type=bkbuy&subject=35491476"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35491476/",
+    "douban_id": "35491476",
+    "menu": [
+        "",
+        "        再多说几句 /1",
+        "        读书 /1",
+        "        花儿 /13",
+        "        读画记 /15",
+        "        猫 /27",
+        "        惜生册 /30",
+        "        民国先生 /43",
+        "        春色无边册 /46",
+        "        名人是一种象征 /58",
+        "        消夏册 /73",
+        "        应该闲成一种什么样子 /87",
+        "        秋风册 /88",
+        "        空虚的眺望 /113",
+        "        江南一遇是梅花 /114",
+        "        王 五 /128",
+        "        一鸟册 /139",
+        "        一条阳光下的河流 /146",
+        "        随手 /148",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33918699.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "老树画画",
+            "link": "https://book.douban.com/search/%E8%80%81%E6%A0%91%E7%94%BB%E7%94%BB"
+        },
+        {
+            "text": "上海书画出版社",
+            "link": "https://book.douban.com/press/2341"
+        },
+        {
+            "text": "活着真好",
+            "link": "https://book.douban.com/series/57195"
+        }
+    ],
+    "tag": "随笔"
+}

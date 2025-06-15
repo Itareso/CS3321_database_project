@@ -1,0 +1,49 @@
+{
+    "title": "钢铁是怎样练成的",
+    "bookInfo": {
+        "作者": "[苏联] 尼古拉·阿列克谢耶维奇·奥斯特洛夫斯基",
+        "译者": "蒋昌龄",
+        "出版年": "2009-6",
+        "页数": "113",
+        "定价": "10.00元",
+        "ISBN": "9787535344519"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "23.7%",
+        "four_star_rate": "44.6%",
+        "three_star_rate": "27.7%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "2.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/519554/",
+            "name": "尼古拉·阿列克谢耶维奇·奥斯特洛夫斯基",
+            "role": "作者",
+            "douban_id": "519554"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.80元",
+            "link": "https://book.douban.com/link2/?lowest=1680&pre=0&vendor=jingdong&srcpage=subject&price=1680&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgcLVVpeCk4TBV8IGloTXQYHU1hVC08WB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkIG14SWw4BUF9ZFxJSXzI4Z1hlAWcCIik-ezFqdwwPQztVL1AFElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwIAVFxcOEkXAm4NG1MSXgcyVFhYCU4fCmgKH1sSXzYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRU1sNCU1EbTMOQQRdWU9HOlxcC0kVBWcLK1kUXAQAZG5taiNTQR8NRglNVAJWNS4DTCN8XTZuGzpAMwRiMgs1bglldjcLfShFOnVDAm5eOA&cntvendor=1&srcsubj=3809551&type=bkbuy&subject=3809551"
+        }
+    ],
+    "url": "https://book.douban.com/subject/3809551/",
+    "douban_id": "3809551",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s6035646.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[苏联] 尼古拉·阿列克谢耶维奇·奥斯特洛夫斯基",
+            "link": "https://book.douban.com/author/519554/"
+        },
+        {
+            "text": "蒋昌龄",
+            "link": "https://book.douban.com/search/%E8%92%8B%E6%98%8C%E9%BE%84"
+        }
+    ],
+    "tag": "人物传记"
+}

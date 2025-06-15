@@ -1,0 +1,65 @@
+{
+    "title": "少爷",
+    "bookInfo": {
+        "作者": "[日] 夏目漱石",
+        "出版社": "时代文艺出版社",
+        "译者": "竺家荣",
+        "出版年": "2020-1",
+        "页数": "151",
+        "定价": "30",
+        "装帧": "平装",
+        "ISBN": "9787538761375"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "41.9%",
+        "four_star_rate": "46.4%",
+        "three_star_rate": "11.2%",
+        "two_star_rate": "0.3%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503311/",
+            "name": "夏目漱石",
+            "role": "作者",
+            "douban_id": "4503311"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "15.00元",
+            "link": "https://book.douban.com/link2/?lowest=1500&pre=0&vendor=jingdong&srcpage=subject&price=1500&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF0VWwMEV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOLSQKUjtIf2prUB1-VWV3J108cw9hcToOdVl8L054JwQNCShLXxZyazocORFCWCokcC9gYBRIbARtBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZUFwEqCQB1BQ1ufSNSBnliPB0GSxhBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcBVV5VAEIeC2c4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCgEAUw0zVE1AQD0OXQd7XQcAVlZcCU8nAW4JGVklbTZ7LgkHeBRrBgxDXTAdPnNxVz8mTD1lVmlmGTJnFXxxDg5caxdLehV4elJxbQUy&cntvendor=3&srcsubj=34464697&type=bkbuy&subject=34464697"
+        },
+        {
+            "name": "当当网",
+            "price": "25.80元",
+            "link": "https://book.douban.com/link2/?lowest=1500&pre=0&vendor=dangdang&srcpage=subject&price=2580&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34464697%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27946980&cntvendor=3&srcsubj=34464697&type=bkbuy&subject=34464697"
+        },
+        {
+            "name": "中图网",
+            "price": "19.00元",
+            "link": "https://book.douban.com/link2/?lowest=1500&pre=0&vendor=bookschina&srcpage=subject&price=1900&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8183985.htm&cntvendor=3&srcsubj=34464697&type=bkbuy&subject=34464697"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34464697/",
+    "douban_id": "34464697",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33645123.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 夏目漱石",
+            "link": "https://book.douban.com/author/4503311"
+        },
+        {
+            "text": "时代文艺出版社",
+            "link": "https://book.douban.com/press/2589"
+        },
+        {
+            "text": "竺家荣",
+            "link": "https://book.douban.com/search/%E7%AB%BA%E5%AE%B6%E8%8D%A3"
+        }
+    ],
+    "tag": "日本文学"
+}

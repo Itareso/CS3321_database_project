@@ -1,0 +1,55 @@
+{
+    "title": "正常接触",
+    "bookInfo": {
+        "作者": "王占黑",
+        "出版社": "云南人民出版社",
+        "出品方": "理想国",
+        "出版年": "2024-9",
+        "页数": "300",
+        "定价": "65",
+        "装帧": "精装",
+        "ISBN": "9787222230071"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.8%",
+        "four_star_rate": "40.2%",
+        "three_star_rate": "21.9%",
+        "two_star_rate": "6.7%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610471/",
+            "name": "王占黑",
+            "role": "作者",
+            "douban_id": "4610471"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "42.60元",
+            "link": "https://book.douban.com/link2/?lowest=4260&pre=0&vendor=jingdong&srcpage=subject&price=4260&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQIJK1olXwIEVFxdAE8SBV8IHlgTWAIAXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHV1hYDEkfHDZNRwYlHGRdElYDVx9yASddaxxjFm9lVwE6TkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXQ4FVFdVD0gSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8SWg5sCFgKVwxWVSZmE1MUXwIEUG5fCUoVAV84Kz5lDV5iNFk2UgN3XjVzbiV0A15rNRUNSiUVAw8PaydNAlxYAAo4eE9IARE4GGs&cntvendor=2&srcsubj=37029960&type=bkbuy&subject=37029960"
+        },
+        {
+            "name": "中图网",
+            "price": "46.50元",
+            "link": "https://book.douban.com/link2/?lowest=4260&pre=0&vendor=bookschina&srcpage=subject&price=4650&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9409792.htm&cntvendor=2&srcsubj=37029960&type=bkbuy&subject=37029960"
+        }
+    ],
+    "url": "https://book.douban.com/subject/37029960/",
+    "douban_id": "37029960",
+    "menu": [
+        "",
+        "        韦驮天",
+        "        清水，又见清水",
+        "        正常接触",
+        "        献给芥末号",
+        "        动物之城",
+        "        没有寄的信",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

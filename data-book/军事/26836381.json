@@ -1,0 +1,65 @@
+{
+    "title": "战争论",
+    "bookInfo": {
+        "作者": "卡尔·冯·克劳塞维茨",
+        "出版社": "商务印书馆",
+        "译者": "时殷弘",
+        "出版年": "2016-5-1",
+        "页数": "1055",
+        "定价": "86.00",
+        "装帧": "平装",
+        "丛书": "汉译世界学术名著丛书·政治法律社会",
+        "ISBN": "9787100120401"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.7%",
+        "four_star_rate": "26.7%",
+        "three_star_rate": "14.7%",
+        "two_star_rate": "2.7%",
+        "one_star_rate": "25.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4510645/",
+            "name": "卡尔·菲利普·戈特弗里德·冯·克劳塞维茨",
+            "role": "作者",
+            "douban_id": "4510645"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "66.60元",
+            "link": "https://book.douban.com/link2/?lowest=6120&pre=0&vendor=jingdong&srcpage=subject&price=6659&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG1McWwEHVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCXFdbD04WHDZNRwYlQ0AEFQ0pDit3YQ1fQgEcPEZ-BiZDeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUV5fCkgeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1kRVQRsCFgHVw5DQCpmGVoUVAQFU1ptCkoWAW04K2tTBXBaMz4KTQtDVjB3cghgCQN3KyYmCRx5AT9KEgN9BQVAFCYlThNffxEOK1gl&cntvendor=2&srcsubj=26836381&type=bkbuy&subject=26836381"
+        },
+        {
+            "name": "中图网",
+            "price": "61.20元",
+            "link": "https://book.douban.com/link2/?lowest=6120&pre=0&vendor=bookschina&srcpage=subject&price=6120&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7237142.htm&cntvendor=2&srcsubj=26836381&type=bkbuy&subject=26836381"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26836381/",
+    "douban_id": "26836381",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s28914177.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "卡尔·冯·克劳塞维茨",
+            "link": "https://book.douban.com/author/4510645"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "时殷弘",
+            "link": "https://book.douban.com/search/%E6%97%B6%E6%AE%B7%E5%BC%98"
+        },
+        {
+            "text": "汉译世界学术名著丛书·政治法律社会",
+            "link": "https://book.douban.com/series/27"
+        }
+    ],
+    "tag": "军事"
+}

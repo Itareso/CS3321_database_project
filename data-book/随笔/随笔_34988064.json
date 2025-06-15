@@ -1,0 +1,57 @@
+{
+    "title": "风物",
+    "bookInfo": {
+        "作者": "青简",
+        "出版社": "新世界出版社",
+        "出版年": "2020-4",
+        "ISBN": "9787510470493"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.2%",
+        "four_star_rate": "53.8%",
+        "three_star_rate": "20.0%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1155230/",
+            "name": "青简",
+            "role": "作者",
+            "douban_id": "1155230"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "44.00元",
+            "link": "https://book.douban.com/link2/?lowest=4400&pre=0&vendor=jingdong&srcpage=subject&price=4400&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFMUWQ8FVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEgYrUCx3VCpITw5hCgBxKStYXhxBXAxSdVlFHw9aPAZeSgtveylQeTJOWxFCWCokcBtgcBxUbFllBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZwKl0NdzltRQ0AaQ4UVWcDADsbc1F3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtZAEsXBmc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYAVV8zVE1AQShKHl57XQcFUV9YAE4nAW4JGVklbTZEDCgFbytARi9cTi9CW3V_IVsLXx1IYDVmGQtXVF5qDF0fSDNvRTdqcgATbQUy&cntvendor=3&srcsubj=34988064&type=bkbuy&subject=34988064"
+        },
+        {
+            "name": "当当网",
+            "price": "83.60元",
+            "link": "https://book.douban.com/link2/?lowest=4400&pre=0&vendor=dangdang&srcpage=subject&price=8360&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34988064%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28978710&cntvendor=3&srcsubj=34988064&type=bkbuy&subject=34988064"
+        },
+        {
+            "name": "中图网",
+            "price": "53.80元",
+            "link": "https://book.douban.com/link2/?lowest=4400&pre=0&vendor=bookschina&srcpage=subject&price=5380&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8334061.htm&cntvendor=3&srcsubj=34988064&type=bkbuy&subject=34988064"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34988064/",
+    "douban_id": "34988064",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33668498.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "青简",
+            "link": "https://book.douban.com/author/1155230"
+        },
+        {
+            "text": "新世界出版社",
+            "link": "https://book.douban.com/press/2811"
+        }
+    ],
+    "tag": "随笔"
+}

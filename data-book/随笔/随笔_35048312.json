@@ -1,0 +1,73 @@
+{
+    "title": "十二生肖中国年",
+    "bookInfo": {
+        "作者": "李零",
+        "出版社": "生活·读书·新知三联书店",
+        "出版年": "2020-6",
+        "页数": "205",
+        "定价": "68.00元",
+        "装帧": "精装",
+        "ISBN": "9787108068415"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "13.8%",
+        "four_star_rate": "26.6%",
+        "three_star_rate": "48.9%",
+        "two_star_rate": "8.5%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/150602/",
+            "name": "李零",
+            "role": "作者",
+            "douban_id": "150602"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "51.28元",
+            "link": "https://book.douban.com/link2/?lowest=5128&pre=0&vendor=jingdong&srcpage=subject&price=5128&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMVVQYHU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXF5VCE4QHDZNRwYlGE5fNzUNDjtyV3VfTiFmQ3YAI1c-eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UXgcCU1pbDUsSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlwVD1JsCFgKS05RVCRmG1oRWQEKXFhtCkoWAW04K2tmIUVEITsITy5vZzZ2RDpoD0JGDxcYVDV5ARp_SydjGwZgMQQHezdiQhxbK1gl&cntvendor=2&srcsubj=35048312&type=bkbuy&subject=35048312"
+        },
+        {
+            "name": "中图网",
+            "price": "74.40元",
+            "link": "https://book.douban.com/link2/?lowest=5128&pre=0&vendor=bookschina&srcpage=subject&price=7440&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9003569.htm&cntvendor=2&srcsubj=35048312&type=bkbuy&subject=35048312"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35048312/",
+    "douban_id": "35048312",
+    "menu": [
+        "",
+        "        自序",
+        "        什么是十二生肖（十二问）",
+        "        鼠年说鼠",
+        "        牛年说牛",
+        "        虎年说虎",
+        "        兔年说兔",
+        "        龙年说龙",
+        "        蛇年说蛇",
+        "        马年说马",
+        "        羊年说羊",
+        "        猴年说猴",
+        "        鸡年说鸡",
+        "        狗年说狗",
+        "        猪年说猪",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33694207.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李零",
+            "link": "https://book.douban.com/author/150602"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        }
+    ],
+    "tag": "随笔"
+}

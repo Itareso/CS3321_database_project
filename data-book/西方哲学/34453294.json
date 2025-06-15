@@ -1,0 +1,127 @@
+{
+    "title": "古代哲学导论",
+    "bookInfo": {
+        "作者": "克里斯托弗‧希尔兹",
+        "出版社": "北京大学出版社",
+        "译者": "马明宇",
+        "出版年": "2019-11-1",
+        "页数": "444",
+        "定价": "68",
+        "装帧": "平装",
+        "丛书": "西方古典学研究",
+        "ISBN": "9787301305713"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "58.8%",
+        "four_star_rate": "34.6%",
+        "three_star_rate": "4.2%",
+        "two_star_rate": "1.9%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4618061/",
+            "name": "克里斯托弗‧希尔兹",
+            "role": "作者",
+            "douban_id": "4618061"
+        }
+    ],
+    "shops": [
+        {
+            "name": "当当网",
+            "price": "46.80元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=dangdang&srcpage=subject&price=4680&pos=1&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34453294%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28507576&cntvendor=3&srcsubj=34453294&type=bkbuy&subject=34453294"
+        },
+        {
+            "name": "京东商城",
+            "price": "34.00元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=jingdong&srcpage=subject&price=3400&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0dXwcLU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUlZfCUIQHDZNRwYlI1FlKwQZST13d2xYcxwQDQRmLygAaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UWA4GV1xZC0kUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gUDwBsCFgHVQJHWDxmGFMdWAMAXVltCkoWAW04K2tJWkdhMD44WBlrZR9qGAhQC0cAB1kUDhd5ATJDaVx9PnEEBickVEwfBAZNK1gl&cntvendor=3&srcsubj=34453294&type=bkbuy&subject=34453294"
+        },
+        {
+            "name": "中图网",
+            "price": "52.70元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=bookschina&srcpage=subject&price=5270&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8278708.htm&cntvendor=3&srcsubj=34453294&type=bkbuy&subject=34453294"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34453294/",
+    "douban_id": "34453294",
+    "menu": [
+        "",
+        "        目录",
+        "        第一章　苏格拉底前的哲学1",
+        "        第一节　泰勒斯及最早的自然哲学家2",
+        "        第二节　克塞诺芬尼11",
+        "        第三节　赫拉克利特18",
+        "        第四节　巴门尼德和芝诺24",
+        "        第五节　德谟克利特和公元前5世纪的原子论38",
+        "        第六节　普罗泰戈拉和智者运动46",
+        "        第七节　前苏格拉底哲学家和智者所带来的挑战55",
+        "        推荐阅读56",
+        "        第二章　苏格拉底59",
+        "        第一节　苏格拉底问答法64",
+        "        第二节　美诺和欧绪弗洛的失败68",
+        "        第三节　苏格拉底式无知和苏格拉底式反讽81",
+        "        第四节　苏格拉底信条和苏格拉底悖论84",
+        "        第五节　审判和狱中的苏格拉底94",
+        "        结　论103",
+        "        推荐阅读104",
+        "        第三章　柏拉图107",
+        "        第一节　从苏格拉底到柏拉图111",
+        "        第二节　美诺的研究悖论；柏拉图的回答115",
+        "        第三节　柏拉图形式理论的两个功能123",
+        "        第四节　柏拉图对相对主义的拒绝125",
+        "        第五节　对于形式的三个论证132",
+        "        第六节　柏拉图对形式的一般性刻画156",
+        "        第七节　柏拉图式分析：一个案例研究161",
+        "        第八节　善的形式的特殊功能178",
+        "        第九节　柏拉图的线段和洞穴：我们的认知前景183",
+        "        第十节　关于形式存在的问题194",
+        "        结　论202",
+        "        推荐阅读203",
+        "        第四章　亚里士多德205",
+        "        第一节　从柏拉图到亚里士多德209",
+        "        第二节　亚里士多德对范畴理论的引入211",
+        "        第三节　四因说的引入220",
+        "        第四节　对四因说的捍卫224",
+        "        第五节　四因的运用：灵魂和身体247",
+        "        第六节　四因的运用：幸福和人类功能254",
+        "        第七节　一个幸福者的德性264",
+        "        第八节　亚里士多德对一个苏格拉底悖论的处理：",
+        "        意志软弱271",
+        "        第九节　亚里士多德论哲学分析：同名异义276",
+        "        结　论287",
+        "        推荐阅读288",
+        "        第五章　希腊化时期的哲学291",
+        "        第一节　希腊化时期292",
+        "        第二节　伊壁鸠鲁派301",
+        "        第三节　斯多葛派320",
+        "        第四节　怀疑论364",
+        "        结　论398",
+        "        推荐阅读400",
+        "        进一步阅读推荐403",
+        "        索　引421",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33734612.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "克里斯托弗‧希尔兹",
+            "link": "https://book.douban.com/author/4618061"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        },
+        {
+            "text": "马明宇",
+            "link": "https://book.douban.com/search/%E9%A9%AC%E6%98%8E%E5%AE%87"
+        },
+        {
+            "text": "西方古典学研究",
+            "link": "https://book.douban.com/series/21541"
+        }
+    ],
+    "tag": "西方哲学"
+}

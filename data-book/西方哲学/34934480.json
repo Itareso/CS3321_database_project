@@ -1,0 +1,76 @@
+{
+    "title": "论拉辛",
+    "bookInfo": {
+        "作者": "罗兰•巴尔特",
+        "出版社": "西北大学出版社",
+        "译者": "汤明洁",
+        "出版年": "2020-8",
+        "页数": "248",
+        "定价": "62.00",
+        "装帧": "精装",
+        "丛书": "精神译丛",
+        "ISBN": "9787560444833"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "54.4%",
+        "four_star_rate": "31.6%",
+        "three_star_rate": "3.5%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "8.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4586525/",
+            "name": "罗兰·巴特",
+            "role": "作者",
+            "douban_id": "4586525"
+        },
+        {
+            "link": "https://book.douban.com/author/4637578/",
+            "name": "汤明洁",
+            "role": "译者",
+            "douban_id": "4637578"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "34.83元",
+            "link": "https://book.douban.com/link2/?lowest=3483&pre=0&vendor=jingdong&srcpage=subject&price=3483&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10026551719013.html&cntvendor=2&srcsubj=34934480&type=bkbuy&subject=34934480"
+        },
+        {
+            "name": "中图网",
+            "price": "42.50元",
+            "link": "https://book.douban.com/link2/?lowest=3483&pre=0&vendor=bookschina&srcpage=subject&price=4250&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8386622.htm&cntvendor=2&srcsubj=34934480&type=bkbuy&subject=34934480"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34934480/",
+    "douban_id": "34934480",
+    "menu": [
+        "",
+        "        汤明洁，法国巴黎第一大学（先贤祠—索邦大学）哲学与认知论专业博士。现为中国社会科学院哲学研究所现代外国哲学研究室副研究员，从事以法国哲学尤其是福柯研究为背景的人文科学考古学、主体问题、话语和超话语等问题研究。译著有巴尔特《符号帝国》、卢迪奈斯科《风暴中的哲学家》、布尔迪厄《海德格尔的政治存在论》。",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33694231.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "罗兰•巴尔特",
+            "link": "https://book.douban.com/search/%E7%BD%97%E5%85%B0%E2%80%A2%E5%B7%B4%E5%B0%94%E7%89%B9"
+        },
+        {
+            "text": "西北大学出版社",
+            "link": "https://book.douban.com/press/2859"
+        },
+        {
+            "text": "汤明洁",
+            "link": "https://book.douban.com/search/%E6%B1%A4%E6%98%8E%E6%B4%81"
+        },
+        {
+            "text": "精神译丛",
+            "link": "https://book.douban.com/series/26888"
+        }
+    ],
+    "tag": "西方哲学"
+}

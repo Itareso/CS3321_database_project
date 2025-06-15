@@ -1,0 +1,61 @@
+{
+    "title": "欢乐颂 第一季",
+    "bookInfo": {
+        "作者": "阿耐",
+        "出版社": "四川文艺出版社",
+        "副标题": "女性职场指南，刘涛蒋欣王凯祖峰靳东杨紫主演",
+        "出版年": "2012-11",
+        "页数": "525",
+        "定价": "35.00元",
+        "装帧": "平装",
+        "丛书": "欢乐颂",
+        "ISBN": "9787541135514"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《欢乐颂》同名电视剧由东阳正午阳光影视有限公司、山东影视制作有限公司联合出品，孔笙执导，侯鸿亮监制。刘涛饰安迪、蒋欣饰樊胜美、杨紫饰邱莹莹、王子文饰曲筱绡、乔欣饰关雎尔。    《欢乐颂》讲述了五位各自携带过往和憧憬的年轻女性先后住进欢乐颂小区22楼，彼此间发生交集和一波三折的故事。心怀梦想的大龄“胡同公主”樊胜美、大家闺秀闷骚文艺女关雎尔、 没头脑和不高兴的综合体邱莹莹，在海市合租一套房，与高智商的海归金领安迪、做事从不按出牌的富二代小妖精曲筱绡，同住在一个名叫“欢乐颂”的中档小区的22楼，上演着22楼版的“老友记”。她们齐心协力地解决了安迪的身世之痛的问题、曲筱绡与同父异母的两个哥哥争家产的问题、樊胜美沉重的家庭负担的问题、邱莹莹的有处女情节的男朋友的问题、关睢尔的警察男友是不是在家庭背景上撒了谎的问题……生活虽然一地鸡毛，但仍要欢歌高进，成长之路虽有玫瑰有荆棘，但什么都不能阻挡坚强的心。    《欢乐颂》既是婚恋指南，教人辨识各色男人更教人尊从内心去爱；也是职场宝典，既有江湖规矩也有生存指南。小说诠释了几种女性改变命运途径的艰辛与技巧，堪称女性成长完全手册。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "21.8%",
+        "four_star_rate": "38.3%",
+        "three_star_rate": "29.7%",
+        "two_star_rate": "4.6%",
+        "one_star_rate": "5.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/677684/",
+            "name": "阿耐",
+            "role": "作者",
+            "douban_id": "677684"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.80元",
+            "link": "https://book.douban.com/link2/?lowest=1980&pre=0&vendor=jingdong&srcpage=subject&price=1980&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10032810689745.html&cntvendor=2&srcsubj=11625032&type=bkbuy&subject=11625032"
+        },
+        {
+            "name": "中图网",
+            "price": "20.20元",
+            "link": "https://book.douban.com/link2/?lowest=1980&pre=0&vendor=bookschina&srcpage=subject&price=2020&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5726154.htm&cntvendor=2&srcsubj=11625032&type=bkbuy&subject=11625032"
+        }
+    ],
+    "url": "https://book.douban.com/subject/11625032/",
+    "douban_id": "11625032",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s25110845.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "阿耐",
+            "link": "https://book.douban.com/author/677684"
+        },
+        {
+            "text": "四川文艺出版社",
+            "link": "https://book.douban.com/press/2529"
+        },
+        {
+            "text": "欢乐颂",
+            "link": "https://book.douban.com/series/14541"
+        }
+    ],
+    "tag": "职场"
+}

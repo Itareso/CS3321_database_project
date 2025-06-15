@@ -1,0 +1,55 @@
+{
+    "title": "第一辩手5·星河的泪痕",
+    "bookInfo": {
+        "作者": "双子星罗",
+        "出版社": "长江出版社",
+        "出版年": "2011-11",
+        "页数": "238",
+        "定价": "14.80元",
+        "装帧": "平装",
+        "丛书": "第一辩手",
+        "ISBN": "9787549206339"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "41.5%",
+        "four_star_rate": "29.2%",
+        "three_star_rate": "22.9%",
+        "two_star_rate": "5.9%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4622392/",
+            "name": "双子星罗",
+            "role": "作者",
+            "douban_id": "4622392"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "18.00元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=jingdong&srcpage=subject&price=1800&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgcLVVpeCk4TBV8IGloXXwIKV1lbDUwQC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0KH1MWWgAHU1lVFxJSXzI4RiMUAwViJww4ahseVDReYgIXGHNDNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwIAVFxcOEkXAm4NG1MSXgcyVFhYCU4fAmsJGFMdXzYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRXF5bC00ebTMOQQAXGgMHOl1VD0kQAGsMK1kUXAQAZG5taiNTQR8NRglNVAJWCQkgTTB8XRpMHTlPMwRiMgs1bglldjcLWwUWJgR2Am5eOA&cntvendor=1&srcsubj=7058564&type=bkbuy&subject=7058564"
+        }
+    ],
+    "url": "https://book.douban.com/subject/7058564/",
+    "douban_id": "7058564",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s7019904.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "双子星罗",
+            "link": "https://book.douban.com/author/4622392"
+        },
+        {
+            "text": "长江出版社",
+            "link": "https://book.douban.com/press/2260"
+        },
+        {
+            "text": "第一辩手",
+            "link": "https://book.douban.com/series/7689"
+        }
+    ],
+    "tag": "校园"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "轻狂2",
+    "bookInfo": {
+        "作者": "巫哲",
+        "出版社": "百花文艺出版社",
+        "出品方": "闲闲拾光",
+        "出版年": "2020-8",
+        "页数": "296",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "丛书": "轻狂",
+        "ISBN": "9787530679272"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "51.2%",
+        "four_star_rate": "30.8%",
+        "three_star_rate": "14.9%",
+        "two_star_rate": "2.3%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/321870/",
+            "name": "巫哲",
+            "role": "作者",
+            "douban_id": "321870"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "45.00元",
+            "link": "https://book.douban.com/link2/?lowest=3250&pre=0&vendor=jingdong&srcpage=subject&price=4500&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13000234.html&cntvendor=2&srcsubj=35166222&type=bkbuy&subject=35166222"
+        },
+        {
+            "name": "中图网",
+            "price": "32.50元",
+            "link": "https://book.douban.com/link2/?lowest=3250&pre=0&vendor=bookschina&srcpage=subject&price=3250&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8405674.htm&cntvendor=2&srcsubj=35166222&type=bkbuy&subject=35166222"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35166222/",
+    "douban_id": "35166222",
+    "menu": [
+        "",
+        "        ｜一｜我在天台，我有话想说",
+        "        ｜二｜霍扭扭的生日礼物",
+        "        ｜三｜篮球争霸赛",
+        "        ｜四｜进击的七人组",
+        "        ｜五｜肆意青春",
+        "        ｜六｜期中考试的后果",
+        "        ｜七｜跟你交换小秘密",
+        "        ｜八｜寇家父子的危机",
+        "        番外篇",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33699613.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "巫哲",
+            "link": "https://book.douban.com/author/321870"
+        },
+        {
+            "text": "百花文艺出版社",
+            "link": "https://book.douban.com/press/2588"
+        },
+        {
+            "text": "闲闲拾光",
+            "link": "https://book.douban.com/producers/238"
+        },
+        {
+            "text": "轻狂",
+            "link": "https://book.douban.com/series/57246"
+        }
+    ],
+    "tag": "校园"
+}

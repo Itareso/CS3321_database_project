@@ -1,0 +1,69 @@
+{
+    "title": "曙光集",
+    "bookInfo": {
+        "作者": "[美]杨振宁 / 翁帆 编译",
+        "出版社": "生活·读书·新知三联书店",
+        "副标题": "十年增订版",
+        "出版年": "2018-10",
+        "定价": "88.00元",
+        "装帧": "精装",
+        "ISBN": "9787108062536"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "65.9%",
+        "four_star_rate": "26.5%",
+        "three_star_rate": "7.6%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4541601/",
+            "name": "杨振宁",
+            "role": "作者",
+            "douban_id": "4541601"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "52.80元",
+            "link": "https://www.dedao.cn/eBook/bBVDEXGGLn7eB51b8NjVRqDoQJPMk3aEJV3adYrXmAxE4Ov92lgzK6ZypxLqdQjp?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "60.98元",
+            "link": "https://book.douban.com/link2/?lowest=6098&pre=0&vendor=jingdong&srcpage=subject&price=6098&pos=2&url=https%3A%2F%2Fitem.jd.com%2F10026529155031.html&cntvendor=4&srcsubj=30348077&type=bkbuy&subject=30348077"
+        },
+        {
+            "name": "当当网",
+            "price": "84.50元",
+            "link": "https://book.douban.com/link2/?lowest=6098&pre=0&vendor=dangdang&srcpage=subject&price=8450&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30348077%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25480080&cntvendor=4&srcsubj=30348077&type=bkbuy&subject=30348077"
+        },
+        {
+            "name": "中图网",
+            "price": "69.60元",
+            "link": "https://book.douban.com/link2/?lowest=6098&pre=0&vendor=bookschina&srcpage=subject&price=6959&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7925554.htm&cntvendor=4&srcsubj=30348077&type=bkbuy&subject=30348077"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30348077/",
+    "douban_id": "30348077",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29945593.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]杨振宁",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E6%8C%AF%E5%AE%81"
+        },
+        {
+            "text": "翁帆 编译",
+            "link": "https://book.douban.com/search/%E7%BF%81%E5%B8%86%20%E7%BC%96%E8%AF%91"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        }
+    ],
+    "tag": "人物传记"
+}

@@ -1,0 +1,72 @@
+{
+    "title": "个人的体验",
+    "bookInfo": {
+        "作者": "大江健三郎",
+        "出版社": "浙江文艺出版社",
+        "出品方": "磨铁·文治图书",
+        "原作名": "個人的な体験",
+        "译者": "王中忱",
+        "出版年": "2023-9",
+        "页数": "312",
+        "定价": "58.00元",
+        "装帧": "精装",
+        "ISBN": "9787533938611"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    诺贝尔文学奖得主、日本文豪大江健三郎的文学里程碑！    经典译本+特别附赠莫言导读手册！    ·    “大江健三郎以诗意的力量创造了一个想象的世界，将现实与虚幻凝结成一副展现当下人类困境的惶惑画面。”——1994年诺贝尔文学奖授奖辞    诺贝尔文学奖评审委员会特别提及了《个人的体验》和《万延元年的Football》这两部作品的重要意义。    ·    ○大江根据亲身经历创作，直面人性幽暗，一份寻求救赎的深刻记录！    《个人的体验》是大江健三郎把自己所经历的精神炼狱升华为文学的长篇小说。面对残疾儿出生这一现实，主角苦恼、动摇，甚至想放任孩子死去，最后终于走过心灵炼狱，决心和残疾的孩子一起开创共同生存的道路，在精神上获得了新生。    ○经典译本全新修订版，特别附赠莫言导读手册！    “大江先生不是那种能够躲进小楼自得其乐的书生，他有一颗像鲁迅那样嫉恶如仇的灵魂。他的创作，可以看成是那个不断地把巨石推到山上去的西绪福斯的努力，可以看成是那个不合时宜的浪漫骑士堂吉诃德的努力，可以看成是那个‘知其不可为而为之’的孔夫子的努力，他所寻求的是‘绝望中的希望’，是那线‘透进铁屋的光明’。这样一种悲壮的努力和对自己处境的清醒认识，更强化为一种不得不说的责任。”——莫言    ·    随着残疾婴儿的出生，身为父亲的“鸟”陷入了道德困境。梦想去非洲展开探险之旅的他，生怕自己就此被这婴儿拴住，可又不敢亲手了结他的生命，于是选择了逃避。鸟将新生儿弃置于医院，一心盼望他衰弱而死，自己则钻入旧情人火见子的温柔乡，用性与酒麻痹自己。陷入自我炼狱的鸟，该如何找寻人生的出路？\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "40.9%",
+        "four_star_rate": "44.5%",
+        "three_star_rate": "12.1%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4563729/",
+            "name": "大江健三郎",
+            "role": "作者",
+            "douban_id": "4563729"
+        },
+        {
+            "link": "https://book.douban.com/author/4614359/",
+            "name": "王中忱",
+            "role": "译者",
+            "douban_id": "4614359"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "9.90元",
+            "link": "https://read.douban.com/ebook/439431685/?dcs=subject-buylink&dcm=douban&dct=36458911"
+        },
+        {
+            "name": "得到",
+            "price": "9.90元",
+            "link": "https://www.dedao.cn/eBook/N4yqKRVn1jAJaMyOQ2YorRp6DvXm7weyGbwGBKLzkPq5gdxEV98eNbZl467ovjzg?source=douban"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36458911/",
+    "douban_id": "36458911",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34636868.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "大江健三郎",
+            "link": "https://book.douban.com/author/4563729"
+        },
+        {
+            "text": "浙江文艺出版社",
+            "link": "https://book.douban.com/press/2384"
+        },
+        {
+            "text": "磨铁·文治图书",
+            "link": "https://book.douban.com/producers/78"
+        },
+        {
+            "text": "王中忱",
+            "link": "https://book.douban.com/author/4614359"
+        }
+    ],
+    "tag": "日本文学"
+}

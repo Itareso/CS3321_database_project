@@ -1,0 +1,63 @@
+{
+    "title": "费曼讲演录",
+    "bookInfo": {
+        "作者": "[美]理查德·费曼",
+        "出版社": "湖南科学技术出版社",
+        "译者": "王文浩",
+        "出版年": "2016-1",
+        "页数": "100",
+        "定价": "15.00元",
+        "装帧": "平装",
+        "丛书": "周读书系",
+        "ISBN": "9787535787668"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "46.2%",
+        "four_star_rate": "43.4%",
+        "three_star_rate": "9.4%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608689/",
+            "name": "理查德·费曼",
+            "role": "作者",
+            "douban_id": "4608689"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/26735272/",
+    "douban_id": "26735272",
+    "menu": [
+        "",
+        "        1.科学的不确定性",
+        "        2.价值的不确定性",
+        "        3.这个不科学的年代",
+        "        关于理查德·费曼",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29184248.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]理查德·费曼",
+            "link": "https://book.douban.com/author/4608689"
+        },
+        {
+            "text": "湖南科学技术出版社",
+            "link": "https://book.douban.com/press/2382"
+        },
+        {
+            "text": "王文浩",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E6%96%87%E6%B5%A9"
+        },
+        {
+            "text": "周读书系",
+            "link": "https://book.douban.com/series/33954"
+        }
+    ],
+    "tag": "人物传记"
+}

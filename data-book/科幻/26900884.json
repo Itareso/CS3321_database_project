@@ -1,0 +1,84 @@
+{
+    "title": "巨兽",
+    "bookInfo": {
+        "作者": "[美] 杰里米·罗宾逊",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "Project Nemesis",
+        "译者": "虞北冥",
+        "出版年": "2016-12",
+        "页数": "300",
+        "定价": "26.00元",
+        "装帧": "平装",
+        "丛书": "世界流行科幻丛书",
+        "ISBN": "9787536484856"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.0%",
+        "four_star_rate": "41.5%",
+        "three_star_rate": "35.4%",
+        "two_star_rate": "4.1%",
+        "one_star_rate": "2.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/358548/",
+            "name": "杰里米·罗宾逊",
+            "role": "作者",
+            "douban_id": "358548"
+        },
+        {
+            "link": "https://book.douban.com/author/4617737/",
+            "name": "虞北冥",
+            "role": "译者",
+            "douban_id": "4617737"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.61元",
+            "link": "https://book.douban.com/link2/?lowest=1961&pre=0&vendor=jingdong&srcpage=subject&price=1961&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQQCV11fC0oXM28IGFsdWwIEVldYOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocVF5eCEMRB2kKEl4KBENeCW4cdDhCUDlheD5sCU90TgQ_VjZjcxNoF1clWgMFUllUC0wnA2sJH18lbQYDZB8zDUsWCm04GVsUXAMCXFleCXsXBWoJGFsTVQ8DU1xfOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgRAW8NHwx7AQBUVRoeUBd5A28PGlsTWwAyVl9cCkknM18JeFJNOmZdXSRVXzVgUC1wHlpnB1pnXQczCi9vWgxzQzNvJ0RAIzY8DUNNM2w4&cntvendor=1&srcsubj=26900884&type=bkbuy&subject=26900884"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26900884/",
+    "douban_id": "26900884",
+    "menu": [
+        "",
+        "        《纽约时报》畅销惊险小说作家科幻巨作",
+        "        千万年前的怪兽复仇归来",
+        "        没有人能像罗宾逊那样，把神话、科学和动作场面完美地糅合到一起。—— 美国畅销书作家  斯科特·希格尔",
+        "        就在你以为21世纪的小说家们已经写出了毁灭世界的每一种方式时，你读到了杰里米·罗宾逊。—— 《新罕布什尔》杂志",
+        "        明快的节奏加上跌宕起伏的情节，让这本书引人注目。惊险小说和灾难小说爱好者肯定会爱不释手。—— 《出版人周刊》",
+        "        ",
+        "        罗宾逊就喜欢把他的读者从悬崖上一脚踹下去，还不给降落伞，到千钧一发之际再救回来。—— 美国畅销书作家 杰夫·朗",
+        "        狂野而激动人心，这就是杰里米·罗宾逊。—— 美国畅销书作家  史蒂夫·拜里",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29216549.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 杰里米·罗宾逊",
+            "link": "https://book.douban.com/search/%E6%9D%B0%E9%87%8C%E7%B1%B3%C2%B7%E7%BD%97%E5%AE%BE%E9%80%8A"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "虞北冥",
+            "link": "https://book.douban.com/author/4617737"
+        },
+        {
+            "text": "世界流行科幻丛书",
+            "link": "https://book.douban.com/series/1390"
+        }
+    ],
+    "tag": "科幻"
+}

@@ -1,0 +1,156 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "坐在楼上的清源",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37156635/",
+                        "year": "2025",
+                        "id": 37156635
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "小说中的北京 新北京人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35005989.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36956215/",
+                        "year": "2024",
+                        "id": 36956215
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "她和她妈的斗争史",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s30015015.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30474575/",
+                        "year": "2019",
+                        "id": 30474575
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "借命而生",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29744018.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30198385/",
+                        "year": "2018",
+                        "id": 30198385
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "心灵外史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29758499.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30176795/",
+                        "year": "2018",
+                        "id": 30176795
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "恋恋北京",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33654071.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/33383478/",
+                        "year": "2018",
+                        "id": 33383478
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "百年百部中篇正典：世间已无陈金芳+良霞+梅子和恰可拜",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33508357.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30599976/",
+                        "year": "2018",
+                        "id": 30599976
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "特别能战斗",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29457467.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27051318/",
+                        "year": "2017",
+                        "id": 27051318
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "营救麦克黄/布老虎中篇小说",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29672273.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27152465/",
+                        "year": "2017",
+                        "id": 27152465
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "小李还乡",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29384805.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26990616/",
+                        "year": "2017",
+                        "id": 26990616
+                    }
+                }
+            ],
+            "total": 23
+        }
+    },
+    "author_link": "https://book.douban.com/author/199063/",
+    "author_douban_id": "199063",
+    "personage_id": 30074871,
+    "name": [
+        "石一枫",
+        "Yifeng Shi"
+    ],
+    "intro": "石一枫，男，1979年生于北京，现居北京；1998年考入北京大学中文系，文学硕士。2016年6月25日，石一枫的《世间已无陈金芳》获得“首届海峡两岸新锐作家好书评选”十部作品之一。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30074871/photo/2907480418",
+        "https://www.douban.com/personage/30074871/photo/2907480417"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2907480418.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907480417.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/4511d049824399a9f724380195b3e344.jpg",
+    "sex": 1,
+    "birth_date": 1979,
+    "age": 47,
+    "IMDB": "nm10979509",
+    "profession": [
+        "作者",
+        "译者",
+        "编剧"
+    ]
+}

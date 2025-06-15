@@ -1,0 +1,53 @@
+{
+    "title": "要饭的帅哥",
+    "bookInfo": {
+        "作者": "多美动漫",
+        "出版社": "北京时代华文书局",
+        "出版年": "2017-3-1",
+        "页数": "364",
+        "定价": "42．00元",
+        "装帧": "平装",
+        "ISBN": "9787569913606"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "69.9%",
+        "four_star_rate": "26.8%",
+        "three_star_rate": "2.3%",
+        "two_star_rate": "0.2%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=1360&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFsXXQ4HXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVFxdAE4eHDZNRwYlLxhwDCk9SAB3BjdfZF1tDkRcKgE8aEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeBl8IHV4UWA8KXVlaAEwQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOE1hADQFsCFgHUAseUSlmGFMSWwMBU11tCkoWAW04K2tWFWRBJDcvSSBMaGdwSVpUPQJ-NT1UXjF5ATFJbhMWHlldPzY1SwNyAwd9K1gl&cntvendor=3&srcsubj=26993018&type=bkbuy&subject=26993018"
+        },
+        {
+            "name": "当当网",
+            "price": "39.90元",
+            "link": "https://book.douban.com/link2/?lowest=1360&pre=0&vendor=dangdang&srcpage=subject&price=3990&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26993018%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D24183998&cntvendor=3&srcsubj=26993018&type=bkbuy&subject=26993018"
+        },
+        {
+            "name": "中图网",
+            "price": "13.60元",
+            "link": "https://book.douban.com/link2/?lowest=1360&pre=0&vendor=bookschina&srcpage=subject&price=1360&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7429303.htm&cntvendor=3&srcsubj=26993018&type=bkbuy&subject=26993018"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26993018/",
+    "douban_id": "26993018",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29390849.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "多美动漫",
+            "link": "https://book.douban.com/search/%E5%A4%9A%E7%BE%8E%E5%8A%A8%E6%BC%AB"
+        },
+        {
+            "text": "北京时代华文书局",
+            "link": "https://book.douban.com/press/2515"
+        }
+    ],
+    "tag": "校园"
+}

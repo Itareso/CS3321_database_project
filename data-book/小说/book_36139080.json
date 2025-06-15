@@ -1,0 +1,76 @@
+{
+    "title": "生门",
+    "bookInfo": {
+        "作者": "拟南芥",
+        "出版社": "北京联合出版公司",
+        "出品方": "雁北堂",
+        "出版年": "2022-11",
+        "页数": "296",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "ISBN": "9787559664792"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.1%",
+        "four_star_rate": "34.8%",
+        "three_star_rate": "21.7%",
+        "two_star_rate": "8.6%",
+        "one_star_rate": "1.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4618507/",
+            "name": "拟南芥",
+            "role": "作者",
+            "douban_id": "4618507"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "18.90元",
+            "link": "https://read.douban.com/ebook/413129388/?dcs=subject-buylink&dcm=douban&dct=36139080"
+        },
+        {
+            "name": "京东商城",
+            "price": "22.50元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=jingdong&srcpage=subject&price=2250&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV8VXgAKVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUF5eDkMXHDZNRwYlBGYBIiNYWiJ3BAleRiZOIHRZERotaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXQ4FUV1dD0sfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgNsCFgKVkpJWmZmG1oWXQEAV1dtCkoWAW04K2t9P0VaMD4ibRZwUT9LYTNSHHRHLDcNYzt5AWcITDl2BVRbCR0eYClCQ2t4K1gl&cntvendor=4&srcsubj=36139080&type=bkbuy&subject=36139080"
+        },
+        {
+            "name": "当当网",
+            "price": "45.00元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=dangdang&srcpage=subject&price=4500&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36139080%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29482212&cntvendor=4&srcsubj=36139080&type=bkbuy&subject=36139080"
+        },
+        {
+            "name": "中图网",
+            "price": "24.40元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=bookschina&srcpage=subject&price=2440&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8968116.htm&cntvendor=4&srcsubj=36139080&type=bkbuy&subject=36139080"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36139080/",
+    "douban_id": "36139080",
+    "menu": [
+        "",
+        "        楔子：梦魇",
+        "        第一章：“游戏”开始",
+        "        第二章：山鬼来信",
+        "        第三章：限时推凶",
+        "        第四章：狗咬狗",
+        "        第五章：死路一条",
+        "        第六章：因果报应",
+        "        第七章：噩梦循环",
+        "        第八章：不欢而散",
+        "        第九章：致命误会",
+        "        第十章：杀人犯",
+        "        第十一章：命运",
+        "        第十二章：觉醒者",
+        "        第十三章：破局",
+        "        第十四章：谁是凶手",
+        "        第十五章：生门",
+        "        番外：捞月人",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

@@ -1,0 +1,147 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "长篇的咏叹",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37187657/",
+                        "year": "2025",
+                        "id": 37187657
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "新世纪长篇小说地图",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34833235.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/31259363/",
+                        "year": "2024",
+                        "id": 31259363
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国当代文学现场",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34865400.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36848879/",
+                        "year": "2024",
+                        "id": 36848879
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国当代文学现场",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34291767.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36061679/",
+                        "year": "2024",
+                        "id": 36061679
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "非虚构文学",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35020654.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36919353/",
+                        "year": "2024",
+                        "id": 36919353
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "小说纵贯线",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36848880/",
+                        "year": "2024",
+                        "id": 36848880
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "王春林：一个人的小说阅读榜",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34833136.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36494352/",
+                        "year": "2023",
+                        "id": 36494352
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "王春林2018年长篇小说论稿",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36848882/",
+                        "year": "2023",
+                        "id": 36848882
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "与杰作的灵魂相遇",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34888233.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36848881/",
+                        "year": "2023",
+                        "id": 36848881
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "抉择的高度",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34833185.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35953600/",
+                        "year": "2022",
+                        "id": 35953600
+                    }
+                }
+            ],
+            "total": 29
+        }
+    },
+    "author_link": "https://book.douban.com/author/4615889/",
+    "author_douban_id": "4615889",
+    "personage_id": 36083780,
+    "name": [
+        "王春林",
+        "Chunlin Wang"
+    ],
+    "intro": "王春林，男，山西大学文学院教授、博士生导师。山西省作家协会副主席。第八届茅盾文学奖评委，第五届鲁迅文学奖评委。以现当代文学评论知名于国内文学研究领域。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/cea0bf659258d0305d7b82f3ccdea2a8.jpg",
+    "sex": 1,
+    "birth_date": 1966,
+    "age": 60,
+    "profession": [
+        "作者"
+    ]
+}

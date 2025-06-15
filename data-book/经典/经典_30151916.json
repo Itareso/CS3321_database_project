@@ -1,0 +1,103 @@
+{
+    "title": "伤心咖啡馆之歌",
+    "bookInfo": {
+        "作者": "[美] 卡森·麦卡勒斯",
+        "出版社": "华东师范大学出版社",
+        "出品方": "大星文化",
+        "副标题": "作家榜经典文库",
+        "原作名": "The Ballad of Sad Café",
+        "译者": "小二",
+        "出版年": "2018-2",
+        "页数": "188",
+        "定价": "45.00元",
+        "装帧": "精装",
+        "丛书": "作家榜经典文库",
+        "ISBN": "9787567574694"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.2%",
+        "four_star_rate": "48.0%",
+        "three_star_rate": "28.3%",
+        "two_star_rate": "3.1%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4504721/",
+            "name": "卡森·麦卡勒斯",
+            "role": "作者",
+            "douban_id": "4504721"
+        },
+        {
+            "link": "https://book.douban.com/author/4625911/",
+            "name": "小二",
+            "role": "译者",
+            "douban_id": "4625911"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "5.99元",
+            "link": "https://read.douban.com/ebook/55451264/?dcs=subject-buylink&dcm=douban&dct=30151916"
+        },
+        {
+            "name": "京东商城",
+            "price": "22.50元",
+            "link": "https://book.douban.com/link2/?lowest=1760&pre=0&vendor=jingdong&srcpage=subject&price=2250&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFkVXgYGU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVl5eCE8QHDZNRwYlJERkHFcma0xyAy9rGkVIGgEFMB8aXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcGUllUD0sWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gdWwVsCFgKTRYWXDFmG1oTXgcBV15tCkoWAW04K2tVGl9GBB0WSgxDQmloaVNOFARcLyo-cil5BC9OEhxHGXl3IjcbSAxDZjhxK1gl&cntvendor=3&srcsubj=30151916&type=bkbuy&subject=30151916"
+        },
+        {
+            "name": "中图网",
+            "price": "17.60元",
+            "link": "https://book.douban.com/link2/?lowest=1760&pre=0&vendor=bookschina&srcpage=subject&price=1760&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7750925.htm&cntvendor=3&srcsubj=30151916&type=bkbuy&subject=30151916"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30151916/",
+    "douban_id": "30151916",
+    "menu": [
+        "",
+        "        001",
+        "        伤心咖啡馆之歌",
+        "        075",
+        "        神童",
+        "        093",
+        "        赛马骑师",
+        "        103",
+        "        泽伦斯基夫人和芬兰国王",
+        "        115",
+        "        旅居者",
+        "        131",
+        "        家庭困境",
+        "        145",
+        "        一棵树· 一块石· 一片云",
+        "        157",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29981168.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 卡森·麦卡勒斯",
+            "link": "https://book.douban.com/author/4504721"
+        },
+        {
+            "text": "华东师范大学出版社",
+            "link": "https://book.douban.com/press/2486"
+        },
+        {
+            "text": "大星文化",
+            "link": "https://book.douban.com/producers/90"
+        },
+        {
+            "text": "小二",
+            "link": "https://book.douban.com/author/4625911"
+        },
+        {
+            "text": "作家榜经典文库",
+            "link": "https://book.douban.com/series/37789"
+        }
+    ],
+    "tag": "经典"
+}

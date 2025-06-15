@@ -1,0 +1,61 @@
+{
+    "title": "流浪的地球",
+    "bookInfo": {
+        "作者": "刘慈欣",
+        "出版社": "小当当 | 浙江教育出版社",
+        "出版年": "2018-3",
+        "页数": "198",
+        "定价": "29",
+        "装帧": "平装",
+        "丛书": "银火箭少年科幻系列",
+        "ISBN": "9787553671413"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.6%",
+        "four_star_rate": "48.6%",
+        "three_star_rate": "14.9%",
+        "two_star_rate": "1.1%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561353/",
+            "name": "刘慈欣",
+            "role": "作者",
+            "douban_id": "4561353"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "14.40元",
+            "link": "https://book.douban.com/link2/?lowest=1120&pre=0&vendor=jingdong&srcpage=subject&price=1440&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwMAU1ldCEwQBV8IGloTVAYLVFdVC0oWBF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkBG1IVVA4BVV9aFxJSXzI4YVtXFEFWJg49TRNffRlSQzNdCwBCElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXWA8BXFhfOEkXAm4NG1MSXgcyVFhYCUgXB2wIG1ISWzYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlZeXRsQbTMOTBATCgNUOl5dDE4fA2sAK1kUXAQAZG5tbktBS2doWx9nJnB4MCkWfxBcfDp0bVhmMwRyNgZddgN2Yh1QEyRdDXB0EW5eOA&cntvendor=3&srcsubj=30162713&type=bkbuy&subject=30162713"
+        },
+        {
+            "name": "当当网",
+            "price": "11.20元",
+            "link": "https://book.douban.com/link2/?lowest=1120&pre=0&vendor=dangdang&srcpage=subject&price=1120&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30162713%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25259300&cntvendor=3&srcsubj=30162713&type=bkbuy&subject=30162713"
+        },
+        {
+            "name": "中图网",
+            "price": "11.40元",
+            "link": "https://book.douban.com/link2/?lowest=1120&pre=0&vendor=bookschina&srcpage=subject&price=1140&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7960143.htm&cntvendor=3&srcsubj=30162713&type=bkbuy&subject=30162713"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30162713/",
+    "douban_id": "30162713",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29708605.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣",
+            "link": "https://book.douban.com/author/4561353"
+        },
+        {
+            "text": "银火箭少年科幻系列",
+            "link": "https://book.douban.com/series/41109"
+        }
+    ],
+    "tag": "科幻"
+}

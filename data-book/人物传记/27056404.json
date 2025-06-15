@@ -1,0 +1,123 @@
+{
+    "title": "三作家传",
+    "bookInfo": {
+        "作者": "[奥] 斯特凡·茨威格",
+        "出版社": "上海译文出版社",
+        "出品方": "上海译文新文本",
+        "副标题": "卡萨诺瓦，司汤达，托尔斯泰",
+        "译者": "关惠文",
+        "出版年": "2017-11-30",
+        "页数": "303",
+        "定价": "38",
+        "装帧": "平装",
+        "丛书": "茨威格作品集",
+        "ISBN": "9787532775354"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "44.8%",
+        "four_star_rate": "43.0%",
+        "three_star_rate": "10.4%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4514004/",
+            "name": "斯蒂芬·茨威格",
+            "role": "作者",
+            "douban_id": "4514004"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.99元",
+            "link": "https://read.douban.com/ebook/46094472/?dcs=subject-buylink&dcm=douban&dct=27056404"
+        },
+        {
+            "name": "得到",
+            "price": "37.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=ZykJDGjQ7AOLNa642rbP8dkEgemKDwddKqwXoVRjpBxl95MJzqvYGynZ18MEl5Bo&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "27.00元",
+            "link": "https://book.douban.com/link2/?lowest=2420&pre=0&vendor=jingdong&srcpage=subject&price=2700&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAc8JK1olVQAHXF5fCkMXM28JGlMSWAcBXFZYCUsWMytXQwVKbV9HER8fA1UJWDdXTQxBAhlZAUEPVhcJWypcR0RMGFpfWhwHTEdxAzlAEztVGXR5IgZVTQN3dCReXgt1HA9sVi4_UEtpSw5paQMdFEJkAygYHwsbdxZ4fiJ2IkZ2PSYNcShgRxtxawNxOXJENywHbileeyl-bihiOlxyHSkvCS11SgdIeylPP2QDIBgqYR5gYDV_TC9sC1V2DSEcfjJjUBRvZ11wFWV0MwEDYBlxfwp8GihKKnR-MD05aEJ0cRNheAJmA3BwMycpbDRSdxZVYjhMFEV2DCkvfwN0RBsKZzliPgZHIDctajB3F219D1lgbWEFNRZDCTZBYDl6QVJdKFQBB1smeg0bD18PHlwTWg8BU25dDEoTB184G1olHGgGUV9UAXsVA24JHlsdWgUDZF5bDUoSC2YOGVkUXgYyVFZZOJKXtLmqiYKL19OKw25tOEgnM18IGGsWbVhsVQ1aDRsWU25mR11PAwcKAwQzCkoUBm0PGV4lXwcDVlxtOHtxAzlAEztVGXR5IgZVTQN3dCReXgt1HA9sVi4_UEtpSw5paQMdFEJkAygYOEgn&cntvendor=5&srcsubj=27056404&type=bkbuy&subject=27056404"
+        },
+        {
+            "name": "当当网",
+            "price": "36.50元",
+            "link": "https://book.douban.com/link2/?lowest=2420&pre=0&vendor=dangdang&srcpage=subject&price=3650&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27056404%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25198260&cntvendor=5&srcsubj=27056404&type=bkbuy&subject=27056404"
+        },
+        {
+            "name": "中图网",
+            "price": "24.20元",
+            "link": "https://book.douban.com/link2/?lowest=2420&pre=0&vendor=bookschina&srcpage=subject&price=2420&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7663642.htm&cntvendor=5&srcsubj=27056404&type=bkbuy&subject=27056404"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27056404/",
+    "douban_id": "27056404",
+    "menu": [
+        "",
+        "        作者的话/1",
+        "        卡萨诺瓦",
+        "        青年卡萨诺瓦的画像/9",
+        "        冒险家/15",
+        "        教养和天赋/22",
+        "        肤浅的哲学/30",
+        "        好色之徒/41",
+        "        昏暗的年月/58",
+        "        老年卡萨诺瓦的肖像/66",
+        "        自我描述的天才/74",
+        "        司汤达",
+        "        说谎的兴趣和说真话的快乐/85",
+        "        肖像/89",
+        "        他的生活掠影/94",
+        "        我和世界/122",
+        "        艺术家/137",
+        "        令人愉快的心理学/150",
+        "        自我描述/156",
+        "        司汤达的现代特征/166",
+        "        托尔斯泰",
+        "        前奏/171",
+        "        肖像/175",
+        "        生命力及其对立面/181",
+        "        艺术家/196",
+        "        自我描述/212",
+        "        危机与转变/220",
+        "        假基督徒/228",
+        "        教义及其荒谬/239",
+        "        为教义的实现而斗争/256",
+        "        托尔斯泰生活中的一天/271",
+        "        决断和神化/285",
+        "        逃向上帝/292",
+        "        尾声/297",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29650942.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[奥] 斯特凡·茨威格",
+            "link": "https://book.douban.com/author/4514004"
+        },
+        {
+            "text": "上海译文出版社",
+            "link": "https://book.douban.com/press/2582"
+        },
+        {
+            "text": "上海译文新文本",
+            "link": "https://book.douban.com/producers/513"
+        },
+        {
+            "text": "关惠文",
+            "link": "https://book.douban.com/search/%E5%85%B3%E6%83%A0%E6%96%87"
+        },
+        {
+            "text": "茨威格作品集",
+            "link": "https://book.douban.com/series/34902"
+        }
+    ],
+    "tag": "人物传记"
+}

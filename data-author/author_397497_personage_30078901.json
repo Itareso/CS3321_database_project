@@ -1,0 +1,154 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.7,
+                        "title": "明亮的告别",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35049442.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/37167946/",
+                        "year": "2024",
+                        "id": 37167946
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "寒夜无声",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34681001.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36591985/",
+                        "year": "2023",
+                        "id": 36591985
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "快进人生",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34197968.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35859585/",
+                        "year": "2022",
+                        "id": 35859585
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "海风电影院",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33314193.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30389737/",
+                        "year": "2019",
+                        "id": 30389737
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "我们没有在一起",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28213526.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26428276/",
+                        "year": "2015",
+                        "id": 26428276
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.4,
+                        "title": "等路人",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s27373361.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/25946146/",
+                        "year": "2014",
+                        "id": 25946146
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "单声列车",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s26334211.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/23217343/",
+                        "year": "2013",
+                        "id": 23217343
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "再没有什么比生命更寂寥",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27134512.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/25765899/",
+                        "year": "2013",
+                        "id": 25765899
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "有声默片",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s9064321.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/10593894/",
+                        "year": "2012",
+                        "id": 10593894
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.8,
+                        "title": "下一站·吉隆坡",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s11120905.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/11505943/",
+                        "year": "2012",
+                        "id": 11505943
+                    }
+                }
+            ],
+            "total": 11
+        }
+    },
+    "author_link": "https://book.douban.com/author/397497/",
+    "author_douban_id": "397497",
+    "personage_id": 30078901,
+    "name": [
+        "吴忠全",
+        "Zhongquan Wu"
+    ],
+    "intro": "吴忠全，中国作家，文风成熟，称黑暗骑士，对于人性的各种剖析非常到位。吴忠全的天赋和他文字里独一无二的特性，也就是他在描写人性的“极端” “偏执” “毁灭”上，具有一种其他选手所没有的特殊能力，就像《火光》中那句台词一样，“不按常理出牌”。其写作水平是属于第二届THE NEXT文学大赛15强中第一实力阵营。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/celebrity/m/public/p1601602297.05.jpg",
+    "sex": 1,
+    "birth_date": 1989,
+    "age": 37,
+    "birth_place": [
+        "中国",
+        "黑龙江",
+        "佳木斯"
+    ],
+    "profession": [
+        "作者",
+        "摄影",
+        "编剧"
+    ]
+}

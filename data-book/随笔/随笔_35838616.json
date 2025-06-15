@@ -1,0 +1,116 @@
+{
+    "title": "浪游记",
+    "bookInfo": {
+        "作者": "王恺 / 韩松落 / 尼佬",
+        "出版社": "北京大学出版社",
+        "出品方": "培文",
+        "出版年": "2022-5",
+        "页数": "392",
+        "定价": "88.00元",
+        "装帧": "平装",
+        "ISBN": "9787301329016"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.7%",
+        "four_star_rate": "41.1%",
+        "three_star_rate": "24.4%",
+        "two_star_rate": "4.4%",
+        "one_star_rate": "4.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4613810/",
+            "name": "王恺",
+            "role": "作者",
+            "douban_id": "4613810"
+        },
+        {
+            "link": "https://book.douban.com/author/430001/",
+            "name": "韩松落",
+            "role": "作者",
+            "douban_id": "430001"
+        },
+        {
+            "link": "https://book.douban.com/author/4613811/",
+            "name": "尼佬",
+            "role": "作者",
+            "douban_id": "4613811"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "58.10元",
+            "link": "https://book.douban.com/link2/?lowest=5810&pre=0&vendor=jingdong&srcpage=subject&price=5810&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgEGXF1fAUMeCl8IGloRVAAFU1pfAEIUAV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmsBHVwSWQQKXV1fFxJSXzI4fB5BWkJAN1s_ay1AXjNdAV9uXRh4NFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUVAMDUFxdOEkXAm4NG1MSXgcyVFhYCUgWAGwNGFIXWjYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUl0JW08SbTMOTBhMCwJfOl5cDEMfCmkLK1kUXAQAZG5tXA5xQBFhUFgRBwRdJgQjABdhShZxSC9UMwRDBDYYXghEVmtBSyRVIV8EKm5eOA&cntvendor=2&srcsubj=35838616&type=bkbuy&subject=35838616"
+        },
+        {
+            "name": "中图网",
+            "price": "64.40元",
+            "link": "https://book.douban.com/link2/?lowest=5810&pre=0&vendor=bookschina&srcpage=subject&price=6440&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8804661.htm&cntvendor=2&srcsubj=35838616&type=bkbuy&subject=35838616"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35838616/",
+    "douban_id": "35838616",
+    "menu": [
+        "",
+        "        序  火把或堕泪碑  李修文",
+        "        1 自在",
+        "        西域｜霞光映照之地",
+        "        伊犁｜花下埋骨，树下种酒",
+        "        青州｜那些微笑的佛像",
+        "        2 乡愁",
+        "        宜昌｜长江从我们身边流过",
+        "        兰州之内｜一个城市的所有",
+        "        兰州之外｜乡村里的花朵和被遗忘",
+        "        3 尘间",
+        "        佛山、徐闻、包头｜关于“杀人”的回忆",
+        "        震余记｜片刻印画",
+        "        从云南到缅甸｜穿不过的边界",
+        "        4 味道",
+        "        嵊州｜吃是一种漂流的命运",
+        "        净慈寺｜凌晨四点的茶会",
+        "        四味摩洛哥｜薄荷茶、蜗牛汤、塔吉锅和葡萄酒",
+        "        5 温度",
+        "        热汤｜进入温度的漫长旅程",
+        "        波斯火山｜阿布与达玛万德",
+        "        老挝｜银匠、Beer Lao、湄公河畔",
+        "        ",
+        "        6遇见",
+        "        繁花｜相遇和一个女人的花园",
+        "        拉达克｜伊雪的故事",
+        "        马路巡阅记｜真的张爱玲故居，理应只是废墟",
+        "        ",
+        "        7 阅世",
+        "        敦煌｜梦中之梦",
+        "        尼泊尔｜三十碗豆汤饭的旅行",
+        "        印度之梦｜追寻朝圣者的脚印",
+        "        后记  没有一次旅行，不是回到故乡 王恺",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34192062.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "王恺",
+            "link": "https://book.douban.com/author/4613810"
+        },
+        {
+            "text": "韩松落",
+            "link": "https://book.douban.com/author/430001"
+        },
+        {
+            "text": "尼佬",
+            "link": "https://book.douban.com/author/4613811"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        },
+        {
+            "text": "培文",
+            "link": "https://book.douban.com/producers/286"
+        }
+    ],
+    "tag": "随笔"
+}

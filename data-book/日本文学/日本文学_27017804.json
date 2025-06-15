@@ -1,0 +1,61 @@
+{
+    "title": "我们的生存之道",
+    "bookInfo": {
+        "作者": "[日] 原田舞叶",
+        "出版社": "中信出版社",
+        "原作名": "生きるぼくら",
+        "译者": "王蕴洁",
+        "出版年": "2020-1",
+        "页数": "274",
+        "定价": "58.00",
+        "装帧": "平装",
+        "ISBN": "9787508655468"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.7%",
+        "four_star_rate": "37.7%",
+        "three_star_rate": "21.5%",
+        "two_star_rate": "2.8%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4625584/",
+            "name": "原田舞叶",
+            "role": "作者",
+            "douban_id": "4625584"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.88元",
+            "link": "https://book.douban.com/link2/?lowest=2488&pre=0&vendor=jingdong&srcpage=subject&price=2488&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQIKVVxZAEsWM28JGl0WXwUHVFlfC0sfMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWBWwKGF4VWgQBVFZCUQ5LXl9_BStvBW1-KjwUSDVvAHVuHj5wX1xyWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHl0TXAEyVl5cCU4XC2gLGmsVWwMDV19ZDEoRAmsBK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggQD1NQUgwzVE1ARjhcXwN7XQcFVVxZAEsnAW4JGVklbTZqNh0FbCtoZjJvSR91NGJgHywDXTFWRxRmGVMVCmRhDAwEVUtuUD1fZARlbQUy&cntvendor=2&srcsubj=27017804&type=bkbuy&subject=27017804"
+        },
+        {
+            "name": "中图网",
+            "price": "33.10元",
+            "link": "https://book.douban.com/link2/?lowest=2488&pre=0&vendor=bookschina&srcpage=subject&price=3310&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8245733.htm&cntvendor=2&srcsubj=27017804&type=bkbuy&subject=27017804"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27017804/",
+    "douban_id": "27017804",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33727359.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 原田舞叶",
+            "link": "https://book.douban.com/author/4625584"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "王蕴洁",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E8%95%B4%E6%B4%81"
+        }
+    ],
+    "tag": "日本文学"
+}

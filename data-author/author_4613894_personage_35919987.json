@@ -1,0 +1,49 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "董梅红楼梦讲义",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34223076.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35904717/",
+                        "year": "2022",
+                        "id": 35904717
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "二十四节气",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28271509.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26273658/",
+                        "year": "2015",
+                        "id": 26273658
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/4613894/",
+    "author_douban_id": "4613894",
+    "personage_id": 35919987,
+    "name": [
+        "董梅",
+        "Mei Dong"
+    ],
+    "intro": "董梅，中央美术学院人文学院副教授，中国古典文学学者。从事中国文学史教学和研究工作，开设《董梅讲透红楼梦》网络课程。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/eed771f702ea5a45783c6b8b0b8b672a.jpg",
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

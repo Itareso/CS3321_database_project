@@ -1,0 +1,81 @@
+{
+    "title": "草莓印",
+    "bookInfo": {
+        "作者": "不止是颗菜",
+        "出版社": "百花洲文艺出版社",
+        "原作名": "草莓印",
+        "出版年": "2019-8",
+        "页数": "624",
+        "定价": "68.00元",
+        "装帧": "平装",
+        "ISBN": "9787550033429"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.9%",
+        "four_star_rate": "31.6%",
+        "three_star_rate": "25.9%",
+        "two_star_rate": "5.6%",
+        "one_star_rate": "3.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624756/",
+            "name": "不止是颗菜",
+            "role": "作者",
+            "douban_id": "4624756"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "67.30元",
+            "link": "https://book.douban.com/link2/?lowest=4180&pre=0&vendor=jingdong&srcpage=subject&price=6730&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13039228.html&cntvendor=2&srcsubj=34805210&type=bkbuy&subject=34805210"
+        },
+        {
+            "name": "中图网",
+            "price": "41.80元",
+            "link": "https://book.douban.com/link2/?lowest=4180&pre=0&vendor=bookschina&srcpage=subject&price=4180&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8162383.htm&cntvendor=2&srcsubj=34805210&type=bkbuy&subject=34805210"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34805210/",
+    "douban_id": "34805210",
+    "menu": [
+        "",
+        "        Chapter 1  遇见的那天",
+        "        Chapter 2  同桌的礼物",
+        "        Chapter 3  学霸小仙女",
+        "        Chapter 4  青草味道",
+        "        Chapter 5  心跳的感觉",
+        "        Chapter 6  有点般配",
+        "        Chapter 7  初夏的晚风",
+        "        Chapter 8  再看就亲你",
+        "        Chapter 9  想做你男朋友",
+        "        Chapter 10  童话里的初吻",
+        "        Chapter 11  要一点补偿",
+        "        Chapter 12  浪漫圣诞夜",
+        "        Chapter 13  星若的小雪人",
+        "        Chapter 14  风雨欲来",
+        "        Chapter 15  不想失去她",
+        "        Chapter 16  草莓印",
+        "        Chapter 17  我很想你",
+        "        Chapter 18  小宇宙",
+        "        Chapter 19  甜甜的",
+        "        番外一  陆小乖",
+        "        番外二  小糖时光",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33466659.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "不止是颗菜",
+            "link": "https://book.douban.com/author/4624756"
+        },
+        {
+            "text": "百花洲文艺出版社",
+            "link": "https://book.douban.com/press/2124"
+        }
+    ],
+    "tag": "校园"
+}

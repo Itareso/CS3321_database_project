@@ -1,0 +1,72 @@
+{
+    "title": "环太平洋2",
+    "bookInfo": {
+        "作者": "[美]阿历克斯·欧文",
+        "出版社": "北京联合出版公司",
+        "出品方": "新华先锋",
+        "副标题": "雷霆再起",
+        "译者": "陈拔萃 / 张炘炘",
+        "出版年": "2018-4",
+        "定价": "49.00",
+        "装帧": "平装",
+        "丛书": "环太平洋",
+        "ISBN": "9787559617682"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.4%",
+        "four_star_rate": "19.8%",
+        "three_star_rate": "39.0%",
+        "two_star_rate": "15.4%",
+        "one_star_rate": "8.4%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=jingdong&srcpage=subject&price=2450&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13077840.html&cntvendor=3&srcsubj=30155727&type=bkbuy&subject=30155727"
+        },
+        {
+            "name": "当当网",
+            "price": "47.00元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=dangdang&srcpage=subject&price=4700&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30155727%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25237830&cntvendor=3&srcsubj=30155727&type=bkbuy&subject=30155727"
+        },
+        {
+            "name": "中图网",
+            "price": "30.90元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=bookschina&srcpage=subject&price=3090&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7743142.htm&cntvendor=3&srcsubj=30155727&type=bkbuy&subject=30155727"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30155727/",
+    "douban_id": "30155727",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29753783.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]阿历克斯·欧文",
+            "link": "https://book.douban.com/search/%E9%98%BF%E5%8E%86%E5%85%8B%E6%96%AF%C2%B7%E6%AC%A7%E6%96%87"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "新华先锋",
+            "link": "https://book.douban.com/producers/26"
+        },
+        {
+            "text": "陈拔萃",
+            "link": "https://book.douban.com/search/%E9%99%88%E6%8B%94%E8%90%83"
+        },
+        {
+            "text": "张炘炘",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E7%82%98%E7%82%98"
+        },
+        {
+            "text": "环太平洋",
+            "link": "https://book.douban.com/series/41526"
+        }
+    ],
+    "tag": "科幻"
+}

@@ -1,0 +1,70 @@
+{
+    "title": "扫鼠岭",
+    "bookInfo": {
+        "作者": "呼延云",
+        "出版社": "新星出版社",
+        "出版年": "2020-6",
+        "页数": "493",
+        "定价": "58.00元",
+        "装帧": "平装",
+        "丛书": "午夜文库·原创系列",
+        "ISBN": "9787513340625"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.5%",
+        "four_star_rate": "42.2%",
+        "three_star_rate": "23.8%",
+        "two_star_rate": "5.2%",
+        "one_star_rate": "2.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/337584/",
+            "name": "呼延云",
+            "role": "作者",
+            "douban_id": "337584"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "39.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=pqvNQ1KRJa7EmgG8MPKrzykNVbDpBWZgo63QA1xO54nlvZq296YodejLXVJE5eAd&source=douban"
+        },
+        {
+            "name": "当当网",
+            "price": "55.70元",
+            "link": "https://book.douban.com/link2/?lowest=4100&pre=0&vendor=dangdang&srcpage=subject&price=5570&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35082103%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28974797&cntvendor=4&srcsubj=35082103&type=bkbuy&subject=35082103"
+        },
+        {
+            "name": "京东商城",
+            "price": "41.50元",
+            "link": "https://book.douban.com/link2/?lowest=4100&pre=0&vendor=jingdong&srcpage=subject&price=4150&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMUXA4FUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXF9cAEwSHDZNRwYlQ38DIiheSkhyAWxWWgxiWlVCVDsraEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUlpZCk4WM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOE14cDQNsCFgKSgBHRjtmG1oTVAABXV1tCkoWAW04K2t8JGFBND4pDBVtXTJ6GgNMVGYCEQtYejV5ARZzWSJUHl1jCgMAYTIQVwlMK1gl&cntvendor=4&srcsubj=35082103&type=bkbuy&subject=35082103"
+        },
+        {
+            "name": "中图网",
+            "price": "41.00元",
+            "link": "https://book.douban.com/link2/?lowest=4100&pre=0&vendor=bookschina&srcpage=subject&price=4100&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8347005.htm&cntvendor=4&srcsubj=35082103&type=bkbuy&subject=35082103"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35082103/",
+    "douban_id": "35082103",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33659962.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "呼延云",
+            "link": "https://book.douban.com/search/%E5%91%BC%E5%BB%B6%E4%BA%91"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "午夜文库·原创系列",
+            "link": "https://book.douban.com/series/9969"
+        }
+    ],
+    "tag": "中国文学"
+}

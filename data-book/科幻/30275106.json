@@ -1,0 +1,242 @@
+{
+    "title": "银河边缘001：奇境",
+    "bookInfo": {
+        "作者": "杨枫 / [美] 迈克·雷斯尼克 编 / [美]刘宇昆 / [美]杰克·威廉森 / 美]罗伯特·西尔弗伯格 / [美]南希·克雷斯 / [美]汤姆·格伦瑟 / [美]凯济·约翰逊 / [美]格里高利·本福德 / 付强 / 梁清散 / 李盆 / [澳大利亚]尼克·T. 陈 / [美]海蒂·鲁比·米勒 / [美]丹尼尔·F. 伽卢耶 / 罗伯特·西尔弗伯格 / 格雷戈里·本福德",
+        "出版社": "人民文学出版社",
+        "出品方": "八光分文化",
+        "原作名": "Galaxy‘s Edge",
+        "译者": "华龙 / 罗妍莉 / 熊月剑 / 胡致 / 酒不醉人 / 刘皖竹",
+        "出版年": "2018-8-1",
+        "页数": "271",
+        "定价": "39",
+        "装帧": "平装",
+        "丛书": "银河边缘",
+        "ISBN": "9787020092987"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.0%",
+        "four_star_rate": "44.2%",
+        "three_star_rate": "18.4%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4623470/",
+            "name": "南希·克雷斯",
+            "role": "作者",
+            "douban_id": "4623470"
+        },
+        {
+            "link": "https://book.douban.com/author/4625918/",
+            "name": "付强",
+            "role": "作者",
+            "douban_id": "4625918"
+        },
+        {
+            "link": "https://book.douban.com/author/4616440/",
+            "name": "罗伯特·西尔弗伯格",
+            "role": "作者",
+            "douban_id": "4616440"
+        },
+        {
+            "link": "https://book.douban.com/author/4618914/",
+            "name": "格雷戈里·本福德",
+            "role": "作者",
+            "douban_id": "4618914"
+        },
+        {
+            "link": "https://book.douban.com/author/4609721/",
+            "name": "梁清散",
+            "role": "作者",
+            "douban_id": "4609721"
+        },
+        {
+            "link": "https://book.douban.com/author/4615265/",
+            "name": "罗妍莉",
+            "role": "译者",
+            "douban_id": "4615265"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "23.78元",
+            "link": "https://read.douban.com/ebook/109289987/?dcs=subject-buylink&dcm=douban&dct=30275106"
+        },
+        {
+            "name": "得到",
+            "price": "23.78元",
+            "link": "https://www.dedao.cn/eBook/xGM6Evn5byxq2PnXBz71AjZaol6R8WJ2YaWOKpGkd4gmMLEJrYNQe9VvD8P4jLkK?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.25元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=jingdong&srcpage=subject&price=2925&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF4WVQ8CXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOJDs4SjUSfjcKZideWF1_IwgHbwhkBTNsdVlzKUBnDBxfCElSRh9tRQ8UGxFCWCokcCJgWiZUbyJDBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZVLF9eYRZPcA9XbUF-I28AMiUpeExnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFleDEsUAGc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWFIDUFgzVE1ASCpJGB57XQYFVFZUAUwnAW4JGVklbTZyMTsfdk5qW211ZxAQBnt1AgQ6SzgRXwtmGT1hG2NaFlxdCg5ScwpWT1pTbQUy&cntvendor=5&srcsubj=30275106&type=bkbuy&subject=30275106"
+        },
+        {
+            "name": "当当网",
+            "price": "23.40元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=dangdang&srcpage=subject&price=2340&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30275106%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25338005&cntvendor=5&srcsubj=30275106&type=bkbuy&subject=30275106"
+        },
+        {
+            "name": "中图网",
+            "price": "24.40元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=bookschina&srcpage=subject&price=2440&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7900301.htm&cntvendor=5&srcsubj=30275106&type=bkbuy&subject=30275106"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30275106/",
+    "douban_id": "30275106",
+    "menu": [
+        "",
+        "        主编会客厅",
+        "        科幻杂志不可告人的历史 \t 1",
+        "        ／［美］迈克·雷斯尼克  著　华　龙  译",
+        "        重磅推荐",
+        "        束　手 \t 11",
+        "        ／［美］杰克·威廉森  著　罗妍莉  译",
+        "        大师名作",
+        "        世界末日之旅 \t 59",
+        "        ／［美］罗伯特·西尔弗伯格  著　熊月剑  译",
+        "        明日经典",
+        "        奇　境 \t 71",
+        "        ／［美］汤姆·格伦瑟  著　熊月剑  译",
+        "        薛定谔的猫窝 \t 87",
+        "        ／［美］凯济·约翰逊  著　华　龙  译",
+        "        科学家笔记",
+        "        真实的未来太空 \t 95",
+        "        ／［美］格里高利·本福德  著　胡　致  译",
+        "        中国新势力",
+        "        暗夜亡灵 \t 103",
+        "        ／付　强",
+        "        济南的风筝 \t 135",
+        "        ／梁清散",
+        "        零故事 \t 159",
+        "        ／李　盆",
+        "        超短科幻",
+        "        果与因 \t 169",
+        "        ／［美］刘宇昆  著　酒不醉人  译",
+        "        纯粹幻想",
+        "        姐　妹 \t 175",
+        "        ／［澳大利亚］尼克·T. 陈  著　熊月剑  译",
+        "        希望之岛 \t 199",
+        "        ／［美］海蒂·鲁比·米勒  著　罗妍莉  译",
+        "        长篇连载",
+        "        黑暗宇宙 01 \t 213",
+        "        ／［美］丹尼尔·F. 伽卢耶  著　华　龙  译",
+        "        幻想书房",
+        "        《羊毛战记》等四部 \t 269",
+        "        ／刘皖竹  译",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s32259998.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "杨枫",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E6%9E%AB"
+        },
+        {
+            "text": "[美] 迈克·雷斯尼克 编",
+            "link": "https://book.douban.com/search/%E8%BF%88%E5%85%8B%C2%B7%E9%9B%B7%E6%96%AF%E5%B0%BC%E5%85%8B%20%E7%BC%96"
+        },
+        {
+            "text": "[美]刘宇昆",
+            "link": "https://book.douban.com/search/%E5%88%98%E5%AE%87%E6%98%86"
+        },
+        {
+            "text": "[美]杰克·威廉森",
+            "link": "https://book.douban.com/search/%E6%9D%B0%E5%85%8B%C2%B7%E5%A8%81%E5%BB%89%E6%A3%AE"
+        },
+        {
+            "text": "美]罗伯特·西尔弗伯格",
+            "link": "https://book.douban.com/search/%E7%BE%8E%5D%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E8%A5%BF%E5%B0%94%E5%BC%97%E4%BC%AF%E6%A0%BC"
+        },
+        {
+            "text": "[美]南希·克雷斯",
+            "link": "https://book.douban.com/author/4623470"
+        },
+        {
+            "text": "[美]汤姆·格伦瑟",
+            "link": "https://book.douban.com/search/%E6%B1%A4%E5%A7%86%C2%B7%E6%A0%BC%E4%BC%A6%E7%91%9F"
+        },
+        {
+            "text": "[美]凯济·约翰逊",
+            "link": "https://book.douban.com/search/%E5%87%AF%E6%B5%8E%C2%B7%E7%BA%A6%E7%BF%B0%E9%80%8A"
+        },
+        {
+            "text": "[美]格里高利·本福德",
+            "link": "https://book.douban.com/search/%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9C%AC%E7%A6%8F%E5%BE%B7"
+        },
+        {
+            "text": "付强",
+            "link": "https://book.douban.com/author/4625918"
+        },
+        {
+            "text": "梁清散",
+            "link": "https://book.douban.com/search/%E6%A2%81%E6%B8%85%E6%95%A3"
+        },
+        {
+            "text": "李盆",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E7%9B%86"
+        },
+        {
+            "text": "[澳大利亚]尼克·T. 陈",
+            "link": "https://book.douban.com/search/%E5%B0%BC%E5%85%8B%C2%B7T.%20%E9%99%88"
+        },
+        {
+            "text": "[美]海蒂·鲁比·米勒",
+            "link": "https://book.douban.com/search/%E6%B5%B7%E8%92%82%C2%B7%E9%B2%81%E6%AF%94%C2%B7%E7%B1%B3%E5%8B%92"
+        },
+        {
+            "text": "[美]丹尼尔·F. 伽卢耶",
+            "link": "https://book.douban.com/search/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7F.%20%E4%BC%BD%E5%8D%A2%E8%80%B6"
+        },
+        {
+            "text": "罗伯特·西尔弗伯格",
+            "link": "https://book.douban.com/author/4616440"
+        },
+        {
+            "text": "格雷戈里·本福德",
+            "link": "https://book.douban.com/author/4618914"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "八光分文化",
+            "link": "https://book.douban.com/producers/115"
+        },
+        {
+            "text": "华龙",
+            "link": "https://book.douban.com/search/%E5%8D%8E%E9%BE%99"
+        },
+        {
+            "text": "罗妍莉",
+            "link": "https://book.douban.com/author/4615265"
+        },
+        {
+            "text": "熊月剑",
+            "link": "https://book.douban.com/author/4615037"
+        },
+        {
+            "text": "胡致",
+            "link": "https://book.douban.com/search/%E8%83%A1%E8%87%B4"
+        },
+        {
+            "text": "酒不醉人",
+            "link": "https://book.douban.com/search/%E9%85%92%E4%B8%8D%E9%86%89%E4%BA%BA"
+        },
+        {
+            "text": "刘皖竹",
+            "link": "https://book.douban.com/author/4637138"
+        },
+        {
+            "text": "银河边缘",
+            "link": "https://book.douban.com/series/43484"
+        }
+    ],
+    "tag": "科幻"
+}

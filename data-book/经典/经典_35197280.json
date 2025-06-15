@@ -1,0 +1,55 @@
+{
+    "title": "刀锋",
+    "bookInfo": {
+        "作者": "[英]毛姆",
+        "出版社": "人民文学出版社",
+        "出品方": "西西弗推石文化",
+        "原作名": "The Razor's Edge",
+        "译者": "王晋华",
+        "出版年": "2022-4",
+        "页数": "434",
+        "定价": "69",
+        "装帧": "精装",
+        "ISBN": "9787020165841"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "58.9%",
+        "four_star_rate": "33.6%",
+        "three_star_rate": "6.6%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4632990/",
+            "name": "王晋华",
+            "role": "译者",
+            "douban_id": "4632990"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/35197280/",
+    "douban_id": "35197280",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34196475.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英]毛姆",
+            "link": "https://book.douban.com/search/%E6%AF%9B%E5%A7%86"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "西西弗推石文化",
+            "link": "https://book.douban.com/producers/169"
+        },
+        {
+            "text": "王晋华",
+            "link": "https://book.douban.com/author/4632990"
+        }
+    ],
+    "tag": "经典"
+}

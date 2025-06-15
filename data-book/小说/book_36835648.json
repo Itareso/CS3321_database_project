@@ -1,0 +1,61 @@
+{
+    "title": "请记得乐园",
+    "bookInfo": {
+        "作者": "那多",
+        "出版社": "人民文学出版社",
+        "出版年": "2024-4",
+        "页数": "312",
+        "定价": "59",
+        "装帧": "平装",
+        "ISBN": "9787020186068"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.3%",
+        "four_star_rate": "19.8%",
+        "three_star_rate": "26.6%",
+        "two_star_rate": "17.5%",
+        "one_star_rate": "13.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4539740/",
+            "name": "那多",
+            "role": "作者",
+            "douban_id": "4539740"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "44.30元",
+            "link": "https://book.douban.com/link2/?lowest=4170&pre=0&vendor=jingdong&srcpage=subject&price=4430&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZsJK1olXwIEVFxdAE8SBV8IHl8QVAMBXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOPSc6Syt3d2tWYQViDl5XEik9SC9zewRQdVlsJkR7FR0GaRVKXgZxQ1NpGRFCWCokaC1jcG9Ib1lDBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZ7DCBaUU1ARA8IAQtoL2JhEhU-CRNBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFhcD0MUCm44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQD1NQUgwzVE1AXTtSHB57VQ4EXVxYD3sVAm4KGWslbW97Mx09aD8TXRVWbAhNCEB1NB45bDN8WwEKYiBXJEdBDz8DVRZ-ejcAZx8lXjY&cntvendor=3&srcsubj=36835648&type=bkbuy&subject=36835648"
+        },
+        {
+            "name": "当当网",
+            "price": "59.00元",
+            "link": "https://book.douban.com/link2/?lowest=4170&pre=0&vendor=dangdang&srcpage=subject&price=5900&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36835648%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29708896&cntvendor=3&srcsubj=36835648&type=bkbuy&subject=36835648"
+        },
+        {
+            "name": "中图网",
+            "price": "41.70元",
+            "link": "https://book.douban.com/link2/?lowest=4170&pre=0&vendor=bookschina&srcpage=subject&price=4170&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9302964.htm&cntvendor=3&srcsubj=36835648&type=bkbuy&subject=36835648"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36835648/",
+    "douban_id": "36835648",
+    "menu": [
+        "",
+        "        1.\t你也将抵达 启程",
+        "        2.\t让我也入梦 启程",
+        "        3.\t你也将抵达 追逐",
+        "        4.\t让我也入梦 追逐",
+        "        5.\t让我也入梦 花骨朵",
+        "        6.\t你也将抵达 花骨朵",
+        "        7.\t让我也入梦 乐园",
+        "        8.\t你也将抵达 乐园",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

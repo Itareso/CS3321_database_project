@@ -1,0 +1,55 @@
+{
+    "title": "毛泽东的神来之笔",
+    "bookInfo": {
+        "作者": "双石",
+        "出版社": "解放军出版社",
+        "出版年": "2007-1",
+        "页数": "450",
+        "定价": "29.80元",
+        "装帧": "简裝本",
+        "ISBN": "9787506552509"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "60.0%",
+        "four_star_rate": "26.7%",
+        "three_star_rate": "6.7%",
+        "two_star_rate": "6.7%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/534118/",
+            "name": "双石",
+            "role": "作者",
+            "douban_id": "534118"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "133.22元",
+            "link": "https://book.douban.com/link2/?lowest=13322&pre=0&vendor=jingdong&srcpage=subject&price=13322&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10043798611858.html&cntvendor=1&srcsubj=2054739&type=bkbuy&subject=2054739"
+        }
+    ],
+    "url": "https://book.douban.com/subject/2054739/",
+    "douban_id": "2054739",
+    "menu": [
+        "",
+        "        引子 第一章 生死 第二章 抉择 第三章 迂直 第四章 虚实 第五章 锋镝 第六章 辗转 第七章 跳跃 第八章 腾挪 第九章 巧拙 尾声 得失 后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s5812263.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "双石",
+            "link": "https://book.douban.com/author/534118"
+        },
+        {
+            "text": "解放军出版社",
+            "link": "https://book.douban.com/press/2307"
+        }
+    ],
+    "tag": "军事"
+}

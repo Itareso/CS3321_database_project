@@ -1,0 +1,81 @@
+{
+    "title": "一见你就笑",
+    "bookInfo": {
+        "作者": "爱喝水",
+        "出版社": "江苏文艺出版社",
+        "出版年": "2014-9-1",
+        "页数": "288",
+        "定价": "26.80元",
+        "装帧": "平装",
+        "ISBN": "9787539974897"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "31.4%",
+        "four_star_rate": "33.6%",
+        "three_star_rate": "23.6%",
+        "two_star_rate": "7.1%",
+        "one_star_rate": "4.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4628602/",
+            "name": "爱喝水",
+            "role": "作者",
+            "douban_id": "4628602"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "18.56元",
+            "link": "https://book.douban.com/link2/?lowest=1789&pre=0&vendor=jingdong&srcpage=subject&price=1855&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10043470517947.html&cntvendor=2&srcsubj=25962934&type=bkbuy&subject=25962934"
+        },
+        {
+            "name": "中图网",
+            "price": "17.90元",
+            "link": "https://book.douban.com/link2/?lowest=1789&pre=0&vendor=bookschina&srcpage=subject&price=1789&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6700171.htm&cntvendor=2&srcsubj=25962934&type=bkbuy&subject=25962934"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25962934/",
+    "douban_id": "25962934",
+    "menu": [
+        "",
+        "        Chapter\t1  一块“板砖”引发的奇遇",
+        "        Chapter\t2  女追男，隔张嘴",
+        "        Chapter\t3  生性记仇真可怕",
+        "        Chapter\t4  追求与反追求",
+        "        Chapter 5  有一个关于晏弋的秘密",
+        "        Chapter 6  见与不见，他们都在那里",
+        "        Chapter\t7  一失足成腿骨裂",
+        "        Chapter\t8  欢乐的“同居”生活（上）",
+        "        Chapter  9  欢乐的“同居”生活（下）",
+        "        Chapter  10  生日大冒险",
+        "        Chapter  11  外国活宝登场",
+        "        Chapter  12  天马流星雨",
+        "        Chapter  13  我离秘密如此之近",
+        "        Chapter  14  为执着而执着",
+        "        Chapter  15  这下误会闹大了",
+        "        Chapter  16  绝不能变笑话",
+        "        Chapter  17  有些事现在不做，一辈子都不会做了",
+        "        Chapter  18  分手情侣温泉之旅（上）",
+        "        Chapter  19  分手情侣温泉之旅（下）",
+        "        Chapter  20  他的过去",
+        "        Chapter  21  表白即分手",
+        "        Chapter  22  视线以外，思念以内",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s27413091.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "爱喝水",
+            "link": "https://book.douban.com/author/4628602"
+        },
+        {
+            "text": "江苏文艺出版社",
+            "link": "https://book.douban.com/press/2720"
+        }
+    ],
+    "tag": "校园"
+}

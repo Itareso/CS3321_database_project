@@ -1,0 +1,81 @@
+{
+    "title": "嫉妒",
+    "bookInfo": {
+        "作者": "张玲玲",
+        "出版社": "上海文艺出版社",
+        "出版年": "2019-11-1",
+        "页数": "252",
+        "定价": "39.00元",
+        "装帧": "平装",
+        "ISBN": "9787532168200"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.8%",
+        "four_star_rate": "38.4%",
+        "three_star_rate": "32.4%",
+        "two_star_rate": "6.7%",
+        "one_star_rate": "1.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4621032/",
+            "name": "张玲玲",
+            "role": "作者",
+            "douban_id": "4621032"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "16.57元",
+            "link": "https://read.douban.com/ebook/127666865/?dcs=subject-buylink&dcm=douban&dct=34866821"
+        },
+        {
+            "name": "得到",
+            "price": "16.57元",
+            "link": "https://www.dedao.cn/ebook/detail?id=EJmMZXq1b8qOpBlD69XAdP7LEGaKJWEpN20xRnme5vrVzo4QMZYgNyk2jNA5467K&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.67元",
+            "link": "https://book.douban.com/link2/?lowest=1500&pre=0&vendor=jingdong&srcpage=subject&price=2067&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF0XVQIDVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOMl4LQEN3Qyt6YC1vFUdCVDUWd0tPAjkLdVllP14CKhY8aTlOWgkIXSx8GBFCWCokcC9gSiZLbzJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ8AQU8CCxhBw1YUwFTKQ5iFCscfk1RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxfDUgfAWk4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRA1wzVE1AQWsJUAl7XQcGXVZcAU8nAW4JGVklbTZkVAgVACtXRx1zbSFdHEYCPxUiCBMWVWxmGSt3BQZ8HD88ehJOZW9ObDJQbQUy&cntvendor=5&srcsubj=34866821&type=bkbuy&subject=34866821"
+        },
+        {
+            "name": "当当网",
+            "price": "22.00元",
+            "link": "https://book.douban.com/link2/?lowest=1500&pre=0&vendor=dangdang&srcpage=subject&price=2200&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34866821%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28476736&cntvendor=5&srcsubj=34866821&type=bkbuy&subject=34866821"
+        },
+        {
+            "name": "中图网",
+            "price": "15.00元",
+            "link": "https://book.douban.com/link2/?lowest=1500&pre=0&vendor=bookschina&srcpage=subject&price=1500&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8206843.htm&cntvendor=5&srcsubj=34866821&type=bkbuy&subject=34866821"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34866821/",
+    "douban_id": "34866821",
+    "menu": [
+        "",
+        "        1. 嫉妒",
+        "        2. 岛屿的另一侧",
+        "        3. 破碎故事之心",
+        "        4. 似是故人来",
+        "        5. 去加利利海",
+        "        6. 无风之日",
+        "        7. 新年问候",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33505782.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张玲玲",
+            "link": "https://book.douban.com/author/4621032"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        }
+    ],
+    "tag": "中国文学"
+}

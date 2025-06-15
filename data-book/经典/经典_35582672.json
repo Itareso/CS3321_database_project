@@ -1,0 +1,111 @@
+{
+    "title": "量子宇宙",
+    "bookInfo": {
+        "作者": "【英】布莱恩·考克斯 / 【英】杰夫·福修",
+        "出版社": "上海科学技术文献出版社",
+        "出品方": "果麦文化",
+        "原作名": "THE QUANTUM UNIVERSE",
+        "译者": "王一帆",
+        "出版年": "2021-9-5",
+        "页数": "264",
+        "定价": "49.8",
+        "装帧": "平装",
+        "丛书": "布莱恩·考克斯科学经典系列",
+        "ISBN": "9787543983618"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    世界公认的量子力学科普经典，一本书让你弄清楚宇宙的本质，看到科技的未来。    对于物理学者来说，量子力学是支持我们理解自然世界的三根砥柱之一，另外两根是爱因斯坦的狭义和广义相对论。爱因斯坦的理论分别处理了时间和空间的性质，以及引力问题，而量子力学处理剩下的一切问题。量子世界的\"怪异\"有很多丰碑“双缝实验”“薛定谔的猫”“不确定性原理”，它常常导致混乱，坦率地说，是糟糕的科学。    英国明星科学家布莱恩·考克斯和他的同事英国曼彻斯特大学理论物理学教授杰夫·福修共同编写了这本科普经典《量子宇宙》。书中用简洁的语言讲述了量子力学如何为自然界提供了一个具体的模型，其本质可与牛顿的运动定律、麦克斯韦的电磁理论、爱因斯坦的相对论相媲美。为了让大众读者更好地走进量子力学的物理世界，本书从物理的发展进程切入，追问哪些实验观察使量子力学成为必要，它是如何构建的，以及为什么我们能从中看到科技的未来，尽管它有明显的怪异性，它仍然是一个好理论。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "47.1%",
+        "four_star_rate": "36.5%",
+        "three_star_rate": "14.2%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4639594/",
+            "name": "布莱恩·考克斯",
+            "role": "作者",
+            "douban_id": "4639594"
+        },
+        {
+            "link": "https://book.douban.com/author/4639593/",
+            "name": "杰夫·福修",
+            "role": "作者",
+            "douban_id": "4639593"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "49.80元",
+            "link": "https://read.douban.com/ebook/329136470/?dcs=subject-buylink&dcm=douban&dct=35582672"
+        },
+        {
+            "name": "得到",
+            "price": "49.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=lxaVvndNG6D4kgLJ2OKxqVMmE1zXPwVgLA0AdjyQeYR75vbaBnr9ol8pZERLg1my&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.90元",
+            "link": "https://book.douban.com/link2/?lowest=2990&pre=0&vendor=jingdong&srcpage=subject&price=2990&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMWVAUBXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXF1UC0gfHDZNRwYlIkFKJwk_bkN0XTt7Qi5yXgULBwo_aEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcGUlhcAEgfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gRCgZsCFgKTRYUVWZmG1oTXgIHV1xtCkoWAW04K2tjJk9JKgE7djtncDtxSS9qCFVqHVs8Vh55AR1vYCBJFlx8JAECfjBkX2h4K1gl&cntvendor=4&srcsubj=35582672&type=bkbuy&subject=35582672"
+        },
+        {
+            "name": "当当网",
+            "price": "44.90元",
+            "link": "https://book.douban.com/link2/?lowest=2990&pre=0&vendor=dangdang&srcpage=subject&price=4490&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35582672%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29292062&cntvendor=4&srcsubj=35582672&type=bkbuy&subject=35582672"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35582672/",
+    "douban_id": "35582672",
+    "menu": [
+        "",
+        "        第一章 异事登场 1",
+        "        第二章 同时出现在两地 7",
+        "        第三章 何为粒子 30",
+        "        第四章 只要可能都会发生 49",
+        "        第五章 作为幻象的运动 80",
+        "        第六章 原子之音律 95",
+        "        第七章 针锋中的宇宙",
+        "        （以及为何我们不会落入地面） 119",
+        "        第八章 彼此联结 141",
+        "        第九章 现代世界 164",
+        "        第十章 相互作用 177",
+        "        第十一章 虚空不空 201",
+        "        结语：恒星之死 221",
+        "        拓展阅读 249",
+        "        致谢 251",
+        "        《量子宇宙》大事件 252",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33984623.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "【英】布莱恩·考克斯",
+            "link": "https://book.douban.com/author/4639594"
+        },
+        {
+            "text": "【英】杰夫·福修",
+            "link": "https://book.douban.com/author/4639593"
+        },
+        {
+            "text": "上海科学技术文献出版社",
+            "link": "https://book.douban.com/press/2273"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "王一帆",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E4%B8%80%E5%B8%86"
+        },
+        {
+            "text": "布莱恩·考克斯科学经典系列",
+            "link": "https://book.douban.com/series/61942"
+        }
+    ],
+    "tag": "经典"
+}

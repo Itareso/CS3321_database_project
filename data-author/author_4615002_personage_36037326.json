@@ -1,0 +1,122 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "日冕",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34363680.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36133370/",
+                        "year": "2022",
+                        "id": 36133370
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "铜座全集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33936787.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35100233/",
+                        "year": "2021",
+                        "id": 35100233
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "历代印谱彙编",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33537186.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34915021/",
+                        "year": "2019",
+                        "id": 34915021
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "灵的编年史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29848108.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30181091/",
+                        "year": "2018",
+                        "id": 30181091
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "明清篆刻边款铁笔单刀正书千字文",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29527859.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/27125089/",
+                        "year": "2017",
+                        "id": 27125089
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "乌力波（2）",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s26307921.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/24089566/",
+                        "year": "2013",
+                        "id": 24089566
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "乌力波",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s6941978.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/6785603/",
+                        "year": "2011",
+                        "id": 6785603
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "神性写作丛书",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29974639.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30429193/",
+                        "year": "2011",
+                        "id": 30429193
+                    }
+                }
+            ],
+            "total": 8
+        }
+    },
+    "author_link": "https://book.douban.com/author/4615002/",
+    "author_douban_id": "4615002",
+    "personage_id": 36037326,
+    "name": [
+        "霍香结",
+        "Xiangjie Huo"
+    ],
+    "intro": "作家，艺术家。著有长篇小说《灵的编年史》《铜座全集》《日冕》，长篇史诗《黑暗传》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/7738815cd7bca36de859a346b62fe0db.jpg",
+    "sex": 1,
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

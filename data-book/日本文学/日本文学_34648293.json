@@ -1,0 +1,100 @@
+{
+    "title": "幻想博物志",
+    "bookInfo": {
+        "作者": "【日】涩泽龙彦",
+        "出版社": "广西师大出版社",
+        "出品方": "上海贝贝特",
+        "译者": "王彩芹",
+        "出版年": "2019-9",
+        "页数": "200",
+        "定价": "46.00元",
+        "装帧": "精装",
+        "丛书": "涩泽龙彦集",
+        "ISBN": "9787559819819"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.6%",
+        "four_star_rate": "42.1%",
+        "three_star_rate": "37.2%",
+        "two_star_rate": "2.6%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1988420/",
+            "name": "涩泽龙彦",
+            "role": "作者",
+            "douban_id": "1988420"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "23.00元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=jingdong&srcpage=subject&price=2300&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF0WWQEDVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOHB09Y0N3CzNOXy92O24AAQQNahFTVCkBdVlDBHhBAzU_VQ11YSdLRQZtWxFCWCokcC9gWhxWbzJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZSIDgZEgNreQ8IeTtQXHIECCQtTC9BD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxYAE4VBW04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXlIKXV4zVE1AQWYAXgV7XQcEUVtdDUInAW4JGVklbTZKFz42ACsfXylMbzhzNQRXDg4_Ug9ARWZmGQ1MI0VVPzwATil1SyxWRiMTbQUy&cntvendor=3&srcsubj=34648293&type=bkbuy&subject=34648293"
+        },
+        {
+            "name": "当当网",
+            "price": "26.50元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=dangdang&srcpage=subject&price=2650&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34648293%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28469404&cntvendor=3&srcsubj=34648293&type=bkbuy&subject=34648293"
+        },
+        {
+            "name": "中图网",
+            "price": "30.90元",
+            "link": "https://book.douban.com/link2/?lowest=2300&pre=0&vendor=bookschina&srcpage=subject&price=3090&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8193306.htm&cntvendor=3&srcsubj=34648293&type=bkbuy&subject=34648293"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34648293/",
+    "douban_id": "34648293",
+    "menu": [
+        "",
+        "        001　斯基泰羊",
+        "        009   犀牛图",
+        "        017   独脚人",
+        "        023　北海巨妖和塔佐蠕虫",
+        "        031　渡渡鸟",
+        "        039　蚂蚁传说",
+        "        047　斯芬克斯",
+        "        055　大象",
+        "        063　毛毛虫与蝴蝶",
+        "        071　人鱼的进化",
+        "        079　大山猫",
+        "        087　最初的鱼",
+        "        095　戈耳工",
+        "        103　菲尼克斯",
+        "        111　贝",
+        "        119　弥诺陶洛斯",
+        "        127　火鼠和沙罗曼达",
+        "        135　葛罗姆",
+        "        143   海胆和五芒星",
+        "        151　巴吉里斯克",
+        "        159　鸟类种种",
+        "        167　虫类种种",
+        "        175　肯陶洛斯",
+        "        183　奇美拉",
+        "        191　文库版后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33501196.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "【日】涩泽龙彦",
+            "link": "https://book.douban.com/search/%E6%B6%A9%E6%B3%BD%E9%BE%99%E5%BD%A6"
+        },
+        {
+            "text": "上海贝贝特",
+            "link": "https://book.douban.com/producers/490"
+        },
+        {
+            "text": "王彩芹",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E5%BD%A9%E8%8A%B9"
+        },
+        {
+            "text": "涩泽龙彦集",
+            "link": "https://book.douban.com/series/36402"
+        }
+    ],
+    "tag": "日本文学"
+}

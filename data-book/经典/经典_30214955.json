@@ -1,0 +1,70 @@
+{
+    "title": "雷雨",
+    "bookInfo": {
+        "作者": "曹禺",
+        "出版社": "北京十月文艺出版社",
+        "出品方": "十月文化",
+        "出版年": "2017-12",
+        "页数": "236",
+        "定价": "36.00",
+        "装帧": "平装",
+        "丛书": "曹禺剧本选",
+        "ISBN": "9787530217313"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "72.5%",
+        "four_star_rate": "23.9%",
+        "three_star_rate": "3.2%",
+        "two_star_rate": "0.3%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4548357/",
+            "name": "曹禺",
+            "role": "作者",
+            "douban_id": "4548357"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "18.00元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=jingdong&srcpage=subject&price=1800&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13355804.html&cntvendor=3&srcsubj=30214955&type=bkbuy&subject=30214955"
+        },
+        {
+            "name": "当当网",
+            "price": "21.20元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=dangdang&srcpage=subject&price=2120&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30214955%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25232602&cntvendor=3&srcsubj=30214955&type=bkbuy&subject=30214955"
+        },
+        {
+            "name": "中图网",
+            "price": "21.90元",
+            "link": "https://book.douban.com/link2/?lowest=1800&pre=0&vendor=bookschina&srcpage=subject&price=2190&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7702790.htm&cntvendor=3&srcsubj=30214955&type=bkbuy&subject=30214955"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30214955/",
+    "douban_id": "30214955",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34263503.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "曹禺",
+            "link": "https://book.douban.com/search/%E6%9B%B9%E7%A6%BA"
+        },
+        {
+            "text": "北京十月文艺出版社",
+            "link": "https://book.douban.com/press/2194"
+        },
+        {
+            "text": "十月文化",
+            "link": "https://book.douban.com/producers/38"
+        },
+        {
+            "text": "曹禺剧本选",
+            "link": "https://book.douban.com/series/43595"
+        }
+    ],
+    "tag": "经典"
+}

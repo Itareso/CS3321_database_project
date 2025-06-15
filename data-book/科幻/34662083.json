@@ -1,0 +1,91 @@
+{
+    "title": "消失的世界",
+    "bookInfo": {
+        "作者": "[美]汤姆·斯维特里奇 / 托马斯·斯维特利希",
+        "出版社": "江西人民出版社",
+        "出品方": "果麦文化",
+        "原作名": "The Gone World",
+        "译者": "张乐 / 艾齐",
+        "出版年": "2019-10-1",
+        "页数": "384",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "ISBN": "9787210114390"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.6%",
+        "four_star_rate": "42.9%",
+        "three_star_rate": "24.0%",
+        "two_star_rate": "4.1%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4618159/",
+            "name": "托马斯·斯维特利希",
+            "role": "作者",
+            "douban_id": "4618159"
+        },
+        {
+            "link": "https://book.douban.com/author/4637835/",
+            "name": "艾齐",
+            "role": "译者",
+            "douban_id": "4637835"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=jingdong&srcpage=subject&price=2490&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olXQAFUVpbDEIeAV8MEl0SWAYFVl1VDntTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSlpUDkwSA2gKGFMTQl9HCANtdh5SAGdIaRp2B05kETojUiJ3BTkWa1cZbQEHU1haAUgQM28MGl8RbTYCVW4cZk0XAG4LK1kVXAcHVFZaC0onA2kNGlgVWQUHU1teCXsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEBW0IGA8RM1oEAxVUDAkebW8IHlgUXQ4HZFxcCUkVM184YzpoHgNnFT0uQTBSdG5PXCZKOQFHKDVaZkkSAjBpUxhwC3VENB4HCChFVl8LKw&cntvendor=2&srcsubj=34662083&type=bkbuy&subject=34662083"
+        },
+        {
+            "name": "中图网",
+            "price": "24.40元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=bookschina&srcpage=subject&price=2440&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8211123.htm&cntvendor=2&srcsubj=34662083&type=bkbuy&subject=34662083"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34662083/",
+    "douban_id": "34662083",
+    "menu": [
+        "",
+        "        序言 2199",
+        "        Part One 1997",
+        "        Part Two 2015-2016",
+        "        Part Three 1997",
+        "        Part Four 2015-2016",
+        "        Part Five 1997",
+        "        后记 1986.1.28",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33490130.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]汤姆·斯维特里奇",
+            "link": "https://book.douban.com/search/%E6%B1%A4%E5%A7%86%C2%B7%E6%96%AF%E7%BB%B4%E7%89%B9%E9%87%8C%E5%A5%87"
+        },
+        {
+            "text": "托马斯·斯维特利希",
+            "link": "https://book.douban.com/author/4618159"
+        },
+        {
+            "text": "江西人民出版社",
+            "link": "https://book.douban.com/press/2145"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "张乐",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E4%B9%90"
+        },
+        {
+            "text": "艾齐",
+            "link": "https://book.douban.com/author/4637835"
+        }
+    ],
+    "tag": "科幻"
+}

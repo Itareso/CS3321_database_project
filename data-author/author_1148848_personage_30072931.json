@@ -1,0 +1,168 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "不间断的人",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34765667.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36590165/",
+                        "year": "2024",
+                        "id": 36590165
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "白色绵羊里的黑色绵羊",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34365495.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36124371/",
+                        "year": "2023",
+                        "id": 36124371
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "Rouge Street",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33955663.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35545081/",
+                        "year": "2022",
+                        "id": 35545081
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "平原上的摩西",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33855006.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35192665/",
+                        "year": "2021",
+                        "id": 35192665
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "侦探·工匠·小说家",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33977704.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35216710/",
+                        "year": "2021",
+                        "id": 35216710
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "聋哑时代",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33640253.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34969942/",
+                        "year": "2020",
+                        "id": 34969942
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "亲人",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33740424.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35071517/",
+                        "year": "2020",
+                        "id": 35071517
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "猎人",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33314621.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33455193/",
+                        "year": "2019",
+                        "id": 33455193
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "翅鬼",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29944770.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30361675/",
+                        "year": "2019",
+                        "id": 30361675
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "飞行家",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29520401.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27116235/",
+                        "year": "2017",
+                        "id": 27116235
+                    }
+                }
+            ],
+            "total": 15
+        }
+    },
+    "author_link": "https://book.douban.com/author/1148848/",
+    "author_douban_id": "1148848",
+    "personage_id": 30072931,
+    "name": [
+        "双雪涛",
+        "Xuetao Shuang"
+    ],
+    "intro": "\"双雪涛，出生于八〇年代，沈阳人，小说家。首位入围台北文学奖的大陆作家，首位华文世界电影小说奖首奖得主，华语文学传媒大奖“年度最具潜力新人”。 第三届单向街.书店文学奖“年度青年作家”，首届燧石文学奖最佳短篇小说奖。 已出版作品包括《翅鬼》、《天吾手记》、《聋哑时代》和短篇小说集《平原上的摩西》、《飞行家》、《猎人》。\"",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30072931/photo/2905004113",
+        "https://www.douban.com/personage/30072931/photo/2905004114",
+        "https://www.douban.com/personage/30072931/photo/2905004216",
+        "https://www.douban.com/personage/30072931/photo/2905004215",
+        "https://www.douban.com/personage/30072931/photo/2905004214"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004113.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004114.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004216.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004215.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004214.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/celebrity/m/public/p1572969955.79.jpg",
+    "sex": 1,
+    "birth_date": 1983,
+    "age": 43,
+    "birth_place": [
+        "中国",
+        "辽宁",
+        "沈阳"
+    ],
+    "IMDB": "nm11499233",
+    "profession": [
+        "作者",
+        "编剧",
+        "演员",
+        "制片人"
+    ]
+}

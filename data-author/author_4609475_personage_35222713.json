@@ -1,0 +1,108 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "上京",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34384285.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36158449/",
+                        "year": "2023",
+                        "id": 36158449
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "菜市场里的老虎",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33975570.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35571453/",
+                        "year": "2021",
+                        "id": 35571453
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "热带",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33499829.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34856420/",
+                        "year": "2019",
+                        "id": 34856420
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "月球房地产推销员",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29982965.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30416732/",
+                        "year": "2019",
+                        "id": 30416732
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "身外之海",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29681469.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27605501/",
+                        "year": "2018",
+                        "id": 27605501
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "酒馆关门之前",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29862170.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30318750/",
+                        "year": "2018",
+                        "id": 30318750
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "我们终将被遗忘",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29304920.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26962295/",
+                        "year": "2017",
+                        "id": 26962295
+                    }
+                }
+            ],
+            "total": 7
+        }
+    },
+    "author_link": "https://book.douban.com/author/4609475/",
+    "author_douban_id": "4609475",
+    "personage_id": 35222713,
+    "name": [
+        "李唐"
+    ],
+    "intro": "李唐，1992年生于北京。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/a62ea307c04f00fae8ca6405113f53a9.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

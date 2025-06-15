@@ -1,0 +1,64 @@
+{
+    "title": "寒山诗注（附拾得诗注）",
+    "bookInfo": {
+        "作者": "项楚 / 拾得",
+        "出版社": "中华书局",
+        "出版年": "2019-6",
+        "定价": "196.00元",
+        "装帧": "精装",
+        "丛书": "项楚学术文集",
+        "ISBN": "9787101139037"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "65.9%",
+        "four_star_rate": "26.8%",
+        "three_star_rate": "4.9%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "2.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4620672/",
+            "name": "拾得",
+            "role": "作者",
+            "douban_id": "4620672"
+        },
+        {
+            "link": "https://book.douban.com/author/4633855/",
+            "name": "项楚",
+            "role": "校注",
+            "douban_id": "4633855"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "117.60元",
+            "link": "https://www.dedao.cn/eBook/N4yqKRVn1jAJaMyOQ2YorRp6DvXm7we72VWGBKLzkPq5gdxEV98eNbZl467ovjzg?source=douban"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33646197/",
+    "douban_id": "33646197",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34326397.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "项楚",
+            "link": "https://book.douban.com/search/%E9%A1%B9%E6%A5%9A"
+        },
+        {
+            "text": "拾得",
+            "link": "https://book.douban.com/author/4620672"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "项楚学术文集",
+            "link": "https://book.douban.com/series/47492"
+        }
+    ],
+    "tag": "中国文学"
+}

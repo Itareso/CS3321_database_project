@@ -1,0 +1,71 @@
+{
+    "title": "第六个小夜子",
+    "bookInfo": {
+        "作者": "(日)恩田陆",
+        "出版社": "人民文学出版社",
+        "出品方": "99读书人",
+        "副标题": "文库本",
+        "译者": "王战",
+        "出版年": "2011-12",
+        "页数": "283",
+        "定价": "14.00元",
+        "装帧": "平装",
+        "丛书": "人文日本文库",
+        "ISBN": "9787020082797"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "9.4%",
+        "four_star_rate": "27.6%",
+        "three_star_rate": "52.0%",
+        "two_star_rate": "10.3%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610496/",
+            "name": "恩田陆",
+            "role": "作者",
+            "douban_id": "4610496"
+        }
+    ],
+    "shops": [
+        {
+            "name": "中图网",
+            "price": "8.70元",
+            "link": "https://book.douban.com/link2/?lowest=869&pre=0&vendor=bookschina&srcpage=subject&price=869&pos=1&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5452817.htm&cntvendor=1&srcsubj=7046954&type=bkbuy&subject=7046954"
+        }
+    ],
+    "url": "https://book.douban.com/subject/7046954/",
+    "douban_id": "7046954",
+    "menu": [
+        "",
+        "        序章Chapter 1  春之章Chapter 2  夏之章Chapter 3  秋之章Chapter 4  冬之章又到了，春天",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s7008435.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "(日)恩田陆",
+            "link": "https://book.douban.com/author/4610496"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "99读书人",
+            "link": "https://book.douban.com/producers/1"
+        },
+        {
+            "text": "王战",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E6%88%98"
+        },
+        {
+            "text": "人文日本文库",
+            "link": "https://book.douban.com/series/10387"
+        }
+    ],
+    "tag": "校园"
+}

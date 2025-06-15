@@ -1,0 +1,95 @@
+{
+    "title": "贝佐斯传",
+    "bookInfo": {
+        "作者": "[美] 布拉德·斯通",
+        "出版社": "中信出版集团",
+        "副标题": "贝佐斯及无边界的亚马逊",
+        "原作名": "Amazon Unbound",
+        "译者": "张琪",
+        "出版年": "2021-9",
+        "页数": "426",
+        "定价": "79",
+        "装帧": "平装",
+        "ISBN": "9787521732382"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "15.8%",
+        "four_star_rate": "38.6%",
+        "three_star_rate": "35.9%",
+        "two_star_rate": "7.8%",
+        "one_star_rate": "1.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1053219/",
+            "name": "布拉德·斯通",
+            "role": "作者",
+            "douban_id": "1053219"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "39.50元",
+            "link": "https://read.douban.com/ebook/329212980/?dcs=subject-buylink&dcm=douban&dct=35575892"
+        },
+        {
+            "name": "得到",
+            "price": "39.50元",
+            "link": "https://www.dedao.cn/ebook/detail?id=6JvkYVNn8NXVry5MeG6Z9RALK2dxJ3G2QLW7olBEmjgakz1DPvYObQ4qpQdZqme9&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "59.30元",
+            "link": "https://book.douban.com/link2/?lowest=5100&pre=0&vendor=jingdong&srcpage=subject&price=5930&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVkdWgABXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVlZaDkgeHDZNRwYlWGJ_VBkiCC10dh0BRzlyAVt4MwkpXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GU1hcCksSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVoUCQBsCFgHVExLCi9mGFMdWgYAUlptCkoWAW04K2tPDnxhC1cLCRxjVzEKaR0VG3ZaJC0iSE55AWYMfAgXPmdCAy0uUhhSfhZhK1gl&cntvendor=5&srcsubj=35575892&type=bkbuy&subject=35575892"
+        },
+        {
+            "name": "当当网",
+            "price": "51.00元",
+            "link": "https://book.douban.com/link2/?lowest=5100&pre=0&vendor=dangdang&srcpage=subject&price=5100&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35575892%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29290176&cntvendor=5&srcsubj=35575892&type=bkbuy&subject=35575892"
+        },
+        {
+            "name": "中图网",
+            "price": "61.80元",
+            "link": "https://book.douban.com/link2/?lowest=5100&pre=0&vendor=bookschina&srcpage=subject&price=6180&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8680445.htm&cntvendor=5&srcsubj=35575892&type=bkbuy&subject=35575892"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35575892/",
+    "douban_id": "35575892",
+    "menu": [
+        "",
+        "        第一部分 发明",
+        "        第1章 最高产品经理",
+        "        第2章 一个无聊到没人注意的名字",
+        "        第3章 牛仔与杀手",
+        "        第4章 突飞猛进的一年",
+        "        第5章 挺身而战",
+        "        第6章 轰炸好莱坞",
+        "        第二部分 杠杆",
+        "        第7章 零售机器",
+        "        第8章 亚马逊的未来",
+        "        第9章 最后一英里",
+        "        第10章 后院的金矿",
+        "        第11章 步步为营",
+        "        第三部分 无敌",
+        "        第12章 辉煌的图景",
+        "        第13章 轻微凹陷的无敌盔甲",
+        "        第14章 反垄断清算",
+        "        第15章 高速增长与巨大挑战",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33986268.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 布拉德·斯通",
+            "link": "https://book.douban.com/author/1053219"
+        },
+        {
+            "text": "张琪",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E7%90%AA"
+        }
+    ],
+    "tag": "人物传记"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "去年的树",
+    "bookInfo": {
+        "作者": "[日] 新美南吉",
+        "出版社": "云南美术出版社",
+        "出品方": "果麦文化",
+        "副标题": "新美南吉童话集",
+        "译者": "吴绣绣",
+        "出版年": "2020-5-20",
+        "页数": "116",
+        "定价": "29.8",
+        "装帧": "平装",
+        "丛书": "果麦·外国文学经典",
+        "ISBN": "9787548940180"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.1%",
+        "four_star_rate": "51.3%",
+        "three_star_rate": "15.0%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4569970/",
+            "name": "新美南吉",
+            "role": "作者",
+            "douban_id": "4569970"
+        },
+        {
+            "link": "https://book.douban.com/author/4619052/",
+            "name": "吴绣绣",
+            "role": "译者",
+            "douban_id": "4619052"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.80元",
+            "link": "https://read.douban.com/ebook/147764742/?dcs=subject-buylink&dcm=douban&dct=35050052"
+        },
+        {
+            "name": "得到",
+            "price": "29.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=vExPL6aYQPjadpoZxR5r6KDkbNJVO0oyKj384GeXyLElm92gnMA1zvB7qMKpBGkj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.10元",
+            "link": "https://book.douban.com/link2/?lowest=2110&pre=0&vendor=jingdong&srcpage=subject&price=2110&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFIRWAQFUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVpYCkwSHDZNRwYlOHhSXAwcDkh0UBV-S19DWkNUVx0_aEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUV5ZCEoQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHgsUW1VsCFgKSgkWUzVmG1oTWQEGVlttCkoWAW04K2tDA2NAKlsJU0tEexZpEwlMNF5bJCEoUDR5ASdMUgVjH1ZLVD49XhVIdRFgK1gl&cntvendor=3&srcsubj=35050052&type=bkbuy&subject=35050052"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35050052/",
+    "douban_id": "35050052",
+    "menu": [
+        "",
+        "        去年的树",
+        "        小狐狸买手套",
+        "        螃蟹做生意",
+        "        狐狸被派去买东西",
+        "        一年级的小同学和水鸟",
+        "        蜗牛",
+        "        妈妈们",
+        "        兔子",
+        "        蜗牛的悲哀",
+        "        喜欢孩子的小神仙",
+        "        红蜡烛",
+        "        两只小青蛙",
+        "        小牛犊",
+        "        腿",
+        "        乡村的春天，山里的春天",
+        "        竹笋",
+        "        谁的影子",
+        "        小狐狸阿权",
+        "        小狐狸",
+        "        一束火苗",
+        "        糖球",
+        "        红蜻蜓",
+        "        郁金香",
+        "        花木村和盗贼们",
+        "        小太郎的悲哀",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33632485.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 新美南吉",
+            "link": "https://book.douban.com/author/4569970"
+        },
+        {
+            "text": "云南美术出版社",
+            "link": "https://book.douban.com/press/2181"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "吴绣绣",
+            "link": "https://book.douban.com/author/4619052"
+        },
+        {
+            "text": "果麦·外国文学经典",
+            "link": "https://book.douban.com/series/49275"
+        }
+    ],
+    "tag": "日本文学"
+}

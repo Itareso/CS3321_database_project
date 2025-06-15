@@ -1,0 +1,119 @@
+{
+    "title": "漫画中国式项目管理",
+    "bookInfo": {
+        "作者": "蒋昕炜",
+        "出版社": "东方出版社",
+        "出版年": "2013-8-1",
+        "页数": "198",
+        "定价": "38.00",
+        "装帧": "平装",
+        "ISBN": "9787506064354"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "24.6%",
+        "four_star_rate": "49.2%",
+        "three_star_rate": "24.2%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.40元",
+            "link": "https://book.douban.com/link2/?lowest=2140&pre=0&vendor=jingdong&srcpage=subject&price=2140&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG1gdXQIGVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCV1ZdDE8WHDZNRwYlPk9FPStdbhJ1XQ1OGFprFHFFMgUfaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUFhfCE4SM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gUDwBsCFgHVw1TAW9mGVoVWAIFUFZtCkoWAW04K2sUPg9aMz4CATEfVGhsXC9uHwdSBAEVQCt5AQtwQjhuBW54LhwfCShAYxtSK1gl&cntvendor=3&srcsubj=25723447&type=bkbuy&subject=25723447"
+        },
+        {
+            "name": "当当网",
+            "price": "21.40元",
+            "link": "https://book.douban.com/link2/?lowest=2140&pre=0&vendor=dangdang&srcpage=subject&price=2140&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25723447%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23310024&cntvendor=3&srcsubj=25723447&type=bkbuy&subject=25723447"
+        },
+        {
+            "name": "中图网",
+            "price": "24.60元",
+            "link": "https://book.douban.com/link2/?lowest=2140&pre=0&vendor=bookschina&srcpage=subject&price=2460&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6294813.htm&cntvendor=3&srcsubj=25723447&type=bkbuy&subject=25723447"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25723447/",
+    "douban_id": "25723447",
+    "menu": [
+        "",
+        "        引子",
+        "        什么样的项目是成功的？",
+        "        项目的成功必须是可以“复制”的",
+        "        面对严重技术问题，你应该怎么做",
+        "        一.项目需求篇",
+        "        1.1 项目需求分析是“业务导向”的",
+        "        1.2 老板说的话一定靠谱吗？",
+        "        1.3 需求是需要确认的",
+        "        1.4 谁是真正的Sponsor？",
+        "        1.5 需求阶段的争吵和争论",
+        "        1.6 关于项目合同的“敞口协议”",
+        "        1.7 表面原因与深层次原因",
+        "        二.项目计划篇",
+        "        2.1 项目的渐进明晰性",
+        "        2.2 里程碑节点比验收节点更重要",
+        "        2.3 项目规划应该是非常现实的",
+        "        2.4 项目计划中的资源冲突",
+        "        2.5 资源是要去争取的",
+        "        2.6 你认为正确，还是大家认为正确",
+        "        2.7 计划要简洁",
+        "        2.8 风险控制一定要落实到计划中",
+        "        三.项目控制篇",
+        "        3.1 风险控制是一个持续的过程",
+        "        3.2 项目启动阶段项目经理的工作",
+        "        3.3 项目计划阶段项目经理的工作",
+        "        3.4 项目执行阶段项目经理的工作",
+        "        3.5 基于项目汇报周期的风险控制",
+        "        3.6 收尾阶段项目经理的工作",
+        "        3.7 关于项目文档",
+        "        3.8 项目中部门间的沟通",
+        "        3.9 项目成员的跨部门管理",
+        "        3.10 项目变更真的不可控吗？",
+        "        3.11做狼还是做羊 – 项目管理的规范化",
+        "        四.项目团队与沟通",
+        "        4.1 项目经理的1天",
+        "        4.2 项目经理的沟通模式",
+        "        4.3 经验重要，还是工作热情重要",
+        "        4.4 项目经理在沟通中的角色",
+        "        4.5 项目团队的多样性",
+        "        4.6 项目中的沟通是因人而异的",
+        "        4.7 客户什么时候会满意",
+        "        4.8 老板为什么会反对你？",
+        "        4.9 计划与变化",
+        "        4.10 画大饼是不是有用",
+        "        4.11 项目汇报时，需要大量细节吗",
+        "        4.12 适应而不是改变他人",
+        "        4.13 动之以情还是晓之以理",
+        "        4.14 让步了，问题就能解决吗？",
+        "        4.15 别人为什么要听你的？",
+        "        4.16 项目经理的人缘",
+        "        4.17 当你的想法被否定时",
+        "        4.18 讨价还价是否有效",
+        "        五.项目经理职业规划篇",
+        "        5.1 考个证书有用吗",
+        "        5.2 政治敏感",
+        "        5.3 自信",
+        "        5.4 如何对待不可能完成的任务",
+        "        5.5 从技术头脑到业务头脑",
+        "        5.6 项目经理的价值是什么？",
+        "        六.后记",
+        "        6.1 项目管理方法能指导生活吗",
+        "        6.2 为什么选择做项目经理",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s27041098.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "蒋昕炜",
+            "link": "https://book.douban.com/search/%E8%92%8B%E6%98%95%E7%82%9C"
+        },
+        {
+            "text": "东方出版社",
+            "link": "https://book.douban.com/press/2731"
+        }
+    ],
+    "tag": "职场"
+}

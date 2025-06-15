@@ -1,0 +1,64 @@
+{
+    "title": "未带地图的旅人(萧乾回忆录)",
+    "bookInfo": {
+        "作者": "萧乾",
+        "出版社": "北方文艺出版社",
+        "副标题": "萧乾回忆录",
+        "出版年": "2014-2",
+        "页数": "342",
+        "装帧": "平装",
+        "ISBN": "9787531732051"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.4%",
+        "four_star_rate": "58.8%",
+        "three_star_rate": "11.8%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502579/",
+            "name": "萧乾",
+            "role": "作者",
+            "douban_id": "4502579"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "39.00元",
+            "link": "https://book.douban.com/link2/?lowest=3900&pre=0&vendor=jingdong&srcpage=subject&price=3900&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10066575905261.html&cntvendor=1&srcsubj=25824008&type=bkbuy&subject=25824008"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25824008/",
+    "douban_id": "25824008",
+    "menu": [
+        "",
+        "        卷首语",
+        "        1黎明曲（1910—1928）",
+        "        2冲出去（1928—1935）",
+        "        3我与《大公报》（1935—1939）",
+        "        4旅英七载（1939—1946）",
+        "        5大十字路口（1946—1949）",
+        "        6我回来落户了（1949—1979）",
+        "        7重见阳光（1979—1988）",
+        "        附录一：萧乾年表",
+        "        附录二：萧乾行",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s28370947.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "萧乾",
+            "link": "https://book.douban.com/search/%E8%90%A7%E4%B9%BE"
+        },
+        {
+            "text": "北方文艺出版社",
+            "link": "https://book.douban.com/press/2319"
+        }
+    ],
+    "tag": "回忆录"
+}

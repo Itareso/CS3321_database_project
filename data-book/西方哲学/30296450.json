@@ -1,0 +1,80 @@
+{
+    "title": "逻辑哲学论",
+    "bookInfo": {
+        "作者": "[奥]维特根斯坦 / [奥地利] 路德维希·维特根斯坦",
+        "出版社": "商务印书馆",
+        "副标题": "维特根斯坦文集·第2卷",
+        "译者": "韩林合 编译 / 韩林合",
+        "出版年": "2019-1",
+        "页数": "111",
+        "定价": "38.00",
+        "装帧": "精装",
+        "丛书": "维特根斯坦文集",
+        "ISBN": "9787100164610"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "77.3%",
+        "four_star_rate": "13.5%",
+        "three_star_rate": "5.7%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4523098/",
+            "name": "路德维希·维特根斯坦",
+            "role": "作者",
+            "douban_id": "4523098"
+        },
+        {
+            "link": "https://book.douban.com/author/4629431/",
+            "name": "韩林合",
+            "role": "译者",
+            "douban_id": "4629431"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "44.14元",
+            "link": "https://book.douban.com/link2/?lowest=4410&pre=0&vendor=jingdong&srcpage=subject&price=4414&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV8cXAAEUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUFdcDk0SHDZNRwYlOVNqIiQZSDR3S2hzGhgcPARhERkgeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVteCUoSBF8IHV4UWA4GVVxfAUsQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlwVD1JsCFgHVQlcBjZmGVoUXg8FVVttCkoWAW04K2sXAmBQKlsqeDdzABBNbjpmFHNpFQ4CCAt5AT1PegRSD25lKCUmChRCYG0OK1gl&cntvendor=2&srcsubj=30296450&type=bkbuy&subject=30296450"
+        },
+        {
+            "name": "中图网",
+            "price": "44.10元",
+            "link": "https://book.douban.com/link2/?lowest=4410&pre=0&vendor=bookschina&srcpage=subject&price=4410&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8763034.htm&cntvendor=2&srcsubj=30296450&type=bkbuy&subject=30296450"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30296450/",
+    "douban_id": "30296450",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34200778.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[奥]维特根斯坦",
+            "link": "https://book.douban.com/search/%E7%BB%B4%E7%89%B9%E6%A0%B9%E6%96%AF%E5%9D%A6"
+        },
+        {
+            "text": "[奥地利] 路德维希·维特根斯坦",
+            "link": "https://book.douban.com/author/4523098"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "韩林合 编译",
+            "link": "https://book.douban.com/search/%E9%9F%A9%E6%9E%97%E5%90%88%20%E7%BC%96%E8%AF%91"
+        },
+        {
+            "text": "韩林合",
+            "link": "https://book.douban.com/author/4629431"
+        },
+        {
+            "text": "维特根斯坦文集",
+            "link": "https://book.douban.com/series/43303"
+        }
+    ],
+    "tag": "西方哲学"
+}

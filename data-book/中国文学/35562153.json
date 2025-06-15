@@ -1,0 +1,101 @@
+{
+    "title": "我不是废柴",
+    "bookInfo": {
+        "作者": "纪静蓉",
+        "出版社": "中华工商联合出版社",
+        "出版年": "2021-8",
+        "页数": "288",
+        "定价": "88.00元",
+        "装帧": "平装",
+        "ISBN": "9787515830582"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.8%",
+        "four_star_rate": "48.0%",
+        "three_star_rate": "22.2%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4636271/",
+            "name": "纪静蓉",
+            "role": "作者",
+            "douban_id": "4636271"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "88.00元",
+            "link": "https://read.douban.com/ebook/451542350/?dcs=subject-buylink&dcm=douban&dct=35562153"
+        },
+        {
+            "name": "得到",
+            "price": "88.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=donM9vjLM8m6d5YQ7lvJGVz2Xgaqb3pZel80nBRyejENkP1KZo9rD4OApxpxkY7K&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "49.28元",
+            "link": "https://book.douban.com/link2/?lowest=4400&pre=0&vendor=jingdong&srcpage=subject&price=4928&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFMVWA8HVG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOXD4aSzV-RhhMHgJlAQdpVDZdaDJxVjdUdVl9OQViMR1YTg9JXWdoHAdXLhFCWCokcBtgYBhUbDJhBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZgHVoubxd-Rw16ZQhCAXIDXTsVVgBnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVpeAUIeC204G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXlIKXV4zVE1ARj9IQgF7XQcLUldbCUInAW4JGVklbTYKNBkediJSdCsNQitJXG0CPF49cS1CWzNmGTNxXmZnF1sbTBVJCw8PRxlmbQUy&cntvendor=5&srcsubj=35562153&type=bkbuy&subject=35562153"
+        },
+        {
+            "name": "当当网",
+            "price": "44.00元",
+            "link": "https://book.douban.com/link2/?lowest=4400&pre=0&vendor=dangdang&srcpage=subject&price=4400&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35562153%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29285505&cntvendor=5&srcsubj=35562153&type=bkbuy&subject=35562153"
+        },
+        {
+            "name": "中图网",
+            "price": "46.80元",
+            "link": "https://book.douban.com/link2/?lowest=4400&pre=0&vendor=bookschina&srcpage=subject&price=4680&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8657300.htm&cntvendor=5&srcsubj=35562153&type=bkbuy&subject=35562153"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35562153/",
+    "douban_id": "35562153",
+    "menu": [
+        "",
+        "        第一章投了一千份简历，二胎妈妈找不到工作 / 1",
+        "        第二章老板突然出家了 / 13",
+        "        第三章任性的女人，住不进他的大平层 / 26",
+        "        第四章都是小镇做题家，差距咋就那么大？ / 34",
+        "        第五章人到中年，遭遇了一场飞来横祸 / 45",
+        "        第六章“奋斗狂”和“三和大神”的爱恨情仇 / 54",
+        "        第七章成为打工人是一种福气  / 63",
+        "        第八章你有什么资格淡泊名利 / 71",
+        "        第九章他的精神熔断了 / 78",
+        "        第十章好人无用 / 87",
+        "        第十一章所有杀不死他的，只会让他更奇怪 / 97",
+        "        第十二章福无双至，祸不单行 / 108",
+        "        第十三章失业就是社会性死亡 / 118",
+        "        第十四章中年下岗夫妻生产自救 / 129",
+        "        第十五章采菊终南山，悠然看美剧 / 138",
+        "        第十六章计时的厕所 / 148",
+        "        第十七章再就业的中年夫妻 / 157",
+        "        第十八章终南山是个大IP / 167",
+        "        第十九章个人十年经济发展计划 / 176",
+        "        第二十章在前同事家当月嫂 / 189",
+        "        第二十一章万般无下品，挣钱名 / 200",
+        "        第二十二章无用之用，彻底无用  / 212",
+        "        第二十三章突出的腰椎间盘拒生活伏低做小 / 225",
+        "        第二十四章身体不好才是的中年危机 / 236",
+        "        第二十五章下山，下山 / 246",
+        "        第二十六章生活在继续 / 256",
+        "        第二十七章老兵不死，并且没有凋零 / 270",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34966418.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "纪静蓉",
+            "link": "https://book.douban.com/search/%E7%BA%AA%E9%9D%99%E8%93%89"
+        },
+        {
+            "text": "中华工商联合出版社",
+            "link": "https://book.douban.com/press/2708"
+        }
+    ],
+    "tag": "中国文学"
+}

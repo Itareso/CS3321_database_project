@@ -1,0 +1,110 @@
+{
+    "title": "旅程",
+    "bookInfo": {
+        "作者": "[英] 托尼·布莱尔",
+        "出版社": "译林出版社",
+        "副标题": "布莱尔回忆录",
+        "原作名": "A Journey",
+        "译者": "李永学 / 董宇虹 / 江凌",
+        "出版年": "2011-9",
+        "页数": "620",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "丛书": "传记译林",
+        "ISBN": "9787544717175"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "46.4%",
+        "four_star_rate": "36.6%",
+        "three_star_rate": "16.1%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4631460/",
+            "name": "托尼·布莱尔",
+            "role": "作者",
+            "douban_id": "4631460"
+        },
+        {
+            "link": "https://book.douban.com/author/4616801/",
+            "name": "李永学",
+            "role": "译者",
+            "douban_id": "4616801"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.10元",
+            "link": "https://book.douban.com/link2/?lowest=2210&pre=0&vendor=jingdong&srcpage=subject&price=2210&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQgJK1olXwIFV1ZbAE0RB18IGloWVQYAXV1bCEsSB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmwAG1kcXgACVFtZFxJSXzI4fgJuNmcEDBU-Tg98GQsOSB1sG0FhJFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVwRXQ8DU25fCEoWBm8AHFgUbQYEUV9YAE0XAW0KE1slXQ4GZIfdv521kbaWkY6dyjYyZF1tOHsXM2w4RTUUDgAAVFtaCSVLBTVXGxARFGgAVV9dD0sUA18KGloXXzYyZFY9Twhpaip_X15MAAF6A1YcCBR-YRJMaTUXNWIBNDseDQ1TURFeGAlTDnUyV24&cntvendor=2&srcsubj=6041470&type=bkbuy&subject=6041470"
+        },
+        {
+            "name": "中图网",
+            "price": "30.20元",
+            "link": "https://book.douban.com/link2/?lowest=2210&pre=0&vendor=bookschina&srcpage=subject&price=3020&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5267051.htm&cntvendor=2&srcsubj=6041470&type=bkbuy&subject=6041470"
+        }
+    ],
+    "url": "https://book.douban.com/subject/6041470/",
+    "douban_id": "6041470",
+    "menu": [
+        "",
+        "        中文版前言",
+        "        致谢",
+        "        序言",
+        "        第一章　高涨的期望",
+        "        第二章　领袖学徒",
+        "        第三章　新工党",
+        "        第四章　蜜月",
+        "        第五章　黛安娜王妃",
+        "        第六章　北爱和平",
+        "        第七章　“执政如散文”",
+        "        第八章  科索沃",
+        "        第九章  保守势力",
+        "        第十章  危机处理",
+        "        第十一章 对新工党的授权",
+        "        第十二章 “9.11”: 并肩作战",
+        "        第十三章 伊拉克：开战在即",
+        "        第十四章 决定",
+        "        第十五章 伊拉克：善后",
+        "        第十六章 国内改革",
+        "        第十七章 2005：托尼•布莱尔/戈登•布朗",
+        "        第十八章 凯歌与悲曲",
+        "        第十九章 咬牙顶住",
+        "        第二十章 最后阶段",
+        "        第二十一章 离去",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s6880274.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 托尼·布莱尔",
+            "link": "https://book.douban.com/author/4631460"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "李永学",
+            "link": "https://book.douban.com/author/4616801"
+        },
+        {
+            "text": "董宇虹",
+            "link": "https://book.douban.com/search/%E8%91%A3%E5%AE%87%E8%99%B9"
+        },
+        {
+            "text": "江凌",
+            "link": "https://book.douban.com/search/%E6%B1%9F%E5%87%8C"
+        },
+        {
+            "text": "传记译林",
+            "link": "https://book.douban.com/series/33076"
+        }
+    ],
+    "tag": "回忆录"
+}

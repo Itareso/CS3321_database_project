@@ -1,0 +1,91 @@
+{
+    "title": "沙丘",
+    "bookInfo": {
+        "作者": "[美]弗兰克·赫伯特（原著） / [美]布莱恩·赫伯特 / [美]凯文.J.安德森 / [西班牙]劳尔·艾伦（绘） / [西班牙]帕特里夏·马丁（绘）",
+        "出版社": "中信出版社",
+        "副标题": "第一部",
+        "原作名": "DUNE",
+        "译者": "刘勇军",
+        "出版年": "2021-10",
+        "页数": "184",
+        "定价": "88.00元",
+        "装帧": "平装",
+        "丛书": "沙丘",
+        "ISBN": "9787521735727"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "32.6%",
+        "four_star_rate": "48.2%",
+        "three_star_rate": "15.8%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "36.96元",
+            "link": "https://read.douban.com/ebook/336468415/?dcs=subject-buylink&dcm=douban&dct=35594048"
+        },
+        {
+            "name": "得到",
+            "price": "36.96元",
+            "link": "https://www.dedao.cn/eBook/5lZOKpMGr9mgdOvYa6Ej75XRo1NML3jpqg0k8ZVzb2nqPpDxBeJlK4AyQ8RPQv2z?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "46.50元",
+            "link": "https://book.douban.com/link2/?lowest=4650&pre=0&vendor=jingdong&srcpage=subject&price=4650&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFMdXwcHXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IONFY2Syt3WDx9SxxRWV0GNwc6dixwfDhudVl3KAAKAh06dD5BVQ8AUgl-FRFCWCokcBtuYARMbDJPBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZGHD8OFkNrGQoSTyVGGk1gCV4KVRRRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVV1YDEITBGo4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYBAFozVE1AQDMLRll7XQcHXV5eCksnAW4JGVklbTZiXDUeaCtMUBpYXB8RBgJhDTkjbyxoVAlmGTlgWw5UFzkhfR1BY2dBSTBdbQUy&cntvendor=5&srcsubj=35594048&type=bkbuy&subject=35594048"
+        },
+        {
+            "name": "当当网",
+            "price": "66.00元",
+            "link": "https://book.douban.com/link2/?lowest=4650&pre=0&vendor=dangdang&srcpage=subject&price=6600&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35594048%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29322158&cntvendor=5&srcsubj=35594048&type=bkbuy&subject=35594048"
+        },
+        {
+            "name": "中图网",
+            "price": "62.60元",
+            "link": "https://book.douban.com/link2/?lowest=4650&pre=0&vendor=bookschina&srcpage=subject&price=6260&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8719894.htm&cntvendor=5&srcsubj=35594048&type=bkbuy&subject=35594048"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35594048/",
+    "douban_id": "35594048",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34047020.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]弗兰克·赫伯特（原著）",
+            "link": "https://book.douban.com/search/%E5%BC%97%E5%85%B0%E5%85%8B%C2%B7%E8%B5%AB%E4%BC%AF%E7%89%B9"
+        },
+        {
+            "text": "[美]布莱恩·赫伯特",
+            "link": "https://book.douban.com/search/%E5%B8%83%E8%8E%B1%E6%81%A9%C2%B7%E8%B5%AB%E4%BC%AF%E7%89%B9"
+        },
+        {
+            "text": "[美]凯文.J.安德森",
+            "link": "https://book.douban.com/search/%E5%87%AF%E6%96%87.J.%E5%AE%89%E5%BE%B7%E6%A3%AE"
+        },
+        {
+            "text": "[西班牙]劳尔·艾伦（绘）",
+            "link": "https://book.douban.com/search/%E5%8A%B3%E5%B0%94%C2%B7%E8%89%BE%E4%BC%A6"
+        },
+        {
+            "text": "[西班牙]帕特里夏·马丁（绘）",
+            "link": "https://book.douban.com/search/%E5%B8%95%E7%89%B9%E9%87%8C%E5%A4%8F%C2%B7%E9%A9%AC%E4%B8%81"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "刘勇军",
+            "link": "https://book.douban.com/search/%E5%88%98%E5%8B%87%E5%86%9B"
+        },
+        {
+            "text": "沙丘",
+            "link": "https://book.douban.com/series/61862"
+        }
+    ],
+    "tag": "经典"
+}

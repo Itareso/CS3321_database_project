@@ -1,0 +1,74 @@
+{
+    "title": "撒野",
+    "bookInfo": {
+        "作者": "巫哲",
+        "出版社": "北京联合出版公司",
+        "出品方": "磨铁图书",
+        "出版年": "2018-10-22",
+        "页数": "424",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "丛书": "撒野",
+        "ISBN": "9787559620187"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "68.6%",
+        "four_star_rate": "22.4%",
+        "three_star_rate": "6.5%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/321870/",
+            "name": "巫哲",
+            "role": "作者",
+            "douban_id": "321870"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.00元",
+            "link": "https://book.douban.com/link2/?lowest=2570&pre=0&vendor=jingdong&srcpage=subject&price=3100&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF4RXQYFU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUVpdCEwQHDZNRwYlA1FaAl1VfE10QD9feiZnB0JXFzwfXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UWA4BU1xZDkkeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gRCgZsCFgHUh5NQGlmGFMTWAcFVFltCkoWAW04K2tPDnxhC1cLCRxjVzFrGS5oX3ZaBwEKWkl5AWYMfAgXPmdCAy0uUhhQAQ1hK1gl&cntvendor=2&srcsubj=30336340&type=bkbuy&subject=30336340"
+        },
+        {
+            "name": "中图网",
+            "price": "25.70元",
+            "link": "https://book.douban.com/link2/?lowest=2570&pre=0&vendor=bookschina&srcpage=subject&price=2570&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7932959.htm&cntvendor=2&srcsubj=30336340&type=bkbuy&subject=30336340"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30336340/",
+    "douban_id": "30336340",
+    "menu": [
+        "",
+        "        一 别处的故乡",
+        "        二 飞吧！少年",
+        "        三 春天来了",
+        "        四 里脊肉",
+        "        五 孤儿",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29889999.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "巫哲",
+            "link": "https://book.douban.com/search/%E5%B7%AB%E5%93%B2"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "磨铁图书",
+            "link": "https://book.douban.com/producers/18"
+        },
+        {
+            "text": "撒野",
+            "link": "https://book.douban.com/series/47054"
+        }
+    ],
+    "tag": "校园"
+}

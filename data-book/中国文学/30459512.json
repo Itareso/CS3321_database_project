@@ -1,0 +1,73 @@
+{
+    "title": "妻妾成群",
+    "bookInfo": {
+        "作者": "苏童",
+        "出版社": "浙江人民出版社",
+        "出品方": "磨铁图书",
+        "出版年": "2019-2-1",
+        "页数": "240",
+        "定价": "48.00",
+        "装帧": "精装",
+        "丛书": "苏童作品集（精装典藏版）",
+        "ISBN": "9787213090745"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "43.5%",
+        "four_star_rate": "46.6%",
+        "three_star_rate": "9.2%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4510362/",
+            "name": "苏童",
+            "role": "作者",
+            "douban_id": "4510362"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=1920&pre=0&vendor=jingdong&srcpage=subject&price=2400&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12958794.html&cntvendor=2&srcsubj=30459512&type=bkbuy&subject=30459512"
+        },
+        {
+            "name": "中图网",
+            "price": "19.20元",
+            "link": "https://book.douban.com/link2/?lowest=1920&pre=0&vendor=bookschina&srcpage=subject&price=1920&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8032081.htm&cntvendor=2&srcsubj=30459512&type=bkbuy&subject=30459512"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30459512/",
+    "douban_id": "30459512",
+    "menu": [
+        "",
+        "        妻妾成群",
+        "        红粉",
+        "        园艺",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s30004389.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "苏童",
+            "link": "https://book.douban.com/author/4510362"
+        },
+        {
+            "text": "浙江人民出版社",
+            "link": "https://book.douban.com/press/2507"
+        },
+        {
+            "text": "磨铁图书",
+            "link": "https://book.douban.com/producers/18"
+        },
+        {
+            "text": "苏童作品集（精装典藏版）",
+            "link": "https://book.douban.com/series/46127"
+        }
+    ],
+    "tag": "中国文学",
+    "avg_rate": 4.329
+}

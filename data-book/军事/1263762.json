@@ -1,0 +1,65 @@
+{
+    "title": "骑士风云录(共6册)",
+    "bookInfo": {
+        "作者": "陆双鹤",
+        "出版社": "广西人民出版社",
+        "出版年": "2002-9-1",
+        "页数": "2112",
+        "定价": "100.00",
+        "装帧": "精装(无盘)",
+        "ISBN": "9787219046142"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "60.8%",
+        "four_star_rate": "32.4%",
+        "three_star_rate": "4.9%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "2.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "6.99元",
+            "link": "https://read.douban.com/ebook/490047567/?dcs=subject-buylink&dcm=douban&dct=1263762"
+        },
+        {
+            "name": "京东商城",
+            "price": "15.90元",
+            "link": "https://book.douban.com/link2/?lowest=1590&pre=0&vendor=jingdong&srcpage=subject&price=1590&pos=2&url=https%3A%2F%2Fitem.jd.com%2F10026800075894.html&cntvendor=2&srcsubj=1263762&type=bkbuy&subject=1263762"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1263762/",
+    "douban_id": "1263762",
+    "menu": [
+        "",
+        "        序章",
+        "        第一卷  王城的陷落",
+        "        第二卷  初生之犊",
+        "        第三卷  林斯塔国的攻防战",
+        "        第四卷  烽烟北陆原",
+        "        第五卷  新科夫诺城的攻防战（上）",
+        "        第六卷  新科夫诺城的攻防战（下）",
+        "        第七卷  双头之蛇",
+        "        第八卷  初春的岚",
+        "        第九卷  纷争",
+        "        第十卷  大反攻",
+        "        第十一卷  策土",
+        "        第十二卷  双重冕",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s1221934.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "陆双鹤",
+            "link": "https://book.douban.com/search/%E9%99%86%E5%8F%8C%E9%B9%A4"
+        },
+        {
+            "text": "广西人民出版社",
+            "link": "https://book.douban.com/press/2541"
+        }
+    ],
+    "tag": "军事"
+}

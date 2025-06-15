@@ -1,0 +1,152 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "中国人的神神鬼鬼",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34976434.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/37069848/",
+                        "year": "2024",
+                        "id": 37069848
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "红楼人物",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34483091.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36336528/",
+                        "year": "2023",
+                        "id": 36336528
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "张一南北大国文课：唐代文学篇",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34656256.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36580343/",
+                        "year": "2023",
+                        "id": 36580343
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "张一南北大国文课",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34303682.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36078119/",
+                        "year": "2022",
+                        "id": 36078119
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "李白集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33924554.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35268641/",
+                        "year": "2021",
+                        "id": 35268641
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "王维集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33923652.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35498392/",
+                        "year": "2021",
+                        "id": 35498392
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "李清照集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33924558.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35268826/",
+                        "year": "2021",
+                        "id": 35268826
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "白居易集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33924556.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35268827/",
+                        "year": "2021",
+                        "id": 35268827
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "杜甫集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33923655.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35498395/",
+                        "year": "2021",
+                        "id": 35498395
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "晚唐齐梁诗风研究",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33916635.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35481499/",
+                        "year": "2021",
+                        "id": 35481499
+                    }
+                }
+            ],
+            "total": 14
+        }
+    },
+    "author_link": "https://book.douban.com/author/4618346/",
+    "author_douban_id": "4618346",
+    "personage_id": 36153323,
+    "name": [
+        "张一南",
+        "Yinan Zhang"
+    ],
+    "intro": "张一南，女，1984年生于北京。2002年至2011年就学于北京大学中文系，先后获学士、博士学位。2011年至2016年供职于中国社会科学院文学研究所，任助理研究员。2016年至今供职于北京大学中文系，任助理教授。主要研究方向为魏晋南北朝隋唐五代文学，开设《大学国文》《中国古代文学史（二）》《诗词格律与写作》《中古士族文学研究》等课程。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/9e3a48b15e3592fbfd7056ad90a578ef.jpg",
+    "sex": 0,
+    "birth_date": 1984,
+    "age": 42,
+    "birth_place": [
+        "中国",
+        "北京"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

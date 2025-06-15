@@ -1,0 +1,89 @@
+{
+    "title": "天坑宝藏",
+    "bookInfo": {
+        "作者": "天下霸唱",
+        "出版社": "北京联合出版公司",
+        "出品方": "新华先锋",
+        "出版年": "2020-3",
+        "页数": "283",
+        "定价": "59.50元",
+        "装帧": "精装",
+        "ISBN": "9787559638731"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "18.3%",
+        "four_star_rate": "37.9%",
+        "three_star_rate": "37.1%",
+        "two_star_rate": "6.1%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/149790/",
+            "name": "天下霸唱",
+            "role": "作者",
+            "douban_id": "149790"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "9.99元",
+            "link": "https://read.douban.com/ebook/133266849/?dcs=subject-buylink&dcm=douban&dct=34936417"
+        },
+        {
+            "name": "得到",
+            "price": "59.50元",
+            "link": "https://www.dedao.cn/ebook/detail?id=xGM6Evn5byxq2PnXBz71AjZaol6R8WJr7XLWOKpGkd4gmMLEJrYNQe9VvD8P4jLk&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "55.00元",
+            "link": "https://book.douban.com/link2/?lowest=3790&pre=0&vendor=jingdong&srcpage=subject&price=5500&pos=3&url=https%3A%2F%2Fitem.jd.com%2F13077204.html&cntvendor=5&srcsubj=34936417&type=bkbuy&subject=34936417"
+        },
+        {
+            "name": "当当网",
+            "price": "56.50元",
+            "link": "https://book.douban.com/link2/?lowest=3790&pre=0&vendor=dangdang&srcpage=subject&price=5650&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34936417%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28519482&cntvendor=5&srcsubj=34936417&type=bkbuy&subject=34936417"
+        },
+        {
+            "name": "中图网",
+            "price": "37.90元",
+            "link": "https://book.douban.com/link2/?lowest=3790&pre=0&vendor=bookschina&srcpage=subject&price=3790&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8256713.htm&cntvendor=5&srcsubj=34936417&type=bkbuy&subject=34936417"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34936417/",
+    "douban_id": "34936417",
+    "menu": [
+        "",
+        "        第一章 白糖的生意",
+        "        第二章 画中的神鹰",
+        "        第三章 血蘑菇出世",
+        "        第四章 血蘑菇破关",
+        "        第五章 血蘑菇调兵",
+        "        第六章 血蘑菇挂帅",
+        "        第七章 血蘑菇封神",
+        "        第八章 血蘑菇下山",
+        "        第九章 奇门纸狼狐（上）",
+        "        第十章 奇门纸狼狐（下）",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33551703.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "天下霸唱",
+            "link": "https://book.douban.com/search/%E5%A4%A9%E4%B8%8B%E9%9C%B8%E5%94%B1"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "新华先锋",
+            "link": "https://book.douban.com/producers/26"
+        }
+    ],
+    "tag": "中国文学"
+}

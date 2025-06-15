@@ -1,0 +1,92 @@
+{
+    "title": "夏目漱石回忆录",
+    "bookInfo": {
+        "作者": "[日] 夏目漱石",
+        "出版社": "古吴轩出版社",
+        "出品方": "凤凰颐合",
+        "译者": "陈修齐",
+        "出版年": "2020-6",
+        "页数": "160",
+        "定价": "36.00",
+        "装帧": "平装",
+        "丛书": "人间镜像",
+        "ISBN": "9787554615591"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "41.0%",
+        "four_star_rate": "41.0%",
+        "three_star_rate": "15.4%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "2.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503311/",
+            "name": "夏目漱石",
+            "role": "作者",
+            "douban_id": "4503311"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.24元",
+            "link": "https://book.douban.com/link2/?lowest=1650&pre=0&vendor=jingdong&srcpage=subject&price=2124&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMWXw8GU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXF1fAU8QHDZNRwYlLmFcDFYnVz50eSd3azMSAkJkVVtDXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UXgcBUFZYDU0UM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGA8WCgVsCFgKSxVcWmZmG1oSWwEAXF5tCkoWAW04K2tSBmVxVls-Qz8RfhBPfxh1KQ98KCg7TCx5AWkKcABRLk5bICEiTxATAR9yK1gl&cntvendor=3&srcsubj=35099253&type=bkbuy&subject=35099253"
+        },
+        {
+            "name": "当当网",
+            "price": "36.00元",
+            "link": "https://book.douban.com/link2/?lowest=1650&pre=0&vendor=dangdang&srcpage=subject&price=3600&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35099253%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28988682&cntvendor=3&srcsubj=35099253&type=bkbuy&subject=35099253"
+        },
+        {
+            "name": "中图网",
+            "price": "16.50元",
+            "link": "https://book.douban.com/link2/?lowest=1650&pre=0&vendor=bookschina&srcpage=subject&price=1650&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8366039.htm&cntvendor=3&srcsubj=35099253&type=bkbuy&subject=35099253"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35099253/",
+    "douban_id": "35099253",
+    "menu": [
+        "",
+        "        我的过去",
+        "        落第",
+        "        我度过的学生时代",
+        "        伦敦消息",
+        "        单车日记",
+        "        处女作追忆谈",
+        "        文艺不足为男子一生之事业乎",
+        "        我想描绘的作品",
+        "        我与钢笔",
+        "        文人的生活",
+        "        我的个人主义",
+        "        附录一 夏目漱石年表",
+        "        附录二 夏目漱石的朋友与学生",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33680057.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 夏目漱石",
+            "link": "https://book.douban.com/search/%E5%A4%8F%E7%9B%AE%E6%BC%B1%E7%9F%B3"
+        },
+        {
+            "text": "古吴轩出版社",
+            "link": "https://book.douban.com/press/2681"
+        },
+        {
+            "text": "凤凰颐合",
+            "link": "https://book.douban.com/producers/177"
+        },
+        {
+            "text": "陈修齐",
+            "link": "https://book.douban.com/search/%E9%99%88%E4%BF%AE%E9%BD%90"
+        },
+        {
+            "text": "人间镜像",
+            "link": "https://book.douban.com/series/52334"
+        }
+    ],
+    "tag": "日本文学"
+}

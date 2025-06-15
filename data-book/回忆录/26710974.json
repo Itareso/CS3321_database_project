@@ -1,0 +1,76 @@
+{
+    "title": "牛棚杂忆",
+    "bookInfo": {
+        "作者": "季羡林",
+        "出版社": "北京理工大学出版社",
+        "出版年": "2015-6",
+        "页数": "195",
+        "定价": "35.00元",
+        "装帧": "平装",
+        "ISBN": "9787568203449"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "59.6%",
+        "four_star_rate": "33.8%",
+        "three_star_rate": "6.1%",
+        "two_star_rate": "0.5%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502119/",
+            "name": "季羡林",
+            "role": "作者",
+            "douban_id": "4502119"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "9.90元",
+            "link": "https://book.douban.com/link2/?lowest=990&pre=0&vendor=jingdong&srcpage=subject&price=990&pos=1&url=https%3A%2F%2Fitem.jd.com%2F14154799.html&cntvendor=1&srcsubj=26710974&type=bkbuy&subject=26710974"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26710974/",
+    "douban_id": "26710974",
+    "menu": [
+        "",
+        "        自序",
+        "        一　缘起",
+        "        二　从社教运动谈起",
+        "        三　一九六六年六月四日",
+        "        四　对号入座",
+        "        五　快活半年",
+        "        六　自己跳出来",
+        "        七　抄家",
+        "        八　在“自绝于人民”的边缘上",
+        "        九　千钧一发",
+        "        十　劳改的初级阶段",
+        "        十一　大批斗",
+        "        十二　太平庄",
+        "        十三　自己亲手搭起牛棚",
+        "        十四　牛棚生活（一）",
+        "        十五　牛棚生活（二）",
+        "        十六　牛棚生活（三）",
+        "        十七　牛棚转移",
+        "        十八　半解放",
+        "        十九　完全解放",
+        "        二十　余思或反思",
+        "        二一　后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s28998312.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "季羡林",
+            "link": "https://book.douban.com/author/4502119"
+        },
+        {
+            "text": "北京理工大学出版社",
+            "link": "https://book.douban.com/press/2695"
+        }
+    ],
+    "tag": "回忆录"
+}

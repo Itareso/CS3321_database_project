@@ -1,0 +1,49 @@
+{
+    "title": "猫咪之歌",
+    "bookInfo": {
+        "作者": "蒋一谈",
+        "出版社": "安徽美术出版社",
+        "出版年": "2019-9",
+        "页数": "108",
+        "定价": "79",
+        "装帧": "精装",
+        "ISBN": "9787539889801"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "47.8%",
+        "four_star_rate": "29.6%",
+        "three_star_rate": "17.6%",
+        "two_star_rate": "3.1%",
+        "one_star_rate": "1.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/242165/",
+            "name": "蒋一谈",
+            "role": "作者",
+            "douban_id": "242165"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/34799623/",
+    "douban_id": "34799623",
+    "menu": [
+        "",
+        "        一本没有目录的诗歌文本",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33461124.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "蒋一谈",
+            "link": "https://book.douban.com/author/242165"
+        },
+        {
+            "text": "安徽美术出版社",
+            "link": "https://book.douban.com/press/2423"
+        }
+    ],
+    "tag": "随笔"
+}

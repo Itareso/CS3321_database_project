@@ -1,0 +1,85 @@
+{
+    "title": "明日边缘",
+    "bookInfo": {
+        "作者": "[日] 樱坂洋",
+        "出版社": "浙江人民出版社",
+        "出品方": "磨铁·文治图书",
+        "原作名": "All You Need Is Kill",
+        "译者": "蔡东辉",
+        "出版年": "2022-11",
+        "页数": "242",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "ISBN": "9787213105609"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ★汤姆克鲁斯主演电影《明日边缘》原著小说！！！电影评分远胜《沙丘》！！日本星云奖提名作品！日本科幻小说“教父”筒井康隆极力推荐。    ★日本首部被好莱坞改编为电影的科幻小说，电影评分远胜《沙丘》，票房与口碑俱佳！电影版由汤姆·克鲁斯主演、《谍影重重》导演道格·里曼执导，口碑炸裂，烂番茄新鲜度高达91％，豆瓣评分8.2佳作！！！    ★原著入围第36届星云奖！！！日本科幻小说“教父”筒井康隆极力推荐。    外星生物、未来机甲、单日轮回、宿命悖论，无数次死亡与重生，翻开这本书的你，即将陷入无限轮回的旋涡，在血光与硝烟的战场，拼杀到胜负难测的明天。    ★完全不同的结局！原著比电影更精彩！    原著与电影的结局完全不同，前者更耐人寻味，更补全了电影中缺少的大量细节设定、人物塑造和部分故事背景。    人类正在打一场靠前的战争，敌人是被称为“拟态”的怪物。出击、战死、出击、战死 就连死亡都成为每天的例行公事。在敌人的子弹贯穿身体的瞬间，桐谷启二又再度回到出击的前一天，时间循环正式开启。当这个循环重复到一百五十八次时，启二在狼烟四起的战场上和一位女性再度重逢……    众所瞩 目的新锐作家所描绘出既哀伤又充满奇幻的科幻小说。桐谷启二最后是否能够突破令人绝望的战况，而逃向尚未可见的明天呢？\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "5.5%",
+        "four_star_rate": "45.5%",
+        "three_star_rate": "42.7%",
+        "two_star_rate": "5.5%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4615753/",
+            "name": "蔡东辉",
+            "role": "译者",
+            "douban_id": "4615753"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.20元",
+            "link": "https://read.douban.com/ebook/411651874/?dcs=subject-buylink&dcm=douban&dct=35880251"
+        },
+        {
+            "name": "得到",
+            "price": "19.20元",
+            "link": "https://www.dedao.cn/ebook/detail?id=vExPL6aYQPjadpoZxR5r6KDkbNJVO0oVYpw84GeXyLElm92gnMA1zvB7qMKpBGkj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.10元",
+            "link": "https://book.douban.com/link2/?lowest=2910&pre=0&vendor=jingdong&srcpage=subject&price=2910&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwQLUF5dAUwQBF8IGloTVAUHUFtbAEISCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkBGF4RWAAKXVtUFxJSXzI4ex9mP18EHRc9XjVwHTJ4ZTlsHmIEJFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXXgMKVV9eOEkXAm4NG1McVAQyVFhYCUgXBGcKElMTWDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRU1sJCU4WbTMOTVocCkVBOl5dD0wWAW8LK1kUXAQAZG5tSAxORz9LUBlSCUcEE10Obi0VXStLRgsXMwFCElcaWg9odhlYfQVjVUBDLW5eOA&cntvendor=4&srcsubj=35880251&type=bkbuy&subject=35880251"
+        },
+        {
+            "name": "中图网",
+            "price": "33.60元",
+            "link": "https://book.douban.com/link2/?lowest=2910&pre=0&vendor=bookschina&srcpage=subject&price=3360&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8967343.htm&cntvendor=4&srcsubj=35880251&type=bkbuy&subject=35880251"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35880251/",
+    "douban_id": "35880251",
+    "menu": [
+        "",
+        "        第一章 新兵桐谷",
+        "        第二章 法瑞尔军曹",
+        "        第三章 战场的牝犬",
+        "        第四章 杀手凯奇",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34344223.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 樱坂洋",
+            "link": "https://book.douban.com/search/%E6%A8%B1%E5%9D%82%E6%B4%8B"
+        },
+        {
+            "text": "浙江人民出版社",
+            "link": "https://book.douban.com/press/2507"
+        },
+        {
+            "text": "磨铁·文治图书",
+            "link": "https://book.douban.com/producers/78"
+        },
+        {
+            "text": "蔡东辉",
+            "link": "https://book.douban.com/search/%E8%94%A1%E4%B8%9C%E8%BE%89"
+        }
+    ],
+    "tag": "科幻"
+}

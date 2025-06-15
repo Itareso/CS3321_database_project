@@ -1,0 +1,48 @@
+{
+    "title": "学号44",
+    "bookInfo": {
+        "作者": "早安夏天",
+        "出版社": "广西人民出版社",
+        "副标题": "毕业班的咒怨",
+        "出版年": "2009-1",
+        "页数": "234",
+        "定价": "22.00元",
+        "丛书": "学号44",
+        "ISBN": "9787219064245"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.0%",
+        "four_star_rate": "22.0%",
+        "three_star_rate": "37.5%",
+        "two_star_rate": "11.0%",
+        "one_star_rate": "4.5%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "中图网",
+            "price": "13.10元",
+            "link": "https://book.douban.com/link2/?lowest=1310&pre=0&vendor=bookschina&srcpage=subject&price=1310&pos=1&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F3318355.htm&cntvendor=1&srcsubj=3413708&type=bkbuy&subject=3413708"
+        }
+    ],
+    "url": "https://book.douban.com/subject/3413708/",
+    "douban_id": "3413708",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s5976958.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "早安夏天",
+            "link": "https://book.douban.com/search/%E6%97%A9%E5%AE%89%E5%A4%8F%E5%A4%A9"
+        },
+        {
+            "text": "广西人民出版社",
+            "link": "https://book.douban.com/press/2541"
+        },
+        {
+            "text": "学号44",
+            "link": "https://book.douban.com/series/43996"
+        }
+    ],
+    "tag": "校园"
+}

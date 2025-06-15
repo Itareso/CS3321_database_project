@@ -1,0 +1,145 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "有皇帝的文学史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34256498.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35706866/",
+                        "year": "2021",
+                        "id": 35706866
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国宋代文学の圏域",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33473114.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34818764/",
+                        "year": "2019",
+                        "id": 34818764
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "文選 詩篇(六)",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34963386.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35452907/",
+                        "year": "2019",
+                        "id": 35452907
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "文選 詩篇 (五) (岩波文庫 赤 45-5)",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s30005761.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30460797/",
+                        "year": "2019",
+                        "id": 30460797
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "文選 詩篇（一）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29682573.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30136340/",
+                        "year": "2018",
+                        "id": 30136340
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "文選 詩篇（二）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29900469.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30356493/",
+                        "year": "2018",
+                        "id": 30356493
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "文選 詩篇(三)",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29911861.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30367944/",
+                        "year": "2018",
+                        "id": 30367944
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "文選 詩篇（四）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34963372.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35452906/",
+                        "year": "2018",
+                        "id": 35452906
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "文本的密码",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33505416.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27081005/",
+                        "year": "2017",
+                        "id": 27081005
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "蒼海に交わされる詩文",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s26655460.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/24735175/",
+                        "year": "2012",
+                        "id": 24735175
+                    }
+                }
+            ],
+            "total": 13
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614408/",
+    "author_douban_id": "4614408",
+    "personage_id": 35970736,
+    "name": [
+        "浅见洋二",
+        "Asami Yoji"
+    ],
+    "intro": "浅见洋二，1960年生，日本琦玉县人。京都大学文学博士（2009），大阪大学大学院文学研究科教授。主要著作有《距离与想象——中国诗学的唐宋转型》《中国的诗学认识》《中国宋代文学的场域——草稿与言论统治》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/5953195089730340f154cfd1aa5c40f8.jpg",
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "title": "安娜·卡列尼娜",
+    "bookInfo": {
+        "作者": "[俄] 列夫·托尔斯泰",
+        "出版社": "人民文学出版社",
+        "译者": "草婴",
+        "出版年": "2020-9",
+        "页数": "852",
+        "定价": "188.00元",
+        "装帧": "精装",
+        "丛书": "列夫·托尔斯泰作品纪念版",
+        "ISBN": "9787020158027"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "73.1%",
+        "four_star_rate": "22.2%",
+        "three_star_rate": "4.1%",
+        "two_star_rate": "0.2%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4511107/",
+            "name": "列夫·托尔斯泰",
+            "role": "作者",
+            "douban_id": "4511107"
+        },
+        {
+            "link": "https://book.douban.com/author/4511112/",
+            "name": "草婴",
+            "role": "译者",
+            "douban_id": "4511112"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "113.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=5kMLgX2vKGy7x5M8YRoDQbLgqkEeAw272xR0BNn2r6ljVPO1mX9ad4JZpzZn1Rbe&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "112.80元",
+            "link": "https://book.douban.com/link2/?lowest=10900&pre=0&vendor=jingdong&srcpage=subject&price=11280&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF0VXAADUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUlpdWkN3YzlPYl1zGUZgFiIqfhVyAW14dVlSDmMGBAwqDgx8aGkMXw1FXhFCWCokcC9gYAhJbzJHBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZlCSYpChZsYwx0WyNsAw4GF1ooDgpnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYNK1sTWAcBVVxfAE8TAG44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHU1YzVE1AQWgMQB97XQcGUVdUDkgnAW4JGVklbTYEUF4PACt3VShxHT1RHWRAKCkrVi4VAR9mGRxGOAJSBilbTyB8BWtMTQsWbQUy&cntvendor=3&srcsubj=34894032&type=bkbuy&subject=34894032"
+        },
+        {
+            "name": "中图网",
+            "price": "109.00元",
+            "link": "https://book.douban.com/link2/?lowest=10900&pre=0&vendor=bookschina&srcpage=subject&price=10900&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8408298.htm&cntvendor=3&srcsubj=34894032&type=bkbuy&subject=34894032"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34894032/",
+    "douban_id": "34894032",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34392561.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[俄] 列夫·托尔斯泰",
+            "link": "https://book.douban.com/author/4511107"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "草婴",
+            "link": "https://book.douban.com/author/4511112"
+        },
+        {
+            "text": "列夫·托尔斯泰作品纪念版",
+            "link": "https://book.douban.com/series/53714"
+        }
+    ],
+    "tag": "经典"
+}

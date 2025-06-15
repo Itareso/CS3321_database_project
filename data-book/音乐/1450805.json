@@ -1,0 +1,53 @@
+{
+    "title": "巴赫画传",
+    "bookInfo": {
+        "作者": "吕克-安德烈·马塞尔",
+        "出版社": "中国人民大学出版社",
+        "出版年": "2005-10",
+        "页数": "248",
+        "定价": "16.80元",
+        "装帧": "简裝本",
+        "丛书": "朗朗书房·音乐坊",
+        "ISBN": "9787300068121"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "15.7%",
+        "four_star_rate": "34.3%",
+        "three_star_rate": "40.0%",
+        "two_star_rate": "8.6%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "9.21元",
+            "link": "https://book.douban.com/link2/?lowest=640&pre=0&vendor=jingdong&srcpage=subject&price=921&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQIKVVxZAEsWM28JGl0SWgYLVldaC08VMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWBWgPG1IXVAEBUFxCUQ5LXl9aYBl3FXllMTsODxtLeQtgaANUWERUWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHl0TXAEyVl5cCU4XC2YBGWsVWwMDUVZbDkIQAGgAK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggSWA8CV1szVE1NXDhAUgl7XwcBVlpeCk0nAW4JGVklbTZhVQQbdk5ifg56XzNgHAFdHToZU09cex1mGSV0JwdcEh1ZaT9SAyp4RztAbQUy&cntvendor=2&srcsubj=1450805&type=bkbuy&subject=1450805"
+        },
+        {
+            "name": "中图网",
+            "price": "6.40元",
+            "link": "https://book.douban.com/link2/?lowest=640&pre=0&vendor=bookschina&srcpage=subject&price=640&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F1295345.htm&cntvendor=2&srcsubj=1450805&type=bkbuy&subject=1450805"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1450805/",
+    "douban_id": "1450805",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s10477452.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "吕克-安德烈·马塞尔",
+            "link": "https://book.douban.com/search/%E5%90%95%E5%85%8B-%E5%AE%89%E5%BE%B7%E7%83%88%C2%B7%E9%A9%AC%E5%A1%9E%E5%B0%94"
+        },
+        {
+            "text": "中国人民大学出版社",
+            "link": "https://book.douban.com/press/2618"
+        },
+        {
+            "text": "朗朗书房·音乐坊",
+            "link": "https://book.douban.com/series/6241"
+        }
+    ],
+    "tag": "音乐"
+}

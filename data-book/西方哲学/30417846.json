@@ -1,0 +1,86 @@
+{
+    "title": "理想国",
+    "bookInfo": {
+        "作者": "柏拉图",
+        "出版社": "岳麓书社",
+        "译者": "顾寿观 / 吴天岳 注",
+        "出版年": "2018-10",
+        "页数": "528",
+        "定价": "58.00元",
+        "装帧": "精装",
+        "ISBN": "9787553809694"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《理想国》又译《国家篇》、《共和国》等，是西方政治思想传统*代表性的作品，是西方*部系统论述乌托邦思想的著作，被称为“关于正义的学说”，它奠定了西方正义学说的基础。    与柏拉图大多数著作一样，《理想国》以苏格拉底为主角用对话体写成，共分10卷，其篇幅之长仅次于《法律篇》，一般认为属于柏拉图中期的作品。这部“哲学大全”不仅是柏拉图对自己此前哲学思想的概括和总结，而且是当时各门学科的综合，它探讨了哲学、政治、伦理道德、教育、文艺等等各方面的问题，以理念论为基础，建立了一个系统的理想国家方案。    顾寿观先生的《理想国》译本成稿于20世纪80年代，原稿以多种希腊文文本为底本，参考了多种英、法、德译本和注本。此次校注借鉴了晚近二十年西方柏拉图研究的进展，进一步参考了新出版的西文和中文译本，力争在如实呈现顾寿观先生严谨的译文的基础上使其更加精准，能为汉语学界的柏拉图研究提供可信的参考。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "70.6%",
+        "four_star_rate": "21.8%",
+        "three_star_rate": "5.5%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4516447/",
+            "name": "柏拉图",
+            "role": "作者",
+            "douban_id": "4516447"
+        },
+        {
+            "link": "https://book.douban.com/author/552051/",
+            "name": "吴天岳",
+            "role": "校注",
+            "douban_id": "552051"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "28.00元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=jingdong&srcpage=subject&price=2800&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10039409426743.html&cntvendor=2&srcsubj=30417846&type=bkbuy&subject=30417846"
+        },
+        {
+            "name": "中图网",
+            "price": "37.00元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=bookschina&srcpage=subject&price=3700&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7965262.htm&cntvendor=2&srcsubj=30417846&type=bkbuy&subject=30417846"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30417846/",
+    "douban_id": "30417846",
+    "menu": [
+        "",
+        "        第一卷",
+        "        第二卷",
+        "        第三卷",
+        "        第四卷",
+        "        第五卷",
+        "        第六卷",
+        "        第七卷",
+        "        第八卷",
+        "        第九卷",
+        "        第十卷",
+        "        《理想国》的版本和翻译",
+        "        主题索引",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29963863.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "柏拉图",
+            "link": "https://book.douban.com/author/4516447"
+        },
+        {
+            "text": "岳麓书社",
+            "link": "https://book.douban.com/press/2358"
+        },
+        {
+            "text": "顾寿观",
+            "link": "https://book.douban.com/search/%E9%A1%BE%E5%AF%BF%E8%A7%82"
+        },
+        {
+            "text": "吴天岳 注",
+            "link": "https://book.douban.com/search/%E5%90%B4%E5%A4%A9%E5%B2%B3%20%E6%B3%A8"
+        }
+    ],
+    "tag": "西方哲学"
+}

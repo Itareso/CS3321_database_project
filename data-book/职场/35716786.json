@@ -1,0 +1,156 @@
+{
+    "title": "这本书能帮你成功转行",
+    "bookInfo": {
+        "作者": "安晓辉",
+        "出版社": "台海出版社",
+        "出品方": "知乎BOOK",
+        "出版年": "2022-1",
+        "页数": "304",
+        "定价": "69",
+        "装帧": "平装",
+        "ISBN": "9787516831564"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "43.6%",
+        "four_star_rate": "32.3%",
+        "three_star_rate": "17.3%",
+        "two_star_rate": "6.0%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4637551/",
+            "name": "安晓辉",
+            "role": "作者",
+            "douban_id": "4637551"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "48.99元",
+            "link": "https://read.douban.com/ebook/423760645/?dcs=subject-buylink&dcm=douban&dct=35716786"
+        },
+        {
+            "name": "得到",
+            "price": "48.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=XOnaYG1qlM7amvGYerDZOy9JVnXL40BLjo3Bkp1NKxoRdb86P2Q5AzgEj9vE5rDo&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "36.20元",
+            "link": "https://book.douban.com/link2/?lowest=3620&pre=0&vendor=jingdong&srcpage=subject&price=3620&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV8TVQUKVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUFhVC0MWHDZNRwYlOG8ELBYJAVF3fB1yaT9yNAQHETsKaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUllbCUoeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgNsCFgHVkpcXWdmGVoWVQULXFxtCkoWAW04K2tzXVBKXD4dTDlsdTcKXVJLI01UPQcubhN5AR9qQ1trFWdjJgcEbktxRRpNK1gl&cntvendor=5&srcsubj=35716786&type=bkbuy&subject=35716786"
+        },
+        {
+            "name": "当当网",
+            "price": "38.90元",
+            "link": "https://book.douban.com/link2/?lowest=3620&pre=0&vendor=dangdang&srcpage=subject&price=3890&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35716786%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29359890&cntvendor=5&srcsubj=35716786&type=bkbuy&subject=35716786"
+        },
+        {
+            "name": "中图网",
+            "price": "39.00元",
+            "link": "https://book.douban.com/link2/?lowest=3620&pre=0&vendor=bookschina&srcpage=subject&price=3900&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8748960.htm&cntvendor=5&srcsubj=35716786&type=bkbuy&subject=35716786"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35716786/",
+    "douban_id": "35716786",
+    "menu": [
+        "",
+        "        前言",
+        "        迭代职业，迭代人生 / I",
+        "        重塑我人生的两次转行 / I",
+        "        为什么写作这本书？ / XII",
+        "        这本书的内容与结构 / XIII",
+        "        这本书适合谁读？ / XVI",
+        "        第一篇 认知",
+        "        01 如何知道自己是否需要转行？ / 02",
+        "        复盘职业现状，了解自我期望 / 03",
+        "        绘制角色饼图，洞察失衡现实 / 08",
+        "        分析企业状况，发现职场瓶颈 / 15",
+        "        评估行业环境，预见潜在危机 / 18",
+        "        第二篇 定 位",
+        "        01 如何搜集转行选项？ / 24",
+        "        重构过往积累 / 27",
+        "        分析个人倾向 / 35",
+        "        挖掘身边需求 / 47",
+        "        捕捉市场机会 / 52",
+        "        给自己足够的时间来探索转行选项 / 62",
+        "        02 如何选择转行目标？ / 63",
+        "        分析职业和自己，缩小列表范围 / 66",
+        "        测试选项 / 97",
+        "        放下疑虑，明确一个选择 / 109",
+        "        第三篇 准 备",
+        "        01 如何为转行目标做准备？ / 112",
+        "        明确职业的基本任职资格 / 113",
+        "        对比个人现状，找出差距 / 125",
+        "        了解弥补差距的策略 / 130",
+        "        选择适合你的策略与方法 / 158",
+        "        第四篇 求 职",
+        "        01 如何打造一份好简历 / 162",
+        "        盘点自己，建立资料库 / 162",
+        "        分析目标职位描述，分类整理要求 / 166",
+        "        筛选匹配点 / 169",
+        "        创建针对目标职位的功能型简历 / 170",
+        "        提升简历质量的 8 点建议 / 176",
+        "        02 如何选择有效的求职方式 / 179",
+        "        招聘网站 / 179",
+        "        官网 / 180",
+        "        线下招聘会 / 180",
+        "        内部推荐 / 181",
+        "        熟人转介绍 / 182",
+        "        职业访谈 / 183",
+        "        猎头推荐 / 184",
+        "        主动上门 / 185",
+        "        社群与俱乐部 / 187",
+        "        参加培训与学习 / 188",
+        "        社交平台 / 189",
+        "        自媒体 / 190",
+        "        论坛 / 191",
+        "        义务工作 / 193",
+        "        打造个人品牌 / 194",
+        "        03 如何搞定面试 / 196",
+        "        设定求职期望 / 197",
+        "        面试前的针对性准备 / 199",
+        "        去面试时的几点注意事项 / 216",
+        "        面试中有哪些技巧和注意事项 / 217",
+        "        面试后如何复盘 / 225",
+        "        第五篇 适 应",
+        "        01 如何快速适应新工作 / 230",
+        "        融入组织 / 232",
+        "        与直接上司建立良好关系 / 233",
+        "        明确上司期望 / 237",
+        "        胜任工作 / 238",
+        "        融入团队 / 240",
+        "        第六篇 评价与复盘",
+        "        01 如何评价你的转行 / 246",
+        "        了解组织对自己的看法 / 246",
+        "        洞察自己对新工作的真实态度 / 247",
+        "        捕捉亲友的反应和评价 / 249",
+        "        应用转行评价表实施评价 / 250",
+        "        附录",
+        "        还有一些话想嘱咐转行路上的你 / 252",
+        "        附录 A 如何应对转行的年龄挑战 / 252",
+        "        附录 B 是辞职专心准备转行，还是边工作边准备 / 268",
+        "        附录 C 边工作边准备转行，时间不够用怎么办？ / 270",
+        "        附录 D 个人转行计划制订指南 / 274",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34079487.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "安晓辉",
+            "link": "https://book.douban.com/author/4637551"
+        },
+        {
+            "text": "台海出版社",
+            "link": "https://book.douban.com/press/2502"
+        },
+        {
+            "text": "知乎BOOK",
+            "link": "https://book.douban.com/producers/186"
+        }
+    ],
+    "tag": "职场"
+}

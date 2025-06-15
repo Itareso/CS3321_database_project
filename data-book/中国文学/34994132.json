@@ -1,0 +1,42 @@
+{
+    "title": "北京和灰尘",
+    "bookInfo": {
+        "作者": "江汀",
+        "出版社": "北京出版社",
+        "出版年": "2020-6",
+        "定价": "28.50元",
+        "装帧": "精装",
+        "ISBN": "9787200154108"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.5%",
+        "four_star_rate": "46.9%",
+        "three_star_rate": "20.4%",
+        "two_star_rate": "0.4%",
+        "one_star_rate": "1.8%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "28.50元",
+            "link": "https://book.douban.com/link2/?lowest=2850&pre=0&vendor=jingdong&srcpage=subject&price=2850&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olVQQEU15YAUgWM2kIEloSXwYLVFZcOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocUl5UCUwVA2YIE1oKBENeCW4gXxBJABF_bjtGR1NfPVZcfjtFdTNeF1clWgMFUllUC0wnA2sJH18lbQYDZB8zD00TA2wJK1kVXAcHVFZaC0onA2kNGlgUWgMBVFlbDnsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEC28OGF0cM1oEAxsWCRFNbW8JElgVXgMHZFxcCUkVM184HBxyGEBnKSo2Xzl3WWhMcBtmNEUEMA4aZglRVxtPWB5XAQFRLjgFDABvWl8LKw&cntvendor=1&srcsubj=34994132&type=bkbuy&subject=34994132"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34994132/",
+    "douban_id": "34994132",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33642476.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "江汀",
+            "link": "https://book.douban.com/search/%E6%B1%9F%E6%B1%80"
+        },
+        {
+            "text": "北京出版社",
+            "link": "https://book.douban.com/press/2134"
+        }
+    ],
+    "tag": "中国文学"
+}

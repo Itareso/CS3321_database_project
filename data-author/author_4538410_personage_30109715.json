@@ -1,0 +1,148 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "小说的常识",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34152290.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35801441/",
+                        "year": "2022",
+                        "id": 35801441
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "小镇生活指南",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33666566.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34979062/",
+                        "year": "2020",
+                        "id": 34979062
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "神童与录音机",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33450471.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34785022/",
+                        "year": "2019",
+                        "id": 34785022
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "以父之名",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29216630.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26878090/",
+                        "year": "2016",
+                        "id": 26878090
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "钻石与灰烬",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29082704.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26107469/",
+                        "year": "2014",
+                        "id": 26107469
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "第三条河岸",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27161534.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/25771411/",
+                        "year": "2013",
+                        "id": 25771411
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "南方旅店",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s23007853.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/14278396/",
+                        "year": "2012",
+                        "id": 14278396
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "欢喜城",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s6938440.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/6843465/",
+                        "year": "2011",
+                        "id": 6843465
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 4.3,
+                        "title": "痛之所居",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s6636647.jpg",
+                        "rating_star": 2.0,
+                        "url": "https://book.douban.com/subject/6114044/",
+                        "year": "2011",
+                        "id": 6114044
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "锦葵",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s6171781.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/4847853/",
+                        "year": "2010",
+                        "id": 4847853
+                    }
+                }
+            ],
+            "total": 11
+        }
+    },
+    "author_link": "https://book.douban.com/author/4538410/",
+    "author_douban_id": "4538410",
+    "personage_id": 30109715,
+    "name": [
+        "林培源"
+    ],
+    "intro": "林培源，现就读于暨南大学，是由《最小说》杂志主办的“文学之新”大赛全国12强选手之一。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/img/author/medium/public/1565065967.98.jpg",
+    "sex": 1,
+    "birth_place": [
+        "广东省",
+        "汕头市"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

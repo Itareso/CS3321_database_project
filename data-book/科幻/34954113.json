@@ -1,0 +1,82 @@
+{
+    "title": "梦之海",
+    "bookInfo": {
+        "作者": "刘慈欣 原著",
+        "出版社": "中信出版社",
+        "出品方": "漫传奇 / 漫传奇文化",
+        "副标题": "刘慈欣科幻漫画系列第1辑",
+        "原作名": "Sea of Dreams",
+        "译者": "韦斯琳",
+        "出版年": "2020-5",
+        "页数": "100",
+        "定价": "58.00元",
+        "装帧": "平装",
+        "丛书": "刘慈欣科幻漫画系列",
+        "ISBN": "9787521714685"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "14.0%",
+        "four_star_rate": "33.6%",
+        "three_star_rate": "44.5%",
+        "two_star_rate": "7.3%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561353/",
+            "name": "刘慈欣",
+            "role": "作者",
+            "douban_id": "4561353"
+        },
+        {
+            "link": "https://book.douban.com/author/4633327/",
+            "name": "韦斯琳",
+            "role": "译者",
+            "douban_id": "4633327"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "34.50元",
+            "link": "https://book.douban.com/link2/?lowest=2590&pre=0&vendor=jingdong&srcpage=subject&price=3450&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFIWWQcAV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXV1ZCUkUHDZNRwYlK2R-CQYrTxR0Rx1yWjxXBUUFXSYuTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYGUFZdD0MXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgVsCFgKQxxNBWZmG1sSXwYKVFltCkoWAW04K2tyIgVBKzs2ewJXXBZOX1gUW30DLQM2Xy15ARh-TSRwHgJBHQUGbzR1dS9rK1gl&cntvendor=2&srcsubj=34954113&type=bkbuy&subject=34954113"
+        },
+        {
+            "name": "中图网",
+            "price": "25.90元",
+            "link": "https://book.douban.com/link2/?lowest=2590&pre=0&vendor=bookschina&srcpage=subject&price=2590&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8408462.htm&cntvendor=2&srcsubj=34954113&type=bkbuy&subject=34954113"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34954113/",
+    "douban_id": "34954113",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33601715.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣 原著",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3%20%E5%8E%9F%E8%91%97"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "漫传奇",
+            "link": "https://book.douban.com/producers/711"
+        },
+        {
+            "text": "漫传奇文化",
+            "link": "https://book.douban.com/producers/812"
+        },
+        {
+            "text": "韦斯琳",
+            "link": "https://book.douban.com/author/4633327"
+        },
+        {
+            "text": "刘慈欣科幻漫画系列",
+            "link": "https://book.douban.com/series/50609"
+        }
+    ],
+    "tag": "科幻"
+}

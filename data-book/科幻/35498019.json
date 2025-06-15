@@ -1,0 +1,117 @@
+{
+    "title": "异常",
+    "bookInfo": {
+        "作者": "艾尔维·勒泰利耶",
+        "出版社": "海天出版社",
+        "原作名": "L'Anomalie",
+        "译者": "余中先",
+        "出版年": "2021-7",
+        "页数": "356",
+        "定价": "68.00元",
+        "装帧": "平装",
+        "丛书": "海天译丛",
+        "ISBN": "9787550731943"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.1%",
+        "four_star_rate": "39.2%",
+        "three_star_rate": "24.5%",
+        "two_star_rate": "5.6%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4613714/",
+            "name": "艾尔维·勒泰利耶",
+            "role": "作者",
+            "douban_id": "4613714"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "34.00元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=jingdong&srcpage=subject&price=3400&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVkXXgIKU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IODR8DSjsSUS1vGAh3Xn4HUh0uT0luQShMdVlQFXFDKRxfXixxZTZJZVpwKhFCWCokdCtgSjpLbSJ9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZWNBYGUUlPYw9UHDBABUZfFDkEEjlRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYNK1sTWAcBVFpaCksUCms4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgQGVV0zVE1ASDlcW1N7XQYGUllVC0onAW4JGVklbTZbFQAfeE5FQQgLSDkWJQMEFy0aCjJVRCtmGR5dKkd_FlwLby1xWi52Gj5ibQUy&cntvendor=3&srcsubj=35498019&type=bkbuy&subject=35498019"
+        },
+        {
+            "name": "当当网",
+            "price": "64.60元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=dangdang&srcpage=subject&price=6459&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35498019%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29267311&cntvendor=3&srcsubj=35498019&type=bkbuy&subject=35498019"
+        },
+        {
+            "name": "中图网",
+            "price": "39.80元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=bookschina&srcpage=subject&price=3979&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8622719.htm&cntvendor=3&srcsubj=35498019&type=bkbuy&subject=35498019"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35498019/",
+    "douban_id": "35498019",
+    "menu": [
+        "",
+        "        目  录",
+        "        一?如天空一般黑",
+        "        布莱克 2",
+        "        维克托·米耶塞尔 15",
+        "        吕?茜 24",
+        "        戴?维 33",
+        "        洗衣桶 41",
+        "        索菲娅·克莱夫曼 48",
+        "        乔安娜 60",
+        "        米耶塞尔事件 70",
+        "        苗条男孩 76",
+        "        阿德里安和梅蕊蒂丝 89",
+        "        玩?笑 103",
+        "        安德烈 109",
+        "        最初时刻 121",
+        "        ",
+        "        二?有言道，人生如梦",
+        "        那一刻 132",
+        "        七次谈话 143",
+        "        笛卡儿命题 2.0 158",
+        "        14号桌子 169",
+        "        然而，它还是在转动 178",
+        "        机?库 190",
+        "        梅蕊蒂丝的问题 196",
+        "        几位总统 203",
+        "        人民有权知晓 209",
+        "        ",
+        "        三?虚无之歌",
+        "        第二类接触 216",
+        "        一个男人瞧着一个女人 225",
+        "        索菲娅们的世界 236",
+        "        苗条男孩们 241",
+        "        同一个表演者又死一回 248",
+        "        伍兹对瓦瑟曼 255",
+        "        一个孩子，两个妈妈 260",
+        "        回归的维克托·米耶塞尔的肖像 269",
+        "        夜晚秀 283",
+        "        雅各布·伊文斯心中之音 300",
+        "        抹?除 304",
+        "        三封信，两份邮件，一首歌，绝对零度 315",
+        "        最后的词 331",
+        "        译后记 340",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33967216.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "艾尔维·勒泰利耶",
+            "link": "https://book.douban.com/author/4613714"
+        },
+        {
+            "text": "海天出版社",
+            "link": "https://book.douban.com/press/2597"
+        },
+        {
+            "text": "余中先",
+            "link": "https://book.douban.com/search/%E4%BD%99%E4%B8%AD%E5%85%88"
+        },
+        {
+            "text": "海天译丛",
+            "link": "https://book.douban.com/series/61167"
+        }
+    ],
+    "tag": "科幻"
+}

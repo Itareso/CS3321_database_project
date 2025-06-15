@@ -1,0 +1,99 @@
+{
+    "title": "我的城池",
+    "bookInfo": {
+        "作者": "君约",
+        "出版社": "百花洲文艺出版社",
+        "原作名": "我的城池",
+        "出版年": "2019-6",
+        "页数": "440",
+        "定价": "56.00元",
+        "装帧": "平装",
+        "ISBN": "9787550027619"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "15.3%",
+        "four_star_rate": "28.7%",
+        "three_star_rate": "41.7%",
+        "two_star_rate": "10.2%",
+        "one_star_rate": "4.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4625005/",
+            "name": "君约",
+            "role": "作者",
+            "douban_id": "4625005"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "22.40元",
+            "link": "https://read.douban.com/ebook/443818764/?dcs=subject-buylink&dcm=douban&dct=34261621"
+        },
+        {
+            "name": "京东商城",
+            "price": "32.30元",
+            "link": "https://book.douban.com/link2/?lowest=3229&pre=0&vendor=jingdong&srcpage=subject&price=3229&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwWWgcGVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU11aCU8WHDZNRwYlVQZ5FyFefhR1BCcJWi9pPXJQFlcPaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4DUVZdCk4eM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gVVVRsCFgHU0lLBihmGFMRVAAFXFZtCkoWAW04K2tiNnAEXT4Vbjx0fD1Mbi1tO10FKgQfbEJ5AQh7cjBmW0MLI1pZfyB1VxB7K1gl&cntvendor=3&srcsubj=34261621&type=bkbuy&subject=34261621"
+        },
+        {
+            "name": "中图网",
+            "price": "34.60元",
+            "link": "https://book.douban.com/link2/?lowest=3229&pre=0&vendor=bookschina&srcpage=subject&price=3460&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8098987.htm&cntvendor=3&srcsubj=34261621&type=bkbuy&subject=34261621"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34261621/",
+    "douban_id": "34261621",
+    "menu": [
+        "",
+        "        上册：",
+        "        01      小舅舅",
+        "        02      难相处",
+        "        03      走近",
+        "        04      罩着你",
+        "        05      我头疼",
+        "        06      小心思",
+        "        07      新年礼物",
+        "        08      也想你",
+        "        ",
+        "        09      别哭了",
+        "        10      花我摘了",
+        "        11      甜蜜",
+        "        12      你真好",
+        "        13      闹矛盾",
+        "        14      去找他",
+        "        15      素描本风波",
+        "        16      陪你毕业",
+        "        ",
+        "        下册：",
+        "        01      来看你",
+        "        02      生日快乐",
+        "        03      裂缝",
+        "        04      分崩",
+        "        05      重逢",
+        "        06      一起吃饭吧",
+        "        ",
+        "        ",
+        "        07     情难自禁",
+        "        08     交心",
+        "        09     一起住",
+        "        10     结婚行不行",
+        "        番外   未读邮件",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33445300.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "君约",
+            "link": "https://book.douban.com/author/4625005"
+        },
+        {
+            "text": "百花洲文艺出版社",
+            "link": "https://book.douban.com/press/2124"
+        }
+    ],
+    "tag": "校园"
+}

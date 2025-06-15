@@ -1,0 +1,142 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "唐诗光明顶",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34972202.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37031657/",
+                        "year": "2024",
+                        "id": 37031657
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.7,
+                        "title": "为孩子解答《西游记》里的不解之谜（上下2册）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34458646.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/36225856/",
+                        "year": "2023",
+                        "id": 36225856
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "六神磊磊读唐诗",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34595118.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36065883/",
+                        "year": "2022",
+                        "id": 36065883
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "越过人生的刀锋",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34271416.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35951556/",
+                        "year": "2022",
+                        "id": 35951556
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "唐诗寒武纪",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34296237.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36043405/",
+                        "year": "2022",
+                        "id": 36043405
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "每日唐诗",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34315484.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36097951/",
+                        "year": "2022",
+                        "id": 36097951
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "六神磊磊读金庸",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33990114.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35479455/",
+                        "year": "2021",
+                        "id": 35479455
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "给孩子的唐诗课",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33434268.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34468477/",
+                        "year": "2019",
+                        "id": 34468477
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.1,
+                        "title": "唐诗日历2020",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33466390.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/34808040/",
+                        "year": "2019",
+                        "id": 34808040
+                    }
+                }
+            ],
+            "total": 9
+        }
+    },
+    "author_link": "https://book.douban.com/author/330996/",
+    "author_douban_id": "330996",
+    "personage_id": 30116590,
+    "name": [
+        "六神磊磊",
+        "Xiaolei Wang"
+    ],
+    "intro": "王晓磊，笔名六神磊磊。曾任新华社重庆分社记者，从事时政、政法报道。2013年起开始写作，对唐诗和武侠小说进行解读，因为犀利、独到的视角而广受好评，是目前非常受欢迎的唐诗解读、普及者之一。著有《六神磊磊读唐诗》《给孩子的唐诗课》《六神磊磊读金庸》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/03dc88e53c4d1fd55e30576e5667aa76.jpg",
+    "更多中文名": "王晓磊(本名)",
+    "sex": 1,
+    "birth_date": 1984,
+    "age": 42,
+    "birth_place": [
+        "中国",
+        "江西",
+        "宜春"
+    ],
+    "profession": [
+        "作者",
+        "演员"
+    ]
+}

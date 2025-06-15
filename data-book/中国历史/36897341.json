@@ -1,0 +1,98 @@
+{
+    "title": "甲申前夜·大晦",
+    "bookInfo": {
+        "作者": "刘鹤",
+        "出版社": "中华书局",
+        "出版年": "2024-5-11",
+        "页数": "535",
+        "定价": "78.00元",
+        "装帧": "平装",
+        "ISBN": "9787101165838"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "36.7%",
+        "four_star_rate": "41.1%",
+        "three_star_rate": "18.9%",
+        "two_star_rate": "3.0%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4633874/",
+            "name": "刘鹤",
+            "role": "作者",
+            "douban_id": "4633874"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "46.80元",
+            "link": "https://read.douban.com/ebook/487171297/?dcs=subject-buylink&dcm=douban&dct=36897341"
+        },
+        {
+            "name": "得到",
+            "price": "46.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=bBVDEXGGLn7eB51b8NjVRqDoQJPMk3a8lpVWadYrXmAxE4Ov92lgzK6ZypxLqdQj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "63.50元",
+            "link": "https://book.douban.com/link2/?lowest=5400&pre=0&vendor=jingdong&srcpage=subject&price=6350&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlwUWg8BU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOIzUrDkJ3Swl_eCRMIU16CAgGQBhhXjB_dVlyLm9pJ1gYATwTBxhjRBNTLhFCWCokaCxgcBBUb1l9BWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZCFV80CQ5HQgxwQ1pKHQd6CyctTChRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcHXFlbAEISB2g4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRAA0zVE1NXytKWgV7XwcDUF1fCkMnAW4JGVklbTZ1PyhbAStfZRhrZAJpFn5eAgUVWz1KXBhmGTxmNG1xUhtUf08TdARXUx1mbQUy&cntvendor=4&srcsubj=36897341&type=bkbuy&subject=36897341"
+        },
+        {
+            "name": "中图网",
+            "price": "54.00元",
+            "link": "https://book.douban.com/link2/?lowest=5400&pre=0&vendor=bookschina&srcpage=subject&price=5400&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9328014.htm&cntvendor=4&srcsubj=36897341&type=bkbuy&subject=36897341"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36897341/",
+    "douban_id": "36897341",
+    "menu": [
+        "",
+        "        北直隶·真定府·野狗 _1",
+        "        北直隶·真定府·失鹿 _13",
+        "        崇祯十五年·杏山·赵子龙 _29",
+        "        北直隶·真定府·瘟神 _41",
+        "        京师·宣武门外·服妖 _61",
+        "        京师·德胜门·箭上有神 _73",
+        "        京师·德胜门·依柳将军 _89",
+        "        万历十七年·辽东·萨尔浒 _99",
+        "        京师·德胜门外·吞羯 _121",
+        "        京师·南城兵马司·避疫 _143",
+        "        京师·果子巷·南下 _157",
+        "        京师·南城兵马司·喇唬 _171",
+        "        京师·大时雍坊·避瘟楼 _195",
+        "        大时雍坊·陈宅·捉鬼 _221",
+        "        宣武门外·天主堂·炮神 _247",
+        "        宣武门外·大时雍坊·倭城 _259",
+        "        大时雍坊·故衣胡同·射狐 _275",
+        "        大时雍坊·避瘟楼·破贼 _305",
+        "        宣武门外·南城兵马司·剑鬼 _331",
+        "        萨尔浒·界藩山·波平 _355",
+        "        澄清坊·骆家大宅·陀螺精 _381",
+        "        崇文门内·勾栏胡同·孙六 _407",
+        "        九州·岩屋城·生试、死试、荒试 _431",
+        "        正阳门下·味羽斋·大银国 _459",
+        "        正南坊·南城兵马司·相剑 _481",
+        "        东江米巷·会同南馆·大晦日 _505",
+        "        尾声 _525",
+        "        后记 _529",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34937426.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘鹤",
+            "link": "https://book.douban.com/search/%E5%88%98%E9%B9%A4"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        }
+    ],
+    "tag": "中国历史",
+    "avg_rate": 4.11
+}

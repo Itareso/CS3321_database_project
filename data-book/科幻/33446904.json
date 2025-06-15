@@ -1,0 +1,69 @@
+{
+    "title": "烧火工",
+    "bookInfo": {
+        "作者": "刘慈欣 著 / BUTU 绘",
+        "出版社": "北京联合出版公司",
+        "出品方": "未来事务管理局",
+        "出版年": "2019-7",
+        "页数": "100",
+        "定价": "68.00元",
+        "装帧": "平装",
+        "ISBN": "9787559631220"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    刘慈欣首部科幻童话作品，人气插画师BUTU绘制。“一个原本只想擦亮星星的人，决定用一生来唤醒太阳。”    ◎ 编辑推荐    ☆ 刘慈欣首部科幻童话作品。    刘慈欣，中国科幻小说代表作家，荣获雨果奖、华语科幻星云奖、轨迹奖、银河奖等，他还是第九届全国儿童文学奖得主。    ☆ 插画师BU TU，以画笔构建充满奇想、温柔与纯真的浪漫世界。    BUTU，未来事务管理局合作插画师，拥有强烈的个人风格，用自由、纯粹的画面呈现文字的内在质感。    ☆ 一个原本只想擦亮星星的人，决定用一生来唤醒太阳。    这是一个充满孩童式的奇想、温柔与纯真的故事。无人造访的孤岛是世界的核心，薪火相传的背后是不求回报的爱与责任。只有真正懂爱的人才能点亮太阳。    ◎ 内容简介    年迈的烧火工独自居住在世界尽头的极东岛，每天采煤、烧火，在凌晨出海，点亮太阳。    日复一日地劳作，不能出一点差错。    少年萨沙为了挽救心爱之人的生命，来到这岛屿。他们吹响鲸笛，在银河旋涡中划动起月亮的双桨，擦亮积满灰尘的星星……    ◎ 名人推荐    这篇童话，不知道是美好版的卡尔维诺的《宇宙奇趣全集》，还是童话般的马尔克斯的《百年孤独》,甚至还有谢尔·希尔弗斯坦的童话诗的味道。但是,更重要的是,它充满了大刘式的奇想和浪漫，这才是真正美好到牙齿都要流泪啊！——未来事务管理局局长 姬少亭    读完这篇童话，恰巧天刚亮不久,看着东方初升的太阳,你能闻到海水的咸和鲸油的腥……美好浪漫得要人命。——演员 袁弘\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "24.3%",
+        "four_star_rate": "44.6%",
+        "three_star_rate": "28.1%",
+        "two_star_rate": "2.5%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561353/",
+            "name": "刘慈欣",
+            "role": "作者",
+            "douban_id": "4561353"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "16.99元",
+            "link": "https://read.douban.com/ebook/130656650/?dcs=subject-buylink&dcm=douban&dct=33446904"
+        },
+        {
+            "name": "得到",
+            "price": "40.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=DLnMGAEG7gKLyYmkAbPaEXxD8BM4J0Lq1NWROrpdZn19VNzv2o5e6lqjQQ1poxqy&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "40.80元",
+            "link": "https://book.douban.com/link2/?lowest=4079&pre=0&vendor=jingdong&srcpage=subject&price=4079&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQIJK1olXQUHVVhVDEMfC18NEl0XWAQAUFZeDHtTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSltUDkkSAW0ME1gRQl9HCANtd1FMeGpwWSx1IE4cKCdaVyoSUGZze1cZbQEHU1haAUgQM28MGl8RbTYCVW4cZksUBGYAG2sXXQcDUV5VD0gWM28OHloWXQEDV1xYCk4nA2cMK4KV6tCgxofDgp6flF84K1glbTYCZF1tViUWUGkKG1gcX2heUgkWVg5ESAEIG18VWQILU25fCUoVAV84KydmKFQKNC0pcDhLWzxxUBpyJ01wPVYiSSUVfgRoaDNHC1R6Bw00DBcTfiQ4GGs&cntvendor=3&srcsubj=33446904&type=bkbuy&subject=33446904"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33446904/",
+    "douban_id": "33446904",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33869482.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣 著",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3%20%E8%91%97"
+        },
+        {
+            "text": "BUTU 绘",
+            "link": "https://book.douban.com/search/BUTU%20%E7%BB%98"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "未来事务管理局",
+            "link": "https://book.douban.com/producers/180"
+        }
+    ],
+    "tag": "科幻"
+}

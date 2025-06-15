@@ -1,0 +1,50 @@
+{
+    "title": "曾有你的天气",
+    "bookInfo": {
+        "作者": "夏茗悠",
+        "出版社": "新世界出版社",
+        "副标题": "The Weather with You",
+        "出版年": "2011-7",
+        "页数": "235",
+        "定价": "23.00元",
+        "ISBN": "9787510416750"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.0%",
+        "four_star_rate": "35.6%",
+        "three_star_rate": "29.6%",
+        "two_star_rate": "6.5%",
+        "one_star_rate": "3.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/171359/",
+            "name": "夏茗悠",
+            "role": "作者",
+            "douban_id": "171359"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "11.62元",
+            "link": "https://book.douban.com/link2/?lowest=1162&pre=0&vendor=jingdong&srcpage=subject&price=1162&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAP4JK1olVQAFVV9UDEsQM28IGlsUXAYKXFltTBRPXTA4Qh5QHEQJSkAFTR9LHDRdBAlLARgCVF9dCUoXC2cPBAJQAVsyH1YqQyJMC2hrAT1SCAZ6DjgGTTBxVWMEK1wQWgAFXV1aOEsTAmsMK2sVXDZDOltcAEwSM20IGloQXQ4FV19tCE0SAmoAGVoUWwALU25dAE8n2u-_zfmHhJiIgdbKOHsnAF84K1slXjZcOl8OD04QAz1ddQcTB1xfDxscZkgfCmYMHVkSbQQDVVxfOHsnfQtMSDt1X2R0IlkBUjF_ZBhxfCUXVFlJOlw-bS1zWjwOTC1RGUJEVgsKXHsUMw&cntvendor=1&srcsubj=6539691&type=bkbuy&subject=6539691"
+        }
+    ],
+    "url": "https://book.douban.com/subject/6539691/",
+    "douban_id": "6539691",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s6808358.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "夏茗悠",
+            "link": "https://book.douban.com/author/171359/"
+        },
+        {
+            "text": "新世界出版社",
+            "link": "https://book.douban.com/press/2811"
+        }
+    ],
+    "tag": "校园"
+}

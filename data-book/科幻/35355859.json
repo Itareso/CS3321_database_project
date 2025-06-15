@@ -1,0 +1,65 @@
+{
+    "title": "神间失格",
+    "bookInfo": {
+        "作者": "[法] 贝纳尔·韦尔贝",
+        "出版社": "北京联合出版公司",
+        "出品方": "联合读创",
+        "译者": "范兆延",
+        "出版年": "2021-6",
+        "页数": "392",
+        "定价": "58.00元",
+        "装帧": "平装",
+        "ISBN": "9787559649003"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.5%",
+        "four_star_rate": "39.7%",
+        "three_star_rate": "26.7%",
+        "two_star_rate": "8.9%",
+        "one_star_rate": "4.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/424011/",
+            "name": "贝纳尔·韦尔贝",
+            "role": "作者",
+            "douban_id": "424011"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "33.00元",
+            "link": "https://book.douban.com/link2/?lowest=2940&pre=0&vendor=jingdong&srcpage=subject&price=3300&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVkVVQYFUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVl5VCEwSHDZNRwYlOnoECl5DTCxyfA1cBT5uWk8HCRhcTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYLV1hcCUwfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHg8UWQBsCFgLCEpfRzJmG1sTWQICV1xtCkoWAW04K2tqOn1JND5dfUhAQC1UcAB9BmRHIVs-DEN5AQRhaDxsFlxWVxkadyxUfmZPK1gl&cntvendor=2&srcsubj=35355859&type=bkbuy&subject=35355859"
+        },
+        {
+            "name": "中图网",
+            "price": "29.40元",
+            "link": "https://book.douban.com/link2/?lowest=2940&pre=0&vendor=bookschina&srcpage=subject&price=2940&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8614228.htm&cntvendor=2&srcsubj=35355859&type=bkbuy&subject=35355859"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35355859/",
+    "douban_id": "35355859",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33902701.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法] 贝纳尔·韦尔贝",
+            "link": "https://book.douban.com/search/%E8%B4%9D%E7%BA%B3%E5%B0%94%C2%B7%E9%9F%A6%E5%B0%94%E8%B4%9D"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "联合读创",
+            "link": "https://book.douban.com/producers/39"
+        },
+        {
+            "text": "范兆延",
+            "link": "https://book.douban.com/search/%E8%8C%83%E5%85%86%E5%BB%B6"
+        }
+    ],
+    "tag": "科幻"
+}

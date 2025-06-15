@@ -1,0 +1,44 @@
+{
+    "title": "傅雷谈音乐",
+    "bookInfo": {
+        "作者": "傅雷",
+        "出版社": "当代世界出版社",
+        "出版年": "2005-11",
+        "页数": "249",
+        "定价": "22.80元",
+        "装帧": "简裝本",
+        "ISBN": "9787801159984"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "31.1%",
+        "four_star_rate": "49.4%",
+        "three_star_rate": "17.7%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4505428/",
+            "name": "傅雷",
+            "role": "作者",
+            "douban_id": "4505428"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1438056/",
+    "douban_id": "1438056",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s8973934.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "傅雷",
+            "link": "https://book.douban.com/author/4505428/"
+        },
+        {
+            "text": "当代世界出版社",
+            "link": "https://book.douban.com/press/2857"
+        }
+    ],
+    "tag": "音乐"
+}

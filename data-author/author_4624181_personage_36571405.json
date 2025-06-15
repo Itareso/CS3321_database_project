@@ -1,0 +1,110 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "给孩子的古文",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36905115/",
+                        "year": "2024",
+                        "id": 36905115
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "云帆集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34416902.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36222075/",
+                        "year": "2023",
+                        "id": 36222075
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "给孩子的古文（插图版）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34282677.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35998530/",
+                        "year": "2022",
+                        "id": 35998530
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "题写名胜",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33653759.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34802645/",
+                        "year": "2020",
+                        "id": 34802645
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "清代戏曲与宫廷文化",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34411488.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30442502/",
+                        "year": "2018",
+                        "id": 30442502
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "礼与十八世纪的文化转折",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s22718193.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/19976186/",
+                        "year": "2012",
+                        "id": 19976186
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "晚明与晚清",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s23457316.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/1628327/",
+                        "year": "2004",
+                        "id": 1628327
+                    }
+                }
+            ],
+            "total": 7
+        }
+    },
+    "author_link": "https://book.douban.com/author/4624181/",
+    "author_douban_id": "4624181",
+    "personage_id": 36571405,
+    "name": [
+        "商伟",
+        "Shang Wei"
+    ],
+    "intro": "北京大学中文系学士及硕士，美国哈佛大学东亚系博士。自1997年起执教于哥伦比亚大学东亚系，现为杜氏中国文化讲座教授，东亚系系主任。研究领域以明清小说戏曲为主，兼及思想文化史和中国古典诗歌研究。主要著作包括《礼与十八世纪的文化转折：〈儒林外史〉研究》《题写名胜：从黄鹤楼到凤凰台》《云帆集》，并编注《给孩子的古文》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/994f3dbf4da7b12bdc70e887467c37c9.jpg",
+    "sex": 1,
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

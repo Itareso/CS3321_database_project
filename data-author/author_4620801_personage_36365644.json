@@ -1,0 +1,96 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "谜托邦02",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34505932.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36271444/",
+                        "year": "2023",
+                        "id": 36271444
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "2020年中国悬疑小说精选",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33774089.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35280161/",
+                        "year": "2021",
+                        "id": 35280161
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "链爱",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33675255.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34917461/",
+                        "year": "2020",
+                        "id": 34917461
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.7,
+                        "title": "爆梗",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33742927.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/35227043/",
+                        "year": "2020",
+                        "id": 35227043
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "2018年中国悬疑小说精选",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29942559.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30397755/",
+                        "year": "2019",
+                        "id": 30397755
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "2017年中国悬疑小说精选",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29639420.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27604691/",
+                        "year": "2018",
+                        "id": 27604691
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/4620801/",
+    "author_douban_id": "4620801",
+    "personage_id": 36365644,
+    "name": [
+        "永晴"
+    ],
+    "intro": "推理作家，MPAcc，在作品中既追求诡计的新颖，又不忘故事的有趣，还向往逻辑的缜密。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "title": "摘星",
+    "bookInfo": {
+        "作者": "付强",
+        "出版社": "江苏凤凰文艺出版社",
+        "出版年": "2019-8",
+        "页数": "280",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "丛书": "九志天达·科幻志",
+        "ISBN": "9787559438508"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.7%",
+        "four_star_rate": "46.4%",
+        "three_star_rate": "11.7%",
+        "two_star_rate": "5.4%",
+        "one_star_rate": "1.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4625918/",
+            "name": "付强",
+            "role": "作者",
+            "douban_id": "4625918"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "18.02元",
+            "link": "https://book.douban.com/link2/?lowest=1802&pre=0&vendor=jingdong&srcpage=subject&price=1802&pos=1&url=https%3A%2F%2Fitem.jd.com%2F55019900989.html&cntvendor=3&srcsubj=34439697&type=bkbuy&subject=34439697"
+        },
+        {
+            "name": "当当网",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=1802&pre=0&vendor=dangdang&srcpage=subject&price=4200&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34439697%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27915137&cntvendor=3&srcsubj=34439697&type=bkbuy&subject=34439697"
+        },
+        {
+            "name": "中图网",
+            "price": "26.20元",
+            "link": "https://book.douban.com/link2/?lowest=1802&pre=0&vendor=bookschina&srcpage=subject&price=2620&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8155461.htm&cntvendor=3&srcsubj=34439697&type=bkbuy&subject=34439697"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34439697/",
+    "douban_id": "34439697",
+    "menu": [
+        "",
+        "        1.Dust小队  001",
+        "        2.Paradox行星  015",
+        "        3.Ash系统  026",
+        "        1i.方慧的记忆之主管  041",
+        "        4.五十万千米的狙击  046",
+        "        5.放弃抵抗  057",
+        "        6.Ash的复制  072",
+        "        2i.方慧的记忆之老兵  088",
+        "        7.潜伏者  093",
+        "        8.卡里古拉的袭击  108",
+        "        9.无剑之剑  121",
+        "        3i.方慧的记忆之五个人  137",
+        "        10.潜渊号遇袭  143",
+        "        11.机器人钟铃  161",
+        "        12.疯狂的战士  178",
+        "        4i.方慧的记忆之幻灭  195",
+        "        13.事件视界  200",
+        "        14.真相  211",
+        "        5i.方慧的记忆之“我”  226",
+        "        15.与一颗恒星为敌  233",
+        "        16.十四年的归来  258",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33438493.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "付强",
+            "link": "https://book.douban.com/author/4625918"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "九志天达·科幻志",
+            "link": "https://book.douban.com/series/28895"
+        }
+    ],
+    "tag": "科幻"
+}

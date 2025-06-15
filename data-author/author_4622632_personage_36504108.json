@@ -1,0 +1,68 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "雪山之恋",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34601658.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36498368/",
+                        "year": "2023",
+                        "id": 36498368
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "烟雾镇",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33941133.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35519297/",
+                        "year": "2021",
+                        "id": 35519297
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "2019青春文学",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33665039.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35071434/",
+                        "year": "2020",
+                        "id": 35071434
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4622632/",
+    "author_douban_id": "4622632",
+    "personage_id": 36504108,
+    "name": [
+        "丁颜",
+        "Yan Ding"
+    ],
+    "intro": "丁颜，女，1990年末出生，甘肃临潭人，现居兰州，于《花城》《天涯》《上海文学》《青年文学》等文学期刊发表多篇作品。《有粮之家》（2018）入选2019年收获文学排行榜的“中篇小说榜”，获第二届“《钟山》之星文学奖”之“年度青年佳作奖” ，著有小说集《烟雾镇》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/3593d380b7e3b74c70f8a82ff49d174b.jpg",
+    "sex": 0,
+    "birth_date": 1990,
+    "age": 36,
+    "birth_place": [
+        "中国",
+        "甘肃",
+        "临潭"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

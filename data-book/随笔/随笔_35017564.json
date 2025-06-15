@@ -1,0 +1,72 @@
+{
+    "title": "于谦小酒馆",
+    "bookInfo": {
+        "作者": "于谦",
+        "出版社": "浙江文艺出版社",
+        "出品方": "果麦文化",
+        "原作名": "YuQian Cook",
+        "出版年": "2020-4",
+        "页数": "432",
+        "定价": "49.80元",
+        "ISBN": "9787533960650"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "32.4%",
+        "four_star_rate": "46.9%",
+        "three_star_rate": "18.6%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609169/",
+            "name": "于谦",
+            "role": "作者",
+            "douban_id": "4609169"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=jingdong&srcpage=subject&price=2490&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12685793.html&cntvendor=2&srcsubj=35017564&type=bkbuy&subject=35017564"
+        },
+        {
+            "name": "中图网",
+            "price": "30.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=bookschina&srcpage=subject&price=3090&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8298234.htm&cntvendor=2&srcsubj=35017564&type=bkbuy&subject=35017564"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35017564/",
+    "douban_id": "35017564",
+    "menu": [
+        "",
+        "        【开场白】喝酒不是我爱好！",
+        "        【下酒菜】谦氏下酒菜、蹄下水拼盘、孜然烤串、丸子、小龙虾、豆腐、野菜、咸菜",
+        "        【硬菜】鸡、鸭、鱼、红烧肉、大闸蟹",
+        "        【火锅】火锅、羊",
+        "        【主食】蛋炒饭、打卤面、拉面、馒头",
+        "        【小食】瓜子、栗子",
+        "        【调料】油、盐、酱、酱油",
+        "        【出门右拐】凉粉/豆汁儿、煎饼果子、烧饼、包子",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33614224.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "于谦",
+            "link": "https://book.douban.com/search/%E4%BA%8E%E8%B0%A6"
+        },
+        {
+            "text": "浙江文艺出版社",
+            "link": "https://book.douban.com/press/2384"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        }
+    ],
+    "tag": "随笔"
+}

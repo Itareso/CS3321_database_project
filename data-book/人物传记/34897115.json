@@ -1,0 +1,130 @@
+{
+    "title": "美与暴烈",
+    "bookInfo": {
+        "作者": "[英] 亨利·斯各特·斯托克斯",
+        "出版社": "北京联合出版公司",
+        "出品方": "雅众文化",
+        "副标题": "三岛由纪夫传",
+        "原作名": "The Life and Death of Yukio Mishima",
+        "译者": "于是",
+        "出版年": "2020-3",
+        "页数": "352",
+        "定价": "58.00元",
+        "装帧": "平装",
+        "丛书": "雅众·传记",
+        "ISBN": "9787559638083"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ◎ “美，美的东西，对我来说，是怨敌。”    ◎ 英国知名记者亨利·斯各特·斯托克斯， 援引丰富的一手史料，揭开日本文学巨匠的传奇人生。    ◎ 三岛由纪夫权威传记    ……………………    【编辑推荐】    1.三岛由纪夫是日本战后文学大师之一，在国际文坛拥有高度声誉，极具影响力，拥有众 多中文读者。    2.本书作者是三岛生前私交最好的外国记者，对三岛作品的解读视角独特，掌握了大量翔实可信的一手资料，对三岛的爱好者而言是难得的传记资料。    3.知名作家、翻译家于是精心翻译，译文全新修订。    【内容简介】    三岛由纪夫，三次入围诺贝尔文学奖、日本“二战”后声誉最高的作家之一，从小深受古典文化熏陶，青年时凭《假面的告白》一举成名，在完成四卷长篇《丰饶之海》的盛年之际，却为表达其激进的政治诉求而“切腹辞世”，留给世人一个难解的谜团……    《美与暴烈》三岛由纪夫最早、最具权威性的一部传记，也是试图解开作家死亡之谜的一份答卷，由其生前好友、英国资深记者亨利·斯各特·斯托克斯所撰。在本书中，作者援引丰富文学史料，回顾作家短暂而辉煌的创作历程，同时与太宰治、川端康成等同时代名家进行横向对比，生动描摹了一个在东方与西方、古典与现代间不懈思考，追寻“死亡、黑夜和鲜血”所构成美学境界的作家的一生。    【媒体评论】    像三岛由纪夫这样才华横溢的天才作家，大概两三百年都难遇一个。    ——川端康成    这本书写得很有人情味，富有洞见力，或许和西方读者想要读到的主题很贴近……即对这位作家的文学史的梳理与考察。    ——《时代周刊》\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "50.0%",
+        "four_star_rate": "41.3%",
+        "three_star_rate": "7.8%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1361187/",
+            "name": "亨利·斯各特·斯托克斯",
+            "role": "作者",
+            "douban_id": "1361187"
+        },
+        {
+            "link": "https://book.douban.com/author/4608208/",
+            "name": "于是",
+            "role": "译者",
+            "douban_id": "4608208"
+        }
+    ],
+    "shops": [
+        {
+            "name": "当当网",
+            "price": "58.00元",
+            "link": "https://book.douban.com/link2/?lowest=3614&pre=0&vendor=dangdang&srcpage=subject&price=5800&pos=1&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34897115%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28509425&cntvendor=3&srcsubj=34897115&type=bkbuy&subject=34897115"
+        },
+        {
+            "name": "京东商城",
+            "price": "36.14元",
+            "link": "https://book.douban.com/link2/?lowest=3614&pre=0&vendor=jingdong&srcpage=subject&price=3614&pos=2&url=https%3A%2F%2Fitem.jd.com%2F10026545386691.html&cntvendor=3&srcsubj=34897115&type=bkbuy&subject=34897115"
+        },
+        {
+            "name": "中图网",
+            "price": "42.20元",
+            "link": "https://book.douban.com/link2/?lowest=3614&pre=0&vendor=bookschina&srcpage=subject&price=4220&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8274017.htm&cntvendor=3&srcsubj=34897115&type=bkbuy&subject=34897115"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34897115/",
+    "douban_id": "34897115",
+    "menu": [
+        "",
+        "        序言",
+        "        个人印象 / 3",
+        "        第一部 最后时日",
+        "        一   出发 / 8",
+        "        二 指挥室内的争斗 / 10",
+        "        三“天皇陛下万岁！”/ 26",
+        "        四 切腹 / 31",
+        "        五 “他疯了！”/ 36",
+        "        第二部 早年生活（1925—1939）",
+        "        一   菊与刀 / 38",
+        "        二 出生 / 40",
+        "        三 童话幻境 / 46",
+        "        四 校园少年 / 53",
+        "        第三部 三岛由纪夫的创作生涯（1940—1949）",
+        "        一  浸润于古典文学的少年 / 68",
+        "        二一切皆反讽 / 75",
+        "        三在恐惧的日子里 / 88",
+        "        四 川端康成的提携 / 98",
+        "        第四部 丰饶之海（1950—1970）",
+        "        一   展览厅里的照片 / 107",
+        "        二 写作的河流 / 109",
+        "        1950—1954 / 109",
+        "        1955—1963 / 126",
+        "        1964—1970 / 154",
+        "        三 舞台的河流 / 190",
+        "        四 肉体的河流 / 205",
+        "        五 行动的河流 / 216",
+        "        “忧国”/ 217",
+        "        富士山基地的野餐 / 238",
+        "        桑拿浴和秘密 / 265",
+        "        天人五衰 / 281",
+        "        第五部 后记（1995—1999）",
+        "        一 / 292",
+        "        二 / 296",
+        "        三 / 307",
+        "        四 / 312",
+        "        五 / 318",
+        "        附录",
+        "        三岛由纪夫年表 / 322",
+        "        三岛由纪夫创作年表 / 331",
+        "        三岛由纪夫的自杀计划 / 337",
+        "        译后记",
+        "        凄厉，便由他去演 / 338",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33597630.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 亨利·斯各特·斯托克斯",
+            "link": "https://book.douban.com/author/1361187"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "雅众文化",
+            "link": "https://book.douban.com/producers/41"
+        },
+        {
+            "text": "于是",
+            "link": "https://book.douban.com/author/4608208"
+        },
+        {
+            "text": "雅众·传记",
+            "link": "https://book.douban.com/series/59997"
+        }
+    ],
+    "tag": "人物传记"
+}

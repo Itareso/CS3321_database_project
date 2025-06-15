@@ -1,0 +1,69 @@
+{
+    "title": "三体",
+    "bookInfo": {
+        "作者": "劉 慈欣",
+        "出版社": "早川書房",
+        "原作名": "三体",
+        "译者": "大森 望 / 光吉さくら / ワン・チャイ / [日本] 大森望",
+        "出版年": "2019-7-4",
+        "页数": "448",
+        "定价": "2,052 円(税込)",
+        "装帧": "単行本",
+        "丛书": "三体 日文版",
+        "ISBN": "9784152098702"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    中国で三部作2100万部以上を突破    アジア&翻訳もの初のヒューゴー賞受賞    現代中国最大の衝撃作、ついに日本上陸    物理学者の父を文化大革命で惨殺され、人類に絶望した中国人エリート女性科学者・葉文潔(イエ・ウェンジエ)。失意の日々を過ごす彼女は、ある日、巨大パラボラアンテナを備える謎めいた軍事基地にスカウトされる。そこでは、人類の運命を左右するかもしれないプロジェクトが、極秘裏に進行していた。    数十年後。ナノテク素材の研究者・汪淼(ワン・ミャオ)は、ある会議に招集され、世界的な科学者が次々に自殺している事実を告げられる。その陰に見え隠れする学術団体〈科学フロンティア〉への潜入を引き受けた彼を、科学的にありえない怪現象〈ゴースト・カウントダウン〉が襲う。そして汪淼が入り込む、三つの太陽を持つ異星を舞台にしたVRゲーム『三体』の驚くべき真実とは?    本書に始まる《三体》三部作は、本国版が合計2100万部、英訳版が100万部以上の売上を記録。翻訳書として、またアジア圏の作品として初のヒューゴー賞長篇部門に輝いた、現代中国最大のヒット作。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "75.0%",
+        "four_star_rate": "16.3%",
+        "three_star_rate": "5.1%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "3.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561353/",
+            "name": "刘慈欣",
+            "role": "作者",
+            "douban_id": "4561353"
+        },
+        {
+            "link": "https://book.douban.com/author/632676/",
+            "name": "大森望",
+            "role": "译者",
+            "douban_id": "632676"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/33458155/",
+    "douban_id": "33458155",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33311477.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "劉 慈欣",
+            "link": "https://book.douban.com/search/%E5%8A%89%20%E6%85%88%E6%AC%A3"
+        },
+        {
+            "text": "大森 望",
+            "link": "https://book.douban.com/search/%E5%A4%A7%E6%A3%AE%20%E6%9C%9B"
+        },
+        {
+            "text": "光吉さくら",
+            "link": "https://book.douban.com/search/%E5%85%89%E5%90%89%E3%81%95%E3%81%8F%E3%82%89"
+        },
+        {
+            "text": "ワン・チャイ",
+            "link": "https://book.douban.com/search/%E3%83%AF%E3%83%B3%E3%83%BB%E3%83%81%E3%83%A3%E3%82%A4"
+        },
+        {
+            "text": "[日本] 大森望",
+            "link": "https://book.douban.com/author/632676"
+        },
+        {
+            "text": "三体 日文版",
+            "link": "https://book.douban.com/series/52038"
+        }
+    ],
+    "tag": "科幻"
+}

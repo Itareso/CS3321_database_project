@@ -1,0 +1,76 @@
+{
+    "title": "社会契约论",
+    "bookInfo": {
+        "作者": "让-雅克·卢梭 (Jean-JacquesRousseau)",
+        "出版社": "商务印书馆",
+        "译者": "李平沤",
+        "出版年": "2016-9-1",
+        "页数": "178",
+        "定价": "32.00",
+        "装帧": "平装",
+        "丛书": "商务·权威全译本",
+        "ISBN": "9787100122085"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "61.7%",
+        "four_star_rate": "30.0%",
+        "three_star_rate": "8.3%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502145/",
+            "name": "让-雅克·卢梭",
+            "role": "作者",
+            "douban_id": "4502145"
+        },
+        {
+            "link": "https://book.douban.com/author/4509709/",
+            "name": "李平沤",
+            "role": "译者",
+            "douban_id": "4509709"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "23.40元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=jingdong&srcpage=subject&price=2340&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFoSWgEEV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVVlaD00UHDZNRwYlD1NQDR40XgB0YmgMQFkUOVJrBiFfaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUVdaCEIWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1kWWAdsCFgHVw9fSDhmGVoUVAAKUVttCkoWAW04K2sXAmBQKlsqeDdzABBxYih9K3NpLR8Lfz95AT1PegRSD25lKCUmChQUYi8OK1gl&cntvendor=3&srcsubj=26911256&type=bkbuy&subject=26911256"
+        },
+        {
+            "name": "当当网",
+            "price": "31.50元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=dangdang&srcpage=subject&price=3150&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26911256%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29399058&cntvendor=3&srcsubj=26911256&type=bkbuy&subject=26911256"
+        },
+        {
+            "name": "中图网",
+            "price": "23.40元",
+            "link": "https://book.douban.com/link2/?lowest=2340&pre=0&vendor=bookschina&srcpage=subject&price=2340&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7335024.htm&cntvendor=3&srcsubj=26911256&type=bkbuy&subject=26911256"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26911256/",
+    "douban_id": "26911256",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29197935.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "让-雅克·卢梭 (Jean-JacquesRousseau)",
+            "link": "https://book.douban.com/author/4502145"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "李平沤",
+            "link": "https://book.douban.com/author/4509709/"
+        },
+        {
+            "text": "商务·权威全译本",
+            "link": "https://book.douban.com/series/37099"
+        }
+    ],
+    "tag": "政治学"
+}

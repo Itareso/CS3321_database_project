@@ -1,0 +1,57 @@
+{
+    "title": "楞严经译解",
+    "bookInfo": {
+        "作者": "释智觉 撰述",
+        "出版社": "上海古籍出版社",
+        "出版年": "2013-10",
+        "定价": "58",
+        "装帧": "平装",
+        "丛书": "佛典新读",
+        "ISBN": "9787532568949"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "58.3%",
+        "four_star_rate": "31.3%",
+        "three_star_rate": "6.3%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "36.00元",
+            "link": "https://book.douban.com/link2/?lowest=3600&pre=0&vendor=jingdong&srcpage=subject&price=3600&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgEGXF1fAUMeCl8IGloTWQIGVV1ZDk4UBF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkMH18UXgIEUV1aFxJSXzI4TVxAVX9_NSE4elFTajZtHQkSGF5EJFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUVAMDUFxdOEkXAm4NG1MSXgcyVFhYCU4fA2kLEl8SXzYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlxdC0IVbTMOQQBRWEVKOl1VDkoeCm4MK1kUXAQAZG5tCSgeWwhoRFJvVVFcKQAcaEwWBShMfwlPMwRmLAc-cxN_eRVRaQ9oWVNCDm5eOA&cntvendor=3&srcsubj=25745916&type=bkbuy&subject=25745916"
+        },
+        {
+            "name": "当当网",
+            "price": "69.10元",
+            "link": "https://book.douban.com/link2/?lowest=3600&pre=0&vendor=dangdang&srcpage=subject&price=6909&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25745916%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28544527&cntvendor=3&srcsubj=25745916&type=bkbuy&subject=25745916"
+        },
+        {
+            "name": "中图网",
+            "price": "44.50元",
+            "link": "https://book.douban.com/link2/?lowest=3600&pre=0&vendor=bookschina&srcpage=subject&price=4450&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6390408.htm&cntvendor=3&srcsubj=25745916&type=bkbuy&subject=25745916"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25745916/",
+    "douban_id": "25745916",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s27148175.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "释智觉 撰述",
+            "link": "https://book.douban.com/search/%E9%87%8A%E6%99%BA%E8%A7%89%20%E6%92%B0%E8%BF%B0"
+        },
+        {
+            "text": "上海古籍出版社",
+            "link": "https://book.douban.com/press/2170"
+        },
+        {
+            "text": "佛典新读",
+            "link": "https://book.douban.com/series/32666"
+        }
+    ],
+    "tag": "佛教"
+}

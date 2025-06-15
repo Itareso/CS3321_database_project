@@ -1,0 +1,90 @@
+{
+    "title": "论世界灵魂",
+    "bookInfo": {
+        "作者": "[德] 谢林 / [德国] 弗里德里希·威廉·约瑟夫·冯·谢林",
+        "出版社": "北京大学出版社",
+        "原作名": "Von der Weltseele",
+        "译者": "庄振华",
+        "出版年": "2018-10-15",
+        "页数": "300",
+        "定价": "78.00",
+        "装帧": "精装",
+        "丛书": "谢林著作集",
+        "ISBN": "9787301296998"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "62.9%",
+        "four_star_rate": "29.0%",
+        "three_star_rate": "4.8%",
+        "two_star_rate": "3.2%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608779/",
+            "name": "弗里德里希·威廉·约瑟夫·冯·谢林",
+            "role": "作者",
+            "douban_id": "4608779"
+        },
+        {
+            "link": "https://book.douban.com/author/4632463/",
+            "name": "庄振华",
+            "role": "译者",
+            "douban_id": "4632463"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "39.00元",
+            "link": "https://book.douban.com/link2/?lowest=3900&pre=0&vendor=jingdong&srcpage=subject&price=3900&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF4SVQ4DXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUVlVAEoeHDZNRwYlGVADVwIJcjJyBjduTiVUQwVSEismeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GU1lcC0kQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1kWWAdsCFgHVExDWm5mGFMdXQADVFltCkoWAW04K2tcAFFpND4naB5JZhp1aDB8OUNwHwo9AD55AWgNXgYTNmRKAVlaQRZoQgpgK1gl&cntvendor=3&srcsubj=30270224&type=bkbuy&subject=30270224"
+        },
+        {
+            "name": "当当网",
+            "price": "43.90元",
+            "link": "https://book.douban.com/link2/?lowest=3900&pre=0&vendor=dangdang&srcpage=subject&price=4390&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30270224%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25578281&cntvendor=3&srcsubj=30270224&type=bkbuy&subject=30270224"
+        },
+        {
+            "name": "中图网",
+            "price": "59.50元",
+            "link": "https://book.douban.com/link2/?lowest=3900&pre=0&vendor=bookschina&srcpage=subject&price=5950&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7931813.htm&cntvendor=3&srcsubj=30270224&type=bkbuy&subject=30270224"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30270224/",
+    "douban_id": "30270224",
+    "menu": [
+        "",
+        "        中文版《谢林著作集》说明",
+        "        《论世界灵魂》（1798）",
+        "        人名索引",
+        "        主要译名对照",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29843813.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] 谢林",
+            "link": "https://book.douban.com/search/%E8%B0%A2%E6%9E%97"
+        },
+        {
+            "text": "[德国] 弗里德里希·威廉·约瑟夫·冯·谢林",
+            "link": "https://book.douban.com/author/4608779"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        },
+        {
+            "text": "庄振华",
+            "link": "https://book.douban.com/author/4632463"
+        },
+        {
+            "text": "谢林著作集",
+            "link": "https://book.douban.com/series/33789"
+        }
+    ],
+    "tag": "西方哲学"
+}

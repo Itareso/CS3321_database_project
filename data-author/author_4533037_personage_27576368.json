@@ -1,0 +1,165 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "茧",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34745414.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36532565/",
+                        "year": "2024",
+                        "id": 36532565
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "天鹅旅馆",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34917340.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36977541/",
+                        "year": "2024",
+                        "id": 36977541
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "鲤·严肃点！文学",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34711649.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36597524/",
+                        "year": "2024",
+                        "id": 36597524
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "大乔小乔（2024版）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34917345.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36977568/",
+                        "year": "2024",
+                        "id": 36977568
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "鲤·写下她自己",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35016283.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37042751/",
+                        "year": "2024",
+                        "id": 37042751
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "顿悟的时刻",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33673422.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35081657/",
+                        "year": "2020",
+                        "id": 35081657
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "水仙已乘鲤鱼去",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29889812.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26827241/",
+                        "year": "2018",
+                        "id": 26827241
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "樱桃之远",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29889820.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26827239/",
+                        "year": "2018",
+                        "id": 26827239
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "誓鸟",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29889826.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26827244/",
+                        "year": "2018",
+                        "id": 26827244
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "十爱",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29889821.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26827242/",
+                        "year": "2018",
+                        "id": 26827242
+                    }
+                }
+            ],
+            "total": 65
+        }
+    },
+    "author_link": "https://book.douban.com/author/4533037/",
+    "author_douban_id": "4533037",
+    "personage_id": 27576368,
+    "name": [
+        "张悦然",
+        "Yueran Zhang"
+    ],
+    "intro": "张悦然，作家，中国人民大学文学院副教授。著有小说《茧》、《誓鸟》、《水仙已乘鲤鱼去》、《我循着火光而来》、《十爱》等，文学评论集《顿悟的时刻》。作品被翻译成英、法、西、意、荷、俄等十多种文字，入围“奥康纳短篇小说奖”等多项国际文学奖。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27576368/photo/2363207082",
+        "https://www.douban.com/personage/27576368/photo/2877021965",
+        "https://www.douban.com/personage/27576368/photo/2898186123",
+        "https://www.douban.com/personage/27576368/photo/2898186122",
+        "https://www.douban.com/personage/27576368/photo/2886414327"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2363207082.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2877021965.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2898186123.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2898186122.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2886414327.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/d86c300c18414e4912180644bcc53737.jpg",
+    "sex": 0,
+    "birth_date": 1982,
+    "age": 44,
+    "birth_place": [
+        "中国",
+        "山东",
+        "济南"
+    ],
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

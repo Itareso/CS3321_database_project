@@ -1,0 +1,85 @@
+{
+    "title": "一面之交",
+    "bookInfo": {
+        "作者": "顾前",
+        "出版社": "江苏凤凰文艺出版社",
+        "出版年": "2021-1",
+        "页数": "256",
+        "定价": "55.00元",
+        "装帧": "精装",
+        "丛书": "现场文丛",
+        "ISBN": "9787559449757"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "32.5%",
+        "four_star_rate": "36.7%",
+        "three_star_rate": "23.3%",
+        "two_star_rate": "5.0%",
+        "one_star_rate": "2.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610330/",
+            "name": "顾前",
+            "role": "作者",
+            "douban_id": "4610330"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "27.50元",
+            "link": "https://book.douban.com/link2/?lowest=2750&pre=0&vendor=jingdong&srcpage=subject&price=2750&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVodXw8EUW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOLSQKUjtIf2prUB1hIGN2PRY8eBZvYTZNdVl8L054JwQNCShLXxZyZCV3ORFCWCokdC5uYARUbAR1BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZHXD8eThFcRQ8PSyNpH1VZPAQAfANBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtbDkMTB2c4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHUAkzVE1AQSRNQgl7XQcFUF1fDkonAW4JGVklbTZ7LgkHeBRrBgxDXS9oOHJrHD8tVTN1WipmGTJnFXxxDg5caxdLehV3ZTlxbQUy&cntvendor=3&srcsubj=35334929&type=bkbuy&subject=35334929"
+        },
+        {
+            "name": "当当网",
+            "price": "31.00元",
+            "link": "https://book.douban.com/link2/?lowest=2750&pre=0&vendor=dangdang&srcpage=subject&price=3100&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35334929%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29192606&cntvendor=3&srcsubj=35334929&type=bkbuy&subject=35334929"
+        },
+        {
+            "name": "中图网",
+            "price": "31.30元",
+            "link": "https://book.douban.com/link2/?lowest=2750&pre=0&vendor=bookschina&srcpage=subject&price=3130&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8506559.htm&cntvendor=3&srcsubj=35334929&type=bkbuy&subject=35334929"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35334929/",
+    "douban_id": "35334929",
+    "menu": [
+        "",
+        "        《一面之交》",
+        "        《每人唱一支歌》",
+        "        《美国故事》",
+        "        《你好，邮递员》",
+        "        《在酒桌上》",
+        "        《希望》",
+        "        《让我告诉你一个秘密》",
+        "        《有个富翁做朋友真是不错》",
+        "        《饭局》",
+        "        《江春晓》",
+        "        《荷兰鼠》",
+        "        《挺住，挺住》",
+        "        《锁芯》",
+        "        《邻居》",
+        "        《麻子》",
+        "        《荡妇》",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33861472.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "顾前",
+            "link": "https://book.douban.com/search/%E9%A1%BE%E5%89%8D"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "现场文丛",
+            "link": "https://book.douban.com/series/58860"
+        }
+    ],
+    "tag": "中国文学"
+}

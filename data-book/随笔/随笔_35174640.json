@@ -1,0 +1,71 @@
+{
+    "title": "纪德读书日记",
+    "bookInfo": {
+        "作者": "[法] 安德烈·纪德",
+        "出版社": "商务印书馆",
+        "出品方": "草鹭文化",
+        "译者": "刘铮",
+        "出版年": "2020-9",
+        "页数": "198",
+        "定价": "45.00",
+        "装帧": "精装",
+        "丛书": "小书虫系列",
+        "ISBN": "9787100189187"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "27.1%",
+        "four_star_rate": "44.0%",
+        "three_star_rate": "24.7%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "3.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/142947/",
+            "name": "安德烈·纪德",
+            "role": "作者",
+            "douban_id": "142947"
+        },
+        {
+            "link": "https://book.douban.com/author/4636383/",
+            "name": "刘铮",
+            "role": "译者",
+            "douban_id": "4636383"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "32.20元",
+            "link": "https://book.douban.com/link2/?lowest=3220&pre=0&vendor=jingdong&srcpage=subject&price=3220&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgEGXF1fAUMeCl8IGloTWAAEV1lVAEsVCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkNHV0WWg4KVFxUFxJSXzI4Tyx8KA9VIjk9VDFAQ2ltQFwRJnJmJFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUVAMDUFxdOEkXAm4NG1MSXgcyVFhYCUgWA2kIHFwQVTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlxdCx8QbTMOTBgSWgJQOl5cDUgUAG0MK1kUXAQAZG5tYTJwQA9ob19LJ1hfVww2WDd3A25hQCRXMwR7LxwkSQhMYjFxSSMWIW9LEG5eOA&cntvendor=1&srcsubj=35174640&type=bkbuy&subject=35174640"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35174640/",
+    "douban_id": "35174640",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33744217.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法] 安德烈·纪德",
+            "link": "https://book.douban.com/author/142947"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "草鹭文化",
+            "link": "https://book.douban.com/producers/138"
+        },
+        {
+            "text": "刘铮",
+            "link": "https://book.douban.com/author/4636383"
+        },
+        {
+            "text": "小书虫系列",
+            "link": "https://book.douban.com/series/54005"
+        }
+    ],
+    "tag": "随笔"
+}

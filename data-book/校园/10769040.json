@@ -1,0 +1,60 @@
+{
+    "title": "女王·再见黑天鹅",
+    "bookInfo": {
+        "作者": "小妮子",
+        "出版社": "湖南少年儿童出版社",
+        "出版年": "2012-5",
+        "页数": "230",
+        "定价": "29.80元",
+        "装帧": "精装",
+        "ISBN": "9787535878465"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "66.7%",
+        "four_star_rate": "14.0%",
+        "three_star_rate": "10.8%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "6.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4572189/",
+            "name": "小妮子",
+            "role": "作者",
+            "douban_id": "4572189"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.80元",
+            "link": "https://book.douban.com/link2/?lowest=1140&pre=0&vendor=jingdong&srcpage=subject&price=1680&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070905862245.html&cntvendor=2&srcsubj=10769040&type=bkbuy&subject=10769040"
+        },
+        {
+            "name": "中图网",
+            "price": "11.40元",
+            "link": "https://book.douban.com/link2/?lowest=1140&pre=0&vendor=bookschina&srcpage=subject&price=1140&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5550049.htm&cntvendor=2&srcsubj=10769040&type=bkbuy&subject=10769040"
+        }
+    ],
+    "url": "https://book.douban.com/subject/10769040/",
+    "douban_id": "10769040",
+    "menu": [
+        "",
+        "        楔子：我是晴娜娜！第一章：什么是TK？第二章：谁是西塞？第三章：什么是挑战令？第四章：谁是秋千寻？第五章：什么是领头骑士？第六章：谁是高宫云雀？第七章：谁是晴娜娜？第八章：谁是藤原英？第九章：什么是第一大骑士？第十章：谁是梅林王子？第十一章：什么是负分浪子团？",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s10286543.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "小妮子",
+            "link": "https://book.douban.com/author/4572189/"
+        },
+        {
+            "text": "湖南少年儿童出版社",
+            "link": "https://book.douban.com/press/2606"
+        }
+    ],
+    "tag": "校园"
+}

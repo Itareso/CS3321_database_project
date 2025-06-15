@@ -1,0 +1,69 @@
+{
+    "title": "我要上学",
+    "bookInfo": {
+        "作者": "红刺北",
+        "出版社": "中国友谊出版公司",
+        "原作名": "砸锅卖铁去上学",
+        "出版年": "2022-6",
+        "页数": "384",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "丛书": "我要上学",
+        "ISBN": "9787505754355"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    昔日顶级工程师卫三穿成星际失学儿童，靠着捡垃圾变废为宝，终于赶在开学季攒了一笔钱，立刻要去报名上学。    她打算将来成为一个机甲师，据说特别赚钱，还和自己本行息息相关，计划通√    万万没想到因为贪学费便宜，卫三报错了专业，成了一名机甲单兵——那种成天刀口舔血的暴力狂    卫·文静·贫穷·工程师：“……”    但环境不能使她屈服，卫三决定以后趁空闲时间自学成才。    某大赛训练期，有媒体依次采访拍摄各校单兵，全星网直播，观众可以看见所有人都在拼命训练，重力加压、贴身肉搏、远战纠缠等等。    【YY近战太强了吧，那把光刀一出，谁敢近身！】    【ww那手鞭子甩得绝了，牛逼！！！】    随后录到卫三，她盘腿坐在训练大厅，正低头聚精会神捧着一本书看。    【那个卫三在看什么？】    镜头拉近，卫三手中书的封面顿时被全星网看得一清二楚：《青飞教您二十一天成为机甲师》    观众：……    这书名一听就不是正经人看的。    第二天星网头条：某军校生训练期间不堪重负，精神失常，试图转行。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "47.4%",
+        "four_star_rate": "38.0%",
+        "three_star_rate": "12.4%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624713/",
+            "name": "红刺北",
+            "role": "作者",
+            "douban_id": "4624713"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.40元",
+            "link": "https://book.douban.com/link2/?lowest=2540&pre=0&vendor=jingdong&srcpage=subject&price=2640&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgEGXF1fAUMeCl8IGlsVXAMDUlxZCkoWC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA28JHloTXwIAVV9VFxJSXzI4YSVoAG9KLVY_cB9wfCZ8Yh9yGnVCNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUVAMDUFxdOEkXAm4NG1MSXgcyVFhYCUgXBGsNHVwVXjYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlxdCkoWbTMOTVoUXURaOl5dDEoRBGwJK1kUXAQAZG5tbDVxQGxtelkcKmRWVzcDWCtUQjV6GxxAMwQDXAMjDghgUGZWXzoVWm0CJG5eOA&cntvendor=2&srcsubj=35960200&type=bkbuy&subject=35960200"
+        },
+        {
+            "name": "中图网",
+            "price": "25.40元",
+            "link": "https://book.douban.com/link2/?lowest=2540&pre=0&vendor=bookschina&srcpage=subject&price=2540&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9146261.htm&cntvendor=2&srcsubj=35960200&type=bkbuy&subject=35960200"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35960200/",
+    "douban_id": "35960200",
+    "menu": [
+        "",
+        "        第一章 砸锅卖铁",
+        "        第二章 山丘赛场",
+        "        第三章 沙漠赛场",
+        "        番外 十年之约",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34327521.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "红刺北",
+            "link": "https://book.douban.com/author/4624713"
+        },
+        {
+            "text": "中国友谊出版公司",
+            "link": "https://book.douban.com/press/2416"
+        },
+        {
+            "text": "我要上学",
+            "link": "https://book.douban.com/series/70541"
+        }
+    ],
+    "tag": "科幻"
+}

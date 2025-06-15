@@ -1,0 +1,86 @@
+{
+    "title": "女生徒",
+    "bookInfo": {
+        "作者": "[日]太宰治",
+        "出版社": "浙江人民出版社",
+        "出品方": "磨铁·大鱼读品",
+        "译者": "刘子倩",
+        "出版年": "2020-7",
+        "页数": "280",
+        "装帧": "精装",
+        "ISBN": "9787213093951"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.7%",
+        "four_star_rate": "42.5%",
+        "three_star_rate": "16.1%",
+        "two_star_rate": "2.7%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4526460/",
+            "name": "太宰治",
+            "role": "作者",
+            "douban_id": "4526460"
+        },
+        {
+            "link": "https://book.douban.com/author/4618581/",
+            "name": "刘子倩",
+            "role": "译者",
+            "douban_id": "4618581"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "17.95元",
+            "link": "https://book.douban.com/link2/?lowest=1795&pre=0&vendor=jingdong&srcpage=subject&price=1795&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQIKVVxZAEsWM28JGl0XXQYLU11dD0IVMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWBW0IG1ISXgYFXVxCUQ5LXl9YQxN2O3BCCjtaehleVAoJciJ9BEdiWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHl0TXAEyVl5cCU4XC2gLGmsVWwMDV19ZCEgfCmwKK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggTXwYHU14zVE1ARmlbWBt7XQcFUllcAUknAW4JGVklbTZ6NSMeDS5WYBxBYB5qIVlJKAE5VRRudSZmGV4UAmdKFzsLey9oAihveiBAbQUy&cntvendor=2&srcsubj=34808321&type=bkbuy&subject=34808321"
+        },
+        {
+            "name": "中图网",
+            "price": "24.40元",
+            "link": "https://book.douban.com/link2/?lowest=1795&pre=0&vendor=bookschina&srcpage=subject&price=2440&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8331339.htm&cntvendor=2&srcsubj=34808321&type=bkbuy&subject=34808321"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34808321/",
+    "douban_id": "34808321",
+    "menu": [
+        "",
+        "        女生徒",
+        "        灯笼",
+        "        蟋蟀",
+        "        千代女",
+        "        姥舍",
+        "        时髦童子",
+        "        水仙",
+        "        花烛",
+        "        新树之语",
+        "        关于爱与美",
+        "        黄金风景",
+        "        飨宴夫人",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33657020.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]太宰治",
+            "link": "https://book.douban.com/author/4526460"
+        },
+        {
+            "text": "浙江人民出版社",
+            "link": "https://book.douban.com/press/2507"
+        },
+        {
+            "text": "磨铁·大鱼读品",
+            "link": "https://book.douban.com/producers/71"
+        },
+        {
+            "text": "刘子倩",
+            "link": "https://book.douban.com/author/4618581"
+        }
+    ],
+    "tag": "日本文学"
+}

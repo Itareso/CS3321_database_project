@@ -1,0 +1,86 @@
+{
+    "title": "环界3",
+    "bookInfo": {
+        "作者": "[日] 铃木光司",
+        "出版社": "南海出版公司",
+        "出品方": "新经典文化",
+        "副标题": "环",
+        "原作名": "ループ",
+        "译者": "许木兰",
+        "出版年": "2017-1",
+        "页数": "253",
+        "定价": "39",
+        "装帧": "精装",
+        "丛书": "环界",
+        "ISBN": "9787544285650"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.4%",
+        "four_star_rate": "40.9%",
+        "three_star_rate": "18.4%",
+        "two_star_rate": "2.7%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/121076/",
+            "name": "铃木光司",
+            "role": "作者",
+            "douban_id": "121076"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "23.40元",
+            "link": "https://www.dedao.cn/ebook/detail?id=N5lDqb9b47pXZxGn1kBzPlMyQArYv0qzEBWqe85E2aVKdo9jNgOLRmDJ6nXLm16K&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "37.10元",
+            "link": "https://book.douban.com/link2/?lowest=2200&pre=0&vendor=jingdong&srcpage=subject&price=3710&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFsVXAMAVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOLSQKUjtIf2prUB1hGQ5aLV48eEN8VSoAdVl8L054JwQNCShLXxZyYgdTORFCWCokcClgYAhIbwRlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ8HQtHSzl0GQxeQyZwW310EQc8UBBBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhYCEMWB284G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwcAVlkzVE1BAjdIHAZ7XQYHUFlfD00nAW4JGVklbTZ7LgkHeBRrBgxDXS9RVV57VD8tACBBRmdmGTJnFXxxDg5caxdLehVxRx1xbQUy&cntvendor=3&srcsubj=26907067&type=bkbuy&subject=26907067"
+        },
+        {
+            "name": "当当网",
+            "price": "22.00元",
+            "link": "https://book.douban.com/link2/?lowest=2200&pre=0&vendor=dangdang&srcpage=subject&price=2200&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26907067%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D24175575&cntvendor=3&srcsubj=26907067&type=bkbuy&subject=26907067"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26907067/",
+    "douban_id": "26907067",
+    "menu": [
+        "",
+        "        第一章 黑夜结束",
+        "        第二章 癌症病房",
+        "        第三章 边际之旅",
+        "        第四章 地下空间",
+        "        第五章 降临",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29171859.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 铃木光司",
+            "link": "https://book.douban.com/search/%E9%93%83%E6%9C%A8%E5%85%89%E5%8F%B8"
+        },
+        {
+            "text": "南海出版公司",
+            "link": "https://book.douban.com/press/2413"
+        },
+        {
+            "text": "新经典文化",
+            "link": "https://book.douban.com/producers/3"
+        },
+        {
+            "text": "许木兰",
+            "link": "https://book.douban.com/search/%E8%AE%B8%E6%9C%A8%E5%85%B0"
+        },
+        {
+            "text": "环界",
+            "link": "https://book.douban.com/series/35632"
+        }
+    ],
+    "tag": "科幻"
+}

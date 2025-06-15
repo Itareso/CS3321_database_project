@@ -1,0 +1,145 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "闲情偶寄",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34663172.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25916709/",
+                        "year": "2022",
+                        "id": 25916709
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "美学十日谈",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34225919.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26717475/",
+                        "year": "2015",
+                        "id": 26717475
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "坐在汽车上看美国",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26378845/",
+                        "year": "2015",
+                        "id": 26378845
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "我的学术生涯",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27988733.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26306852/",
+                        "year": "2015",
+                        "id": 26306852
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "戏看人间：李渔传",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28351513.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26286971/",
+                        "year": "2014",
+                        "id": 26286971
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "从“诗文评”到“文艺学”",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27990703.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/25903100/",
+                        "year": "2013",
+                        "id": 25903100
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "新时期文艺学前沿扫描",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s24935352.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/20255435/",
+                        "year": "2012",
+                        "id": 20255435
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "《笠翁传奇十种》之《怜香伴》",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s8491530.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/10432702/",
+                        "year": "2011",
+                        "id": 10432702
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "忘不了的那些人和事",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s24606535.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/6423171/",
+                        "year": "2011",
+                        "id": 6423171
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "评点李渔",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s6194674.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/4922159/",
+                        "year": "2010",
+                        "id": 4922159
+                    }
+                }
+            ],
+            "total": 21
+        }
+    },
+    "author_link": "https://book.douban.com/author/4518767/",
+    "author_douban_id": "4518767",
+    "personage_id": 30121939,
+    "name": [
+        "杜书瀛"
+    ],
+    "intro": "杜书瀛 (1938～)笔名田中木。山东宁津人。中共党员。1964年毕业于山东大学中文系，同年考取中国科学院文学所美学研究生。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "更多中文名": "田中木",
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

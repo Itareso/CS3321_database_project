@@ -1,0 +1,63 @@
+{
+    "title": "她穿过了暴雨",
+    "bookInfo": {
+        "作者": "独木舟",
+        "出版社": "太白文艺出版社",
+        "出品方": "果麦文化",
+        "出版年": "2023-12",
+        "页数": "232",
+        "定价": "49.80",
+        "装帧": "平装",
+        "ISBN": "9787551325387"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.2%",
+        "four_star_rate": "35.8%",
+        "three_star_rate": "34.0%",
+        "two_star_rate": "9.3%",
+        "one_star_rate": "3.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4525416/",
+            "name": "独木舟",
+            "role": "作者",
+            "douban_id": "4525416"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.99元",
+            "link": "https://read.douban.com/ebook/480216999/?dcs=subject-buylink&dcm=douban&dct=36665391"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=jingdong&srcpage=subject&price=2490&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVMSWQQAUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAXFlZCkkTHDZNRwYlOHJ2Vzc4fg51fysPRDBtA1hYFV4LXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXQ4EXVpeC0ofM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgJsCFgKVgxFUCxmG1oXXgMAV1ttCkoWAW04K2tCH29RXD5bS0pBQzgMGjJxKXgADFgfai15AStQYxkXDllCVT0-XwkeeD1UK1gl&cntvendor=4&srcsubj=36665391&type=bkbuy&subject=36665391"
+        },
+        {
+            "name": "当当网",
+            "price": "47.80元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=dangdang&srcpage=subject&price=4780&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36665391%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29666355&cntvendor=4&srcsubj=36665391&type=bkbuy&subject=36665391"
+        },
+        {
+            "name": "中图网",
+            "price": "31.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=bookschina&srcpage=subject&price=3190&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9223319.htm&cntvendor=4&srcsubj=36665391&type=bkbuy&subject=36665391"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36665391/",
+    "douban_id": "36665391",
+    "menu": [
+        "",
+        "        Part1 雨的气息",
+        "        Part2 苔藓",
+        "        Part3 琥珀",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

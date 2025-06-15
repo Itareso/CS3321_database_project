@@ -1,0 +1,91 @@
+{
+    "title": "康德历史哲学论文集",
+    "bookInfo": {
+        "作者": "[德] 康德",
+        "出版社": "理想国 | 广西师范大学出版社",
+        "出品方": "理想国",
+        "译者": "李明辉 译注",
+        "出版年": "2020-1-15",
+        "页数": "324",
+        "定价": "68",
+        "装帧": "精装",
+        "丛书": "Great Thoughts 书系",
+        "ISBN": "9787559821676"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "74.3%",
+        "four_star_rate": "21.6%",
+        "three_star_rate": "3.5%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4507865/",
+            "name": "伊曼努尔·康德",
+            "role": "作者",
+            "douban_id": "4507865"
+        },
+        {
+            "link": "https://book.douban.com/author/4609288/",
+            "name": "李明辉",
+            "role": "译者",
+            "douban_id": "4609288"
+        }
+    ],
+    "shops": [
+        {
+            "name": "当当网",
+            "price": "53.70元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=dangdang&srcpage=subject&price=5370&pos=1&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34826137%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28490072&cntvendor=2&srcsubj=34826137&type=bkbuy&subject=34826137"
+        },
+        {
+            "name": "京东商城",
+            "price": "34.00元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=jingdong&srcpage=subject&price=3400&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0SXgAAVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUlleDkkWHDZNRwYlA1VqB0RfeiN3cB0NWwxBKmVgCTwoeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHVlpbC0MUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGA8dVAZsCFgKSgtUXTZmG1ocXQUHU19tCkoWAW04K2sVO1tBJDcrDh0QQihLeCVlVWBaMi0OSQB5AQpgWD1jHlR8Ah8cCC0UAi5sK1gl&cntvendor=2&srcsubj=34826137&type=bkbuy&subject=34826137"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34826137/",
+    "douban_id": "34826137",
+    "menu": [
+        "",
+        "        译者序 / i",
+        "        导论：康德的“历史”概念及其历史哲学 / v",
+        "        凡例 / xxxiii",
+        "        康德著作缩写表 / xxxiv",
+        "        在世界公民底观点下的普遍历史之理念 / 001",
+        "        答“何谓启蒙？”之问题 / 021",
+        "        评赫德尔《人类史底哲学之理念》第一、二卷 / 031",
+        "        人类史之臆测的开端 / 063",
+        "        论俗语所谓：这在理论上可能是正确的，但不适于实践 / 083",
+        "        万物之终结 / 131",
+        "        论永久和平—— 一项哲学性规划 / 151",
+        "        重提的问题：人类是否不断地趋向于更佳的境地？ / 203",
+        "        参考文献 / 225",
+        "        人名索引 / 265",
+        "        概念索引 / 269",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33528950.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] 康德",
+            "link": "https://book.douban.com/search/%E5%BA%B7%E5%BE%B7"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        },
+        {
+            "text": "李明辉 译注",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E6%98%8E%E8%BE%89%20%E8%AF%91%E6%B3%A8"
+        },
+        {
+            "text": "Great Thoughts 书系",
+            "link": "https://book.douban.com/series/47239"
+        }
+    ],
+    "tag": "经典"
+}

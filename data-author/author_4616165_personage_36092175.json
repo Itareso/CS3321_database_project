@@ -1,0 +1,45 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "劳动者的星辰",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34288428.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36035851/",
+                        "year": "2022",
+                        "id": 36035851
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4616165/",
+    "author_douban_id": "4616165",
+    "personage_id": 36092175,
+    "name": [
+        "施洪丽",
+        "Hongli Shi"
+    ],
+    "intro": "施洪丽，1971年生，四川省简阳市小湾村人，高中学历，务过农，从事过餐厅工作，摆过地摊，擦过鞋，当过月嫂。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "sex": 0,
+    "birth_date": 1971,
+    "age": 55,
+    "birth_place": [
+        "中国",
+        "四川",
+        "简阳"
+    ],
+    "family_member": "李俊(夫)",
+    "profession": [
+        "作者"
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "读书便佳",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34770146.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36459386/",
+                        "year": "2024",
+                        "id": 36459386
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "苹果树下",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34770257.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36459382/",
+                        "year": "2024",
+                        "id": 36459382
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "文林回想录",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34770145.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36455727/",
+                        "year": "2024",
+                        "id": 36455727
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "青山亂疊",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34835386.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36845896/",
+                        "year": "2024",
+                        "id": 36845896
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "必有人重寫愛情",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34656905.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36489043/",
+                        "year": "2023",
+                        "id": 36489043
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "告別諸神",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s2159360.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1998494/",
+                        "year": "1993",
+                        "id": 1998494
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "這也是歷史",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s2159354.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1998491/",
+                        "year": "1993",
+                        "id": 1998491
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "BM 創刊號",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34922931.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36985609/",
+                        "year": "",
+                        "id": 36985609
+                    }
+                }
+            ],
+            "total": 8
+        }
+    },
+    "author_link": "https://book.douban.com/author/4632318/",
+    "author_douban_id": "4632318",
+    "personage_id": 36885642,
+    "name": [
+        "林道群",
+        "To-kwan Lam"
+    ],
+    "intro": "林道群，资深出版人。1987年毕业于香港中文大学，同年进入香港三联书店做编辑。1992年加入牛津大学出版社中国公司，现为该公司学术及普及出版部总编辑。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/36885642/photo/2907936973",
+        "https://www.douban.com/personage/36885642/photo/2907936972"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2907936973.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907936972.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/6e784a6634830822c2b471fc3caacc28.jpg",
+    "sex": 1,
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

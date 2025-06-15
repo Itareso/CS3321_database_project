@@ -1,0 +1,79 @@
+{
+    "title": "三重旋涡",
+    "bookInfo": {
+        "作者": "[日]江户川乱步",
+        "出版社": "陕西师范大学出版社",
+        "出品方": "新华先锋",
+        "译者": "冷欣",
+        "出版年": "2021-3",
+        "页数": "272",
+        "定价": "59.00元",
+        "装帧": "精装",
+        "丛书": "江户川乱步推理小说集",
+        "ISBN": "9787569520699"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "12.7%",
+        "four_star_rate": "25.7%",
+        "three_star_rate": "50.2%",
+        "two_star_rate": "9.4%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.99元",
+            "link": "https://read.douban.com/ebook/310231066/?dcs=subject-buylink&dcm=douban&dct=35334789"
+        },
+        {
+            "name": "京东商城",
+            "price": "25.96元",
+            "link": "https://book.douban.com/link2/?lowest=2596&pre=0&vendor=jingdong&srcpage=subject&price=2596&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVsQXwUBU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVFtfC0gQHDZNRwYlLk12NSg8fTF1dzMBXg0LFWd0LjgVaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHU1ldAUsRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHgsUDQdsCFgKSgJHXDlmG1oTWwIKUF9tCkoWAW04K2tsJ1FYJAEhDShcRRt1bwhHWWdyCSdfAEJ5AQZ6UyFmB1YDNwIBcTFFZz1sK1gl&cntvendor=4&srcsubj=35334789&type=bkbuy&subject=35334789"
+        },
+        {
+            "name": "当当网",
+            "price": "59.00元",
+            "link": "https://book.douban.com/link2/?lowest=2596&pre=0&vendor=dangdang&srcpage=subject&price=5900&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35334789%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29210789&cntvendor=4&srcsubj=35334789&type=bkbuy&subject=35334789"
+        },
+        {
+            "name": "中图网",
+            "price": "31.70元",
+            "link": "https://book.douban.com/link2/?lowest=2596&pre=0&vendor=bookschina&srcpage=subject&price=3170&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8518631.htm&cntvendor=4&srcsubj=35334789&type=bkbuy&subject=35334789"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35334789/",
+    "douban_id": "35334789",
+    "menu": [
+        "",
+        "        三重旋涡/001",
+        "        蜘蛛人/125",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33808300.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]江户川乱步",
+            "link": "https://book.douban.com/search/%E6%B1%9F%E6%88%B7%E5%B7%9D%E4%B9%B1%E6%AD%A5"
+        },
+        {
+            "text": "陕西师范大学出版社",
+            "link": "https://book.douban.com/press/2438"
+        },
+        {
+            "text": "新华先锋",
+            "link": "https://book.douban.com/producers/26"
+        },
+        {
+            "text": "冷欣",
+            "link": "https://book.douban.com/search/%E5%86%B7%E6%AC%A3"
+        },
+        {
+            "text": "江户川乱步推理小说集",
+            "link": "https://book.douban.com/series/52368"
+        }
+    ],
+    "tag": "日本文学"
+}

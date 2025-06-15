@@ -1,0 +1,83 @@
+{
+    "title": "秘要",
+    "bookInfo": {
+        "作者": "田耳",
+        "出版社": "上海文艺出版社",
+        "出版年": "2023-3-1",
+        "页数": "356",
+        "定价": "68.00元",
+        "装帧": "精装",
+        "ISBN": "9787532186181"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.5%",
+        "four_star_rate": "43.6%",
+        "three_star_rate": "22.4%",
+        "two_star_rate": "4.2%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/165847/",
+            "name": "田耳",
+            "role": "作者",
+            "douban_id": "165847"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "54.00元",
+            "link": "https://read.douban.com/ebook/440240296/?dcs=subject-buylink&dcm=douban&dct=36222138"
+        },
+        {
+            "name": "得到",
+            "price": "54.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=EJmMZXq1b8qOpBlD69XAdP7LEGaKJWEmA62WxRnme5vrVzo4QMZYgNyk2jNA5467&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "36.04元",
+            "link": "https://book.douban.com/link2/?lowest=3604&pre=0&vendor=jingdong&srcpage=subject&price=3604&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVwTWQELUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOBwQfexQSYQsObhJjWUN4MiY0fzxJcy91dVkWW1hYHS0NY01rfzxSHg9sPBFCWCokdCxjShxWbTJxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ_DQg8XxFxHQ1vRzhSBF4AEVdcCRB3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFdVCkwXBm04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYBAFkzVE1AQjdSRQB7XQcBVF1dD00nAW4JGVklbTZRDhwuV051Z2l9Ui0RGHxkLDcqfxVnQxJmGVgTA1xLJw42DjdrUDUNTyJ0bQUy&cntvendor=5&srcsubj=36222138&type=bkbuy&subject=36222138"
+        },
+        {
+            "name": "当当网",
+            "price": "38.30元",
+            "link": "https://book.douban.com/link2/?lowest=3604&pre=0&vendor=dangdang&srcpage=subject&price=3829&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36222138%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29548283&cntvendor=5&srcsubj=36222138&type=bkbuy&subject=36222138"
+        },
+        {
+            "name": "中图网",
+            "price": "43.80元",
+            "link": "https://book.douban.com/link2/?lowest=3604&pre=0&vendor=bookschina&srcpage=subject&price=4380&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9040922.htm&cntvendor=5&srcsubj=36222138&type=bkbuy&subject=36222138"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36222138/",
+    "douban_id": "36222138",
+    "menu": [
+        "",
+        "        黑书\t001",
+        "        缺目\t015",
+        "        海淘\t038",
+        "        身份\t054",
+        "        未名\t070",
+        "        宝藏\t094",
+        "        鉴定\t113",
+        "        追毙\t126",
+        "        索隐\t148",
+        "        考据\t167",
+        "        座次\t189",
+        "        心病\t207",
+        "        烂尾\t221",
+        "        转行\t235",
+        "        替身\t254",
+        "        解读\t267",
+        "        奇遇\t280",
+        "        寻踪\t303",
+        "        觉迷\t319",
+        "        孤本\t335",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

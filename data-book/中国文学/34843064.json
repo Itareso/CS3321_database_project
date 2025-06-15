@@ -1,0 +1,100 @@
+{
+    "title": "万艳书1•一梦金",
+    "bookInfo": {
+        "作者": "伍倩",
+        "出版社": "江苏凤凰文艺出版社",
+        "出版年": "2019-9",
+        "定价": "88.00元",
+        "ISBN": "9787559438744"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.0%",
+        "four_star_rate": "40.2%",
+        "three_star_rate": "21.8%",
+        "two_star_rate": "4.6%",
+        "one_star_rate": "3.3%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "49.50元",
+            "link": "https://book.douban.com/link2/?lowest=2920&pre=0&vendor=jingdong&srcpage=subject&price=4950&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF8TVQ8DUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0ION18HTjUSdhJpaR9ABmJDVVw5CD4UZjJVdVlrPHwDChgeDCpAVAwJQA5PCBFCWCokcC1jSiZUbzJxBWJhEhg9ehF3YW58XThwLWJlDgwUfBMXeg1BfxtiFVxgNl81TjwVUTxoaA5CKX9UByoUdxdjXAtYYD1pI1FaFjc6CCMfZSRoQyx2CEN2PSI5cShwXxh8b08XKDZ4Hxs9AQtldQoMYS8UOnJbMAcWDghBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxaDkseBWg4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgQAAF4zVE1AQT0LWQ97XQcEVV1UCU4nAW4JGVklbTZhVQQbdk5ifg56Xw5OOUcDVjpdfUhyXjJmGSV0JwdcEh1ZaRxAYG5TTgFAbQUy&cntvendor=3&srcsubj=34843064&type=bkbuy&subject=34843064"
+        },
+        {
+            "name": "当当网",
+            "price": "83.60元",
+            "link": "https://book.douban.com/link2/?lowest=2920&pre=0&vendor=dangdang&srcpage=subject&price=8360&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34843064%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27943014&cntvendor=3&srcsubj=34843064&type=bkbuy&subject=34843064"
+        },
+        {
+            "name": "中图网",
+            "price": "29.20元",
+            "link": "https://book.douban.com/link2/?lowest=2920&pre=0&vendor=bookschina&srcpage=subject&price=2920&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8193594.htm&cntvendor=3&srcsubj=34843064&type=bkbuy&subject=34843064"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34843064/",
+    "douban_id": "34843064",
+    "menu": [
+        "",
+        "        目   录",
+        "        引 子   媚儿杀    0 0 1",
+        "        一      凤将雏    0 0 5",
+        "        二      入良夜    0 2 6",
+        "        三      簪缨散    0 3 4",
+        "        四      绁尘羁    0 4 1",
+        "        五      正迷津    0 4 9",
+        "        六      疑无路    0 6 2",
+        "        七      有缘孽    0 7 1",
+        "        八      豆蔻怀    1 0 5",
+        "        九      欢相持    1 1 6",
+        "        十      于此泣    1 4 2",
+        "        十 一   在歧道    1 5 9",
+        "        十 二   黑暗狱    1 7 1",
+        "        十 三   宿昔痕    1 8 4",
+        "        十 四   今朝意    2 0 9",
+        "        十 五   动四方    2 2 2",
+        "        十 六   惆怅客    2 3 2",
+        "        十 七   蝶恋花    2 4 1",
+        "        十 八   拣深枝    2 5 1",
+        "        十 九   难得久    2 5 9",
+        "        二 十   郎多情    2 8 1",
+        "        二十一  空离觞    2 9 6",
+        "        二十二  故旧回    3 3 8",
+        "        二十三  心恨谁    3 5 5",
+        "        二十四  两簌簌    3 6 6",
+        "        二十五  恕醉人    3 7 9",
+        "        二十六  何忍触    396",
+        "        二十七  哀玉箫    4 1 7",
+        "        二十八  独茕茕    4 2 7",
+        "        二十九  压星河    4 3 5",
+        "        三 十   残月出    4 4 8",
+        "        三十一  新妆落    4 6 0",
+        "        三十二  向不惑    4 7 3",
+        "        三十三  水云乡    4 7 8",
+        "        三十四  斜阳黯    4 8 6",
+        "        三十五  脂粉满    4 9 5",
+        "        三十六  恃浊酒    5 1 1",
+        "        三十七  惜盛时    5 2 2",
+        "        三十八  销永夕    5 3 5",
+        "        三十九  望苍极    5 5 3",
+        "        四 十   倚危阑    5 6 6",
+        "        四十一  委黄埃    5 8 7",
+        "        四十二  翻银海    6 0 3",
+        "        尾 声   春归犯    6 1 0",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33490812.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "伍倩",
+            "link": "https://book.douban.com/search/%E4%BC%8D%E5%80%A9"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        }
+    ],
+    "tag": "中国文学"
+}

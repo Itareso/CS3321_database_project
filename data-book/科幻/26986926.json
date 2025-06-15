@@ -1,0 +1,68 @@
+{
+    "title": "星际争霸",
+    "bookInfo": {
+        "作者": "刘慈欣",
+        "出版社": "现代出版社",
+        "副标题": "新版争霸战",
+        "出版年": "2017-4",
+        "页数": "315",
+        "定价": "39.80元",
+        "装帧": "平装",
+        "ISBN": "9787514345032"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "19.1%",
+        "four_star_rate": "33.1%",
+        "three_star_rate": "34.6%",
+        "two_star_rate": "7.4%",
+        "one_star_rate": "5.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561353/",
+            "name": "刘慈欣",
+            "role": "作者",
+            "douban_id": "4561353"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "27.40元",
+            "link": "https://book.douban.com/link2/?lowest=2610&pre=0&vendor=jingdong&srcpage=subject&price=2740&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV0VXwIAVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUl5fDEkWHDZNRwYlNll5DgktTx10Xj93Ex5rOVZ0IC4maEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYGVldUCkwXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCgZsCFgKQxgRUGhmG1sQWwIKXV1tCkoWAW04K2tiNnAEXT4Vbjx0fBNNRwxgIF1pJDcmfwp5AQh7cjBmW0MLI1pZfyByRhd7K1gl&cntvendor=2&srcsubj=26986926&type=bkbuy&subject=26986926"
+        },
+        {
+            "name": "中图网",
+            "price": "26.10元",
+            "link": "https://book.douban.com/link2/?lowest=2610&pre=0&vendor=bookschina&srcpage=subject&price=2610&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7447123.htm&cntvendor=2&srcsubj=26986926&type=bkbuy&subject=26986926"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26986926/",
+    "douban_id": "26986926",
+    "menu": [
+        "",
+        "        吞食者",
+        "        海水高山",
+        "        永恒之星",
+        "        拉多之星",
+        "        混沌的另一个尽头",
+        "        幽灵船",
+        "        稻草人",
+        "        轮盘上的小人",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29418410.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣",
+            "link": "https://book.douban.com/author/4561353/"
+        },
+        {
+            "text": "现代出版社",
+            "link": "https://book.douban.com/press/2659"
+        }
+    ],
+    "tag": "科幻"
+}

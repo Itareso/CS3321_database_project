@@ -1,0 +1,72 @@
+{
+    "title": "沙丘3",
+    "bookInfo": {
+        "作者": "[美] 弗兰克·赫伯特",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "读客文化",
+        "副标题": "沙丘之子",
+        "原作名": "Children of Dune",
+        "译者": "张建光",
+        "出版年": "2017-10",
+        "页数": "544",
+        "定价": "62.00元",
+        "装帧": "平装",
+        "丛书": "读客外国小说文库：《沙丘》系列",
+        "ISBN": "9787559411174"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    人类每次正视自己的渺小，都是自身的一次巨大进步。    ——————————    经过多年的生态变革，曾经荒芜的沙丘行星，已经草木葱茏。距离皇帝保罗•穆阿迪布消失在沙漠深处，也已过去了整整九年。他所经历的残酷权力斗争，却仍在继续。    保罗留下的一对双胞胎继承人——九岁的雷托和甘尼玛——继承了父亲的神力，被视为新一代的救世主。然而，这也让他们成为了各方势力争夺的对象。    在不断重复的命运面前，年幼的兄妹俩肩负的，是整个帝国的未来。    ——————————    ◆伟大的《沙丘》系列是科幻作家弗兰克•赫伯特的传奇代表作。    ◆每个“不可不读”的书单上都有《沙丘》！    ◆《沙丘》系列入选了美国图书电商“一生不可不读的100本书”、BBC“英国百大受欢迎图书”、美国国家公共电台“百大科幻•奇幻小说”等几乎每一个“不可不读”的书单；摘得《轨迹》杂志“20世纪科幻小说”桂冠，是同时获得雨果奖与星云奖的作品，科幻小说中的至高经典。    ◆《沙丘》系列风靡半个多世纪，总销量已突破1200万册，它催生了《星球大战》《阿凡达》等经典科幻电影！    ◆《沙丘3：沙丘之子》是伟大的《沙丘》系列第三部，也是《沙丘》三部曲的最终章。    ◆人类每次正视自己的渺小，都是自身的一次巨大进步。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "28.4%",
+        "four_star_rate": "43.5%",
+        "three_star_rate": "24.0%",
+        "two_star_rate": "3.5%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/946375/",
+            "name": "弗兰克·赫伯特",
+            "role": "作者",
+            "douban_id": "946375"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "30.00元",
+            "link": "https://book.douban.com/link2/?lowest=2210&pre=0&vendor=jingdong&srcpage=subject&price=3000&pos=1&url=https%3A%2F%2Fitem.jd.com%2F34381922800.html&cntvendor=2&srcsubj=27130074&type=bkbuy&subject=27130074"
+        },
+        {
+            "name": "中图网",
+            "price": "22.10元",
+            "link": "https://book.douban.com/link2/?lowest=2210&pre=0&vendor=bookschina&srcpage=subject&price=2210&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7613549.htm&cntvendor=2&srcsubj=27130074&type=bkbuy&subject=27130074"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27130074/",
+    "douban_id": "27130074",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29550760.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 弗兰克·赫伯特",
+            "link": "https://book.douban.com/author/946375"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "读客文化",
+            "link": "https://book.douban.com/producers/6"
+        },
+        {
+            "text": "张建光",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E5%BB%BA%E5%85%89"
+        },
+        {
+            "text": "读客外国小说文库：《沙丘》系列",
+            "link": "https://book.douban.com/series/38946"
+        }
+    ],
+    "tag": "科幻"
+}

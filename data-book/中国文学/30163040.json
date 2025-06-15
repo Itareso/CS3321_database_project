@@ -1,0 +1,69 @@
+{
+    "title": "空响炮",
+    "bookInfo": {
+        "作者": "王占黑",
+        "出版社": "上海文艺出版社",
+        "出版年": "2019-1",
+        "页数": "200",
+        "定价": "38.00",
+        "装帧": "平装",
+        "ISBN": "9787532165537"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "19.3%",
+        "four_star_rate": "49.3%",
+        "three_star_rate": "27.5%",
+        "two_star_rate": "2.9%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610471/",
+            "name": "王占黑",
+            "role": "作者",
+            "douban_id": "4610471"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "15.78元",
+            "link": "https://book.douban.com/link2/?lowest=1578&pre=0&vendor=jingdong&srcpage=subject&price=1578&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQIKVVxZAEsWM28JGl8cXA8KXFZVD0kSMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWB2YJElMdVQ4FVltCUQ5LXl8WSTpeQ2BfPDwVSE8NXzlycglvD3VEWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHl0TXAEyVl5cCU4XC2gLGmsVWwMDV19YCE4SCmsIK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggSWAECBgszVE1AQTMOWA97XQcEVl1ZAE8nAW4JGVklbTZKFz42ACsfXylMbxodFGdxVw4bTzhPfjxmGQ1MI0VVPzwATjtzditdTRwTbQUy&cntvendor=2&srcsubj=30163040&type=bkbuy&subject=30163040"
+        },
+        {
+            "name": "中图网",
+            "price": "18.60元",
+            "link": "https://book.douban.com/link2/?lowest=1578&pre=0&vendor=bookschina&srcpage=subject&price=1860&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8038263.htm&cntvendor=2&srcsubj=30163040&type=bkbuy&subject=30163040"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30163040/",
+    "douban_id": "30163040",
+    "menu": [
+        "",
+        "        01 空响炮",
+        "        02 麻将的故事",
+        "        03 美芬的故事",
+        "        04 怪脚刀的故事",
+        "        05 吴赌的故事",
+        "        06 偷桃换李记",
+        "        07 地藏的故事",
+        "        08 老菜皮的故事",
+        "        代跋：不成景观的景观",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29708843.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "王占黑",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E5%8D%A0%E9%BB%91"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        }
+    ],
+    "tag": "中国文学",
+    "avg_rate": 3.829
+}

@@ -1,0 +1,61 @@
+{
+    "title": "乳牙",
+    "bookInfo": {
+        "作者": "春树",
+        "出版社": "北京十月文艺出版社",
+        "出版年": "2019-8-15",
+        "页数": "369",
+        "定价": "45.00元",
+        "装帧": "精装",
+        "ISBN": "9787530218884"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "27.6%",
+        "four_star_rate": "34.0%",
+        "three_star_rate": "28.0%",
+        "two_star_rate": "8.4%",
+        "one_star_rate": "2.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/203139/",
+            "name": "春树",
+            "role": "作者",
+            "douban_id": "203139"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.16元",
+            "link": "https://book.douban.com/link2/?lowest=1660&pre=0&vendor=jingdong&srcpage=subject&price=2116&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF8cXA4AUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOAxw0W0N3BSwJTRtRVAECMgwjWg8XWGpPdVlRBX5AVg0CSEp0YDhKehxIARFCWCokcC1ucAhXbwRHBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZkSjwaDxtnRA1NXzkUOAMHICMmTDdnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVlYC0oSAG04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgQGVV0zVE1ARidDQRB7XQcKVV1fCk8nAW4JGVklbTZVFjcOACsRQG5eWx8cWgZkBiAPTEtMBihmGR9NJUQABwEdCSh0VC1pXAZJbQUy&cntvendor=3&srcsubj=30351730&type=bkbuy&subject=30351730"
+        },
+        {
+            "name": "当当网",
+            "price": "39.10元",
+            "link": "https://book.douban.com/link2/?lowest=1660&pre=0&vendor=dangdang&srcpage=subject&price=3910&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30351730%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27947332&cntvendor=3&srcsubj=30351730&type=bkbuy&subject=30351730"
+        },
+        {
+            "name": "中图网",
+            "price": "16.60元",
+            "link": "https://book.douban.com/link2/?lowest=1660&pre=0&vendor=bookschina&srcpage=subject&price=1660&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8183791.htm&cntvendor=3&srcsubj=30351730&type=bkbuy&subject=30351730"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30351730/",
+    "douban_id": "30351730",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33489872.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "春树",
+            "link": "https://book.douban.com/author/203139"
+        },
+        {
+            "text": "北京十月文艺出版社",
+            "link": "https://book.douban.com/press/2194"
+        }
+    ],
+    "tag": "中国文学",
+    "avg_rate": 3.768
+}

@@ -1,0 +1,61 @@
+{
+    "title": "胡雪岩全传 1",
+    "bookInfo": {
+        "作者": "高阳",
+        "出版社": "文汇出版社",
+        "出品方": "读客文化",
+        "原作名": "胡雪岩 (上)",
+        "出版年": "2018-5-1",
+        "页数": "388",
+        "定价": "59.9",
+        "装帧": "平装",
+        "丛书": "读客·高阳作品",
+        "ISBN": "9787549625444"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "57.3%",
+        "four_star_rate": "32.5%",
+        "three_star_rate": "9.6%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503316/",
+            "name": "高阳",
+            "role": "作者",
+            "douban_id": "4503316"
+        }
+    ],
+    "shops": [
+        {
+            "name": "中图网",
+            "price": "23.20元",
+            "link": "https://book.douban.com/link2/?lowest=2320&pre=0&vendor=bookschina&srcpage=subject&price=2320&pos=1&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7801308.htm&cntvendor=1&srcsubj=30224308&type=bkbuy&subject=30224308"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30224308/",
+    "douban_id": "30224308",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29770072.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "高阳",
+            "link": "https://book.douban.com/author/4503316"
+        },
+        {
+            "text": "文汇出版社",
+            "link": "https://book.douban.com/press/2585"
+        },
+        {
+            "text": "读客文化",
+            "link": "https://book.douban.com/producers/6"
+        },
+        {
+            "text": "读客·高阳作品",
+            "link": "https://book.douban.com/series/42210"
+        }
+    ],
+    "tag": "人物传记"
+}

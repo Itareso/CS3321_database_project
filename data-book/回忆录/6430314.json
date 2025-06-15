@@ -1,0 +1,56 @@
+{
+    "title": "一辈子的活法",
+    "bookInfo": {
+        "作者": "王蒙",
+        "出版社": "北京出版社",
+        "出品方": "时代光华",
+        "副标题": "王蒙的人生历练",
+        "出版年": "2011-6-1",
+        "页数": "369",
+        "定价": "39.80元",
+        "装帧": "平装",
+        "ISBN": "9787200087185"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.8%",
+        "four_star_rate": "39.4%",
+        "three_star_rate": "25.4%",
+        "two_star_rate": "7.0%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503032/",
+            "name": "王蒙",
+            "role": "作者",
+            "douban_id": "4503032"
+        }
+    ],
+    "shops": [
+        {
+            "name": "中图网",
+            "price": "17.30元",
+            "link": "https://book.douban.com/link2/?lowest=1730&pre=0&vendor=bookschina&srcpage=subject&price=1730&pos=1&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5169608.htm&cntvendor=1&srcsubj=6430314&type=bkbuy&subject=6430314"
+        }
+    ],
+    "url": "https://book.douban.com/subject/6430314/",
+    "douban_id": "6430314",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s6528874.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "王蒙",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E8%92%99"
+        },
+        {
+            "text": "北京出版社",
+            "link": "https://book.douban.com/press/2134"
+        },
+        {
+            "text": "时代光华",
+            "link": "https://book.douban.com/producers/282"
+        }
+    ],
+    "tag": "回忆录"
+}

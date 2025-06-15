@@ -1,0 +1,94 @@
+{
+    "title": "有书真好啊",
+    "bookInfo": {
+        "作者": "[日]宫崎骏",
+        "出版社": "南海出版公司",
+        "出品方": "爱心树童书",
+        "原作名": "本へのとびら――岩波少年文庫を語る",
+        "译者": "田秀娟",
+        "出版年": "2021-4",
+        "页数": "176",
+        "定价": "49.80元",
+        "装帧": "精装",
+        "ISBN": "9787544281249"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    宫崎骏选给孩子的50本书完整书单 & 阅读经验大公开！    宫崎骏70岁之际，花了3个月的时间，重读对其影响深远的儿童文学作品，从400多本书中慎重挑选出50本，一一写下推荐文，郑重地推荐给所有孩子和葆有童真的大人。    本书第I部分为宫崎骏选择、推荐的50本书；第II部分为宫崎骏围绕这50本书，讲述自己难忘的读书经历、独特的阅读体验、从阅读中汲取的动画灵感等，传达其对世界、对书籍和对孩子们的炽热情感。    ★ 吉卜力审核认定，中文简体版首次授权出版。    ★ 宫崎骏手绘封面画，纯美精装，值得珍藏。    ★ 这本书会告诉人们，读书是一件如此有趣的事情。    ★ 不管时代多么艰难，我都想给孩子们加油：能出生真好。《有书真好啊》正是送给孩子们最好的加油声。——日本亚马逊    ★ 为了重新来过，为了不失去自己，或者只是为了享受阅读，我都希望你能读完这本书。比起孩子，大人更应该看一看。如果对读书感到疲惫、迷茫，想重新站起来，这是非常重要的一本书。——日本Honto书店    ★ 如果这本书能成为你遇到“自己的一本书”的契机，我将不胜欣喜。——宫崎骏\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "26.3%",
+        "four_star_rate": "47.1%",
+        "three_star_rate": "23.9%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4530650/",
+            "name": "宫崎骏",
+            "role": "作者",
+            "douban_id": "4530650"
+        },
+        {
+            "link": "https://book.douban.com/author/4617305/",
+            "name": "田秀娟",
+            "role": "译者",
+            "douban_id": "4617305"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "25.10元",
+            "link": "https://book.douban.com/link2/?lowest=2510&pre=0&vendor=jingdong&srcpage=subject&price=2510&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFIWWAADXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOABs7SzV-SGwMQVkRNARJDi4rWz1oZj1RdVlUDW5HAh0OXU9yZjtNZRBdIxFCWCokcBhgWhhJbzJPBWJhEhgqahFzYW50XS1wLnRlDiIUawMWYQ1BcxthP1tyNhc1Tj1-Vh1_GjhCKX9UMyk-exdgARNuYD1pI1FaETUqfE5LYTBSQyx2CER1PS4_cTh8XBtSb08XKDZ9NVofUBR_AwoBeRhsWWJwJ1klTgBBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxdDU0XB2c4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggcWlIFU1YzVE1AQW5NXRB7XQcHV15VDkInAW4JGVklbTZWETgediJcAGtSGV98X01YJCgOfjRyUTZmGRpFNUNUFw0IDC5yVyp2UBNrbQUy&cntvendor=3&srcsubj=35390577&type=bkbuy&subject=35390577"
+        },
+        {
+            "name": "当当网",
+            "price": "49.80元",
+            "link": "https://book.douban.com/link2/?lowest=2510&pre=0&vendor=dangdang&srcpage=subject&price=4980&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35390577%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29221703&cntvendor=3&srcsubj=35390577&type=bkbuy&subject=35390577"
+        },
+        {
+            "name": "中图网",
+            "price": "32.40元",
+            "link": "https://book.douban.com/link2/?lowest=2510&pre=0&vendor=bookschina&srcpage=subject&price=3240&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8577407.htm&cntvendor=3&srcsubj=35390577&type=bkbuy&subject=35390577"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35390577/",
+    "douban_id": "35390577",
+    "menu": [
+        "",
+        "        I 岩波少年文库五十本",
+        "        II 重要的书，一本就好",
+        "        1 和“我的一本书”相遇",
+        "        我和书相遇之时",
+        "        五十本书",
+        "        两位敬爱的前辈",
+        "        在动画制作现场",
+        "        被画所吸引",
+        "        变得脆弱的“眼睛”",
+        "        一本就好的书",
+        "        2 三月十一日之后—在孩子的身边",
+        "        风起时，于风中",
+        "        给孩子们的加油声",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33864165.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]宫崎骏",
+            "link": "https://book.douban.com/search/%E5%AE%AB%E5%B4%8E%E9%AA%8F"
+        },
+        {
+            "text": "南海出版公司",
+            "link": "https://book.douban.com/press/2413"
+        },
+        {
+            "text": "爱心树童书",
+            "link": "https://book.douban.com/producers/5"
+        },
+        {
+            "text": "田秀娟",
+            "link": "https://book.douban.com/author/4617305"
+        }
+    ],
+    "tag": "随笔"
+}

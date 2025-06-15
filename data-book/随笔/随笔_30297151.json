@@ -1,0 +1,88 @@
+{
+    "title": "赫拉克勒斯之柱",
+    "bookInfo": {
+        "作者": "[美] 保罗·索鲁",
+        "出版社": "人民文学出版社",
+        "原作名": "The Pillars of Hercules",
+        "译者": "薛璞",
+        "出版年": "2020-3",
+        "页数": "648",
+        "定价": "99.00元",
+        "装帧": "精装",
+        "丛书": "远行译丛",
+        "ISBN": "9787020145119"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.7%",
+        "four_star_rate": "42.9%",
+        "three_star_rate": "15.6%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1085066/",
+            "name": "保罗·索鲁",
+            "role": "作者",
+            "douban_id": "1085066"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "99.00元",
+            "link": "https://book.douban.com/link2/?lowest=3270&pre=0&vendor=jingdong&srcpage=subject&price=9900&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12985715.html&cntvendor=2&srcsubj=30297151&type=bkbuy&subject=30297151"
+        },
+        {
+            "name": "中图网",
+            "price": "32.70元",
+            "link": "https://book.douban.com/link2/?lowest=3270&pre=0&vendor=bookschina&srcpage=subject&price=3270&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8297166.htm&cntvendor=2&srcsubj=30297151&type=bkbuy&subject=30297151"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30297151/",
+    "douban_id": "30297151",
+    "menu": [
+        "",
+        "        第一章 前往直布罗陀岩的缆车",
+        "        第二章 往阿利坎特的“地中海”号快车",
+        "        第三章 搭“欧罗巴角”号往马略卡岛",
+        "        第四章 乘“瓜达卢佩圣母”号快车往巴塞罗那及其北境",
+        "        第五章 乘“大南”号往尼斯",
+        "        第六章 乘“美丽岛”号往科西嘉岛",
+        "        第七章 搭“伊奇努萨”号往撒丁岛",
+        "        第八章 乘“托雷斯”号往西西里岛",
+        "        第九章 搭“维拉”号往卡拉布里亚",
+        "        第十章 搭“克罗迪亚”号由基奥贾出发",
+        "        第十一章 乘“利伯尼亚”号前往扎达尔",
+        "        第十二章 乘“威尼斯”号往阿尔巴尼亚",
+        "        第十三章 乘“海上精神”号往伊斯坦布尔",
+        "        第十四章 乘“白海”号游过黎凡特",
+        "        第十五章 七点二十分快车前往拉塔基亚",
+        "        第十六章 乘“海洋和谐”号往希腊",
+        "        第十七章 乘“劳德三世”号往克尔肯那群岛",
+        "        第十八章 乘“海峡”号抵达摩洛哥",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33556253.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 保罗·索鲁",
+            "link": "https://book.douban.com/author/1085066"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "薛璞",
+            "link": "https://book.douban.com/search/%E8%96%9B%E7%92%9E"
+        },
+        {
+            "text": "远行译丛",
+            "link": "https://book.douban.com/series/31697"
+        }
+    ],
+    "tag": "随笔"
+}

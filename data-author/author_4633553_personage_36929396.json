@@ -1,0 +1,48 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "当相爱的人住进一个房间",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34860828.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36883981/",
+                        "year": "2024",
+                        "id": 36883981
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.3,
+                        "title": "我想要两颗西柚",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33575866.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/34969995/",
+                        "year": "2020",
+                        "id": 34969995
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/4633553/",
+    "author_douban_id": "4633553",
+    "personage_id": 36929396,
+    "name": [
+        "胡辛束"
+    ],
+    "intro": "作家、自媒体人、百分之十Radio主播。92年出生于北京的巨蟹女孩，曾从事过自由插画师，广告文案等职业，目前是一名自媒体人。她说自己“不精通任何一个领域，只是热爱所有的可能性，并期待它们的发生”。代表作品《我想要两颗西柚》《当相爱的人住进一个房间》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/c2d32447a7ec6e4eb5047b742b90f4fd.jpg",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

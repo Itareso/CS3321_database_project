@@ -1,0 +1,99 @@
+{
+    "title": "如果没有书店",
+    "bookInfo": {
+        "作者": "绿茶",
+        "出版社": "上海三联书店",
+        "出品方": "理想国",
+        "副标题": "中国书迷打卡计划",
+        "出版年": "2021-4",
+        "页数": "524",
+        "定价": "128.00元",
+        "装帧": "精装",
+        "ISBN": "9787542673398"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    编辑推荐：    ★  云游中国，看见世界，“十大好书”常驻评委陪你“逛书店”——    北京的万圣书园，香港的序言书室，台北的旧香居……“Zui美书店行”泉州、福州、长沙、南昌、苏州、常州、西安，还有新加坡、大阪、阿姆斯特丹、法兰克福……华文好书榜、新浪好书榜、深圳读书月“十大好书”常驻评委绿茶，细选200多家书店，汇集10多年的“探店故事”，绘出爱书人的“理想星图”。打开“一册书店”，带着温度，治愈读者，致敬书店！        ★  记录我们这个时代，为消逝的书店留下“浓墨重彩”的一笔——    十年，在疫情、资本、消费、时间冲击之下，书店行业也经历着不同程度的摧残，多少深受喜爱的书店默默从地图上消失：从北京风入松书店，到三里屯的“老书虫”，再到居住社区的读易洞……绿茶的“书游记”故事，即手绘“画书店”系列，以其温暖的色调、别致的题记，在朋友圈迅速走红，被《人民日报·海外版》、“北京发布”等公号转载。    ★  23个城市+708幅彩图+14条彩蛋批注+1张北京书店行手绘地图，另有神秘惊喜——    理想国出品，“北京国际设计周”设计师艾藤加盟设计：“书籍除了阅读属性，还存在物品属性，乃至艺术品属性”—— 23个城市+708幅彩图+14条作者彩蛋批注+1张北京书店行手绘地图（B面为中国国家图书馆新馆），国内外200多家书店“一书打尽”，还有意外的神秘惊喜，纸质书才能体验到的“黑科技”……书尾特留2页读者笔记页，留下你自己的“书店行纪”，因为你的温度，会把这本书变得独一无二。    内容简介：        Hello！有趣的“灵魂”，摆渡的“驿站”，我的名字叫“书店”！    书店是城市的审美底色，沉淀着浓浓的书香和醇厚的思想。掠过书店的每一个身影，都存有迷人的身姿和动人的故事。    在作者绿茶心中，城市中Zui美的风景是书店。十多年来，他先后走访了中国大陆的北京、上海、苏州、杭州等十几个城市，包括台北、香港的书店，此外还足及阿姆斯特丹、法兰克福、大阪和新加坡等地的书店。    不同城市的每家书店都有其独特性，绿茶以其资深读者和书店观察者的视角，为这些书店留下精彩一笔，让我们从中体味书店之美和书香之味。    比如经典的“北京书店漫游之旅”，温馨梳理5条京城书店路线——从南锣书店到琉璃厂，从模范书局到彼岸书店，从参差书店到前流书店，从码字人书店到老书虫，从布衣书局到杂书馆……配有手绘，说走就走，每一家书店都有故事等你。    是谁传下这行业，黄昏里亮起一盏灯？    与“中国书迷”止庵、刘擎、李敬泽、韦力、梁文道、史航、恺蒂、许知远……一起打开这本书！\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "16.0%",
+        "four_star_rate": "31.4%",
+        "three_star_rate": "42.8%",
+        "two_star_rate": "8.2%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "76.80元",
+            "link": "https://read.douban.com/ebook/313755554/?dcs=subject-buylink&dcm=douban&dct=35390564"
+        },
+        {
+            "name": "得到",
+            "price": "76.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=YxRj1dbLGNgA2oaD6VBevmQZ7rnbYWmgmowkyOKRMzJpX9lP5dxqE41j8De2pmOP&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "74.33元",
+            "link": "https://book.douban.com/link2/?lowest=7433&pre=0&vendor=jingdong&srcpage=subject&price=7433&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQcJK1olVQIGVFdYCkseM28JGlgTWgQBVV1bCk8RMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWAGkPGVgUXgAAUFhCUQ5LXl9vHRgWOQ5jTj5daiJIADdSWh5qL3lEWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mG18QWQIHZFxdCUoSA2cPGFolXQAHVV1cDU8eC2kAHmsVVQIyjd7q3umF2vGCztOCbTYyV25tOEsnAF9WdVpGWwQDBwlaZhcRVC1PWFhdMwYDU1dUAE0RM20JGlkXbTYyPDweUC93fApVfAlRNHF0KjYvVhBoWSdedVkdXVFgNwYPURYXVG5wGgtNLTYBZA&cntvendor=3&srcsubj=35390564&type=bkbuy&subject=35390564"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35390564/",
+    "douban_id": "35390564",
+    "menu": [
+        "",
+        "        【序】",
+        "        书痴书游记（韦力）",
+        "        ",
+        "        北京书游记（路线一、路线二、路线三、路线四、路线五）",
+        "        天津书游记",
+        "        上海书游记",
+        "        杭州书游记",
+        "        温州书游记",
+        "        ",
+        "        【Zui美书店行（特辑）】",
+        "        泉州书游记",
+        "        福州书游记",
+        "        长沙书游记",
+        "        南昌书游记",
+        "        苏州、常州书游记（番外篇：姑苏书游记）",
+        "        洛阳书游记（存目）",
+        "        西安书游记",
+        "        ",
+        "        济南书游记",
+        "        青岛书游记",
+        "        成都书游记",
+        "        郑州书游记",
+        "        桂林书游记",
+        "        香港书游记",
+        "        台北书游记（上、中、下）",
+        "        新加坡书游记（番外篇：郁达夫的新加坡往事）",
+        "        大阪书游记",
+        "        阿姆斯特丹书游记",
+        "        法兰克福书游记",
+        "        ",
+        "        【附录】",
+        "        打开书店的八种方式",
+        "        我在书店当店员的日子",
+        "        ",
+        "        【后记】",
+        "        如果没有书店……",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33846468.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "绿茶",
+            "link": "https://book.douban.com/search/%E7%BB%BF%E8%8C%B6"
+        },
+        {
+            "text": "上海三联书店",
+            "link": "https://book.douban.com/press/2723"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        }
+    ],
+    "tag": "随笔"
+}

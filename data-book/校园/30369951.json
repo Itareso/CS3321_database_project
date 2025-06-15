@@ -1,0 +1,40 @@
+{
+    "title": "鱼缸世界",
+    "bookInfo": {
+        "出版社": "金城出版社",
+        "副标题": "世界是一个鱼缸，我们都是鱼缸里的金鱼",
+        "原作名": "江良骏",
+        "出版年": "2018-9",
+        "页数": "228",
+        "定价": "28.00元",
+        "装帧": "平装",
+        "ISBN": "9787515517148"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": null,
+        "four_star_rate": null,
+        "three_star_rate": null,
+        "two_star_rate": null,
+        "one_star_rate": null
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "12.60元",
+            "link": "https://book.douban.com/link2/?lowest=1260&pre=0&vendor=jingdong&srcpage=subject&price=1260&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQIKVVxZAEsWM28JGlgdWwMGVlhfC00UMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWAGcOHl8XWwQBUl1CUQ5LXl9DTylLQ31iVTskTAgRfBNrEhprVHJEWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHl0TXAEyVl5cCU4XC2gLGmsVWwMDUVZdAU4TBW0OK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggQCgEAUw0zVE1NWClXHAR7Xg4GU1ldDkgnAW4JGVklbTZ3KQAWaCtpazsMYgZoKnxdNQMuQx5DdyRmGShqXHteHwMOXA9LaydgaSZlbQUy&cntvendor=1&srcsubj=30369951&type=bkbuy&subject=30369951"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30369951/",
+    "douban_id": "30369951",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29914105.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "金城出版社",
+            "link": "https://book.douban.com/press/2383"
+        }
+    ],
+    "tag": "校园"
+}

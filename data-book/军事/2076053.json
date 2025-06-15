@@ -1,0 +1,43 @@
+{
+    "title": "我的特种生涯",
+    "bookInfo": {
+        "作者": "猎鹰",
+        "出版社": "东方出版社",
+        "出版年": "2007-1",
+        "页数": "238",
+        "定价": "26.00元",
+        "ISBN": "9787506022880"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "53.9%",
+        "four_star_rate": "33.2%",
+        "three_star_rate": "10.5%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1347834/",
+            "name": "猎鹰",
+            "role": "作者",
+            "douban_id": "1347834"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/2076053/",
+    "douban_id": "2076053",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s8898931.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "猎鹰",
+            "link": "https://book.douban.com/search/%E7%8C%8E%E9%B9%B0"
+        },
+        {
+            "text": "东方出版社",
+            "link": "https://book.douban.com/press/2731"
+        }
+    ],
+    "tag": "军事"
+}

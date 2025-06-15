@@ -1,0 +1,92 @@
+{
+    "title": "唯有书籍",
+    "bookInfo": {
+        "作者": "[英] 汤姆·摩尔",
+        "出版社": "上海文化出版社",
+        "出品方": "未读·文艺家 / 未读",
+        "副标题": "读书、藏书及与书有关的一切",
+        "原作名": "The Secret Life of Books",
+        "译者": "李倩",
+        "出版年": "2023-4",
+        "页数": "248",
+        "定价": "68",
+        "装帧": "精装",
+        "ISBN": "9787553526980"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    读书的人会消失，但书籍将带着记忆永存。    书签、藏书票、书籍装帧；二手书、私人藏书、特装书、被遗弃的书；图书馆、书店、书展、读书俱乐部……    作为一件物品出现时，书远不仅是承载内容这么简单。我们与书相遇，衍生出一系列故事。从古老的莎草纸到如今的电子阅读器，从书的纸张、气味到 书承载的记忆与情感，英国皇家历史学会会员、资深书虫汤姆·摩尔讲述了与书有关的一切。时至今日，书籍依然有能力改变我们的生活。    ——    【编辑推荐】    📚爱书之人不可错过的真正宝藏，关于读书、藏书及与书有关的一切，以全新视角讲述书籍的历史与未来。    📚古往今来作家、藏书家及普通读者的故事，讲述人与书的相遇：二手书里夹带的奇怪物品，18世纪年轻女性组建的秘密读书俱乐部，济慈临终前用来传达爱意的书，无数故事见证人与书的奇妙互动。    📚听最懂书的学霸教授闲聊专业，一本书就是一堂名校公开课：汤姆·摩尔作为英国皇家历史学会会员，曾任教于多所世界名校，他将深厚学识付诸文字，旁征博引，如数家珍。    📚拒绝掉书袋，密集知识点+播客式轻松阅读：8大主题，8场精彩输出，当下出版热词+专业知识+行业内八卦，有趣长知识。    📚英国作家、出版人、资深书虫挚爱推荐：《唯有书籍》改变了我看待一本书的方式（英国著名科幻作家乔恩·科特纳·格里姆伍德语）。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "25.4%",
+        "four_star_rate": "51.6%",
+        "three_star_rate": "19.2%",
+        "two_star_rate": "3.2%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "34.99元",
+            "link": "https://read.douban.com/ebook/457843885/?dcs=subject-buylink&dcm=douban&dct=36318087"
+        },
+        {
+            "name": "得到",
+            "price": "61.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=VEDA2bKO27MKbRardAGJ1N4ln9BLVwgEjBAW8ZQyXmYqg5PpkEjxovze6DB84dpj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "34.00元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=jingdong&srcpage=subject&price=3400&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVwTXQMBUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1hdDUgTHDZNRwYlO29YChs8SRN3ARFVYzxLGk0LMRgCTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAXFtVAUgWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGA8WCgdsCFgKShMXCypmG1oTWwEBXFltCkoWAW04K2txI2BBVzs8CkJgYRsMHTtzVEVYL10Eej15AW4ARiUTHnFRXR4dbDVQShd4K1gl&cntvendor=5&srcsubj=36318087&type=bkbuy&subject=36318087"
+        },
+        {
+            "name": "当当网",
+            "price": "65.30元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=dangdang&srcpage=subject&price=6530&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36318087%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29551055&cntvendor=5&srcsubj=36318087&type=bkbuy&subject=36318087"
+        },
+        {
+            "name": "中图网",
+            "price": "43.20元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=bookschina&srcpage=subject&price=4320&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9072084.htm&cntvendor=5&srcsubj=36318087&type=bkbuy&subject=36318087"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36318087/",
+    "douban_id": "36318087",
+    "menu": [
+        "",
+        "        ① 书∕书：人之于书与书之于人",
+        "        ② 书∕物：书作为物品如何与其他事物互相影响",
+        "        ③ 书∕自我：书如何塑造我们的身份，并向他人彰显这种身份",
+        "        ④ 书∕关系：书如何建立我们与他人的关系",
+        "        ⑤ 书∕人生：从童年到暮年（乃至死后），书如何与我们的人生交织在一起",
+        "        ⑥ 书∕世界：书如何塑 造文化机构、社会和国家",
+        "        ⑦ 书∕科技：书如何应对科技变化",
+        "        ⑧ 书∕未来：书的变化会带来哪些改变？",
+        "        尾声：书∕结语",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34471974.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 汤姆·摩尔",
+            "link": "https://book.douban.com/search/%E6%B1%A4%E5%A7%86%C2%B7%E6%91%A9%E5%B0%94"
+        },
+        {
+            "text": "上海文化出版社",
+            "link": "https://book.douban.com/press/2389"
+        },
+        {
+            "text": "未读·文艺家",
+            "link": "https://book.douban.com/producers/166"
+        },
+        {
+            "text": "未读",
+            "link": "https://book.douban.com/producers/22"
+        },
+        {
+            "text": "李倩",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E5%80%A9"
+        }
+    ],
+    "tag": "随笔"
+}

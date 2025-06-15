@@ -1,0 +1,102 @@
+{
+    "title": "源代码",
+    "bookInfo": {
+        "作者": "[美] 比尔·盖茨",
+        "出版社": "中信出版社",
+        "副标题": "比尔·盖茨首部自传",
+        "原作名": "Source Code: My Beginnings",
+        "译者": "鲁伊",
+        "出版年": "2025-1",
+        "页数": "344",
+        "定价": "79.00元",
+        "装帧": "平装",
+        "ISBN": "9787521768770"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    比尔·盖茨是当代富有影响力、引领变革的商业领袖和慈善家。这本书讲述的便是他的成长故事。    比尔·盖茨在商业领域创造的辉煌早已广为人知。20岁的他离开哈佛大学，创办了一家日后成为行业巨头的软件公司，改变了整个世界的工作与生活方式。这位亿万富翁随即将注意力转向慈善事业，致力于应对气候变化、全球健康和美国教育领域的重重挑战。    这本书并不是比尔·盖茨对微软公司光辉岁月的追忆，也无关盖茨基金会的诞生或技术的未来。这是一个传递着人性温度的个人故事，你将从中看到比尔·盖茨如何成长为今天的他，了解他在童年及青少年时期的激情与志向。    出现在这个故事中的，有他严于律己的外祖母和胸怀大志的父母，有他最初的深厚友情和挚友的遽然离世，有他试图融入周遭社会的苦苦挣扎，有他在一个新时代即将到来时对代码和计算机世界的奇妙发现，也有他从少年时便开始的对人生之路的探索与追寻。走在这条路上的他，曾经半夜三更溜出家门，跑到附近的计算机中心，后来，在大学宿舍里，他引燃了即将改变世界的科技革命的导火线。    在这本书中，比尔·盖茨第一次以充满智慧和温情的笔触，坦率地将自己的故事和盘托出，将其精彩绝伦的生活淋漓尽致地展现在了读者眼前。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "69.6%",
+        "four_star_rate": "16.5%",
+        "three_star_rate": "11.4%",
+        "two_star_rate": "2.5%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4625331/",
+            "name": "比尔·盖茨",
+            "role": "作者",
+            "douban_id": "4625331"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "59.00元",
+            "link": "https://book.douban.com/link2/?lowest=5900&pre=0&vendor=jingdong&srcpage=subject&price=5900&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHlMWVQ4DVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHXF1VAEoWHDZNRwYlFV1nCSYHSTl0fmhNSyFJAF99XF4JaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UWA4KVVlaCEgRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGA8UVABsCFgHVk1DWmtmGVoXXQMKUV9tCkoWAW04K2t0JQVRXD4Dc0NKZDVDRz4WJkECNj5Zehh5ARtrayMSDmdRXAYFaTUQZB96K1gl&cntvendor=3&srcsubj=37212965&type=bkbuy&subject=37212965"
+        },
+        {
+            "name": "当当网",
+            "price": "59.00元",
+            "link": "https://book.douban.com/link2/?lowest=5900&pre=1&vendor=dangdang&srcpage=subject&price=5900&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s37212965%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29842454&cntvendor=3&srcsubj=37212965&type=bkbuy&subject=37212965"
+        },
+        {
+            "name": "中图网",
+            "price": "60.20元",
+            "link": "https://book.douban.com/link2/?lowest=5900&pre=0&vendor=bookschina&srcpage=subject&price=6020&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9498429.htm&cntvendor=3&srcsubj=37212965&type=bkbuy&subject=37212965"
+        }
+    ],
+    "url": "https://book.douban.com/subject/37212965/",
+    "douban_id": "37212965",
+    "menu": [
+        "",
+        "        序章",
+        "        第一章 老三",
+        "        玩纸牌教会我：无论某些事情看起来多复杂、多神秘，我们通常都能最终琢磨出个究竟。",
+        "        第二章 观景岭",
+        "        在那个可塑性极强的年纪，1962年，我接收到的信息十分明确：我们要探索太空、终结疾病，要让旅行变得更便捷。",
+        "        第三章 理性的",
+        "        桥梁、纸牌游戏、人体器官或其他复杂的问题都有答案可寻，我只要动脑筋寻找答案，就有可能找到。",
+        "        第四章 幸运儿",
+        "        克雷西博士建议，与其浪费精力跟父母对着干，不如更多地专注于获取那些将来踏入社会时能用得上的技能。",
+        "        第五章 湖滨中学",
+        "        保罗的激将法让我全身心地投入了问题的解决，我下定决心，一定要成为第一个写出更复杂程序的人。",
+        "        第六章 自由时间",
+        "        倘若没有那段幸运的免费上机时间——我最初的500个小时，那么接下来的9500个小时或许根本就不会存在。",
+        "        第七章 只是一帮小屁孩",
+        "        我在湖滨中学的老师赋予我一种不同的视角：质疑你所知道的、你信以为真的东西，这个世界就是如此进步的。",
+        "        第八章 玩真的",
+        "        微处理器的发明将成为我职业生涯中意义最重大的事件，没有之一。没有它，微软公司不会存在。",
+        "        第九章 一部戏和五个9",
+        "        诺顿将我引入了一个全新的层面，在他的严格督导下，我不仅学到了如何编写更好的代码，还习得了关于自我认知的重要一课。",
+        "        第十章 不知天高地厚",
+        "        如今在哈佛这个大池子里，我意识到尽管自己有点儿天赋，但有人远比我厉害。",
+        "        第十一章 百搭卡",
+        "        伴随着这行代码的出现，为第一台个人计算机编写的第一个软件就此诞生。",
+        "        第十二章 堂堂正正",
+        "        关于我使用艾肯实验室的这起争端，其根源在于计算机的定位直到那时都是一种稀缺的、受保护的资源。",
+        "        第十三章 微软",
+        "        个人计算机的未来取决于能否编写出优质的软件。",
+        "        第十四章 源代码",
+        "        为什么不能在追求它的过程中每周工作80个小时呢？是的，这让人精疲力竭，但也让人斗志昂扬。",
+        "        尾声",
+        "        致谢",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s35075224.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 比尔·盖茨",
+            "link": "https://book.douban.com/author/4625331"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "鲁伊",
+            "link": "https://book.douban.com/search/%E9%B2%81%E4%BC%8A"
+        }
+    ],
+    "tag": "人物传记"
+}

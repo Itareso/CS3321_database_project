@@ -1,0 +1,83 @@
+{
+    "title": "洛克菲勒自传:2018新版",
+    "bookInfo": {
+        "作者": "约翰.D.洛克菲勒",
+        "出版社": "中国友谊出版公司",
+        "出品方": "创美工厂",
+        "译者": "亦言",
+        "出版年": "2018-1",
+        "页数": "232",
+        "定价": "48",
+        "装帧": "精装",
+        "ISBN": "9787505741096"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "44.7%",
+        "four_star_rate": "32.9%",
+        "three_star_rate": "19.7%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "1.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/302652/",
+            "name": "约翰·D·洛克菲勒",
+            "role": "作者",
+            "douban_id": "302652"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=jingdong&srcpage=subject&price=2400&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFgcWQ4CUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOLywFUjsSBzBzXVMWAlFdJCcLWz5saz1MdVluJ2RwBwRYaTBFURR6ZitOKxFCWCokcChucBxXbyJxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYFLTtZYS9JWQ9YbQ9tC09lLz04Sx5nD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcHXFpbDUwXAG04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggcWlIFUw4zVE1NX2YBWh17Xg4LV1lcAUknAW4JGVklbTZ5JgYHeE4TXBROE1hKCllyLQgOfTB_UStmGSBvP3RRDls8cxlFeB11awBjbQUy&cntvendor=3&srcsubj=30288161&type=bkbuy&subject=30288161"
+        },
+        {
+            "name": "当当网",
+            "price": "43.20元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=dangdang&srcpage=subject&price=4320&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30288161%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25221185&cntvendor=3&srcsubj=30288161&type=bkbuy&subject=30288161"
+        },
+        {
+            "name": "中图网",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=bookschina&srcpage=subject&price=2450&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7688587.htm&cntvendor=3&srcsubj=30288161&type=bkbuy&subject=30288161"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30288161/",
+    "douban_id": "30288161",
+    "menu": [
+        "",
+        "        引 言/01",
+        "        第一章 旧朋老友/001",
+        "        第二章 获取财富是困难的技艺/017",
+        "        第三章 标准石油公司/029",
+        "        第四章 石油行业的经历/043",
+        "        第五章 其他的商业经历和商业原则/067",
+        "        第六章 赠予的艺术/081",
+        "        第七章 慈善托拉斯：赠予合作原则的价值/097",
+        "        附 录 洛克菲勒信札/113",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29833298.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "约翰.D.洛克菲勒",
+            "link": "https://book.douban.com/search/%E7%BA%A6%E7%BF%B0.D.%E6%B4%9B%E5%85%8B%E8%8F%B2%E5%8B%92"
+        },
+        {
+            "text": "中国友谊出版公司",
+            "link": "https://book.douban.com/press/2416"
+        },
+        {
+            "text": "创美工厂",
+            "link": "https://book.douban.com/producers/152"
+        },
+        {
+            "text": "亦言",
+            "link": "https://book.douban.com/search/%E4%BA%A6%E8%A8%80"
+        }
+    ],
+    "tag": "人物传记"
+}

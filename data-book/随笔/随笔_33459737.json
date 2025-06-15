@@ -1,0 +1,111 @@
+{
+    "title": "书店日记",
+    "bookInfo": {
+        "作者": "[英] 肖恩·白塞尔",
+        "出版社": "广西师范大学出版社",
+        "出品方": "理想国",
+        "原作名": "The Diary of a Bookseller",
+        "译者": "顾真",
+        "出版年": "2019-9",
+        "页数": "420",
+        "定价": "79.00元",
+        "装帧": "精装",
+        "丛书": "书店日记系列",
+        "ISBN": "9787559817815"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    “书店老板多半缺乏耐心、偏执、厌恶交际。”    “上门来的许多人不管跑到哪里都是讨人厌的那一类，只不过书店给了他们特别的机会表现。”    “我们有书，你有钱。交换吧。”    .    ★英国超人气二手书店毒舌店主的吐槽日记，冷幽默外壳之下的书业生存实录——2017年英国书市黑马，《卫报》 《独立报》《书商》《出版人周刊》《芝加哥论坛》等权威媒体报道推荐。    ★“别说蠢话，否则他会发到脸书上”——和形形色色的奇葩顾客打交道，忍受无视老板的古怪店员，应付朝不保夕的资金状况，每周开数百英里收购旧书，经常被客人惹毛只能上脸书吐槽……《书店日记》记录了在亚马逊等电商冲击之下挣扎维生的书业日常。“开一家书店，你需要一个圣人的耐心”，从中得来的素材“写本书绰绰有余”！    ★“警告：本店有书！”——肖恩是书店老板中的异类，《书店日记》是对许多人眼中田园诗般文艺生活的阴郁而有趣的描述。本书不含鸡汤，不承诺疗愈，但绝对走心。肖恩让人相信，没有什么困境是英国人的幽默无法化解的。他也会冷不防收起冷面段子手的人设，让你看看他围绕着“书店”和威格敦图书节建立的世界，和书籍流转中五味杂陈的人生。    ★封面采用入选2018年“英国最美书”的原版插图设计 + 烫金店招，内封为作者授权书店内景图，并特别订制潘通色“书店暖黄”书签带与环衬页。另有肖恩同款“书店日记”精美手账（理想国自营“有赞”随书售卖），128p裸脊锁线装订，写出属于你自己的个性日志。    .    内容简介：    18岁的时候，肖恩•白塞尔第一次在苏格兰小镇威格敦看到那家名叫“书店”（The Book Shop）的书店。他和朋友散步路过，看到堆满书籍的橱窗，对朋友说：“这家店到年底一定倒闭。”    十三年后，2001年，肖恩买下了这家书店。    起初，肖恩对于如何经营书店一无所知。经过十多年的辛勤工作，如今的“书店”已成为苏格兰最大的二手书书店。肖恩与朋友们每年秋天在当地组织图书节，而这座小镇也成为远近闻名的“书城”。    除了肖恩，陪伴在书店的有一只名叫“船长”的黑猫，还有那位每天迟到、在便利店的垃圾箱捡甜点、成天穿着滑雪服的古怪店员妮基，以及丢下NASA职位，从洛杉矶来到苏格兰小镇陪伴他的作家女友。    肖恩周游各地收购旧书、寻找珍本，请教上一个时代硕果仅存的书林前辈，管理个性奇特的店员，与令人尴尬的奇葩客人打交道，也和忠诚的顾客维系着悠长而牢固的纽带。但他最爱的，还是乔治•奥威尔写于1936年的《书店回忆》。在这个电商平台和网络购物席卷全球、改变书业生态的年代，二手书商的世界并非一曲田园牧歌，但我们依然可以在他满屏犀利的毒舌中汲取慰藉心灵的养分。因为每一册旧书都独一无二，藏着一段或几段隐秘的历史，它们在肖恩的“书店”汇集，然后彼此分散，到别的地方，给别的人带来喜悦，激发别的热情。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "25.0%",
+        "four_star_rate": "50.2%",
+        "three_star_rate": "21.7%",
+        "two_star_rate": "2.6%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610856/",
+            "name": "肖恩·白塞尔",
+            "role": "作者",
+            "douban_id": "4610856"
+        },
+        {
+            "link": "https://book.douban.com/author/4613342/",
+            "name": "顾真",
+            "role": "译者",
+            "douban_id": "4613342"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "49.90元",
+            "link": "https://read.douban.com/ebook/409038977/?dcs=subject-buylink&dcm=douban&dct=33459737"
+        },
+        {
+            "name": "得到",
+            "price": "47.40元",
+            "link": "https://www.dedao.cn/ebook/detail?id=N4yqKRVn1jAJaMyOQ2YorRp6DvXm7wemEKwGBKLzkPq5gdxEV98eNbZl467ovjzg&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "41.08元",
+            "link": "https://book.douban.com/link2/?lowest=4108&pre=0&vendor=jingdong&srcpage=subject&price=4108&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwdXQ4EUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU1ZdAE0SHDZNRwYlKHNDLD0qbAlyeGxJaUVnOkdZXDcuaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UXgcBVV9YD0kUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHg8UX1ZsCFgKSxlFUSlmG1oRVAEFUVxtCkoWAW04K2tPDnxhC1cLCRxjVzdKYQh9OXZcJyc5WAl5AWYMfAgXPmdCAy0uUhhUARthK1gl&cntvendor=5&srcsubj=33459737&type=bkbuy&subject=33459737"
+        },
+        {
+            "name": "当当网",
+            "price": "47.40元",
+            "link": "https://book.douban.com/link2/?lowest=4108&pre=0&vendor=dangdang&srcpage=subject&price=4740&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s33459737%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27920774&cntvendor=5&srcsubj=33459737&type=bkbuy&subject=33459737"
+        },
+        {
+            "name": "中图网",
+            "price": "53.90元",
+            "link": "https://book.douban.com/link2/?lowest=4108&pre=0&vendor=bookschina&srcpage=subject&price=5390&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8170133.htm&cntvendor=5&srcsubj=33459737&type=bkbuy&subject=33459737"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33459737/",
+    "douban_id": "33459737",
+    "menu": [
+        "",
+        "        二月     001",
+        "        三月    045",
+        "        四月    083",
+        "        五月    117",
+        "        六月    149",
+        "        七月    183",
+        "        八月    213",
+        "        九月    245",
+        "        十月    281",
+        "        十一月  317",
+        "        十二月  343",
+        "        一月    369",
+        "        二月    401",
+        "        尾声    407",
+        "        译后记  409",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33441355.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 肖恩·白塞尔",
+            "link": "https://book.douban.com/search/%E8%82%96%E6%81%A9%C2%B7%E7%99%BD%E5%A1%9E%E5%B0%94"
+        },
+        {
+            "text": "广西师范大学出版社",
+            "link": "https://book.douban.com/press/2476"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        },
+        {
+            "text": "顾真",
+            "link": "https://book.douban.com/author/4613342"
+        },
+        {
+            "text": "书店日记系列",
+            "link": "https://book.douban.com/series/59424"
+        }
+    ],
+    "tag": "随笔"
+}

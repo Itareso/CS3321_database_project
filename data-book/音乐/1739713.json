@@ -1,0 +1,65 @@
+{
+    "title": "音乐心理学手册",
+    "bookInfo": {
+        "作者": "[美] 多纳德·霍杰斯 主编",
+        "出版社": "湖南文艺出版社",
+        "原作名": "Handbook of Music Psychology",
+        "译者": "刘沛 / 任恺",
+        "出版年": "2006-01",
+        "页数": "596",
+        "定价": "64.00元",
+        "装帧": "平装",
+        "丛书": "20世纪西方音乐学名著译丛",
+        "ISBN": "9787540436209"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.5%",
+        "four_star_rate": "44.9%",
+        "three_star_rate": "22.4%",
+        "two_star_rate": "6.1%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1230883/",
+            "name": "多纳德·霍杰斯",
+            "role": "作者",
+            "douban_id": "1230883"
+        },
+        {
+            "link": "https://book.douban.com/author/141170/",
+            "name": "刘沛",
+            "role": "译者",
+            "douban_id": "141170"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1739713/",
+    "douban_id": "1739713",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s1534147.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 多纳德·霍杰斯 主编",
+            "link": "https://book.douban.com/search/%E5%A4%9A%E7%BA%B3%E5%BE%B7%C2%B7%E9%9C%8D%E6%9D%B0%E6%96%AF%20%E4%B8%BB%E7%BC%96"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        },
+        {
+            "text": "刘沛",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%B2%9B"
+        },
+        {
+            "text": "任恺",
+            "link": "https://book.douban.com/search/%E4%BB%BB%E6%81%BA"
+        },
+        {
+            "text": "20世纪西方音乐学名著译丛",
+            "link": "https://book.douban.com/series/8549"
+        }
+    ],
+    "tag": "音乐"
+}

@@ -1,0 +1,76 @@
+{
+    "title": "星海旅人",
+    "bookInfo": {
+        "作者": "阿缺",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "出版年": "2019-11",
+        "页数": "384",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "丛书": "科幻世界·中国科幻基石丛书",
+        "ISBN": "9787536495876"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.2%",
+        "four_star_rate": "32.7%",
+        "three_star_rate": "26.1%",
+        "two_star_rate": "8.2%",
+        "one_star_rate": "2.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609509/",
+            "name": "阿缺",
+            "role": "作者",
+            "douban_id": "4609509"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=jingdong&srcpage=subject&price=2400&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF0SWwMDVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOMl4LQEN3Qyt6YC1vFgZ7HTgWdzF2Xh1edVllP14CKhY8aTlOWgkIXR9nGBFCWCokcC9jWhRIbzJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ-IjgVeB1JewpBAS9qJQdFDQoqYEhnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVCEwRCmo4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXlIKAQszVE1BAipcEgN7XQYEXV5UDEMnAW4JGVklbTZkVAgVACtXRx1zbSFeXX9LMhUicipKcTlmGSt3BQZ8HD88ehJOZW9OXylQbQUy&cntvendor=2&srcsubj=34840165&type=bkbuy&subject=34840165"
+        },
+        {
+            "name": "当当网",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=dangdang&srcpage=subject&price=4800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34840165%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28492914&cntvendor=2&srcsubj=34840165&type=bkbuy&subject=34840165"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34840165/",
+    "douban_id": "34840165",
+    "menu": [
+        "",
+        "        少年往事   1",
+        "        落雨之城   55",
+        "        洛城故人   123",
+        "        红虫   197",
+        "        星葬   281",
+        "        我讲我奶奶的故事   327",
+        "        后记   373",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33520534.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "阿缺",
+            "link": "https://book.douban.com/search/%E9%98%BF%E7%BC%BA"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "科幻世界·中国科幻基石丛书",
+            "link": "https://book.douban.com/series/38"
+        }
+    ],
+    "tag": "科幻"
+}

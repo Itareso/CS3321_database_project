@@ -1,0 +1,48 @@
+{
+    "title": "腐败史",
+    "bookInfo": {
+        "作者": "伊曼纽尔‧克雷克",
+        "出版社": "中国方正出版社",
+        "出版年": "2016-10-1",
+        "页数": "749",
+        "定价": "CNY 78.00",
+        "装帧": "平装",
+        "丛书": "腐败与历史译丛",
+        "ISBN": "9787517403524"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": null,
+        "four_star_rate": null,
+        "three_star_rate": null,
+        "two_star_rate": null,
+        "one_star_rate": null
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "52.00元",
+            "link": "https://book.douban.com/link2/?lowest=5200&pre=0&vendor=jingdong&srcpage=subject&price=5200&pos=1&url=https%3A%2F%2Fitem.jd.com%2F66714513185.html&cntvendor=1&srcsubj=26926949&type=bkbuy&subject=26926949"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26926949/",
+    "douban_id": "26926949",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29191264.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "伊曼纽尔‧克雷克",
+            "link": "https://book.douban.com/search/%E4%BC%8A%E6%9B%BC%E7%BA%BD%E5%B0%94%E2%80%A7%E5%85%8B%E9%9B%B7%E5%85%8B"
+        },
+        {
+            "text": "中国方正出版社",
+            "link": "https://book.douban.com/press/2524"
+        },
+        {
+            "text": "腐败与历史译丛",
+            "link": "https://book.douban.com/series/36094"
+        }
+    ],
+    "tag": "政治学"
+}

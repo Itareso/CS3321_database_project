@@ -1,0 +1,71 @@
+{
+    "title": "微纪元",
+    "bookInfo": {
+        "作者": "刘慈欣 原著 / [法]科琳娜·贝尔特兰德 主编 / 刘玮",
+        "出版社": "中信出版集团",
+        "出品方": "漫传奇 / 漫传奇文化",
+        "副标题": "刘慈欣科幻漫画系列第3辑",
+        "出版年": "2021-11",
+        "页数": "80",
+        "定价": "78.00元",
+        "装帧": "平装",
+        "丛书": "刘慈欣科幻漫画系列",
+        "ISBN": "9787521735383"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.7%",
+        "four_star_rate": "47.0%",
+        "three_star_rate": "22.8%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=4200&pre=0&vendor=jingdong&srcpage=subject&price=4200&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV4QXQYGXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUVtdCE8eHDZNRwYlOFkHUwYqcUh1ax1Oe19MVEJnLy07XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYGUFZdC0IfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1kRCAFsCFgKQxxMRCZmG1sQXwMAVV5tCkoWAW04K2tMHFhAJFsPSiwUUA1DcyJuAHVFDikCWhh5ASpAbBpoHwRUMzg7UQpIUTJ_K1gl&cntvendor=2&srcsubj=35596033&type=bkbuy&subject=35596033"
+        },
+        {
+            "name": "中图网",
+            "price": "48.60元",
+            "link": "https://book.douban.com/link2/?lowest=4200&pre=0&vendor=bookschina&srcpage=subject&price=4860&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8714075.htm&cntvendor=2&srcsubj=35596033&type=bkbuy&subject=35596033"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35596033/",
+    "douban_id": "35596033",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34342443.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣 原著",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3%20%E5%8E%9F%E8%91%97"
+        },
+        {
+            "text": "[法]科琳娜·贝尔特兰德 主编",
+            "link": "https://book.douban.com/search/%E7%A7%91%E7%90%B3%E5%A8%9C%C2%B7%E8%B4%9D%E5%B0%94%E7%89%B9%E5%85%B0%E5%BE%B7%20%E4%B8%BB%E7%BC%96"
+        },
+        {
+            "text": "刘玮",
+            "link": "https://book.douban.com/search/%E5%88%98%E7%8E%AE"
+        },
+        {
+            "text": "中信出版集团",
+            "link": "https://book.douban.com/press/2908"
+        },
+        {
+            "text": "漫传奇",
+            "link": "https://book.douban.com/producers/711"
+        },
+        {
+            "text": "漫传奇文化",
+            "link": "https://book.douban.com/producers/812"
+        },
+        {
+            "text": "刘慈欣科幻漫画系列",
+            "link": "https://book.douban.com/series/50609"
+        }
+    ],
+    "tag": "科幻"
+}

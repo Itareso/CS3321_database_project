@@ -1,0 +1,152 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "土广寸木",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34846091.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36850976/",
+                        "year": "2024",
+                        "id": 36850976
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "余事勿取",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34656272.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36439615/",
+                        "year": "2023",
+                        "id": 36439615
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "沈颖与陈子凯",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34596884.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36374403/",
+                        "year": "2023",
+                        "id": 36374403
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "王能好",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34146163.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35726357/",
+                        "year": "2022",
+                        "id": 35726357
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "都是人民群众",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33734634.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35221092/",
+                        "year": "2020",
+                        "id": 35221092
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.0,
+                        "title": "我们为什么无聊",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29941233.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/30396620/",
+                        "year": "2018",
+                        "id": 30396620
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "嘘，听你说",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29427931.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27021707/",
+                        "year": "2017",
+                        "id": 27021707
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "小镇忧郁青年的十八种死法",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28997269.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26844800/",
+                        "year": "2016",
+                        "id": 26844800
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "兄弟我们就要发财了",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29329690.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26943672/",
+                        "year": "2016",
+                        "id": 26943672
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "不明物",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s6264288.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/5399427/",
+                        "year": "2010",
+                        "id": 5399427
+                    }
+                }
+            ],
+            "total": 10
+        }
+    },
+    "author_link": "https://book.douban.com/author/4615398/",
+    "author_douban_id": "4615398",
+    "personage_id": 36057972,
+    "name": [
+        "魏思孝",
+        "Sixiao Wei"
+    ],
+    "intro": "1986年生于山东淄博，出版有《小镇忧郁青年的十八种死法》等多部作品，近年完成“乡村三部曲”——《余事勿取》《都是人民群众》《王能好》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/765eca772b3643c41e1bb4062c7bba89.jpg",
+    "sex": 1,
+    "birth_date": 1986,
+    "age": 40,
+    "birth_place": [
+        "中国",
+        "山东",
+        "淄博"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

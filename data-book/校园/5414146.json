@@ -1,0 +1,55 @@
+{
+    "title": "盛夏流年朝朝",
+    "bookInfo": {
+        "作者": "破破 / 破破（曾用名破脑袋）",
+        "出版社": "春风文艺出版社",
+        "原作名": "北大差生",
+        "出版年": "2010-11",
+        "页数": "260",
+        "定价": "22.80元",
+        "装帧": "平装",
+        "ISBN": "9787531338499"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.1%",
+        "four_star_rate": "33.2%",
+        "three_star_rate": "37.4%",
+        "two_star_rate": "7.2%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4638435/",
+            "name": "破破",
+            "role": "作者",
+            "douban_id": "4638435"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "20.33元",
+            "link": "https://book.douban.com/link2/?lowest=2032&pre=0&vendor=jingdong&srcpage=subject&price=2032&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10044927977976.html&cntvendor=1&srcsubj=5414146&type=bkbuy&subject=5414146"
+        }
+    ],
+    "url": "https://book.douban.com/subject/5414146/",
+    "douban_id": "5414146",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s4575680.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "破破",
+            "link": "https://book.douban.com/search/%E7%A0%B4%E7%A0%B4"
+        },
+        {
+            "text": "破破（曾用名破脑袋）",
+            "link": "https://book.douban.com/author/4638435"
+        },
+        {
+            "text": "春风文艺出版社",
+            "link": "https://book.douban.com/press/2127"
+        }
+    ],
+    "tag": "校园"
+}

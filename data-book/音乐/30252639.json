@@ -1,0 +1,53 @@
+{
+    "title": "来之不易",
+    "bookInfo": {
+        "作者": "[美]达夫·麦卡甘",
+        "出版社": "河南大学出版社",
+        "出品方": "上河卓远文化",
+        "副标题": "和其他谎言",
+        "译者": "刘超然",
+        "出版年": "2018-10",
+        "页数": "446",
+        "定价": "68.00",
+        "ISBN": "9787564933685"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "44.6%",
+        "four_star_rate": "35.4%",
+        "three_star_rate": "20.0%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "60.90元",
+            "link": "https://book.douban.com/link2/?lowest=6090&pre=0&vendor=jingdong&srcpage=subject&price=6090&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10028555433547.html&cntvendor=1&srcsubj=30252639&type=bkbuy&subject=30252639"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30252639/",
+    "douban_id": "30252639",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29852978.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]达夫·麦卡甘",
+            "link": "https://book.douban.com/search/%E8%BE%BE%E5%A4%AB%C2%B7%E9%BA%A6%E5%8D%A1%E7%94%98"
+        },
+        {
+            "text": "河南大学出版社",
+            "link": "https://book.douban.com/press/2591"
+        },
+        {
+            "text": "上河卓远文化",
+            "link": "https://book.douban.com/producers/102"
+        },
+        {
+            "text": "刘超然",
+            "link": "https://book.douban.com/search/%E5%88%98%E8%B6%85%E7%84%B6"
+        }
+    ],
+    "tag": "音乐"
+}

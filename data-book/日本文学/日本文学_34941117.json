@@ -1,0 +1,100 @@
+{
+    "title": "下町火箭2",
+    "bookInfo": {
+        "作者": "[日] 池井户润",
+        "出版社": "新星出版社",
+        "副标题": "高迪计划",
+        "原作名": "下町ロケット 2：ガウディ計画",
+        "译者": "吕灵芝",
+        "出版年": "2020-4",
+        "页数": "307",
+        "定价": "48.00",
+        "装帧": "平装",
+        "丛书": "午夜文库·日系佳作：池井户润作品",
+        "ISBN": "9787513339063"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.1%",
+        "four_star_rate": "51.1%",
+        "three_star_rate": "14.6%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609335/",
+            "name": "池井户润",
+            "role": "作者",
+            "douban_id": "4609335"
+        },
+        {
+            "link": "https://book.douban.com/author/4612202/",
+            "name": "吕灵芝",
+            "role": "译者",
+            "douban_id": "4612202"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "35.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=ZykJDGjQ7AOLNa642rbP8dkEgemKDwd9oA0XoVRjpBxl95MJzqvYGynZ18MEl5Bo&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "25.00元",
+            "link": "https://book.douban.com/link2/?lowest=2500&pre=0&vendor=jingdong&srcpage=subject&price=2500&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwQCVl9aAEseCl8IGloTWQIBVFpYC0oXAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkMH1gVWQMBVV5eFxJSXzI4HyRLBEdxCBk-bQthXTd-WgUWPGF-ElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXXgAKU1heOEkXAm4NG1MSXgcyVFhYCUgWAGYKH18SVTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUQlUAE5HbTMOTBhRWV5ZOl5cDUoUBmcAK1kUXAQAZG5teC5yQRENZgMXIHpJFg0bfklNZAp3f1IRMwRkIBg4UAkVA20MbDsVXEFREm5eOA&cntvendor=4&srcsubj=34941117&type=bkbuy&subject=34941117"
+        },
+        {
+            "name": "当当网",
+            "price": "37.90元",
+            "link": "https://book.douban.com/link2/?lowest=2500&pre=0&vendor=dangdang&srcpage=subject&price=3790&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34941117%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28529254&cntvendor=4&srcsubj=34941117&type=bkbuy&subject=34941117"
+        },
+        {
+            "name": "中图网",
+            "price": "27.40元",
+            "link": "https://book.douban.com/link2/?lowest=2500&pre=0&vendor=bookschina&srcpage=subject&price=2740&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8292886.htm&cntvendor=4&srcsubj=34941117&type=bkbuy&subject=34941117"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34941117/",
+    "douban_id": "34941117",
+    "menu": [
+        "",
+        "        第一章 神秘委托",
+        "        第二章 高迪计划",
+        "        第三章 对手的风范",
+        "        第四章 权力的结构",
+        "        第五章 错综复杂",
+        "        第六章 事故还是事件",
+        "        第七章 为了谁",
+        "        第八章 备战状态",
+        "        第九章 完美的数据",
+        "        第十章 丑闻",
+        "        第十一章 梦想与挫折",
+        "        最终章 挑战的终点 梦的开始",
+        "        致谢",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33596798.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 池井户润",
+            "link": "https://book.douban.com/search/%E6%B1%A0%E4%BA%95%E6%88%B7%E6%B6%A6"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "吕灵芝",
+            "link": "https://book.douban.com/search/%E5%90%95%E7%81%B5%E8%8A%9D"
+        },
+        {
+            "text": "午夜文库·日系佳作：池井户润作品",
+            "link": "https://book.douban.com/series/49139"
+        }
+    ],
+    "tag": "日本文学"
+}

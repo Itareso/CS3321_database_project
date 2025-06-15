@@ -1,0 +1,66 @@
+{
+    "title": "神秘列车",
+    "bookInfo": {
+        "作者": "[美]格雷尔·马库斯",
+        "出版社": "河南大学出版社",
+        "出品方": "上河卓远文化",
+        "原作名": "Mystery Train: Images Of America In Rock ‘N’ Roll Music: Sixth Edition",
+        "译者": "姚向辉",
+        "出版年": "2018-6",
+        "页数": "668",
+        "定价": "72.00",
+        "ISBN": "9787564931957"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "31.0%",
+        "four_star_rate": "44.8%",
+        "three_star_rate": "24.1%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/149712/",
+            "name": "格雷尔·马库斯",
+            "role": "作者",
+            "douban_id": "149712"
+        },
+        {
+            "link": "https://book.douban.com/author/4609725/",
+            "name": "姚向辉",
+            "role": "译者",
+            "douban_id": "4609725"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "56.42元",
+            "link": "https://book.douban.com/link2/?lowest=5642&pre=0&vendor=jingdong&srcpage=subject&price=5642&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10020287289504.html&cntvendor=1&srcsubj=27661573&type=bkbuy&subject=27661573"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27661573/",
+    "douban_id": "27661573",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29714313.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]格雷尔·马库斯",
+            "link": "https://book.douban.com/author/149712"
+        },
+        {
+            "text": "河南大学出版社",
+            "link": "https://book.douban.com/press/2591"
+        },
+        {
+            "text": "上河卓远文化",
+            "link": "https://book.douban.com/producers/102"
+        },
+        {
+            "text": "姚向辉",
+            "link": "https://book.douban.com/author/4609725"
+        }
+    ],
+    "tag": "音乐"
+}

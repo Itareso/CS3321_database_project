@@ -1,0 +1,51 @@
+{
+    "title": "鄰居",
+    "bookInfo": {
+        "作者": "雫井脩介",
+        "出版社": "春天",
+        "原作名": "火の粉",
+        "译者": "王蘊潔",
+        "出版年": "2020-12-4",
+        "页数": "416",
+        "定价": "NTD450.00",
+        "装帧": "平装",
+        "丛书": "春日文庫",
+        "ISBN": "9789577413000"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    日本目前最想賣的文庫No.1累銷突破70萬冊！        《檢方的罪人》雫井脩介  心理驚悚小說最高傑作！        有罪？還是無罪？真相將令你手心冒汗！    ●讀者★★★★★盛讚：「太好看了吧！熬夜必看書No.1！」    ●故事情節的發展將讓你翻開第一頁就欲罷不能！    ●日本大眾票選委員會推薦選書        「我的判決，是將殺人魔縱虎歸山？」        兩年前獲判無罪的武內真伍，搬到梶間勳家隔壁當鄰居，而梶間勳正是宣判武內無罪的前法官。親切的笑容、貼心的贈禮、協助照顧老人……武內的善意很快擄獲了梶間家人的心。但是，自從武內搬來之後，梶間家周遭卻接連發生匪夷所思的事件……        ——你的鄰居沒問題嗎？        好評推薦        日本讀者★★★★★好評不斷！    「從一開始就不斷覺得壞事要發生了，讓人好緊張的故事！」    「太恐怖了！瘋狂到令人懷疑『真有這樣的人嗎？』」    「好可怕好可怕好可怕！這不是懸疑小說，也不是推理小說，要算恐怖小說才對！」    「讓人思考冤獄問題的深度作品！」    「故事完美收尾，不自覺地開始思考許多社會問題。」\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "40.8%",
+        "four_star_rate": "38.2%",
+        "three_star_rate": "18.0%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609911/",
+            "name": "雫井脩介",
+            "role": "作者",
+            "douban_id": "4609911"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/35217391/",
+    "douban_id": "35217391",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34618717.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "雫井脩介",
+            "link": "https://book.douban.com/search/%E9%9B%AB%E4%BA%95%E8%84%A9%E4%BB%8B"
+        },
+        {
+            "text": "王蘊潔",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E8%98%8A%E6%BD%94"
+        },
+        {
+            "text": "春日文庫",
+            "link": "https://book.douban.com/series/44518"
+        }
+    ],
+    "tag": "日本文学"
+}

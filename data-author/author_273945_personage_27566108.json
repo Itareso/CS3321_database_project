@@ -1,0 +1,133 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "笨故事集",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33463461.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34802763/",
+                        "year": "2019",
+                        "id": 34802763
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "行走的耳朵",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29984473.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30361671/",
+                        "year": "2019",
+                        "id": 30361671
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "午夜起来听寂静",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29372251.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26985302/",
+                        "year": "2017",
+                        "id": 26985302
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "绿皮火车",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28059457.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26352505/",
+                        "year": "2015",
+                        "id": 26352505
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "去远方发现自己",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27164968.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/25783416/",
+                        "year": "2014",
+                        "id": 25783416
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "春天責備",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s6953486.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/6866730/",
+                        "year": "2011",
+                        "id": 6866730
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "博文001",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s6584823.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/6709792/",
+                        "year": "2011",
+                        "id": 6709792
+                    }
+                }
+            ],
+            "total": 7
+        }
+    },
+    "author_link": "https://book.douban.com/author/273945/",
+    "author_douban_id": "273945",
+    "personage_id": 27566108,
+    "name": [
+        "周云蓬",
+        "Yunpeng Zhou"
+    ],
+    "intro": "周云蓬（1970年-），出生于辽宁沈阳，中国大陆独立民谣歌手、诗人。幼年因患眼疾而导致九岁时失明。后入盲人学校学习，个人努力至1994年长春大学中文专业毕业。大学毕业后分配至一家工厂领取保障金，1995年到北京圆明园开始了卖唱生涯，其后四处游荡并进行创作。他几乎游历全中国后又回到北京，期间创作诗歌及民谣阐述自己的思考。曾发行过两本刊物，《命与门》和《低岸》。2003年摩登天空买断发行唱片《沉默如谜的呼吸》，2005年初获得了《南方都市报》第五届华语音乐传媒大奖年度最佳民谣艺人奖提名。2007年自费录制唱片《中国孩子》,音乐风格优美伤感而反映社会现实，并一举拿下第八届华语音乐传媒大奖最佳民谣艺人和最佳作词人两项大奖。 诗歌的创作目前基本已经被周云蓬所搁置，他本人的音乐虽逐步成熟，但他对中国民谣的发展前途并不抱以厚望。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27566108/photo/2901440323",
+        "https://www.douban.com/personage/27566108/photo/2901440322",
+        "https://www.douban.com/personage/27566108/photo/2901440321",
+        "https://www.douban.com/personage/27566108/photo/965321814"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2901440323.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2901440322.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2901440321.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p965321814.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/celebrity/m/public/p51646.jpg",
+    "厂牌": "摩登天空Badhead",
+    "流派": "民谣",
+    "擅长乐器": "吉他",
+    "语言": "普通话",
+    "sex": 1,
+    "birth_date": 1970,
+    "age": 56,
+    "birth_place": [
+        "辽宁"
+    ],
+    "IMDB": "nm5475881",
+    "profession": [
+        "音乐人",
+        "演员",
+        "音乐",
+        "作者",
+        "摄影"
+    ]
+}

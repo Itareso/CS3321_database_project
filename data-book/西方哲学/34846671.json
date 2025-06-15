@@ -1,0 +1,94 @@
+{
+    "title": "何为尼采的扎拉图斯特拉",
+    "bookInfo": {
+        "作者": "[德] Heinrich Meier / 亨利希.迈尔",
+        "出版社": "华夏出版社",
+        "副标题": "一场哲学争辩",
+        "原作名": "Was ist Nietzsches Zarathustra? Eine philosophiche Auseinandersetzung",
+        "译者": "余明锋",
+        "出版年": "2019-9",
+        "页数": "255",
+        "定价": "69.00元",
+        "装帧": "精装",
+        "丛书": "西方传统：经典与解释·迈尔集",
+        "ISBN": "9787508098425"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.3%",
+        "four_star_rate": "51.7%",
+        "three_star_rate": "6.7%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "1.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4639043/",
+            "name": "亨利希.迈尔",
+            "role": "作者",
+            "douban_id": "4639043"
+        },
+        {
+            "link": "https://book.douban.com/author/4614685/",
+            "name": "余明锋",
+            "role": "译者",
+            "douban_id": "4614685"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "69.00元",
+            "link": "https://www.dedao.cn/eBook/N5lDqb9b47pXZxGn1kBzPlMyQArYv0q5gx0qe85E2aVKdo9jNgOLRmDJ6nXLm16K?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "53.48元",
+            "link": "https://book.douban.com/link2/?lowest=4860&pre=0&vendor=jingdong&srcpage=subject&price=5348&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0WWQQAUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUl1ZCkkSHDZNRwYlDxwFJCAODz13fTsAfy5jWHppBwUdeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4BU19fCEIUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgJsCFgHUhlQXyZmGFMdXgUBXF5tCkoWAW04K2tmIUVEITsITy5vZwYLSVpuVUJ1UQIDDE95ARp_SydjGwZgMQQHezd8RDRbK1gl&cntvendor=3&srcsubj=34846671&type=bkbuy&subject=34846671"
+        },
+        {
+            "name": "中图网",
+            "price": "48.60元",
+            "link": "https://book.douban.com/link2/?lowest=4860&pre=0&vendor=bookschina&srcpage=subject&price=4860&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8225459.htm&cntvendor=3&srcsubj=34846671&type=bkbuy&subject=34846671"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34846671/",
+    "douban_id": "34846671",
+    "menu": [
+        "",
+        "        中译本前言 1",
+        "        前言 1",
+        "        何为尼采的扎拉图斯特拉 1",
+        "        第一卷 10",
+        "        第二卷 48",
+        "        第三卷 112",
+        "        第四卷 170",
+        "        人名索引 256",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33497830.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] Heinrich Meier",
+            "link": "https://book.douban.com/search/Heinrich%20Meier"
+        },
+        {
+            "text": "亨利希.迈尔",
+            "link": "https://book.douban.com/author/4639043"
+        },
+        {
+            "text": "华夏出版社",
+            "link": "https://book.douban.com/press/2275"
+        },
+        {
+            "text": "余明锋",
+            "link": "https://book.douban.com/author/4614685"
+        },
+        {
+            "text": "西方传统：经典与解释·迈尔集",
+            "link": "https://book.douban.com/series/65855"
+        }
+    ],
+    "tag": "西方哲学"
+}

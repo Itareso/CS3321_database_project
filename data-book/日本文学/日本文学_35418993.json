@@ -1,0 +1,81 @@
+{
+    "title": "山月记",
+    "bookInfo": {
+        "作者": "[日]中岛敦",
+        "出版社": "天地出版社",
+        "译者": "张齐",
+        "出版年": "2021-5-1",
+        "页数": "230",
+        "定价": "39.00元",
+        "装帧": "平装",
+        "丛书": "物哀三书",
+        "ISBN": "9787545561876"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "51.4%",
+        "four_star_rate": "37.6%",
+        "three_star_rate": "9.9%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/2354998/",
+            "name": "中岛敦",
+            "role": "作者",
+            "douban_id": "2354998"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "78.12元",
+            "link": "https://book.douban.com/link2/?lowest=1910&pre=0&vendor=jingdong&srcpage=subject&price=7812&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVsTWQYHU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOMyFeSzRyaBxBWwRsNl9FJw0mCRUTfzxqdVliK1B9MR1ZSwJMWAh3aD8VPhFCWCokdCljShxPbDJ9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ3Vgg-fiBOAA9bU0VnOGZxIlsldkJBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVpeDkkXC284G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRAAszVE1ARj9cTgh7XQcEVlhcDEonAW4JGVklbTZlK10edy58cCZIRCJ-BEFxByVcVk9rUA1mGSxjC3lnF1oeQRBMZBB7f1t2bQUy&cntvendor=2&srcsubj=35418993&type=bkbuy&subject=35418993"
+        },
+        {
+            "name": "中图网",
+            "price": "19.10元",
+            "link": "https://book.douban.com/link2/?lowest=1910&pre=0&vendor=bookschina&srcpage=subject&price=1910&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8545376.htm&cntvendor=2&srcsubj=35418993&type=bkbuy&subject=35418993"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35418993/",
+    "douban_id": "35418993",
+    "menu": [
+        "",
+        "        山月记",
+        "        李陵",
+        "        名人传",
+        "        悟净出世",
+        "        悟净叹异",
+        "        弟子",
+        "        牛人",
+        "        盈虚",
+        "        狐凭",
+        "        妖氛录",
+        "        南岛谭",
+        "        文字祸",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33971290.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]中岛敦",
+            "link": "https://book.douban.com/search/%E4%B8%AD%E5%B2%9B%E6%95%A6"
+        },
+        {
+            "text": "天地出版社",
+            "link": "https://book.douban.com/press/2712"
+        },
+        {
+            "text": "张齐",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E9%BD%90"
+        },
+        {
+            "text": "物哀三书",
+            "link": "https://book.douban.com/series/57364"
+        }
+    ],
+    "tag": "日本文学"
+}

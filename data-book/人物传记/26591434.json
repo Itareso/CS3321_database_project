@@ -1,0 +1,66 @@
+{
+    "title": "孙宝瑄日记（全3册）",
+    "bookInfo": {
+        "作者": "孙宝瑄 著 / 中华书局编辑部 整理 / 童杨 校订",
+        "出版社": "中华书局",
+        "出版年": "2015-8",
+        "页数": "1567",
+        "定价": "148",
+        "装帧": "平装",
+        "丛书": "中国近代人物日记丛书",
+        "ISBN": "9787101109948"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "65.2%",
+        "four_star_rate": "32.6%",
+        "three_star_rate": "2.2%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "115.01元",
+            "link": "https://book.douban.com/link2/?lowest=10680&pre=0&vendor=jingdong&srcpage=subject&price=11501&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG10SWQEAUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCUllZD0kTHDZNRwYlNGR8AjUhADN0dxVyEwhBPwRhNlsaaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4FVVpdDUoTM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlwVD1NsCFgHVB9VUytmGVoUWwEEUlptCkoWAW04K2t1VW1BND4GWz5HRAZRSwhDK2FfJFsoaBR5AQ19HVNDHmF-IQgLaENuYQxAK1gl&cntvendor=3&srcsubj=26591434&type=bkbuy&subject=26591434"
+        },
+        {
+            "name": "当当网",
+            "price": "106.80元",
+            "link": "https://book.douban.com/link2/?lowest=10680&pre=0&vendor=dangdang&srcpage=subject&price=10680&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26591434%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23770759&cntvendor=3&srcsubj=26591434&type=bkbuy&subject=26591434"
+        },
+        {
+            "name": "中图网",
+            "price": "122.80元",
+            "link": "https://book.douban.com/link2/?lowest=10680&pre=0&vendor=bookschina&srcpage=subject&price=12280&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7012108.htm&cntvendor=3&srcsubj=26591434&type=bkbuy&subject=26591434"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26591434/",
+    "douban_id": "26591434",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s28331204.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "孙宝瑄 著",
+            "link": "https://book.douban.com/search/%E5%AD%99%E5%AE%9D%E7%91%84%20%E8%91%97"
+        },
+        {
+            "text": "中华书局编辑部 整理",
+            "link": "https://book.douban.com/search/%E4%B8%AD%E5%8D%8E%E4%B9%A6%E5%B1%80%E7%BC%96%E8%BE%91%E9%83%A8%20%E6%95%B4%E7%90%86"
+        },
+        {
+            "text": "童杨 校订",
+            "link": "https://book.douban.com/search/%E7%AB%A5%E6%9D%A8%20%E6%A0%A1%E8%AE%A2"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "中国近代人物日记丛书",
+            "link": "https://book.douban.com/series/363"
+        }
+    ],
+    "tag": "人物传记"
+}

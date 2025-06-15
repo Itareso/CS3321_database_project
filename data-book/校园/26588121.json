@@ -1,0 +1,72 @@
+{
+    "title": "无法直视",
+    "bookInfo": {
+        "作者": "夏茗悠",
+        "出版社": "中国文联出版社",
+        "原作名": "夏茗悠",
+        "出版年": "2015-10-1",
+        "页数": "256",
+        "定价": "28.00",
+        "装帧": "平装",
+        "ISBN": "9787519001957"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.4%",
+        "four_star_rate": "24.2%",
+        "three_star_rate": "35.3%",
+        "two_star_rate": "8.6%",
+        "one_star_rate": "5.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/171359/",
+            "name": "夏茗悠",
+            "role": "作者",
+            "douban_id": "171359"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "10.64元",
+            "link": "https://book.douban.com/link2/?lowest=1064&pre=0&vendor=jingdong&srcpage=subject&price=1064&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQIKVVxZAEsWM2sOHlMQXwMAXVtUOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocUFhYAE4VBm0BHlIKBENeCW44WB0eVm1YGjt1LwN2FR0LDVFAQC5OF1clWgMFUllUC0wnA2sJH18lbQYDZB8zDU0RAmg4GVsUXAMCXFleCXsXBWoJHlMWVQ4GXVZVOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgQBmgISQ97AQBYDgMNVxV5AGcBE1IdVQQyVl9cCkknM19LUzlWLW9wFTUGY0tUSg8BbF9qFXIFUlszChVWdicLWARKNm54FyIfCwtiM2w4&cntvendor=2&srcsubj=26588121&type=bkbuy&subject=26588121"
+        },
+        {
+            "name": "中图网",
+            "price": "18.60元",
+            "link": "https://book.douban.com/link2/?lowest=1064&pre=0&vendor=bookschina&srcpage=subject&price=1860&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7046079.htm&cntvendor=2&srcsubj=26588121&type=bkbuy&subject=26588121"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26588121/",
+    "douban_id": "26588121",
+    "menu": [
+        "",
+        "        第一话",
+        "        第二话",
+        "        第三话",
+        "        第四话",
+        "        第五话",
+        "        第六话",
+        "        第七话",
+        "        第八话",
+        "        第九话",
+        "        第十话",
+        "        番外 《词不达意》",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s28290884.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "夏茗悠",
+            "link": "https://book.douban.com/search/%E5%A4%8F%E8%8C%97%E6%82%A0"
+        },
+        {
+            "text": "中国文联出版社",
+            "link": "https://book.douban.com/press/2493"
+        }
+    ],
+    "tag": "校园"
+}

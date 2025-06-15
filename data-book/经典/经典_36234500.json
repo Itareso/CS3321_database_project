@@ -1,0 +1,94 @@
+{
+    "title": "素书",
+    "bookInfo": {
+        "作者": "黄石公",
+        "出版社": "中华书局",
+        "原作名": "素书",
+        "译者": "张景 / 张松辉",
+        "出版年": "2023-1-5",
+        "页数": "252",
+        "定价": "28.00元",
+        "装帧": "精装",
+        "丛书": "中华经典名著全本全注全译丛书",
+        "ISBN": "9787101160086"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "53.6%",
+        "four_star_rate": "28.4%",
+        "three_star_rate": "13.9%",
+        "two_star_rate": "3.2%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "16.80元",
+            "link": "https://read.douban.com/ebook/440909966/?dcs=subject-buylink&dcm=douban&dct=36234500"
+        },
+        {
+            "name": "得到",
+            "price": "16.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=DGgybmrKYXmzPQ5bgJEjMdeOxDlyn0M5VP02GaRN8k4p6B1oArL9Z7qvVRp8O126&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "14.00元",
+            "link": "https://book.douban.com/link2/?lowest=1400&pre=0&vendor=jingdong&srcpage=subject&price=1400&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVwVVAEFUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU15UD0wTHDZNRwYlW11qXD8fax10ZDt3GCdNVWFaB0QBTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAXF5eAEkSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFIdW1ZsCFgKShIeRj1mG1oQWw8CV15tCkoWAW04K2sdPUFBKjcYfw8SWmxKQyhgNgZFKh0dQRN5AQdsGDtwHgNEEAADACt1VWd7K1gl&cntvendor=5&srcsubj=36234500&type=bkbuy&subject=36234500"
+        },
+        {
+            "name": "当当网",
+            "price": "28.00元",
+            "link": "https://book.douban.com/link2/?lowest=1400&pre=0&vendor=dangdang&srcpage=subject&price=2800&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36234500%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29505226&cntvendor=5&srcsubj=36234500&type=bkbuy&subject=36234500"
+        },
+        {
+            "name": "中图网",
+            "price": "18.40元",
+            "link": "https://book.douban.com/link2/?lowest=1400&pre=0&vendor=bookschina&srcpage=subject&price=1839&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8994900.htm&cntvendor=5&srcsubj=36234500&type=bkbuy&subject=36234500"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36234500/",
+    "douban_id": "36234500",
+    "menu": [
+        "",
+        "        前言 ……………………………………………… 1",
+        "        原始章 …………………………………………… 1",
+        "        正道章 ………………………………………… 14",
+        "        求人之志章 …………………………………… 28",
+        "        本德宗道章 …………………………………… 50",
+        "        遵义章 ………………………………………… 67",
+        "        安礼章 ………………………………………… 91",
+        "        附录一四库全书本《素书》原文",
+        "        （附宋•张商英注） ……………………… 129",
+        "        附录二 《史记•留侯世家》 ……（汉）司马迁 151",
+        "        附录三 《高士传•黄石公》 ……（晋）皇甫谧 201",
+        "        附录四 《素书序》 ………………（宋）张商英 207",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34407892.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "黄石公",
+            "link": "https://book.douban.com/search/%E9%BB%84%E7%9F%B3%E5%85%AC"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "张景",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E6%99%AF"
+        },
+        {
+            "text": "张松辉",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E6%9D%BE%E8%BE%89"
+        },
+        {
+            "text": "中华经典名著全本全注全译丛书",
+            "link": "https://book.douban.com/series/4103"
+        }
+    ],
+    "tag": "经典"
+}

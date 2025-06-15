@@ -1,0 +1,43 @@
+{
+    "title": "特战先驱",
+    "bookInfo": {
+        "作者": "业余狙击手",
+        "出版社": "大众文艺出版社",
+        "出版年": "2006-6",
+        "页数": "321",
+        "定价": "29.80元",
+        "装帧": "平装",
+        "ISBN": "9787801718150"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "55.8%",
+        "four_star_rate": "29.9%",
+        "three_star_rate": "11.9%",
+        "two_star_rate": "1.1%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "80.22元",
+            "link": "https://book.douban.com/link2/?lowest=8022&pre=0&vendor=jingdong&srcpage=subject&price=8022&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10045553548062.html&cntvendor=1&srcsubj=1908673&type=bkbuy&subject=1908673"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1908673/",
+    "douban_id": "1908673",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s10431544.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "业余狙击手",
+            "link": "https://book.douban.com/search/%E4%B8%9A%E4%BD%99%E7%8B%99%E5%87%BB%E6%89%8B"
+        },
+        {
+            "text": "大众文艺出版社",
+            "link": "https://book.douban.com/press/2488"
+        }
+    ],
+    "tag": "军事"
+}

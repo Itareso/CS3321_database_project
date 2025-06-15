@@ -1,0 +1,66 @@
+{
+    "title": "天香",
+    "bookInfo": {
+        "作者": "王安忆",
+        "出版社": "人民文学出版社",
+        "出版年": "2019-7",
+        "页数": "474",
+        "定价": "49.00元",
+        "装帧": "平装",
+        "丛书": "王安忆长篇小说",
+        "ISBN": "9787020144310"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "36.2%",
+        "four_star_rate": "45.1%",
+        "three_star_rate": "16.0%",
+        "two_star_rate": "2.7%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4522624/",
+            "name": "王安忆",
+            "role": "作者",
+            "douban_id": "4522624"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "30.00元",
+            "link": "https://read.douban.com/ebook/131441607/?dcs=subject-buylink&dcm=douban&dct=30277168"
+        },
+        {
+            "name": "得到",
+            "price": "39.20元",
+            "link": "https://www.dedao.cn/ebook/detail?id=bxEYR1zAbZMmVzK4p1oxl67XeNaB83OjAoW92GJERgryYQdDnqjkPLvO5eOZ8Nqr&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "33.30元",
+            "link": "https://book.douban.com/link2/?lowest=3329&pre=0&vendor=jingdong&srcpage=subject&price=3329&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olVQIFXFpZCEsRM2gAH1wdWw4CXF5dOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocU1ZZD0MRC28AG1sKBENeCW45bgJfGRdDfzlhP0N2XQYUXBYJeRleF1clWgMFUllUC0wnA2sJH18lbQYDZB8zC0oTAGwBK1kVXAcHVFZaC0onA2kNGlgUWgELUl9UDXsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEBWwKH1oWM1oEAxpYSRlebW8JE1gVWgMKZFxcCUkVM184YClNB3YHUAEmTkNxC29SWghDClYLUShVZklseQ16SAEQPH1QEVcjfz9odV8LKw&cntvendor=3&srcsubj=30277168&type=bkbuy&subject=30277168"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30277168/",
+    "douban_id": "30277168",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34219775.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "王安忆",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E5%AE%89%E5%BF%86"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "王安忆长篇小说",
+            "link": "https://book.douban.com/series/48404"
+        }
+    ],
+    "tag": "中国文学",
+    "avg_rate": 4.148
+}

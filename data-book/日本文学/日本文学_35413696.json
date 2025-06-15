@@ -1,0 +1,62 @@
+{
+    "title": "第一人稱單數",
+    "bookInfo": {
+        "作者": "村上春樹",
+        "出版社": "時報文化",
+        "原作名": "一人称単数",
+        "译者": "劉子倩",
+        "出版年": "2021-1-22",
+        "页数": "256",
+        "装帧": "平装",
+        "丛书": "村上春樹作品",
+        "ISBN": "9782966624902"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "36.5%",
+        "four_star_rate": "48.8%",
+        "three_star_rate": "13.5%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502361/",
+            "name": "村上春树",
+            "role": "作者",
+            "douban_id": "4502361"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/35413696/",
+    "douban_id": "35413696",
+    "menu": [
+        "",
+        "        石枕上",
+        "        奶油",
+        "        查理帕克演奏巴薩諾瓦（Charlie Parker Plays Bossa Nova）",
+        "        與披頭同行（With the Beatles）",
+        "        「養樂多燕子詩集」",
+        "        謝肉祭（Carnaval）",
+        "        品川猴的告白",
+        "        第一人稱單數",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34963822.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "村上春樹",
+            "link": "https://book.douban.com/search/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9"
+        },
+        {
+            "text": "劉子倩",
+            "link": "https://book.douban.com/search/%E5%8A%89%E5%AD%90%E5%80%A9"
+        },
+        {
+            "text": "村上春樹作品",
+            "link": "https://book.douban.com/series/734"
+        }
+    ],
+    "tag": "日本文学"
+}

@@ -1,0 +1,68 @@
+{
+    "title": "圆",
+    "bookInfo": {
+        "作者": "刘慈欣 原著 / [法]泽维尔·贝斯 编绘",
+        "出版社": "中信出版社",
+        "出品方": "漫传奇文化",
+        "副标题": "刘慈欣科幻漫画系列第2辑",
+        "原作名": "The Circle",
+        "译者": "漫传奇",
+        "出版年": "2021-5",
+        "页数": "80",
+        "定价": "68.00元",
+        "丛书": "刘慈欣科幻漫画系列",
+        "ISBN": "9787521729702"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.6%",
+        "four_star_rate": "34.6%",
+        "three_star_rate": "43.6%",
+        "two_star_rate": "3.7%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "41.53元",
+            "link": "https://book.douban.com/link2/?lowest=4153&pre=0&vendor=jingdong&srcpage=subject&price=4153&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10031600839162.html&cntvendor=2&srcsubj=35424677&type=bkbuy&subject=35424677"
+        },
+        {
+            "name": "中图网",
+            "price": "47.20元",
+            "link": "https://book.douban.com/link2/?lowest=4153&pre=0&vendor=bookschina&srcpage=subject&price=4720&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8585537.htm&cntvendor=2&srcsubj=35424677&type=bkbuy&subject=35424677"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35424677/",
+    "douban_id": "35424677",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33875343.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣 原著",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3%20%E5%8E%9F%E8%91%97"
+        },
+        {
+            "text": "[法]泽维尔·贝斯 编绘",
+            "link": "https://book.douban.com/search/%E6%B3%BD%E7%BB%B4%E5%B0%94%C2%B7%E8%B4%9D%E6%96%AF%20%E7%BC%96%E7%BB%98"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "漫传奇文化",
+            "link": "https://book.douban.com/producers/812"
+        },
+        {
+            "text": "漫传奇",
+            "link": "https://book.douban.com/search/%E6%BC%AB%E4%BC%A0%E5%A5%87"
+        },
+        {
+            "text": "刘慈欣科幻漫画系列",
+            "link": "https://book.douban.com/series/50609"
+        }
+    ],
+    "tag": "科幻"
+}

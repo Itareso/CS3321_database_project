@@ -1,0 +1,165 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "大风暴",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34945430.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36914088/",
+                        "year": "2024",
+                        "id": 36914088
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "打击队",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34706132.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36655766/",
+                        "year": "2023",
+                        "id": 36655766
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "三叉戟",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34732152.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36688675/",
+                        "year": "2023",
+                        "id": 36688675
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "藏锋",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33956384.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35539946/",
+                        "year": "2021",
+                        "id": 35539946
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.3,
+                        "title": "名提之终极预审",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34018684.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/35627802/",
+                        "year": "2021",
+                        "id": 35627802
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "名提之真相小组",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34009221.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35616104/",
+                        "year": "2021",
+                        "id": 35616104
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "三叉戟",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33638832.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35059107/",
+                        "year": "2020",
+                        "id": 35059107
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "三叉戟之纵横四海",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33751242.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35241567/",
+                        "year": "2020",
+                        "id": 35241567
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.3,
+                        "title": "谜探",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33668651.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/35094215/",
+                        "year": "2020",
+                        "id": 35094215
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "狂探",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29979041.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30433736/",
+                        "year": "2019",
+                        "id": 30433736
+                    }
+                }
+            ],
+            "total": 23
+        }
+    },
+    "author_link": "https://book.douban.com/author/4610995/",
+    "author_douban_id": "4610995",
+    "personage_id": 33393364,
+    "name": [
+        "吕铮",
+        "Zheng Lü"
+    ],
+    "intro": "吕铮，作家、编剧、词曲作者，出版有《三叉戟》《打击队》《大风暴》《名提》《藏锋》等20部长篇小说，多部被改编为影视作品。曾荣获人民文学奖、茅盾新人奖、北京中青年德艺双馨文艺工作者称号，小说作品连续五次获得金盾文学奖，获得徐迟报告文学奖优秀奖、燧石文学奖、石峁文学奖、全国侦探小说一等奖等荣誉，编剧作品获得第27届白玉兰奖最佳编剧提名、第29届华鼎奖最佳编剧提名。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/33393364/photo/2674103785",
+        "https://www.douban.com/personage/33393364/photo/2674102951",
+        "https://www.douban.com/personage/33393364/photo/2674101641",
+        "https://www.douban.com/personage/33393364/photo/2674103603",
+        "https://www.douban.com/personage/33393364/photo/2674103332"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2674103785.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2674102951.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2674101641.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2674103603.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2674103332.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/295d1b3a42e7cb1d8721a82a99f8daad.jpg",
+    "sex": 1,
+    "birth_date": 1980,
+    "age": 46,
+    "birth_place": [
+        "中国",
+        "北京"
+    ],
+    "IMDB": "nm11216863",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

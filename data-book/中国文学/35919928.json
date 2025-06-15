@@ -1,0 +1,91 @@
+{
+    "title": "诗经通释",
+    "bookInfo": {
+        "作者": "王静芝",
+        "出版社": "广西师范大学出版社",
+        "出品方": "理想国",
+        "出版年": "2022-7",
+        "页数": "1296",
+        "定价": "238.00元",
+        "装帧": "平装",
+        "ISBN": "9787559846181"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.9%",
+        "four_star_rate": "45.2%",
+        "three_star_rate": "16.1%",
+        "two_star_rate": "4.8%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614393/",
+            "name": "王静芝",
+            "role": "作者",
+            "douban_id": "4614393"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "166.60元",
+            "link": "https://read.douban.com/bundle/400645181/?dcs=subject-buylink&dcm=douban&dct=35919928"
+        },
+        {
+            "name": "得到",
+            "price": "166.60元",
+            "link": "https://www.dedao.cn/ebook/detail?id=BpM1nLOerPa1XOp27zqQ8KGR56loVWrbLlWdLygv94jYmnENDxAMZJBkbNzEblgQ&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "123.76元",
+            "link": "https://book.douban.com/link2/?lowest=12376&pre=0&vendor=jingdong&srcpage=subject&price=12376&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVgWVAMCUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAV11UDUsRHDZNRwYlAUVbXSsqdD53RB1Afht3HANKUF0PXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcFUV9VDUkTM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHQkQDwVsCFgKTQNUBjNmG1odWQ4EVVhtCkoWAW04K2tGB0RxC1s_bE1iSmhoUDlWO28BAlkmfCJ5AWwORQFcLlZpUiIhWxFASi9pK1gl&cntvendor=5&srcsubj=35919928&type=bkbuy&subject=35919928"
+        },
+        {
+            "name": "当当网",
+            "price": "188.00元",
+            "link": "https://book.douban.com/link2/?lowest=12376&pre=0&vendor=dangdang&srcpage=subject&price=18800&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35919928%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29424148&cntvendor=5&srcsubj=35919928&type=bkbuy&subject=35919928"
+        },
+        {
+            "name": "中图网",
+            "price": "159.50元",
+            "link": "https://book.douban.com/link2/?lowest=12376&pre=0&vendor=bookschina&srcpage=subject&price=15950&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8928383.htm&cntvendor=5&srcsubj=35919928&type=bkbuy&subject=35919928"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35919928/",
+    "douban_id": "35919928",
+    "menu": [
+        "",
+        "        诗从平易见艰辛——思忆静芝先生的国学教育（张大春）",
+        "        自叙",
+        "        凡例",
+        "        绪论",
+        "        国风",
+        "        雅",
+        "        小雅",
+        "        大雅",
+        "        颂",
+        "        周颂",
+        "        鲁颂",
+        "        商颂",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34247352.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "王静芝",
+            "link": "https://book.douban.com/author/4614393"
+        },
+        {
+            "text": "广西师范大学出版社",
+            "link": "https://book.douban.com/press/2476"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        }
+    ],
+    "tag": "中国文学"
+}

@@ -1,0 +1,36 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "天是真的",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33853352.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35402337/",
+                        "year": "2021",
+                        "id": 35402337
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4610208/",
+    "author_douban_id": "4610208",
+    "personage_id": 35404515,
+    "name": [
+        "陈雨吟"
+    ],
+    "intro": "陈雨吟，诗人、作家，出身于书香门第，被誉为“江南才女”。陈雨吟在书香墨韵的熏陶下，从小天资聪颖，悟性甚高，六岁时古文诗词信手拈来，十岁开始诗歌创作。作品多次发表于《诗刊》《星星诗刊》《江南诗》等刊物。诗作多次入选《中国新诗排行榜》《国际汉语诗歌》《青年诗歌年鉴》。2021年，出版诗文作品集《天是真的》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/6d22111fcb5966dd5a1c6e54e25bf6c1.jpg",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

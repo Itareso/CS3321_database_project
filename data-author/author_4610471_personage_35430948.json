@@ -1,0 +1,81 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "正常接触",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34951607.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37029960/",
+                        "year": "2024",
+                        "id": 37029960
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "小花旦",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33735236.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35192639/",
+                        "year": "2020",
+                        "id": 35192639
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "空响炮",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29708843.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30163040/",
+                        "year": "2019",
+                        "id": 30163040
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "街道江湖",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29856937.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30313392/",
+                        "year": "2018",
+                        "id": 30313392
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4610471/",
+    "author_douban_id": "4610471",
+    "personage_id": 35430948,
+    "name": [
+        "王占黑",
+        "Zhanhei Wang"
+    ],
+    "intro": "王占黑，1991年生于浙江嘉兴，毕业于复旦大学中文系。已出版小说集《空响炮》《街道江湖》。首届宝珀理想国文学奖得主。《空响炮》获第四届单向街书店文学奖年度作品、豆瓣2018年度中国文学（小说类）；《小花旦》获首届《钟山》之星文学奖年度青年佳作奖、2018收获文学排行榜中篇小说、第六届郁达夫文学奖终评作品等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/f2edaaee7d6d1d6fc995ab44774004a0.jpg",
+    "sex": 0,
+    "birth_date": 1991,
+    "age": 35,
+    "birth_place": [
+        "中国",
+        "浙江",
+        "嘉兴"
+    ],
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

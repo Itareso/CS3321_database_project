@@ -1,0 +1,92 @@
+{
+    "title": "裸体",
+    "bookInfo": {
+        "作者": "(意) 吉奥乔·阿甘本",
+        "出版社": "北京大学出版社",
+        "出品方": "培文",
+        "原作名": "Nudità",
+        "译者": "黄晓武",
+        "出版年": "2017-2-28",
+        "页数": "264",
+        "定价": "48.00",
+        "装帧": "精装",
+        "丛书": "文化理论译丛",
+        "ISBN": "9787301272374"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "46.7%",
+        "four_star_rate": "42.1%",
+        "three_star_rate": "9.3%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4586164/",
+            "name": "吉奥乔·阿甘本",
+            "role": "作者",
+            "douban_id": "4586164"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "38.60元",
+            "link": "https://book.douban.com/link2/?lowest=3300&pre=0&vendor=jingdong&srcpage=subject&price=3860&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFoQVAIKUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVVtUDEMTHDZNRwYlJG8KByI1fjx1ZCcWZBN9GVkDKxU5XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4BUV1cCkweM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gVVVRsCFgHUkJfWTVmGFMTXgcFVVptCkoWAW04K2tvNFJJKlsaXxtQWR1oRlNPOHp0DRwHYEh5ARV1WjJvFnZwBBcUciJEeydoK1gl&cntvendor=3&srcsubj=26823228&type=bkbuy&subject=26823228"
+        },
+        {
+            "name": "当当网",
+            "price": "33.00元",
+            "link": "https://book.douban.com/link2/?lowest=3300&pre=0&vendor=dangdang&srcpage=subject&price=3300&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26823228%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D24195174&cntvendor=3&srcsubj=26823228&type=bkbuy&subject=26823228"
+        },
+        {
+            "name": "中图网",
+            "price": "34.60元",
+            "link": "https://book.douban.com/link2/?lowest=3300&pre=0&vendor=bookschina&srcpage=subject&price=3460&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7411509.htm&cntvendor=3&srcsubj=26823228&type=bkbuy&subject=26823228"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26823228/",
+    "douban_id": "26823228",
+    "menu": [
+        "",
+        "        目 录",
+        "        译者序言",
+        "        第一篇　创造与救赎",
+        "        第二篇　何谓同时代人？",
+        "        第三篇　K",
+        "        第四篇　论生活在幽灵中的利与不利",
+        "        第五篇　论我们能不做什么",
+        "        第六篇　无人格的身份",
+        "        第七篇　裸体",
+        "        第八篇　荣耀的身体",
+        "        第九篇　公牛般的饥饿：关于安息日、庆典和安歇的思考",
+        "        第十篇　世界历史的最后一章",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s32325415.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "(意) 吉奥乔·阿甘本",
+            "link": "https://book.douban.com/search/%E5%90%89%E5%A5%A5%E4%B9%94%C2%B7%E9%98%BF%E7%94%98%E6%9C%AC"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        },
+        {
+            "text": "培文",
+            "link": "https://book.douban.com/producers/286"
+        },
+        {
+            "text": "黄晓武",
+            "link": "https://book.douban.com/search/%E9%BB%84%E6%99%93%E6%AD%A6"
+        },
+        {
+            "text": "文化理论译丛",
+            "link": "https://book.douban.com/series/31284"
+        }
+    ],
+    "tag": "西方哲学"
+}

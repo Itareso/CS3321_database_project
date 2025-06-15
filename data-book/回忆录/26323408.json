@@ -1,0 +1,88 @@
+{
+    "title": "我坦言我曾历尽沧桑",
+    "bookInfo": {
+        "作者": "[智利]巴勃罗·聂鲁达",
+        "出版社": "南海出版公司",
+        "出品方": "新经典文化",
+        "原作名": "Confieso que he vivido",
+        "译者": "林光",
+        "出版年": "2015-4",
+        "页数": "452",
+        "定价": "49.50元",
+        "装帧": "精装",
+        "丛书": "新经典文库：巴勃罗·聂鲁达作品",
+        "ISBN": "9787544276726"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《我坦言我曾历尽沧桑》是二十世纪所有语种中最伟大的诗人巴勃罗·聂鲁达撰写的一部自传体回忆录，文笔奇崛。本次精心修订译本，无删节完整呈现。不少作家和艺术家的轶闻趣事，读来引人入胜。就像诗人自己所说：“我是杂食动物，吞食感情、生物、书籍、事件和抗争。我真想把整个大地吞下；我真想把大海喝干。”从流泪到亲吻，从孤独到人民，都活在这些历久弥香的文字中。诗人所有的生活和智慧，那些欢喜和悲伤，那些执着和信念，那个始终保持一颗童心的伟大的人，从智利的大森林中，从大海的涛声中，从辽远的星空下，从绿色的墨水中，第一次完整而真实地朝我们走来。    ★巴勃罗·聂鲁达是二十世纪所有语种中最伟大的诗人。他书写任何事物都有伟大的诗篇，就好像弥达斯王，凡他触摸的东西，都会变成诗歌。——加西亚·马尔克斯    ★他的诗篇具有自然力般的作用，复苏了一个大陆的命运与梦想。——诺贝尔文学奖授奖辞    ★没有任何一个诗人，无论是表现主义的、未来主义的、达达主义的还是超现实主义的，能像巴勃罗•聂鲁达这样充满尊严、淋漓尽致地代表我们的时代。——西班牙文学评论家 阿马多·阿隆索    ★聂鲁达是当代最伟大的诗人，同时拥有睁开的和闭上的眼睛。梦游人的眼睛。——诺贝尔文学奖得主、诗人 帕斯    ★无论在内容和形式上，都可谓提炼出了聂鲁达的精华……是未来所有传记作家的起跑点。——《星期六评论》    ★其中关于一些地方的描述——印度、中国、墨西哥——精彩绝伦，但是最清晰地脱颖而出的还是身披光与影的智利。——《国家评论》\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "42.2%",
+        "four_star_rate": "44.4%",
+        "three_star_rate": "12.5%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1383647/",
+            "name": "巴勃罗·聂鲁达",
+            "role": "作者",
+            "douban_id": "1383647"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "80.50元",
+            "link": "https://book.douban.com/link2/?lowest=3710&pre=0&vendor=jingdong&srcpage=subject&price=8050&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070766319367.html&cntvendor=2&srcsubj=26323408&type=bkbuy&subject=26323408"
+        },
+        {
+            "name": "当当网",
+            "price": "37.10元",
+            "link": "https://book.douban.com/link2/?lowest=3710&pre=0&vendor=dangdang&srcpage=subject&price=3710&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26323408%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23681476&cntvendor=2&srcsubj=26323408&type=bkbuy&subject=26323408"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26323408/",
+    "douban_id": "26323408",
+    "menu": [
+        "",
+        "        题记",
+        "        一 年轻的乡巴佬",
+        "        二 浪迹城市",
+        "        三 走向世界之路",
+        "        四 灿烂的孤独",
+        "        五 西班牙在我心中",
+        "        六 出发寻找阵亡者",
+        "        七 多花又多刺的墨西哥",
+        "        八 黑暗中的祖国",
+        "        九 流亡始末",
+        "        十 归航",
+        "        十一 写诗是一门手艺",
+        "        十二 亲切又冷酷的祖国",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s28019967.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[智利]巴勃罗·聂鲁达",
+            "link": "https://book.douban.com/author/1383647"
+        },
+        {
+            "text": "南海出版公司",
+            "link": "https://book.douban.com/press/2413"
+        },
+        {
+            "text": "新经典文化",
+            "link": "https://book.douban.com/producers/3"
+        },
+        {
+            "text": "林光",
+            "link": "https://book.douban.com/search/%E6%9E%97%E5%85%89"
+        },
+        {
+            "text": "新经典文库：巴勃罗·聂鲁达作品",
+            "link": "https://book.douban.com/series/26138"
+        }
+    ],
+    "tag": "回忆录"
+}

@@ -1,0 +1,85 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "一米寂静",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34535986.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36367996/",
+                        "year": "2023",
+                        "id": 36367996
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "夜莺复调（当代文学对话录）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34945204.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36553650/",
+                        "year": "2023",
+                        "id": 36553650
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "时代的低语",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33561995.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34950812/",
+                        "year": "2020",
+                        "id": 34950812
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "普鲁斯特的凝视",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s31248616.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30481027/",
+                        "year": "2019",
+                        "id": 30481027
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "四分之三的沉默",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28920352.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26842713/",
+                        "year": "2016",
+                        "id": 26842713
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4623960/",
+    "author_douban_id": "4623960",
+    "personage_id": 36557024,
+    "name": [
+        "傅小平",
+        "Xiaoping Fu"
+    ],
+    "intro": "傅小平，1978年生，祖籍浙江磐安，现居上海。写小说、评论、随笔，做对话访谈，业余开专栏。媒体从业十载，获新闻类、文学类奖项若干。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/14a1da942614f7ee33924272abf43e57.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

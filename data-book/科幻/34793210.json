@@ -1,0 +1,80 @@
+{
+    "title": "人间弃子",
+    "bookInfo": {
+        "作者": "盛兴",
+        "出版社": "北京日报出版社",
+        "出品方": "雁北堂",
+        "出版年": "2019-10-20",
+        "页数": "320",
+        "定价": "42.00",
+        "装帧": "平装",
+        "ISBN": "9787547734346"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.8%",
+        "four_star_rate": "33.8%",
+        "three_star_rate": "16.5%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "1.8%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "12.60元",
+            "link": "https://read.douban.com/ebook/319014972/?dcs=subject-buylink&dcm=douban&dct=34793210"
+        },
+        {
+            "name": "京东商城",
+            "price": "18.06元",
+            "link": "https://book.douban.com/link2/?lowest=1805&pre=0&vendor=jingdong&srcpage=subject&price=1805&pos=2&url=https%3A%2F%2Fitem.jd.com%2F10021119189391.html&cntvendor=2&srcsubj=34793210&type=bkbuy&subject=34793210"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34793210/",
+    "douban_id": "34793210",
+    "menu": [
+        "",
+        "        Chapter 00 楔子",
+        "        Chapter 01 无人之境",
+        "        Chapter 02 生日礼物",
+        "        Chapter 03 人工智能",
+        "        Chapter 04 熄灯之夜",
+        "        Chapter 05 古董豪车",
+        "        Chapter 06 落闸之人",
+        "        Chapter 07 查无此件",
+        "        Chapter 08 全息女神",
+        "        Chapter 09 一饭之交",
+        "        Chapter 10 AI之家",
+        "        Chapter 11 仿真少女",
+        "        Chapter 12 招蜂女孩",
+        "        Chapter 13 果蝇计划",
+        "        Chapter 14 食用烟花",
+        "        Chapter 15 游子之家",
+        "        Chapter 16 家族往事",
+        "        Chapter 17 无从告白",
+        "        Chapter 18 地狱空空",
+        "        Chapter 19 决策之日",
+        "        Chapter 20 永生炼狱",
+        "        Chapter 21 人间末日",
+        "        后记 愿有人予风中立",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33456798.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "盛兴",
+            "link": "https://book.douban.com/search/%E7%9B%9B%E5%85%B4"
+        },
+        {
+            "text": "北京日报出版社",
+            "link": "https://book.douban.com/press/2656"
+        },
+        {
+            "text": "雁北堂",
+            "link": "https://book.douban.com/producers/106"
+        }
+    ],
+    "tag": "科幻"
+}

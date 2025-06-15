@@ -1,0 +1,79 @@
+{
+    "title": "孤独东京",
+    "bookInfo": {
+        "作者": "[日] 三浦紫苑",
+        "出版社": "北京联合出版公司",
+        "出品方": "磨铁有狐",
+        "原作名": "あの家に暮らす四人の女",
+        "译者": "陆求实",
+        "出版年": "2021-4",
+        "页数": "296",
+        "定价": "45",
+        "装帧": "平装",
+        "丛书": "磨铁·三浦紫苑作品",
+        "ISBN": "9787559649874"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "8.3%",
+        "four_star_rate": "31.6%",
+        "three_star_rate": "49.0%",
+        "two_star_rate": "9.5%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561169/",
+            "name": "三浦紫苑",
+            "role": "作者",
+            "douban_id": "4561169"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "17.00元",
+            "link": "https://book.douban.com/link2/?lowest=1700&pre=0&vendor=jingdong&srcpage=subject&price=1700&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070503269166.html&cntvendor=2&srcsubj=35355856&type=bkbuy&subject=35355856"
+        },
+        {
+            "name": "中图网",
+            "price": "20.30元",
+            "link": "https://book.douban.com/link2/?lowest=1700&pre=0&vendor=bookschina&srcpage=subject&price=2030&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8588284.htm&cntvendor=2&srcsubj=35355856&type=bkbuy&subject=35355856"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35355856/",
+    "douban_id": "35355856",
+    "menu": [
+        "",
+        "        1 孤",
+        "        2 独",
+        "        3 东",
+        "        4 京",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33871049.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 三浦紫苑",
+            "link": "https://book.douban.com/author/4561169"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "磨铁有狐",
+            "link": "https://book.douban.com/producers/117"
+        },
+        {
+            "text": "陆求实",
+            "link": "https://book.douban.com/search/%E9%99%86%E6%B1%82%E5%AE%9E"
+        },
+        {
+            "text": "磨铁·三浦紫苑作品",
+            "link": "https://book.douban.com/series/56263"
+        }
+    ],
+    "tag": "日本文学"
+}

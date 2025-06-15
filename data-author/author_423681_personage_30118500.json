@@ -1,0 +1,118 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "胡小石中国文学批评史论",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35077490.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37036880/",
+                        "year": "2024",
+                        "id": 37036880
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "中国文学史讲稿",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34261775.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35983199/",
+                        "year": "2022",
+                        "id": 35983199
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "金陵四家诗词选集",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26496437/",
+                        "year": "2015",
+                        "id": 26496437
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "胡小石文史论丛",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s5896605.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/3083296/",
+                        "year": "2008",
+                        "id": 3083296
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "胡小石论文集三编",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27166153.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3540249/",
+                        "year": "1995",
+                        "id": 3540249
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.8,
+                        "title": "胡小石论文集续编",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s4431881.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/3540243/",
+                        "year": "1991",
+                        "id": 3540243
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.5,
+                        "title": "胡小石论文集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s3600146.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/2372526/",
+                        "year": "1982",
+                        "id": 2372526
+                    }
+                }
+            ],
+            "total": 7
+        }
+    },
+    "author_link": "https://book.douban.com/author/423681/",
+    "author_douban_id": "423681",
+    "personage_id": 30118500,
+    "name": [
+        "胡小石",
+        "Xiaoshi Hu"
+    ],
+    "intro": "胡小石（1888年-1962年），名光炜，字小石，号倩尹，又号夏庐，斋名愿夏庐，晚年别号子夏、沙公。祖籍浙江嘉兴，出生于南京。国学大师，兼为文字学家、文学家、史学家、书法家、艺术家。於古文字、声韵、训诂、群经、史籍、诸子百家、佛典、道藏、金石、书画之学，以至辞赋、诗歌、词曲、小说、戏剧，无所不通，尤以古文字学、书学、楚辞、杜诗、文学史最为精到。曾任金陵大学教授，中央大学中文系教授兼系主任、文学院院长，南京大学中文系教授兼系主任，文学院院长，南京大学图书馆馆长，与陈中凡、汪辟疆并称南大中文系三老。1962年3月16日晨病逝于江苏省工人医院，享年74岁。胡小石先生有遗言，藏书赠南京大学图书馆，所藏文物捐赠南京博物院。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/1492163277.15.jpg",
+    "更多中文名": "倩尹、夏庐、愿夏庐、子夏、沙公",
+    "sex": 1,
+    "birth_date": 1888,
+    "death_date": 1962,
+    "age": 75,
+    "birth_place": [
+        "中国",
+        "江苏",
+        "南京"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

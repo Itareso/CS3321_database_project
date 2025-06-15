@@ -1,0 +1,114 @@
+{
+    "title": "第四条边",
+    "bookInfo": {
+        "作者": "瞬雨",
+        "出版社": "广东人民出版社",
+        "出版年": "2023-1",
+        "页数": "352",
+        "定价": "78",
+        "装帧": "平装",
+        "ISBN": "9787218155890"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "67.4%",
+        "four_star_rate": "22.0%",
+        "three_star_rate": "4.4%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "5.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4625083/",
+            "name": "瞬雨",
+            "role": "作者",
+            "douban_id": "4625083"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "39.00元",
+            "link": "https://book.douban.com/link2/?lowest=3900&pre=0&vendor=jingdong&srcpage=subject&price=3900&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVwVXw4EUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOPDweUC93fApVfAlRK1tCUR4vVkIQAy5rdVkdXVFgNwYPURZUQAdqUxJ9LRFCWCokdCxgYARXbARxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYGAERcYBBCWw12SzhCAl5BBgw1dTF3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFddDkkUBGw4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQQBUV8zVE1BAidOHgJ7XQYFVF1dAEonAW4JGVklbTZqNh0FbCtoZjJvSR9jAEYHFCwDAUwXQgxmGVMVCmRhDAwEVQhUaw1AUjNlbQUy&cntvendor=3&srcsubj=36206878&type=bkbuy&subject=36206878"
+        },
+        {
+            "name": "当当网",
+            "price": "78.00元",
+            "link": "https://book.douban.com/link2/?lowest=3900&pre=0&vendor=dangdang&srcpage=subject&price=7800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36206878%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29505229&cntvendor=3&srcsubj=36206878&type=bkbuy&subject=36206878"
+        },
+        {
+            "name": "中图网",
+            "price": "43.90元",
+            "link": "https://book.douban.com/link2/?lowest=3900&pre=0&vendor=bookschina&srcpage=subject&price=4390&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8999067.htm&cntvendor=3&srcsubj=36206878&type=bkbuy&subject=36206878"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36206878/",
+    "douban_id": "36206878",
+    "menu": [
+        "",
+        "        第一章 血色星球    001",
+        "        第二章 故障代码    007",
+        "        第三章 探测器    012",
+        "        第四章 卡西尼实验室    017",
+        "        第五章 风暴之眼    022",
+        "        第六章 路演    027",
+        "        第七章 手稿    032",
+        "        第八章 沉子暴    036",
+        "        第九章 尼罗河畔    044",
+        "        第十章 冻结的三十分钟    051",
+        "        第 十 一 章 真实的开罗    059",
+        "        第 十 二 章 黑故事    066",
+        "        第 十 三 章 对赌    072",
+        "        第 十 四 章 苏雨的诗    077",
+        "        第 十 五 章 马总的二级文明    085",
+        "        第 十 六 章 改变过去    091",
+        "        第 十 七 章 禁止虚拟人类法    097",
+        "        第 十 八 章 紧急唤醒    101",
+        "        第 十 九 章 守株待兔    106",
+        "        第 二 十 章 双镜效应    111",
+        "        第二十一章 热点话题    115",
+        "        第二十二章 云河    120",
+        "        第二十三章 蓝色的猫    125",
+        "        第二十四章 时间的客体    131",
+        "        第二十五章 梦的镜像    137",
+        "        第二十六章 火星城    144",
+        "        第二十七章 镜梦空间    152",
+        "        第二十八章 五线谱    157",
+        "        第二十九章 子兔    162",
+        "        第 三 十 章 女神之焰    170",
+        "        第三十一章 穿过的针眼    178",
+        "        第三十二章 错位    186",
+        "        第三十三章 死人城相遇    196",
+        "        第三十四章 战略协议    205",
+        "        第三十五章 凌星    214",
+        "        第三十六章 队友    223",
+        "        第三十七章 生门    228",
+        "        第三十八章 香水    236",
+        "        第三十九章 并购    245",
+        "        第 四 十 章 牡丹花天线阵    254",
+        "        第四十一章 分形    262",
+        "        第四十二章 弦与布谷鸟    270",
+        "        第四十三章 欲望    279",
+        "        第四十四章 金字塔    286",
+        "        第四十五章 小红斑    294",
+        "        第四十六章 蝴蝶    303",
+        "        第四十七章 积分    311",
+        "        第四十八章 太阳船    320",
+        "        第四十九章 分手    328",
+        "        第 五 十 章 在一起    338",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34387733.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "瞬雨",
+            "link": "https://book.douban.com/author/4625083"
+        },
+        {
+            "text": "广东人民出版社",
+            "link": "https://book.douban.com/press/2707"
+        }
+    ],
+    "tag": "科幻"
+}

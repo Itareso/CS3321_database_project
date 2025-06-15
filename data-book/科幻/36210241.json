@@ -1,0 +1,81 @@
+{
+    "title": "三尖树时代",
+    "bookInfo": {
+        "作者": "[英] 约翰·温德姆",
+        "出版社": "人民文学出版社",
+        "译者": "陈元飞 / 杨荣广",
+        "出版年": "2023-3",
+        "丛书": "约翰·温德姆科幻经典系列",
+        "ISBN": "9787020177349"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "8.8%",
+        "four_star_rate": "44.1%",
+        "three_star_rate": "33.8%",
+        "two_star_rate": "7.4%",
+        "one_star_rate": "5.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614228/",
+            "name": "约翰·温德姆",
+            "role": "作者",
+            "douban_id": "4614228"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "24.99元",
+            "link": "https://read.douban.com/ebook/426698819/?dcs=subject-buylink&dcm=douban&dct=36210241"
+        },
+        {
+            "name": "得到",
+            "price": "24.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=Z1GDBjp8o9nDz1NZyd5MXvBj6RKEVwNDqryWAp4aGOkJmYQrLbP7e2glqxl9qNPe&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "34.50元",
+            "link": "https://book.douban.com/link2/?lowest=3450&pre=0&vendor=jingdong&srcpage=subject&price=3450&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVwSWQYBVm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOKC0oWkN3cBtwaAdNAWB0URwnQyBnQD1hdVloNmZxPAwLWjNEUBN7TS5dFhFCWCokdCxjWhxPb1lpBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZXHCUqdA8QXQxNUycXNGVKKR4NXx1nD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVCU0XA2k4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRAAwzVE1BAioPWBJ7XQYFUF5bDkonAW4JGVklbTZ-JysPACtkdxd7RwNJO3AHFiQWYztUUQZmGSZ-PXVqBggPcBhEfxxebhNebQUy&cntvendor=5&srcsubj=36210241&type=bkbuy&subject=36210241"
+        },
+        {
+            "name": "当当网",
+            "price": "69.00元",
+            "link": "https://book.douban.com/link2/?lowest=3450&pre=0&vendor=dangdang&srcpage=subject&price=6900&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36210241%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29548017&cntvendor=5&srcsubj=36210241&type=bkbuy&subject=36210241"
+        },
+        {
+            "name": "中图网",
+            "price": "36.90元",
+            "link": "https://book.douban.com/link2/?lowest=3450&pre=0&vendor=bookschina&srcpage=subject&price=3690&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9043005.htm&cntvendor=5&srcsubj=36210241&type=bkbuy&subject=36210241"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36210241/",
+    "douban_id": "36210241",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34389911.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 约翰·温德姆",
+            "link": "https://book.douban.com/search/%E7%BA%A6%E7%BF%B0%C2%B7%E6%B8%A9%E5%BE%B7%E5%A7%86"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "陈元飞",
+            "link": "https://book.douban.com/search/%E9%99%88%E5%85%83%E9%A3%9E"
+        },
+        {
+            "text": "杨荣广",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E8%8D%A3%E5%B9%BF"
+        },
+        {
+            "text": "约翰·温德姆科幻经典系列",
+            "link": "https://book.douban.com/series/64179"
+        }
+    ],
+    "tag": "科幻"
+}

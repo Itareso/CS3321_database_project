@@ -1,0 +1,55 @@
+{
+    "title": "三重门",
+    "bookInfo": {
+        "作者": "韩寒",
+        "出版社": "万卷出版公司",
+        "出版年": "2010-6",
+        "页数": "239",
+        "定价": "24.00元",
+        "装帧": "平装",
+        "丛书": "韩寒文集（2010版）",
+        "ISBN": "9787547011157"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "18.9%",
+        "four_star_rate": "40.1%",
+        "three_star_rate": "35.2%",
+        "two_star_rate": "4.5%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4521370/",
+            "name": "韩寒",
+            "role": "作者",
+            "douban_id": "4521370"
+        }
+    ],
+    "shops": [
+        {
+            "name": "中图网",
+            "price": "12.30元",
+            "link": "https://book.douban.com/link2/?lowest=1230&pre=0&vendor=bookschina&srcpage=subject&price=1230&pos=1&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F4808225.htm&cntvendor=1&srcsubj=4906157&type=bkbuy&subject=4906157"
+        }
+    ],
+    "url": "https://book.douban.com/subject/4906157/",
+    "douban_id": "4906157",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s6202141.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "韩寒",
+            "link": "https://book.douban.com/author/4521370"
+        },
+        {
+            "text": "万卷出版公司",
+            "link": "https://book.douban.com/press/2729"
+        },
+        {
+            "text": "韩寒文集（2010版）",
+            "link": "https://book.douban.com/series/41014"
+        }
+    ],
+    "tag": "校园"
+}

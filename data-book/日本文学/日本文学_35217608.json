@@ -1,0 +1,71 @@
+{
+    "title": "热带",
+    "bookInfo": {
+        "作者": "[日] 森见登美彦",
+        "出版社": "山东画报出版社",
+        "出品方": "果麦文化",
+        "原作名": "熱帯",
+        "译者": "高一君",
+        "出版年": "2020-10",
+        "页数": "432",
+        "定价": "59.8",
+        "装帧": "平装",
+        "ISBN": "9787547436936"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.7%",
+        "four_star_rate": "43.6%",
+        "three_star_rate": "31.3%",
+        "two_star_rate": "3.7%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/575580/",
+            "name": "森见登美彦",
+            "role": "作者",
+            "douban_id": "575580"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "59.80元",
+            "link": "https://book.douban.com/link2/?lowest=5980&pre=0&vendor=jingdong&srcpage=subject&price=5980&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12789335.html&cntvendor=1&srcsubj=35217608&type=bkbuy&subject=35217608"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35217608/",
+    "douban_id": "35217608",
+    "menu": [
+        "",
+        "        第一章　　沉默读书会001",
+        "        第二章　　学团的男人032",
+        "        第三章　　满月的女巫113",
+        "        第四章　　不可视群岛210",
+        "        第五章　　《热带》的诞生285",
+        "        后记　　403",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33771913.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 森见登美彦",
+            "link": "https://book.douban.com/author/575580"
+        },
+        {
+            "text": "山东画报出版社",
+            "link": "https://book.douban.com/press/2249"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "高一君",
+            "link": "https://book.douban.com/search/%E9%AB%98%E4%B8%80%E5%90%9B"
+        }
+    ],
+    "tag": "日本文学"
+}

@@ -1,0 +1,55 @@
+{
+    "title": "骆一禾情书",
+    "bookInfo": {
+        "作者": "骆一禾",
+        "出版社": "东方出版中心",
+        "出版年": "2019-10-20",
+        "页数": "295",
+        "定价": "45",
+        "装帧": "平装",
+        "ISBN": "9787547315415"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "66.3%",
+        "four_star_rate": "27.8%",
+        "three_star_rate": "5.3%",
+        "two_star_rate": "0.4%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "20.50元",
+            "link": "https://book.douban.com/link2/?lowest=1630&pre=0&vendor=jingdong&srcpage=subject&price=2050&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olVQIFXFpZCEsRM2gMGl4SXQUGVVtcOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocU1pcDUwXAGsJHloKBENeCW4WSw5HAmwSRzlQJ18CAV4IEjBWdC1oF1clWgMFUllUC0wnA2sJH18lbQYDZB8zC0oTAGwBK1kVXAcHVFZaC0onA2kNGlgUXgcCUV5fAXsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEBWxcEw5AM1oEAx0PUxVSbW8JHFgcXQQFZFxcCUkVM184XQNjBWFiAxsdXB5URWhvTgsQJUBXCFgVZklHQWZQcwMWH0Z6VyQFUy5pBV8LKw&cntvendor=2&srcsubj=34862642&type=bkbuy&subject=34862642"
+        },
+        {
+            "name": "中图网",
+            "price": "16.30元",
+            "link": "https://book.douban.com/link2/?lowest=1630&pre=0&vendor=bookschina&srcpage=subject&price=1630&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5922833.htm&cntvendor=2&srcsubj=34862642&type=bkbuy&subject=34862642"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34862642/",
+    "douban_id": "34862642",
+    "menu": [
+        "",
+        "        世界是从两个赤裸的年轻恋人开始的（代序）/1",
+        "        骆一禾情书/1",
+        "        张玞致骆一禾/289",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33503563.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "骆一禾",
+            "link": "https://book.douban.com/search/%E9%AA%86%E4%B8%80%E7%A6%BE"
+        },
+        {
+            "text": "东方出版中心",
+            "link": "https://book.douban.com/press/2321"
+        }
+    ],
+    "tag": "随笔"
+}

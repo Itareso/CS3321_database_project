@@ -1,0 +1,87 @@
+{
+    "title": "三行集",
+    "bookInfo": {
+        "作者": "张新颖",
+        "出版社": "上海文艺出版社",
+        "出品方": "艺文志eons",
+        "出版年": "2021-2",
+        "页数": "232",
+        "定价": "39.00",
+        "装帧": "精装",
+        "丛书": "艺文志·诗",
+        "ISBN": "9787532173082"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "19.2%",
+        "four_star_rate": "46.6%",
+        "three_star_rate": "26.9%",
+        "two_star_rate": "4.9%",
+        "one_star_rate": "2.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4544566/",
+            "name": "张新颖",
+            "role": "作者",
+            "douban_id": "4544566"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "20.67元",
+            "link": "https://book.douban.com/link2/?lowest=2067&pre=0&vendor=jingdong&srcpage=subject&price=2067&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVsUVQUDVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOKjoZWyt3AQ1-bVxnIWFwFzkkAQtNU25XdVl2OGBmDQ1bXz1TRxFsZAhwCRFCWCokdClgcCZKbzJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZXHQg0VC1EVwpefTJlGnlYNyMcTy9RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtZAU0eCm44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA4DXQwzVE1AQShJRlN7XQcEU1paDUInAW4JGVklbTZ8MBoOaCsVYRl-HClpOnRBMydUSBFHAjBmGThwO2JbB1gKfg9TfQt3SD5BbQUy&cntvendor=3&srcsubj=35099271&type=bkbuy&subject=35099271"
+        },
+        {
+            "name": "当当网",
+            "price": "22.00元",
+            "link": "https://book.douban.com/link2/?lowest=2067&pre=0&vendor=dangdang&srcpage=subject&price=2200&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35099271%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29201913&cntvendor=3&srcsubj=35099271&type=bkbuy&subject=35099271"
+        },
+        {
+            "name": "中图网",
+            "price": "27.50元",
+            "link": "https://book.douban.com/link2/?lowest=2067&pre=0&vendor=bookschina&srcpage=subject&price=2750&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8500805.htm&cntvendor=3&srcsubj=35099271&type=bkbuy&subject=35099271"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35099271/",
+    "douban_id": "35099271",
+    "menu": [
+        "",
+        "        题记",
+        "        第一辑    小毛茛变成了蛇莓",
+        "        第二辑    鸟从鸟鸣里飞了出去",
+        "        第三辑    风吹到旷野和字的笔画之间",
+        "        第四辑    时间岸边丢弃的火镰",
+        "        第五辑    暗自增添深邃的可能",
+        "        第六辑    一种寂静拍肩  另一种寂静扑面",
+        "        第七辑    立在现实的裂隙中  莫名",
+        "        第八辑    风在少年上面  星群在风的上面",
+        "        第九辑    行囊里有一小块沉默",
+        "        附录",
+        "        领受的诗学",
+        "        ——谈张新颖的诗              王子瓜",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33792867.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张新颖",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E6%96%B0%E9%A2%96"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        },
+        {
+            "text": "艺文志eons",
+            "link": "https://book.douban.com/producers/123"
+        },
+        {
+            "text": "艺文志·诗",
+            "link": "https://book.douban.com/series/59150"
+        }
+    ],
+    "tag": "随笔"
+}

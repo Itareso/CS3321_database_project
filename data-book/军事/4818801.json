@@ -1,0 +1,74 @@
+{
+    "title": "长征记",
+    "bookInfo": {
+        "作者": "[古希腊] 色诺芬",
+        "出版社": "商务印书馆",
+        "译者": "崔金戎",
+        "出版年": "2009",
+        "页数": "228",
+        "定价": "26.00元",
+        "装帧": "平装",
+        "丛书": "汉译世界学术名著丛书（珍藏本）",
+        "ISBN": "9787100064514"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "57.9%",
+        "four_star_rate": "36.8%",
+        "three_star_rate": "5.3%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/139589/",
+            "name": "色诺芬",
+            "role": "作者",
+            "douban_id": "139589"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "72.54元",
+            "link": "https://book.douban.com/link2/?lowest=7254&pre=0&vendor=jingdong&srcpage=subject&price=7254&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10047347749064.html&cntvendor=1&srcsubj=4818801&type=bkbuy&subject=4818801"
+        }
+    ],
+    "url": "https://book.douban.com/subject/4818801/",
+    "douban_id": "4818801",
+    "menu": [
+        "",
+        "        汉译本序言",
+        "        英译本序言",
+        "        卷一",
+        "        卷二",
+        "        卷三",
+        "        卷四",
+        "        卷五",
+        "        卷六",
+        "        卷七",
+        "        译名对照表",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29767159.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[古希腊] 色诺芬",
+            "link": "https://book.douban.com/search/%E8%89%B2%E8%AF%BA%E8%8A%AC"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "崔金戎",
+            "link": "https://book.douban.com/search/%E5%B4%94%E9%87%91%E6%88%8E"
+        },
+        {
+            "text": "汉译世界学术名著丛书（珍藏本）",
+            "link": "https://book.douban.com/series/9538"
+        }
+    ],
+    "tag": "军事"
+}

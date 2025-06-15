@@ -1,0 +1,34 @@
+{
+    "title": "Lyrics",
+    "bookInfo": {
+        "作者": "Bob Dylan",
+        "出版社": "Simon & Schuster",
+        "副标题": "1962-2001",
+        "出版年": "2004-10-19",
+        "页数": "610",
+        "定价": "USD 45.00",
+        "装帧": "Hardcover",
+        "ISBN": "9780743228275"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "88.9%",
+        "four_star_rate": "8.9%",
+        "three_star_rate": "2.2%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [],
+    "url": "https://book.douban.com/subject/2551865/",
+    "douban_id": "2551865",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s4151849.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "Bob Dylan",
+            "link": "https://book.douban.com/search/Bob%20Dylan"
+        }
+    ],
+    "tag": "音乐"
+}

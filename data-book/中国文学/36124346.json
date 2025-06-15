@@ -1,0 +1,90 @@
+{
+    "title": "冬泳",
+    "bookInfo": {
+        "作者": "班宇",
+        "出版社": "上海文艺出版社",
+        "出品方": "单读 / 铸刻文化",
+        "出版年": "2023-7",
+        "页数": "320",
+        "定价": "58.00元",
+        "装帧": "精装",
+        "丛书": "单读丛书",
+        "ISBN": "9787532183661"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.2%",
+        "four_star_rate": "51.2%",
+        "three_star_rate": "25.3%",
+        "two_star_rate": "2.8%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4612828/",
+            "name": "班宇",
+            "role": "作者",
+            "douban_id": "4612828"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "58.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0R9yRZw8XDBK9qZpgkRELd75z4Ma6oDRrqj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "30.74元",
+            "link": "https://book.douban.com/link2/?lowest=3074&pre=0&vendor=jingdong&srcpage=subject&price=3074&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHloSXwMKXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOHB09Y0N3CzNOXy9UXHJEFzkNThlWXjl_dVlDBHhBAzU_VQ11YSdLHDBrWxFCWCokaC5jWgRIbSJDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZWMz85CzBiZApIS1hNFG5nBz8iehJnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYNK1sTWAcBVVtZCkgSAmo4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHUAkzVE1AQStQWBN7XQcFVltfDk4nAW4JGVklbTZKFz42ACsfXylMbxoUKUBBMw4bWgpKVRhmGQ1MI0VVPzwATil1SywPcCUTbQUy&cntvendor=4&srcsubj=36124346&type=bkbuy&subject=36124346"
+        },
+        {
+            "name": "当当网",
+            "price": "49.00元",
+            "link": "https://book.douban.com/link2/?lowest=3074&pre=0&vendor=dangdang&srcpage=subject&price=4900&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36124346%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29602477&cntvendor=4&srcsubj=36124346&type=bkbuy&subject=36124346"
+        },
+        {
+            "name": "中图网",
+            "price": "40.40元",
+            "link": "https://book.douban.com/link2/?lowest=3074&pre=0&vendor=bookschina&srcpage=subject&price=4040&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9140075.htm&cntvendor=4&srcsubj=36124346&type=bkbuy&subject=36124346"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36124346/",
+    "douban_id": "36124346",
+    "menu": [
+        "",
+        "        盘锦豹子",
+        "        肃杀",
+        "        冬泳",
+        "        空中道路",
+        "        梯形夕阳",
+        "        工人村",
+        "        枪墓",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34582875.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "班宇",
+            "link": "https://book.douban.com/search/%E7%8F%AD%E5%AE%87"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        },
+        {
+            "text": "单读",
+            "link": "https://book.douban.com/producers/520"
+        },
+        {
+            "text": "铸刻文化",
+            "link": "https://book.douban.com/producers/227"
+        },
+        {
+            "text": "单读丛书",
+            "link": "https://book.douban.com/series/4717"
+        }
+    ],
+    "tag": "中国文学"
+}

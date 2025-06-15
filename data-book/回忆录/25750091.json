@@ -1,0 +1,81 @@
+{
+    "title": "晦侬往事",
+    "bookInfo": {
+        "作者": "周素子",
+        "出版社": "生活·读书·新知三联书店",
+        "出版年": "2013-10",
+        "页数": "177",
+        "定价": "28.00",
+        "装帧": "平装",
+        "丛书": "大家雅音",
+        "ISBN": "9787108045331"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.2%",
+        "four_star_rate": "45.2%",
+        "three_star_rate": "8.2%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/172233/",
+            "name": "周素子",
+            "role": "作者",
+            "douban_id": "172233"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "58.00元",
+            "link": "https://book.douban.com/link2/?lowest=5800&pre=0&vendor=jingdong&srcpage=subject&price=5800&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10035105623133.html&cntvendor=1&srcsubj=25750091&type=bkbuy&subject=25750091"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25750091/",
+    "douban_id": "25750091",
+    "menu": [
+        "",
+        "        海燕其归来乎？",
+        "        读出了蔡元培",
+        "        第一辑",
+        "        故乡",
+        "        节日",
+        "        衣食",
+        "        凉茶",
+        "        母亲",
+        "        毂哥米哥",
+        "        二姐",
+        "        义仆",
+        "        三个女儿",
+        "        第二辑",
+        "        辗转的户口",
+        "        捡破烂与学针灸",
+        "        求学记",
+        "        西域探夫记",
+        "        患难中的三位女友",
+        "        留下镇友人",
+        "        河头人物",
+        "        河头轶事",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s27099319.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "周素子",
+            "link": "https://book.douban.com/search/%E5%91%A8%E7%B4%A0%E5%AD%90"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        },
+        {
+            "text": "大家雅音",
+            "link": "https://book.douban.com/series/32065"
+        }
+    ],
+    "tag": "回忆录"
+}

@@ -1,0 +1,49 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "去屠宰场谈恋爱好吗",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33489771.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34841411/",
+                        "year": "2019",
+                        "id": 34841411
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "研究怪兽的人",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29722345.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30176034/",
+                        "year": "2018",
+                        "id": 30176034
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/4636765/",
+    "author_douban_id": "4636765",
+    "personage_id": 37036020,
+    "name": [
+        "李小婧",
+        "Xiaojing  Li"
+    ],
+    "intro": "湖北武汉人，毕业于上海戏剧学院。文学作品散见于《长江文艺》《青年作家》《湖南文学》、ONE一个APP等。已出版短篇小说集《研究怪兽的人》《去屠宰场谈恋爱好吗》。电影代表作品《红孩儿》入选filMarathon2024（48小时电影马拉松）官方选择首选；入选SHORTS! ESFF电影节等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/03e4ea3ca3bcc51f361a115a2c33f461.jpg",
+    "profession": [
+        "编剧",
+        "作者"
+    ]
+}

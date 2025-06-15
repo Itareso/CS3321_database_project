@@ -1,0 +1,148 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "天上深渊",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34590635.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36466761/",
+                        "year": "2023",
+                        "id": 36466761
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "指花扯蕊",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33659569.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35023459/",
+                        "year": "2020",
+                        "id": 35023459
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "诗的八堂课",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29350555.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26893046/",
+                        "year": "2017",
+                        "id": 26893046
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "古典诗的现代性",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29534278.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26992894/",
+                        "year": "2017",
+                        "id": 26992894
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "湖上吹水录",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29202612.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26430313/",
+                        "year": "2016",
+                        "id": 26430313
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "秘响旁通",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29353292.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26723540/",
+                        "year": "2016",
+                        "id": 26723540
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "赖床",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27207193.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25813342/",
+                        "year": "2014",
+                        "id": 25813342
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "桥",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27767167.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/25986657/",
+                        "year": "2014",
+                        "id": 25986657
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "文本的肉身",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27057039.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25709405/",
+                        "year": "2013",
+                        "id": 25709405
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "陆客台湾",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s4618265.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/5950700/",
+                        "year": "2011",
+                        "id": 5950700
+                    }
+                }
+            ],
+            "total": 18
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608659/",
+    "author_douban_id": "4608659",
+    "personage_id": 30141239,
+    "name": [
+        "江弱水",
+        "Ruoshui Jiang"
+    ],
+    "intro": "\"江弱水，1963年生，安徽青阳人，香港中文大学哲学博士，浙江大学教授。著有《中西同步与位移》、《古典诗的现代性》等。兼写诗与随笔，有诗集《线装的心情》，随笔集《陆客台湾》、《赖床》。\"",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/e144c4022815549f3b65d45c1f3d176c.jpg",
+    "更多中文名": "陈强",
+    "sex": 1,
+    "birth_date": 1963,
+    "age": 63,
+    "profession": [
+        "作者"
+    ]
+}

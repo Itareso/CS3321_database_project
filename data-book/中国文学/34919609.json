@@ -1,0 +1,75 @@
+{
+    "title": "狼图腾",
+    "bookInfo": {
+        "作者": "姜戎",
+        "出版社": "北京十月文艺出版社",
+        "出品方": "新经典文化",
+        "出版年": "2020-2-1",
+        "页数": "656",
+        "定价": "69.00",
+        "装帧": "精装",
+        "ISBN": "9787530220245"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.0%",
+        "four_star_rate": "29.8%",
+        "three_star_rate": "13.9%",
+        "two_star_rate": "5.2%",
+        "one_star_rate": "13.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/126770/",
+            "name": "姜戎",
+            "role": "作者",
+            "douban_id": "126770"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "41.40元",
+            "link": "https://read.douban.com/ebook/337284285/?dcs=subject-buylink&dcm=douban&dct=34919609"
+        },
+        {
+            "name": "得到",
+            "price": "41.40元",
+            "link": "https://www.dedao.cn/ebook/detail?id=bxEYR1zAbZMmVzK4p1oxl67XeNaB83Olnow92GJERgryYQdDnqjkPLvO5eOZ8Nqr&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "49.70元",
+            "link": "https://book.douban.com/link2/?lowest=4720&pre=0&vendor=jingdong&srcpage=subject&price=4970&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwVVA8FUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOAQ4hWyt3AidNZCtsIm9_EAwJcUpMSypbdVlNA3pSAQ1dUA5jdzpYRjpBFBFCWCokcCxgYG9UbFlHBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZqAVxZTAtfegwOXyFwPg99ICUaaBRBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcBVVxUAEofBW44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQYDXVgzVE1AQTlLXwt7XQcFVlxZCEsnAW4JGVklbTZXBCIOaCsWSyp3ayJqNHtGBgokCRBfRjxmGQNLIVZXB14FTT9jVj9Veg9cbQUy&cntvendor=5&srcsubj=34919609&type=bkbuy&subject=34919609"
+        },
+        {
+            "name": "当当网",
+            "price": "49.70元",
+            "link": "https://book.douban.com/link2/?lowest=4720&pre=0&vendor=dangdang&srcpage=subject&price=4970&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34919609%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28508902&cntvendor=5&srcsubj=34919609&type=bkbuy&subject=34919609"
+        },
+        {
+            "name": "中图网",
+            "price": "47.20元",
+            "link": "https://book.douban.com/link2/?lowest=4720&pre=0&vendor=bookschina&srcpage=subject&price=4720&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8246506.htm&cntvendor=5&srcsubj=34919609&type=bkbuy&subject=34919609"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34919609/",
+    "douban_id": "34919609",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33552339.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "姜戎",
+            "link": "https://book.douban.com/author/126770"
+        },
+        {
+            "text": "北京十月文艺出版社",
+            "link": "https://book.douban.com/press/2194"
+        },
+        {
+            "text": "新经典文化",
+            "link": "https://book.douban.com/producers/3"
+        }
+    ],
+    "tag": "中国文学"
+}

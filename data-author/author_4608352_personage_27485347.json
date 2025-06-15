@@ -1,0 +1,134 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "大象席地而坐",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37235930/",
+                        "year": "2025",
+                        "id": 37235930
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "大裂",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37236761/",
+                        "year": "2025",
+                        "id": 37236761
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "牛蛙",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37236762/",
+                        "year": "2025",
+                        "id": 37236762
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "抵达",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37235931/",
+                        "year": "2025",
+                        "id": 37235931
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "牛蛙",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s32273044.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/33387074/",
+                        "year": "2019",
+                        "id": 33387074
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "大裂",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29924932.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/30380757/",
+                        "year": "2018",
+                        "id": 30380757
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "远处的拉莫",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29951441.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/30255679/",
+                        "year": "2018",
+                        "id": 30255679
+                    }
+                }
+            ],
+            "total": 7
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608352/",
+    "author_douban_id": "4608352",
+    "personage_id": 27485347,
+    "name": [
+        "胡波",
+        "Bo Hu"
+    ],
+    "intro": "胡波，笔名胡迁，毕业于北京电影学院导演系，中国内地作家、编剧、导演。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27485347/photo/2513802000",
+        "https://www.douban.com/personage/27485347/photo/2516143447",
+        "https://www.douban.com/personage/27485347/photo/2516143496",
+        "https://www.douban.com/personage/27485347/photo/2527095188",
+        "https://www.douban.com/personage/27485347/photo/2516560658"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2513802000.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2516143447.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2516143496.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2527095188.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2516560658.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/378486cbc280f99619f8f875c84b4ae3.jpg",
+    "更多中文名": "胡迁(笔名)",
+    "sex": 1,
+    "birth_date": 1988,
+    "death_date": 2017,
+    "age": 30,
+    "birth_place": [
+        "中国",
+        "山东",
+        "济南"
+    ],
+    "IMDB": "nm9636804",
+    "profession": [
+        "作者",
+        "导演",
+        "编剧",
+        "剪辑"
+    ]
+}

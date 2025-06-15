@@ -1,0 +1,94 @@
+{
+    "title": "岛屿书",
+    "bookInfo": {
+        "作者": "[德] 朱迪丝·莎兰斯基",
+        "出版社": "湖南文艺出版社",
+        "出品方": "浦睿文化",
+        "原作名": "Atlas der Abgelegenen Inseln",
+        "译者": "晏文玲",
+        "出版年": "2019-9",
+        "页数": "128",
+        "定价": "108.00元",
+        "装帧": "精装",
+        "ISBN": "9787540453992"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "43.1%",
+        "four_star_rate": "36.9%",
+        "three_star_rate": "17.3%",
+        "two_star_rate": "2.3%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4100976/",
+            "name": "朱迪丝·莎兰斯基",
+            "role": "作者",
+            "douban_id": "4100976"
+        },
+        {
+            "link": "https://book.douban.com/author/4639162/",
+            "name": "晏文玲",
+            "role": "译者",
+            "douban_id": "4639162"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "54.00元",
+            "link": "https://book.douban.com/link2/?lowest=3229&pre=0&vendor=jingdong&srcpage=subject&price=5400&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwdXQQBU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOMl4LQEN3Qyt6YC1vC05BKR8Wdy5VC2sAdVllP14CKhY8aTlOWgkIXRxgGBFCWCokcCxuYAxNb1l9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZeXAVbTC5cVgpoTwRjNHt6VRxdDSJBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtfAE4VAWk4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQcAAVwzVE1AQSxSEh17XQcFUlpbAE4nAW4JGVklbTZkVAgVACtXRx1zbSFDFUV_FRUibQkfB2dmGSt3BQZ8HD88ehJOZW9OXC5QbQUy&cntvendor=3&srcsubj=10537645&type=bkbuy&subject=10537645"
+        },
+        {
+            "name": "当当网",
+            "price": "103.70元",
+            "link": "https://book.douban.com/link2/?lowest=3229&pre=0&vendor=dangdang&srcpage=subject&price=10370&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s10537645%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27924233&cntvendor=3&srcsubj=10537645&type=bkbuy&subject=10537645"
+        },
+        {
+            "name": "中图网",
+            "price": "32.30元",
+            "link": "https://book.douban.com/link2/?lowest=3229&pre=0&vendor=bookschina&srcpage=subject&price=3229&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5921123.htm&cntvendor=3&srcsubj=10537645&type=bkbuy&subject=10537645"
+        }
+    ],
+    "url": "https://book.douban.com/subject/10537645/",
+    "douban_id": "10537645",
+    "menu": [
+        "",
+        "        前言",
+        "        天堂是座岛，地狱也是",
+        "        北冰洋",
+        "        孤独岛",
+        "        熊岛",
+        "        鲁道夫岛",
+        "        大西洋",
+        "        圣基尔达岛",
+        "        升天节岛",
+        "        布拉瓦岛",
+        "        安诺本岛",
+        "        圣赫勒拿岛",
+        "        特林达迪岛",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33490890.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] 朱迪丝·莎兰斯基",
+            "link": "https://book.douban.com/author/4100976"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        },
+        {
+            "text": "浦睿文化",
+            "link": "https://book.douban.com/producers/25"
+        },
+        {
+            "text": "晏文玲",
+            "link": "https://book.douban.com/author/4639162"
+        }
+    ],
+    "tag": "随笔"
+}

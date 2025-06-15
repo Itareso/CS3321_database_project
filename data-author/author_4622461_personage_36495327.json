@@ -1,0 +1,49 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "昨夜星辰：高盛元的唐诗课",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34391109.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36211612/",
+                        "year": "2023",
+                        "id": 36211612
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "诗的味道",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34951954.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36596070/",
+                        "year": "2023",
+                        "id": 36596070
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/4622461/",
+    "author_douban_id": "4622461",
+    "personage_id": 36495327,
+    "name": [
+        "高盛元",
+        "Shengyuan Gao"
+    ],
+    "intro": "高盛元，2020年北京大学中文系硕士毕业后，他成为了深圳一所中学的语文老师。他的讲课视频意外在网络走红。2021年，他上传在B站的唐诗导读课，播放量最高的一条视频点击超过两百万，超过五十万的人关注他，有人说他就是自己心目中理想的语文老师。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/9308c81d0f1f26fedd5a758442ea4d0b.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

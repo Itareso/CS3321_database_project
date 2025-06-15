@@ -1,0 +1,106 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "狼图腾",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33552339.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34919609/",
+                        "year": "2020",
+                        "id": 34919609
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "天鹅图腾",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33734597.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35182203/",
+                        "year": "2020",
+                        "id": 35182203
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "狼图腾小狼小狼(纪念版)",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27994709.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26313009/",
+                        "year": "2015",
+                        "id": 26313009
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "狼图腾",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s9045944.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/4935392/",
+                        "year": "2010",
+                        "id": 4935392
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "小狼小狼-狼图腾（下册）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s5768759.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/2184385/",
+                        "year": "2007",
+                        "id": 2184385
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "小狼小狼",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s1439835.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1410217/",
+                        "year": "2005",
+                        "id": 1410217
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/126770/",
+    "author_douban_id": "126770",
+    "personage_id": 30079627,
+    "name": [
+        "姜戎",
+        "Rong Jiang"
+    ],
+    "intro": "姜戎，1946年4月出生，籍贯上海，生于北京。原名吕嘉民，曾任中国劳动关系学院教师。主业：政治经济学，偏重政治学方面。1967年自愿赴内蒙古额仑草原插队。1978年返城。1979年考入社科院研究生院。作品《狼图腾》：1971年起腹稿于内蒙古锡盟东乌珠穆沁草原。1997年初稿于北京。2003年岁末定稿于北京。2004年4月出版，后凭此作荣登“2006第一届中国作家富豪榜”。 2015年2月，由法国导演让·雅克·阿诺执导拍摄的电影版《狼图腾》上映。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/1489396777.75.jpg",
+    "更多中文名": "吕嘉民(原名)",
+    "sex": 1,
+    "birth_date": 1946,
+    "age": 80,
+    "birth_place": [
+        "中国",
+        "北京"
+    ],
+    "IMDB": "tu27435384",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

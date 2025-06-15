@@ -1,0 +1,88 @@
+{
+    "title": "这题超纲了2",
+    "bookInfo": {
+        "作者": "木瓜黄",
+        "出版社": "中国致公出版社",
+        "出版年": "2020-11",
+        "页数": "308",
+        "定价": "42.80元",
+        "装帧": "平装",
+        "丛书": "这题超纲了",
+        "ISBN": "9787514516906"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "51.2%",
+        "four_star_rate": "24.7%",
+        "three_star_rate": "20.1%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "2.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4617053/",
+            "name": "木瓜黄",
+            "role": "作者",
+            "douban_id": "4617053"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.94元",
+            "link": "https://book.douban.com/link2/?lowest=2294&pre=0&vendor=jingdong&srcpage=subject&price=2294&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQQCV11fC0oXM28JGlgQWwIEV11eCUwRMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWAGoOH10WXgUDU1hCUQ5LXl9DTiIVWXl-KDwfEjJ0YzRwezlHO0JyWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHlsUVAQyVl5cCU4XC2gLGmsVWwMDUVZfCEsRCmcBK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggdXQUKUlwzVE1NWTBOWQJ7Xg4EU1lfCEwnAW4JGVklbTYBXScPaCtvXTZUHgNLBl8KVgsWUDRodg5mGQhKPg9cBixUUQNIQzFpXR1UbQUy&cntvendor=2&srcsubj=35243382&type=bkbuy&subject=35243382"
+        },
+        {
+            "name": "中图网",
+            "price": "25.40元",
+            "link": "https://book.douban.com/link2/?lowest=2294&pre=0&vendor=bookschina&srcpage=subject&price=2540&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8453363.htm&cntvendor=2&srcsubj=35243382&type=bkbuy&subject=35243382"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35243382/",
+    "douban_id": "35243382",
+    "menu": [
+        "",
+        "        Chapter 21 天赋选手",
+        "        Chapter 22 四校联赛",
+        "        Chapter 23 赛后庆功",
+        "        Chapter 24 校服风波",
+        "        Chapter 25 画室速写",
+        "        Chapter 26 观影邀请",
+        "        Chapter 27 仲夏之梦",
+        "        Chapter 28 无名之辈",
+        "        Chapter 29 考前辅导",
+        "        Chapter 30 偏科天才",
+        "        Chapter 31 生日聚会",
+        "        Chapter 32 北大青鸟",
+        "        Chapter 33 各回各家",
+        "        Chapter 34 新的挑战",
+        "        Chapter 35 惊雷骤雨",
+        "        Chapter 36 彼此维护",
+        "        Chapter 37 生日礼物",
+        "        Chapter 38 各自拼搏",
+        "        Chapter 39 联考第一",
+        "        Chapter 40 五校联赛",
+        "        Chapter 41 再见临江",
+        "        番外1",
+        "        番外2",
+        "        番外3",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33793497.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "木瓜黄",
+            "link": "https://book.douban.com/author/4617053"
+        },
+        {
+            "text": "中国致公出版社",
+            "link": "https://book.douban.com/press/2846"
+        },
+        {
+            "text": "这题超纲了",
+            "link": "https://book.douban.com/series/65846"
+        }
+    ],
+    "tag": "校园"
+}

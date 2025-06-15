@@ -1,0 +1,63 @@
+{
+    "title": "怪奇小店",
+    "bookInfo": {
+        "作者": "[日] 有栖川有栖",
+        "出版社": "中国工人出版社",
+        "原作名": "怪しい店",
+        "译者": "郭跻",
+        "出版年": "2023-2",
+        "页数": "312",
+        "定价": "49.00",
+        "装帧": "平装",
+        "ISBN": "9787500880042"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "12.2%",
+        "four_star_rate": "36.2%",
+        "three_star_rate": "44.1%",
+        "two_star_rate": "7.0%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4526206/",
+            "name": "有栖川有栖",
+            "role": "作者",
+            "douban_id": "4526206"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=jingdong&srcpage=subject&price=2450&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVIUXwcLVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOJyIeTj5yVihtYz9MWwAGIAIZTEpNdS4NdVlgKlZ-Ihhdai5NWRx0Hh8SDhFCWCokdBhgcARMbTJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZeNzktbgkTAw1AGChxCERQXV4IcgJRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFdaDEseBGo4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggVClZVUV4zVE1AQj1RSAJ7XQcCXVdZCEknAW4JGVklbTZxKB0bfS5CRApwfwITWwJ2CBoZCRFhQmpmGS5iDXp0El4_bRFNcBMNX1xGbQUy&cntvendor=3&srcsubj=36179203&type=bkbuy&subject=36179203"
+        },
+        {
+            "name": "当当网",
+            "price": "42.10元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=dangdang&srcpage=subject&price=4210&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36179203%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29506803&cntvendor=3&srcsubj=36179203&type=bkbuy&subject=36179203"
+        },
+        {
+            "name": "中图网",
+            "price": "30.40元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=bookschina&srcpage=subject&price=3040&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8990347.htm&cntvendor=3&srcsubj=36179203&type=bkbuy&subject=36179203"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36179203/",
+    "douban_id": "36179203",
+    "menu": [
+        "",
+        "        古玩之魔 1",
+        "        “烛火堂”的飞来横祸 97",
+        "        砸碎橱窗 123",
+        "        涛声理发店 173",
+        "        怪奇小店 211",
+        "        后 记 294",
+        "        文库版后记 296",
+        "        解说 走进《怪奇小店》 299",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

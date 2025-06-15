@@ -1,0 +1,144 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "江湖消亡史：枪声四起",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34521440.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36200570/",
+                        "year": "2023",
+                        "id": 36200570
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "江湖消亡史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33955429.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35369408/",
+                        "year": "2021",
+                        "id": 35369408
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "浩然劍（谢苏）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s3942172.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/3567802/",
+                        "year": "2008",
+                        "id": 3567802
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "天子無憂",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27264280.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25870758/",
+                        "year": "2014",
+                        "id": 25870758
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "浪跡天涯",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27136940.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/25769606/",
+                        "year": "2013",
+                        "id": 25769606
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "浪跡天涯",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s26926077.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/24860572/",
+                        "year": "2013",
+                        "id": 24860572
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "他日相逢",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s9084856.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/10729469/",
+                        "year": "2012",
+                        "id": 10729469
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "浪跡天涯",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s24512609.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/20449891/",
+                        "year": "2012",
+                        "id": 20449891
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "浪跡天涯",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s6873808.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/6795834/",
+                        "year": "2011",
+                        "id": 6795834
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "清明記",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s4356407.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/4827401/",
+                        "year": "2010",
+                        "id": 4827401
+                    }
+                }
+            ],
+            "total": 10
+        }
+    },
+    "author_link": "https://book.douban.com/author/4621467/",
+    "author_douban_id": "4621467",
+    "personage_id": 36439469,
+    "name": [
+        "赵晨光"
+    ],
+    "intro": "法律專業出身，後再修比較文學碩士。好美食、茶酒、旅遊；亦好看故事，聽故事，講故事，骨子里的武俠控終生難變。長篇小說《浩然劍》獲第三屆溫世仁武俠小說大賽首獎，曾寫詩自述：「斜風細雨入京門，衣上風塵雜酒痕。半生疏狂半生笑，前身本是說書人。」代表作品：長篇《浩然劍》、《清明記》、《浪跡天涯》，中篇系列《他日相逢》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

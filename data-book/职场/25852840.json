@@ -1,0 +1,55 @@
+{
+    "title": "被领导的艺术",
+    "bookInfo": {
+        "作者": "曾仕强",
+        "出版社": "北京联合出版公司",
+        "出品方": "时代光华",
+        "出版年": "2013-9",
+        "页数": "166",
+        "定价": "36.00元",
+        "装帧": "平装",
+        "ISBN": "9787550216266"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.5%",
+        "four_star_rate": "40.2%",
+        "three_star_rate": "24.5%",
+        "two_star_rate": "4.9%",
+        "one_star_rate": "3.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503861/",
+            "name": "曾仕强",
+            "role": "作者",
+            "douban_id": "4503861"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "70.00元",
+            "link": "https://book.douban.com/link2/?lowest=7000&pre=0&vendor=jingdong&srcpage=subject&price=7000&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgAAV1dfAE8XBV8IGlsUXgECUVhdCk8RBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA24LHFsQWwYAUFhbFxJSXzI4HSlGR3tYBj84fgsfRS9tfR5-P3pVAlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwABUlZYOEkXAm4NG1MSXgcyVFhYCU4fBGYPElIcWTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUl1dDEJFbTMOQQdTDgVUOlxcCE0eAG4AK1kUXAQAZG5ta0pNRRENbiZ0L0JqPygLVkJzRzxNeSh-MwR8NSRcVg1UBw58XisXD1N1AW5eOA&cntvendor=1&srcsubj=25852840&type=bkbuy&subject=25852840"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25852840/",
+    "douban_id": "25852840",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s27245389.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "曾仕强",
+            "link": "https://book.douban.com/search/%E6%9B%BE%E4%BB%95%E5%BC%BA"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "时代光华",
+            "link": "https://book.douban.com/producers/282"
+        }
+    ],
+    "tag": "职场"
+}

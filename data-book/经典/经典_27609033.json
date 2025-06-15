@@ -1,0 +1,68 @@
+{
+    "title": "呼兰河传",
+    "bookInfo": {
+        "作者": "萧红",
+        "出版社": "北京时代华文书局",
+        "出品方": "领读文化",
+        "出版年": "2018-1-1",
+        "页数": "312",
+        "定价": "39.8",
+        "装帧": "平装",
+        "ISBN": "9787569919110"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "67.4%",
+        "four_star_rate": "27.5%",
+        "three_star_rate": "4.4%",
+        "two_star_rate": "0.5%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "9.40元",
+            "link": "https://read.douban.com/ebook/45982567/?dcs=subject-buylink&dcm=douban&dct=27609033"
+        },
+        {
+            "name": "得到",
+            "price": "19.90元",
+            "link": "https://www.dedao.cn/ebook/detail?id=OAdXprx6N41dm9BQkayr8z7OqLGoE3lMZMwYMlVAnxRZXK2Dg5pbevPJjjnQv2eb&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "25.87元",
+            "link": "https://book.douban.com/link2/?lowest=1370&pre=0&vendor=jingdong&srcpage=subject&price=2587&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFgSXwEDUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0ION18HTjUSdhJpaR9NPHx0AyM5bRxUBBEMdVlrPHwDChgeDCpAVAwJfhBQCBFCWCokcChjWgRWbzJxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZmDS1dVxFuQwxQWygPPWJVVSMceiBnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxVCEIXBW84G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQABBFYzVE1AQTZaX1N7XQcFVl5UAEMnAW4JGVklbTZhVQQbdk5ifg56XwN0J3BVKTo4XwgQfWtmGSV0JwdcEh1ZaRxAYG5tUB5AbQUy&cntvendor=5&srcsubj=27609033&type=bkbuy&subject=27609033"
+        },
+        {
+            "name": "当当网",
+            "price": "39.80元",
+            "link": "https://book.douban.com/link2/?lowest=1370&pre=0&vendor=dangdang&srcpage=subject&price=3979&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27609033%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25207586&cntvendor=5&srcsubj=27609033&type=bkbuy&subject=27609033"
+        },
+        {
+            "name": "中图网",
+            "price": "13.70元",
+            "link": "https://book.douban.com/link2/?lowest=1370&pre=0&vendor=bookschina&srcpage=subject&price=1370&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7673635.htm&cntvendor=5&srcsubj=27609033&type=bkbuy&subject=27609033"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27609033/",
+    "douban_id": "27609033",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29644735.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "萧红",
+            "link": "https://book.douban.com/search/%E8%90%A7%E7%BA%A2"
+        },
+        {
+            "text": "北京时代华文书局",
+            "link": "https://book.douban.com/press/2515"
+        },
+        {
+            "text": "领读文化",
+            "link": "https://book.douban.com/producers/72"
+        }
+    ],
+    "tag": "经典"
+}

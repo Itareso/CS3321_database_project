@@ -1,0 +1,88 @@
+{
+    "title": "题写名胜",
+    "bookInfo": {
+        "作者": "商伟",
+        "出版社": "生活·读书·新知三联书店",
+        "副标题": "从黄鹤楼到凤凰台",
+        "出版年": "2020-1",
+        "页数": "229",
+        "定价": "49.00",
+        "装帧": "精装",
+        "丛书": "重读唐诗",
+        "ISBN": "9787108067012"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.5%",
+        "four_star_rate": "49.4%",
+        "three_star_rate": "14.5%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624181/",
+            "name": "商伟",
+            "role": "作者",
+            "douban_id": "4624181"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "29.40元",
+            "link": "https://www.dedao.cn/eBook/Z1GDBjp8o9nDz1NZyd5MXvBj6RKEVwNAgO3Ap4aGOkJmYQrLbP7e2glqxl9qNPeX?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=jingdong&srcpage=subject&price=2450&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwWXwUBVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU11fC0gVHDZNRwYlWVVSNTtZdSJ1USdoWghgXUBqKw04TkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHVlleD0sfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gUDwFsCFgKSgtQQTVmG1oSWwUGXV1tCkoWAW04K2thWHZBK1tYCAAXSBVfEgNzPwQGJC49Wgh5AQ54W15LHl1bHwsIfE5cARZXK1gl&cntvendor=4&srcsubj=34802645&type=bkbuy&subject=34802645"
+        },
+        {
+            "name": "当当网",
+            "price": "27.60元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=dangdang&srcpage=subject&price=2760&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34802645%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28512847&cntvendor=4&srcsubj=34802645&type=bkbuy&subject=34802645"
+        },
+        {
+            "name": "中图网",
+            "price": "38.20元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=bookschina&srcpage=subject&price=3820&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8285947.htm&cntvendor=4&srcsubj=34802645&type=bkbuy&subject=34802645"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34802645/",
+    "douban_id": "34802645",
+    "menu": [
+        "",
+        "        引　子",
+        "        一　《登金陵凤凰台》：李白与崔颢的竞技",
+        "        二　 从《登金陵凤凰台》到《黄鹤楼》：“白云”与“黄鹤”之辨",
+        "        三　李白的黄鹤楼“情结”：文字与视域的吊诡",
+        "        四　竞争、占有与名胜题写的互文风景",
+        "        五　重返黄鹤楼：从毁灭到重建",
+        "        六　粉壁与题诗：诗歌写作的物质媒介及其语言密码",
+        "        七　“物色分留待老夫”：杜甫对先行者的回应",
+        "        八　名胜被占领之后：即景诗与缺席写作",
+        "        九　名胜的文本化与文本化的名胜",
+        "        尾　声　从搁笔到题诗",
+        "        讲座记录　开场白和问答",
+        "        后 记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33653759.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "商伟",
+            "link": "https://book.douban.com/author/4624181"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        },
+        {
+            "text": "重读唐诗",
+            "link": "https://book.douban.com/series/48736"
+        }
+    ],
+    "tag": "中国文学"
+}

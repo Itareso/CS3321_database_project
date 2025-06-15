@@ -1,0 +1,73 @@
+{
+    "title": "嘈嘈切切错杂弹",
+    "bookInfo": {
+        "作者": "莫砺锋 / 陶友红",
+        "出版社": "江苏凤凰文艺出版社",
+        "出版年": "2019-8",
+        "页数": "386",
+        "定价": "56.00元",
+        "装帧": "精装",
+        "ISBN": "9787559435729"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "60.3%",
+        "four_star_rate": "33.3%",
+        "three_star_rate": "6.4%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4563800/",
+            "name": "莫砺锋",
+            "role": "作者",
+            "douban_id": "4563800"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.44元",
+            "link": "https://book.douban.com/link2/?lowest=2444&pre=0&vendor=jingdong&srcpage=subject&price=2444&pos=1&url=https%3A%2F%2Fitem.jd.com%2F54727654290.html&cntvendor=3&srcsubj=34680528&type=bkbuy&subject=34680528"
+        },
+        {
+            "name": "当当网",
+            "price": "31.50元",
+            "link": "https://book.douban.com/link2/?lowest=2444&pre=0&vendor=dangdang&srcpage=subject&price=3150&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34680528%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27907845&cntvendor=3&srcsubj=34680528&type=bkbuy&subject=34680528"
+        },
+        {
+            "name": "中图网",
+            "price": "31.80元",
+            "link": "https://book.douban.com/link2/?lowest=2444&pre=0&vendor=bookschina&srcpage=subject&price=3180&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8152286.htm&cntvendor=3&srcsubj=34680528&type=bkbuy&subject=34680528"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34680528/",
+    "douban_id": "34680528",
+    "menu": [
+        "",
+        "        高考，1977（代序）",
+        "        第一辑 大弦嘈嘈",
+        "        第二辑 小弦切切",
+        "        第三辑 错杂弹",
+        "        后 记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33444447.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "莫砺锋",
+            "link": "https://book.douban.com/search/%E8%8E%AB%E7%A0%BA%E9%94%8B"
+        },
+        {
+            "text": "陶友红",
+            "link": "https://book.douban.com/search/%E9%99%B6%E5%8F%8B%E7%BA%A2"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        }
+    ],
+    "tag": "随笔"
+}

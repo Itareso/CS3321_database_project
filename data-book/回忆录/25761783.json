@@ -1,0 +1,59 @@
+{
+    "title": "劫余录",
+    "bookInfo": {
+        "作者": "【法】彼得·阿伯拉尔",
+        "出版社": "商务印书馆",
+        "副标题": "劫余录",
+        "译者": "孙亮",
+        "出版年": "2013-10",
+        "页数": "283",
+        "定价": "26.00",
+        "装帧": "平装",
+        "丛书": "汉译世界学术名著丛书·历史地理",
+        "ISBN": "9787100094153"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.1%",
+        "four_star_rate": "40.5%",
+        "three_star_rate": "12.7%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "20.49元",
+            "link": "https://book.douban.com/link2/?lowest=1870&pre=0&vendor=jingdong&srcpage=subject&price=2049&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG1kRXAIGVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCVlpcDE8WHDZNRwYlPwFENkRbVRNyUStBUx5rFH1yEgkNeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LVFhZDU8eM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVoUCQBsCFgHVxVECmdmGVoVXQUGUF5tCkoWAW04K2t-Kn1EVlsbdxhyYChgaRNeJ0RECAY9UxV5ARB0GywQG1JEB1hbYzxFRDx1K1gl&cntvendor=2&srcsubj=25761783&type=bkbuy&subject=25761783"
+        },
+        {
+            "name": "当当网",
+            "price": "18.70元",
+            "link": "https://book.douban.com/link2/?lowest=1870&pre=0&vendor=dangdang&srcpage=subject&price=1870&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25761783%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23366467&cntvendor=2&srcsubj=25761783&type=bkbuy&subject=25761783"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25761783/",
+    "douban_id": "25761783",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s27125346.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "【法】彼得·阿伯拉尔",
+            "link": "https://book.douban.com/search/%E5%BD%BC%E5%BE%97%C2%B7%E9%98%BF%E4%BC%AF%E6%8B%89%E5%B0%94"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "孙亮",
+            "link": "https://book.douban.com/search/%E5%AD%99%E4%BA%AE"
+        },
+        {
+            "text": "汉译世界学术名著丛书·历史地理",
+            "link": "https://book.douban.com/series/25"
+        }
+    ],
+    "tag": "回忆录"
+}

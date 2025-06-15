@@ -1,0 +1,81 @@
+{
+    "title": "七粒扣",
+    "bookInfo": {
+        "作者": "乔叶",
+        "出版社": "译林出版社",
+        "出版年": "2021-8-1",
+        "页数": "272",
+        "定价": "48",
+        "装帧": "平装",
+        "ISBN": "9787544786980"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.7%",
+        "four_star_rate": "37.7%",
+        "three_star_rate": "29.4%",
+        "two_star_rate": "6.4%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4623063/",
+            "name": "乔叶",
+            "role": "作者",
+            "douban_id": "4623063"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "39.99元",
+            "link": "https://read.douban.com/ebook/325735137/?dcs=subject-buylink&dcm=douban&dct=35523738"
+        },
+        {
+            "name": "得到",
+            "price": "39.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=qPKdG1m9B8MaveyJdxRzNnKYlqgVZ3kvdqWo5pL7E4m1r26kQjXDAPObGkYgJ4pN&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=jingdong&srcpage=subject&price=2400&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFIdWwMKVG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOKSsLdEgSegZuWTpAJ3ZJBhsbSCJJVT1hdVlpHVJ3MyIkTS0UABJ9YhsVBBFCWCokcBhuYBRIbSJhBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZpEiwgDg9geg99RzNjGEZYVl4FCRhRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVlYCEsUB244G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CV1ozVE1ARidKQhN7XQcKUFhdCkgnAW4JGVklbTZ_IQghC05uaglKeg5vLU1QERgdYRVBUQZmGSdVCXNlKCcYbkgUfhpxW1tMbQUy&cntvendor=5&srcsubj=35523738&type=bkbuy&subject=35523738"
+        },
+        {
+            "name": "当当网",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=dangdang&srcpage=subject&price=4800&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35523738%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29276357&cntvendor=5&srcsubj=35523738&type=bkbuy&subject=35523738"
+        },
+        {
+            "name": "中图网",
+            "price": "30.80元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=bookschina&srcpage=subject&price=3080&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8637109.htm&cntvendor=5&srcsubj=35523738&type=bkbuy&subject=35523738"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35523738/",
+    "douban_id": "35523738",
+    "menu": [
+        "",
+        "        给母亲洗澡                  001",
+        "        至此无山                      027",
+        "        在饭局上聊起齐白石    061",
+        "        合影为什么是留念        097",
+        "        小瓷谈往录                  127",
+        "        四十三年简史              189",
+        "        卧铺闲话                     255",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33945666.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "乔叶",
+            "link": "https://book.douban.com/author/4623063"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        }
+    ],
+    "tag": "中国文学"
+}

@@ -1,0 +1,69 @@
+{
+    "title": "异形：契约",
+    "bookInfo": {
+        "作者": "[美] 艾伦·迪恩·福斯特",
+        "出版社": "新星出版社",
+        "出品方": "次元书馆",
+        "原作名": "Alien: Covenant",
+        "译者": "李镭",
+        "出版年": "2017-6",
+        "页数": "320",
+        "定价": "39.00元",
+        "装帧": "平装",
+        "丛书": "幻象文库",
+        "ISBN": "9787513326872"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.3%",
+        "four_star_rate": "47.1%",
+        "three_star_rate": "24.6%",
+        "two_star_rate": "2.4%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "28.90元",
+            "link": "https://book.douban.com/link2/?lowest=2240&pre=0&vendor=jingdong&srcpage=subject&price=2890&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFgVXA4AVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBV15cAEkWHDZNRwYlO119KS4vcjB0fydbYSJnBnRHMic-XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYFUF9ZCEMSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXQJsCFgKQwATAD1mG1sSVA4LUVxtCkoWAW04K2sVO1tBJDcrDh0QQih6bxlwJGBaUzkoUR95AQpgWD1jHlR8Ah8cCC1tViZsK1gl&cntvendor=3&srcsubj=27063968&type=bkbuy&subject=27063968"
+        },
+        {
+            "name": "当当网",
+            "price": "25.10元",
+            "link": "https://book.douban.com/link2/?lowest=2240&pre=0&vendor=dangdang&srcpage=subject&price=2510&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27063968%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25092022&cntvendor=3&srcsubj=27063968&type=bkbuy&subject=27063968"
+        },
+        {
+            "name": "中图网",
+            "price": "22.40元",
+            "link": "https://book.douban.com/link2/?lowest=2240&pre=0&vendor=bookschina&srcpage=subject&price=2240&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7526367.htm&cntvendor=3&srcsubj=27063968&type=bkbuy&subject=27063968"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27063968/",
+    "douban_id": "27063968",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29470335.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 艾伦·迪恩·福斯特",
+            "link": "https://book.douban.com/search/%E8%89%BE%E4%BC%A6%C2%B7%E8%BF%AA%E6%81%A9%C2%B7%E7%A6%8F%E6%96%AF%E7%89%B9"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "次元书馆",
+            "link": "https://book.douban.com/producers/55"
+        },
+        {
+            "text": "李镭",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E9%95%AD"
+        },
+        {
+            "text": "幻象文库",
+            "link": "https://book.douban.com/series/13154"
+        }
+    ],
+    "tag": "科幻"
+}

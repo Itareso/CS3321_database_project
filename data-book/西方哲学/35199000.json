@@ -1,0 +1,121 @@
+{
+    "title": "西方哲学原著导读",
+    "bookInfo": {
+        "作者": "雷思温",
+        "出版社": "中国人民大学出版社",
+        "出版年": "2020-9",
+        "页数": "522",
+        "定价": "69.8 元",
+        "装帧": "平装",
+        "丛书": "新编21世纪哲学系列教材",
+        "ISBN": "9787300259741"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "48.3%",
+        "four_star_rate": "31.0%",
+        "three_star_rate": "10.3%",
+        "two_star_rate": "3.4%",
+        "one_star_rate": "6.9%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "53.40元",
+            "link": "https://book.douban.com/link2/?lowest=5190&pre=0&vendor=jingdong&srcpage=subject&price=5340&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMcWAQEVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXFdYCk0WHDZNRwYlO3BcAxouYQ10AhVhEyVjHll9Lz0teEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GVlhaCUseM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gdWwRsCFgHVEpEBG1mGFMdXAELU1ttCkoWAW04K2tmIUVEITsITy5vZwZVQwgXJkJ1JBwEUxx5ARp_SydjGwZgMQQHezdiAjdbK1gl&cntvendor=3&srcsubj=35199000&type=bkbuy&subject=35199000"
+        },
+        {
+            "name": "当当网",
+            "price": "51.90元",
+            "link": "https://book.douban.com/link2/?lowest=5190&pre=0&vendor=dangdang&srcpage=subject&price=5190&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35199000%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29132930&cntvendor=3&srcsubj=35199000&type=bkbuy&subject=35199000"
+        },
+        {
+            "name": "中图网",
+            "price": "60.30元",
+            "link": "https://book.douban.com/link2/?lowest=5190&pre=0&vendor=bookschina&srcpage=subject&price=6030&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8417531.htm&cntvendor=3&srcsubj=35199000&type=bkbuy&subject=35199000"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35199000/",
+    "douban_id": "35199000",
+    "menu": [
+        "",
+        "        第一编 古代和中古哲学",
+        "        一 柏拉图《理想国》导读",
+        "        二 柏拉图《会饮》导读",
+        "        三 亚里士多德《形而上学》导读",
+        "        四 亚里士多德《尼各马可伦理学》导读",
+        "        五 奥古斯丁《忏悔录》导读",
+        "        六 托马斯·阿奎那《神学大全》导读",
+        "        七 马基雅维利《君主论》导读",
+        "        八 培根《新工具》导读",
+        "        九 维科《新科学》导读",
+        "        十 帕斯卡《思想录》导读",
+        "        第二编 近代哲学",
+        "        经验论与唯理论",
+        "        十一 笛卡尔《第一哲学沉思集》导读",
+        "        十二 霍布斯《利维坦》导读",
+        "        十三 洛克《人类理解论》导读",
+        "        十四 斯宾诺莎《伦理学》导读",
+        "        十五 贝克莱《人类知识原理》导读",
+        "        十六 莱布尼茨《单子论》导读",
+        "        十七 休谟《人类理智研究》导读",
+        "        法国启蒙运动",
+        "        十八 孟德斯鸠《论法的精神》导读",
+        "        十九 卢梭《论人类不平等的起源和基础》导读",
+        "        二十 卢梭《社会契约论》导读",
+        "        德国古典哲学",
+        "        二十一 康德《纯粹理性批判》导读",
+        "        二十二 康德《实践理性批判》导读",
+        "        二十三 康德《判断力批判》导读",
+        "        二十四 费希特《全部知识学的基础》导读",
+        "        二十五 谢林《先验唯心论体系》导读",
+        "        二十六 黑格尔《精神现象学》导读",
+        "        二十七 黑格尔《逻辑学》导读",
+        "        二十八 黑格尔《哲学科学百科全书纲要》导读",
+        "        黑格尔之后",
+        "        二十九 柏格森《时间与自由意志》导读",
+        "        三十 叔本华《作为意志和表象的世界》导读",
+        "        三十一 尼采《查拉图斯特拉如是说》导读",
+        "        三十二 尼采《权力意志一一重估一切价值的尝试》导读",
+        "        三十三 克尔凯郭尔《非此即彼》导读",
+        "        第三编 现代哲学",
+        "        三十四 弗雷格《算术基础》导读",
+        "        三十五 詹姆斯《实用主义》导读",
+        "        三十六 维特根斯坦《逻辑哲学论》导读",
+        "        三十七 维特根斯坦《哲学研究>>导读",
+        "        三十八 胡塞尔《逻辑研究》导读",
+        "        三十九 海德格尔《存在与时间》导读",
+        "        四十 梅洛一庞蒂《知觉现象学》导读",
+        "        四十一 萨特《存在与虚无》导读",
+        "        四十二 索绪尔《普通语言学教程》导读",
+        "        四十三 斯特劳森《个体：论描述的形而上学》导读",
+        "        四十四 奥斯汀《感觉与可感物》导读",
+        "        四十五 蒯因《从逻辑的观点看》导读",
+        "        四十六 哈贝马斯《认识与兴趣》导读",
+        "        四十七 福柯《词与物》导读",
+        "        四十八 德里达《论文字学》导读",
+        "        四十九 伽达默尔《真理与方法》导读",
+        "        五十 罗尔斯《正义论》导读",
+        "        人名及著述名对照表",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33727374.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "雷思温",
+            "link": "https://book.douban.com/search/%E9%9B%B7%E6%80%9D%E6%B8%A9"
+        },
+        {
+            "text": "中国人民大学出版社",
+            "link": "https://book.douban.com/press/2618"
+        },
+        {
+            "text": "新编21世纪哲学系列教材",
+            "link": "https://book.douban.com/series/56843"
+        }
+    ],
+    "tag": "西方哲学"
+}

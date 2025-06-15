@@ -1,0 +1,48 @@
+{
+    "title": "布鲁斯应用",
+    "bookInfo": {
+        "作者": "约翰·格内普斯",
+        "出版社": "中国科学文化音像出版社",
+        "译者": "风华艺校编译",
+        "出版年": "2005年3月",
+        "页数": "94",
+        "定价": "23.00",
+        "装帧": "平装",
+        "ISBN": "9787880719819"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《布鲁斯应用》由美国著名的HAL·LEONARD公司出品，畅销欧美各国，并曾在国内被广泛作为内部教学用书。全书共有21课，每课分为“音阶”、“和弦与和弦进行”、“独奏曲”三个部分：    一、“音阶”从最基础的小调五声音阶讲起，由浅入深地把各个指型用明了的语言、一目了然的图示，细致而全面的讲述给你，并专门设计了一整套新颖独特的练习方法。    二、“和弦与和弦进行”的讲解是《布鲁斯应用》的另一大亮点：各种可移动和弦的指法及其相互替换，7和弦、9和弦、13和弦、减和弦、升9和弦等在“和弦进行”中的应用，将极大地丰富你的和弦知识。    三、最令人难忘的就是那优美动听的布鲁斯吉他独奏曲。这多达21首的曲子涉及“大调布鲁斯”“小调布鲁斯”“三角洲布鲁斯”“摇滚布鲁斯”“FUNK布鲁斯”“福音布鲁斯”等，每一首曲子都使用了一定的技巧并包含前面内容在实际中的运用。    总之，无论你是布鲁斯初学者还是想系统研究布鲁斯风格的乐手，《布鲁斯应用》都是你的最佳选择。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "62.7%",
+        "four_star_rate": "29.4%",
+        "three_star_rate": "7.8%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "237.20元",
+            "link": "https://book.douban.com/link2/?lowest=23720&pre=0&vendor=jingdong&srcpage=subject&price=23720&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgAAV1dfAE8XBV8IGloWWQUAUldfCEkTAV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmwMGFkTVAQCVlpfFxJSXzI4exJdGVVWJFw4XhdLYgh1ZihWLkBVNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwABUlZYOEkXAm4NG1MSXgcyVFhYCU4fBWsMG18VXjYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUl1dDExFbTMOQQRFFERVOlxcC0gUBGsMK1kUXAQAZG5tVh12Ww9oXydUXHMBClktYSsUYylKTAcdMwRBEQwLfRNXcC5vTw9BO3NcB25eOA&cntvendor=1&srcsubj=3041432&type=bkbuy&subject=3041432"
+        }
+    ],
+    "url": "https://book.douban.com/subject/3041432/",
+    "douban_id": "3041432",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s9310212.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "约翰·格内普斯",
+            "link": "https://book.douban.com/search/%E7%BA%A6%E7%BF%B0%C2%B7%E6%A0%BC%E5%86%85%E6%99%AE%E6%96%AF"
+        },
+        {
+            "text": "中国科学文化音像出版社",
+            "link": "https://book.douban.com/press/2372"
+        },
+        {
+            "text": "风华艺校编译",
+            "link": "https://book.douban.com/search/%E9%A3%8E%E5%8D%8E%E8%89%BA%E6%A0%A1%E7%BC%96%E8%AF%91"
+        }
+    ],
+    "tag": "音乐"
+}

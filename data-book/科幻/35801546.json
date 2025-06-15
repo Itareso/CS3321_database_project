@@ -1,0 +1,91 @@
+{
+    "title": "红雨",
+    "bookInfo": {
+        "作者": "[日本] 贵志祐介",
+        "出版社": "北京理工大学出版社",
+        "出品方": "中作华文",
+        "原作名": "罪人の選択",
+        "译者": "丁丁虫",
+        "出版年": "2022-4",
+        "页数": "276",
+        "定价": "56.00",
+        "装帧": "精装",
+        "ISBN": "9787576310672"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ★日本推理作家协会奖、日本SF大奖、日本恐怖小说大奖得主，“鬼才”贵志佑介，继反乌托邦神作《来自新世界》后又一科幻巨著：    ★贵志佑介最新科幻推理短篇集：    《红雨》    地球被新生物“血泥藻”蹂躏得通红。含有血泥藻的红雨降在世界各地，生物面临灭绝的危机。在只有被选中的人才能进入的“穹顶”中，因成绩优异而从贫民窟爬上来的橘瑞树开始探索被认为不可能治愈的疾病——RAIN的治疗方法。    《咒文》    被派去进行文化调查的黎明降落在了殖民行星“天照Ⅳ”。目的是调查这个行星上可能存在的对祸神的信仰——这是引发集体自杀和大型事故的危险信仰，如果它确实存在，这个星球的居民就会被抹杀。黎明想要拯救“天照Ⅳ”的居民们，但是……    《夜的记忆》    水生生物“他”在黑暗的海中觉醒，向着城镇进发。另一边，三岛晓与织女这对夫妇正在南之岛度假，度过离开太阳系前的最后时光。当这两个故事交错，世界的原始景象也浮现在人们的面前。    《罪人的选择》    1946年8月21日，矶部武雄被佐久间茂杀死。因为在佐久间入伍期间，矶部和佐久间的妻子发生了关系。摆在矶部面前的是一瓶酒和一个罐头。其中的一样藏有剧毒。如果矶部能吃掉一样并生存下去，就会得到原谅。那么，正确的选择究竟是什么？\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "17.6%",
+        "four_star_rate": "46.4%",
+        "three_star_rate": "32.5%",
+        "two_star_rate": "3.2%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/857079/",
+            "name": "贵志祐介",
+            "role": "作者",
+            "douban_id": "857079"
+        },
+        {
+            "link": "https://book.douban.com/author/4614893/",
+            "name": "丁丁虫",
+            "role": "译者",
+            "douban_id": "4614893"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "44.80元",
+            "link": "https://read.douban.com/ebook/396028827/?dcs=subject-buylink&dcm=douban&dct=35801546"
+        },
+        {
+            "name": "京东商城",
+            "price": "28.00元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=jingdong&srcpage=subject&price=2800&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGV0QVAIFU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOPSc6Syt3d2tWYQVIVA4KHQk9CChOS2d7dVlsJkR7FR0GaRVKXgZxej1AGRFCWCokdC9jcG9LbFl9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZWKVY7TDIffA9aXyBJA3FaEBsYVitRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYNK1sTWAcBVFhdD0gWCmg4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQQGAVkzVE1BAjoOXQt7XQYGVlZdDkMnAW4JGVklbTZrLTkeaCtjBzFyRQYcVQ5LAz5daxJfCxxmGSJuH39DFwU8VhZKahZpfQ5RbQUy&cntvendor=4&srcsubj=35801546&type=bkbuy&subject=35801546"
+        },
+        {
+            "name": "当当网",
+            "price": "33.60元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=dangdang&srcpage=subject&price=3360&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35801546%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29403786&cntvendor=4&srcsubj=35801546&type=bkbuy&subject=35801546"
+        },
+        {
+            "name": "中图网",
+            "price": "36.30元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=bookschina&srcpage=subject&price=3629&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8834686.htm&cntvendor=4&srcsubj=35801546&type=bkbuy&subject=35801546"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35801546/",
+    "douban_id": "35801546",
+    "menu": [
+        "",
+        "        红雨",
+        "        咒文",
+        "        夜的记忆",
+        "        罪人的选择",
+        "        译后记：打破类型的类型作家",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34152921.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日本] 贵志祐介",
+            "link": "https://book.douban.com/author/857079"
+        },
+        {
+            "text": "北京理工大学出版社",
+            "link": "https://book.douban.com/press/2695"
+        },
+        {
+            "text": "中作华文",
+            "link": "https://book.douban.com/producers/307"
+        },
+        {
+            "text": "丁丁虫",
+            "link": "https://book.douban.com/author/4614893"
+        }
+    ],
+    "tag": "科幻"
+}

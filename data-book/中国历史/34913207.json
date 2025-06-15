@@ -1,0 +1,81 @@
+{
+    "title": "易代",
+    "bookInfo": {
+        "作者": "周绚隆",
+        "出版社": "中华书局",
+        "副标题": "侯岐曾和他的亲友们",
+        "出版年": "2020-1",
+        "页数": "204",
+        "定价": "38.00",
+        "装帧": "平装",
+        "ISBN": "9787101143126"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "46.7%",
+        "four_star_rate": "45.9%",
+        "three_star_rate": "7.4%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4623864/",
+            "name": "周绚隆",
+            "role": "作者",
+            "douban_id": "4623864"
+        }
+    ],
+    "shops": [
+        {
+            "name": "当当网",
+            "price": "32.10元",
+            "link": "https://book.douban.com/link2/?lowest=3210&pre=0&vendor=dangdang&srcpage=subject&price=3210&pos=1&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34913207%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28537752&cntvendor=2&srcsubj=34913207&type=bkbuy&subject=34913207"
+        },
+        {
+            "name": "京东商城",
+            "price": "70.60元",
+            "link": "https://book.douban.com/link2/?lowest=3210&pre=0&vendor=jingdong&srcpage=subject&price=7059&pos=2&url=https%3A%2F%2Fitem.jd.com%2F10066081753474.html&cntvendor=2&srcsubj=34913207&type=bkbuy&subject=34913207"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34913207/",
+    "douban_id": "34913207",
+    "menu": [
+        "",
+        "        目　录",
+        "        前　言 / 1",
+        "        孤臣碧血遗民泪",
+        "        —读《侯岐曾日记》 / 1",
+        "        谁不誓捐躯　杀身良不易",
+        "        —士人的生死选择 / 57",
+        "        彩云散后空凭吊",
+        "        —闺阁膺世变 / 81",
+        "        王谢雕梁事已非",
+        "        —膏粱悲飘蓬 / 99",
+        "        避秦无计矢报仇",
+        "        —烈士夏完淳 / 119",
+        "        此生只合老书帷",
+        "        —塾师陆元辅 / 147",
+        "        失侣青春首似蓬",
+        "        —寂寞夏淑吉 / 169",
+        "        义仆与恶仆 / 181",
+        "        附录：侯氏家族成员信息简表 / 193",
+        "        参考书目 / 199",
+        "        后　记 / 203",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33624586.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "周绚隆",
+            "link": "https://book.douban.com/author/4623864"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        }
+    ],
+    "tag": "中国历史",
+    "avg_rate": 4.393
+}

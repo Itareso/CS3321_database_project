@@ -1,0 +1,154 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.8,
+                        "title": "问题与方法",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34861302.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/36812228/",
+                        "year": "2024",
+                        "id": 36812228
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "文学的阅读",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s35006951.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37019373/",
+                        "year": "2024",
+                        "id": 37019373
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国当代文学作品精选（上、下卷）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34918032.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36964196/",
+                        "year": "2024",
+                        "id": 36964196
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.5,
+                        "title": "中国当代文学史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34699460.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/36599226/",
+                        "year": "2023",
+                        "id": 36599226
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "当代文学中的世界文学",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34292083.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36068650/",
+                        "year": "2022",
+                        "id": 36068650
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "文学史叙述的“政治学”",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34209127.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35571908/",
+                        "year": "2021",
+                        "id": 35571908
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "中国文学1949—1989",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33504760.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34861137/",
+                        "year": "2020",
+                        "id": 34861137
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.6,
+                        "title": "洪子诚学术作品精选",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33760841.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/35217684/",
+                        "year": "2020",
+                        "id": 35217684
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "我的阅读史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29675170.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/27132950/",
+                        "year": "2017",
+                        "id": 27132950
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "1956：百花时代",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29428860.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/27022835/",
+                        "year": "2017",
+                        "id": 27022835
+                    }
+                }
+            ],
+            "total": 48
+        }
+    },
+    "author_link": "https://book.douban.com/author/4510376/",
+    "author_douban_id": "4510376",
+    "personage_id": 30073446,
+    "name": [
+        "洪子诚",
+        "Zicheng Hong"
+    ],
+    "intro": "洪子诚，男，1939年生。广东揭阳人。1961年于北京大学中文系毕业，留校任教至今。1991～1993年在日本东京大学讲授中国当代文学等。北京大学中文系教授、中国当代文学教研室主任。主要从事中文写作、中国当代文学史、中国新诗等方面的研究和教学工作。著有《当代中国文学的艺术问题》、《作家的姿态与自我意识》、《当代中国文学概观》、《中国当代新诗史》等著作，多次获北京大学、中国当代文学研究会科研成果奖。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/020ebf274db125faa8bd99dbdf4f96b6.jpg",
+    "sex": 1,
+    "birth_date": 1939,
+    "age": 87,
+    "birth_place": [
+        "中国",
+        "广东",
+        "揭阳"
+    ],
+    "family_member": "么书仪(妻)",
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

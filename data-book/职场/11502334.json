@@ -1,0 +1,59 @@
+{
+    "title": "把信送给加西亚",
+    "bookInfo": {
+        "作者": "[美国] 阿尔伯特·哈伯德",
+        "出版社": "中国商业出版社",
+        "译者": "李昊轩",
+        "出版年": "2012-8",
+        "页数": "167",
+        "定价": "15.80元",
+        "ISBN": "9787504477637"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "8.4%",
+        "four_star_rate": "13.9%",
+        "three_star_rate": "38.5%",
+        "two_star_rate": "23.4%",
+        "one_star_rate": "15.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502170/",
+            "name": "阿尔伯特·哈伯德",
+            "role": "作者",
+            "douban_id": "4502170"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "6.93元",
+            "link": "https://book.douban.com/link2/?lowest=693&pre=0&vendor=jingdong&srcpage=subject&price=693&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVMcXQMDUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAXFddDUoSHDZNRwYlGmMcLx8NURJ0Ritufi9NNGUGAlgfeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUFhfCkMUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFIdW1ZsCFgHVw1TU21mGVoUXAQDUFdtCkoWAW04K2tsJ1FYJAEhDShcRSxjSRJLOGdAHx5bYCN5AQZ6UyFmB1YDNwIBcTFTABhsK1gl&cntvendor=2&srcsubj=11502334&type=bkbuy&subject=11502334"
+        },
+        {
+            "name": "中图网",
+            "price": "8.70元",
+            "link": "https://book.douban.com/link2/?lowest=693&pre=0&vendor=bookschina&srcpage=subject&price=869&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5601284.htm&cntvendor=2&srcsubj=11502334&type=bkbuy&subject=11502334"
+        }
+    ],
+    "url": "https://book.douban.com/subject/11502334/",
+    "douban_id": "11502334",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s26657287.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美国] 阿尔伯特·哈伯德",
+            "link": "https://book.douban.com/author/4502170/"
+        },
+        {
+            "text": "中国商业出版社",
+            "link": "https://book.douban.com/press/2172"
+        },
+        {
+            "text": "李昊轩",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E6%98%8A%E8%BD%A9"
+        }
+    ],
+    "tag": "职场"
+}

@@ -1,0 +1,100 @@
+{
+    "title": "大地双心",
+    "bookInfo": {
+        "作者": "徐皓峰",
+        "出版社": "光明日报出版社",
+        "出品方": "果麦文化",
+        "出版年": "2021-11",
+        "定价": "48.00",
+        "装帧": "平装",
+        "丛书": "徐皓峰作品",
+        "ISBN": "9787519462475"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "30.0%",
+        "four_star_rate": "43.5%",
+        "three_star_rate": "22.5%",
+        "two_star_rate": "2.6%",
+        "one_star_rate": "1.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610455/",
+            "name": "徐浩峰",
+            "role": "作者",
+            "douban_id": "4610455"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "48.00元",
+            "link": "https://read.douban.com/ebook/335017631/?dcs=subject-buylink&dcm=douban&dct=35572721"
+        },
+        {
+            "name": "得到",
+            "price": "48.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=BpM1nLOerPa1XOp27zqQ8KGR56loVWr6nnWdLygv94jYmnENDxAMZJBkbNzEblgQ&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=jingdong&srcpage=subject&price=2400&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQcJK1olXwMBXF5eDU4WCl8IGloQXQIDU1ZeAUoeAV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmoIH1oSVQULVVdfFxJSXzI4SVxMOUVWXSc_dhN_Cm0KZR13NHp3NFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVwRXQUFZFxdCUoSA2cPGFolXQAHVV1cD04fAGwNGWsVVQIyjd7q3umF2vGCztOCbTYyV25tOEsnAF9WdVpGWwUCUFkPZhcRVCsJQFpUMwYDXFlYCUwUM20JGlkXbTYyHwwKCDseChloGTNpO21WUz8VdQBRcAdedVlKAUJQC14KUisfZ2kNZAtzAjYBZA&cntvendor=5&srcsubj=35572721&type=bkbuy&subject=35572721"
+        },
+        {
+            "name": "当当网",
+            "price": "32.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=dangdang&srcpage=subject&price=3200&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35572721%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29328399&cntvendor=5&srcsubj=35572721&type=bkbuy&subject=35572721"
+        },
+        {
+            "name": "中图网",
+            "price": "31.20元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=bookschina&srcpage=subject&price=3120&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5920518.htm&cntvendor=5&srcsubj=35572721&type=bkbuy&subject=35572721"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35572721/",
+    "douban_id": "35572721",
+    "menu": [
+        "",
+        "        一 荣 禄 血 / 1",
+        "        二 刀枪不入 / 8",
+        "        三 肃 顺 意 / 14",
+        "        四 一时负气成今日 / 23",
+        "        五 萨 满 / 59",
+        "        六 贼 漂 亮 / 79",
+        "        七 小说误国 / 96",
+        "        八 降 神 / 106",
+        "        九 以儒解经 / 122",
+        "        十 梨花落尽春去了 / 129",
+        "        十一 押下女人哀　赢得诗句满 / 149",
+        "        十二 八月中秋雁南飞 / 172",
+        "        十 三 寻 血 / 185",
+        "        十 四 封 后 / 205",
+        "        十五 鳇鱼头 / 213",
+        "        十六 树上开花 / 241",
+        "        十七 蜜桃双眸 / 265",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34044271.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "徐皓峰",
+            "link": "https://book.douban.com/author/4610455"
+        },
+        {
+            "text": "光明日报出版社",
+            "link": "https://book.douban.com/press/2858"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "徐皓峰作品",
+            "link": "https://book.douban.com/series/55557"
+        }
+    ],
+    "tag": "中国文学"
+}

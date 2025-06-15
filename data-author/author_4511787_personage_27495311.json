@@ -1,0 +1,169 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "除非我们亲历",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34637859.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36497565/",
+                        "year": "2023",
+                        "id": 36497565
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "为什么我不是读书人",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34637861.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36497567/",
+                        "year": "2023",
+                        "id": 36497567
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "目光与心事",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34637860.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36497566/",
+                        "year": "2023",
+                        "id": 36497566
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.7,
+                        "title": "再见吧速写",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34353906.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/36152118/",
+                        "year": "2022",
+                        "id": 36152118
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "文学回忆录(1989-1994)",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33679539.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35114633/",
+                        "year": "2020",
+                        "id": 35114633
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "局部：陌生的经验",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33766848.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35216532/",
+                        "year": "2020",
+                        "id": 35216532
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "局部：伟大的工匠",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33766852.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35216533/",
+                        "year": "2020",
+                        "id": 35216533
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "局部：我的大学",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33766850.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35216531/",
+                        "year": "2020",
+                        "id": 35216531
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "影像杂谈",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33718346.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35173290/",
+                        "year": "2020",
+                        "id": 35173290
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "回顾展的回顾",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33719012.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35178059/",
+                        "year": "2020",
+                        "id": 35178059
+                    }
+                }
+            ],
+            "total": 43
+        }
+    },
+    "author_link": "https://book.douban.com/author/4511787/",
+    "author_douban_id": "4511787",
+    "personage_id": 27495311,
+    "name": [
+        "陈丹青",
+        "Danqing Chen"
+    ],
+    "intro": "陈丹青，1953年生于上海，毕业于中央美术学院。艺术家、作家、文艺评论家。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27495311/photo/2316505465",
+        "https://www.douban.com/personage/27495311/photo/2523207526",
+        "https://www.douban.com/personage/27495311/photo/2316505448",
+        "https://www.douban.com/personage/27495311/photo/2624169508",
+        "https://www.douban.com/personage/27495311/photo/2664536247"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2316505465.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2523207526.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2316505448.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2624169508.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2664536247.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/e8a2deb5b6e88d3dacd4a721a277071f.jpg",
+    "sex": 1,
+    "birth_date": 1953,
+    "age": 73,
+    "birth_place": [
+        "中国",
+        "上海"
+    ],
+    "family_member": "陈砥中(祖父) / 陈兆炽(父) / 张涵珠(母) / 陈丹心(弟) / 黄素宁(妻) / 陈夜谭(女)",
+    "IMDB": "nm3965938",
+    "profession": [
+        "作者",
+        "绘者",
+        "演员",
+        "主持人",
+        "导演"
+    ]
+}

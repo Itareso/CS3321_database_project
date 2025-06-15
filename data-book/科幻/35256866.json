@@ -1,0 +1,94 @@
+{
+    "title": "C语言修仙",
+    "bookInfo": {
+        "作者": "一十四洲",
+        "出版社": "中国致公出版社",
+        "出品方": "知音·漫客",
+        "副标题": "下",
+        "出版年": "2020-11",
+        "定价": "39.80元",
+        "装帧": "平装",
+        "丛书": "C语言修仙",
+        "ISBN": "9787514515831"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.2%",
+        "four_star_rate": "43.4%",
+        "three_star_rate": "15.9%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609689/",
+            "name": "一十四洲",
+            "role": "作者",
+            "douban_id": "4609689"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.72元",
+            "link": "https://book.douban.com/link2/?lowest=1672&pre=0&vendor=jingdong&srcpage=subject&price=1672&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVoWWgIAUW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOPykmTkkSRRBbfjhjBwFJFSsfbkoWdT9fdVlqIQZ1URgJThgRBQR_XzBGIBFCWCokdC5gWhBLbwR1BWJhEhg9ehF3YW58XThwLWJlDgwUfBMXeg1BfxtiFVxgNl81TjwVUTxoaA5CKX9UByoUdxdjXAtYYD1pI1FaFjc6CCMfZSRoQyx2CEN2PSI5cShwXxh8b08XKDZrFxkbUU9LYw1OeQZyBEZSMBcqCS5BD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYNK1sTWAcBVFhcAEoQCmc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQQGAVkzVE1BAjxWXlh7XQYGVltYC0MnAW4JGVklbTZpIyUbCk5RfDxteC1PWk1DIRw7CUphUzhmGSRpXXEHEgobW00RaBhMcAhobQUy&cntvendor=3&srcsubj=35256866&type=bkbuy&subject=35256866"
+        },
+        {
+            "name": "当当网",
+            "price": "68.50元",
+            "link": "https://book.douban.com/link2/?lowest=1672&pre=0&vendor=dangdang&srcpage=subject&price=6850&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35256866%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29326505&cntvendor=3&srcsubj=35256866&type=bkbuy&subject=35256866"
+        },
+        {
+            "name": "中图网",
+            "price": "30.90元",
+            "link": "https://book.douban.com/link2/?lowest=1672&pre=0&vendor=bookschina&srcpage=subject&price=3090&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8464250.htm&cntvendor=3&srcsubj=35256866&type=bkbuy&subject=35256866"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35256866/",
+    "douban_id": "35256866",
+    "menu": [
+        "",
+        "        第一章 压缩（上）",
+        "        第二章 压缩（下)",
+        "        第三章 论文",
+        "        第四章 最短路（上）",
+        "        第五章 最短路（下）",
+        "        第六章 D-L",
+        "        第七章 OS（上）",
+        "        第八章 OS（下）",
+        "        第九章 云（上）",
+        "        第十章 云（下）",
+        "        第十一章 密码（上）",
+        "        第十二章 密码（下）",
+        "        第十三章 Root（上）",
+        "        第十四章 Root（下）",
+        "        第十五章 蜜罐",
+        "        第十六章 混沌",
+        "        番外一 伦理剧",
+        "        番外二 如实回答",
+        "        番外三 Hello，World！",
+        "        番外四 夜色",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33772711.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "一十四洲",
+            "link": "https://book.douban.com/author/4609689"
+        },
+        {
+            "text": "中国致公出版社",
+            "link": "https://book.douban.com/press/2846"
+        },
+        {
+            "text": "知音·漫客",
+            "link": "https://book.douban.com/producers/410"
+        },
+        {
+            "text": "C语言修仙",
+            "link": "https://book.douban.com/series/54901"
+        }
+    ],
+    "tag": "科幻"
+}

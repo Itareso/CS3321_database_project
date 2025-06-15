@@ -1,0 +1,81 @@
+{
+    "title": "尼采自传",
+    "bookInfo": {
+        "作者": "[德]尼采",
+        "出版社": "崇文书局",
+        "译者": "徐梵澄",
+        "出版年": "2017-8-1",
+        "页数": "236",
+        "定价": "52",
+        "丛书": "徐梵澄著译选集",
+        "ISBN": "9787540345198"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "39.2%",
+        "four_star_rate": "39.2%",
+        "three_star_rate": "17.6%",
+        "two_star_rate": "3.9%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608582/",
+            "name": "徐梵澄",
+            "role": "译者",
+            "douban_id": "4608582"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "25.52元",
+            "link": "https://book.douban.com/link2/?lowest=2552&pre=0&vendor=jingdong&srcpage=subject&price=2552&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10046152597087.html&cntvendor=1&srcsubj=27092702&type=bkbuy&subject=27092702"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27092702/",
+    "douban_id": "27092702",
+    "menu": [
+        "",
+        "        译者序\t1",
+        "        绪言\t6",
+        "        为什么我这般明哲\t10",
+        "        为什么我这么颖悟\t26",
+        "        为什么我著出这么好的书\t49",
+        "        悲剧之产生\t61",
+        "        非时\t68",
+        "        人间底，极人间底\t74",
+        "        朝霞\t83",
+        "        快乐之科学\t86",
+        "        苏鲁支如是说\t88",
+        "        善与恶之彼面\t107",
+        "        伦理传统说\t109",
+        "        偶像的没落\t111",
+        "        瓦格勒之衰落\t114",
+        "        为什么我便是运命\t123",
+        "        附录一：《人间的，太人间的》（节译）\t134",
+        "        附录二：“超人”论衍\t215",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29498862.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德]尼采",
+            "link": "https://book.douban.com/search/%E5%B0%BC%E9%87%87"
+        },
+        {
+            "text": "崇文书局",
+            "link": "https://book.douban.com/press/2877"
+        },
+        {
+            "text": "徐梵澄",
+            "link": "https://book.douban.com/search/%E5%BE%90%E6%A2%B5%E6%BE%84"
+        },
+        {
+            "text": "徐梵澄著译选集",
+            "link": "https://book.douban.com/series/39111"
+        }
+    ],
+    "tag": "西方哲学"
+}

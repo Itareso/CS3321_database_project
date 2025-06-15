@@ -1,0 +1,75 @@
+{
+    "title": "朝花夕拾",
+    "bookInfo": {
+        "作者": "鲁迅",
+        "出版社": "人民文学出版社",
+        "出版年": "2022-1",
+        "页数": "116",
+        "定价": "25.00元",
+        "装帧": "平装",
+        "丛书": "鲁迅全集·单行本",
+        "ISBN": "9787020152780"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "72.9%",
+        "four_star_rate": "23.7%",
+        "three_star_rate": "3.3%",
+        "two_star_rate": "0.1%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502506/",
+            "name": "鲁迅",
+            "role": "作者",
+            "douban_id": "4502506"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "11.00元",
+            "link": "https://read.douban.com/ebook/380217794/?dcs=subject-buylink&dcm=douban&dct=34858968"
+        },
+        {
+            "name": "得到",
+            "price": "11.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=bBVDEXGGLn7eB51b8NjVRqDoQJPMk3aZ96wadYrXmAxE4Ov92lgzK6ZypxLqdQjp&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "9.36元",
+            "link": "https://book.douban.com/link2/?lowest=936&pre=0&vendor=jingdong&srcpage=subject&price=936&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVoXVAMCUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IONjYZSjsSXj1QEl8UXllgKSs2cDJcRmladVl1O1NqMhwvfRNfSw1gfgVRCxFCWCokdC5gSm9IbyJxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZgKwQpfkhWfgppbQwPI1tcMScmVgxnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxVC0gQBmo4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggcWlIAAw4zVE1AQTZeSw17XQcHUldYCUonAW4JGVklbTZgPBofeE5KUTcBH1oWAmR_ITUlcQBSBT1mGTtzCG5kFiwoUANfYQdtRR9DbQUy&cntvendor=5&srcsubj=34858968&type=bkbuy&subject=34858968"
+        },
+        {
+            "name": "当当网",
+            "price": "18.00元",
+            "link": "https://book.douban.com/link2/?lowest=936&pre=0&vendor=dangdang&srcpage=subject&price=1800&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34858968%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29348504&cntvendor=5&srcsubj=34858968&type=bkbuy&subject=34858968"
+        },
+        {
+            "name": "中图网",
+            "price": "13.10元",
+            "link": "https://book.douban.com/link2/?lowest=936&pre=0&vendor=bookschina&srcpage=subject&price=1310&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8750452.htm&cntvendor=5&srcsubj=34858968&type=bkbuy&subject=34858968"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34858968/",
+    "douban_id": "34858968",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34393653.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "鲁迅",
+            "link": "https://book.douban.com/search/%E9%B2%81%E8%BF%85"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "鲁迅全集·单行本",
+            "link": "https://book.douban.com/series/49424"
+        }
+    ],
+    "tag": "中国文学"
+}

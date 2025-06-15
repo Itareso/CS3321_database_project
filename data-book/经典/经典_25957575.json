@@ -1,0 +1,74 @@
+{
+    "title": "老子",
+    "bookInfo": {
+        "作者": "老子",
+        "出版社": "中华书局",
+        "译者": "汤漳平 / 王朝华",
+        "出版年": "2022-11-10",
+        "页数": "328",
+        "定价": "23.00元",
+        "装帧": "精装",
+        "丛书": "中华经典名著全本全注全译丛书",
+        "ISBN": "9787101100747"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "80.6%",
+        "four_star_rate": "14.9%",
+        "three_star_rate": "3.3%",
+        "two_star_rate": "0.3%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4509174/",
+            "name": "老子",
+            "role": "作者",
+            "douban_id": "4509174"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "9.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0R1Qnw8XDBK9qZpgkRELd75z4Ma6oDRrqjY&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "13.50元",
+            "link": "https://book.douban.com/link2/?lowest=1350&pre=0&vendor=jingdong&srcpage=subject&price=1350&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHlkTWQQAUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHVlhZCkkSHDZNRwYlG0JCUTwGFj50ejMLZF4TDVldBClfeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHVFpeC0sfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHgsUDQdsCFgKShdCVWpmG1oTXwIHU15tCkoWAW04K2tqOn1JND5dfUhAQC18YQhRGGRHDVZYczZ5AQRhaDxsFlxWVxkadyxqaGhPK1gl&cntvendor=3&srcsubj=25957575&type=bkbuy&subject=25957575"
+        },
+        {
+            "name": "中图网",
+            "price": "18.00元",
+            "link": "https://book.douban.com/link2/?lowest=1350&pre=0&vendor=bookschina&srcpage=subject&price=1800&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6638194.htm&cntvendor=3&srcsubj=25957575&type=bkbuy&subject=25957575"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25957575/",
+    "douban_id": "25957575",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s27401565.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "老子",
+            "link": "https://book.douban.com/search/%E8%80%81%E5%AD%90"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "汤漳平",
+            "link": "https://book.douban.com/search/%E6%B1%A4%E6%BC%B3%E5%B9%B3"
+        },
+        {
+            "text": "王朝华",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E6%9C%9D%E5%8D%8E"
+        },
+        {
+            "text": "中华经典名著全本全注全译丛书",
+            "link": "https://book.douban.com/series/4103"
+        }
+    ],
+    "tag": "经典"
+}

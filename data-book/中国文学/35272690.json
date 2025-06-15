@@ -1,0 +1,85 @@
+{
+    "title": "海葵",
+    "bookInfo": {
+        "作者": "贝客邦",
+        "出版社": "重庆出版社",
+        "出版年": "2021-3",
+        "页数": "316",
+        "定价": "49.00元",
+        "装帧": "平装",
+        "丛书": "豆瓣方舟文库·悬疑推理",
+        "ISBN": "9787229153809"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "41.1%",
+        "four_star_rate": "45.2%",
+        "three_star_rate": "12.5%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4616111/",
+            "name": "贝客邦",
+            "role": "作者",
+            "douban_id": "4616111"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "4.35元",
+            "link": "https://read.douban.com/column/31817720/?dcs=subject-buylink&dcm=douban&dct=35272690"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=jingdong&srcpage=subject&price=2450&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVoSXgELXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVVleD0IeHDZNRwYlGXgCAA0OUTV1cXVWRwsPVE95CS0lTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcBXF1dDEwXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFwWW1JsCFgKSwxcRGZmG1oQXAQLV1ptCkoWAW04K2tsJ1FYJAEhDShcRQRJEhkVA2d5NQcJQQp5AQZ6UyFmB1YDNwIBcTFoXxhsK1gl&cntvendor=4&srcsubj=35272690&type=bkbuy&subject=35272690"
+        },
+        {
+            "name": "当当网",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=dangdang&srcpage=subject&price=2450&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35272690%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29178186&cntvendor=4&srcsubj=35272690&type=bkbuy&subject=35272690"
+        },
+        {
+            "name": "中图网",
+            "price": "27.90元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=bookschina&srcpage=subject&price=2790&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8515548.htm&cntvendor=4&srcsubj=35272690&type=bkbuy&subject=35272690"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35272690/",
+    "douban_id": "35272690",
+    "menu": [
+        "",
+        "        001 消失•楼道中的孩子",
+        "        021 掩盖•藤椅上的父亲",
+        "        039 查访•邻居的迟疑",
+        "        066 辗转•意外的阻挠",
+        "        094 追寻•少年的渴望",
+        "        114 周旋•女房东的秘密",
+        "        141 锁定•指纹的推演",
+        "        176 交错•手帕和水族箱",
+        "        205 突破•另一侧的试探",
+        "        221 挣扎•迷雾中的海岸",
+        "        257 重塑•花朵与触手",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33846132.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "贝客邦",
+            "link": "https://book.douban.com/search/%E8%B4%9D%E5%AE%A2%E9%82%A6"
+        },
+        {
+            "text": "重庆出版社",
+            "link": "https://book.douban.com/press/2162"
+        },
+        {
+            "text": "豆瓣方舟文库·悬疑推理",
+            "link": "https://book.douban.com/series/44816"
+        }
+    ],
+    "tag": "中国文学"
+}

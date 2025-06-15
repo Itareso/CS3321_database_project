@@ -1,0 +1,72 @@
+{
+    "title": "猎能者Ⅰ",
+    "bookInfo": {
+        "作者": "彭湃",
+        "出版社": "百花洲文艺出版社",
+        "副标题": "猎能学院",
+        "出版年": "2016-10",
+        "页数": "384",
+        "定价": "32.8",
+        "装帧": "平装",
+        "ISBN": "9787550018839"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "75.2%",
+        "four_star_rate": "15.4%",
+        "three_star_rate": "5.7%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/323965/",
+            "name": "彭湃",
+            "role": "作者",
+            "douban_id": "323965"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "14.09元",
+            "link": "https://book.douban.com/link2/?lowest=1080&pre=0&vendor=jingdong&srcpage=subject&price=1409&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olVQIGVFdYCkseM28IG1gSWQEAVF9YOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocVF5dC0wTBG0IGl4KBENeCW47eANKXy5vXDh3BVRgAAIaDRNjAjJ4F1clWgMFUllUC0wnA2sJH18lbQYDZB8zCE8SB2sNK1kVXAcHVFZaC0onA2kNGl4dXg4KUVhaC3sXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEBGpcGl8TM1oEDgQAAAkXbWwAElIRVQUGZFxcCUkVM184ZDxuFmZiVCteXwhXcWwJQCJ3BF1AE1YbZkl8ahxvYhBPCQVFEw4ifipORF8LKw&cntvendor=2&srcsubj=26851686&type=bkbuy&subject=26851686"
+        },
+        {
+            "name": "中图网",
+            "price": "10.80元",
+            "link": "https://book.douban.com/link2/?lowest=1080&pre=0&vendor=bookschina&srcpage=subject&price=1080&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7768539.htm&cntvendor=2&srcsubj=26851686&type=bkbuy&subject=26851686"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26851686/",
+    "douban_id": "26851686",
+    "menu": [
+        "",
+        "        楔子",
+        "        第一章·死徒来袭",
+        "        第二章·蜥蜴女孩",
+        "        第三章·神秘访客",
+        "        第四章·UGO联盟",
+        "        第五章·黯黑少年",
+        "        第六章·森林之王",
+        "        第七章·钟山之神",
+        "        第八章·黄昏组织",
+        "        第九章·洱海之谜",
+        "        第十章·决一死战",
+        "        尾声",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29064618.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "彭湃",
+            "link": "https://book.douban.com/search/%E5%BD%AD%E6%B9%83"
+        },
+        {
+            "text": "百花洲文艺出版社",
+            "link": "https://book.douban.com/press/2124"
+        }
+    ],
+    "tag": "校园"
+}

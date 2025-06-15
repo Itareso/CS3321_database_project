@@ -1,0 +1,96 @@
+{
+    "title": "三郎",
+    "bookInfo": {
+        "作者": "[日] 山本周五郎",
+        "出版社": "古吴轩出版社",
+        "出品方": "凤凰颐合",
+        "原作名": "さぶ",
+        "译者": "张静文",
+        "出版年": "2020-5",
+        "页数": "335",
+        "定价": "54",
+        "装帧": "平装",
+        "丛书": "人间镜像",
+        "ISBN": "9787554615515"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "43.3%",
+        "four_star_rate": "43.3%",
+        "three_star_rate": "10.0%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "1.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/502124/",
+            "name": "山本周五郎",
+            "role": "作者",
+            "douban_id": "502124"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.86元",
+            "link": "https://book.douban.com/link2/?lowest=2420&pre=0&vendor=jingdong&srcpage=subject&price=3186&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFMVXQMHXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXF5dDU4eHDZNRwYlWHxwCyImWxN3Ajt9ZFpRAgFCJiYfaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcGV1xaDE4SM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFsRWgdsCFgKTUNLBmdmG1ocWwUDV1ptCkoWAW04K2tVGl9GBB0WSgxDQmkMfyxRIgRcFiQmYBN5BC9OEhxHGXl3IjcbSAwQfh9xK1gl&cntvendor=3&srcsubj=35061184&type=bkbuy&subject=35061184"
+        },
+        {
+            "name": "当当网",
+            "price": "54.00元",
+            "link": "https://book.douban.com/link2/?lowest=2420&pre=0&vendor=dangdang&srcpage=subject&price=5400&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35061184%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28986614&cntvendor=3&srcsubj=35061184&type=bkbuy&subject=35061184"
+        },
+        {
+            "name": "中图网",
+            "price": "24.20元",
+            "link": "https://book.douban.com/link2/?lowest=2420&pre=0&vendor=bookschina&srcpage=subject&price=2420&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8387710.htm&cntvendor=3&srcsubj=35061184&type=bkbuy&subject=35061184"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35061184/",
+    "douban_id": "35061184",
+    "menu": [
+        "",
+        "        第一章",
+        "        第二章",
+        "        第三章",
+        "        第四章",
+        "        第五章",
+        "        第六章",
+        "        第七章",
+        "        第八章",
+        "        第九章",
+        "        第十章",
+        "        第十一章",
+        "        第十二章",
+        "        第十三章",
+        "        第十四章",
+        "        第十五章",
+        "        第十六章",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33662921.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 山本周五郎",
+            "link": "https://book.douban.com/author/502124"
+        },
+        {
+            "text": "古吴轩出版社",
+            "link": "https://book.douban.com/press/2681"
+        },
+        {
+            "text": "凤凰颐合",
+            "link": "https://book.douban.com/producers/177"
+        },
+        {
+            "text": "张静文",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E9%9D%99%E6%96%87"
+        },
+        {
+            "text": "人间镜像",
+            "link": "https://book.douban.com/series/52334"
+        }
+    ],
+    "tag": "日本文学"
+}

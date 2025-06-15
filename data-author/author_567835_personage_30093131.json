@@ -1,0 +1,153 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "格",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34724706.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36603505/",
+                        "year": "2024",
+                        "id": 36603505
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "何方妖物",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34882375.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36919396/",
+                        "year": "2024",
+                        "id": 36919396
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "点石斋画报·志怪图谱",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34850552.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36839925/",
+                        "year": "2024",
+                        "id": 36839925
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "魑魅魍魉",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34596212.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36481073/",
+                        "year": "2023",
+                        "id": 36481073
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "渔具列传",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34093274.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35733523/",
+                        "year": "2022",
+                        "id": 35733523
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "逐妖書",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34262438.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35984860/",
+                        "year": "2022",
+                        "id": 35984860
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "故国之妖",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34020987.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35153294/",
+                        "year": "2021",
+                        "id": 35153294
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "蟹略今注今译",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33889177.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35424748/",
+                        "year": "2021",
+                        "id": 35424748
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "《郑成功》",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34146364.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35797379/",
+                        "year": "2020",
+                        "id": 35797379
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "渔具图谱",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33694085.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/32578919/",
+                        "year": "2019",
+                        "id": 32578919
+                    }
+                }
+            ],
+            "total": 17
+        }
+    },
+    "author_link": "https://book.douban.com/author/567835/",
+    "author_douban_id": "567835",
+    "personage_id": 30093131,
+    "name": [
+        "盛文强",
+        "Wenqiang Sheng"
+    ],
+    "intro": "盛文强，1984年生于青岛，著有《海盗奇谭》《渔具列传》《海怪简史》《海神的肖像》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/a61d3e820fa43c5ca04cdcfd1a8d15a2.jpg",
+    "sex": 1,
+    "birth_date": 1984,
+    "age": 42,
+    "birth_place": [
+        "中国",
+        "山东",
+        "青岛"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

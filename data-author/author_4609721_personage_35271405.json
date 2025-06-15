@@ -1,0 +1,145 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "新新新日報館: 魔都暗影",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34835590.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36800722/",
+                        "year": "2024",
+                        "id": 36800722
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "银河边缘020：理水·破竹",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35016470.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37097579/",
+                        "year": "2024",
+                        "id": 37097579
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "飞出个星球",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34825029.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36837326/",
+                        "year": "2024",
+                        "id": 36837326
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "新新日報館: 機械崛起",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34845909.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36524133/",
+                        "year": "2023",
+                        "id": 36524133
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "不動天墜山",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34766619.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36545732/",
+                        "year": "2023",
+                        "id": 36545732
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "面包我的幸福",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34229161.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35813150/",
+                        "year": "2022",
+                        "id": 35813150
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "沉默的永和轮",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33967857.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35562187/",
+                        "year": "2021",
+                        "id": 35562187
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "龙的呼吸阀",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33920053.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35390392/",
+                        "year": "2021",
+                        "id": 35390392
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "猫不存在",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33631347.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35045956/",
+                        "year": "2020",
+                        "id": 35045956
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "厨房里的海派少女",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33704101.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35061550/",
+                        "year": "2020",
+                        "id": 35061550
+                    }
+                }
+            ],
+            "total": 12
+        }
+    },
+    "author_link": "https://book.douban.com/author/4609721/",
+    "author_douban_id": "4609721",
+    "personage_id": 35271405,
+    "name": [
+        "梁清散",
+        "Qingsan Liang"
+    ],
+    "intro": "梁清散，2020年出版全新力作《厨房里的海派少女》。已出版长篇科幻小说《文学少女侦探》《新新日报馆》，其他代表作有《济南的风筝》《枯苇余春》《三季一生》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/863d5071e1db7bf4ce2de0570cea4692.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

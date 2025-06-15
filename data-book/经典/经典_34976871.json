@@ -1,0 +1,67 @@
+{
+    "title": "大宗师7",
+    "bookInfo": {
+        "作者": "蛇从革",
+        "出版社": "广东旅游出版社",
+        "出品方": "雁北堂",
+        "副标题": "三铜齐聚",
+        "原作名": "THE MASTER",
+        "出版年": "2020-4",
+        "页数": "398",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "丛书": "大宗师",
+        "ISBN": "9787557019501"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "60.0%",
+        "four_star_rate": "20.9%",
+        "three_star_rate": "17.3%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4625146/",
+            "name": "蛇从革",
+            "role": "作者",
+            "douban_id": "4625146"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "25.31元",
+            "link": "https://book.douban.com/link2/?lowest=1540&pre=0&vendor=jingdong&srcpage=subject&price=2531&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwQWgIHUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOC1wCayt3aylTXilJLlUEJz8PVR9TAQ57dVleFE0ALj0DWxBhdTAKEiRqGBFCWCokcCxjcBBLbDJxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZWEycKQz5neQx4bQhwD2VKVSs6YBt3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVpbD04TBG44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA4DXVYzVE1ARjVBQw17XQcKVF9aCkknAW4JGVklbTZdVgE-aCt_RTRNaQdmDgBxNQwAXA8VYhxmGRBcFgR4NwAOUz1hXG0BZCRQbQUy&cntvendor=2&srcsubj=34976871&type=bkbuy&subject=34976871"
+        },
+        {
+            "name": "中图网",
+            "price": "15.40元",
+            "link": "https://book.douban.com/link2/?lowest=1540&pre=0&vendor=bookschina&srcpage=subject&price=1540&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8280960.htm&cntvendor=2&srcsubj=34976871&type=bkbuy&subject=34976871"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34976871/",
+    "douban_id": "34976871",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33587463.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "蛇从革",
+            "link": "https://book.douban.com/author/4625146"
+        },
+        {
+            "text": "广东旅游出版社",
+            "link": "https://book.douban.com/press/2163"
+        },
+        {
+            "text": "雁北堂",
+            "link": "https://book.douban.com/producers/106"
+        },
+        {
+            "text": "大宗师",
+            "link": "https://book.douban.com/series/33319"
+        }
+    ],
+    "tag": "经典"
+}

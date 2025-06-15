@@ -1,0 +1,57 @@
+{
+    "title": "世界上有一个你，只有我知道",
+    "bookInfo": {
+        "作者": "兽心蘑菇",
+        "出版社": "江苏凤凰文艺出版社",
+        "出版年": "2020-1",
+        "定价": "CNY 59.00",
+        "装帧": "平装",
+        "ISBN": "9787559440198"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.1%",
+        "four_star_rate": "40.2%",
+        "three_star_rate": "19.7%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "16.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=6JvkYVNn8NXVry5MeG6Z9RALK2dxJ3GarL07olBEmjgakz1DPvYObQ4qpQdZqme9&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "23.80元",
+            "link": "https://book.douban.com/link2/?lowest=2380&pre=0&vendor=jingdong&srcpage=subject&price=2380&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0TWQMKXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUlhZDUMeHDZNRwYlDXZ3LTgcdS1ydi91eVJdHXgFICQHeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUV9VDUMeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgFsCFgKSghQSy5mG1ocXQIDV1ptCkoWAW04K2sSGmFHEjsgfCBAcQ9NQwxAVXVrExZcf015QSlcbxxWGEReUw0UDwxXAjpRK1gl&cntvendor=4&srcsubj=34918470&type=bkbuy&subject=34918470"
+        },
+        {
+            "name": "当当网",
+            "price": "56.10元",
+            "link": "https://book.douban.com/link2/?lowest=2380&pre=0&vendor=dangdang&srcpage=subject&price=5610&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34918470%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28496719&cntvendor=4&srcsubj=34918470&type=bkbuy&subject=34918470"
+        },
+        {
+            "name": "中图网",
+            "price": "33.40元",
+            "link": "https://book.douban.com/link2/?lowest=2380&pre=0&vendor=bookschina&srcpage=subject&price=3340&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8248231.htm&cntvendor=4&srcsubj=34918470&type=bkbuy&subject=34918470"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34918470/",
+    "douban_id": "34918470",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33539664.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "兽心蘑菇",
+            "link": "https://book.douban.com/search/%E5%85%BD%E5%BF%83%E8%98%91%E8%8F%87"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        }
+    ],
+    "tag": "随笔"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "拿破仑传",
+    "bookInfo": {
+        "作者": "埃米尔·路德维希",
+        "出版社": "华文出版社",
+        "译者": "周何法 / 梁锡江 / 龚艳",
+        "出版年": "2010-10",
+        "页数": "548",
+        "定价": "29.80元",
+        "装帧": "精装",
+        "ISBN": "9787507522716"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《拿破仑传》是享誉世界的德国传记大师埃米尔·路德维希的代表作，是拿破仑传记中的经典之作，也是迄今为止最权威、最全面的拿破仑生平传记。拿破仑是一个杰出的军事奇才，同时也是一个伟大的政治天才。他于1804年加冕为法兰西皇帝，从此他的名字就和他所取得的无数场战争的胜利联系在一起。在西方的历史上，没有哪个人像拿破仑这样拥有如此长久的赞誉。他以个人非凡的努力，叱咤欧洲20余年。他是法兰西共和国第一执政，法兰西第一帝国皇帝，兼任意大利国王、莱茵同盟的保护人、瑞士联邦的仲裁者，他以自己的方式使法国革命扩展到整个欧洲，将欧洲人从沉睡中唤醒。在这本《拿破仑传》中，埃米尔·路德维希以时间为线索，以史实为基础，描述了拿破仑叱咤风云的传奇一生中经历过的各次重大战役和心路成长的历程。作者通过翔实的史料，将拿破仑的伟大魅力和历史功过真实、生动地层现在读者面前，是一部探究伟人心路历程的命运史诗。    该书自1925年首版后，各国译者争相翻译，其英译本曾位列美国“非虚构类畅销书排行榜”第二名，被誉为可以“影响历史进程的书”。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "38.9%",
+        "four_star_rate": "48.9%",
+        "three_star_rate": "7.6%",
+        "two_star_rate": "3.8%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/143992/",
+            "name": "埃米尔·路德维希",
+            "role": "作者",
+            "douban_id": "143992"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "44.60元",
+            "link": "https://book.douban.com/link2/?lowest=4460&pre=0&vendor=jingdong&srcpage=subject&price=4460&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070717384169.html&cntvendor=1&srcsubj=5296451&type=bkbuy&subject=5296451"
+        }
+    ],
+    "url": "https://book.douban.com/subject/5296451/",
+    "douban_id": "5296451",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s6226291.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "埃米尔·路德维希",
+            "link": "https://book.douban.com/author/143992"
+        },
+        {
+            "text": "华文出版社",
+            "link": "https://book.douban.com/press/2499"
+        },
+        {
+            "text": "周何法",
+            "link": "https://book.douban.com/search/%E5%91%A8%E4%BD%95%E6%B3%95"
+        },
+        {
+            "text": "梁锡江",
+            "link": "https://book.douban.com/search/%E6%A2%81%E9%94%A1%E6%B1%9F"
+        },
+        {
+            "text": "龚艳",
+            "link": "https://book.douban.com/search/%E9%BE%9A%E8%89%B3"
+        }
+    ],
+    "tag": "人物传记"
+}

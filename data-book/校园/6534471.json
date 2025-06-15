@@ -1,0 +1,43 @@
+{
+    "title": "蜜恋游戏",
+    "bookInfo": {
+        "作者": "沫小翼",
+        "出版社": "北岳文艺出版社",
+        "出版年": "2011-6",
+        "页数": "206",
+        "定价": "25.00元",
+        "装帧": "平装",
+        "ISBN": "9787510418228"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": null,
+        "four_star_rate": null,
+        "three_star_rate": null,
+        "two_star_rate": null,
+        "one_star_rate": null
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "14.51元",
+            "link": "https://book.douban.com/link2/?lowest=1451&pre=0&vendor=jingdong&srcpage=subject&price=1451&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10374065591.html&cntvendor=1&srcsubj=6534471&type=bkbuy&subject=6534471"
+        }
+    ],
+    "url": "https://book.douban.com/subject/6534471/",
+    "douban_id": "6534471",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s6913533.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "沫小翼",
+            "link": "https://book.douban.com/search/%E6%B2%AB%E5%B0%8F%E7%BF%BC"
+        },
+        {
+            "text": "北岳文艺出版社",
+            "link": "https://book.douban.com/press/2310"
+        }
+    ],
+    "tag": "校园"
+}

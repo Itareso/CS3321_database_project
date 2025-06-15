@@ -1,0 +1,45 @@
+{
+    "title": "疯狂阅读",
+    "bookInfo": {
+        "作者": "杜志建",
+        "副标题": "最美文",
+        "出版年": "2011-1",
+        "页数": "159",
+        "定价": "13.80元",
+        "ISBN": "9787543792630"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "55.1%",
+        "four_star_rate": "18.4%",
+        "three_star_rate": "16.3%",
+        "two_star_rate": "8.2%",
+        "one_star_rate": "2.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4531007/",
+            "name": "杜志建",
+            "role": "作者",
+            "douban_id": "4531007"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "44.86元",
+            "link": "https://book.douban.com/link2/?lowest=4486&pre=0&vendor=jingdong&srcpage=subject&price=4486&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgcLVVpeCk4TBV8IGloRWQQDU1deAU8UAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmsMGVoSVAULUF1cFxJSXzI4XSELVQFcAxo_SxNhahJbex4QClMYAlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwIAVFxcOEkXAm4NG1MSXgcyVFhYCU4fAW4JE18SXzYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRU1taCBlCbTMOQQFIAAAGOl1VAUITCmsLK1kUXAQAZG5teC5yQRENZgMXIHpmAAIHeDVNQG5-fB9LMwRkIBg4UAkVA20MbAZKIwdbEm5eOA&cntvendor=1&srcsubj=5437395&type=bkbuy&subject=5437395"
+        }
+    ],
+    "url": "https://book.douban.com/subject/5437395/",
+    "douban_id": "5437395",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s8864778.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "杜志建",
+            "link": "https://book.douban.com/author/4531007/"
+        }
+    ],
+    "tag": "校园"
+}

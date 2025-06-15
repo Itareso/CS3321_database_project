@@ -1,0 +1,91 @@
+{
+    "title": "复写",
+    "bookInfo": {
+        "作者": "[日] 法条遥",
+        "出版社": "文化发展出版社",
+        "出品方": "力潮文创",
+        "原作名": "リライト",
+        "译者": "林南一",
+        "出版年": "2020-12-1",
+        "定价": "48.00",
+        "装帧": "平装",
+        "丛书": "千本樱文库",
+        "ISBN": "9787514231281"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "18.4%",
+        "four_star_rate": "41.4%",
+        "three_star_rate": "32.8%",
+        "two_star_rate": "6.0%",
+        "one_star_rate": "1.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4628930/",
+            "name": "法条遥",
+            "role": "作者",
+            "douban_id": "4628930"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "36.50元",
+            "link": "https://book.douban.com/link2/?lowest=3460&pre=0&vendor=jingdong&srcpage=subject&price=3650&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVoRXAcDVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IODR8DSjsSUS1vGAh3G3NaIQUuTwhyfRxadVlQFXFDKRxfXixxZTZJeB1uKhFCWCokdC5jYAhMbzJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZdACICCUkNCg9geRpAAm9nNyYtfxdBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhbDE0TA2Y4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWAECBgozVE1BAi5DSQl7XQYEV1pVD0MnAW4JGVklbTZbFQAfeE5FQQgLSDlTKF53Dy0aSy5pcD1mGR5dKkd_FlwLby1xWi5rXSBibQUy&cntvendor=3&srcsubj=35217600&type=bkbuy&subject=35217600"
+        },
+        {
+            "name": "当当网",
+            "price": "36.50元",
+            "link": "https://book.douban.com/link2/?lowest=3460&pre=0&vendor=dangdang&srcpage=subject&price=3650&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35217600%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29193422&cntvendor=3&srcsubj=35217600&type=bkbuy&subject=35217600"
+        },
+        {
+            "name": "中图网",
+            "price": "34.60元",
+            "link": "https://book.douban.com/link2/?lowest=3460&pre=0&vendor=bookschina&srcpage=subject&price=3460&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8486507.htm&cntvendor=3&srcsubj=35217600&type=bkbuy&subject=35217600"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35217600/",
+    "douban_id": "35217600",
+    "menu": [
+        "",
+        "        序 / 001",
+        "        1　2002 年① / 007",
+        "        2　1992 年① / 021",
+        "        3　2002 年② / 035",
+        "        4　1992 年② / 047",
+        "        5　2002 年③ / 069",
+        "        6　1992 年③ / 083",
+        "        7　2002 年④ / 097",
+        "        8　1992 年④ / 131",
+        "        9　2002 年⑤ / 149",
+        "        10　1992 年⑤ / 189",
+        "        终章 195",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33814809.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 法条遥",
+            "link": "https://book.douban.com/search/%E6%B3%95%E6%9D%A1%E9%81%A5"
+        },
+        {
+            "text": "文化发展出版社",
+            "link": "https://book.douban.com/press/2401"
+        },
+        {
+            "text": "力潮文创",
+            "link": "https://book.douban.com/producers/479"
+        },
+        {
+            "text": "林南一",
+            "link": "https://book.douban.com/search/%E6%9E%97%E5%8D%97%E4%B8%80"
+        },
+        {
+            "text": "千本樱文库",
+            "link": "https://book.douban.com/series/44121"
+        }
+    ],
+    "tag": "科幻"
+}

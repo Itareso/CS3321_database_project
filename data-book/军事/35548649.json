@@ -1,0 +1,83 @@
+{
+    "title": "大西庇阿",
+    "bookInfo": {
+        "作者": "[英]李德·哈特",
+        "出版社": "上海人民出版社",
+        "副标题": "胜过拿破仑",
+        "原作名": "Scipio Africanus: Greater Than Napoleon",
+        "译者": "杨楠",
+        "出版年": "2021-7",
+        "页数": "183",
+        "定价": "58",
+        "装帧": "平装",
+        "丛书": "历史·文化经典译丛",
+        "ISBN": "9787208172104"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.9%",
+        "four_star_rate": "36.4%",
+        "three_star_rate": "18.2%",
+        "two_star_rate": "4.5%",
+        "one_star_rate": "3.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/204201/",
+            "name": "李德·哈特",
+            "role": "作者",
+            "douban_id": "204201"
+        },
+        {
+            "link": "https://book.douban.com/author/4614837/",
+            "name": "杨楠",
+            "role": "译者",
+            "douban_id": "4614837"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "30.40元",
+            "link": "https://www.dedao.cn/eBook/DLnMGAEG7gKLyYmkAbPaEXxD8BM4J0LzPM3ROrpdZn19VNzv2o5e6lqjQQ1poxqy?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "43.50元",
+            "link": "https://book.douban.com/link2/?lowest=2770&pre=0&vendor=jingdong&srcpage=subject&price=4350&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFIdWwYBVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVZbCEgXHDZNRwYlNlN8FlY2Thl1Wwl8Eh1VBFREAAgFeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUV5fDUkTM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFsRWlFsCFgHVw5DRy1mGVoWWwMFU1xtCkoWAW04K2t2XFxEKlsodSplRwd7YlsWC2JGUBYJakt5ARFpYVpLG0UGNQkKa0prBA9dK1gl&cntvendor=4&srcsubj=35548649&type=bkbuy&subject=35548649"
+        },
+        {
+            "name": "当当网",
+            "price": "32.70元",
+            "link": "https://book.douban.com/link2/?lowest=2770&pre=0&vendor=dangdang&srcpage=subject&price=3270&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35548649%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29283701&cntvendor=4&srcsubj=35548649&type=bkbuy&subject=35548649"
+        },
+        {
+            "name": "中图网",
+            "price": "27.70元",
+            "link": "https://book.douban.com/link2/?lowest=2770&pre=0&vendor=bookschina&srcpage=subject&price=2770&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8646116.htm&cntvendor=4&srcsubj=35548649&type=bkbuy&subject=35548649"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35548649/",
+    "douban_id": "35548649",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33958964.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英]李德·哈特",
+            "link": "https://book.douban.com/author/204201"
+        },
+        {
+            "text": "上海人民出版社",
+            "link": "https://book.douban.com/press/2733"
+        },
+        {
+            "text": "杨楠",
+            "link": "https://book.douban.com/author/4614837"
+        },
+        {
+            "text": "历史·文化经典译丛",
+            "link": "https://book.douban.com/series/33999"
+        }
+    ],
+    "tag": "军事"
+}

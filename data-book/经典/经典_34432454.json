@@ -1,0 +1,70 @@
+{
+    "title": "人性的枷锁",
+    "bookInfo": {
+        "作者": "[英] 威廉·萨默塞特·毛姆",
+        "出版社": "四川文艺出版社",
+        "出品方": "猫头鹰文化",
+        "译者": "林步升",
+        "出版年": "2019-8",
+        "页数": "776",
+        "定价": "78.00元",
+        "丛书": "毛姆代表作全新译本系列",
+        "ISBN": "9787541153235"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "70.0%",
+        "four_star_rate": "24.5%",
+        "three_star_rate": "5.1%",
+        "two_star_rate": "0.4%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4576950/",
+            "name": "威廉·萨默塞特·毛姆",
+            "role": "作者",
+            "douban_id": "4576950"
+        },
+        {
+            "link": "https://book.douban.com/author/4609255/",
+            "name": "林步升",
+            "role": "译者",
+            "douban_id": "4609255"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "40.60元",
+            "link": "https://book.douban.com/link2/?lowest=4060&pre=0&vendor=jingdong&srcpage=subject&price=4060&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQAHXF5fCkMXM2sNG1MWWAABXFxZOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocUFtdAEgSBWwAGV8KBENeCW4qdSBIYCgNejtIBVxxLQoDbxFUZG5OF1clWgMFUllUC0wnA2sJH18lbQYDZB8zDE4WCmY4GVsUXAMCXFleCXsXBWoJGFoWVQYLUlxZOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgRADsATg57AQBVFxkUVhR5A24PE18TXA4yVl9cCkknM19dSydGPWYDHBsieBRMcCdgeQ9KCk1_LD8zChNJfz9dSFtNGHJ2PQ0WABheM2w4&cntvendor=1&srcsubj=34432454&type=bkbuy&subject=34432454"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34432454/",
+    "douban_id": "34432454",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33475359.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 威廉·萨默塞特·毛姆",
+            "link": "https://book.douban.com/author/4576950"
+        },
+        {
+            "text": "四川文艺出版社",
+            "link": "https://book.douban.com/press/2529"
+        },
+        {
+            "text": "猫头鹰文化",
+            "link": "https://book.douban.com/producers/116"
+        },
+        {
+            "text": "林步升",
+            "link": "https://book.douban.com/author/4609255"
+        },
+        {
+            "text": "毛姆代表作全新译本系列",
+            "link": "https://book.douban.com/series/50142"
+        }
+    ],
+    "tag": "经典"
+}

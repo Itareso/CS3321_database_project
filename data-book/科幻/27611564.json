@@ -1,0 +1,69 @@
+{
+    "title": "星球大战： 达斯·维达4",
+    "bookInfo": {
+        "作者": "[英]基伦·吉伦（著） / [西班牙]萨尔瓦多·拉洛卡 等（绘）",
+        "出版社": "四川美术出版社",
+        "出品方": "海星创造",
+        "副标题": "游戏的终结",
+        "原作名": "Star Wars: Darth Vader Vol. 4: End of Games",
+        "译者": "王梓涵",
+        "出版年": "2018-1",
+        "页数": "164",
+        "定价": "50.00元",
+        "装帧": "平装",
+        "丛书": "《星球大战》漫威漫画",
+        "ISBN": "9787541076923"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "36.4%",
+        "four_star_rate": "43.9%",
+        "three_star_rate": "19.7%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.20元",
+            "link": "https://book.douban.com/link2/?lowest=1600&pre=0&vendor=jingdong&srcpage=subject&price=1620&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAcUJK1olVQIFXFpZCEsRM2oIGlkcWgEKUVddOA9IWzFXKwJQGEdAX0BDUxNIVThcREROCBlQCgJDUA5DX3BRXgdIU0RYEFJVaAxUfQZNbB8QBHZqIgU8DEt3VRJwWiN7X25mVz44S05RRzFWHCZ-JHpxQx5RfyJjZhhBGwViX1xrLS0-XyxuXhB8fx0dOFlbKyoqbF8UdAtAeCdiOV9HMQYmYSgWRXsLbD5KInlhVTZafzJjWxhrGwdiX25mLT1dTzNiaBlqQS8TOU8KCQstYE53ATZxeFphVHEACScpbChXdAZ3aSJmGwB1DCI9fz90QhtAez51B2VFIAQpWDxkfDN8GQ18KmVXA24WSBZCcD1JeDhIJ1ZwDgVHdEJLAiROF1clWgMFUllUC0wnA2sJH18lbQYDZB8zC0oTAGwBK1kVXAcHVFZaC0onA2kNGlgVWw4BVFdZDHsXC2s4wtuii6SQjcDX3cOAM184GGslbQYBZF1tViUWUGgNE1ocD2heUghcTRMTBgEIG10WWQQAVW5fCUoVAV84K1N1GkV8PRsqTE5Ocwd-QDoRXWZUKSYccCUVawsLez5WWEBGCgBadSBufxw4GGs&cntvendor=2&srcsubj=27611564&type=bkbuy&subject=27611564"
+        },
+        {
+            "name": "中图网",
+            "price": "16.00元",
+            "link": "https://book.douban.com/link2/?lowest=1600&pre=0&vendor=bookschina&srcpage=subject&price=1600&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7723929.htm&cntvendor=2&srcsubj=27611564&type=bkbuy&subject=27611564"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27611564/",
+    "douban_id": "27611564",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29668244.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英]基伦·吉伦（著）",
+            "link": "https://book.douban.com/search/%E5%9F%BA%E4%BC%A6%C2%B7%E5%90%89%E4%BC%A6"
+        },
+        {
+            "text": "[西班牙]萨尔瓦多·拉洛卡 等（绘）",
+            "link": "https://book.douban.com/search/%E8%90%A8%E5%B0%94%E7%93%A6%E5%A4%9A%C2%B7%E6%8B%89%E6%B4%9B%E5%8D%A1%20%E7%AD%89"
+        },
+        {
+            "text": "四川美术出版社",
+            "link": "https://book.douban.com/press/2284"
+        },
+        {
+            "text": "海星创造",
+            "link": "https://book.douban.com/producers/76"
+        },
+        {
+            "text": "王梓涵",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E6%A2%93%E6%B6%B5"
+        },
+        {
+            "text": "《星球大战》漫威漫画",
+            "link": "https://book.douban.com/series/36255"
+        }
+    ],
+    "tag": "科幻"
+}

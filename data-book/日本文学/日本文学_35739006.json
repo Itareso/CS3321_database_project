@@ -1,0 +1,72 @@
+{
+    "title": "四叠半时光机布鲁斯",
+    "bookInfo": {
+        "作者": "[日]森见登美彦",
+        "出版社": "新星出版社",
+        "出品方": "天闻角川",
+        "原作名": "四畳半タイムマシンブルース",
+        "译者": "冯锦源",
+        "出版年": "2022-3",
+        "页数": "178",
+        "定价": "46",
+        "装帧": "平装",
+        "丛书": "天闻角川·森见登美彦作品",
+        "ISBN": "9787513347662"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.4%",
+        "four_star_rate": "45.3%",
+        "three_star_rate": "15.6%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/575580/",
+            "name": "森见登美彦",
+            "role": "作者",
+            "douban_id": "575580"
+        },
+        {
+            "link": "https://book.douban.com/author/4621113/",
+            "name": "冯锦源",
+            "role": "译者",
+            "douban_id": "4621113"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "29.40元",
+            "link": "https://book.douban.com/link2/?lowest=2940&pre=0&vendor=jingdong&srcpage=subject&price=2940&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVwUVAQLV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU19UCkIUHDZNRwYlXXRxECEDVhJ0ZR1-XQRKGwZyUiUCeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHXFpeAEIWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFJGWAdsCFgKTUlMUDpmG1oRWgcBV15tCkoWAW04K2tTBXBaMz4KTQtDVht9HSxFAwNUIQgADBN5AT9KEgN9BQVAFCYlThNwADsOK1gl&cntvendor=1&srcsubj=35739006&type=bkbuy&subject=35739006"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35739006/",
+    "douban_id": "35739006",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34096903.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]森见登美彦",
+            "link": "https://book.douban.com/search/%E6%A3%AE%E8%A7%81%E7%99%BB%E7%BE%8E%E5%BD%A6"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "天闻角川",
+            "link": "https://book.douban.com/producers/67"
+        },
+        {
+            "text": "冯锦源",
+            "link": "https://book.douban.com/author/4621113"
+        },
+        {
+            "text": "天闻角川·森见登美彦作品",
+            "link": "https://book.douban.com/series/60856"
+        }
+    ],
+    "tag": "日本文学"
+}

@@ -1,0 +1,87 @@
+{
+    "title": "求职记",
+    "bookInfo": {
+        "作者": "[日] 石田衣良",
+        "出版社": "青岛出版社",
+        "原作名": "シューカツ！",
+        "译者": "张凌志",
+        "出版年": "2020-4-1",
+        "页数": "368",
+        "定价": "39.00",
+        "装帧": "平装加护封",
+        "丛书": "石田衣良作品",
+        "ISBN": "9787555287544"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.5%",
+        "four_star_rate": "47.1%",
+        "three_star_rate": "16.6%",
+        "two_star_rate": "1.9%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4555729/",
+            "name": "石田衣良",
+            "role": "作者",
+            "douban_id": "4555729"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.50元",
+            "link": "https://read.douban.com/ebook/158703058/?dcs=subject-buylink&dcm=douban&dct=34937216"
+        },
+        {
+            "name": "得到",
+            "price": "19.50元",
+            "link": "https://www.dedao.cn/eBook/OAdXprx6N41dm9BQkayr8z7OqLGoE3l9KdwYMlVAnxRZXK2Dg5pbevPJjjnQv2eb?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.45元",
+            "link": "https://book.douban.com/link2/?lowest=1460&pre=0&vendor=jingdong&srcpage=subject&price=2145&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwXWQYAUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOMS4NUCt3BARSUztGCmYGVhwDXCtrajNpdVkVPQFyKAYCUhFDVwp4eQNAIxFCWCokcCxgShxPbwRxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ6FhcZVyMRZw9DaTMcLXZQFxo5SRxBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcHXFdZDkkQBm04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgIBVlYzVE1NXClMTBh7XwcBVl5YAUMnAW4JGVklbTZnJA4FaCsQaDVAewhCPQIAFgAJaDd-Xw5mGVt1WnZ-DAEHUh9DZh9qQw5rbQUy&cntvendor=4&srcsubj=34937216&type=bkbuy&subject=34937216"
+        },
+        {
+            "name": "中图网",
+            "price": "14.60元",
+            "link": "https://book.douban.com/link2/?lowest=1460&pre=0&vendor=bookschina&srcpage=subject&price=1460&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8281432.htm&cntvendor=4&srcsubj=34937216&type=bkbuy&subject=34937216"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34937216/",
+    "douban_id": "34937216",
+    "menu": [
+        "",
+        "        在暴风雨中出发 / 1",
+        "        工作的真谛 / 40",
+        "        欢迎来到综合板块 / 80",
+        "        爱的简历 / 123",
+        "        学长您好 / 164",
+        "        求职前线起战事 / 226",
+        "        尾声 / 359",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33602148.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 石田衣良",
+            "link": "https://book.douban.com/author/4555729"
+        },
+        {
+            "text": "青岛出版社",
+            "link": "https://book.douban.com/press/2818"
+        },
+        {
+            "text": "张凌志",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E5%87%8C%E5%BF%97"
+        },
+        {
+            "text": "石田衣良作品",
+            "link": "https://book.douban.com/series/51482"
+        }
+    ],
+    "tag": "职场"
+}

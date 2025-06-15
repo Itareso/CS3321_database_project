@@ -1,0 +1,44 @@
+{
+    "title": "终身制职业2",
+    "bookInfo": {
+        "作者": "周健良",
+        "出版社": "花山文艺出版社",
+        "出版年": "2006-11",
+        "页数": "291",
+        "定价": "29.80元",
+        "装帧": "平装",
+        "ISBN": "9787806739198"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "48.7%",
+        "four_star_rate": "35.3%",
+        "three_star_rate": "14.1%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/237488/",
+            "name": "周健良",
+            "role": "作者",
+            "douban_id": "237488"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1956426/",
+    "douban_id": "1956426",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s24947414.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "周健良",
+            "link": "https://book.douban.com/author/237488/"
+        },
+        {
+            "text": "花山文艺出版社",
+            "link": "https://book.douban.com/press/2450"
+        }
+    ],
+    "tag": "军事"
+}

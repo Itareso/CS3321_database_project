@@ -1,0 +1,64 @@
+{
+    "title": "柴门文的饭桌",
+    "bookInfo": {
+        "作者": "[日] 柴门文",
+        "出版社": "浙江大学出版社",
+        "出品方": "启真馆",
+        "副标题": "暖暖家常菜",
+        "译者": "星野空",
+        "出版年": "2020-12",
+        "页数": "220",
+        "定价": "56.00",
+        "装帧": "精装",
+        "ISBN": "9787308207324"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.8%",
+        "four_star_rate": "48.9%",
+        "three_star_rate": "31.1%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "30.36元",
+            "link": "https://book.douban.com/link2/?lowest=3036&pre=0&vendor=jingdong&srcpage=subject&price=3036&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVsQWAUGVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVFtYC08WHDZNRwYlKwZnTgwrf0l1XhVPciZDBWd0NRsaXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAXFlUDUoXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgJsCFgKShNAX25mG1oTWwMFVlxtCkoWAW04K2tTBXBaMz4KTQtDVht9W11gJgNUIRUkCTh5AT9KEgN9BQVAFCYlThNEahUOK1gl&cntvendor=3&srcsubj=35292704&type=bkbuy&subject=35292704"
+        },
+        {
+            "name": "当当网",
+            "price": "31.50元",
+            "link": "https://book.douban.com/link2/?lowest=3036&pre=0&vendor=dangdang&srcpage=subject&price=3150&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35292704%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29208739&cntvendor=3&srcsubj=35292704&type=bkbuy&subject=35292704"
+        },
+        {
+            "name": "中图网",
+            "price": "44.70元",
+            "link": "https://book.douban.com/link2/?lowest=3036&pre=0&vendor=bookschina&srcpage=subject&price=4470&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8529012.htm&cntvendor=3&srcsubj=35292704&type=bkbuy&subject=35292704"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35292704/",
+    "douban_id": "35292704",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33781500.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 柴门文",
+            "link": "https://book.douban.com/search/%E6%9F%B4%E9%97%A8%E6%96%87"
+        },
+        {
+            "text": "浙江大学出版社",
+            "link": "https://book.douban.com/press/2574"
+        },
+        {
+            "text": "启真馆",
+            "link": "https://book.douban.com/producers/31"
+        },
+        {
+            "text": "星野空",
+            "link": "https://book.douban.com/search/%E6%98%9F%E9%87%8E%E7%A9%BA"
+        }
+    ],
+    "tag": "随笔"
+}

@@ -1,0 +1,82 @@
+{
+    "title": "朱元璋传",
+    "bookInfo": {
+        "作者": "张宏杰",
+        "出版社": "广东人民出版社",
+        "出品方": "博集天卷·读行者",
+        "出版年": "2016-5",
+        "页数": "320",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "ISBN": "9787218108483"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "24.3%",
+        "four_star_rate": "49.7%",
+        "three_star_rate": "22.4%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "1.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/198606/",
+            "name": "张宏杰",
+            "role": "作者",
+            "douban_id": "198606"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.15元",
+            "link": "https://book.douban.com/link2/?lowest=2215&pre=0&vendor=jingdong&srcpage=subject&price=2215&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQQCV11fC0oXM28JGVIRXgEDXFpfOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocVF9fAU8UBG4AH1kKBENeCW4Uekp2YWxKHTheO0dmBzlZYAlFGS1eF1clWgMFUllUC0wnA2sJH18lbQYDZB8zDUsWCm04GVsUXAMCXFleCXsXBWoJHlMSWwcBUVpbOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgfA20MTlx7AQBYCBwdVxF5AGcAElkTWwQyVl9cCkknM19zaQNPLQMGCyUbAEhcWm58Zg1GLntZUh0zCjBtYR1bQV50JlRQCDwgcQ1hM2w4&cntvendor=2&srcsubj=26808462&type=bkbuy&subject=26808462"
+        },
+        {
+            "name": "中图网",
+            "price": "24.10元",
+            "link": "https://book.douban.com/link2/?lowest=2215&pre=0&vendor=bookschina&srcpage=subject&price=2410&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7192954.htm&cntvendor=2&srcsubj=26808462&type=bkbuy&subject=26808462"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26808462/",
+    "douban_id": "26808462",
+    "menu": [
+        "",
+        "        上　从流氓到天子 —— 001",
+        "        一、什么叫赤贫 / 002",
+        "        二、初生鳞甲 / 025",
+        "        三、崭露头角 / 038",
+        "        四、成功的三个原因 / 060",
+        "        五、问鼎天下 / 077",
+        "        下　历史的惯性 —— 095",
+        "        一、构建农民乌托邦 / 096",
+        "        二、结网的蜘蛛 / 127",
+        "        三、统一思想，禁止奇装异服 / 155",
+        "        四、“化民成俗” / 168",
+        "        五、从删《孟子》到给元朝皇帝磕头 / 188",
+        "        六、洪武朝的知识分子政策 / 204",
+        "        七、学习《大诰》运动 / 217",
+        "        八、屠杀功臣始末 / 234",
+        "        九、对老乡深情重义 / 268",
+        "        十、朱元璋之死 / 290",
+        "        尾声：从“黄册库”看明代“祖制”的命运 / 303",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s28777253.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张宏杰",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E5%AE%8F%E6%9D%B0"
+        },
+        {
+            "text": "广东人民出版社",
+            "link": "https://book.douban.com/press/2707"
+        },
+        {
+            "text": "博集天卷·读行者",
+            "link": "https://book.douban.com/producers/80"
+        }
+    ],
+    "tag": "人物传记"
+}

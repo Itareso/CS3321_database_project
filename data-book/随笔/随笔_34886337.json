@@ -1,0 +1,111 @@
+{
+    "title": "平均分",
+    "bookInfo": {
+        "作者": "康辉",
+        "出版社": "长江文艺出版社",
+        "出品方": "长江新世纪",
+        "出版年": "2019-11-1",
+        "定价": "58",
+        "装帧": "平装",
+        "ISBN": "9787570213023"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.6%",
+        "four_star_rate": "44.4%",
+        "three_star_rate": "30.0%",
+        "two_star_rate": "2.3%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611791/",
+            "name": "康辉",
+            "role": "作者",
+            "douban_id": "4611791"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "29.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=ekM2z5Kexap9AKyJEz8DOYn6GNrV20KNBoqwdgbRXq1Qvlj7P5ZmoMkLB47y6ONA&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "57.40元",
+            "link": "https://book.douban.com/link2/?lowest=2190&pre=0&vendor=jingdong&srcpage=subject&price=5740&pos=2&url=https%3A%2F%2Fitem.jd.com%2F13035612.html&cntvendor=4&srcsubj=34886337&type=bkbuy&subject=34886337"
+        },
+        {
+            "name": "当当网",
+            "price": "48.90元",
+            "link": "https://book.douban.com/link2/?lowest=2190&pre=0&vendor=dangdang&srcpage=subject&price=4890&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34886337%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28475371&cntvendor=4&srcsubj=34886337&type=bkbuy&subject=34886337"
+        },
+        {
+            "name": "中图网",
+            "price": "21.90元",
+            "link": "https://book.douban.com/link2/?lowest=2190&pre=0&vendor=bookschina&srcpage=subject&price=2190&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8217322.htm&cntvendor=4&srcsubj=34886337&type=bkbuy&subject=34886337"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34886337/",
+    "douban_id": "34886337",
+    "menu": [
+        "",
+        "        自序",
+        "        光阴的故事",
+        "        “别人家的孩子”/ 003",
+        "        广院断章/ 016",
+        "        康辉：21℃，不多不少，刚刚好/ 030",
+        "        在巨人的肩膀上",
+        "        我与《新闻联播》/ 049",
+        "        难忘的2008 / 073",
+        "        十年一觉世博梦/ 092",
+        "        那些年，我们一起追过的神舟/ 100",
+        "        今天是你的生日，我的中国/ 105",
+        "        此地空余老山墓/ 111",
+        "        国家与尊严/ 124",
+        "        弹指间，数载芳华/ 133",
+        "        忆罗 京/ 137",
+        "        南京之祭/ 146",
+        "        在《新闻联播》里寻找“中国气派”/ 149",
+        "        硬币的另一面",
+        "        我来上春晚/ 165",
+        "        我不是“播神”/ 183",
+        "        “念稿子”的人想“说”的几句话/ 193",
+        "        康老师",
+        "        成长/ 201",
+        "        念念不忘，必有回响/ 209",
+        "        对不起，我爱你",
+        "        我的“成人礼”/ 217",
+        "        写给妈妈：不是祭文的祭文/ 223",
+        "        与妻书：万千荣耀，不及日日晨昏间的琐细/ 229",
+        "        姐姐—我曾是她的“灾难”/ 233",
+        "        我的孩子们",
+        "        萌宠人生/ 241",
+        "        妞妞，送你离开\t/ 253",
+        "        那些风花雪月的事",
+        "        欲寄彩笺兼尺素/ 263",
+        "        绿茶心处是江南/ 266",
+        "        枕边厕上书/ 269",
+        "        那是一道光，如此美妙/ 294",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33518486.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "康辉",
+            "link": "https://book.douban.com/search/%E5%BA%B7%E8%BE%89"
+        },
+        {
+            "text": "长江文艺出版社",
+            "link": "https://book.douban.com/press/2807"
+        },
+        {
+            "text": "长江新世纪",
+            "link": "https://book.douban.com/producers/105"
+        }
+    ],
+    "tag": "随笔"
+}

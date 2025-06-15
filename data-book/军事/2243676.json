@@ -1,0 +1,43 @@
+{
+    "title": "如临大敌",
+    "bookInfo": {
+        "作者": "刘猛",
+        "出版社": "大众文艺出版社",
+        "出版年": "2007-10",
+        "页数": "317",
+        "定价": "29.80元",
+        "ISBN": "9787802400665"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.3%",
+        "four_star_rate": "43.2%",
+        "three_star_rate": "20.5%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "1.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/147237/",
+            "name": "刘猛",
+            "role": "作者",
+            "douban_id": "147237"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/2243676/",
+    "douban_id": "2243676",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s8918993.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘猛",
+            "link": "https://book.douban.com/author/147237/"
+        },
+        {
+            "text": "大众文艺出版社",
+            "link": "https://book.douban.com/press/2488"
+        }
+    ],
+    "tag": "军事"
+}

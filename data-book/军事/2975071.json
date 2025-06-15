@@ -1,0 +1,43 @@
+{
+    "title": "兵锋",
+    "bookInfo": {
+        "作者": "纷舞妖姬",
+        "出版社": "中国友谊出版公司",
+        "出版年": "2007-12",
+        "页数": "371",
+        "定价": "32.00元",
+        "ISBN": "9787505724044"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "42.2%",
+        "four_star_rate": "34.9%",
+        "three_star_rate": "19.3%",
+        "two_star_rate": "2.4%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/168326/",
+            "name": "董群",
+            "role": "作者",
+            "douban_id": "168326"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/2975071/",
+    "douban_id": "2975071",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s3195513.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "纷舞妖姬",
+            "link": "https://book.douban.com/author/168326/"
+        },
+        {
+            "text": "中国友谊出版公司",
+            "link": "https://book.douban.com/press/2416"
+        }
+    ],
+    "tag": "军事"
+}

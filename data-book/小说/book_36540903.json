@@ -1,0 +1,69 @@
+{
+    "title": "疯狂玫瑰",
+    "bookInfo": {
+        "作者": "[美] 斯蒂芬·金",
+        "出版社": "湖南文艺出版社",
+        "出品方": "博集天卷",
+        "原作名": "Rose Madder",
+        "译者": "何雨珈",
+        "出版年": "2023-11",
+        "页数": "496",
+        "定价": "69.00元",
+        "装帧": "平装",
+        "丛书": "斯蒂芬·金作品（博集天卷版）",
+        "ISBN": "9787572614101"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.5%",
+        "four_star_rate": "42.6%",
+        "three_star_rate": "31.9%",
+        "two_star_rate": "6.8%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4530287/",
+            "name": "斯蒂芬·金",
+            "role": "作者",
+            "douban_id": "4530287"
+        },
+        {
+            "link": "https://book.douban.com/author/4613577/",
+            "name": "何雨珈",
+            "role": "译者",
+            "douban_id": "4613577"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "49.99元",
+            "link": "https://read.douban.com/ebook/468418450/?dcs=subject-buylink&dcm=douban&dct=36540903"
+        },
+        {
+            "name": "得到",
+            "price": "49.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=ORa2P4NNLqmQPG2178z5gvkDndlOxWyYEq2WajK6BEVXYRrJpA9M4oybeZpqAKQg&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "37.95元",
+            "link": "https://book.douban.com/link2/?lowest=3795&pre=0&vendor=jingdong&srcpage=subject&price=3795&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZsJK1olXwIEVFxdAE8SBV8IHlgRWAULU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IONSZeW0N3XRQARjwRLw5lMCYaYAMQQjZWdVlhPnZ6Uw08W0NPWw5wcwIQLxFCWCokaChjYBhKbTJ9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYcARoAXiJAZQ9ceRtiIV9CJiEFWAlnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFlaCkgWAGs4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCgEBUFozVE1AXWsPXgt7VQ4AUVtYDnsVAm4KGWslbWd6Vw1VaBVsCzJvHykdOmJ6EzYVDwpOXQEKbzhlJQFRNQ1VUBN2ewdRHiklXjY&cntvendor=5&srcsubj=36540903&type=bkbuy&subject=36540903"
+        },
+        {
+            "name": "当当网",
+            "price": "66.20元",
+            "link": "https://book.douban.com/link2/?lowest=3795&pre=0&vendor=dangdang&srcpage=subject&price=6620&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36540903%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29646166&cntvendor=5&srcsubj=36540903&type=bkbuy&subject=36540903"
+        },
+        {
+            "name": "中图网",
+            "price": "43.80元",
+            "link": "https://book.douban.com/link2/?lowest=3795&pre=0&vendor=bookschina&srcpage=subject&price=4380&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9197839.htm&cntvendor=5&srcsubj=36540903&type=bkbuy&subject=36540903"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36540903/",
+    "douban_id": "36540903",
+    "menu": [],
+    "tag": "小说"
+}

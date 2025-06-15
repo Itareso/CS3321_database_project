@@ -1,0 +1,163 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "令颜",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34782941.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36713729/",
+                        "year": "2024",
+                        "id": 36713729
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "张爱玲事迹",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34678398.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36450495/",
+                        "year": "2023",
+                        "id": 36450495
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "茶店说书",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34254337.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35813540/",
+                        "year": "2022",
+                        "id": 35813540
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "风月好谈",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34302379.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35885796/",
+                        "year": "2022",
+                        "id": 35885796
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "旦暮帖",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34302162.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35813538/",
+                        "year": "2022",
+                        "id": 35813538
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "比竹小品",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34302164.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35813539/",
+                        "year": "2022",
+                        "id": 35813539
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "怀沙集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34147678.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35771877/",
+                        "year": "2022",
+                        "id": 35771877
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "苦雾抄",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34245083.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35885797/",
+                        "year": "2022",
+                        "id": 35885797
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "受命",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33858097.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35352493/",
+                        "year": "2021",
+                        "id": 35352493
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "惜别",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33819540.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35179567/",
+                        "year": "2021",
+                        "id": 35179567
+                    }
+                }
+            ],
+            "total": 74
+        }
+    },
+    "author_link": "https://book.douban.com/author/4505926/",
+    "author_douban_id": "4505926",
+    "personage_id": 30082943,
+    "name": [
+        "止庵",
+        "Zhi An"
+    ],
+    "intro": "\"止庵，著名学人及随笔、传记作家，出版有《惜别》、《周作人传》、《樗下读庄》、《神奇的现实》等二十余种著作。做过医生，当过出版社副总编辑，如今是自由恬淡的笔耕者、读书人。止庵行文清淡如茶，无喧哗矫饰，落实细节处见其幽微，情感留白处恰当自然，耐人寻味，却不故作高深。止庵的书写带我们重观文字的干净面貌，它立意在寻常日子里，但并不困囿于此，而是直击人心深处的感喟和追问。\"",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30082943/photo/2890861480",
+        "https://www.douban.com/personage/30082943/photo/2890861479",
+        "https://www.douban.com/personage/30082943/photo/2890861478",
+        "https://www.douban.com/personage/30082943/photo/2890861477"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2890861480.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2890861479.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2890861478.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2890861477.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/478c83f638f3c785cae5c705dd8fae23.jpg",
+    "更多中文名": "王进文(原名)",
+    "birth_date": 1959,
+    "age": 67,
+    "birth_place": [
+        "中国",
+        "北京"
+    ],
+    "profession": [
+        "作者",
+        "编者",
+        "演员"
+    ]
+}

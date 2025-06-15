@@ -1,0 +1,71 @@
+{
+    "title": "出版禁止",
+    "bookInfo": {
+        "作者": "[日] 长江俊和",
+        "出版社": "北京日报出版社",
+        "出品方": "酷威文化",
+        "原作名": "出版禁止",
+        "译者": "王星星",
+        "出版年": "2024-10",
+        "页数": "228",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "ISBN": "9787547749876"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "19.4%",
+        "four_star_rate": "43.0%",
+        "three_star_rate": "30.9%",
+        "two_star_rate": "5.8%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4634036/",
+            "name": "长江俊和",
+            "role": "作者",
+            "douban_id": "4634036"
+        },
+        {
+            "link": "https://book.douban.com/author/4620380/",
+            "name": "王星星",
+            "role": "译者",
+            "douban_id": "4620380"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "31.50元",
+            "link": "https://www.dedao.cn/ebook/detail?id=nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg04qDXpWJzxbE9LZl1o8RkGd2BPYv4x6d9me&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "22.50元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=jingdong&srcpage=subject&price=2250&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHlkUXgEGVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHVl9eD08XHDZNRwYlB016ATUqfUJ0fCd_QzxsPV0KFwY8aEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXQ4FVV9ZDUoVM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgJsCFgKVwhUUDFmG1oVVAUFVlttCkoWAW04K2tuL15YJFtZVzBRCyR6WS9tVFBxDigOUyl5ARRyeSlGBwNjLwwPczlHWW5-K1gl&cntvendor=4&srcsubj=36952612&type=bkbuy&subject=36952612"
+        },
+        {
+            "name": "当当网",
+            "price": "75.86元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=dangdang&srcpage=subject&price=7586&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36952612%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D410395517&cntvendor=4&srcsubj=36952612&type=bkbuy&subject=36952612"
+        },
+        {
+            "name": "中图网",
+            "price": "27.10元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=bookschina&srcpage=subject&price=2710&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9438974.htm&cntvendor=4&srcsubj=36952612&type=bkbuy&subject=36952612"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36952612/",
+    "douban_id": "36952612",
+    "menu": [
+        "",
+        "        序 长江俊和",
+        "        神汤的刺客 若桥吴成",
+        "        值《神汤的刺客》出版之际 长江俊和",
+        "        《神汤的刺客》文库版后记 长江俊和",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

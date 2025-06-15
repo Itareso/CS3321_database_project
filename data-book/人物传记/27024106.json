@@ -1,0 +1,101 @@
+{
+    "title": "阿加莎·克里斯蒂自传",
+    "bookInfo": {
+        "作者": "[英] 阿加莎·克里斯蒂",
+        "出版社": "新星出版社",
+        "副标题": "阿加莎·克里斯蒂作品47",
+        "原作名": "An Autobiography",
+        "译者": "王霖",
+        "出版年": "2017-5",
+        "页数": "568",
+        "定价": "68.00元",
+        "装帧": "精装",
+        "丛书": "午夜文库·大师系列：阿加莎·克里斯蒂作品",
+        "ISBN": "9787513326247"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "59.3%",
+        "four_star_rate": "32.4%",
+        "three_star_rate": "7.5%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4543693/",
+            "name": "阿加莎·克里斯蒂",
+            "role": "作者",
+            "douban_id": "4543693"
+        },
+        {
+            "link": "https://book.douban.com/author/4617419/",
+            "name": "王霖",
+            "role": "译者",
+            "douban_id": "4617419"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "23.80元",
+            "link": "https://read.douban.com/ebook/38621682/?dcs=subject-buylink&dcm=douban&dct=27024106"
+        },
+        {
+            "name": "得到",
+            "price": "29.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=zN5lDqb9b47pXZxGn1kBzPlMyQArYv0qOO3qe85E2aVKdo9jNgOLRmDJ6nXLm16K&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "68.00元",
+            "link": "https://book.douban.com/link2/?lowest=4860&pre=0&vendor=jingdong&srcpage=subject&price=6800&pos=3&url=https%3A%2F%2Fitem.jd.com%2F13077044.html&cntvendor=4&srcsubj=27024106&type=bkbuy&subject=27024106"
+        },
+        {
+            "name": "中图网",
+            "price": "48.60元",
+            "link": "https://book.douban.com/link2/?lowest=4860&pre=0&vendor=bookschina&srcpage=subject&price=4860&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7502422.htm&cntvendor=4&srcsubj=27024106&type=bkbuy&subject=27024106"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27024106/",
+    "douban_id": "27024106",
+    "menu": [
+        "",
+        "        英国版出版前言",
+        "        自序",
+        "        第一章\t故居阿什菲尔德",
+        "        第二章\t“孩子们，出来玩”",
+        "        第三章\t成熟",
+        "        第四章\t缔姻与期待",
+        "        第五章\t战争",
+        "        第六章\t周游世界",
+        "        第七章\t失去意义的领地",
+        "        第八章\t第二春",
+        "        第九章\t与马克斯共同生活",
+        "        第十章\t第二次世界大战",
+        "        第十一章\t垂暮之年",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29445910.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 阿加莎·克里斯蒂",
+            "link": "https://book.douban.com/author/4543693"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "王霖",
+            "link": "https://book.douban.com/author/4617419"
+        },
+        {
+            "text": "午夜文库·大师系列：阿加莎·克里斯蒂作品",
+            "link": "https://book.douban.com/series/17735"
+        }
+    ],
+    "tag": "人物传记"
+}

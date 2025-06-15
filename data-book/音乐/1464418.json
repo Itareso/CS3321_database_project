@@ -1,0 +1,63 @@
+{
+    "title": "琴恋",
+    "bookInfo": {
+        "作者": "[美]露丝·史兰倩斯卡 / [美]路易·毕昂柯里",
+        "出版社": "广西师范大学出版社",
+        "出品方": "理想国",
+        "副标题": "钢琴夫人史兰倩斯卡青春回忆录",
+        "译者": "王润婷 译",
+        "出版年": "2005.12",
+        "页数": "272",
+        "定价": "25.00元",
+        "装帧": "平装",
+        "丛书": "音乐馆",
+        "ISBN": "9787563357864"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.3%",
+        "four_star_rate": "54.2%",
+        "three_star_rate": "11.7%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "94.50元",
+            "link": "https://book.douban.com/link2/?lowest=9450&pre=0&vendor=jingdong&srcpage=subject&price=9450&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070691797337.html&cntvendor=1&srcsubj=1464418&type=bkbuy&subject=1464418"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1464418/",
+    "douban_id": "1464418",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s1482405.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]露丝·史兰倩斯卡",
+            "link": "https://book.douban.com/search/%E9%9C%B2%E4%B8%9D%C2%B7%E5%8F%B2%E5%85%B0%E5%80%A9%E6%96%AF%E5%8D%A1"
+        },
+        {
+            "text": "[美]路易·毕昂柯里",
+            "link": "https://book.douban.com/search/%E8%B7%AF%E6%98%93%C2%B7%E6%AF%95%E6%98%82%E6%9F%AF%E9%87%8C"
+        },
+        {
+            "text": "广西师范大学出版社",
+            "link": "https://book.douban.com/press/2476"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        },
+        {
+            "text": "王润婷 译",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E6%B6%A6%E5%A9%B7%20%E8%AF%91"
+        },
+        {
+            "text": "音乐馆",
+            "link": "https://book.douban.com/series/34601"
+        }
+    ],
+    "tag": "音乐"
+}

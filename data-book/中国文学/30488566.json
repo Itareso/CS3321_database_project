@@ -1,0 +1,71 @@
+{
+    "title": "河流记",
+    "bookInfo": {
+        "作者": "赵丰",
+        "出版社": "河南人民出版社",
+        "出版年": "2019-3",
+        "页数": "288",
+        "定价": "42.00",
+        "装帧": "平装",
+        "ISBN": "9787215118072"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "41.4%",
+        "four_star_rate": "34.5%",
+        "three_star_rate": "13.8%",
+        "two_star_rate": "3.4%",
+        "one_star_rate": "6.9%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=1360&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF8SWg8FU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUFlaAUwQHDZNRwYlPQJiEgYHDhl0XxltfgASWAVFPDsueEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcFUV1UAEkRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1sUVABsCFgKTQAQBGhmG1ocXgUHVlxtCkoWAW04K2t-Kn1EVlsbdxhyYBlyeSRuXURkHARbY0l5ARB0GywQG1JEB1hbYzxvZBJ1K1gl&cntvendor=3&srcsubj=30488566&type=bkbuy&subject=30488566"
+        },
+        {
+            "name": "当当网",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=1360&pre=0&vendor=dangdang&srcpage=subject&price=4200&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30488566%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D26918782&cntvendor=3&srcsubj=30488566&type=bkbuy&subject=30488566"
+        },
+        {
+            "name": "中图网",
+            "price": "13.60元",
+            "link": "https://book.douban.com/link2/?lowest=1360&pre=0&vendor=bookschina&srcpage=subject&price=1360&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8042090.htm&cntvendor=3&srcsubj=30488566&type=bkbuy&subject=30488566"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30488566/",
+    "douban_id": "30488566",
+    "menu": [
+        "",
+        "        河流记    001",
+        "        高山仰止    031",
+        "        泥土颂    059",
+        "        白云    081",
+        "        夏雨    097",
+        "        鸟类辞典    111",
+        "        夏日物象    135",
+        "        很远的树    159",
+        "        听风吟诵    181",
+        "        倾听植物的声音    199",
+        "        远逝的虫子    211",
+        "        旧址    231",
+        "        隐居者    255",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s30025042.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "赵丰",
+            "link": "https://book.douban.com/search/%E8%B5%B5%E4%B8%B0"
+        },
+        {
+            "text": "河南人民出版社",
+            "link": "https://book.douban.com/press/2576"
+        }
+    ],
+    "tag": "中国文学",
+    "avg_rate": 4.001
+}

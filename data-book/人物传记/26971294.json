@@ -1,0 +1,126 @@
+{
+    "title": "一路向前",
+    "bookInfo": {
+        "作者": "[美] 霍华德·舒尔茨 / [美] 乔安·戈登",
+        "出版社": "中信出版社",
+        "副标题": "星巴克创始人董事会主席霍华德·舒尔茨自传",
+        "原作名": "Onward: How Starbucks Fought for Its Life without Losing Its Soul",
+        "译者": "张万伟",
+        "出版年": "2015-7",
+        "页数": "336",
+        "定价": "49.00元",
+        "装帧": "平装",
+        "ISBN": "9787508651101"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.1%",
+        "four_star_rate": "39.2%",
+        "three_star_rate": "34.5%",
+        "two_star_rate": "5.7%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/223250/",
+            "name": "霍华德·舒尔茨",
+            "role": "作者",
+            "douban_id": "223250"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "22.99元",
+            "link": "https://read.douban.com/ebook/35569433/?dcs=subject-buylink&dcm=douban&dct=26971294"
+        },
+        {
+            "name": "得到",
+            "price": "24.50元",
+            "link": "https://www.dedao.cn/ebook/detail?id=RXOnaYG1qlM7amvGYerDZOy9JVnXL40BGJWBkp1NKxoRdb86P2Q5AzgEj9vE5rDo&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "36.80元",
+            "link": "https://book.douban.com/link2/?lowest=3679&pre=0&vendor=jingdong&srcpage=subject&price=3679&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG10VWQULXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCUl5ZC0IeHDZNRwYlFWIBMRU8WiJ3Bx1XYRpjI3J5HyE_eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4KVFpcCkwWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCgFsCFgHVkMRVSdmGVoVWwECV11tCkoWAW04K2tPDnxhC1cLCRxjVzEJfxxmOHZaDiAlVwp5AWYMfAgXPmdCAy0uUhhlewxhK1gl&cntvendor=5&srcsubj=26971294&type=bkbuy&subject=26971294"
+        },
+        {
+            "name": "当当网",
+            "price": "36.80元",
+            "link": "https://book.douban.com/link2/?lowest=3679&pre=0&vendor=dangdang&srcpage=subject&price=3679&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26971294%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23723687&cntvendor=5&srcsubj=26971294&type=bkbuy&subject=26971294"
+        },
+        {
+            "name": "中图网",
+            "price": "38.70元",
+            "link": "https://book.douban.com/link2/?lowest=3679&pre=0&vendor=bookschina&srcpage=subject&price=3870&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6932039.htm&cntvendor=5&srcsubj=26971294&type=bkbuy&subject=26971294"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26971294/",
+    "douban_id": "26971294",
+    "menu": [
+        "",
+        "        引言",
+        "        【第一部分】爱",
+        "        第1章 饮品的真相",
+        "        第2章 爱的故事",
+        "        第3章 问题凸显",
+        "        第4章 没有什么是机密的",
+        "        第5章 魔力般的体验",
+        "        第6章 为生存而战",
+        "        第7章 最重要的是相信自己",
+        "        【第二部分】信心",
+        "        第8章 重唤信任",
+        "        第9章 重塑咖啡特质",
+        "        第10章 战则必胜",
+        "        第11章 提升核心价值",
+        "        第12章 陷入泥沼",
+        "        第13章 变革议程",
+        "        第14章 慈善之心",
+        "        第15章 重新思考产品本身",
+        "        第16章 大胆举措",
+        "        【第三部分】痛",
+        "        第17章 混乱时期",
+        "        第18章 致命的问题",
+        "        第19章 艰难抉择",
+        "        第20章 没有灵丹妙药",
+        "        第21章 拯救星巴克",
+        "        【第四部分】希望",
+        "        第22章 危机的真相",
+        "        第23章 激励人心的时刻",
+        "        第24章 灵活行事",
+        "        第25章 B计划",
+        "        第26章 坚持到底",
+        "        【第五部分】勇气",
+        "        第27章 创新基因",
+        "        第28章 真正伟大的产品",
+        "        第29章 数字生活",
+        "        第30章 平稳过渡",
+        "        第31章 从未失去灵魂",
+        "        第32章 胜利者",
+        "        第33章 你好，未来",
+        "        后记",
+        "        致谢",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34931393.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 霍华德·舒尔茨",
+            "link": "https://book.douban.com/author/223250"
+        },
+        {
+            "text": "[美] 乔安·戈登",
+            "link": "https://book.douban.com/search/%E4%B9%94%E5%AE%89%C2%B7%E6%88%88%E7%99%BB"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "张万伟",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E4%B8%87%E4%BC%9F"
+        }
+    ],
+    "tag": "人物传记"
+}

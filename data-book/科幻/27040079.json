@@ -1,0 +1,34 @@
+{
+    "title": "Artemis",
+    "bookInfo": {
+        "作者": "Andy Weir",
+        "出版社": "Crown",
+        "副标题": "A Novel",
+        "出版年": "2017-11-14",
+        "页数": "384",
+        "定价": "USD 27.00",
+        "装帧": "Hardcover",
+        "ISBN": "9780553448122"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.6%",
+        "four_star_rate": "39.2%",
+        "three_star_rate": "35.3%",
+        "two_star_rate": "5.9%",
+        "one_star_rate": "2.0%"
+    },
+    "authors": [],
+    "shops": [],
+    "url": "https://book.douban.com/subject/27040079/",
+    "douban_id": "27040079",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29446753.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "Andy Weir",
+            "link": "https://book.douban.com/search/Andy%20Weir"
+        }
+    ],
+    "tag": "科幻"
+}

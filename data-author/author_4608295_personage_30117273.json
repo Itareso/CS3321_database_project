@@ -1,0 +1,146 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "望海潮",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34767802.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36746337/",
+                        "year": "2024",
+                        "id": 36746337
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "鹊桥仙",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34247333.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35936720/",
+                        "year": "2022",
+                        "id": 35936720
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "收获长篇小说2021春卷",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33865079.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35419280/",
+                        "year": "2021",
+                        "id": 35419280
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "锦灰堆 美人计",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29499926.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27093962/",
+                        "year": "2017",
+                        "id": 27093962
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "杭州往事",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s26033965.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/21338889/",
+                        "year": "2013",
+                        "id": 21338889
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "20世纪60年代西方时尚符号",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s8461841.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/4157692/",
+                        "year": "2009",
+                        "id": 4157692
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "小酒馆之歌",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s4091974.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/4157693/",
+                        "year": "2009",
+                        "id": 4157693
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "女艺术家镜像",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s4091972.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/4157694/",
+                        "year": "2009",
+                        "id": 4157694
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "第二性元素",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s1326241.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/1147399/",
+                        "year": "2004",
+                        "id": 1147399
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "继续向左",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s1327226.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1144679/",
+                        "year": "2004",
+                        "id": 1144679
+                    }
+                }
+            ],
+            "total": 10
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608295/",
+    "author_douban_id": "4608295",
+    "personage_id": 30117273,
+    "name": [
+        "萧耳",
+        "Er Xiao"
+    ],
+    "intro": "\"萧耳，女，作家，媒体人，高级记者，江南人氏，现居杭州。曾为多家文学期刊、时尚杂志和报纸写过专栏，在《收获》《钟山》《大家》《上海文学》等文学刊物上发表中、短篇小说多种。出版有《小酒馆之歌》《女艺术家镜像》《20世纪60年代西方时尚符号》《杭州往事》及长篇小说《继续向左》、电影随笔《第二性元素》等。\"",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/img/author/medium/public/C5aTU-zriQgcel_avatar_uploaded1505184084.28.jpg",
+    "sex": 0,
+    "profession": [
+        "作者",
+        "演员"
+    ]
+}

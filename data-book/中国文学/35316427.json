@@ -1,0 +1,71 @@
+{
+    "title": "瓦猫",
+    "bookInfo": {
+        "作者": "葛亮",
+        "出版社": "人民文学出版社",
+        "出版年": "2021-2",
+        "页数": "337",
+        "定价": "59.00元",
+        "装帧": "精装",
+        "丛书": "葛亮作品",
+        "ISBN": "9787020169047"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    【编辑推荐】    ●《瓦猫》是一本有关手艺人的小说，然而又不全是。他们经手而成的物件，是曾在这世界过往的zui好宣示。他们的命运，交织与成全于历史；他们的尊严、执着与信仰，如棱镜，折射这世上大多数的我们；他们是这时代的理想主义者，行到水穷处，坐看云起时。    ●篇目在杂志刊发后 ，即跻身“收获文学榜”“十月小说榜”等各大文学榜单，并被《新华文摘》等刊物纷纷转载。其中《书匠》更入选2020年全国高考语文试卷阅读题，在网络上引起广泛热议。    ●华美精装，专色印刷，特邀知名设计师设计，封面插画由九岁艺术神童绘制。封面用纸采用米白稻香，典雅素朴，二封为宫墙红，庄重浓烈，内文60g瑞典轻型纸，随身携带不负重。    【内容简介】    《瓦猫》一书事关手艺，其中涉及古籍修复师、理发师以及陶艺师三个匠种，空间跨越三城三地，由南京、香港到昆明，从江南、岭南再至⻄南，时间跨度则从当代溯至⻄南联大时期，呈现出多元的叙事⻛格和气象。此次以“匠人”为故事之引，葛亮寻找的仍是人的尊严、执着与信仰，时代开阖变迁之际，人的遭遇与变革，一鳞一焰，是为匠传。    ●瓦猫，是庇佑匠人的神兽，看得见莽莽过去，亦守望着无尽未来。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "30.2%",
+        "four_star_rate": "43.6%",
+        "three_star_rate": "22.2%",
+        "two_star_rate": "3.6%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561768/",
+            "name": "葛亮",
+            "role": "作者",
+            "douban_id": "4561768"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "45.70元",
+            "link": "https://book.douban.com/link2/?lowest=4350&pre=0&vendor=jingdong&srcpage=subject&price=4570&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVwXVAACU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU1xUDksQHDZNRwYlPFocHQshdzN0CztyZAtVBFlmKiIjaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcGVlpfC00XM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGA9GWQNsCFgKTRkSBDRmG1ocXwcEUl5tCkoWAW04K2tSBmVxVls-Qz8RfhABew9UBw98IyE9cBx5AWkKcABRLk5bICEiTxB2ASdyK1gl&cntvendor=2&srcsubj=35316427&type=bkbuy&subject=35316427"
+        },
+        {
+            "name": "中图网",
+            "price": "43.50元",
+            "link": "https://book.douban.com/link2/?lowest=4350&pre=0&vendor=bookschina&srcpage=subject&price=4350&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8513796.htm&cntvendor=2&srcsubj=35316427&type=bkbuy&subject=35316427"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35316427/",
+    "douban_id": "35316427",
+    "menu": [
+        "",
+        "        目录",
+        "        001\t自序 物是",
+        "        001\t江南篇 书匠",
+        "        091\t岭南篇 飞发",
+        "        187\t西南篇 瓦猫",
+        "        327\t附录 一封信",
+        "        332\t后记 藏品",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33810237.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "葛亮",
+            "link": "https://book.douban.com/search/%E8%91%9B%E4%BA%AE"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "葛亮作品",
+            "link": "https://book.douban.com/series/35230"
+        }
+    ],
+    "tag": "中国文学"
+}

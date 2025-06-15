@@ -1,0 +1,86 @@
+{
+    "title": "木精",
+    "bookInfo": {
+        "作者": "北杜夫",
+        "出版社": "浙江文艺出版社",
+        "出品方": "KEY·可以文化",
+        "译者": "曹艺",
+        "出版年": "2021-4",
+        "页数": "272",
+        "定价": "56.00",
+        "装帧": "精装",
+        "丛书": "北杜夫作品",
+        "ISBN": "9787533963064"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ▷处女作《幽灵》之续篇，一次异国之旅，一次生命的再成长，当代“日本托马斯·曼”。    ▷一代日本青年的精神导师，向托马斯·曼名作《托尼奥·克勒格尔》致敬。    ▷糅合昆虫爱好者的敏锐观察力，精神科医生的审慎，作家清新幽默的笔法。    ▷在彷徨与犹疑中，让蜷缩的自我一点点向世界敞开！    ————————    【内容简介】    《木精》是日本芥川龙之介奖得主、著名作家北杜夫一部带有自传性质的长篇小说，被视为其长篇小说处女作《幽灵》之续篇。    一位在德国进修的日本精神科医生，为了同过往的一段恋情诀别，来到遥远的异国他乡。他游走于多瑙河流域、蒂罗尔群山和北欧的城镇，内心却带着对旧日恋情的甜美追忆。旅途中，他以托马斯•曼为榜样，立志成为一名作家，然而面对不确定的未来，不安和彷徨仍旧萦绕心头，那位叫伦子的情人依旧一路跟随……    北杜夫以昆虫爱好者的敏锐观察力、精神科医生的审慎和作家清新幽默的笔法撰写了一部富于温情的成长日记。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "14.1%",
+        "four_star_rate": "39.1%",
+        "three_star_rate": "37.5%",
+        "two_star_rate": "7.8%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611018/",
+            "name": "北杜夫",
+            "role": "作者",
+            "douban_id": "4611018"
+        },
+        {
+            "link": "https://book.douban.com/author/4612717/",
+            "name": "曹艺",
+            "role": "译者",
+            "douban_id": "4612717"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "21.99元",
+            "link": "https://read.douban.com/ebook/314420661/?dcs=subject-buylink&dcm=douban&dct=35350759"
+        },
+        {
+            "name": "京东商城",
+            "price": "28.00元",
+            "link": "https://book.douban.com/link2/?lowest=1780&pre=0&vendor=jingdong&srcpage=subject&price=2800&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFIXXAAGUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOCgg8UCt3RxNJGi4SXXRpExpeay92SjRIdVlWGFRUIQYdewofCzFeWSUSDhFCWCokcBhgSghJbCJxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZLFSBbTyNUYg1aXyRBG0IcFSxcbABBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVpeDksWAWc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRA1kzVE1ARj9aWhx7XQcEVllaDUknAW4JGVklbTZcAj8FaCtTfy4JblwVL21FEF0-bCpeWC9mGRhQD1B3DB4uSUMfXTlKZVxGbQUy&cntvendor=4&srcsubj=35350759&type=bkbuy&subject=35350759"
+        },
+        {
+            "name": "当当网",
+            "price": "53.20元",
+            "link": "https://book.douban.com/link2/?lowest=1780&pre=0&vendor=dangdang&srcpage=subject&price=5320&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35350759%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29225180&cntvendor=4&srcsubj=35350759&type=bkbuy&subject=35350759"
+        },
+        {
+            "name": "中图网",
+            "price": "17.80元",
+            "link": "https://book.douban.com/link2/?lowest=1780&pre=0&vendor=bookschina&srcpage=subject&price=1780&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8566708.htm&cntvendor=4&srcsubj=35350759&type=bkbuy&subject=35350759"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35350759/",
+    "douban_id": "35350759",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33821065.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "北杜夫",
+            "link": "https://book.douban.com/search/%E5%8C%97%E6%9D%9C%E5%A4%AB"
+        },
+        {
+            "text": "浙江文艺出版社",
+            "link": "https://book.douban.com/press/2384"
+        },
+        {
+            "text": "KEY·可以文化",
+            "link": "https://book.douban.com/producers/43"
+        },
+        {
+            "text": "曹艺",
+            "link": "https://book.douban.com/search/%E6%9B%B9%E8%89%BA"
+        },
+        {
+            "text": "北杜夫作品",
+            "link": "https://book.douban.com/series/58258"
+        }
+    ],
+    "tag": "日本文学"
+}

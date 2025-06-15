@@ -1,0 +1,84 @@
+{
+    "title": "我看见，我倾听，我思索……",
+    "bookInfo": {
+        "作者": "[意] 吉奥乔·阿甘本",
+        "出版社": "南京大学出版社",
+        "出品方": "雅众文化",
+        "译者": "王立秋",
+        "出版年": "2025-1",
+        "页数": "104",
+        "定价": "52.00元",
+        "装帧": "精装",
+        "ISBN": "9787305284380"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    “没有什么第一真理，只有第一错误。”    ★思想家阿甘本晚年哲思总结与精粹，简体中文版首次出版    ★一部睿智而优美的箴言录    【内容简介】    享誉国际的当代思想家 阿甘本晚年沉思录，睿智迷人。    人的生命转瞬即逝，光景所剩无几。    作为一位敏感、深刻的哲学家，阿甘 本能看到、听到、想到什么？    借由他的感官，我们又能看到、听到、想到什么？    阿甘本以诗性优美的箴言，追逐内心的风暴，    捕捉他关于哲学、历史、写作、生活等方面的哲思，    记录他的晚年观察，以及对当下生活的思考。    【名人推荐】    ☽ 阿甘本在他的作品中无情地审视我们当下的黑暗，并试图“照亮”它，通过把它和其他时代联系起来，来回应它的挑战。——卡洛·萨尔扎尼    ☽ 出人意料地带有个人色彩性质，是一部传达阿甘本思想的通俗易懂的作品。——亚当·科茨科    ☽ 我活在“呼”与“吸”的间隙与反转之中。阿甘本长期书写所探讨的问题，持续是生命如何被司法与宗教介入与划分，离开了原本充满能力的状态？法律如何透过铺天盖地的语言，而佔据了生命的全部，使生命成为各种功能性的分割形态？诗的语言具有解除抑制的力量。在这本小书中，阿甘本具有沉思风格的文字，如同灵光闪现一般，捕捉到了“活”的生命的不同片段，以及历史场景中被佔据的“死”的不同面貌。——刘纪蕙    ☽ 令人回味无穷的哲学诗篇。——汪民安    ☽ 这本小书，是阿甘本在一生所学和所见世界中，对生命的领悟和对世界的认识的哲学沉思录，也是一首诗。但它首先和根本上是生命的触动，因为哲学起于并终于触摸生命。——周琰\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "31.4%",
+        "four_star_rate": "45.0%",
+        "three_star_rate": "18.8%",
+        "two_star_rate": "3.3%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4586164/",
+            "name": "吉奥乔·阿甘本",
+            "role": "作者",
+            "douban_id": "4586164"
+        },
+        {
+            "link": "https://book.douban.com/author/4622938/",
+            "name": "王立秋",
+            "role": "译者",
+            "douban_id": "4622938"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "42.90元",
+            "link": "https://book.douban.com/link2/?lowest=3120&pre=0&vendor=jingdong&srcpage=subject&price=4290&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHlIcXgABXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHXVdeDkgeHDZNRwYlWXRiK1obQDVyYGhXRj58VVR1Fic_aEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UXgcBUVdbAEoTM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8RXVFsCFgKSxdWC2tmG1oXWw4FUVxtCkoWAW04K2tuP1ViND45Xj1IaipAEg9gG20AAgUJbR55URd2TDllPXBBJDZYc05nYRRoK1gl&cntvendor=3&srcsubj=37068788&type=bkbuy&subject=37068788"
+        },
+        {
+            "name": "当当网",
+            "price": "31.20元",
+            "link": "https://book.douban.com/link2/?lowest=3120&pre=0&vendor=dangdang&srcpage=subject&price=3120&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s37068788%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29821774&cntvendor=3&srcsubj=37068788&type=bkbuy&subject=37068788"
+        },
+        {
+            "name": "中图网",
+            "price": "33.80元",
+            "link": "https://book.douban.com/link2/?lowest=3120&pre=0&vendor=bookschina&srcpage=subject&price=3379&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9482121.htm&cntvendor=3&srcsubj=37068788&type=bkbuy&subject=37068788"
+        }
+    ],
+    "url": "https://book.douban.com/subject/37068788/",
+    "douban_id": "37068788",
+    "menu": [
+        "",
+        "        目录：",
+        "        我看到的，听到的，学到的…… / 1",
+        "        我没看到的，没听到的，没学到的…… / 63",
+        "        附 录 / 75",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34989392.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[意] 吉奥乔·阿甘本",
+            "link": "https://book.douban.com/search/%E5%90%89%E5%A5%A5%E4%B9%94%C2%B7%E9%98%BF%E7%94%98%E6%9C%AC"
+        },
+        {
+            "text": "南京大学出版社",
+            "link": "https://book.douban.com/press/2276"
+        },
+        {
+            "text": "雅众文化",
+            "link": "https://book.douban.com/producers/41"
+        },
+        {
+            "text": "王立秋",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E7%AB%8B%E7%A7%8B"
+        }
+    ],
+    "tag": "随笔"
+}

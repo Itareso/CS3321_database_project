@@ -1,0 +1,74 @@
+{
+    "title": "于谦杂货铺",
+    "bookInfo": {
+        "作者": "于谦",
+        "出版社": "浙江文艺出版社",
+        "出品方": "果麦文化",
+        "原作名": "Becoming YuQian",
+        "出版年": "2020-6",
+        "页数": "336",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "ISBN": "9787533961244"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.3%",
+        "four_star_rate": "41.6%",
+        "three_star_rate": "30.2%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609169/",
+            "name": "于谦",
+            "role": "作者",
+            "douban_id": "4609169"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.90元",
+            "link": "https://book.douban.com/link2/?lowest=1689&pre=0&vendor=jingdong&srcpage=subject&price=1989&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12913368.html&cntvendor=3&srcsubj=35093438&type=bkbuy&subject=35093438"
+        },
+        {
+            "name": "当当网",
+            "price": "33.20元",
+            "link": "https://book.douban.com/link2/?lowest=1689&pre=0&vendor=dangdang&srcpage=subject&price=3320&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35093438%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28969345&cntvendor=3&srcsubj=35093438&type=bkbuy&subject=35093438"
+        },
+        {
+            "name": "中图网",
+            "price": "16.90元",
+            "link": "https://book.douban.com/link2/?lowest=1689&pre=0&vendor=bookschina&srcpage=subject&price=1689&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8342384.htm&cntvendor=3&srcsubj=35093438&type=bkbuy&subject=35093438"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35093438/",
+    "douban_id": "35093438",
+    "menu": [
+        "",
+        "        【开场白】不撒欢儿的暑假是不值得过的！",
+        "        【童年】动画片、看电视、玩虫子、功夫片、收音机、运动会、自行车",
+        "        【在人间】摇滚、高跟鞋、军大衣、烫头、BP机、谈恋爱",
+        "        【我的大学】结婚、老北京、搓澡、手串儿、潘家园报国寺、减肥、闲白儿",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33662267.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "于谦",
+            "link": "https://book.douban.com/search/%E4%BA%8E%E8%B0%A6"
+        },
+        {
+            "text": "浙江文艺出版社",
+            "link": "https://book.douban.com/press/2384"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        }
+    ],
+    "tag": "随笔"
+}

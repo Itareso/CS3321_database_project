@@ -1,0 +1,137 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "宛转环",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34384239.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36075900/",
+                        "year": "2023",
+                        "id": 36075900
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "寻获与失落",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34307082.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35959816/",
+                        "year": "2022",
+                        "id": 35959816
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "猫不存在",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33631347.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35045956/",
+                        "year": "2020",
+                        "id": 35045956
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "科幻世界精选集2019",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34004522.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35268278/",
+                        "year": "2020",
+                        "id": 35268278
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "2019中国最佳科幻作品",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33712705.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35047236/",
+                        "year": "2020",
+                        "id": 35047236
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "2018中国最佳科幻作品",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33469735.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33436253/",
+                        "year": "2019",
+                        "id": 33436253
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "临界点 4",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33510597.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34841316/",
+                        "year": "2019",
+                        "id": 34841316
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "时间不存在",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29860382.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30237215/",
+                        "year": "2018",
+                        "id": 30237215
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "东方彗星",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34691183.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36575888/",
+                        "year": "",
+                        "id": 36575888
+                    }
+                }
+            ],
+            "total": 9
+        }
+    },
+    "author_link": "https://book.douban.com/author/4610698/",
+    "author_douban_id": "4610698",
+    "personage_id": 35482979,
+    "name": [
+        "慕明",
+        "Mu Ming"
+    ],
+    "intro": "慕明，本名顾从云，1988年生，2016年开始创作中短篇幻想小说。作品散见于网络平台、征文、选集、杂志等。部分被译为英文、意大利文。曾获豆瓣阅读征文大赛奖，未来科幻大师奖，华语科幻星云奖，银河奖等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/f93b2272bb0aa00c70d1281914bc99a0.jpg",
+    "更多外文名": "顾从云(本名)",
+    "sex": 0,
+    "birth_date": 1988,
+    "age": 38,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

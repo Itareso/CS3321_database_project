@@ -1,0 +1,50 @@
+{
+    "title": "我买菜去了",
+    "bookInfo": {
+        "作者": "钱红丽",
+        "出版社": "安徽文艺出版社",
+        "出版年": "2020-1-1",
+        "页数": "216",
+        "定价": "32.00元",
+        "装帧": "平装",
+        "ISBN": "9787539667003"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "14.4%",
+        "four_star_rate": "24.5%",
+        "three_star_rate": "47.5%",
+        "two_star_rate": "11.5%",
+        "one_star_rate": "2.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4506295/",
+            "name": "钱红丽",
+            "role": "作者",
+            "douban_id": "4506295"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "15.27元",
+            "link": "https://book.douban.com/link2/?lowest=1527&pre=0&vendor=jingdong&srcpage=subject&price=1527&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQcJK1olVQIGVFdYCkseM28JGlgcVAQHV1leDE4QMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWAGYBGV4WWgUGUVlCUQ5LXl96YDp1GH11LzwZD0pvfDZAfRNQFmFUWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mG18QWQIHZFxdCUoSA2cPGFolXQAHVV1cDU8fA2gIE2sVVQIyjd7q3umF2vGCztOCbTYyV25tOEsnAF9WdVpGWgMKVVcPZhcRVC1PWQJMMwYDUllZAUMSM20JGlkXbTYyPykmTkkSRRBbfjhjX2NfLTUfbjtQehpYdVlqIQZ1URgJThgSRB8AeyxDIDYBZA&cntvendor=1&srcsubj=34999002&type=bkbuy&subject=34999002"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34999002/",
+    "douban_id": "34999002",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33643359.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "钱红丽",
+            "link": "https://book.douban.com/author/4506295"
+        },
+        {
+            "text": "安徽文艺出版社",
+            "link": "https://book.douban.com/press/2255"
+        }
+    ],
+    "tag": "随笔"
+}

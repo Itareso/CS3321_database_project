@@ -1,0 +1,61 @@
+{
+    "title": "九十春秋",
+    "bookInfo": {
+        "作者": "常书鸿",
+        "出版社": "北京大学出版社",
+        "副标题": "敦煌五十年",
+        "出版年": "2011-1-1",
+        "页数": "283",
+        "定价": "41.00元",
+        "装帧": "平装",
+        "丛书": "大师自述史系列",
+        "ISBN": "9787301182550"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "21.6%",
+        "four_star_rate": "49.5%",
+        "three_star_rate": "27.4%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614421/",
+            "name": "常书鸿",
+            "role": "作者",
+            "douban_id": "4614421"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "18.20元",
+            "link": "https://www.dedao.cn/ebook/detail?id=ZykJDGjQ7AOLNa642rbP8dkEgemKDwdkAg3XoVRjpBxl95MJzqvYGynZ18MEl5Bo&source=douban"
+        }
+    ],
+    "url": "https://book.douban.com/subject/5942453/",
+    "douban_id": "5942453",
+    "menu": [
+        "",
+        "        第一章  人生初途第二章  留学法国第三章  西行前记第四章  初寓敦煌第五章  艰难岁月第六章  国宝之光第七章  保护与研究第八章  飞天传友谊",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s6280173.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "常书鸿",
+            "link": "https://book.douban.com/author/4614421"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        },
+        {
+            "text": "大师自述史系列",
+            "link": "https://book.douban.com/series/9644"
+        }
+    ],
+    "tag": "回忆录"
+}

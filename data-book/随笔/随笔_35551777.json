@@ -1,0 +1,65 @@
+{
+    "title": "画春光（全3册）",
+    "bookInfo": {
+        "作者": "意千重",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "华文天下",
+        "出版年": "2021-7",
+        "页数": "1200",
+        "定价": "81.40元",
+        "装帧": "平装",
+        "ISBN": "9787559460905"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "41.0%",
+        "four_star_rate": "45.4%",
+        "three_star_rate": "9.8%",
+        "two_star_rate": "2.7%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4541464/",
+            "name": "意千重",
+            "role": "作者",
+            "douban_id": "4541464"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "74.00元",
+            "link": "https://book.douban.com/link2/?lowest=7400&pre=0&vendor=jingdong&srcpage=subject&price=7400&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVkSWQEBUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVllZD0gSHDZNRwYlAQdLARVDSjt0AidqYiVTBHxLKAQAaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHVFhYDkgVM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHg8UWQBsCFgKShdTRmtmG1oTWAcHVl5tCkoWAW04K2tWFWRBJDcvSSBMaBd2ZiYRAwIHMBsKCxd5ATFJbhMWHlldPzY1SwNoXR99K1gl&cntvendor=3&srcsubj=35551777&type=bkbuy&subject=35551777"
+        },
+        {
+            "name": "当当网",
+            "price": "112.10元",
+            "link": "https://book.douban.com/link2/?lowest=7400&pre=0&vendor=dangdang&srcpage=subject&price=11210&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35551777%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29277557&cntvendor=3&srcsubj=35551777&type=bkbuy&subject=35551777"
+        },
+        {
+            "name": "中图网",
+            "price": "82.60元",
+            "link": "https://book.douban.com/link2/?lowest=7400&pre=0&vendor=bookschina&srcpage=subject&price=8260&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8636819.htm&cntvendor=3&srcsubj=35551777&type=bkbuy&subject=35551777"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35551777/",
+    "douban_id": "35551777",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33960422.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "意千重",
+            "link": "https://book.douban.com/author/4541464"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "华文天下",
+            "link": "https://book.douban.com/producers/17"
+        }
+    ],
+    "tag": "随笔"
+}

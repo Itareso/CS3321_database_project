@@ -1,0 +1,81 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "六里庄遗事",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33322825.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30446684/",
+                        "year": "2019",
+                        "id": 30446684
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "拿不动的世界",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27276057.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/25857969/",
+                        "year": "2014",
+                        "id": 25857969
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "鸳鸯谱",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s26166633.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/21335029/",
+                        "year": "2013",
+                        "id": 21335029
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "俗话说",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s4349139.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/4822183/",
+                        "year": "2010",
+                        "id": 4822183
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/262832/",
+    "author_douban_id": "262832",
+    "personage_id": 30402206,
+    "name": [
+        "东东枪",
+        "Lianhui Hao"
+    ],
+    "intro": "\"东东枪，男，1982年生，天津静海人。广告创意工作者，业余写作。\"",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/557eaa740437c90f5f00097ff833c9b3.jpg",
+    "更多中文名": "郝连会",
+    "sex": 1,
+    "birth_date": 1982,
+    "age": 44,
+    "birth_place": [
+        "中国",
+        "天津"
+    ],
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

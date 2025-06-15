@@ -1,0 +1,100 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "消失的父亲",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35025302.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37022746/",
+                        "year": "2024",
+                        "id": 37022746
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "我不是废柴",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34966418.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35562153/",
+                        "year": "2021",
+                        "id": 35562153
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "如果奔跑是我的宿命",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33682687.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35118568/",
+                        "year": "2020",
+                        "id": 35118568
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "二手生活",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33485214.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34834008/",
+                        "year": "2019",
+                        "id": 34834008
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "危险关系",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29507592.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27103006/",
+                        "year": "2017",
+                        "id": 27103006
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4636271/",
+    "author_douban_id": "4636271",
+    "personage_id": 36398080,
+    "name": [
+        "纪静蓉",
+        "Jingrong Ji"
+    ],
+    "intro": "纪静蓉，生于1978年，福建省漳州人，现定居北京，专注现实题材创作。曾出版长篇小说《危险关系》《二手生活》《如果奔跑是我的宿命》《我不是废柴》。《危险关系》《如果奔跑是我的宿命》《我不是废柴》电视剧版权均已售出，筹拍中。原创24集网剧《美丽见习生》于2018年在优酷播出。中篇小说《懂事》发表于《草原》2019年第12期，同名电影剧本获2019年“夏衍杯”潜力剧本奖。电影剧本《一碗汤的距离》获2021年“北京影协杯”剧本三等奖。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/36398080/photo/2912337500",
+        "https://www.douban.com/personage/36398080/photo/2912612438"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2912337500.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2912612438.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/b8ae6f1d5da0f640797d12586f76dc26.jpg",
+    "sex": 0,
+    "birth_date": 1978,
+    "age": 48,
+    "birth_place": [
+        "中国",
+        "福建",
+        "漳州"
+    ],
+    "IMDB": "nm15449848",
+    "profession": [
+        "编剧",
+        "作者"
+    ]
+}

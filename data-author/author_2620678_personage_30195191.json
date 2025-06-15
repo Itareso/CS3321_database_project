@@ -1,0 +1,144 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "蝴蝶王国（瑞娴著长篇童话）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34885795.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36926645/",
+                        "year": "2024",
+                        "id": 36926645
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "绿野红纱：一个关于爱与拯救的奇幻故事（美绘版）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33989460.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35591214/",
+                        "year": "2021",
+                        "id": 35591214
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.5,
+                        "title": "绿野红纱",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29947541.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/30402696/",
+                        "year": "2019",
+                        "id": 30402696
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "水的火焰（瑞娴著长篇小说）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34888875.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36930930/",
+                        "year": "2019",
+                        "id": 36930930
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "《绿野红纱》美绘收藏版（第一册）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34890602.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36933226/",
+                        "year": "2019",
+                        "id": 36933226
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "《绿野红纱》美绘收藏版（第二册）",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34890601.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36933227/",
+                        "year": "2019",
+                        "id": 36933227
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "《绿野红纱》美绘收藏版（第三册）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34890600.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36933228/",
+                        "year": "2019",
+                        "id": 36933228
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "《绿野红纱》美绘收藏版（第四册）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34890603.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36933229/",
+                        "year": "2019",
+                        "id": 36933229
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "肋骨（瑞娴散文诗集）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34888872.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36930926/",
+                        "year": "2016",
+                        "id": 36930926
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "绿叶对根的怀念（瑞娴著散文集）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34889480.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36931776/",
+                        "year": "2016",
+                        "id": 36931776
+                    }
+                }
+            ],
+            "total": 13
+        }
+    },
+    "author_link": "https://book.douban.com/author/2620678/",
+    "author_douban_id": "2620678",
+    "personage_id": 30195191,
+    "name": [
+        "瑞娴"
+    ],
+    "intro": "瑞娴：中国作家协会会员，中国电影家协会会员，中国戏剧文学学会会员，中国音乐剧协会理事，中外散文诗学会主席团委员。曾为央视某栏目组编导，北京某杂志总编。作家，编剧，著名剧作家沈默君关门弟子。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/img/author/medium/public/1495859395.07.jpg",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

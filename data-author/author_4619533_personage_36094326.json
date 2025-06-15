@@ -1,0 +1,68 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.1,
+                        "title": "狂飙",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34413297.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/36218542/",
+                        "year": "2023",
+                        "id": 36218542
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "秀才遇到兵",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29036092.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26871851/",
+                        "year": "2016",
+                        "id": 26871851
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "永不磨灭的番号",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s6877211.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/6772214/",
+                        "year": "2011",
+                        "id": 6772214
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4619533/",
+    "author_douban_id": "4619533",
+    "personage_id": 36094326,
+    "name": [
+        "朱俊懿",
+        "Junyi Zhu"
+    ],
+    "intro": "朱俊懿，毕业于中央戏剧学院艺术管理专业，从事多年舞台剧管理工作。职业编剧。代表作品有《永不磨灭的番号》（中国三峡出版社）、《春江英雄之秀才遇到兵》（江苏卫视、北京卫视）、《心理罪之城市之光》（安乐电影）、《八零90》（湖南卫视、芒果TV）等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/199a8ef2935feadc36b57a236c6ebdf7.jpg",
+    "sex": 1,
+    "birth_place": [
+        "中国",
+        "山东",
+        "潍坊"
+    ],
+    "IMDB": "nm10306675",
+    "profession": [
+        "编剧",
+        "作者"
+    ]
+}

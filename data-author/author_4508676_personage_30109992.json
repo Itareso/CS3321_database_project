@@ -1,0 +1,149 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "羊的门",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35079566.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36054926/",
+                        "year": "2022",
+                        "id": 36054926
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "城的灯",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35080572.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36054751/",
+                        "year": "2022",
+                        "id": 36054751
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "羊的门",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35079563.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35260048/",
+                        "year": "2020",
+                        "id": 35260048
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "人间逍遥客",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33716716.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34950389/",
+                        "year": "2020",
+                        "id": 34950389
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "离我们很近",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33632734.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35038500/",
+                        "year": "2020",
+                        "id": 35038500
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "写给北中原的情书",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33516842.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34884068/",
+                        "year": "2020",
+                        "id": 34884068
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "城的灯",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s35080571.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35259594/",
+                        "year": "2020",
+                        "id": 35259594
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "李佩甫文集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33684990.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34988694/",
+                        "year": "2020",
+                        "id": 34988694
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "生命册",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33467471.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/33375528/",
+                        "year": "2019",
+                        "id": 33375528
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "河洛图（京东定制签章版，茅奖得主李佩甫最新长篇，十年打磨之作）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33597485.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34937621/",
+                        "year": "2019",
+                        "id": 34937621
+                    }
+                }
+            ],
+            "total": 30
+        }
+    },
+    "author_link": "https://book.douban.com/author/4508676/",
+    "author_douban_id": "4508676",
+    "personage_id": 30109992,
+    "name": [
+        "李佩甫",
+        "Peifu Li"
+    ],
+    "intro": "李佩甫 ，大专学历，中共党员，国家一级作家。1979年参加工作，历任许昌市文化局创作员，《莽原》杂志编辑、第二编辑室主任，河南省文联、作家协会专业作家，《莽原》杂志副主编，河南省作家协会第二届理事、河南省文联副主席，河南省作协主席。享受国务院政府特殊津贴。2015年8月16日，李佩甫的《生命册》获得第九届茅盾文学奖。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/96d5248ea1cdf6e5dea47615256bbf3e.jpg",
+    "sex": 1,
+    "birth_place": [
+        "河南省许昌市"
+    ],
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

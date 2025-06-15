@@ -1,0 +1,56 @@
+{
+    "title": "明日同學的水手服 1",
+    "bookInfo": {
+        "作者": "博",
+        "出版社": "青文出版社",
+        "原作名": "明日ちゃんのセーラー服 1",
+        "译者": "陳秀玫",
+        "出版年": "2018-11-12",
+        "定价": "NT$140",
+        "装帧": "平装",
+        "丛书": "明日同學的水手服",
+        "ISBN": "9789863566649"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "56.5%",
+        "four_star_rate": "31.1%",
+        "three_star_rate": "9.6%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4619708/",
+            "name": "博",
+            "role": "作者",
+            "douban_id": "4619708"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "34.10元",
+            "link": "https://book.douban.com/link2/?lowest=3410&pre=0&vendor=jingdong&srcpage=subject&price=3410&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHFodWQ8LVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYFVVZZAUIWHDZNRwYlDnV6TiYrEh50WB1xYCBjLlBDNFsDXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4DVl1aDEwSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsQWgBsCFgHU0oUSDtmGFMRWgQCVF9tCkoWAW04K2tiNnAEXT4Vbjx0fDYOExJeOF1KPx08VRh5AQh7cjBmW0MLI1pZf0JoRjx7K1gl&cntvendor=1&srcsubj=30325854&type=bkbuy&subject=30325854"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30325854/",
+    "douban_id": "30325854",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29919297.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "博",
+            "link": "https://book.douban.com/author/4619708"
+        },
+        {
+            "text": "陳秀玫",
+            "link": "https://book.douban.com/search/%E9%99%B3%E7%A7%80%E7%8E%AB"
+        },
+        {
+            "text": "明日同學的水手服",
+            "link": "https://book.douban.com/series/53993"
+        }
+    ],
+    "tag": "校园"
+}

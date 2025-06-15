@@ -1,0 +1,66 @@
+{
+    "title": "菊花与锚",
+    "bookInfo": {
+        "作者": "刘怡 / 阎京生",
+        "出版社": "武汉大学出版社",
+        "副标题": "旧日本帝国海军发展史",
+        "出版年": "2008-11",
+        "页数": "427",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "丛书": "经典战史回眸 旧日本海军发展三部曲",
+        "ISBN": "9787307065543"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "47.4%",
+        "four_star_rate": "43.7%",
+        "three_star_rate": "8.8%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4634622/",
+            "name": "刘怡",
+            "role": "作者",
+            "douban_id": "4634622"
+        },
+        {
+            "link": "https://book.douban.com/author/302494/",
+            "name": "阎京生",
+            "role": "作者",
+            "douban_id": "302494"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "148.50元",
+            "link": "https://book.douban.com/link2/?lowest=14850&pre=0&vendor=jingdong&srcpage=subject&price=14850&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070876306059.html&cntvendor=1&srcsubj=3309340&type=bkbuy&subject=3309340"
+        }
+    ],
+    "url": "https://book.douban.com/subject/3309340/",
+    "douban_id": "3309340",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s3372491.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘怡",
+            "link": "https://book.douban.com/author/4634622"
+        },
+        {
+            "text": "阎京生",
+            "link": "https://book.douban.com/search/%E9%98%8E%E4%BA%AC%E7%94%9F"
+        },
+        {
+            "text": "武汉大学出版社",
+            "link": "https://book.douban.com/press/2436"
+        },
+        {
+            "text": "经典战史回眸 旧日本海军发展三部曲",
+            "link": "https://book.douban.com/series/63694"
+        }
+    ],
+    "tag": "军事"
+}

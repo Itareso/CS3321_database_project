@@ -1,0 +1,73 @@
+{
+    "title": "师友杂忆",
+    "bookInfo": {
+        "作者": "田余庆",
+        "出版社": "海豚出版社",
+        "出版年": "2014-6-1",
+        "页数": "104",
+        "定价": "15.80元",
+        "装帧": "平装",
+        "丛书": "海豚书馆",
+        "ISBN": "9787511020260"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "12.5%",
+        "four_star_rate": "49.7%",
+        "three_star_rate": "34.0%",
+        "two_star_rate": "3.5%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/166609/",
+            "name": "田余庆",
+            "role": "作者",
+            "douban_id": "166609"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.85元",
+            "link": "https://book.douban.com/link2/?lowest=2685&pre=0&vendor=jingdong&srcpage=subject&price=2685&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070892335684.html&cntvendor=1&srcsubj=25926549&type=bkbuy&subject=25926549"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25926549/",
+    "douban_id": "25926549",
+    "menu": [
+        "",
+        "        历史主义无罪 （1）",
+        "        在北大历史系翦伯赞教授百年诞辰纪念会上的发言 （17）",
+        "        清明何处祭孤魂",
+        "        ——在翦伯赞先生诞辰110周年纪念会上的讲话 （27）",
+        "        忆郑师 （34）",
+        "        邓师周年祭 （40）",
+        "        周一良先生周年祭 （48）",
+        "        《周一良批校(世说新语)》影印本前言 （61）",
+        "        接替陈寅恪，树立了一个新的路标",
+        "        ——《唐长孺全集》首发式上的发言 （68）",
+        "        清淳勤勉老书生",
+        "        ——商鸿逵先生逝世十周年祭 （74）",
+        "        睹书伤逝",
+        "        ——纪念逯耀东先生 （79）",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s27359287.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "田余庆",
+            "link": "https://book.douban.com/author/166609/"
+        },
+        {
+            "text": "海豚出版社",
+            "link": "https://book.douban.com/press/2490"
+        },
+        {
+            "text": "海豚书馆",
+            "link": "https://book.douban.com/series/4435"
+        }
+    ],
+    "tag": "回忆录"
+}

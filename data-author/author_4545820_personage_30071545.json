@@ -1,0 +1,147 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "暂别",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34877928.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36914535/",
+                        "year": "2024",
+                        "id": 36914535
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "留灯",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34646186.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36419529/",
+                        "year": "2023",
+                        "id": 36419529
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "望花",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34328176.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36119646/",
+                        "year": "2022",
+                        "id": 36119646
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "永隔一江水",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33786623.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35216961/",
+                        "year": "2021",
+                        "id": 35216961
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "柔软的距离",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33832966.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35062148/",
+                        "year": "2021",
+                        "id": 35062148
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "天边一星子",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29891862.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30324264/",
+                        "year": "2018",
+                        "id": 30324264
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "纸上王国",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29767862.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30221630/",
+                        "year": "2018",
+                        "id": 30221630
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "我认识了一个索马里海盗",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29511311.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27101592/",
+                        "year": "2017",
+                        "id": 27101592
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "山中的糖果",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28753282.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26791998/",
+                        "year": "2016",
+                        "id": 26791998
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "世界这么大，还是遇见你",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s26320986.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/24089617/",
+                        "year": "2013",
+                        "id": 24089617
+                    }
+                }
+            ],
+            "total": 10
+        }
+    },
+    "author_link": "https://book.douban.com/author/4545820/",
+    "author_douban_id": "4545820",
+    "personage_id": 30071545,
+    "name": [
+        "邓安庆",
+        "Anqing Deng"
+    ],
+    "intro": "邓安庆，1984 年生，湖北武穴人。曾游荡于多个城市之间，从事过广告策划、内刊编辑、企业培训、木材加工、图书编辑、互联网等不同职业，现居北京。已出版书有《纸上王国》《柔软的距离》，在《人民文学（海外版）》《读库》《山花》《上海文学》《花城》《书城》等期刊杂志上发表小说、散文多篇。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/f080d0b2c275957bf69c7e1ebd38f24e.jpg",
+    "sex": 1,
+    "birth_date": 1984,
+    "age": 42,
+    "profession": [
+        "作者"
+    ]
+}

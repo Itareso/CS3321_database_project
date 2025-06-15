@@ -1,0 +1,113 @@
+{
+    "title": "春秋公羊传",
+    "bookInfo": {
+        "作者": "孔子 / 公羊高",
+        "出版社": "中华书局",
+        "译者": "黄铭 / 曾亦",
+        "出版年": "2022-7-20",
+        "页数": "809",
+        "定价": "CNY 56.00",
+        "装帧": "精装",
+        "丛书": "中华经典名著全本全注全译丛书",
+        "ISBN": "9787101118803"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "67.4%",
+        "four_star_rate": "19.7%",
+        "three_star_rate": "10.1%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/224461/",
+            "name": "孔子",
+            "role": "作者",
+            "douban_id": "224461"
+        },
+        {
+            "link": "https://book.douban.com/author/196871/",
+            "name": "黄铭",
+            "role": "译者",
+            "douban_id": "196871"
+        },
+        {
+            "link": "https://book.douban.com/author/4620023/",
+            "name": "黄铭",
+            "role": "校注",
+            "douban_id": "4620023"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "33.60元",
+            "link": "https://www.dedao.cn/ebook/detail?id=bODoM61kAj9Rql84gzG5nVNZopXKY3DvEY0JLrBmEDv2QPMOyx7a6e1dbPQj2Zdm&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "40.32元",
+            "link": "https://book.douban.com/link2/?lowest=4020&pre=0&vendor=jingdong&srcpage=subject&price=4032&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFoSXw8EUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVVlfAU0SHDZNRwYlFGEBFBocQFF1Vh1eEwRwNUBZPwcfTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUVpcAUsUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXANsCFgKSglUR2dmG1ocXQQAVlxtCkoWAW04K2tdHmZpXD5VVA1Tdy5jHixJCVZEFwdVQQp5ATlRZRhCNmRfEjw_QAhDVSgOK1gl&cntvendor=4&srcsubj=26913494&type=bkbuy&subject=26913494"
+        },
+        {
+            "name": "当当网",
+            "price": "56.00元",
+            "link": "https://book.douban.com/link2/?lowest=4020&pre=0&vendor=dangdang&srcpage=subject&price=5600&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26913494%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D24103599&cntvendor=4&srcsubj=26913494&type=bkbuy&subject=26913494"
+        },
+        {
+            "name": "中图网",
+            "price": "40.20元",
+            "link": "https://book.douban.com/link2/?lowest=4020&pre=0&vendor=bookschina&srcpage=subject&price=4020&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7351525.htm&cntvendor=4&srcsubj=26913494&type=bkbuy&subject=26913494"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26913494/",
+    "douban_id": "26913494",
+    "menu": [
+        "",
+        "        前言",
+        "        隐公第一",
+        "        桓公第二",
+        "        庄公第三",
+        "        闵公第四",
+        "        僖公第五",
+        "        文公第六",
+        "        宣公第七",
+        "        成公第八",
+        "        襄公第九",
+        "        昭公第十一",
+        "        定公第十一",
+        "        哀公第十二",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29351302.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "孔子",
+            "link": "https://book.douban.com/search/%E5%AD%94%E5%AD%90"
+        },
+        {
+            "text": "公羊高",
+            "link": "https://book.douban.com/search/%E5%85%AC%E7%BE%8A%E9%AB%98"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "黄铭",
+            "link": "https://book.douban.com/search/%E9%BB%84%E9%93%AD"
+        },
+        {
+            "text": "曾亦",
+            "link": "https://book.douban.com/search/%E6%9B%BE%E4%BA%A6"
+        },
+        {
+            "text": "中华经典名著全本全注全译丛书",
+            "link": "https://book.douban.com/series/4103"
+        }
+    ],
+    "tag": "中国文学",
+    "avg_rate": 4.503
+}

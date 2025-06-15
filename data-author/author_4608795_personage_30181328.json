@@ -1,0 +1,147 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "东山宴",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37194923/",
+                        "year": "2025",
+                        "id": 37194923
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "天空之城",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34790558.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36706420/",
+                        "year": "2024",
+                        "id": 36706420
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "狮子的恩典",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34790556.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36706429/",
+                        "year": "2024",
+                        "id": 36706429
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "海边魔术师",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34531466.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36362178/",
+                        "year": "2023",
+                        "id": 36362178
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "以鸟兽之名",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33892751.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35456856/",
+                        "year": "2021",
+                        "id": 35456856
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "我们骑鲸而去",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33696579.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35142811/",
+                        "year": "2020",
+                        "id": 35142811
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "亲人",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33740424.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35071517/",
+                        "year": "2020",
+                        "id": 35071517
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "鲛在水中央",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s32288978.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/33406036/",
+                        "year": "2019",
+                        "id": 33406036
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "骨节",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29838164.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30292660/",
+                        "year": "2018",
+                        "id": 30292660
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "松林夜宴图",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29821997.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30246780/",
+                        "year": "2018",
+                        "id": 30246780
+                    }
+                }
+            ],
+            "total": 23
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608795/",
+    "author_douban_id": "4608795",
+    "personage_id": 30181328,
+    "name": [
+        "孙频",
+        "Pin Su"
+    ],
+    "intro": "孙频",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/bc455564490ee5491654914edc03dfea.jpg",
+    "sex": 0,
+    "birth_date": 1983,
+    "age": 43,
+    "profession": [
+        "作者"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "豆子芝麻茶",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34669097.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36560856/",
+                        "year": "2023",
+                        "id": 36560856
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "我本芬芳",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34953045.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35695541/",
+                        "year": "2022",
+                        "id": 35695541
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "浮木",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33921954.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35479662/",
+                        "year": "2021",
+                        "id": 35479662
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "秋园",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33640730.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34998019/",
+                        "year": "2020",
+                        "id": 34998019
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4612644/",
+    "author_douban_id": "4612644",
+    "personage_id": 35782261,
+    "name": [
+        "杨本芬",
+        "Benfen Yang"
+    ],
+    "intro": "杨本芬，1940年出生于湖南湘阴，17岁考入湘阴工业学校，后进入江西共大分校，未及毕业即下放农村。此后数十年为生计奔忙，相夫教子，后从某运输公司退休。花甲之年开始写作，在《红豆》《滇池》等刊物上发表过短篇小说，2020年出版首部长篇小说《秋园》，2021年出版小说集《浮木》。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/35782261/photo/2904270011",
+        "https://www.douban.com/personage/35782261/photo/2904270007",
+        "https://www.douban.com/personage/35782261/photo/2904270096",
+        "https://www.douban.com/personage/35782261/photo/2904270013",
+        "https://www.douban.com/personage/35782261/photo/2904270095"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2904270011.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2904270007.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2904270096.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2904270013.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2904270095.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/dd7ea69727cf537d5808e64bee34d16f.jpg",
+    "sex": 0,
+    "birth_date": 1940,
+    "age": 86,
+    "birth_place": [
+        "中国",
+        "湖南",
+        "湘阴"
+    ],
+    "family_member": "章红(女)",
+    "profession": [
+        "作者"
+    ]
+}

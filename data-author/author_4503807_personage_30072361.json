@@ -1,0 +1,167 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "暴风雨",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35047634.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37180353/",
+                        "year": "2025",
+                        "id": 37180353
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "威尼斯商人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35084929.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37242054/",
+                        "year": "2025",
+                        "id": 37242054
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "李尔王",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s35084931.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37242056/",
+                        "year": "2025",
+                        "id": 37242056
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "哈姆雷特",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35084935.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37242063/",
+                        "year": "2025",
+                        "id": 37242063
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "牛津版莎士比亚：罗密欧与朱丽叶",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34848765.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36872500/",
+                        "year": "2024",
+                        "id": 36872500
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "牛津版莎士比亚：仲夏夜之梦",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34848767.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36872502/",
+                        "year": "2024",
+                        "id": 36872502
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.4,
+                        "title": "牛津版莎士比亚：麦克白",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34848766.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36872501/",
+                        "year": "2024",
+                        "id": 36872501
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.4,
+                        "title": "牛津版莎士比亚：威尼斯商人",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34849111.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36872651/",
+                        "year": "2024",
+                        "id": 36872651
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "罗密欧与朱丽叶",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34976413.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37069650/",
+                        "year": "2024",
+                        "id": 37069650
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "莎士比亚·少年版（全10册）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34383618.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36162375/",
+                        "year": "2022",
+                        "id": 36162375
+                    }
+                }
+            ],
+            "total": 222
+        }
+    },
+    "author_link": "https://book.douban.com/author/4503807/",
+    "author_douban_id": "4503807",
+    "personage_id": 30072361,
+    "name": [
+        "朱生豪",
+        "Shenghao Zhu"
+    ],
+    "intro": "朱生豪，中国浙江省嘉兴人，是中国翻译莎士比亚作品较早和最多的一人，译文质量和风格卓具特色，为国内外莎士比亚研究者所公认。原名朱文森，又名文生，学名森豪，笔名朱朱、朱生等，朱生豪共译出莎士比亚悲剧、喜剧、杂剧与历史剧31部半。曾翻译《莎士比亚戏剧全集》其译本作品质量与完整性颇受好评。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30072361/photo/2909293519",
+        "https://www.douban.com/personage/30072361/photo/2909293484",
+        "https://www.douban.com/personage/30072361/photo/2909293481",
+        "https://www.douban.com/personage/30072361/photo/2909293480",
+        "https://www.douban.com/personage/30072361/photo/2909293509"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2909293519.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2909293484.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2909293481.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2909293480.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2909293509.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/img/author/medium/public/1500645862.93.jpg",
+    "更多中文名": "朱文森(原名) / 朱文生 / 朱森豪(学名) / 朱朱(笔名) / 朱生(笔名)",
+    "sex": 1,
+    "birth_date": 1912,
+    "death_date": 1944,
+    "age": 33,
+    "birth_place": [
+        "中国",
+        "浙江",
+        "嘉兴"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

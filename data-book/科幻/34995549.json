@@ -1,0 +1,75 @@
+{
+    "title": "人类补完计划",
+    "bookInfo": {
+        "作者": "（美）考德维纳•史密斯",
+        "出版社": "江苏凤凰文艺出版社",
+        "原作名": "The Rediscovery of Man",
+        "译者": "黄彦霖",
+        "出版年": "2020-5-30",
+        "页数": "432",
+        "定价": "58.00",
+        "装帧": "平装",
+        "丛书": "九志天达·科幻志",
+        "ISBN": "9787559408358"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.5%",
+        "four_star_rate": "40.6%",
+        "three_star_rate": "24.2%",
+        "two_star_rate": "6.8%",
+        "one_star_rate": "2.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4637717/",
+            "name": "黃彥霖",
+            "role": "译者",
+            "douban_id": "4637717"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "50.80元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=jingdong&srcpage=subject&price=5080&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12768441.html&cntvendor=2&srcsubj=34995549&type=bkbuy&subject=34995549"
+        },
+        {
+            "name": "中图网",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=bookschina&srcpage=subject&price=2450&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8674093.htm&cntvendor=2&srcsubj=34995549&type=bkbuy&subject=34995549"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34995549/",
+    "douban_id": "34995549",
+    "menu": [
+        "",
+        "        1 猎人机十一型 _001",
+        "        2 午后女王 _013",
+        "        3 审视者的徒劳人生 _037",
+        "        4 驾驶灵魂号的女士 _069",
+        "        ……",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33640759.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "（美）考德维纳•史密斯",
+            "link": "https://book.douban.com/search/%E8%80%83%E5%BE%B7%E7%BB%B4%E7%BA%B3%E2%80%A2%E5%8F%B2%E5%AF%86%E6%96%AF"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "黄彦霖",
+            "link": "https://book.douban.com/author/4637717"
+        },
+        {
+            "text": "九志天达·科幻志",
+            "link": "https://book.douban.com/series/28895"
+        }
+    ],
+    "tag": "科幻"
+}

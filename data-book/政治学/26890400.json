@@ -1,0 +1,91 @@
+{
+    "title": "常识",
+    "bookInfo": {
+        "作者": "托马斯·潘恩 (Thomas Paine)",
+        "出版社": "北京联合出版公司",
+        "出品方": "斯坦威",
+        "副标题": "\"慢读\"系列",
+        "译者": "秦传安",
+        "出版年": "2016-9-1",
+        "页数": "160",
+        "定价": "CNY 28.00",
+        "装帧": "精装",
+        "ISBN": "9787550284104"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "58.3%",
+        "four_star_rate": "32.1%",
+        "three_star_rate": "9.2%",
+        "two_star_rate": "0.4%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/139837/",
+            "name": "托马斯·潘恩",
+            "role": "作者",
+            "douban_id": "139837"
+        },
+        {
+            "link": "https://book.douban.com/author/4633883/",
+            "name": "秦传安",
+            "role": "译者",
+            "douban_id": "4633883"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "2.99元",
+            "link": "https://read.douban.com/ebook/26831007/?dcs=subject-buylink&dcm=douban&dct=26890400"
+        },
+        {
+            "name": "得到",
+            "price": "9.90元",
+            "link": "https://www.dedao.cn/ebook/detail?id=kQX7yD4MVoN52PDAnlRdzK6qvg8XEwbyGv3ZJjBb7rO4ypxGa9LeQm1kYng9YzK5&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.60元",
+            "link": "https://book.douban.com/link2/?lowest=2060&pre=0&vendor=jingdong&srcpage=subject&price=2060&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQIJK1olXQYFV1pfDkIfBF8KG1kSXQ4LVlxbCntTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSlxdCkwXC2YKGV0XQl9HCANtCxhWAjlbHwV1GXRhXS49ATRyWGx8e1cZbQEHU1haAUgQM28MGl8RbTYCVW4cZkwVB2wPG2sXXQcDUV5VAUISM28OHloQVQIHU1ZZD0InA2cMK4KV6tCgxofDgp6flF84K1glbTYCZF1tViUWUGYPT1wSVWheUgQBCxhFWwELE1IUWQ4CVW5fCUoVAV84Kz5lDV5iNFk2UgN3UBB0HQ4XA1JQNFc5VCUVAw8PaydNAlxYAAogSDhNVBE4GGs&cntvendor=3&srcsubj=26890400&type=bkbuy&subject=26890400"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26890400/",
+    "douban_id": "26890400",
+    "menu": [
+        "",
+        "        导言",
+        "        政府的起源与目的总论，兼评英国宪政",
+        "        论君主制与世袭制",
+        "        对美利坚当前形势的思考",
+        "        论美利坚当前的实力，附杂感若干",
+        "        第三版附言",
+        "        附录 I 美国先贤对托马斯·潘恩的评价",
+        "        附录 II 莱斯利·斯蒂芬：独立革命中的潘恩",
+        "        附录 III 朱学勤： 两个世界的英雄——托马斯·潘恩",
+        "        附录 IV 朱学勤：托马斯·潘恩在近代政治思想史上的地位",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34114010.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "托马斯·潘恩 (Thomas Paine)",
+            "link": "https://book.douban.com/search/%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E6%BD%98%E6%81%A9"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "斯坦威",
+            "link": "https://book.douban.com/producers/188"
+        },
+        {
+            "text": "秦传安",
+            "link": "https://book.douban.com/author/4633883"
+        }
+    ],
+    "tag": "政治学"
+}

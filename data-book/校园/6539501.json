@@ -1,0 +1,57 @@
+{
+    "title": "洛奇花园 3-4",
+    "bookInfo": {
+        "作者": "NOCA 漫画 / 比比 原作",
+        "出版社": "黑龙江美术出版社",
+        "出版年": "2011-5",
+        "页数": "162",
+        "定价": "15.00元",
+        "装帧": "平装",
+        "丛书": "洛奇花园",
+        "ISBN": "9787531830726"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "42.7%",
+        "four_star_rate": "37.7%",
+        "three_star_rate": "18.2%",
+        "two_star_rate": "0.5%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "9.90元",
+            "link": "https://book.douban.com/link2/?lowest=630&pre=0&vendor=jingdong&srcpage=subject&price=990&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10030081890542.html&cntvendor=2&srcsubj=6539501&type=bkbuy&subject=6539501"
+        },
+        {
+            "name": "中图网",
+            "price": "6.30元",
+            "link": "https://book.douban.com/link2/?lowest=630&pre=0&vendor=bookschina&srcpage=subject&price=630&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7163497.htm&cntvendor=2&srcsubj=6539501&type=bkbuy&subject=6539501"
+        }
+    ],
+    "url": "https://book.douban.com/subject/6539501/",
+    "douban_id": "6539501",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s8475056.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "NOCA 漫画",
+            "link": "https://book.douban.com/search/NOCA%20%E6%BC%AB%E7%94%BB"
+        },
+        {
+            "text": "比比 原作",
+            "link": "https://book.douban.com/search/%E6%AF%94%E6%AF%94%20%E5%8E%9F%E4%BD%9C"
+        },
+        {
+            "text": "黑龙江美术出版社",
+            "link": "https://book.douban.com/press/2568"
+        },
+        {
+            "text": "洛奇花园",
+            "link": "https://book.douban.com/series/11955"
+        }
+    ],
+    "tag": "校园"
+}

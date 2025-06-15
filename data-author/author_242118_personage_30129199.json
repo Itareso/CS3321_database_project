@@ -1,0 +1,115 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "当父亲把我忘记",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34706584.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36658854/",
+                        "year": "2024",
+                        "id": 36658854
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "生活在临终医院",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34707037.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36565223/",
+                        "year": "2024",
+                        "id": 36565223
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "远去的人",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28024737.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26335091/",
+                        "year": "2015",
+                        "id": 26335091
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "天亮就走人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s9115928.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/10570857/",
+                        "year": "2012",
+                        "id": 10570857
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "问鬼",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s26240891.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/21318937/",
+                        "year": "2012",
+                        "id": 21318937
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "残镇",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s3237458.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/3195257/",
+                        "year": "2008",
+                        "id": 3195257
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "寻找雅葛布",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s5659467.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/1822772/",
+                        "year": "2006",
+                        "id": 1822772
+                    }
+                }
+            ],
+            "total": 7
+        }
+    },
+    "author_link": "https://book.douban.com/author/242118/",
+    "author_douban_id": "242118",
+    "personage_id": 30129199,
+    "name": [
+        "薛舒",
+        "Shu Jiang"
+    ],
+    "intro": "薛舒，女，上海“70后”女作家。2002年开始发表小说，中国作家协会会员，上海市作家协会理事、专业作家。曾就读鲁迅文学院第八届青年作家高级研讨班。著有中篇小说《暮紫桥下》、《鞭》、《阳光下的呼喊》、《天亮就走人》、《谁让你叫“叶尼娜”》。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30129199/photo/2903649012"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2903649012.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/2247e05b92a99815c3d43db17e774270.jpg",
+    "sex": 0,
+    "birth_date": 1969,
+    "age": 57,
+    "profession": [
+        "作者"
+    ]
+}

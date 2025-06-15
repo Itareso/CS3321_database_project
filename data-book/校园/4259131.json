@@ -1,0 +1,63 @@
+{
+    "title": "爱至暮夏2",
+    "bookInfo": {
+        "作者": "慕夏",
+        "出版社": "知识出版社",
+        "出版年": "2010-1",
+        "页数": "232",
+        "定价": "23.80元",
+        "装帧": "平装",
+        "丛书": "爱至暮夏",
+        "ISBN": "9787501559015"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "62.9%",
+        "four_star_rate": "17.6%",
+        "three_star_rate": "18.2%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.76元",
+            "link": "https://book.douban.com/link2/?lowest=1676&pre=0&vendor=jingdong&srcpage=subject&price=1676&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10039495916763.html&cntvendor=1&srcsubj=4259131&type=bkbuy&subject=4259131"
+        }
+    ],
+    "url": "https://book.douban.com/subject/4259131/",
+    "douban_id": "4259131",
+    "menu": [
+        "",
+        "        第一章",
+        "        第二章",
+        "        第三章",
+        "        第四章",
+        "        第五章",
+        "        第六章",
+        "        第七章",
+        "        第八章",
+        "        第九章",
+        "        第十章",
+        "        第十一章",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s6159022.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "慕夏",
+            "link": "https://book.douban.com/search/%E6%85%95%E5%A4%8F"
+        },
+        {
+            "text": "知识出版社",
+            "link": "https://book.douban.com/press/2613"
+        },
+        {
+            "text": "爱至暮夏",
+            "link": "https://book.douban.com/series/2667"
+        }
+    ],
+    "tag": "校园"
+}

@@ -1,0 +1,144 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "琴门徘徊录",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34678759.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36481589/",
+                        "year": "2023",
+                        "id": 36481589
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "掌故（第十集）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34627779.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36480215/",
+                        "year": "2023",
+                        "id": 36480215
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "辛丰年先生",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34594719.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36488323/",
+                        "year": "2023",
+                        "id": 36488323
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "近世古琴逸话（增订本）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34149074.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35796185/",
+                        "year": "2022",
+                        "id": 35796185
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "掌故（第九集）",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34315571.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36104105/",
+                        "year": "2022",
+                        "id": 36104105
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "金庸识小录",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33983749.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35577662/",
+                        "year": "2021",
+                        "id": 35577662
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "往事分明在，琴笛高楼",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33885598.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35217412/",
+                        "year": "2021",
+                        "id": 35217412
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "金庸年谱简编",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33983750.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35577671/",
+                        "year": "2021",
+                        "id": 35577671
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "掌故（第八集）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33948319.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35527606/",
+                        "year": "2021",
+                        "id": 35527606
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "庄剑丞古琴文稿",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33921593.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35493901/",
+                        "year": "2021",
+                        "id": 35493901
+                    }
+                }
+            ],
+            "total": 31
+        }
+    },
+    "author_link": "https://book.douban.com/author/4613221/",
+    "author_douban_id": "4613221",
+    "personage_id": 35887623,
+    "name": [
+        "严晓星"
+    ],
+    "intro": "暂无",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

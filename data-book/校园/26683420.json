@@ -1,0 +1,43 @@
+{
+    "title": "ヤリチン☆ビッチ部 １",
+    "bookInfo": {
+        "作者": "おげれつたなか",
+        "出版社": "幻冬舎コミックス",
+        "出版年": "2016-3-24",
+        "定价": "JPY 734",
+        "丛书": "ヤリチン☆ビッチ部",
+        "ISBN": "9784344836310"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "48.4%",
+        "four_star_rate": "34.8%",
+        "three_star_rate": "14.3%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4636969/",
+            "name": "田中太太",
+            "role": "作者",
+            "douban_id": "4636969"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/26683420/",
+    "douban_id": "26683420",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s28524286.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "おげれつたなか",
+            "link": "https://book.douban.com/author/4636969"
+        },
+        {
+            "text": "ヤリチン☆ビッチ部",
+            "link": "https://book.douban.com/series/41941"
+        }
+    ],
+    "tag": "校园"
+}

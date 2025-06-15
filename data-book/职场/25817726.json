@@ -1,0 +1,78 @@
+{
+    "title": "活法（珍藏版）",
+    "bookInfo": {
+        "作者": "[日] 稻盛和夫",
+        "出版社": "东方出版社",
+        "译者": "曹岫云",
+        "出版年": "2013-9",
+        "页数": "212",
+        "定价": "42.00元",
+        "装帧": "精装",
+        "ISBN": "9787506063487"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "38.6%",
+        "four_star_rate": "34.9%",
+        "three_star_rate": "20.0%",
+        "two_star_rate": "3.1%",
+        "one_star_rate": "3.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4511105/",
+            "name": "稻盛和夫",
+            "role": "作者",
+            "douban_id": "4511105"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG1kWXAMGXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCVl1cDU8eHDZNRwYlCEJpNQ01Fi10SAkMbTlCIWRSLzgYaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUFhfCkITM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gdWwRsCFgHVw1TCytmGVoUVQ4AXVdtCkoWAW04K2tTBXBaMz4KTQtDVjB_GDxSVAN3IwcBUBl5AT9KEgN9BQVAFCYlThNueWsOK1gl&cntvendor=3&srcsubj=25817726&type=bkbuy&subject=25817726"
+        },
+        {
+            "name": "当当网",
+            "price": "40.30元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=dangdang&srcpage=subject&price=4029&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25817726%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23339272&cntvendor=3&srcsubj=25817726&type=bkbuy&subject=25817726"
+        },
+        {
+            "name": "中图网",
+            "price": "20.70元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=bookschina&srcpage=subject&price=2070&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6357026.htm&cntvendor=3&srcsubj=25817726&type=bkbuy&subject=25817726"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25817726/",
+    "douban_id": "25817726",
+    "menu": [
+        "",
+        "        自序",
+        "        推荐序人生教科书",
+        "        序言",
+        "        第一章 实现理想",
+        "        第二章 从原理原则出发考虑问题",
+        "        第三章 磨炼灵魂、提升心志",
+        "        第四章 以利他心度人生",
+        "        第五章 与宇宙潮流协调和谐",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s27208609.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 稻盛和夫",
+            "link": "https://book.douban.com/author/4511105"
+        },
+        {
+            "text": "东方出版社",
+            "link": "https://book.douban.com/press/2731"
+        },
+        {
+            "text": "曹岫云",
+            "link": "https://book.douban.com/search/%E6%9B%B9%E5%B2%AB%E4%BA%91"
+        }
+    ],
+    "tag": "职场"
+}

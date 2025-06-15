@@ -1,0 +1,81 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "手持人间一束光",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34999595.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37106466/",
+                        "year": "2025",
+                        "id": 37106466
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "低处飞行",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34767336.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36745614/",
+                        "year": "2024",
+                        "id": 36745614
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "赶时间的人",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34418464.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36248699/",
+                        "year": "2023",
+                        "id": 36248699
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "我笨拙地爱着这个世界",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34507613.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36357241/",
+                        "year": "2023",
+                        "id": 36357241
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4620919/",
+    "author_douban_id": "4620919",
+    "personage_id": 36390157,
+    "name": [
+        "王计兵",
+        "Jibing Wang"
+    ],
+    "intro": "王计兵，笔名拾荒。生于1969年。江苏邳州人，现生活在江苏昆山。中国作家协会会员，外卖骑手。因一面送餐一面写作被央视，新华社，人民日报等媒体广泛报道，被网友称为“外卖诗人”。参加2025年央视春晚，2024年央视网络春晚等。作品常见于国内外文学期刊及网络。单首诗歌网络阅读量达三千多万次。已出版诗集四部，获第八届紫金山文学奖诗歌奖等数十种。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/d4175e838a395280a5f1802fe3dc35ff.jpg",
+    "更多中文名": "拾荒(笔名)",
+    "sex": 1,
+    "birth_date": 1969,
+    "age": 57,
+    "birth_place": [
+        "中国",
+        "江苏",
+        "徐州"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

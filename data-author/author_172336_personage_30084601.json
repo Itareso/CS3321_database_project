@@ -1,0 +1,75 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "请你记住我",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s32319379.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/33446272/",
+                        "year": "2019",
+                        "id": 33446272
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.2,
+                        "title": "我们从未陌生过",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28289738.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/26599193/",
+                        "year": "2015",
+                        "id": 26599193
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "我在最温暖的地方等你",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28017945.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26335687/",
+                        "year": "2015",
+                        "id": 26335687
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "就当一次路过",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27979092.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26292727/",
+                        "year": "2015",
+                        "id": 26292727
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/172336/",
+    "author_douban_id": "172336",
+    "personage_id": 30084601,
+    "name": [
+        "刘墨闻"
+    ],
+    "intro": "原名刘野，出生于吉林省公主岭市，后随家人搬至长春，目前定居深圳。设计师，小说作者，橄榄球手。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/img/author/medium/public/1534236597.83.jpg",
+    "更多中文名": "刘野",
+    "sex": 1,
+    "birth_date": 1988,
+    "age": 38,
+    "profession": [
+        "作者"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "title": "趁热品尝",
+    "bookInfo": {
+        "作者": "小川糸",
+        "出版社": "湖南文艺出版社",
+        "出品方": "博集天卷",
+        "原作名": "あつあつを召し上がれ",
+        "译者": "廖雯雯",
+        "出版年": "2023-9",
+        "页数": "176",
+        "定价": "49.80",
+        "装帧": "精装",
+        "ISBN": "9787572613081"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.2%",
+        "four_star_rate": "36.5%",
+        "three_star_rate": "32.5%",
+        "two_star_rate": "7.1%",
+        "one_star_rate": "1.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/306981/",
+            "name": "小川糸",
+            "role": "作者",
+            "douban_id": "306981"
+        },
+        {
+            "link": "https://book.douban.com/author/4617096/",
+            "name": "廖雯雯",
+            "role": "译者",
+            "douban_id": "4617096"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "35.99元",
+            "link": "https://read.douban.com/ebook/445822624/?dcs=subject-buylink&dcm=douban&dct=36497360"
+        },
+        {
+            "name": "得到",
+            "price": "35.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=A1De6QkaNRMlK5yxrdmnEBXY97ZL23n2OrD3o6zvGDekj1QgA84VbpqJOPLgxEJl&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=jingdong&srcpage=subject&price=2490&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwMAU1ldCEwQBV8IGlocWw4AUFlcCk0RAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmYOE1kRWgcAUlhcFxJSXzI4GQhtJntGD1s9DkwfYRteYxJVCwVmAlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXWA8BXFhfOEkXAm4NG1MSXgcyVFhYCUgWAW4PElMRWjYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRXF5fC04WbTMOTBheWVtbOl5cDEgXAWkJK1kUXAQAZG5tCC1KQB9hbV1DWkdFFxgZQTxxWwkOZyJVMwRnPB07fghFfTlUeDhTXgBWMG5eOA&cntvendor=4&srcsubj=36497360&type=bkbuy&subject=36497360"
+        },
+        {
+            "name": "当当网",
+            "price": "47.80元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=dangdang&srcpage=subject&price=4780&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36497360%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29607739&cntvendor=4&srcsubj=36497360&type=bkbuy&subject=36497360"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36497360/",
+    "douban_id": "36497360",
+    "menu": [
+        "",
+        "        外婆的刨冰",
+        "        老爸的五花肉饭",
+        "        告别的松茸",
+        "        小呼的味噌汤",
+        "        可爱的",
+        "        heart kolorit",
+        "        季节之外的切蒲英",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34612900.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "小川糸",
+            "link": "https://book.douban.com/author/306981"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        },
+        {
+            "text": "博集天卷",
+            "link": "https://book.douban.com/producers/20"
+        },
+        {
+            "text": "廖雯雯",
+            "link": "https://book.douban.com/author/4617096"
+        }
+    ],
+    "tag": "日本文学"
+}

@@ -1,0 +1,81 @@
+{
+    "title": "神秘博士：悖论迷失",
+    "bookInfo": {
+        "作者": "[英]乔治·曼恩",
+        "出版社": "新星出版社",
+        "出品方": "八光分文化",
+        "原作名": "Doctor Who: Paradox Lost",
+        "译者": "渠杰琪",
+        "出版年": "2020-10",
+        "页数": "199",
+        "定价": "41.00",
+        "装帧": "平装",
+        "丛书": "《神秘博士》官方小说",
+        "ISBN": "9787513341103"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "47.9%",
+        "four_star_rate": "40.3%",
+        "three_star_rate": "10.1%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "1.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610085/",
+            "name": "乔治·曼恩",
+            "role": "作者",
+            "douban_id": "4610085"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "32.80元",
+            "link": "https://read.douban.com/ebook/332106095/?dcs=subject-buylink&dcm=douban&dct=35167969"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.50元",
+            "link": "https://book.douban.com/link2/?lowest=1950&pre=0&vendor=jingdong&srcpage=subject&price=1950&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgEHUF5fAUMXAl8IGloWXQACUF1ZAU4SAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmwIHVsRXgILUVteFxJSXzI4YiBBP3N3FF0_fhMTXDRgR1tOCF5xElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUWAUEU1pbOEkXAm4NG1MSXgcyVFhYCUgXBWcIGFMXVTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRXF5fDEMVbTMOTVpQDlYFOl5dD0oWC2kPK1kUXAQAZG5tQRZAaA9oYTtAA2NrBCsgdTtSdA1JfSVuMwQFURsADiB1SzpgHVhSJWdcPG5eOA&cntvendor=4&srcsubj=35167969&type=bkbuy&subject=35167969"
+        },
+        {
+            "name": "当当网",
+            "price": "25.10元",
+            "link": "https://book.douban.com/link2/?lowest=1950&pre=0&vendor=dangdang&srcpage=subject&price=2510&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35167969%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29126416&cntvendor=4&srcsubj=35167969&type=bkbuy&subject=35167969"
+        },
+        {
+            "name": "中图网",
+            "price": "22.40元",
+            "link": "https://book.douban.com/link2/?lowest=1950&pre=0&vendor=bookschina&srcpage=subject&price=2240&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8405625.htm&cntvendor=4&srcsubj=35167969&type=bkbuy&subject=35167969"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35167969/",
+    "douban_id": "35167969",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33723592.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英]乔治·曼恩",
+            "link": "https://book.douban.com/search/%E4%B9%94%E6%B2%BB%C2%B7%E6%9B%BC%E6%81%A9"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "八光分文化",
+            "link": "https://book.douban.com/producers/115"
+        },
+        {
+            "text": "渠杰琪",
+            "link": "https://book.douban.com/search/%E6%B8%A0%E6%9D%B0%E7%90%AA"
+        },
+        {
+            "text": "《神秘博士》官方小说",
+            "link": "https://book.douban.com/series/40153"
+        }
+    ],
+    "tag": "科幻"
+}

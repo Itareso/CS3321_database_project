@@ -1,0 +1,150 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "Tao Te Ching",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37089472/",
+                        "year": "2026",
+                        "id": 37089472
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "Laozi's Dao De Jing",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34723898.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36684191/",
+                        "year": "2024",
+                        "id": 36684191
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "新道德经",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34860430.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36884448/",
+                        "year": "2024",
+                        "id": 36884448
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "道德经 经典直读本 左边文言文右边白话文  直观流畅一目了然  精装插图版 全本全译全注全解",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34085393.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35702939/",
+                        "year": "2021",
+                        "id": 35702939
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "老子今注今译",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33822291.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35152159/",
+                        "year": "2020",
+                        "id": 35152159
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "道德经译注",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34972143.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35019844/",
+                        "year": "2020",
+                        "id": 35019844
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "老子",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33841018.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34451566/",
+                        "year": "2019",
+                        "id": 34451566
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "道德经（经典随身读）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33593186.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30912846/",
+                        "year": "2018",
+                        "id": 30912846
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "道德经/国学经典精粹丛书",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34011485.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30510834/",
+                        "year": "2017",
+                        "id": 30510834
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "道德经新解全译本",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29198343.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26929134/",
+                        "year": "2016",
+                        "id": 26929134
+                    }
+                }
+            ],
+            "total": 71
+        }
+    },
+    "author_link": "https://book.douban.com/author/4509174/",
+    "author_douban_id": "4509174",
+    "personage_id": 30080148,
+    "name": [
+        "老子",
+        "Laozi"
+    ],
+    "intro": "李聃（生活于公元前6世纪初至5世纪初期），姬姓李氏名耳，字伯阳、外字聃，世人尊称为“老子”，华夏族，生于中夏东周末的某诸侯国苦县厉乡曲仁里（今河南省鹿邑县），师从殷商末臣之商容，于东周春秋末之周守藏室任吏（柱下史）、春秋时代思想家，隐居邢台广阳山。此人有著作被人们广泛奉为《道德经》，是道家的经典、全球文字出版发行量最大的著作之一。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30080148/photo/2917626913"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2917626913.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/img/author/medium/public/1502901588.38.jpg",
+    "更多中文名": "李耳、老聃",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

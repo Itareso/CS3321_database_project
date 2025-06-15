@@ -1,0 +1,102 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "江湖丛谈",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34907822.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36963236/",
+                        "year": "2024",
+                        "id": 36963236
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "江湖续谈",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34566178.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36446063/",
+                        "year": "2023",
+                        "id": 36446063
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "东汉演义",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34087723.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35060863/",
+                        "year": "2020",
+                        "id": 35060863
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "精忠说岳（外五种）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29512273.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/27082512/",
+                        "year": "2017",
+                        "id": 27082512
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "卅六英雄 连阔如评书秘本（典藏本）精",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27047455.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/25726896/",
+                        "year": "2013",
+                        "id": 25726896
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "评书三国演义（全三册）",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33298501.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/1921912/",
+                        "year": "2006",
+                        "id": 1921912
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/912641/",
+    "author_douban_id": "912641",
+    "personage_id": 30089333,
+    "name": [
+        "连阔如",
+        "Kuoru Lian"
+    ],
+    "intro": "连阔如（1903.6.25~1971.8.18），满族，原名毕连寿，号乐天居士，出生于北京安定门，中国评书演员。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/808d88409011adf03849a37880b5a007.jpg",
+    "sex": 1,
+    "birth_date": 1903,
+    "death_date": 1971,
+    "age": 69,
+    "family_member": "连丽如",
+    "profession": [
+        "作者",
+        "音乐人"
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "title": "阅读不息",
+    "bookInfo": {
+        "作者": "[日] 坂本龙一",
+        "出版社": "湖南文艺出版社",
+        "出品方": "博集天卷",
+        "译者": "白荷",
+        "出版年": "2024-11",
+        "页数": "368",
+        "定价": "69.00元",
+        "装帧": "精装",
+        "ISBN": "9787572618819"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    🌈坂本龙一首部关于阅读的作品。坂本龙一在生前自传《我还能看到多少次满月升起》中，提到他曾有个梦想，想做旧书店的老板。他从2017年开始，按照自己的阅读品味，秘密建造了一间私人图书馆。这间名为“坂本图书”的私人图书馆坐落于东京某地（地址非公开），馆内收藏了一直陪伴在坂本龙一身边、为他提供创作和思考食粮的书籍。本书以文字的方式将坂本龙一的个人图书馆呈现给读者。    🌈书中收录了坂本龙一从2018年到2022年，在《妇女画报》上刊登的连载栏目“坂本图书”全36篇文章，讲述了坂本龙一最爱的36本图书。书中还收录了2023年3月8日坂本龙一和编辑铃木正文的对谈，“2023年的坂本图书”，读者可以从中读到坂本龙一在生命最后时光中，畅聊自己在读的10本书，以及他对于生命与阅读的思考。    🌈本书展现了坂本龙一最后几年的阅读品味，他的阅读趣味天马行空：从夏目簌石到德里达，从布列松到塔可夫斯基到小津安二郎、黑泽明、大岛渚，从八大山人到村上龙……让读者从坂本龙一的阅读品味，让更全面地了解坂本龙一。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "27.2%",
+        "four_star_rate": "48.6%",
+        "three_star_rate": "22.0%",
+        "two_star_rate": "2.0%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/694670/",
+            "name": "坂本龙一",
+            "role": "作者",
+            "douban_id": "694670"
+        },
+        {
+            "link": "https://book.douban.com/author/4638388/",
+            "name": "白荷",
+            "role": "译者",
+            "douban_id": "4638388"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "55.99元",
+            "link": "https://read.douban.com/ebook/487154982/?dcs=subject-buylink&dcm=douban&dct=36903519"
+        },
+        {
+            "name": "得到",
+            "price": "55.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7jOgm3rbx6pNgznl9VZPLJQyEBodb89mqo&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.90元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=jingdong&srcpage=subject&price=1989&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIFUlhZDEwVC18IHlkQWAcBVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHVltYCUgXHDZNRwYlJXAACQI2VFV3ZB1aTyF-I1BSU10caEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcBV1xZCE4fM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVoXXwFsCFgKSxJHCmlmG1oXWQMHVlZtCkoWAW04K2tvNFJJKlsaXxtQWSZBQlhXIHoFIhk_cR95ARV1WjJvFnZwBBcUciJWUAxoK1gl&cntvendor=5&srcsubj=36903519&type=bkbuy&subject=36903519"
+        },
+        {
+            "name": "当当网",
+            "price": "66.20元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=dangdang&srcpage=subject&price=6620&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36903519%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29789171&cntvendor=5&srcsubj=36903519&type=bkbuy&subject=36903519"
+        },
+        {
+            "name": "中图网",
+            "price": "39.60元",
+            "link": "https://book.douban.com/link2/?lowest=1989&pre=0&vendor=bookschina&srcpage=subject&price=3960&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9436488.htm&cntvendor=5&srcsubj=36903519&type=bkbuy&subject=36903519"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36903519/",
+    "douban_id": "36903519",
+    "menu": [
+        "",
+        "        罗伯特·布列松",
+        "        夏目漱石",
+        "        雅克·德里达",
+        "        小津安二郎",
+        "        黑泽明",
+        "        大岛渚",
+        "        八大山人",
+        "        李禹焕",
+        "        九鬼周造",
+        "        欧内斯特·费诺罗萨",
+        "        福冈伸一",
+        "        武满彻",
+        "        尼古拉·A. 涅夫斯基",
+        "        工藤进",
+        "        安德烈·塔可夫斯基",
+        "        桥元淳一郎",
+        "        奥野健男",
+        "        侯孝贤",
+        "        杨德昌",
+        "        中上健次",
+        "        约翰·凯奇",
+        "        上田正昭",
+        "        卡洛·罗韦利",
+        "        斋藤幸平",
+        "        安富步",
+        "        村上龙",
+        "        今西锦司",
+        "        米切尔·恩德",
+        "        石川淳",
+        "        乌苏比·萨科",
+        "        藤原辰史",
+        "        詹姆斯·C. 斯科特",
+        "        冈田晓生",
+        "        丹尼尔·奎因",
+        "        安彦良和",
+        "        大仓源次郎",
+        "        2023 年的坂本图书",
+        "        坂本龙一年表",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34974269.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 坂本龙一",
+            "link": "https://book.douban.com/search/%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        },
+        {
+            "text": "博集天卷",
+            "link": "https://book.douban.com/producers/20"
+        },
+        {
+            "text": "白荷",
+            "link": "https://book.douban.com/author/4638388"
+        }
+    ],
+    "tag": "随笔"
+}

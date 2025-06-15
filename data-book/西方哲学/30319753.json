@@ -1,0 +1,83 @@
+{
+    "title": "哲学之美",
+    "bookInfo": {
+        "作者": "[德] 艾克哈特·玛腾斯",
+        "出版社": "北京联合出版公司",
+        "译者": "陈惠雯 / 任扬",
+        "出版年": "2018-7",
+        "定价": "42",
+        "装帧": "平装",
+        "ISBN": "9787559621627"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    这是一部生动的哲学史    本书作者艾克哈特·玛腾斯是汉堡大学的知名教授，在希腊哲学、德国古典哲学领域都是quanwei。本书梳理了西方哲学的脉络，并创造性地将神话中的西西弗斯描述成diyi位哲学家，赋予了哲学以新的活力。    这是一本通俗易懂的哲学入门书    本书不是一本正经地探讨哲学概念，而是将抽象的术语转化成具象的事物。作者将枯燥的哲学概念转化成清晰的西西弗斯的“巨石”、柏拉图的“洞穴”、海德格尔的“开花的树”等等具体的形象，帮助读者理解。    这是一本亲切友好的问题之书    本书不是自上而下的灌输知识，而是像朋友一样亲切地与朋友交谈。本书以提问的形式娓娓道来，希望读者能够从这些问题中获得受益终身的启发。    什么是真实？——柏拉图    如何证明我存在？——笛卡尔    人是什么？——康德    了解书中哲学家的挑衅文字和思想，批判地加以思考，这需要一定的脑力，同时也带来自由思考的乐趣，让人筋疲力竭却感受到无限美好。历经思想的撕扯折磨，zui后可以得到惊喜的洞见，也是一种知性享受。本书贯穿从古代到当代的哲学史，让我们以哲学zuihao的形式来认识哲学：    是挑衅，是生活，是要让我们和世界变得更好。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "13.0%",
+        "four_star_rate": "27.3%",
+        "three_star_rate": "44.2%",
+        "two_star_rate": "10.4%",
+        "one_star_rate": "5.2%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "18.90元",
+            "link": "https://book.douban.com/link2/?lowest=1889&pre=0&vendor=jingdong&srcpage=subject&price=1889&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olVQIFXFpZCEsRM2gLG18SWgIGVV5fOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocU11dDEwQB2sJG1kKBENeCW4YSy10SCkOUDhrWg97EywpEg0RHXVoF1clWgMFUllUC0wnA2sJH18lbQYDZB8zC0oTAGwBK1kVXAcHVFZaC0onA2kNGl4dXw8AVlpUDHsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEBjgBE15FM1oEDgNfAEpKbWwAHVoQWgYEZFxcCUkVM184SRBVNg5iDVY1UQ58WxBXbhBwWwYDFj8DZkkVBAtDGTBIL24AFj8BSzR2V18LKw&cntvendor=2&srcsubj=30319753&type=bkbuy&subject=30319753"
+        },
+        {
+            "name": "中图网",
+            "price": "19.10元",
+            "link": "https://book.douban.com/link2/?lowest=1889&pre=0&vendor=bookschina&srcpage=subject&price=1910&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7885294.htm&cntvendor=2&srcsubj=30319753&type=bkbuy&subject=30319753"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30319753/",
+    "douban_id": "30319753",
+    "menu": [
+        "",
+        "        小心，牛虻！",
+        "        01| 我们究竟为何渴望自由？／1",
+        "        西西弗斯的巨石",
+        "        02| 生命之中什么是重要的？／21",
+        "        苏格拉底这只“牛虻”",
+        "        03| 我们能否认知现实？／45",
+        "        柏拉图的洞穴囚犯",
+        "        04| 我们能否幸福地生活？／71",
+        "        伊壁鸠鲁的“心灵风暴”",
+        "        05| 什么能慰藉我们？／89",
+        "        波爱修斯的“心灵医师”",
+        "        06| 我们能有多确定？／107",
+        "        笛卡尔的“炉边之梦”",
+        "        07| 我们需要多少贪婪？／135",
+        "        伯纳德·曼德维尔的《蜜蜂的寓言》",
+        "        08| 人类是什么？／155",
+        "        伊曼纽尔·康德的“头顶的星空”和“内心的道德法则”",
+        "        09| 科学是一切的尺度吗？／179",
+        "        马丁·海德格尔的“开花的树”",
+        "        10| 我们为什么需要判断力？／203",
+        "        汉娜·阿伦特的“无所依靠的思维”",
+        "        11| 今天哲学还能刺痛谁？／223",
+        "        哈里·法兰克福的《论废话》和公共哲学",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29863413.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] 艾克哈特·玛腾斯",
+            "link": "https://book.douban.com/search/%E8%89%BE%E5%85%8B%E5%93%88%E7%89%B9%C2%B7%E7%8E%9B%E8%85%BE%E6%96%AF"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "陈惠雯",
+            "link": "https://book.douban.com/search/%E9%99%88%E6%83%A0%E9%9B%AF"
+        },
+        {
+            "text": "任扬",
+            "link": "https://book.douban.com/search/%E4%BB%BB%E6%89%AC"
+        }
+    ],
+    "tag": "西方哲学"
+}

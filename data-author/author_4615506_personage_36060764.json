@@ -1,0 +1,139 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "中国诗史",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34384941.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35870979/",
+                        "year": "2022",
+                        "id": 35870979
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "中国文学史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34384940.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35870980/",
+                        "year": "2022",
+                        "id": 35870980
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "王维诗品汇-中国古典诗词品汇",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34182084.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35838530/",
+                        "year": "2022",
+                        "id": 35838530
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "诗学散论",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s3391892.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3324362/",
+                        "year": "2008",
+                        "id": 3324362
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "东晋玄言诗派研究",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s5691222.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1153901/",
+                        "year": "2004",
+                        "id": 1153901
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "天天读宋词",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s5758502.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1098625/",
+                        "year": "2002",
+                        "id": 1098625
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "天天读唐诗",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s5758570.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1098626/",
+                        "year": "2002",
+                        "id": 1098626
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "魏晋南北朝诗学",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33439390.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1643572/",
+                        "year": "2000",
+                        "id": 1643572
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "刘长卿诗歌透视",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s3387449.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3284483/",
+                        "year": "1994",
+                        "id": 3284483
+                    }
+                }
+            ],
+            "total": 9
+        }
+    },
+    "author_link": "https://book.douban.com/author/4615506/",
+    "author_douban_id": "4615506",
+    "personage_id": 36060764,
+    "name": [
+        "陈顺智",
+        "Shunzhi Chen"
+    ],
+    "intro": "陈顺智，男，湖北石首人，哲学博士。现为武汉大学文学院教授、博士生导师。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/437d342a0d38a83b6bcbcc3a61852c4a.jpg",
+    "sex": 1,
+    "birth_place": [
+        "中国",
+        "湖北",
+        "石首"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

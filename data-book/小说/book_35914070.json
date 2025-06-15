@@ -1,0 +1,88 @@
+{
+    "title": "生活在别处",
+    "bookInfo": {
+        "作者": "米兰·昆德拉",
+        "出版社": "上海译文出版社",
+        "原作名": "La vie est ailleurs",
+        "译者": "袁筱一",
+        "出版年": "2022-9",
+        "页数": "425",
+        "定价": "75.00",
+        "装帧": "平装",
+        "丛书": "米兰·昆德拉作品系列（2022版）",
+        "ISBN": "9787532789801"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "43.3%",
+        "four_star_rate": "42.7%",
+        "three_star_rate": "12.3%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4562822/",
+            "name": "米兰·昆德拉",
+            "role": "作者",
+            "douban_id": "4562822"
+        },
+        {
+            "link": "https://book.douban.com/author/4517336/",
+            "name": "袁筱一",
+            "role": "译者",
+            "douban_id": "4517336"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "74.99元",
+            "link": "https://read.douban.com/ebook/407068712/?dcs=subject-buylink&dcm=douban&dct=35914070"
+        },
+        {
+            "name": "得到",
+            "price": "74.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=z4R9BQ7pP4ZEaXYkx8KvRdljeyqo608Q7NW1m2bMAO9NnDL7gBGQr5VzJqrvmEVN&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "37.50元",
+            "link": "https://book.douban.com/link2/?lowest=3750&pre=0&vendor=jingdong&srcpage=subject&price=3750&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVkXWgcBVG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOAQ4hWyt3AidNZCtsHXxXMV8JcU0RYQsIdVlNA3pSAQ1dUA5jdzpYHlsdFBFCWCokdCtgShBMb1lhBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ4Dlo5ayhjaA9sXzNjQ01QHBktcRtBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFhfCUIfA2g4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTVQMLBFszVE1AXTRJGRh7XQcBVlxZCk0nAW4JGVklbTZXBCIOaCsWSyp3ayJVJ1NnVQokDk11Z29mGQNLIVZXB14FTT9jVj8NG1NcbQUy&cntvendor=5&srcsubj=35914070&type=bkbuy&subject=35914070"
+        },
+        {
+            "name": "当当网",
+            "price": "71.10元",
+            "link": "https://book.douban.com/link2/?lowest=3750&pre=0&vendor=dangdang&srcpage=subject&price=7109&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35914070%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29448581&cntvendor=5&srcsubj=35914070&type=bkbuy&subject=35914070"
+        },
+        {
+            "name": "中图网",
+            "price": "49.00元",
+            "link": "https://book.douban.com/link2/?lowest=3750&pre=0&vendor=bookschina&srcpage=subject&price=4900&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8921921.htm&cntvendor=5&srcsubj=35914070&type=bkbuy&subject=35914070"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35914070/",
+    "douban_id": "35914070",
+    "menu": [
+        "",
+        "        第一部  诗人诞生",
+        "        1",
+        "        第二部  克萨维尔",
+        "        77",
+        "        第三部  诗人自渎",
+        "        115",
+        "        第四部  诗人在奔跑",
+        "        205",
+        "        第五部  诗人嫉妒了",
+        "        245",
+        "        第六部  四十来岁的男人",
+        "        349",
+        "        第七部  诗人死去",
+        "        381",
+        "        撒旦的视角 /弗朗索瓦·里卡尔",
+        "        415",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

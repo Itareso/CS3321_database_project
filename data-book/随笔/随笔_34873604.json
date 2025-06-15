@@ -1,0 +1,130 @@
+{
+    "title": "古今之争",
+    "bookInfo": {
+        "作者": "[英]C.S.路易斯",
+        "出版社": "华东师范大学出版社",
+        "译者": "邓军海",
+        "出版年": "2021-10",
+        "页数": "704",
+        "定价": "88",
+        "装帧": "精装",
+        "丛书": "C.S.路易斯作品集（精装新版）",
+        "ISBN": "9787567597617"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "63.1%",
+        "four_star_rate": "21.3%",
+        "three_star_rate": "13.1%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4587214/",
+            "name": "刘易斯",
+            "role": "作者",
+            "douban_id": "4587214"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "88.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=ZykJDGjQ7AOLNa642rbP8dkEgemKDwd8QlNwXoVRjpBxl95MJzqvYGynZ18MEl5B&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "62.20元",
+            "link": "https://book.douban.com/link2/?lowest=5560&pre=0&vendor=jingdong&srcpage=subject&price=6220&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV4RXAcBUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUVpcCUgSHDZNRwYlGHFxMTg_Sy13AHVfYyhOW11nFxc_TkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFhfCkkQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVVsCFgKSgxDVixmG1oSVQMDVlhtCkoWAW04K2tMHFhAJFsPSiwUUA1oQDhLWHVFIAAISy15ASpAbBpoHwRUMzg7UQpIXiR_K1gl&cntvendor=4&srcsubj=34873604&type=bkbuy&subject=34873604"
+        },
+        {
+            "name": "当当网",
+            "price": "62.20元",
+            "link": "https://book.douban.com/link2/?lowest=5560&pre=0&vendor=dangdang&srcpage=subject&price=6220&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34873604%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29311870&cntvendor=4&srcsubj=34873604&type=bkbuy&subject=34873604"
+        },
+        {
+            "name": "中图网",
+            "price": "55.60元",
+            "link": "https://book.douban.com/link2/?lowest=5560&pre=0&vendor=bookschina&srcpage=subject&price=5560&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8718019.htm&cntvendor=4&srcsubj=34873604&type=bkbuy&subject=34873604"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34873604/",
+    "douban_id": "34873604",
+    "menu": [
+        "",
+        "        编选说明",
+        "        第一编 古今之变",
+        "        1论时代分期",
+        "        2高雅与通俗",
+        "        3“百合花一旦腐朽”",
+        "        4善工与善行",
+        "        5论虚空",
+        "        6大迷思之葬礼",
+        "        7历史主义",
+        "        8空荡荡的宇宙",
+        "        9现代人及其思想范畴",
+        "        10现代人的心灵习惯",
+        "        11古今之变",
+        "        12论古书阅读",
+        "        13两场讲演",
+        "        14工具房里的一则默想",
+        "        15布佛氏论证：20世纪思想之根基",
+        "        16“可怕的东东”",
+        "        17宗教与科学",
+        "        18自然法则",
+        "        19牛津苏格拉底学会之成立",
+        "        20最后的访谈",
+        "        第二编 道德论集",
+        "        1伦理学小议",
+        "        2主观论之毒害",
+        "        3善恶二元论之纰缪",
+        "        4教条与宇宙",
+        "        5人事与天命",
+        "        6人兔之间",
+        "        7“困苦的罪人”",
+        "        8随想",
+        "        9闹心的X君",
+        "        10动物的痛苦",
+        "        11民族悔改之危险",
+        "        12看待自我之两途",
+        "        13第三诫命之默想",
+        "        14断章",
+        "        15生物解剖",
+        "        16幕后",
+        "        17复兴抑或衰微",
+        "        18首要及次要之事",
+        "        19记宴",
+        "        20人道主义刑罚理论",
+        "        21甚诞节与圣诞节：希罗多德佚书一卷",
+        "        22圣诞节对我意味着什么",
+        "        23雪中少年犯",
+        "        24进步是否可能：论福利国家之情愿为奴",
+        "        25我们并无“幸福权”",
+        "        26神话成真",
+        "        27教育与承传",
+        "        译后记 路易斯与古今之争",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34011782.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英]C.S.路易斯",
+            "link": "https://book.douban.com/search/C.S.%E8%B7%AF%E6%98%93%E6%96%AF"
+        },
+        {
+            "text": "华东师范大学出版社",
+            "link": "https://book.douban.com/press/2486"
+        },
+        {
+            "text": "邓军海",
+            "link": "https://book.douban.com/search/%E9%82%93%E5%86%9B%E6%B5%B7"
+        },
+        {
+            "text": "C.S.路易斯作品集（精装新版）",
+            "link": "https://book.douban.com/series/19947"
+        }
+    ],
+    "tag": "随笔"
+}

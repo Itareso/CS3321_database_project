@@ -1,0 +1,78 @@
+{
+    "title": "那些忧伤的年轻人",
+    "bookInfo": {
+        "作者": "许知远",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "理想国",
+        "出版年": "2019-9",
+        "页数": "399",
+        "丛书": "理想国·许知远作品",
+        "ISBN": "9787559439147"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "14.4%",
+        "four_star_rate": "35.5%",
+        "three_star_rate": "39.0%",
+        "two_star_rate": "8.6%",
+        "one_star_rate": "2.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4556323/",
+            "name": "许知远",
+            "role": "作者",
+            "douban_id": "4556323"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "33.60元",
+            "link": "https://read.douban.com/ebook/125610832/?dcs=subject-buylink&dcm=douban&dct=34661944"
+        },
+        {
+            "name": "得到",
+            "price": "33.60元",
+            "link": "https://www.dedao.cn/ebook/detail?id=nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg04JXR3JzxbE9LZl1o8RkGd2BPYv4x6d9meB&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "37.50元",
+            "link": "https://book.douban.com/link2/?lowest=3180&pre=0&vendor=jingdong&srcpage=subject&price=3750&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0UVQYKVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUl9VCEMWHDZNRwYlFUdLJx4qehVyeAlecgcTQ1MGFAYFTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcFUl9fC0gfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHg8UWQBsCFgKTE8XRjhmG1odXgMAXFdtCkoWAW04K2tlOGNAKlsgUElqfyQLaS5uNlxlIgNZCwB5AQl8XT5NHwQCVhsYeC5heC5OK1gl&cntvendor=5&srcsubj=34661944&type=bkbuy&subject=34661944"
+        },
+        {
+            "name": "当当网",
+            "price": "53.80元",
+            "link": "https://book.douban.com/link2/?lowest=3180&pre=0&vendor=dangdang&srcpage=subject&price=5380&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34661944%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28522526&cntvendor=5&srcsubj=34661944&type=bkbuy&subject=34661944"
+        },
+        {
+            "name": "中图网",
+            "price": "31.80元",
+            "link": "https://book.douban.com/link2/?lowest=3180&pre=0&vendor=bookschina&srcpage=subject&price=3180&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8899100.htm&cntvendor=5&srcsubj=34661944&type=bkbuy&subject=34661944"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34661944/",
+    "douban_id": "34661944",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33471995.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "许知远",
+            "link": "https://book.douban.com/search/%E8%AE%B8%E7%9F%A5%E8%BF%9C"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "理想国",
+            "link": "https://book.douban.com/producers/4"
+        },
+        {
+            "text": "理想国·许知远作品",
+            "link": "https://book.douban.com/series/48991"
+        }
+    ],
+    "tag": "中国文学"
+}

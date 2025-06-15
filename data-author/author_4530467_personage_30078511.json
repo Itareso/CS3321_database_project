@@ -1,0 +1,162 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "鬍子有臉（二版）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35055774.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37193568/",
+                        "year": "2025",
+                        "id": 37193568
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "象是笨蛋（二版）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35055773.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37193567/",
+                        "year": "2025",
+                        "id": 37193567
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "八月浮槎",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35055769.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37193563/",
+                        "year": "2025",
+                        "id": 37193563
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "石头与桃花",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34976289.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36832314/",
+                        "year": "2024",
+                        "id": 36832314
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "可惜，葆拉",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34909686.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36966463/",
+                        "year": "2024",
+                        "id": 36966463
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "玩具和房子",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34909685.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36966464/",
+                        "year": "2024",
+                        "id": 36966464
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "畫自己的畫",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34909687.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36966465/",
+                        "year": "2024",
+                        "id": 36966465
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "西西看電影（下）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34874329.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36909415/",
+                        "year": "2024",
+                        "id": 36909415
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "港島吾愛",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34588798.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36478467/",
+                        "year": "2023",
+                        "id": 36478467
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "左手之思",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34589554.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36478459/",
+                        "year": "2023",
+                        "id": 36478459
+                    }
+                }
+            ],
+            "total": 54
+        }
+    },
+    "author_link": "https://book.douban.com/author/4530467/",
+    "author_douban_id": "4530467",
+    "personage_id": 30078511,
+    "name": [
+        "西西",
+        "Yin Cheung"
+    ],
+    "intro": "西西，女，1938年生于上海。原名张彦、张爱伦，笔名蓝子、皇冠、凯旋门。当代香港女作家。1957年进入葛量洪教育学院，毕业后任教于官立小学。西西作为官校教师，在70年代曾积极参与争取教师权益的连动。在台港读者转介中国大陆新时期的作家、作品，先后为台湾洪范书店主编了四本八十年代的中国大陆小说选集《红高粱》、《阁楼》﹑《爆炸》、《第6部门》。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30078511/photo/2907177514",
+        "https://www.douban.com/personage/30078511/photo/2907177513",
+        "https://www.douban.com/personage/30078511/photo/2907177509",
+        "https://www.douban.com/personage/30078511/photo/2907177507",
+        "https://www.douban.com/personage/30078511/photo/2907177505"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2907177514.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907177513.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907177509.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907177507.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907177505.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/img/author/medium/public/1497418700.57.jpg",
+    "更多中文名": "张彦(原名) / 张爱伦",
+    "更多外文名": "Ellen",
+    "sex": 0,
+    "birth_date": 1937,
+    "death_date": 2022,
+    "age": 86,
+    "profession": [
+        "作者"
+    ]
+}

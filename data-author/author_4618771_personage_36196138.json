@@ -1,0 +1,67 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "孔雀菩提",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34606297.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36439212/",
+                        "year": "2023",
+                        "id": 36439212
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "狂想一九九三",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33875359.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35433077/",
+                        "year": "2021",
+                        "id": 35433077
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "2020青春文学",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33875991.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35433909/",
+                        "year": "2021",
+                        "id": 35433909
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4618771/",
+    "author_douban_id": "4618771",
+    "personage_id": 36196138,
+    "name": [
+        "焦典",
+        "Dian Jiao"
+    ],
+    "intro": "焦典，1996年生，北京师范大学文学创作博士研究生在读，导师莫言。小说及诗歌发表于《人民文学》、《收获》、《十月》、《花城》、《文艺报》、《雨花》、《诗刊》、《星星》、《青春》、《北京文学》、《边疆文学》、《飞天》、《汉诗》等。作品入选《中华文学选刊》、中国作协创研部编选《2022年中国诗歌精选》、人民文学编辑部编选《2020青春文学》等多个选本。获2020年“中国·星星年度大学生诗人奖”；第六届“青春文学奖”中短篇小说奖；首届“京师—牛津青年文学之星奖·金奖”等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/d53046d57aae5de29db9b127d05cec9a.jpg",
+    "sex": 0,
+    "birth_date": 1996,
+    "age": 30,
+    "birth_place": [
+        "中国",
+        "云南"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "title": "我在中国的童年",
+    "bookInfo": {
+        "作者": "[美] 李恩富",
+        "出版社": "福建教育出版社",
+        "原作名": "When I was a boy in China",
+        "译者": "刘畅",
+        "出版年": "2013-5",
+        "页数": "212",
+        "定价": "25.00元",
+        "装帧": "平装",
+        "ISBN": "9787533460433"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.3%",
+        "four_star_rate": "34.2%",
+        "three_star_rate": "28.9%",
+        "two_star_rate": "10.5%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4529820/",
+            "name": "刘畅",
+            "role": "译者",
+            "douban_id": "4529820"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "17.00元",
+            "link": "https://book.douban.com/link2/?lowest=1700&pre=0&vendor=jingdong&srcpage=subject&price=1700&pos=1&url=https%3A%2F%2Fitem.jd.com%2F70143805349.html&cntvendor=1&srcsubj=24744501&type=bkbuy&subject=24744501"
+        }
+    ],
+    "url": "https://book.douban.com/subject/24744501/",
+    "douban_id": "24744501",
+    "menu": [
+        "",
+        "        作者小传",
+        "        ",
+        "        001／第一章 幼时记忆",
+        "        011／第二章 家庭伦理",
+        "        019／第三章 治家理家",
+        "        027／第四章 休闲娱乐",
+        "        035／第五章 女孩子们",
+        "        045／第六章 学校时光",
+        "        057／第七章 宗教信仰",
+        "        065／第八章 节日习俗",
+        "        075／第九章 故事情怀",
+        "        087／第十章 离开家乡",
+        "        095／第十一章 留洋集训",
+        "        101／第十二章 初入美国",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s27180821.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 李恩富",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E6%81%A9%E5%AF%8C"
+        },
+        {
+            "text": "福建教育出版社",
+            "link": "https://book.douban.com/press/2178"
+        },
+        {
+            "text": "刘畅",
+            "link": "https://book.douban.com/author/4529820/"
+        }
+    ],
+    "tag": "回忆录"
+}

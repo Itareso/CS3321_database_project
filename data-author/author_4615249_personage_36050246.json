@@ -1,0 +1,61 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "于是我问我的心",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37156655/",
+                        "year": "2025",
+                        "id": 37156655
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "数千个像我一样的女孩",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34629164.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36533865/",
+                        "year": "2023",
+                        "id": 36533865
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "少女与霓裳",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33302730.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/33434639/",
+                        "year": "2019",
+                        "id": 33434639
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4615249/",
+    "author_douban_id": "4615249",
+    "personage_id": 36050246,
+    "name": [
+        "简洁",
+        "Jie Jian"
+    ],
+    "intro": "青年作家。中山大学硕士。资深编辑，豆瓣阅读作者。已出版文集《少女与霓裳》。豆瓣阅读小说《数千个像我一样的女孩》《废刊少女》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/1790c8d340a94acfc5ca26efeb7ff690.jpg",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

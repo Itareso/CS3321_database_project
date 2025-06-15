@@ -1,0 +1,41 @@
+{
+    "title": "猫を棄てる",
+    "bookInfo": {
+        "作者": "村上春樹",
+        "出版社": "文藝春秋",
+        "副标题": "父親について語るとき",
+        "出版年": "2020-4-23",
+        "页数": "104",
+        "定价": "JPY 1200円",
+        "装帧": "单行本",
+        "ISBN": "9784163911939"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "51.6%",
+        "four_star_rate": "38.5%",
+        "three_star_rate": "9.3%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502361/",
+            "name": "村上春树",
+            "role": "作者",
+            "douban_id": "4502361"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/34980195/",
+    "douban_id": "34980195",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33644634.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "村上春樹",
+            "link": "https://book.douban.com/author/4502361"
+        }
+    ],
+    "tag": "日本文学"
+}

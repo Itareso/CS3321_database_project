@@ -1,0 +1,68 @@
+{
+    "title": "二次遗书",
+    "bookInfo": {
+        "作者": "汪彦中",
+        "出版社": "江苏凤凰文艺出版社",
+        "原作名": "天国之路",
+        "出版年": "2018",
+        "页数": "288",
+        "定价": "39.8",
+        "装帧": "平装",
+        "ISBN": "9787559413994"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.6%",
+        "four_star_rate": "32.3%",
+        "three_star_rate": "33.9%",
+        "two_star_rate": "6.5%",
+        "one_star_rate": "4.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4628352/",
+            "name": "汪彦中",
+            "role": "作者",
+            "douban_id": "4628352"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "17.34元",
+            "link": "https://book.douban.com/link2/?lowest=1730&pre=0&vendor=jingdong&srcpage=subject&price=1734&pos=1&url=https%3A%2F%2Fitem.jd.com%2F31686420855.html&cntvendor=2&srcsubj=27200156&type=bkbuy&subject=27200156"
+        },
+        {
+            "name": "中图网",
+            "price": "17.30元",
+            "link": "https://book.douban.com/link2/?lowest=1730&pre=0&vendor=bookschina&srcpage=subject&price=1730&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7864425.htm&cntvendor=2&srcsubj=27200156&type=bkbuy&subject=27200156"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27200156/",
+    "douban_id": "27200156",
+    "menu": [
+        "",
+        "        症候",
+        "        复活迅猛龙",
+        "        二次遗书",
+        "        警车之王",
+        "        失控的动物园",
+        "        寻找希尔",
+        "        异变",
+        "        贩卖人生",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s29846111.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "汪彦中",
+            "link": "https://book.douban.com/author/4628352"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        }
+    ],
+    "tag": "科幻"
+}

@@ -1,0 +1,70 @@
+{
+    "title": "弗勒希",
+    "bookInfo": {
+        "作者": "[英] 弗吉尼亚·伍尔夫",
+        "出版社": "上海译文出版社",
+        "原作名": "Flush",
+        "译者": "吴洁静",
+        "出版年": "2024-4",
+        "页数": "176",
+        "定价": "62",
+        "装帧": "精装",
+        "丛书": "伍尔夫文集·布面精装版",
+        "ISBN": "9787532794102"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    伍尔夫难得的谐趣之作，是她最畅销的作品之一，堪称阅读伍尔夫的最佳入门    透过为一条小狗立传，致敬另一位杰出女性，再现勃朗宁夫妇的不凡爱情和维多利亚时代光影世相    复古书衣致敬伍尔夫姐姐瓦妮莎•贝尔创意设计，环衬画作由瓦妮莎•贝尔创作    弗勒希是一条很有来头的小狗，他的主人是英国文学史上的传奇女子伊丽莎白•巴雷特（即后来的勃朗宁夫人）。弗勒希与她从相互抵触到形影不离，陪她度过缠绵病榻的岁月，又跟随她和勃朗宁先生私奔，从阴冷潮湿的英格兰来到阳光明媚的意大利，见证了两位诗人幸福的婚姻生活。在《弗勒希》中，作者以幽默诙谐的笔法，借着给狗立传，再现了这对诗人夫妇超越时空的浪漫爱情。同时，作者还以狗的视角，反映了维多利亚时代的社会矛盾和都市人对自然野趣的向往，而作者别开生面的女性主义思想，更是给这部小品似的作品增添了令人回味的深度。    特别收入瓦妮莎•贝尔手绘环衬图，附伍尔夫深情回忆爱犬的随笔名篇《记一位忠实的朋友》。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "36.4%",
+        "four_star_rate": "50.6%",
+        "three_star_rate": "11.9%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4544620/",
+            "name": "弗吉尼亚·伍尔夫",
+            "role": "作者",
+            "douban_id": "4544620"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "61.99元",
+            "link": "https://read.douban.com/ebook/468596936/?dcs=subject-buylink&dcm=douban&dct=36799357"
+        },
+        {
+            "name": "得到",
+            "price": "61.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=bxEYR1zAbZMmVzK4p1oxl67XeNaB83OpV7rw92GJERgryYQdDnqjkPLvO5eOZ8Nq&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "31.00元",
+            "link": "https://book.douban.com/link2/?lowest=3100&pre=0&vendor=jingdong&srcpage=subject&price=3100&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwMAU1ldCEwQBV8IGlsWWwYCU1tfCE0QC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA2wOG1sSWAQCUllVFxJSXzI4Zjt1JFh8MlY_Sw8NSitLXCN0IkBSJFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXWA8BXFhfOEkXAm4NG1MSXgcyVFhYCUsfCmcIHFkTXjYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUl1dDEwWbTMOTBpNWVFGOl5cDUoXBW8KK1kUXAQAZG5tciJDSBENXAxFGlxcUF0heC5rQBpATRwWMwR4KR80cgBncT9bGBsQAmB7NG5eOA&cntvendor=4&srcsubj=36799357&type=bkbuy&subject=36799357"
+        },
+        {
+            "name": "中图网",
+            "price": "40.70元",
+            "link": "https://book.douban.com/link2/?lowest=3100&pre=0&vendor=bookschina&srcpage=subject&price=4070&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9309239.htm&cntvendor=4&srcsubj=36799357&type=bkbuy&subject=36799357"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36799357/",
+    "douban_id": "36799357",
+    "menu": [
+        "",
+        "        第一章 三英里十字村",
+        "        第二章 背面的卧室",
+        "        第三章 风帽男",
+        "        第四章 白教堂",
+        "        第五章 意大利",
+        "        第六章 尾声",
+        "        资料来源",
+        "        注释",
+        "        附录 记一位忠实的朋友",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

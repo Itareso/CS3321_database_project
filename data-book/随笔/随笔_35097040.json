@@ -1,0 +1,98 @@
+{
+    "title": "你要高雅",
+    "bookInfo": {
+        "作者": "郭德纲",
+        "出版社": "浙江文艺出版社",
+        "出品方": "果麦文化",
+        "副标题": "郭德纲讲市井生活",
+        "出版年": "2020-6",
+        "页数": "176",
+        "定价": "39.80元",
+        "装帧": "平装",
+        "丛书": "郭德纲讲",
+        "ISBN": "9787533961299"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "11.9%",
+        "four_star_rate": "29.4%",
+        "three_star_rate": "49.4%",
+        "two_star_rate": "8.0%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/713306/",
+            "name": "郭德纲",
+            "role": "作者",
+            "douban_id": "713306"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.99元",
+            "link": "https://read.douban.com/ebook/339913281/?dcs=subject-buylink&dcm=douban&dct=35097040"
+        },
+        {
+            "name": "得到",
+            "price": "29.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=lxaVvndNG6D4kgLJ2OKxqVMmE1zXPwVxJ6WAdjyQeYR75vbaBnr9ol8pZERLg1my&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.90元",
+            "link": "https://book.douban.com/link2/?lowest=1490&pre=0&vendor=jingdong&srcpage=subject&price=1989&pos=3&url=https%3A%2F%2Fitem.jd.com%2F12685803.html&cntvendor=4&srcsubj=35097040&type=bkbuy&subject=35097040"
+        },
+        {
+            "name": "中图网",
+            "price": "14.90元",
+            "link": "https://book.douban.com/link2/?lowest=1490&pre=0&vendor=bookschina&srcpage=subject&price=1490&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8346196.htm&cntvendor=4&srcsubj=35097040&type=bkbuy&subject=35097040"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35097040/",
+    "douban_id": "35097040",
+    "menu": [
+        "",
+        "        听戏",
+        "        棋牌",
+        "        货币",
+        "        挣钱",
+        "        消费",
+        "        开车",
+        "        旅游",
+        "        整容",
+        "        午睡",
+        "        吃甜",
+        "        吃辣",
+        "        叫外卖",
+        "        姓氏",
+        "        拜师",
+        "        职场",
+        "        随份子",
+        "        年会",
+        "        春运",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33665208.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "郭德纲",
+            "link": "https://book.douban.com/search/%E9%83%AD%E5%BE%B7%E7%BA%B2"
+        },
+        {
+            "text": "浙江文艺出版社",
+            "link": "https://book.douban.com/press/2384"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "郭德纲讲",
+            "link": "https://book.douban.com/series/52845"
+        }
+    ],
+    "tag": "随笔"
+}

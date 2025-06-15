@@ -1,0 +1,145 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "惹作",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35045166.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37097311/",
+                        "year": "2025",
+                        "id": 37097311
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "收获长篇小说2024秋卷",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35003145.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37110020/",
+                        "year": "2024",
+                        "id": 37110020
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "盐镇",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34392050.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36193112/",
+                        "year": "2023",
+                        "id": 36193112
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.4,
+                        "title": "骚客文艺：生而为人",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29980823.jpg",
+                        "rating_star": 2.5,
+                        "url": "https://book.douban.com/subject/30435600/",
+                        "year": "2019",
+                        "id": 30435600
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "soul客文艺：聚响",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29682539.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27599887/",
+                        "year": "2018",
+                        "id": 27599887
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "搜历史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29865280.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30321854/",
+                        "year": "2018",
+                        "id": 30321854
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "我们是否还拥有灵魂",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29640037.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27605178/",
+                        "year": "2017",
+                        "id": 27605178
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "NBA七宗罪",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s6275156.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/5921388/",
+                        "year": "2011",
+                        "id": 5921388
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "亲历NBA",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s1199052.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/1006631/",
+                        "year": "2004",
+                        "id": 1006631
+                    }
+                }
+            ],
+            "total": 9
+        }
+    },
+    "author_link": "https://book.douban.com/author/4619627/",
+    "author_douban_id": "4619627",
+    "personage_id": 36235354,
+    "name": [
+        "易小荷",
+        "Xiaohe Yi"
+    ],
+    "intro": "易小荷，四川自贡人。著名记者，资深媒体人。曾经是篮球界转会费最高的女记者。后转型成为《南都周刊》主笔、编委。2017—2021年，创办自媒体公号《骚客文艺》。2023年2月，出版《盐镇》。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/36235354/photo/2918830880",
+        "https://www.douban.com/personage/36235354/photo/2918830879",
+        "https://www.douban.com/personage/36235354/photo/2918830878",
+        "https://www.douban.com/personage/36235354/photo/2918830815",
+        "https://www.douban.com/personage/36235354/photo/2918830811"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2918830880.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2918830879.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2918830878.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2918830815.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2918830811.webp"
+    ],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/a22de82a4910ab5028f4324e4871c37e.jpg",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

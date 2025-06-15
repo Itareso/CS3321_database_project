@@ -1,0 +1,65 @@
+{
+    "title": "触摸星辰",
+    "bookInfo": {
+        "作者": "邓思渊",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "出版年": "2020-10",
+        "页数": "287",
+        "定价": "42",
+        "装帧": "平装",
+        "丛书": "科幻世界·中国科幻基石丛书",
+        "ISBN": "9787536497597"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "27.9%",
+        "four_star_rate": "29.3%",
+        "three_star_rate": "27.9%",
+        "two_star_rate": "6.4%",
+        "one_star_rate": "8.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4628353/",
+            "name": "邓思渊",
+            "role": "作者",
+            "douban_id": "4628353"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVoXVAcCU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOFxY_Szt-cS5jQDBtKVRmXDpZDU50WQl7dVlLHHNKVx0CVyB_ayxAQRpGKBFCWCokdC5gSm9MbyJ9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ5FVoDCg4UYgoKaQAVXGZaFx8efCNRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVCEgXAWg4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTVQMLBFszVE1BAipYRFN7XQYEVlxcC0snAW4JGVklbTZBHDweeCJlQgRTcCNhD2IKMFpYDShNZRxmGQVUKE4BFwECYyN_QCdSWghgbQUy&cntvendor=2&srcsubj=35006319&type=bkbuy&subject=35006319"
+        },
+        {
+            "name": "当当网",
+            "price": "42.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=dangdang&srcpage=subject&price=4200&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35006319%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29163908&cntvendor=2&srcsubj=35006319&type=bkbuy&subject=35006319"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35006319/",
+    "douban_id": "35006319",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33761108.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "邓思渊",
+            "link": "https://book.douban.com/author/4628353"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "科幻世界·中国科幻基石丛书",
+            "link": "https://book.douban.com/series/38"
+        }
+    ],
+    "tag": "科幻"
+}

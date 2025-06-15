@@ -1,0 +1,69 @@
+{
+    "title": "量子魔术师",
+    "bookInfo": {
+        "作者": "[加]德里克·昆什肯",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "the Quantum Magician",
+        "译者": "严伟",
+        "出版年": "2018-5",
+        "页数": "424",
+        "定价": "48",
+        "装帧": "平装",
+        "丛书": "世界流行科幻丛书",
+        "ISBN": "9787536490109"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.3%",
+        "four_star_rate": "44.6%",
+        "three_star_rate": "23.2%",
+        "two_star_rate": "3.2%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=jingdong&srcpage=subject&price=2400&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFkRWAMDVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOLSQKUjtIf2prUB1hLV5FFgI8eBtKBBBXdVl8L054JwQNCShLXxZyUzleORFCWCokcCtjYBhIbzJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZZCD0ibx9XAw9fXxt0NVJELzUjWzdRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFpVAE0XBm44G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CV10zVE1ASDEAGhx7XQYFUFZZDk8nAW4JGVklbTZ7LgkHeBRrBgxDXS9lBUFACD8tWBYQfDBmGTJnFXxxDg5caxdLehVAeRBxbQUy&cntvendor=3&srcsubj=30192878&type=bkbuy&subject=30192878"
+        },
+        {
+            "name": "当当网",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=dangdang&srcpage=subject&price=4800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30192878%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25270021&cntvendor=3&srcsubj=30192878&type=bkbuy&subject=30192878"
+        },
+        {
+            "name": "中图网",
+            "price": "35.10元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=bookschina&srcpage=subject&price=3510&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7812980.htm&cntvendor=3&srcsubj=30192878&type=bkbuy&subject=30192878"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30192878/",
+    "douban_id": "30192878",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29758350.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[加]德里克·昆什肯",
+            "link": "https://book.douban.com/search/%E5%BE%B7%E9%87%8C%E5%85%8B%C2%B7%E6%98%86%E4%BB%80%E8%82%AF"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "严伟",
+            "link": "https://book.douban.com/search/%E4%B8%A5%E4%BC%9F"
+        },
+        {
+            "text": "世界流行科幻丛书",
+            "link": "https://book.douban.com/series/1390"
+        }
+    ],
+    "tag": "科幻"
+}

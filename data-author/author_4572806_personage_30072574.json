@@ -1,0 +1,154 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "意外杀人事件",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34699441.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36414273/",
+                        "year": "2023",
+                        "id": 36414273
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "通宵俱乐部",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34326421.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36116602/",
+                        "year": "2022",
+                        "id": 36116602
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "未婚妻",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34377472.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36182693/",
+                        "year": "2022",
+                        "id": 36182693
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "Wake Me Up at 9:00 in the Morning",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34328788.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35157350/",
+                        "year": "2021",
+                        "id": 35157350
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "寡人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33997859.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35578831/",
+                        "year": "2021",
+                        "id": 35578831
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "骗子来到南方",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33853085.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35388957/",
+                        "year": "2021",
+                        "id": 35388957
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "咒语",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33907658.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35216468/",
+                        "year": "2021",
+                        "id": 35216468
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "下面，我该干些什么",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29984183.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30246918/",
+                        "year": "2019",
+                        "id": 30246918
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "阿乙作品精选（名家作品精选）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33515313.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34881241/",
+                        "year": "2019",
+                        "id": 34881241
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "鸟，看见我了",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29851140.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30253551/",
+                        "year": "2018",
+                        "id": 30253551
+                    }
+                }
+            ],
+            "total": 19
+        }
+    },
+    "author_link": "https://book.douban.com/author/4572806/",
+    "author_douban_id": "4572806",
+    "personage_id": 30072574,
+    "name": [
+        "阿乙",
+        "Guozhu Ai"
+    ],
+    "intro": "原名艾国柱，作家。1976年出生于江西瑞昌，毕业于警校。做过警察、体育编辑、文学编辑。曾任《天南》文学双月刊执行主编、铁葫芦图书公司文学主编。阿乙所驻书店内设有“阿乙荐书专区”，此区域内除了可以看到但丁、莎士比亚、卡夫卡、老舍等作家的作品，更有阿乙自己的作品《寡人》《模范青年》等。阿乙笔下的乡镇、小城以及人物，常给人一种似幻似真的感觉，堪称为有灵魂的小说。阿乙为这次驻店经历写的文章叫《自我训诫课》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/ecd81b3dbae068f4aebad676ccd15f3c.jpg",
+    "更多中文名": "艾国柱(原名)",
+    "sex": 1,
+    "birth_date": 1976,
+    "age": 50,
+    "birth_place": [
+        "中国",
+        "江西",
+        "瑞昌"
+    ],
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

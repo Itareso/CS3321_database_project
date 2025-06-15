@@ -1,0 +1,66 @@
+{
+    "title": "心",
+    "bookInfo": {
+        "作者": "[日本] 夏目漱石",
+        "出版社": "时代文艺出版社",
+        "译者": "[中国] 竺家荣",
+        "出版年": "2020-1",
+        "页数": "237",
+        "定价": "35",
+        "装帧": "平装",
+        "ISBN": "9787538761344"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "51.8%",
+        "four_star_rate": "38.2%",
+        "three_star_rate": "9.2%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503311/",
+            "name": "夏目漱石",
+            "role": "作者",
+            "douban_id": "4503311"
+        },
+        {
+            "link": "https://book.douban.com/author/4517305/",
+            "name": "竺家荣",
+            "role": "译者",
+            "douban_id": "4517305"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.33元",
+            "link": "https://book.douban.com/link2/?lowest=1632&pre=0&vendor=jingdong&srcpage=subject&price=1632&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXQ8CXFxUDkgQAl8IGloXWQEKVVldDkkTCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0MHFMUWgYEVlpUFxJSXzI4cwhCABheEwY4fxtcBTcBRQt9K2VjElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXQcHUV1bOEkXAm4NG1MSXgcyVFhYCUgWAGwAE1gSWDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUl0JCxwWbTMOTBhNAkcAOl5cD08QBW4LK1kUXAQAZG5tezdURRptThxwJWJbDF4KaAxTRxxqexl3MwR3Iw4hfg0XYQpTGl5VHGVDB25eOA&cntvendor=2&srcsubj=34444562&type=bkbuy&subject=34444562"
+        },
+        {
+            "name": "中图网",
+            "price": "26.50元",
+            "link": "https://book.douban.com/link2/?lowest=1632&pre=0&vendor=bookschina&srcpage=subject&price=2650&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8193375.htm&cntvendor=2&srcsubj=34444562&type=bkbuy&subject=34444562"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34444562/",
+    "douban_id": "34444562",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33837997.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日本] 夏目漱石",
+            "link": "https://book.douban.com/author/4503311"
+        },
+        {
+            "text": "时代文艺出版社",
+            "link": "https://book.douban.com/press/2589"
+        },
+        {
+            "text": "[中国] 竺家荣",
+            "link": "https://book.douban.com/author/4517305"
+        }
+    ],
+    "tag": "日本文学"
+}

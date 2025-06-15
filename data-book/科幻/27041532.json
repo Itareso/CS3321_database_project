@@ -1,0 +1,66 @@
+{
+    "title": "尤比克",
+    "bookInfo": {
+        "作者": "[美] 菲利普·迪克",
+        "出版社": "译林出版社",
+        "原作名": "Ubik",
+        "译者": "金明",
+        "出版年": "2017-10",
+        "页数": "265",
+        "定价": "45.00",
+        "装帧": "精装",
+        "丛书": "译林幻系列",
+        "ISBN": "9787544756525"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    “科幻鬼才”菲利普•迪克成长于西方科技文明创造出的崭新辉煌的时代。彼时，人类进入了太空，登上了月球，成功制造出第一台工业用机器人……科技的蓬勃发展也催生出主流科幻小说对人类创造力的无比自信，克拉克、阿西莫夫和海因莱因撑起了西方科幻的黄金时代。可是，迪克却反其道而行之，他的主人公迷惘于亦真亦假的世界上，挣扎于文明的陷落中，充满了对生命的依恋和对人性的追求。    《尤比克》是菲利普•迪克最深奥复杂的作品，《时代》周刊“1923年来百部经典”之一。迪克在小说中发明了一种设定：人死后都冰冻在“亡灵馆”里，访问者可以用一种基于光相子的技术手段，激发“中阴身人”的思维，让他们与活人对话。但是每对谈一次，那中阴身人就随着能量的消耗，滑向真正的死亡。而尤比克则是一种防止衰败的喷雾剂，防止人堕入彻底死亡。迪克创造了一个隐晦而闭塞、不停滑向死亡的宇宙，同往常一样，通过对生存本质的探讨，进入了对本体论的拷问。    乔•奇普为格伦•朗西特的反超能咨询公司工作，保护人们免受通灵师和先知的心灵窥探。在一次前往月球执行任务的过程中，朗西特的行动组遭遇埋伏，朗西特身亡。行动组成员迅速将朗西特的遗体送往苏黎世亡灵馆冰冻冷藏，并试图与他的大脑取得联系。然而，不仅没有成功联系上朗西特，行动组成员还发现，钱币、香烟等物品均在发生退转，时光似乎在倒流。究竟发生了什么事？\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "56.4%",
+        "four_star_rate": "34.4%",
+        "three_star_rate": "7.7%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4567460/",
+            "name": "菲利普·迪克",
+            "role": "作者",
+            "douban_id": "4567460"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.04元",
+            "link": "https://book.douban.com/link2/?lowest=2604&pre=0&vendor=jingdong&srcpage=subject&price=2604&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10026510228265.html&cntvendor=2&srcsubj=27041532&type=bkbuy&subject=27041532"
+        },
+        {
+            "name": "中图网",
+            "price": "34.70元",
+            "link": "https://book.douban.com/link2/?lowest=2604&pre=0&vendor=bookschina&srcpage=subject&price=3470&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7607973.htm&cntvendor=2&srcsubj=27041532&type=bkbuy&subject=27041532"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27041532/",
+    "douban_id": "27041532",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29578453.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 菲利普·迪克",
+            "link": "https://book.douban.com/author/4567460"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "金明",
+            "link": "https://book.douban.com/search/%E9%87%91%E6%98%8E"
+        },
+        {
+            "text": "译林幻系列",
+            "link": "https://book.douban.com/series/54333"
+        }
+    ],
+    "tag": "科幻"
+}

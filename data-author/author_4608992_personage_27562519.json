@@ -1,0 +1,115 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "海边的房间",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33939658.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35459915/",
+                        "year": "2021",
+                        "id": 35459915
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "九歌109年散文選",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33837228.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35363491/",
+                        "year": "2021",
+                        "id": 35363491
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "我與貍奴不出門",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s32308710.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/33431775/",
+                        "year": "2019",
+                        "id": 33431775
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "感覺有點奢侈的事",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27346604.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25916018/",
+                        "year": "2014",
+                        "id": 25916018
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "寂境",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27464626.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25983742/",
+                        "year": "2014",
+                        "id": 25983742
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "背後歌",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s26384210.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/24324713/",
+                        "year": "2013",
+                        "id": 24324713
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608992/",
+    "author_douban_id": "4608992",
+    "personage_id": 27562519,
+    "name": [
+        "黄丽群",
+        "Li-chun Huang"
+    ],
+    "intro": "黃麗群，1979年生，政大哲學系畢，曾獲時報文學獎短篇小說評審獎；聯合報文學獎短篇小說評審獎、短篇小說首獎；林榮三文學獎短篇小說二獎（首獎從缺）。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27562519/photo/2906229988",
+        "https://www.douban.com/personage/27562519/photo/2906229987",
+        "https://www.douban.com/personage/27562519/photo/2906229964",
+        "https://www.douban.com/personage/27562519/photo/2906229963",
+        "https://www.douban.com/personage/27562519/photo/2906229962"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2906229988.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2906229987.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2906229964.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2906229963.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2906229962.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/eed5491b2fb5969cfae415013a6f0bdc.jpg",
+    "sex": 0,
+    "birth_date": 1979,
+    "age": 47,
+    "birth_place": [
+        "中国台湾"
+    ],
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

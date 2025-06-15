@@ -1,0 +1,79 @@
+{
+    "title": "小王子",
+    "bookInfo": {
+        "作者": "[法] 安托万·德·圣埃克苏佩里 著 / 吴小鹭 森雨漫 编绘 / [法国] 安东尼·德·圣-埃克苏佩里",
+        "出版社": "云南美术出版社",
+        "出品方": "果麦文化",
+        "译者": "李继宏",
+        "出版年": "2020-1-10",
+        "页数": "140",
+        "定价": "78.00元",
+        "装帧": "精装",
+        "ISBN": "9787548938217"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "64.8%",
+        "four_star_rate": "27.8%",
+        "three_star_rate": "7.5%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/688281/",
+            "name": "安东尼·德·圣-埃克苏佩里",
+            "role": "作者",
+            "douban_id": "688281"
+        },
+        {
+            "link": "https://book.douban.com/author/4528877/",
+            "name": "李继宏",
+            "role": "译者",
+            "douban_id": "4528877"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "70.73元",
+            "link": "https://book.douban.com/link2/?lowest=2830&pre=0&vendor=jingdong&srcpage=subject&price=7073&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVkWXQUKVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVl1dC0MVHDZNRwYlCmRqFTk0TRRyUSd4EzscCHpXXEQATkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAU11YDUkUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gdWwVsCFgKShgUBT9mG1oRWgYKXV9tCkoWAW04K2tGB0RxC1s_bE1iShlzeQZ8FW91Vl4cDhR5AWwORQFcLlZpUiIhWxFACzlpK1gl&cntvendor=2&srcsubj=34923494&type=bkbuy&subject=34923494"
+        },
+        {
+            "name": "中图网",
+            "price": "28.30元",
+            "link": "https://book.douban.com/link2/?lowest=2830&pre=0&vendor=bookschina&srcpage=subject&price=2830&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8249645.htm&cntvendor=2&srcsubj=34923494&type=bkbuy&subject=34923494"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34923494/",
+    "douban_id": "34923494",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33554437.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法] 安托万·德·圣埃克苏佩里 著",
+            "link": "https://book.douban.com/search/%E5%AE%89%E6%89%98%E4%B8%87%C2%B7%E5%BE%B7%C2%B7%E5%9C%A3%E5%9F%83%E5%85%8B%E8%8B%8F%E4%BD%A9%E9%87%8C%20%E8%91%97"
+        },
+        {
+            "text": "吴小鹭 森雨漫 编绘",
+            "link": "https://book.douban.com/search/%E5%90%B4%E5%B0%8F%E9%B9%AD%20%E6%A3%AE%E9%9B%A8%E6%BC%AB%20%E7%BC%96%E7%BB%98"
+        },
+        {
+            "text": "[法国] 安东尼·德·圣-埃克苏佩里",
+            "link": "https://book.douban.com/author/688281"
+        },
+        {
+            "text": "云南美术出版社",
+            "link": "https://book.douban.com/press/2181"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "李继宏",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E7%BB%A7%E5%AE%8F"
+        }
+    ],
+    "tag": "经典"
+}

@@ -1,0 +1,76 @@
+{
+    "title": "吞食者",
+    "bookInfo": {
+        "作者": "刘慈欣 原著 / [法]让·大卫·摩文 改编 / 杨伟林 绘",
+        "出版社": "中信出版社",
+        "出品方": "漫传奇 / 漫传奇文化",
+        "副标题": "刘慈欣科幻漫画系列第2辑",
+        "原作名": "Devourer",
+        "译者": "谢倩雪",
+        "出版年": "2021-5",
+        "页数": "112",
+        "定价": "78.00元",
+        "丛书": "刘慈欣科幻漫画系列",
+        "ISBN": "9787521729719"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "42.2%",
+        "four_star_rate": "45.0%",
+        "three_star_rate": "11.5%",
+        "two_star_rate": "0.5%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "42.90元",
+            "link": "https://book.douban.com/link2/?lowest=4290&pre=0&vendor=jingdong&srcpage=subject&price=4290&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgEGXF1fAUMeCl8IGloXWQAAVVhUCE4XA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0MHVkUWw8CUV5dFxJSXzI4cDMROlwYXTg_AEhWVw0PAUF3WnldNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUVAMDUFxdOEkXAm4NG1MSXgcyVFhYCUgXBWcIGFsUVTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRVAkNX04XbTMOTVpQDVkAOl5dDEMSCmsBK1kUXAQAZG5tQxlAAx8BEi11X25-M1kcSBFffjpgbghjMwRdCBoPV0tAWQ8AfztsOFpWC25eOA&cntvendor=2&srcsubj=35424675&type=bkbuy&subject=35424675"
+        },
+        {
+            "name": "中图网",
+            "price": "54.00元",
+            "link": "https://book.douban.com/link2/?lowest=4290&pre=0&vendor=bookschina&srcpage=subject&price=5400&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8585535.htm&cntvendor=2&srcsubj=35424675&type=bkbuy&subject=35424675"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35424675/",
+    "douban_id": "35424675",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33875338.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣 原著",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3%20%E5%8E%9F%E8%91%97"
+        },
+        {
+            "text": "[法]让·大卫·摩文 改编",
+            "link": "https://book.douban.com/search/%E8%AE%A9%C2%B7%E5%A4%A7%E5%8D%AB%C2%B7%E6%91%A9%E6%96%87%20%E6%94%B9%E7%BC%96"
+        },
+        {
+            "text": "杨伟林 绘",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E4%BC%9F%E6%9E%97%20%E7%BB%98"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "漫传奇",
+            "link": "https://book.douban.com/producers/711"
+        },
+        {
+            "text": "漫传奇文化",
+            "link": "https://book.douban.com/producers/812"
+        },
+        {
+            "text": "谢倩雪",
+            "link": "https://book.douban.com/search/%E8%B0%A2%E5%80%A9%E9%9B%AA"
+        },
+        {
+            "text": "刘慈欣科幻漫画系列",
+            "link": "https://book.douban.com/series/50609"
+        }
+    ],
+    "tag": "科幻"
+}

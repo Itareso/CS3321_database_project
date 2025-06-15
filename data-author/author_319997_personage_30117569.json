@@ -1,0 +1,164 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "跳鲤",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34367224.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36177062/",
+                        "year": "2023",
+                        "id": 36177062
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "时间里的母亲（实力派小说家胡学文的一部亲情主题散文）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34551350.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36430584/",
+                        "year": "2023",
+                        "id": 36430584
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "像水一样柔软",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34796660.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36597856/",
+                        "year": "2023",
+                        "id": 36597856
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "逐影记",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34214732.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35891354/",
+                        "year": "2022",
+                        "id": 35891354
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "隐匿者",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34340647.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36137427/",
+                        "year": "2022",
+                        "id": 36137427
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "2021中篇小说",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34797441.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35889430/",
+                        "year": "2022",
+                        "id": 35889430
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "有生",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33771074.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35275527/",
+                        "year": "2021",
+                        "id": 35275527
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "断指",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33788331.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35303851/",
+                        "year": "2021",
+                        "id": 35303851
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "一水三浪",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33693893.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35153851/",
+                        "year": "2020",
+                        "id": 35153851
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "麦子的盖头（大奖电影《麦子的盖头》原著小说，当当独家作者亲笔签名本）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s32302289.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33424067/",
+                        "year": "2019",
+                        "id": 33424067
+                    }
+                }
+            ],
+            "total": 32
+        }
+    },
+    "author_link": "https://book.douban.com/author/319997/",
+    "author_douban_id": "319997",
+    "personage_id": 30117569,
+    "name": [
+        "胡学文",
+        "Xuewen Hu"
+    ],
+    "intro": "胡学文，1967年9月生，毕业于河北师院中文系，中国作协会员，江苏省作协副主席，江苏省作协专业作家。 著有长篇小说《私人档案》《红月亮》等四部，中篇小说集《麦子的盖头》《命案高悬》《我们为她做点什么吧》等六部。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30117569/photo/2903592580",
+        "https://www.douban.com/personage/30117569/photo/2903592537",
+        "https://www.douban.com/personage/30117569/photo/2903380296",
+        "https://www.douban.com/personage/30117569/photo/2903380295",
+        "https://www.douban.com/personage/30117569/photo/2903380294"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2903592580.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2903592537.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2903380296.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2903380295.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2903380294.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/1492166454.96.jpg",
+    "sex": 1,
+    "birth_date": 1967,
+    "age": 59,
+    "birth_place": [
+        "中国",
+        "河北",
+        "沽源"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

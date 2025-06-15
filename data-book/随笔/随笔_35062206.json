@@ -1,0 +1,85 @@
+{
+    "title": "春山好",
+    "bookInfo": {
+        "作者": "苏枕书",
+        "出版社": "中信出版集团",
+        "出版年": "2020-9",
+        "页数": "387",
+        "定价": "68.00元",
+        "装帧": "平装",
+        "ISBN": "9787521718089"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.5%",
+        "four_star_rate": "48.6%",
+        "three_star_rate": "20.3%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "1.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/201941/",
+            "name": "苏枕书",
+            "role": "作者",
+            "douban_id": "201941"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "47.60元",
+            "link": "https://book.douban.com/link2/?lowest=4420&pre=0&vendor=jingdong&srcpage=subject&price=4760&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF0UVQADXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IONFY2Syt3WDx9SxxRAVBgIAY6diJ3XTppdVl3KAAKAh06dD5BVQ8AGiBgFRFCWCokcC9gcCZJbzJPBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZfUSEfbwJfWQpvGCVBBnJUFRleCVV3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcBVV5VCk4eA2k4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRA1kzVE1AQD9MTQd7XQcHXVZbDEInAW4JGVklbTZiXDUeaCtMUBpYXB9JC2R2DDkjYStJVg5mGTlgWw5UFzkhfR1BY2cJYC5dbQUy&cntvendor=3&srcsubj=35062206&type=bkbuy&subject=35062206"
+        },
+        {
+            "name": "当当网",
+            "price": "44.20元",
+            "link": "https://book.douban.com/link2/?lowest=4420&pre=0&vendor=dangdang&srcpage=subject&price=4420&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35062206%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29114574&cntvendor=3&srcsubj=35062206&type=bkbuy&subject=35062206"
+        },
+        {
+            "name": "中图网",
+            "price": "52.00元",
+            "link": "https://book.douban.com/link2/?lowest=4420&pre=0&vendor=bookschina&srcpage=subject&price=5200&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8404422.htm&cntvendor=3&srcsubj=35062206&type=bkbuy&subject=35062206"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35062206/",
+    "douban_id": "35062206",
+    "menu": [
+        "",
+        "        序：从山脚出发（吴从周）",
+        "        第一部分 漫长雨季",
+        "        从月待山前到北白川畔",
+        "        同一屋檐下",
+        "        市长选举战",
+        "        百万遍风土记",
+        "        偶尔呐喊",
+        "        成为病人",
+        "        第二部分 走出雨季",
+        "        夜之游行",
+        "        康复训练",
+        "        日用饮食",
+        "        笋之佳味",
+        "        真如堂四季",
+        "        第三部分 新探险",
+        "        永恒的旧书店",
+        "        京都与朝鲜之间",
+        "        安东之旅",
+        "        釜山宝水洞书店街",
+        "        再访仁寺洞通文馆",
+        "        第四部分 黑夜与白昼",
+        "        不甚平静的令和",
+        "        隐秘的广场",
+        "        寂静春日",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33717343.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "苏枕书",
+            "link": "https://book.douban.com/search/%E8%8B%8F%E6%9E%95%E4%B9%A6"
+        }
+    ],
+    "tag": "随笔"
+}

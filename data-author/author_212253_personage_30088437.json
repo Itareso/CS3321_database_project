@@ -1,0 +1,156 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "念楼学短合集（修订版）",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37231897/",
+                        "year": "2025",
+                        "id": 37231897
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "蛛窗述闻",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35061478.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37200756/",
+                        "year": "2025",
+                        "id": 37200756
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "今夜谁家月最明",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34500688.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36358216/",
+                        "year": "2023",
+                        "id": 36358216
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "过去的大学",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34712677.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36667182/",
+                        "year": "2023",
+                        "id": 36667182
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "绝妙好文",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34489032.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36328533/",
+                        "year": "2023",
+                        "id": 36328533
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "念楼书简",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34568043.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36234805/",
+                        "year": "2023",
+                        "id": 36234805
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "念楼话书",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34507163.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36367933/",
+                        "year": "2023",
+                        "id": 36367933
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "钟叔河集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34411527.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35221714/",
+                        "year": "2022",
+                        "id": 35221714
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "谷林锺叔河通信",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33814356.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35335134/",
+                        "year": "2021",
+                        "id": 35335134
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "肥肉",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33594963.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/25774256/",
+                        "year": "2020",
+                        "id": 25774256
+                    }
+                }
+            ],
+            "total": 82
+        }
+    },
+    "author_link": "https://book.douban.com/author/212253/",
+    "author_douban_id": "212253",
+    "personage_id": 30088437,
+    "name": [
+        "锺叔河",
+        "Shuhe Zhong"
+    ],
+    "intro": "钟叔河，1931年生，湖南平江人，编审。原来在出版社当编辑，业余也做点研究，写点文章。现已离休，但有时也写一点。主要著作有《走向世界--近代知识分子考察两方的历史》、《从东方到西方》、《念楼集》、《天窗》、《钟叔河散文》、《念楼学短》、《学其短》等。编辑作品有《走向世界丛书》、《凤凰丛书》、《知堂书话》、《儿童杂事诗图笺释》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/016d921c81302e39defccfd4b36c3c28.jpg",
+    "更多中文名": "钟叔河",
+    "sex": 1,
+    "birth_date": 1931,
+    "age": 95,
+    "birth_place": [
+        "中国",
+        "湖南",
+        "平江"
+    ],
+    "family_member": "钟昌言(父)",
+    "profession": [
+        "作者",
+        "译者",
+        "绘者"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "title": "紫禁城的黄昏",
+    "bookInfo": {
+        "作者": "庄士敦",
+        "出版社": "武汉大学出版社",
+        "译者": "张昌丽",
+        "出版年": "2014-12-1",
+        "页数": "258",
+        "定价": "CNY 32.00",
+        "装帧": "平装",
+        "ISBN": "9787307140134"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.5%",
+        "four_star_rate": "54.2%",
+        "three_star_rate": "28.5%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4532079/",
+            "name": "庄士敦",
+            "role": "作者",
+            "douban_id": "4532079"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.60元",
+            "link": "https://book.douban.com/link2/?lowest=1660&pre=0&vendor=jingdong&srcpage=subject&price=1660&pos=1&url=https%3A%2F%2Fitem.jd.com%2F35228043012.html&cntvendor=2&srcsubj=26695947&type=bkbuy&subject=26695947"
+        },
+        {
+            "name": "当当网",
+            "price": "30.70元",
+            "link": "https://book.douban.com/link2/?lowest=1660&pre=0&vendor=dangdang&srcpage=subject&price=3070&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26695947%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23631959&cntvendor=2&srcsubj=26695947&type=bkbuy&subject=26695947"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26695947/",
+    "douban_id": "26695947",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s28370929.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "庄士敦",
+            "link": "https://book.douban.com/author/4532079"
+        },
+        {
+            "text": "武汉大学出版社",
+            "link": "https://book.douban.com/press/2436"
+        },
+        {
+            "text": "张昌丽",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E6%98%8C%E4%B8%BD"
+        }
+    ],
+    "tag": "回忆录"
+}

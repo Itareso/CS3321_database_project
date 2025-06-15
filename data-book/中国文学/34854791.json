@@ -1,0 +1,65 @@
+{
+    "title": "我读书少，你可别骗我",
+    "bookInfo": {
+        "作者": "马伯庸",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "果麦文化",
+        "原作名": "Don't lie to me",
+        "出版年": "2019-10",
+        "页数": "260",
+        "定价": "36.00元",
+        "装帧": "平装",
+        "ISBN": "9787559440600"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.8%",
+        "four_star_rate": "44.7%",
+        "three_star_rate": "31.3%",
+        "two_star_rate": "6.1%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4577534/",
+            "name": "马伯庸",
+            "role": "作者",
+            "douban_id": "4577534"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=jingdong&srcpage=subject&price=2400&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13039272.html&cntvendor=1&srcsubj=34854791&type=bkbuy&subject=34854791"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34854791/",
+    "douban_id": "34854791",
+    "menu": [
+        "",
+        "        新版序",
+        "        《西游摇滚记》",
+        "        《古都探幽》",
+        "        《诺亚的烦恼》",
+        "        《贞德别传》",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33520796.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "马伯庸",
+            "link": "https://book.douban.com/author/4577534"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        }
+    ],
+    "tag": "中国文学"
+}

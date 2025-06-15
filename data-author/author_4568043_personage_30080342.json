@@ -1,0 +1,165 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "把路移到荒野上 刘亮程散文精选",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37237464/",
+                        "year": "2025",
+                        "id": 37237464
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "大地上的家乡",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34791165.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36778201/",
+                        "year": "2024",
+                        "id": 36778201
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "在荒野",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34765959.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36743511/",
+                        "year": "2024",
+                        "id": 36743511
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "知知的大院子",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35030996.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36981921/",
+                        "year": "2024",
+                        "id": 36981921
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "我的孤独在人群中",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34403400.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36229565/",
+                        "year": "2023",
+                        "id": 36229565
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "一个人的村庄",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34108700.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35724852/",
+                        "year": "2022",
+                        "id": 35724852
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "本巴",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34126736.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35684638/",
+                        "year": "2022",
+                        "id": 35684638
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "虚土",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34108718.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35724854/",
+                        "year": "2022",
+                        "id": 35724854
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "捎话",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34207315.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35882461/",
+                        "year": "2022",
+                        "id": 35882461
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "凿空",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34108710.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35724855/",
+                        "year": "2022",
+                        "id": 35724855
+                    }
+                }
+            ],
+            "total": 39
+        }
+    },
+    "author_link": "https://book.douban.com/author/4568043/",
+    "author_douban_id": "4568043",
+    "personage_id": 30080342,
+    "name": [
+        "刘亮程",
+        "Liangcheng Liu"
+    ],
+    "intro": "刘亮程，作家，1962年出生在新疆古尔班通古特沙漠边缘的一个小村庄。著有诗集《晒晒黄沙梁的太阳》，散文集《虚土》《一个人的村庄》《在新疆》等。被誉为“20世纪中国最后一位散文家”和“乡村哲学家”。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30080342/photo/2905004378",
+        "https://www.douban.com/personage/30080342/photo/2905004322",
+        "https://www.douban.com/personage/30080342/photo/2905004321",
+        "https://www.douban.com/personage/30080342/photo/2905004318",
+        "https://www.douban.com/personage/30080342/photo/2905004317"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004378.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004322.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004321.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004318.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004317.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/566061b1325ed163ac734d91acbfa29f.jpg",
+    "sex": 1,
+    "birth_date": 1962,
+    "age": 64,
+    "birth_place": [
+        "中国",
+        "新疆",
+        "塔城"
+    ],
+    "profession": [
+        "作者",
+        "演员"
+    ]
+}

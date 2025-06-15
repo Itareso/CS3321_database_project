@@ -1,0 +1,152 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "坏家伙们",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34872098.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36856725/",
+                        "year": "2024",
+                        "id": 36856725
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "九滴水真探·秘密",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34899643.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36782251/",
+                        "year": "2024",
+                        "id": 36782251
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "特殊罪案调查组3",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34629772.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36429030/",
+                        "year": "2023",
+                        "id": 36429030
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "特殊罪案调查组 4",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34629771.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36440694/",
+                        "year": "2023",
+                        "id": 36440694
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "大唐封诊录(第一部)",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34491870.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36347537/",
+                        "year": "2023",
+                        "id": 36347537
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "大唐封诊录(第二部·上下卷套书)",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34503514.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36362520/",
+                        "year": "2023",
+                        "id": 36362520
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "大唐封诊录 1",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34242861.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35885437/",
+                        "year": "2022",
+                        "id": 35885437
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "大唐封诊录 2",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34253538.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35885438/",
+                        "year": "2022",
+                        "id": 35885438
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "特殊罪案调查组",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33788192.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35268426/",
+                        "year": "2020",
+                        "id": 35268426
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "特殊罪案调查组 2",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33788197.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35268427/",
+                        "year": "2020",
+                        "id": 35268427
+                    }
+                }
+            ],
+            "total": 18
+        }
+    },
+    "author_link": "https://book.douban.com/author/4633941/",
+    "author_douban_id": "4633941",
+    "personage_id": 34819574,
+    "name": [
+        "九滴水"
+    ],
+    "intro": "九滴水，原名梁淼淼，别名九哥，1987年出生于安徽省淮南市，毕业于安徽省公安职业学院，代表作《尸案调查科》系列小说。安徽省淮南市公安局刑事技术室痕迹检验师。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "更多中文名": "梁淼淼",
+    "sex": 1,
+    "birth_date": 1987,
+    "age": 39,
+    "birth_place": [
+        "安徽省淮南市"
+    ],
+    "IMDB": "nm10971432",
+    "profession": [
+        "编剧",
+        "作者"
+    ]
+}

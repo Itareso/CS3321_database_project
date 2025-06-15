@@ -1,0 +1,83 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "一面之交",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33861472.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35334929/",
+                        "year": "2021",
+                        "id": 35334929
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "有关一个女人的点滴消息",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29726856.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30135694/",
+                        "year": "2018",
+                        "id": 30135694
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "杯酒人生",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29867502.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30246025/",
+                        "year": "2018",
+                        "id": 30246025
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "嗨，好久不见",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29066812.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26882320/",
+                        "year": "2016",
+                        "id": 26882320
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "去别处",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29066833.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26882355/",
+                        "year": "2016",
+                        "id": 26882355
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4610330/",
+    "author_douban_id": "4610330",
+    "personage_id": 35416715,
+    "name": [
+        "顾前"
+    ],
+    "intro": "顾前，南京人，自由作家。小说发表在《收获》《花城》《当代》《大家》《钟山》《人民文学》《上海文学》等刊物，并曾被《小说月报》《小说选刊》《中华文学选刊》等选刊转载，著有《嗨，好久不见》《去别处》《有关一个女人的点滴消息》《杯酒人生》等小说集和长篇小说。曾获紫金山文学奖和金陵文学奖。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/ecbb5b3e1f85d038dcf8c6915b0f2009.jpg",
+    "profession": [
+        "作者"
+    ]
+}

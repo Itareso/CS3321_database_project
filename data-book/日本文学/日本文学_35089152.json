@@ -1,0 +1,40 @@
+{
+    "title": "一人称単数",
+    "bookInfo": {
+        "作者": "村上春樹",
+        "出版社": "文藝春秋",
+        "出版年": "2020-7-18",
+        "页数": "240",
+        "定价": "JPY 1650",
+        "装帧": "単行本",
+        "ISBN": "9784163912394"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "32.7%",
+        "four_star_rate": "50.3%",
+        "three_star_rate": "16.3%",
+        "two_star_rate": "0.7%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502361/",
+            "name": "村上春树",
+            "role": "作者",
+            "douban_id": "4502361"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/35089152/",
+    "douban_id": "35089152",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33690562.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "村上春樹",
+            "link": "https://book.douban.com/search/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9"
+        }
+    ],
+    "tag": "日本文学"
+}

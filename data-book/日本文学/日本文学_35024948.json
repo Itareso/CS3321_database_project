@@ -1,0 +1,90 @@
+{
+    "title": "下町火箭3：幽灵",
+    "bookInfo": {
+        "作者": "[日] 池井户润",
+        "出版社": "新星出版社",
+        "原作名": "下町ロケット ゴースト",
+        "译者": "吕灵芝",
+        "出版年": "2020-5",
+        "页数": "234",
+        "定价": "48.00",
+        "装帧": "平装",
+        "丛书": "午夜文库·日系佳作：池井户润作品",
+        "ISBN": "9787513339605"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "21.1%",
+        "four_star_rate": "56.5%",
+        "three_star_rate": "20.7%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609335/",
+            "name": "池井户润",
+            "role": "作者",
+            "douban_id": "4609335"
+        },
+        {
+            "link": "https://book.douban.com/author/4612202/",
+            "name": "吕灵芝",
+            "role": "译者",
+            "douban_id": "4612202"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "34.01元",
+            "link": "https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7Pva0rbx6pNgznl9VZPLJQyEBodb89mqoO&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "26.00元",
+            "link": "https://book.douban.com/link2/?lowest=2600&pre=0&vendor=jingdong&srcpage=subject&price=2600&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXQ8CU11fCU4fB18IGloTXwMCVlpdCUoUAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkKHlsXWQYDVV1eFxJSXzI4EidHXWJmMgI9Uh9qcRtzE11VAnRBAlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXQQGU1pZOEkXAm4NG1MSXgcyVFhYCUgWB2wOH14XXTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRU1tUCEgVbTMOTB5FCwNWOl5cAU0SA28KK1kUXAQAZG5tfyBhBWZoUz1iPnl-KS5faTBMaGxReCVXMwRlJzc2e01SChhYRDtIH3hVJ25eOA&cntvendor=3&srcsubj=35024948&type=bkbuy&subject=35024948"
+        },
+        {
+            "name": "当当网",
+            "price": "37.90元",
+            "link": "https://book.douban.com/link2/?lowest=2600&pre=0&vendor=dangdang&srcpage=subject&price=3790&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35024948%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28543618&cntvendor=3&srcsubj=35024948&type=bkbuy&subject=35024948"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35024948/",
+    "douban_id": "35024948",
+    "menu": [
+        "",
+        "        第一章  制造之神",
+        "        第二章  天才与城镇工厂",
+        "        第三章  挑战与冲突",
+        "        第四章  高迪的教训",
+        "        第五章  幽灵传动",
+        "        第六章  岛津回忆录",
+        "        第七章  代达罗斯",
+        "        第八章  记忆的构造",
+        "        最终章  青春的轨迹",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33617893.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 池井户润",
+            "link": "https://book.douban.com/search/%E6%B1%A0%E4%BA%95%E6%88%B7%E6%B6%A6"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "吕灵芝",
+            "link": "https://book.douban.com/search/%E5%90%95%E7%81%B5%E8%8A%9D"
+        },
+        {
+            "text": "午夜文库·日系佳作：池井户润作品",
+            "link": "https://book.douban.com/series/49139"
+        }
+    ],
+    "tag": "日本文学"
+}

@@ -1,0 +1,91 @@
+{
+    "title": "哲学与宗教",
+    "bookInfo": {
+        "作者": "[德] F. W. J. 谢林",
+        "出版社": "北京大学出版社",
+        "原作名": "Philosophie und Religion",
+        "译者": "先刚",
+        "出版年": "2017-1-1",
+        "页数": "380",
+        "定价": "80.00元",
+        "装帧": "精装",
+        "丛书": "谢林著作集",
+        "ISBN": "9787301277133"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《哲学与宗教》（1804）是谢林的“同一性哲学”时期的代表著作之一，其从发表伊始就引发大量争议，被认为在他的整个哲学发展过程中扮演着承前启后的关键角色。在这部著作里，谢林提出了哲学与宗教“同源分流”，并最终回归“永恒同盟”的思想。从这个角度出发，谢林一方面反驳了宗教信仰对于哲学的僭越主张，坚决捍卫哲学和理性的至高无上的地位，另一方面以一种简明扼要的方式勾勒出了他的哲学体系的基本框架和主要议题。    本卷收录的另外几部（篇）著作，《伊曼努尔•康德》（1804）和《论德国科学的本质》（1807）表达了谢林对于同时代德国哲学的形势和走向的看法，《哲学导论》（1804）以阐释哲学史的方式引导初学者去接触“真正的哲学”，而《自然哲学导论箴言录》（1806）和《自然哲学箴言录》（1806）则是以独特的箴言写作方式阐释了他的哲学体系的基础部分（即“自然哲学”）。这些著作从多个方面进一步展示了谢林“同一性哲学”的丰富面貌。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "75.7%",
+        "four_star_rate": "18.1%",
+        "three_star_rate": "4.0%",
+        "two_star_rate": "1.1%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608779/",
+            "name": "弗里德里希·威廉·约瑟夫·冯·谢林",
+            "role": "作者",
+            "douban_id": "4608779"
+        },
+        {
+            "link": "https://book.douban.com/author/149396/",
+            "name": "先刚",
+            "role": "译者",
+            "douban_id": "149396"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "40.00元",
+            "link": "https://book.douban.com/link2/?lowest=4000&pre=0&vendor=jingdong&srcpage=subject&price=4000&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFodVAILVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVVZUDEIWHDZNRwYlBgJVVi00XxB1dBl1HkFLC3ABUVYeaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4AXFpaD00VM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlwVD1JsCFgHVU9QSC9mGFMdWgYAV1htCkoWAW04K2t-Kn1EVlsbdxhyYCh4YwkRW0REVgwmV055ARB0GywQG1JEB1hbYzxneDF1K1gl&cntvendor=3&srcsubj=26910031&type=bkbuy&subject=26910031"
+        },
+        {
+            "name": "当当网",
+            "price": "76.80元",
+            "link": "https://book.douban.com/link2/?lowest=4000&pre=0&vendor=dangdang&srcpage=subject&price=7680&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26910031%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D24170107&cntvendor=3&srcsubj=26910031&type=bkbuy&subject=26910031"
+        },
+        {
+            "name": "中图网",
+            "price": "61.00元",
+            "link": "https://book.douban.com/link2/?lowest=4000&pre=0&vendor=bookschina&srcpage=subject&price=6100&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7380796.htm&cntvendor=3&srcsubj=26910031&type=bkbuy&subject=26910031"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26910031/",
+    "douban_id": "26910031",
+    "menu": [
+        "",
+        "        中文版《谢林著作集》说明",
+        "        译者前言",
+        "        《伊曼努尔·康德》（1804）",
+        "        《哲学与宗教》（1804）",
+        "        《哲学导论》（1804）",
+        "        《自然哲学导论箴言录》（1806）",
+        "        《自然哲学箴言录》（1806）",
+        "        《论德国科学的本质》（1807）",
+        "        人名索引",
+        "        主要译名对照",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29843814.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] F. W. J. 谢林",
+            "link": "https://book.douban.com/search/F.%20W.%20J.%20%E8%B0%A2%E6%9E%97"
+        },
+        {
+            "text": "北京大学出版社",
+            "link": "https://book.douban.com/press/2690"
+        },
+        {
+            "text": "先刚",
+            "link": "https://book.douban.com/search/%E5%85%88%E5%88%9A"
+        },
+        {
+            "text": "谢林著作集",
+            "link": "https://book.douban.com/series/33789"
+        }
+    ],
+    "tag": "西方哲学"
+}

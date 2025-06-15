@@ -1,0 +1,85 @@
+{
+    "title": "简·爱",
+    "bookInfo": {
+        "作者": "[英] 夏洛蒂·勃朗特",
+        "出版社": "天津人民出版社",
+        "出品方": "果麦文化",
+        "译者": "李继宏",
+        "出版年": "2019-10",
+        "页数": "528",
+        "定价": "58.00元",
+        "丛书": "李继宏世界名著新译",
+        "ISBN": "9787201152325"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "52.7%",
+        "four_star_rate": "27.8%",
+        "three_star_rate": "13.2%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "4.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502573/",
+            "name": "夏洛蒂·勃朗特",
+            "role": "作者",
+            "douban_id": "4502573"
+        },
+        {
+            "link": "https://book.douban.com/author/4528877/",
+            "name": "李继宏",
+            "role": "译者",
+            "douban_id": "4528877"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "24.00元",
+            "link": "https://read.douban.com/ebook/125166031/?dcs=subject-buylink&dcm=douban&dct=34839280"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.00元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=jingdong&srcpage=subject&price=2900&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF8cXQULVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUFddC0IXHDZNRwYlXWQDCCg8Vjh1A3VSRDNcFVtfMl4iaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHXF5fCUoWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG10WDQ5sCFgKTUhJVSpmG1oTXA4AUlZtCkoWAW04K2sdPUFBKjcYfw8SWh9TQglqAwZiPxwtVyJ5AQdsGDtwHgNEEAADACtCa297K1gl&cntvendor=4&srcsubj=34839280&type=bkbuy&subject=34839280"
+        },
+        {
+            "name": "当当网",
+            "price": "29.00元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=dangdang&srcpage=subject&price=2900&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34839280%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27944299&cntvendor=4&srcsubj=34839280&type=bkbuy&subject=34839280"
+        },
+        {
+            "name": "中图网",
+            "price": "32.90元",
+            "link": "https://book.douban.com/link2/?lowest=2900&pre=0&vendor=bookschina&srcpage=subject&price=3290&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8210646.htm&cntvendor=4&srcsubj=34839280&type=bkbuy&subject=34839280"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34839280/",
+    "douban_id": "34839280",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33499783.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 夏洛蒂·勃朗特",
+            "link": "https://book.douban.com/author/4502573"
+        },
+        {
+            "text": "天津人民出版社",
+            "link": "https://book.douban.com/press/2765"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "李继宏",
+            "link": "https://book.douban.com/author/4528877"
+        },
+        {
+            "text": "李继宏世界名著新译",
+            "link": "https://book.douban.com/series/16643"
+        }
+    ],
+    "tag": "经典"
+}

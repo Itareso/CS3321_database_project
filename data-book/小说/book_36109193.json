@@ -1,0 +1,81 @@
+{
+    "title": "外面是夏天",
+    "bookInfo": {
+        "作者": "[韩]金爱烂",
+        "出版社": "人民文学出版社",
+        "原作名": "바깥은 여름",
+        "译者": "徐丽红",
+        "出版年": "2022-10-15",
+        "页数": "232",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "丛书": "金爱烂作品集",
+        "ISBN": "9787020171910"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "46.5%",
+        "four_star_rate": "44.6%",
+        "three_star_rate": "8.4%",
+        "two_star_rate": "0.4%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609155/",
+            "name": "金爱烂",
+            "role": "作者",
+            "douban_id": "4609155"
+        },
+        {
+            "link": "https://book.douban.com/author/4617018/",
+            "name": "徐丽红",
+            "role": "译者",
+            "douban_id": "4617018"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "32.00元",
+            "link": "https://read.douban.com/ebook/443734220/?dcs=subject-buylink&dcm=douban&dct=36109193"
+        },
+        {
+            "name": "得到",
+            "price": "32.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=gO8xJGVarB2qEQoplXvY14JRbVdnz0zEMNNwjPmyDANKge8O65LG7Mk9xZYk69Zr&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "27.00元",
+            "link": "https://book.douban.com/link2/?lowest=2700&pre=0&vendor=jingdong&srcpage=subject&price=2700&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGV4dWwEEVm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUlpdWkN3YzlPYl1jP2AKBzUqbkpASDtodVlSDmMGBAwqDgx8aGkMYhpxXhFCWCokdCJuYBRWbARpBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZCHTheUCtyfg9QUwdnW1NhIwYtCUNnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcCXFlYD0sXAGg4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQQGAVkzVE1AXW9QU1h7XQcDV1tcDEknAW4JGVklbTYEUF4PACt3VShxHS13Ow5RPyk7CRxcVw9mGRxGOAJSBilbTyB8BWtxWj8WbQUy&cntvendor=5&srcsubj=36109193&type=bkbuy&subject=36109193"
+        },
+        {
+            "name": "当当网",
+            "price": "45.00元",
+            "link": "https://book.douban.com/link2/?lowest=2700&pre=0&vendor=dangdang&srcpage=subject&price=4500&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36109193%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29479132&cntvendor=5&srcsubj=36109193&type=bkbuy&subject=36109193"
+        },
+        {
+            "name": "中图网",
+            "price": "31.10元",
+            "link": "https://book.douban.com/link2/?lowest=2700&pre=0&vendor=bookschina&srcpage=subject&price=3110&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8956738.htm&cntvendor=5&srcsubj=36109193&type=bkbuy&subject=36109193"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36109193/",
+    "douban_id": "36109193",
+    "menu": [
+        "",
+        "        烈日下的午后孤独（译本序）by 笛安",
+        "        立冬",
+        "        卢赞成和埃文",
+        "        对面",
+        "        沉默的未来（李箱文学奖）",
+        "        风景的用途",
+        "        遮挡的手",
+        "        您想去哪里（具常文学奖年轻作家奖）",
+        "        作家的话",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

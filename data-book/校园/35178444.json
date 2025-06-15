@@ -1,0 +1,84 @@
+{
+    "title": "这题超纲了1",
+    "bookInfo": {
+        "作者": "木瓜黄",
+        "出版社": "中国致公出版社",
+        "出版年": "2020-9-18",
+        "页数": "320",
+        "定价": "42.8",
+        "装帧": "平装",
+        "丛书": "这题超纲了",
+        "ISBN": "9787514516890"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "44.9%",
+        "four_star_rate": "27.9%",
+        "three_star_rate": "21.5%",
+        "two_star_rate": "3.3%",
+        "one_star_rate": "2.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4617053/",
+            "name": "木瓜黄",
+            "role": "作者",
+            "douban_id": "4617053"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.94元",
+            "link": "https://book.douban.com/link2/?lowest=1470&pre=0&vendor=jingdong&srcpage=subject&price=2294&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQQCV11fC0oXM28JGlgUWAYFXV9fAEIeMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWAG4NG1wcXAQKXVdCUQ5LXl9pbSFLWXt_UDwAQAsJZi5wXjxBIVtyWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHlsUVAQyVl5cCU4XC2gLGmsVWwMDUVZdCE4WBWwNK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggdXQUDBlgzVE1NWDZTHVh7Xg4FUlxfDEwnAW4JGVklbTYDN1cFbytIChUATFxWAmZ9Il8NCAxPVGlmGT9tBGV5DDYnchJ1eR93TT9PbQUy&cntvendor=2&srcsubj=35178444&type=bkbuy&subject=35178444"
+        },
+        {
+            "name": "中图网",
+            "price": "14.70元",
+            "link": "https://book.douban.com/link2/?lowest=1470&pre=0&vendor=bookschina&srcpage=subject&price=1470&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8408659.htm&cntvendor=2&srcsubj=35178444&type=bkbuy&subject=35178444"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35178444/",
+    "douban_id": "35178444",
+    "menu": [
+        "",
+        "        Chapter 01 校霸许盛",
+        "        Chapter 02 初次交锋",
+        "        Chapter 03 一声雷鸣",
+        "        Chapter 04 首度合作",
+        "        Chapter 05 孤僻学神",
+        "        Chapter 06 名副其实",
+        "        Chapter 07 人设渐崩",
+        "        Chapter 08 湛无不盛",
+        "        Chapter 09 极限备考",
+        "        Chapter 10 装病乌龙",
+        "        Chapter 11 考场历险",
+        "        Chapter 12 短暂日常",
+        "        Chapter 13 有难同当",
+        "        Chapter 14 要素察觉",
+        "        Chapter 15 晴空霹雳",
+        "        Chapter 16 过往恩怨",
+        "        Chapter 17 触碰的手",
+        "        Chapter 18 先发制雷",
+        "        Chapter 19 祸不单行",
+        "        Chapter 20 另辟蹊径",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33709191.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "木瓜黄",
+            "link": "https://book.douban.com/author/4617053"
+        },
+        {
+            "text": "中国致公出版社",
+            "link": "https://book.douban.com/press/2846"
+        },
+        {
+            "text": "这题超纲了",
+            "link": "https://book.douban.com/series/65846"
+        }
+    ],
+    "tag": "校园"
+}

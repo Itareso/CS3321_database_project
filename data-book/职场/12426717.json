@@ -1,0 +1,67 @@
+{
+    "title": "白领纪要",
+    "bookInfo": {
+        "作者": "(日)津村记久子",
+        "出版社": "新星出版社",
+        "原作名": "ワーカーズ・ダイジェスト",
+        "译者": "赵晖",
+        "出版年": "2012-11",
+        "页数": "192",
+        "定价": "28.00元",
+        "装帧": "平装",
+        "丛书": "中日青年作家优秀作品集",
+        "ISBN": "9787513308625"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.9%",
+        "four_star_rate": "38.1%",
+        "three_star_rate": "30.5%",
+        "two_star_rate": "7.6%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4625157/",
+            "name": "津村记久子",
+            "role": "作者",
+            "douban_id": "4625157"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "18.91元",
+            "link": "https://book.douban.com/link2/?lowest=1891&pre=0&vendor=jingdong&srcpage=subject&price=1891&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10026510393084.html&cntvendor=1&srcsubj=12426717&type=bkbuy&subject=12426717"
+        }
+    ],
+    "url": "https://book.douban.com/subject/12426717/",
+    "douban_id": "12426717",
+    "menu": [
+        "",
+        "        001 白领纪要",
+        "        154 尾上不在",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s16559672.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "(日)津村记久子",
+            "link": "https://book.douban.com/author/4625157"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "赵晖",
+            "link": "https://book.douban.com/search/%E8%B5%B5%E6%99%96"
+        },
+        {
+            "text": "中日青年作家优秀作品集",
+            "link": "https://book.douban.com/series/13834"
+        }
+    ],
+    "tag": "职场"
+}

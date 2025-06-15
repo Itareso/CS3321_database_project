@@ -1,0 +1,59 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "精进3",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34110440.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35754843/",
+                        "year": "2022",
+                        "id": 35754843
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "精进",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s32316103.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33441611/",
+                        "year": "2019",
+                        "id": 33441611
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.7,
+                        "title": "精进2",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s32331455.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33439323/",
+                        "year": "2019",
+                        "id": 33439323
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/1982122/",
+    "author_douban_id": "1982122",
+    "personage_id": 30073015,
+    "name": [
+        "采铜"
+    ],
+    "intro": "浙江大学心理学博士，学习、思维方法研究者，《精进：如何成为一个很厉害的人》作者，个人公众号“采铜的创想世界”。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/97abea9a540f71311add9640c1d82a52.jpg",
+    "profession": [
+        "作者"
+    ]
+}

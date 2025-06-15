@@ -1,0 +1,74 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "白鸟坠入密林",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34292231.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35947034/",
+                        "year": "2022",
+                        "id": 35947034
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "冬至前夜",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34580034.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35933757/",
+                        "year": "2022",
+                        "id": 35933757
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "海葵",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33846132.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35272690/",
+                        "year": "2021",
+                        "id": 35272690
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "轮回前的告别",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33981858.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35578826/",
+                        "year": "2021",
+                        "id": 35578826
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4616111/",
+    "author_douban_id": "4616111",
+    "personage_id": 36091749,
+    "name": [
+        "贝客邦",
+        "Kebang Bei"
+    ],
+    "intro": "浙江嘉兴人，80后，悬疑小说作家，豆瓣小雅奖最佳作者、豆瓣阅读征文大赛首奖得主、PAGEONE文学赏读者票选最佳作者。代表作有《白鸟坠入密林》《海葵》《轮回前的告别》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/c986235f42e1814e414b7a410d3d23f2.jpg",
+    "sex": 1,
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

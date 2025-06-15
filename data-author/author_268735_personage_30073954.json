@@ -1,0 +1,143 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "木星时刻",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34684506.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36592026/",
+                        "year": "2023",
+                        "id": 36592026
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "慎余堂",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33770734.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35236989/",
+                        "year": "2021",
+                        "id": 35236989
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "在未来",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33766950.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35072441/",
+                        "year": "2020",
+                        "id": 35072441
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "死于昨日世界",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29923220.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30297160/",
+                        "year": "2019",
+                        "id": 30297160
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "小城",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29622147.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27205052/",
+                        "year": "2018",
+                        "id": 27205052
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "北方大道",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29470789.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27064644/",
+                        "year": "2017",
+                        "id": 27064644
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "我们的黄金时代",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29513432.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27109724/",
+                        "year": "2017",
+                        "id": 27109724
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "微小的命运",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28835377.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26823537/",
+                        "year": "2016",
+                        "id": 26823537
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "小镇姑娘",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28031226.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26348958/",
+                        "year": "2015",
+                        "id": 26348958
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "愿你的道路漫长",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s26381390.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/23780549/",
+                        "year": "2013",
+                        "id": 23780549
+                    }
+                }
+            ],
+            "total": 10
+        }
+    },
+    "author_link": "https://book.douban.com/author/268735/",
+    "author_douban_id": "268735",
+    "personage_id": 30073954,
+    "name": [
+        "李静睿"
+    ],
+    "intro": "李静睿，出生于四川自贡，南京大学新闻系毕业，曾做八年法律记者，现专业写作。出版有短篇小说集《小城故事》、《北方大道》，随笔集《愿你的道路漫长》，长篇小说《小镇姑娘》、《微小的命运》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/1525190242.36.jpg",
+    "profession": [
+        "作者"
+    ]
+}

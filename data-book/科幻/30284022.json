@@ -1,0 +1,81 @@
+{
+    "title": "月海沉船",
+    "bookInfo": {
+        "作者": "[英] 阿瑟·克拉克",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "A Fall of Moondust",
+        "译者": "武彬",
+        "出版年": "2018-11-1",
+        "页数": "256",
+        "定价": "40",
+        "装帧": "精装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536491342"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.1%",
+        "four_star_rate": "40.6%",
+        "three_star_rate": "13.2%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4522301/",
+            "name": "亚瑟·克拉克",
+            "role": "作者",
+            "douban_id": "4522301"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "18.99元",
+            "link": "https://read.douban.com/ebook/128018680/?dcs=subject-buylink&dcm=douban&dct=30284022"
+        },
+        {
+            "name": "京东商城",
+            "price": "27.44元",
+            "link": "https://book.douban.com/link2/?lowest=2744&pre=0&vendor=jingdong&srcpage=subject&price=2744&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQQCV11fC0oXM20PHFMXVA8GUl5fOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocVllaAEkeCmsOG1kKBENeCW4oXSpFcC5xfD5mI1JkCDpdXE9feT14F1clWgMFUllUC0wnA2sJH18lbQYDZB8zDUsWCm04GVsUXAMCXFleCXsXBWoJGFsSXwAKXV1VOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgRAW5bTFt7AQBVHxgLWw15A28MHlgUXwIyVl9cCkknM19fWTJGVWYEF18LSA9pcy9bUiVHKFt7CQ0zCg9Pey0KSARVXGVhVykaSA9LM2w4&cntvendor=4&srcsubj=30284022&type=bkbuy&subject=30284022"
+        },
+        {
+            "name": "当当网",
+            "price": "40.00元",
+            "link": "https://book.douban.com/link2/?lowest=2744&pre=0&vendor=dangdang&srcpage=subject&price=4000&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30284022%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25546318&cntvendor=4&srcsubj=30284022&type=bkbuy&subject=30284022"
+        },
+        {
+            "name": "中图网",
+            "price": "29.40元",
+            "link": "https://book.douban.com/link2/?lowest=2744&pre=0&vendor=bookschina&srcpage=subject&price=2940&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7938691.htm&cntvendor=4&srcsubj=30284022&type=bkbuy&subject=30284022"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30284022/",
+    "douban_id": "30284022",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29880080.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 阿瑟·克拉克",
+            "link": "https://book.douban.com/search/%E9%98%BF%E7%91%9F%C2%B7%E5%85%8B%E6%8B%89%E5%85%8B"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "武彬",
+            "link": "https://book.douban.com/search/%E6%AD%A6%E5%BD%AC"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

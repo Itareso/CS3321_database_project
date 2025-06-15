@@ -1,0 +1,111 @@
+{
+    "title": "青舟物语",
+    "bookInfo": {
+        "作者": "[日]山本周五郎",
+        "出版社": "古吴轩出版社",
+        "出品方": "凤凰颐合",
+        "原作名": "青べか物語",
+        "译者": "姚奕崴",
+        "出版年": "2020-11",
+        "页数": "256",
+        "定价": "46.00元",
+        "装帧": "平装",
+        "丛书": "人间镜像",
+        "ISBN": "9787554616192"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.0%",
+        "four_star_rate": "62.5%",
+        "three_star_rate": "8.3%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "4.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4639660/",
+            "name": "姚奕崴",
+            "role": "译者",
+            "douban_id": "4639660"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "27.14元",
+            "link": "https://book.douban.com/link2/?lowest=2714&pre=0&vendor=jingdong&srcpage=subject&price=2714&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0cWwELXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUldbD0IfHDZNRwYlWwVfEFo6ASJ1BjdSaA4QLgRWFxgCeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UXgcGVFpcAUgUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8XClZsCFgKTU1USydmG1oRWwYLVF1tCkoWAW04K2toKFB-V1skYS1VYjpIci5dCkBCA1w8QDx5ARNITy5yIX9HMl1edT5VBytRK1gl&cntvendor=3&srcsubj=35240634&type=bkbuy&subject=35240634"
+        },
+        {
+            "name": "当当网",
+            "price": "46.00元",
+            "link": "https://book.douban.com/link2/?lowest=2714&pre=0&vendor=dangdang&srcpage=subject&price=4600&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35240634%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29181359&cntvendor=3&srcsubj=35240634&type=bkbuy&subject=35240634"
+        },
+        {
+            "name": "中图网",
+            "price": "33.10元",
+            "link": "https://book.douban.com/link2/?lowest=2714&pre=0&vendor=bookschina&srcpage=subject&price=3310&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8503014.htm&cntvendor=3&srcsubj=35240634&type=bkbuy&subject=35240634"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35240634/",
+    "douban_id": "35240634",
+    "menu": [
+        "",
+        "        前言",
+        "        买“青舟”的故事",
+        "        蜜柑树",
+        "        打水傻瓜",
+        "        调教青舟",
+        "        沙子和石榴",
+        "        人靠什么活",
+        "        繁亚音",
+        "        土堤之春",
+        "        土堤之夏",
+        "        土堤之秋",
+        "        土堤之冬",
+        "        白色的人们",
+        "        红火屋",
+        "        对话（关于沙子）",
+        "        毛蟹",
+        "        经济原理",
+        "        朝日屋骚乱",
+        "        贝贼",
+        "        鬼火",
+        "        芦苇里的那一夜",
+        "        浦粕的宗五郎",
+        "        俺没有反抗",
+        "        小长和猛兽电影",
+        "        家鸭",
+        "        幽会",
+        "        饮鸩之苦",
+        "        残酷的插曲",
+        "        留君和女人",
+        "        结语",
+        "        三十年后",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33787143.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]山本周五郎",
+            "link": "https://book.douban.com/search/%E5%B1%B1%E6%9C%AC%E5%91%A8%E4%BA%94%E9%83%8E"
+        },
+        {
+            "text": "古吴轩出版社",
+            "link": "https://book.douban.com/press/2681"
+        },
+        {
+            "text": "凤凰颐合",
+            "link": "https://book.douban.com/producers/177"
+        },
+        {
+            "text": "姚奕崴",
+            "link": "https://book.douban.com/author/4639660"
+        },
+        {
+            "text": "人间镜像",
+            "link": "https://book.douban.com/series/52334"
+        }
+    ],
+    "tag": "日本文学"
+}

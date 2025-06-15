@@ -1,0 +1,82 @@
+{
+    "title": "我人生最开始的好朋友",
+    "bookInfo": {
+        "作者": "蔡崇达",
+        "出版社": "作家出版社",
+        "出品方": "果麦文化",
+        "出版年": "2024-11-20",
+        "页数": "248",
+        "定价": "69.80元",
+        "装帧": "精装",
+        "ISBN": "9787521232035"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "50.5%",
+        "four_star_rate": "36.4%",
+        "three_star_rate": "10.7%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/145032/",
+            "name": "蔡崇达",
+            "role": "作者",
+            "douban_id": "145032"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "69.80元",
+            "link": "https://read.douban.com/ebook/487640627/?dcs=subject-buylink&dcm=douban&dct=37124146"
+        },
+        {
+            "name": "得到",
+            "price": "69.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=qPKdG1m9B8MaveyJdxRzNnKYlqgVZ3kQvg20o5pL7E4m1r26kQjXDAPObGkYgJ4p&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "36.80元",
+            "link": "https://book.douban.com/link2/?lowest=3679&pre=0&vendor=jingdong&srcpage=subject&price=3679&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olXwMEVVhdCk8TBl8IHlkQXQ4KXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHVltdAEMfHDZNRwYlGRwAFgEfejNyXR1raTxyO1VbMigUTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtDMwYDVV9cCU8RAmg4GVsUXAMCXFleCXsXBWoJGFoQWAIGUF1fOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgQBmYIGF57AQBVFhwaUU95A24BG1ITXAUyVl9cCkknM19bQRlmAgNgMFgoQUxkai5gXDIWB31fARwzCkgRXTVBaAt-W3p-BwRZfhR2M2w4&cntvendor=4&srcsubj=37124146&type=bkbuy&subject=37124146"
+        },
+        {
+            "name": "中图网",
+            "price": "49.90元",
+            "link": "https://book.douban.com/link2/?lowest=3679&pre=0&vendor=bookschina&srcpage=subject&price=4990&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9478626.htm&cntvendor=4&srcsubj=37124146&type=bkbuy&subject=37124146"
+        }
+    ],
+    "url": "https://book.douban.com/subject/37124146/",
+    "douban_id": "37124146",
+    "menu": [
+        "",
+        "        前言",
+        "        第一章 她要赔偿一个外婆给我",
+        "        第二章 鸭子小白，只是回到了它的大海",
+        "        第三章 孤胆侠客，老母鸡阿花",
+        "        第四章 黑咪尽力了",
+        "        第五章 兔子佐罗的决斗",
+        "        第六章 鸽子米点的天空",
+        "        代后记 那只记忆力最好的狗",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s35012729.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "蔡崇达",
+            "link": "https://book.douban.com/author/145032"
+        },
+        {
+            "text": "作家出版社",
+            "link": "https://book.douban.com/press/2768"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        }
+    ],
+    "tag": "中国文学"
+}

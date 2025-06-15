@@ -1,0 +1,82 @@
+{
+    "title": "月球旅店",
+    "bookInfo": {
+        "作者": "吴季",
+        "出版社": "科学出版社",
+        "原作名": "Lunai Hotel",
+        "出版年": "2019-10",
+        "页数": "184",
+        "定价": "48.00元",
+        "装帧": "平装",
+        "ISBN": "9787030623690"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.6%",
+        "four_star_rate": "36.1%",
+        "three_star_rate": "27.8%",
+        "two_star_rate": "6.0%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614712/",
+            "name": "吴季",
+            "role": "作者",
+            "douban_id": "4614712"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "34.08元",
+            "link": "https://book.douban.com/link2/?lowest=3200&pre=0&vendor=jingdong&srcpage=subject&price=3408&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0WVAIKVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUl1UDEMWHDZNRwYlFUR6Tg4LUgtyRi8WWVJuDVtaAlgpXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYFUlpUDEgSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlMUVA5sCFgLCU5NWDxmG1sTXQcLVlxtCkoWAW04K2t0JQVRXD4Dc0NKZG9uXABJJkFYCCZddxh5ARtrayMSDmdRXAYFaTMfSCx6K1gl&cntvendor=3&srcsubj=34864813&type=bkbuy&subject=34864813"
+        },
+        {
+            "name": "当当网",
+            "price": "32.00元",
+            "link": "https://book.douban.com/link2/?lowest=3200&pre=0&vendor=dangdang&srcpage=subject&price=3200&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34864813%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28471080&cntvendor=3&srcsubj=34864813&type=bkbuy&subject=34864813"
+        },
+        {
+            "name": "中图网",
+            "price": "38.90元",
+            "link": "https://book.douban.com/link2/?lowest=3200&pre=0&vendor=bookschina&srcpage=subject&price=3890&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8198167.htm&cntvendor=3&srcsubj=34864813&type=bkbuy&subject=34864813"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34864813/",
+    "douban_id": "34864813",
+    "menu": [
+        "",
+        "        目录",
+        "        序 i",
+        "        前言 vii",
+        "        引子 001",
+        "        第壹章 起飞 003",
+        "        第2章 新航天 019",
+        "        第三章 中转站 047",
+        "        第四章 地月段飞船 063",
+        "        第五章 到达 079",
+        "        第六章 情怀 091",
+        "        第七章 家 107",
+        "        第八章 通信 121",
+        "        第九章 月面的室外活动 133",
+        "        第十章 融资 147",
+        "        第十一章 合作 163",
+        "        第十二章 尾声 175",
+        "        后记 182",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33537453.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "吴季",
+            "link": "https://book.douban.com/author/4614712"
+        },
+        {
+            "text": "科学出版社",
+            "link": "https://book.douban.com/press/2633"
+        }
+    ],
+    "tag": "科幻"
+}

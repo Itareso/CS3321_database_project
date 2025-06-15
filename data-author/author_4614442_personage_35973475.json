@@ -1,0 +1,148 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国科幻文学大系",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37131057/",
+                        "year": "2024",
+                        "id": 37131057
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "哈佛新编中国现代文学史",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34330367.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35716743/",
+                        "year": "2022",
+                        "id": 35716743
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.4,
+                        "title": "以饱蠹楼之名",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34310765.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/36084838/",
+                        "year": "2022",
+                        "id": 36084838
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "中国近代文学十六讲",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34127107.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35748129/",
+                        "year": "2022",
+                        "id": 35748129
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "西方古典学术史（第一卷）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33650614.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34854377/",
+                        "year": "2020",
+                        "id": 34854377
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "文学的异与同",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29956866.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/30401884/",
+                        "year": "2019",
+                        "id": 30401884
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "蚁占集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29490137.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/27084155/",
+                        "year": "2017",
+                        "id": 27084155
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "异域与新学",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27222402.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25830924/",
+                        "year": "2014",
+                        "id": 25830924
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "蜗耕集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s9071199.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/10618568/",
+                        "year": "2012",
+                        "id": 10618568
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "中西因缘",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s11181499.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/11600967/",
+                        "year": "2012",
+                        "id": 11600967
+                    }
+                }
+            ],
+            "total": 10
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614442/",
+    "author_douban_id": "4614442",
+    "personage_id": 35973475,
+    "name": [
+        "张治",
+        "Zhi Zhang"
+    ],
+    "intro": "张治，1977年生，山东淄博人。2007年毕业于北京大学中文系，获文学博士学位。曾任厦门大学中文系讲师。现为中国海洋大学文学与新闻传播学院中文系副教授。译作有《西方古典学术史》第一卷及《哥伦比亚中国文学史》，著作有《蜗耕集》《中西因缘》《异域与新学》《蚁占集》《文学的异与同》。主要研究兴趣是中国近现代文学，并涉及西方古典学术史、翻译文学和中西学术比较，近年从事钱锺书手稿集的研究。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/737a5e0556a58530180b1552662fd52b.jpg",
+    "sex": 1,
+    "birth_date": 1977,
+    "age": 49,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

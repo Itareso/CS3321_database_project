@@ -1,0 +1,149 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "诗里特别有禅",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34797554.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36722715/",
+                        "year": "2024",
+                        "id": 36722715
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "古诗词课",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34493592.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36216164/",
+                        "year": "2023",
+                        "id": 36216164
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "《世说新语》十三讲",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33666113.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34838281/",
+                        "year": "2020",
+                        "id": 34838281
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "简明中国文学史",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34735542.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/30289348/",
+                        "year": "2018",
+                        "id": 30289348
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国诗学（全四卷）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33445486.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/31115179/",
+                        "year": "2018",
+                        "id": 31115179
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "长得逍遥自在心",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29578970.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27121091/",
+                        "year": "2017",
+                        "id": 27121091
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "欲采蘋花不自由",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29556192.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27150715/",
+                        "year": "2017",
+                        "id": 27150715
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "闻道长安似弈棋",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29597401.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27121093/",
+                        "year": "2017",
+                        "id": 27121093
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "中国文学史新著",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28415850.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/6560147/",
+                        "year": "2014",
+                        "id": 6560147
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "游金梦",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27980086.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/25703280/",
+                        "year": "2013",
+                        "id": 25703280
+                    }
+                }
+            ],
+            "total": 35
+        }
+    },
+    "author_link": "https://book.douban.com/author/4502830/",
+    "author_douban_id": "4502830",
+    "personage_id": 30101411,
+    "name": [
+        "骆玉明",
+        "Yuming Luo"
+    ],
+    "intro": "骆玉明，男，出生于1951年7月，1977年毕业于复旦大学中文系研究生班，毕业后留校任教。1979年任助教，1983年任讲师，1995年任教授，1997年任博士生导师。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/d11132fa9bcb345c3aceb7171aa5153c.jpg",
+    "sex": 1,
+    "birth_date": 1951,
+    "age": 75,
+    "profession": [
+        "作者",
+        "译者",
+        "编者"
+    ]
+}

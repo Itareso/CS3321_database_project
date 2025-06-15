@@ -1,0 +1,69 @@
+{
+    "title": "长生塔",
+    "bookInfo": {
+        "作者": "郝景芳",
+        "出版社": "贵州人民出版社",
+        "出品方": "京贵传媒",
+        "出版年": "2020-4",
+        "页数": "320",
+        "定价": "42.00",
+        "装帧": "平装",
+        "ISBN": "9787221158093"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.8%",
+        "four_star_rate": "33.8%",
+        "three_star_rate": "38.3%",
+        "two_star_rate": "7.1%",
+        "one_star_rate": "3.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/502907/",
+            "name": "郝景芳",
+            "role": "作者",
+            "douban_id": "502907"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "18.24元",
+            "link": "https://book.douban.com/link2/?lowest=1823&pre=0&vendor=jingdong&srcpage=subject&price=1823&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10026547880905.html&cntvendor=1&srcsubj=35022059&type=bkbuy&subject=35022059"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35022059/",
+    "douban_id": "35022059",
+    "menu": [
+        "",
+        "        永生医院",
+        "        归家之旅",
+        "        长生塔",
+        "        年终聚会",
+        "        大地",
+        "        写一本书",
+        "        好久没回家",
+        "        三根弦的小提琴",
+        "        逆行",
+        "        积极砖块",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33613213.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "郝景芳",
+            "link": "https://book.douban.com/search/%E9%83%9D%E6%99%AF%E8%8A%B3"
+        },
+        {
+            "text": "贵州人民出版社",
+            "link": "https://book.douban.com/press/2272"
+        },
+        {
+            "text": "京贵传媒",
+            "link": "https://book.douban.com/producers/265"
+        }
+    ],
+    "tag": "科幻"
+}

@@ -1,0 +1,138 @@
+{
+    "title": "数据分析思维",
+    "bookInfo": {
+        "作者": "猴子·数据分析学院",
+        "出版社": "清华大学出版社",
+        "副标题": "分析方法和业务知识",
+        "出版年": "2020-11-1",
+        "页数": "304",
+        "定价": "99元",
+        "装帧": "平装",
+        "ISBN": "9787302563839"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    数据分析不是某个固定的职位，而是人工智能时代的通用能力。你会看到各行业的招聘中都会要求应聘者具备数据分析能力。所以，具备数据分析能力可以极大地提升你在职场中的竞争力。    然而，很多人掌握了数据分析工具（如Excel、SQL、Python等），面对工作还是不知道如何展开分析，经常会遇到下面这些问题：    （1）手里拿了一堆数据，却不知道怎么去利用；    （2）业务部门不满意，总觉得你分析得不深入；    （3）准备面试或找到新工作后，不知道如何快速掌握该行业的业务知识。    本书可以帮助从事数据分析相关工作的读者解决以上问题，具备数据分析的能力。本书分为两篇，第一篇为“方法”，介绍了指标、分析方法以及如何用数据分析解决问题。    第二篇为“实战”，介绍如何应用第一篇的方法来解决工作中的问题。我们将在这一篇分享 来自不同行业的业务知识，以及如何用数据分析解决问题的案例，每一章都从业务模式、业务指标、案例分析三个方面展开。    通过本书的学习，你会熟悉数据分析的方法，并将其灵活应用在自己所处的行业中。这样当你在工作中遇到新的问题时，也能够知道如何展开分析。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "51.0%",
+        "four_star_rate": "30.4%",
+        "three_star_rate": "14.2%",
+        "two_star_rate": "2.3%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4635875/",
+            "name": "猴子",
+            "role": "作者",
+            "douban_id": "4635875"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "69.30元",
+            "link": "https://read.douban.com/ebook/167478760/?dcs=subject-buylink&dcm=douban&dct=35234331"
+        },
+        {
+            "name": "得到",
+            "price": "69.30元",
+            "link": "https://www.dedao.cn/eBook/qPKdG1m9B8MaveyJdxRzNnKYlqgVZ3klMgwo5pL7E4m1r26kQjXDAPObGkYgJ4pN?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "49.50元",
+            "link": "https://book.douban.com/link2/?lowest=4950&pre=0&vendor=jingdong&srcpage=subject&price=4950&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0RXwACVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUlpfDksVHDZNRwYlAWRgBgYESgJ3WAkASDIdOXQCL10nXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUFtdCEMeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXANsCFgHVw0TVDBmGVoWWwMFV1dtCkoWAW04K2toKFB-V1skYS1VYmx3HFtFBUBZIwFdWDh5ARNITy5yIX9HMl1edT5VBAlRK1gl&cntvendor=5&srcsubj=35234331&type=bkbuy&subject=35234331"
+        },
+        {
+            "name": "当当网",
+            "price": "93.80元",
+            "link": "https://book.douban.com/link2/?lowest=4950&pre=0&vendor=dangdang&srcpage=subject&price=9380&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35234331%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29149764&cntvendor=5&srcsubj=35234331&type=bkbuy&subject=35234331"
+        },
+        {
+            "name": "中图网",
+            "price": "49.50元",
+            "link": "https://book.douban.com/link2/?lowest=4950&pre=0&vendor=bookschina&srcpage=subject&price=4950&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8435783.htm&cntvendor=5&srcsubj=35234331&type=bkbuy&subject=35234331"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35234331/",
+    "douban_id": "35234331",
+    "menu": [
+        "",
+        "        第1篇 方法",
+        "        第1章 业务指标",
+        "        1.1 如何理解数据？",
+        "        1.2 常用的指标有哪些？",
+        "        1.2 如何选择指标？",
+        "        1.4 指标体系和报表",
+        "        第2章 分析方法",
+        "        2.1 5W2H分析方法",
+        "        2.2 逻辑树分析方法",
+        "        2.3 行业分析方法",
+        "        2.4 多维度拆解分析方法",
+        "        2.5 对比分析方法",
+        "        2.6 假设检验分析方法",
+        "        2.7 相关分析方法",
+        "        2.8 群组分析方法",
+        "        2.9 RFM分析方法",
+        "        2.10 AARRR模型分析方法",
+        "        2.11 漏斗分析方法",
+        "        第3章 用数据分析解决问题",
+        "        3.1 数据分析解决问题的过程",
+        "        3.2 如何明确问题？",
+        "        3.3 如何分析原因？",
+        "        3.4 如何提出建议？",
+        "        3.5 总结",
+        "        第2篇 实战",
+        "        第4章 国内电商行业",
+        "        4.1 业务知识",
+        "        4.2 案例分析",
+        "        第5章 跨境电商行业",
+        "        5.1 业务知识",
+        "        5.2 案例分析",
+        "        第6章 金融信贷行业",
+        "        6.1 业务知识",
+        "        6.2 案例分析",
+        "        第7章 金融第三方支付行业",
+        "        7.1 业务知识",
+        "        7.2 案例分析",
+        "        第8章 家政行业",
+        "        8.1 业务知识",
+        "        8.2 案例分析",
+        "        第9章 旅游行业",
+        "        9.1 业务知识",
+        "        9.2 案例分析",
+        "        第10章 在线教育行业",
+        "        10.1 业务知识",
+        "        10.2 案例分析",
+        "        第11章 运营商行业",
+        "        11.1 业务知识",
+        "        11.2 案例分析",
+        "        第12章 内容行业",
+        "        12.1 业务知识",
+        "        12.2 案例分析",
+        "        第13章 房产行业",
+        "        13.1 业务知识",
+        "        13.2 案例分析",
+        "        第14章 汽车行业",
+        "        14.1 业务知识",
+        "        14.2 案例分析",
+        "        第15章 零售行业",
+        "        15.1 业务知识",
+        "        15.2 案例分析",
+        "        附录 常见的业务面试题",
+        "        参考文献",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33745131.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "猴子·数据分析学院",
+            "link": "https://book.douban.com/author/4635875"
+        },
+        {
+            "text": "清华大学出版社",
+            "link": "https://book.douban.com/press/2562"
+        }
+    ],
+    "tag": "职场"
+}

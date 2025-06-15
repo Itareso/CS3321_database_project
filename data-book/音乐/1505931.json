@@ -1,0 +1,48 @@
+{
+    "title": "和声分析教程",
+    "bookInfo": {
+        "作者": "杨通八",
+        "出版社": "上海音乐出版社",
+        "出版年": "2005-4",
+        "页数": "359",
+        "定价": "32.00元",
+        "装帧": "简裝本",
+        "ISBN": "9787806676639"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "53.1%",
+        "four_star_rate": "40.6%",
+        "three_star_rate": "3.1%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "3.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "58.50元",
+            "link": "https://book.douban.com/link2/?lowest=5850&pre=0&vendor=jingdong&srcpage=subject&price=5850&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFIWVQAKU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXV1VDkMQHDZNRwYlNkN6VSAgDkhyZhEJcCsRAVJkPQQFeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UWA4KVFdcD0wQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFIdWFZsCFgHVkNTRy5mGVoUXg4HUFttCkoWAW04K2tnK2EEMD4ecQN3SykJZCZlXG5jFx0EWwx5ARlxXC1HW2FHHBUWej0eQRJsK1gl&cntvendor=2&srcsubj=1505931&type=bkbuy&subject=1505931"
+        },
+        {
+            "name": "当当网",
+            "price": "74.90元",
+            "link": "https://book.douban.com/link2/?lowest=5850&pre=0&vendor=dangdang&srcpage=subject&price=7490&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1505931%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28527111&cntvendor=2&srcsubj=1505931&type=bkbuy&subject=1505931"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1505931/",
+    "douban_id": "1505931",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s8984182.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "杨通八",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E9%80%9A%E5%85%AB"
+        },
+        {
+            "text": "上海音乐出版社",
+            "link": "https://book.douban.com/press/2186"
+        }
+    ],
+    "tag": "音乐"
+}

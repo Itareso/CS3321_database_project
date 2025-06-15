@@ -1,0 +1,85 @@
+{
+    "title": "陌生人的日记",
+    "bookInfo": {
+        "作者": "[英] 艾莉·格里菲斯",
+        "出版社": "新星出版社",
+        "原作名": "The Stranger Diaries",
+        "译者": "王冉",
+        "出版年": "2023-11",
+        "页数": "448",
+        "定价": "62.00元",
+        "装帧": "平装",
+        "ISBN": "9787513352994"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ◎是谁，写了我的日记？    ◎2020年爱伦·坡奖获奖作    横扫日本四大推理榜单 海外榜    CrimeReads和iBooks年度最受期待小说    ◎三重叙述视角、一部哥特式“作中作”，串联多起谋杀    ----------------------------------------- -------    ★内容介绍    克莱尔是一名高中教师，也是一名研究哥特小说作家R.M.霍兰德的专家。一天，她的密友兼同事突然惨死在家中，尸体旁留着一句摘自霍兰德的《陌生人》中的台词：“地狱空荡荡。”克莱尔惊讶地发现她的生活和她研究的小说逐渐重合。    警方展开调查，怀疑凶手是克莱尔的熟人。在危机四伏、不知道该相信谁的时刻，克莱尔打开自己的日记本，记录下她对案件的恐惧与怀疑。但是过了几天，她却发现日记中有一句自己从没见过的话：你好克莱尔，你不知道我是谁。    真实的生活和恐怖小说交织，故事被赋予了可怕的生命，结局能否改写？    ------------------------------------------------    ★媒体推荐    格里菲斯的小说是警察程序和心理惊悚的完美结合，她的新作加入了强烈的暗黑气氛，讲述了一个真正令人不安的故事。    ——CrimeReads    一个多层次的、令人毛骨悚然的哥特式故事......当叙事的接力棒在克莱尔、她的女儿乔治娅和考尔警长之间传递时，悬念和哥特式的比喻比比皆是，格里菲斯是创造紧张气氛的专家。    ——《卫报》    一个令人愉快的敏锐侦探.....格里菲斯将视角、时间线和叙述者重叠，创造了一个暗黑、有趣、令人愉快的谜案。    ——《观察家报》    格里菲斯用她惯用的温暖、轻盈的笔触写作，但有一种真正毛骨悚然的感觉。    ——《星期日快报》\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "9.0%",
+        "four_star_rate": "33.2%",
+        "three_star_rate": "47.7%",
+        "two_star_rate": "9.0%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4626979/",
+            "name": "艾莉·格里菲斯",
+            "role": "作者",
+            "douban_id": "4626979"
+        },
+        {
+            "link": "https://book.douban.com/author/4626980/",
+            "name": "王冉",
+            "role": "译者",
+            "douban_id": "4626980"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "45.99元",
+            "link": "https://read.douban.com/ebook/451457967/?dcs=subject-buylink&dcm=douban&dct=36507530"
+        },
+        {
+            "name": "得到",
+            "price": "45.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=6JvkYVNn8NXVry5MeG6Z9RALK2dxJ3GP1Ndw7olBEmjgakz1DPvYObQ4qpQdZqme&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "34.10元",
+            "link": "https://book.douban.com/link2/?lowest=3410&pre=0&vendor=jingdong&srcpage=subject&price=3410&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IHlgdWQcLU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYHV1ZZCUIQHDZNRwYlWHx-ASZVDyB3cwlTUgNhAHJZKjZYTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXQ4LXF5bDEgeM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8SWg9sCFgKSRMQUCZmG1oVXAEAUFZtCkoWAW04K2tNG2JxAVs0UTV1WB9qbQJ3FXliBhgUdxV5ATpfHh1CLn5WKj88UA0SegdcK1gl&cntvendor=5&srcsubj=36507530&type=bkbuy&subject=36507530"
+        },
+        {
+            "name": "当当网",
+            "price": "34.90元",
+            "link": "https://book.douban.com/link2/?lowest=3410&pre=0&vendor=dangdang&srcpage=subject&price=3490&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36507530%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29658227&cntvendor=5&srcsubj=36507530&type=bkbuy&subject=36507530"
+        },
+        {
+            "name": "中图网",
+            "price": "44.40元",
+            "link": "https://book.douban.com/link2/?lowest=3410&pre=0&vendor=bookschina&srcpage=subject&price=4440&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9214511.htm&cntvendor=5&srcsubj=36507530&type=bkbuy&subject=36507530"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36507530/",
+    "douban_id": "36507530",
+    "menu": [
+        "",
+        "        第一部分 克莱尔",
+        "        第二部分 哈宾德",
+        "        第三部分 乔治娅",
+        "        第四部分 克莱尔",
+        "        第五部分 哈宾德",
+        "        第六部分 乔治娅",
+        "        第七部分 克莱尔",
+        "        第八部分 哈宾德",
+        "        第九部分 乔治娅",
+        "        第十部分 哈宾德",
+        "        第十一部分 乔治娅",
+        "        第十二部分 哈宾德",
+        "        第十三部分 哈宾德和克莱尔",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

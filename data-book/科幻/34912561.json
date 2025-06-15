@@ -1,0 +1,70 @@
+{
+    "title": "伪神",
+    "bookInfo": {
+        "作者": "[英]格雷厄姆·麦克尼尔（Graham McNeill）",
+        "出版社": "浙江科学技术出版社",
+        "原作名": "False Gods",
+        "译者": "赵笛",
+        "出版年": "2020-5",
+        "定价": "55.00元",
+        "装帧": "平装",
+        "丛书": "荷鲁斯之乱",
+        "ISBN": "9787534188565"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "39.6%",
+        "four_star_rate": "37.8%",
+        "three_star_rate": "17.7%",
+        "two_star_rate": "3.7%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4640687/",
+            "name": "格雷厄姆·麦克尼尔",
+            "role": "作者",
+            "douban_id": "4640687"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "55.00元",
+            "link": "https://read.douban.com/ebook/314033505/?dcs=subject-buylink&dcm=douban&dct=34912561"
+        },
+        {
+            "name": "京东商城",
+            "price": "44.00元",
+            "link": "https://book.douban.com/link2/?lowest=3950&pre=0&vendor=jingdong&srcpage=subject&price=4400&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFIVWwIAXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOMS4NUCt3BARSUztxVAVRAQ4DcxhfeAt2dVkVPQFyKAYCUhFDVwp4eS9sIxFCWCokcBhgYBRLbwRPBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ4XAICQBhUZgpWWyFjPmNBHBgmaQJnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVCE8XBWY4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggcWlIFU1czVE1BAipdGlp7XQYHXF1dDEgnAW4JGVklbTZnJA4FaCsQaDVAez8cXlVXBAAmWwNsZxFmGVt1WnZ-DAEHUh9DZh9qbyJrbQUy&cntvendor=3&srcsubj=34912561&type=bkbuy&subject=34912561"
+        },
+        {
+            "name": "中图网",
+            "price": "39.50元",
+            "link": "https://book.douban.com/link2/?lowest=3950&pre=0&vendor=bookschina&srcpage=subject&price=3950&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8465146.htm&cntvendor=3&srcsubj=34912561&type=bkbuy&subject=34912561"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34912561/",
+    "douban_id": "34912561",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33877919.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英]格雷厄姆·麦克尼尔（Graham McNeill）",
+            "link": "https://book.douban.com/author/4640687"
+        },
+        {
+            "text": "浙江科学技术出版社",
+            "link": "https://book.douban.com/press/2304"
+        },
+        {
+            "text": "赵笛",
+            "link": "https://book.douban.com/search/%E8%B5%B5%E7%AC%9B"
+        },
+        {
+            "text": "荷鲁斯之乱",
+            "link": "https://book.douban.com/series/55364"
+        }
+    ],
+    "tag": "科幻"
+}

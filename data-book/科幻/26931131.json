@@ -1,0 +1,52 @@
+{
+    "title": "Ball Lightning",
+    "bookInfo": {
+        "作者": "Cixin Liu",
+        "出版社": "Tor Books",
+        "原作名": "球状闪电",
+        "译者": "Joel Martinsen",
+        "出版年": "2017-8-22",
+        "页数": "352",
+        "定价": "USD 25.99",
+        "装帧": "Hardcover",
+        "ISBN": "9780765394071"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "61.8%",
+        "four_star_rate": "35.3%",
+        "three_star_rate": "2.9%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561353/",
+            "name": "刘慈欣",
+            "role": "作者",
+            "douban_id": "4561353"
+        },
+        {
+            "link": "https://book.douban.com/author/4620374/",
+            "name": "周华",
+            "role": "译者",
+            "douban_id": "4620374"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/26931131/",
+    "douban_id": "26931131",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29204947.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "Cixin Liu",
+            "link": "https://book.douban.com/search/Cixin%20Liu"
+        },
+        {
+            "text": "Joel Martinsen",
+            "link": "https://book.douban.com/search/Joel%20Martinsen"
+        }
+    ],
+    "tag": "科幻"
+}

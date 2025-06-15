@@ -1,0 +1,70 @@
+{
+    "title": "梦蛇",
+    "bookInfo": {
+        "作者": "[美]冯达·N.麦金泰尔 / 冯达·N·麦金太尔",
+        "出版社": "天地出版社",
+        "出品方": "狮鹫文学",
+        "原作名": "DREAMSNAKE",
+        "译者": "齐如君",
+        "出版年": "2018-9-1",
+        "页数": "384",
+        "定价": "39",
+        "装帧": "平装",
+        "ISBN": "9787545537307"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "14.1%",
+        "four_star_rate": "39.7%",
+        "three_star_rate": "32.1%",
+        "two_star_rate": "12.2%",
+        "one_star_rate": "1.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4620585/",
+            "name": "冯达·N·麦金太尔",
+            "role": "作者",
+            "douban_id": "4620585"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.18元",
+            "link": "https://book.douban.com/link2/?lowest=1660&pre=0&vendor=jingdong&srcpage=subject&price=2418&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF4UXw8HVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUV9fAU4XHDZNRwYlPGVGJ10HQyh3eTNPZgJxNVhrIB4mXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYFUV5YAEsUM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsQWgdsCFgKQwIRVzpmG1sQVQ8BXFltCkoWAW04K2tIFAQCKlcNSAl-QTl8ZyJDNmV2DiYNARl5ATMBZhJyXQQKFjc0VQJuYmpRK1gl&cntvendor=2&srcsubj=30144062&type=bkbuy&subject=30144062"
+        },
+        {
+            "name": "中图网",
+            "price": "16.60元",
+            "link": "https://book.douban.com/link2/?lowest=1660&pre=0&vendor=bookschina&srcpage=subject&price=1660&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7850568.htm&cntvendor=2&srcsubj=30144062&type=bkbuy&subject=30144062"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30144062/",
+    "douban_id": "30144062",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29803095.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]冯达·N.麦金泰尔",
+            "link": "https://book.douban.com/search/%E5%86%AF%E8%BE%BE%C2%B7N.%E9%BA%A6%E9%87%91%E6%B3%B0%E5%B0%94"
+        },
+        {
+            "text": "冯达·N·麦金太尔",
+            "link": "https://book.douban.com/author/4620585"
+        },
+        {
+            "text": "天地出版社",
+            "link": "https://book.douban.com/press/2712"
+        },
+        {
+            "text": "狮鹫文学",
+            "link": "https://book.douban.com/producers/139"
+        },
+        {
+            "text": "齐如君",
+            "link": "https://book.douban.com/search/%E9%BD%90%E5%A6%82%E5%90%9B"
+        }
+    ],
+    "tag": "科幻"
+}

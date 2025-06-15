@@ -1,0 +1,45 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "小巷人家",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34730787.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36691906/",
+                        "year": "2024",
+                        "id": 36691906
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4638184/",
+    "author_douban_id": "4638184",
+    "personage_id": 36599525,
+    "name": [
+        "大米",
+        "Mi Da"
+    ],
+    "intro": "大米，原名王杨，生于江苏南通，毕业于上海戏剧学院编导系，除写作之外，她还从事电影、电视剧等方面的创作。她的代表作品《小巷人家》曾被改编为同名电视剧，备受观众喜爱。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "更多中文名": "王杨(本名)",
+    "sex": 0,
+    "birth_place": [
+        "中国",
+        "江苏",
+        "南通"
+    ],
+    "IMDB": "nm15347650",
+    "profession": [
+        "编剧",
+        "作者"
+    ]
+}

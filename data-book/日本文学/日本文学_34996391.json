@@ -1,0 +1,91 @@
+{
+    "title": "女神记",
+    "bookInfo": {
+        "作者": "[日] 桐野夏生",
+        "出版社": "重庆出版社",
+        "副标题": "日本创世神话里的复仇传奇",
+        "译者": "刘子倩",
+        "出版年": "2020-5",
+        "页数": "248",
+        "定价": "49.80",
+        "装帧": "精装",
+        "丛书": "“重述神话”系列",
+        "ISBN": "9787229149116"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.7%",
+        "four_star_rate": "46.9%",
+        "three_star_rate": "31.0%",
+        "two_star_rate": "4.9%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/204086/",
+            "name": "桐野夏生",
+            "role": "作者",
+            "douban_id": "204086"
+        },
+        {
+            "link": "https://book.douban.com/author/4618581/",
+            "name": "刘子倩",
+            "role": "译者",
+            "douban_id": "4618581"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "31.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg04yloWJzxbE9LZl1o8RkGd2BPYv4x6d9meB&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=jingdong&srcpage=subject&price=2490&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwQCVl9aAEseCl8IGloTWQIGVFpUDE0QCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkMH18VWQ8GUllUFxJSXzI4RQJHNFFhNSo9WzUUfzNoSAtSKlREElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXXgAKU1heOEkXAm4NG1MSXgcyVFhYCUgWBmkMHV4dVDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlZYARsSbTMOTBleD19VOl5cDkIRBm0NK1kUXAQAZG5tTR9taA9ofFxxD15JEwEPCkxvam9DeiFuMwRbD1wJaiBieAsBTzlIIGABKW5eOA&cntvendor=4&srcsubj=34996391&type=bkbuy&subject=34996391"
+        },
+        {
+            "name": "当当网",
+            "price": "28.10元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=dangdang&srcpage=subject&price=2810&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34996391%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29136813&cntvendor=4&srcsubj=34996391&type=bkbuy&subject=34996391"
+        },
+        {
+            "name": "中图网",
+            "price": "28.40元",
+            "link": "https://book.douban.com/link2/?lowest=2490&pre=0&vendor=bookschina&srcpage=subject&price=2840&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8415966.htm&cntvendor=4&srcsubj=34996391&type=bkbuy&subject=34996391"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34996391/",
+    "douban_id": "34996391",
+    "menu": [
+        "",
+        "        第一章 今日斯日",
+        "        第二章 前往黄泉国",
+        "        第三章 世间处处",
+        "        第四章 呜呼噫唏，彼何好女",
+        "        第五章 呜呼噫唏，彼何好男",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33759579.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 桐野夏生",
+            "link": "https://book.douban.com/author/204086"
+        },
+        {
+            "text": "重庆出版社",
+            "link": "https://book.douban.com/press/2162"
+        },
+        {
+            "text": "刘子倩",
+            "link": "https://book.douban.com/author/4618581"
+        },
+        {
+            "text": "“重述神话”系列",
+            "link": "https://book.douban.com/series/53742"
+        }
+    ],
+    "tag": "日本文学"
+}

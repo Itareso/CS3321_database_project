@@ -1,0 +1,30 @@
+{
+    "title": "口に関するアンケート",
+    "bookInfo": {
+        "作者": "背筋",
+        "出版社": "ポプラ社",
+        "出版年": "2024-9-4",
+        "ISBN": "9784591182253"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": null,
+        "four_star_rate": null,
+        "three_star_rate": null,
+        "two_star_rate": null,
+        "one_star_rate": null
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4638256/",
+            "name": "背筋",
+            "role": "作者",
+            "douban_id": "4638256"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/36946561/",
+    "douban_id": "36946561",
+    "menu": [],
+    "tag": "小说"
+}

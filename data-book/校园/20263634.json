@@ -1,0 +1,64 @@
+{
+    "title": "传闻中的樱执事",
+    "bookInfo": {
+        "作者": "草莓多",
+        "出版社": "知识出版社",
+        "出版年": "2012-10",
+        "页数": "224",
+        "定价": "24.80元",
+        "装帧": "平装",
+        "ISBN": "9787501567126"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "65.0%",
+        "four_star_rate": "15.0%",
+        "three_star_rate": "20.0%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/225467/",
+            "name": "草莓多",
+            "role": "作者",
+            "douban_id": "225467"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.80元",
+            "link": "https://book.douban.com/link2/?lowest=2180&pre=0&vendor=jingdong&srcpage=subject&price=2180&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10029048949100.html&cntvendor=1&srcsubj=20263634&type=bkbuy&subject=20263634"
+        }
+    ],
+    "url": "https://book.douban.com/subject/20263634/",
+    "douban_id": "20263634",
+    "menu": [
+        "",
+        "        楔子",
+        "        第一章 天堂般的执事学院",
+        "        第二章 樱花树上的美少年",
+        "        第三章 从育科执事的职责",
+        "        第四章 都较长的审判之门",
+        "        第五章 第二枚勋章的认可",
+        "        第六章 约会破坏着的大行动",
+        "        第八章 爱之魔法试炼",
+        "        第九章 小时的樱堂橘执事",
+        "        第十章 最终的爱之抉择",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s24411130.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "草莓多",
+            "link": "https://book.douban.com/search/%E8%8D%89%E8%8E%93%E5%A4%9A"
+        },
+        {
+            "text": "知识出版社",
+            "link": "https://book.douban.com/press/2613"
+        }
+    ],
+    "tag": "校园"
+}

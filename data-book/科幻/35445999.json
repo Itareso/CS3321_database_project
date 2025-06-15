@@ -1,0 +1,74 @@
+{
+    "title": "薄雾",
+    "bookInfo": {
+        "作者": "微风几许",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "魅丽文化",
+        "出版年": "2021-6",
+        "页数": "336",
+        "定价": "46.80元",
+        "装帧": "平装",
+        "丛书": "薄雾",
+        "ISBN": "9787559454164"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "52.2%",
+        "four_star_rate": "37.7%",
+        "three_star_rate": "8.5%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624846/",
+            "name": "微风几许",
+            "role": "作者",
+            "douban_id": "4624846"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "29.00元",
+            "link": "https://book.douban.com/link2/?lowest=2530&pre=0&vendor=jingdong&srcpage=subject&price=2900&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVgUWw8BXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAV19bAUgeHDZNRwYlXERbVloNXTRydHUPYTwVHnF7MC02eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeBl8IHV4UXgYEVVhbAE8RM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1sWX1VsCFgLCRhAAjhmG1sRVQcDXF9tCkoWAW04K2sVO1tBJDcrDh0QQihUSAMRIGBaIhwidxN5AQpgWD1jHlR8Ah8cCC18VxtsK1gl&cntvendor=2&srcsubj=35445999&type=bkbuy&subject=35445999"
+        },
+        {
+            "name": "中图网",
+            "price": "25.30元",
+            "link": "https://book.douban.com/link2/?lowest=2530&pre=0&vendor=bookschina&srcpage=subject&price=2530&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8585519.htm&cntvendor=2&srcsubj=35445999&type=bkbuy&subject=35445999"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35445999/",
+    "douban_id": "35445999",
+    "menu": [
+        "",
+        "        第一篇 起点",
+        "        第二篇 衔尾蛇",
+        "        第三篇 中转站",
+        "        第四篇 卡俄斯",
+        "        第五篇 我是谁",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33900058.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "微风几许",
+            "link": "https://book.douban.com/author/4624846"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "魅丽文化",
+            "link": "https://book.douban.com/producers/272"
+        },
+        {
+            "text": "薄雾",
+            "link": "https://book.douban.com/series/57926"
+        }
+    ],
+    "tag": "科幻"
+}

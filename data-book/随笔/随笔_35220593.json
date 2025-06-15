@@ -1,0 +1,93 @@
+{
+    "title": "吃醋的人生",
+    "bookInfo": {
+        "作者": "冯仑",
+        "出版社": "中国华侨出版社",
+        "出品方": "果麦文化",
+        "出版年": "2020-10",
+        "页数": "208",
+        "定价": "68",
+        "装帧": "精装",
+        "ISBN": "9787511382238"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    这是一本讲商业人物、商业掌故、商业中的人生体会的书，为什么会起名为《吃醋的人生》呢？    当我们吃惯了主菜、大菜的时候，会稍微来一点醋，调调味。商业也是一样，它有值得我们咀嚼和回味的另一面。用“吃醋”的心情来看那些端正的、高大上的商业故事，来对照过去我们不注意的一些商业定律、法则和规范，是一个很有意思、相映成趣的事情。    不平静的2020年已过大半，冯仑跟您聊聊天、讲讲段子。    在新书《吃醋的人生》中，冯叔从中国传统的三大商帮，聊到回归小剧场的开心麻花；从“套套”的小生意，聊到马斯克的火星移民；从追逐天价松露的大董，聊到用爱发电的建川；从李白的诗，聊到黄埔军校那惊神泣鬼的校训：贪生怕死莫入此门。    生意小，到底值不值得做？站着、坐着、躺着，哪个更赚钱？在地球上百思不得其解的难题，怎么破？一百年前的黄埔军校，对今天的商业社会有怎样的启发？人活一世，为什么一堂死亡课不能少？    聊完十多个故事，站在2020年终末的节点上，“商界思想家”冯仑亮出了他的本意——让我们回归商业的本质。“一名企业家，如果有正确的价值观，就可以做好三件事：看未来的方向，算别人算不清的账，做别人不做的事。”\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "18.5%",
+        "four_star_rate": "32.4%",
+        "three_star_rate": "39.9%",
+        "two_star_rate": "7.8%",
+        "one_star_rate": "1.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/117307/",
+            "name": "冯仑",
+            "role": "作者",
+            "douban_id": "117307"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "58.00元",
+            "link": "https://read.douban.com/ebook/161372473/?dcs=subject-buylink&dcm=douban&dct=35220593"
+        },
+        {
+            "name": "京东商城",
+            "price": "34.00元",
+            "link": "https://book.douban.com/link2/?lowest=2280&pre=0&vendor=jingdong&srcpage=subject&price=3400&pos=2&url=https%3A%2F%2Fitem.jd.com%2F12747293.html&cntvendor=4&srcsubj=35220593&type=bkbuy&subject=35220593"
+        },
+        {
+            "name": "当当网",
+            "price": "45.30元",
+            "link": "https://book.douban.com/link2/?lowest=2280&pre=0&vendor=dangdang&srcpage=subject&price=4530&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35220593%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29133620&cntvendor=4&srcsubj=35220593&type=bkbuy&subject=35220593"
+        },
+        {
+            "name": "中图网",
+            "price": "22.80元",
+            "link": "https://book.douban.com/link2/?lowest=2280&pre=0&vendor=bookschina&srcpage=subject&price=2280&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5920505.htm&cntvendor=4&srcsubj=35220593&type=bkbuy&subject=35220593"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35220593/",
+    "douban_id": "35220593",
+    "menu": [
+        "",
+        "        目录：",
+        "        序：人生何处不吃醋",
+        "        【商帮】",
+        "        晋商",
+        "        温商",
+        "        潮商",
+        "        【商机】",
+        "        开心麻花",
+        "        建川博物馆",
+        "        大董",
+        "        【创业】",
+        "        火星饭局",
+        "        小套套的大生意",
+        "        藏在中关村的3W咖啡",
+        "        【百味】",
+        "        李白的诗到底卖了多少钱",
+        "        吃醋的人生",
+        "        贪生怕死莫入此门",
+        "        人生需要一堂死亡课",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34021373.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "冯仑",
+            "link": "https://book.douban.com/search/%E5%86%AF%E4%BB%91"
+        },
+        {
+            "text": "中国华侨出版社",
+            "link": "https://book.douban.com/press/2830"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        }
+    ],
+    "tag": "随笔"
+}

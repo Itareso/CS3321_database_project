@@ -1,0 +1,48 @@
+{
+    "title": "弹痕",
+    "bookInfo": {
+        "作者": "纷舞妖姬",
+        "出版社": "中国友谊出版公司",
+        "出版年": "2006-12",
+        "页数": "290",
+        "定价": "26.00元",
+        "丛书": "弹痕",
+        "ISBN": "9787505722927"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.6%",
+        "four_star_rate": "30.9%",
+        "three_star_rate": "16.4%",
+        "two_star_rate": "3.7%",
+        "one_star_rate": "3.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/168326/",
+            "name": "董群",
+            "role": "作者",
+            "douban_id": "168326"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/2094609/",
+    "douban_id": "2094609",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s11429430.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "纷舞妖姬",
+            "link": "https://book.douban.com/author/168326/"
+        },
+        {
+            "text": "中国友谊出版公司",
+            "link": "https://book.douban.com/press/2416"
+        },
+        {
+            "text": "弹痕",
+            "link": "https://book.douban.com/series/51881"
+        }
+    ],
+    "tag": "军事"
+}

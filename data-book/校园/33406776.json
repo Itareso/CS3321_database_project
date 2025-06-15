@@ -1,0 +1,45 @@
+{
+    "title": "不熟",
+    "bookInfo": {
+        "作者": "柳满坡 / 李八喜",
+        "出版社": "威向",
+        "副标题": "特別版",
+        "出版年": "2019-9",
+        "页数": "400",
+        "定价": "NTD 680",
+        "装帧": "平装",
+        "ISBN": "9789865050153"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.0%",
+        "four_star_rate": "37.5%",
+        "three_star_rate": "31.5%",
+        "two_star_rate": "5.6%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624938/",
+            "name": "柳满坡",
+            "role": "作者",
+            "douban_id": "4624938"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/33406776/",
+    "douban_id": "33406776",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s32325492.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "柳满坡",
+            "link": "https://book.douban.com/author/4624938"
+        },
+        {
+            "text": "李八喜",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E5%85%AB%E5%96%9C"
+        }
+    ],
+    "tag": "校园"
+}

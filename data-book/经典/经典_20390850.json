@@ -1,0 +1,91 @@
+{
+    "title": "左传（全三册）",
+    "bookInfo": {
+        "作者": "左丘明",
+        "出版社": "中华书局",
+        "译者": "郭丹 / 程小青 / 李彬源",
+        "出版年": "2022-7-25",
+        "页数": "2472",
+        "定价": "170.00元",
+        "装帧": "精装",
+        "丛书": "中华经典名著全本全注全译丛书",
+        "ISBN": "9787101088335"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "75.1%",
+        "four_star_rate": "18.8%",
+        "three_star_rate": "4.0%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "33.39元",
+            "link": "https://www.dedao.cn/ebook/detail?id=rEQKv6PKN7rEo2Gxg96ZjApyMvQVlw5Lvr3Xb14PJzDkYaReqd8n5LOmB8d7egBx&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "170.00元",
+            "link": "https://book.douban.com/link2/?lowest=14110&pre=0&vendor=jingdong&srcpage=subject&price=17000&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVIWXQIEXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAXV1dDE0eHDZNRwYlCG1bMVw8CRZyeDtubARDAH1yXBYJXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcBVlZdDU8UM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVRsCFgKSxFLRihmG1oRXg8CUFdtCkoWAW04K2tgIFhJND4jYB8TejlrYR51OFthAAAkAQx5ARx3GiZJFltRAFdUfTZqezt4K1gl&cntvendor=3&srcsubj=20390850&type=bkbuy&subject=20390850"
+        },
+        {
+            "name": "中图网",
+            "price": "141.10元",
+            "link": "https://book.douban.com/link2/?lowest=14110&pre=0&vendor=bookschina&srcpage=subject&price=14110&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7210137.htm&cntvendor=3&srcsubj=20390850&type=bkbuy&subject=20390850"
+        }
+    ],
+    "url": "https://book.douban.com/subject/20390850/",
+    "douban_id": "20390850",
+    "menu": [
+        "",
+        "        上册目录",
+        "        前言",
+        "        隐公",
+        "        桓公",
+        "        庄公",
+        "        闵公",
+        "        僖公",
+        "        文公",
+        "        中册目录",
+        "        宣公",
+        "        成公",
+        "        襄公",
+        "        下册目录",
+        "        昭公",
+        "        定公",
+        "        哀公",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s24486241.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "左丘明",
+            "link": "https://book.douban.com/search/%E5%B7%A6%E4%B8%98%E6%98%8E"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "郭丹",
+            "link": "https://book.douban.com/search/%E9%83%AD%E4%B8%B9"
+        },
+        {
+            "text": "程小青",
+            "link": "https://book.douban.com/search/%E7%A8%8B%E5%B0%8F%E9%9D%92"
+        },
+        {
+            "text": "李彬源",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E5%BD%AC%E6%BA%90"
+        },
+        {
+            "text": "中华经典名著全本全注全译丛书",
+            "link": "https://book.douban.com/series/4103"
+        }
+    ],
+    "tag": "经典"
+}

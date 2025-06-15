@@ -1,0 +1,79 @@
+{
+    "title": "读库1905",
+    "bookInfo": {
+        "作者": "张立宪 主编",
+        "出版社": "新星出版社",
+        "出品方": "读库",
+        "出版年": "2019-11-6",
+        "页数": "352",
+        "定价": "42",
+        "装帧": "平装",
+        "丛书": "读库",
+        "ISBN": "9787513337847"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《读库1905》共包含五篇文章：《弄堂、广场和小镇》《白河攀岩》《鏖战中途岛》《中国剩余定理平话》以及《冷眼看水浒（续）》。    上世纪九十年代，下岗潮席卷大江南北，浙江湖州菱湖镇的菱晓当时在上小学，镇上的工厂纷纷倒闭，父母陆续下岗，只能另想办法挣钱，两年后举家搬迁到城里。二十年后，菱晓回忆童年的生活，记下弄堂、广场、街坊、工厂等这些跟自己生活相关的碎片，只因一切都已剧烈地改变了。    如果说优胜美地是美国攀岩者的乌托邦，那么白河就是中国攀岩者的乌托邦，它像一个游离于都市之外的异想世界。《白河攀岩》的三位作者走访多位中国早期攀岩爱好者，回顾二十余年来北京郊区白河岩场的发展，也可以看成是一部中国民间攀岩史。    《读库1901》里刊发了徐辰老师的《东京上空三十秒》，《鏖战中途岛》可以看作此文的姊妹篇，更为详细地复盘中途岛海战这一太平洋战争的重要转折点。1942年6月4日凌晨，美日双方都还不知道这一天的战斗意味着什么，上午十点二十分开始的六分钟，一系列的巧合、失误和时机，使太平洋战争的天平奇迹般的发生翻转。    翻看西方数学史时会发现，满眼都是欧几里得、牛顿、欧拉、高斯这些名字，很少有中国数学家侧身其中；以中国或中国数学家命名的定理、公式、方程、常数更是凤毛麟角难得一见，硕果仅存的例子是秦九韶和他的“大衍总数术”。后者现在被数学史著作称为“中国剩余定理”，被广泛应用到密码学、多项式插值计算、抽象代数等多个领域。继《无穷大平话》和《黎曼假设平话》之后，贾辉军老师带来新作《中国剩余定理平话》，抽丝剥茧带读者认识和领悟这一精湛绝伦的算法。    赵瑜老师刊发在《读库1904》里的《冷眼看水浒》引发读者热议，有人认为写得是老生常谈、意气用事，有人觉得是从另外一个角度给我们启示。在《冷眼看水浒（续）》里，作者继续用其独特的视角剖析这些梁山好汉们的行事风格，作者认为，《水浒传》可能是一部正面歌颂，而暗地里讽刺其“忠义精神”的作品。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "17.8%",
+        "four_star_rate": "52.0%",
+        "three_star_rate": "28.0%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4537005/",
+            "name": "张立宪",
+            "role": "编者",
+            "douban_id": "4537005"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "29.82元",
+            "link": "https://book.douban.com/link2/?lowest=2410&pre=0&vendor=jingdong&srcpage=subject&price=2982&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwVXw8EVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU15fAU0XHDZNRwYlWn8YJlg_ViJyB2wBSQxeOwJeLgY4eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFZfAEwXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFwWWQJsCFgKSgxTUzBmG1oRXwQLXV1tCkoWAW04K2tKX1lhND41ThBScTN3fV5TOFRfHCVdWwp5ASRBUFlvPlhRDygrV0lVdDhNK1gl&cntvendor=3&srcsubj=34866462&type=bkbuy&subject=34866462"
+        },
+        {
+            "name": "当当网",
+            "price": "33.10元",
+            "link": "https://book.douban.com/link2/?lowest=2410&pre=0&vendor=dangdang&srcpage=subject&price=3310&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34866462%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28502447&cntvendor=3&srcsubj=34866462&type=bkbuy&subject=34866462"
+        },
+        {
+            "name": "中图网",
+            "price": "24.10元",
+            "link": "https://book.douban.com/link2/?lowest=2410&pre=0&vendor=bookschina&srcpage=subject&price=2410&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8242333.htm&cntvendor=3&srcsubj=34866462&type=bkbuy&subject=34866462"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34866462/",
+    "douban_id": "34866462",
+    "menu": [
+        "",
+        "        1-67   弄堂、广场和小镇                   菱晓",
+        "        68-112  白河攀岩                   董俊 宋明蔚 猫季",
+        "        113-236  鏖战中途岛                   徐辰",
+        "        237-295  中国剩余定理平话                   贾辉军",
+        "        296-345  冷眼看水浒（续）                   赵瑜",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33505540.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张立宪 主编",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E7%AB%8B%E5%AE%AA%20%E4%B8%BB%E7%BC%96"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "读库",
+            "link": "https://book.douban.com/producers/23"
+        },
+        {
+            "text": "读库",
+            "link": "https://book.douban.com/series/834"
+        }
+    ],
+    "tag": "随笔"
+}

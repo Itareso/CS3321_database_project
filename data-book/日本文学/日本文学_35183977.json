@@ -1,0 +1,75 @@
+{
+    "title": "明暗",
+    "bookInfo": {
+        "作者": "[日] 夏目漱石",
+        "出版社": "古吴轩出版社",
+        "出品方": "凤凰颐合",
+        "译者": "徐智勇",
+        "出版年": "2020-9",
+        "页数": "512",
+        "定价": "88.00",
+        "装帧": "平装",
+        "丛书": "人间镜像",
+        "ISBN": "9787554615928"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《明暗》是夏目漱石十二年来所有意义上的积累。其中既包含着年过四十、彻底进入作家生活的漱石丰富的阅历，又有一定的界限。小说两者之间产生了极其复杂微妙的矛盾，闪耀着光芒。    ——宫本百合子    《明暗》是日本近代小说的最高峰。通过描写小林这一人物，漱石将自己作品中的世界从家庭扩大到了社会层面。    ——江藤淳    《明暗》反映出了我们平时所见的平凡现实生活中的真相。在夏目漱石写下的文字里没有一件异常的事件……我读到《明暗》，第一次感觉到漱石很了解女性。    ——正宗白鸟    《明暗》不仅是漱石所有小说中最优秀的一篇，也是日本近代文学史上最初的、最正统的小说。只有漱石能写出这样的小说，因为只有漱石完全理解了欧美小说的本质——以市民生活为舞台的心理描写——和日本的自然主义文学近似，都是些微不足道的细节。这些相似的细节在名为“日本”的文学土壤上开花了。    ——加藤周一    《明暗》以开化后的日本明治时代，电气化之后的东京为背景，以新婚半年的津田夫妇一月内的生活经历和感情纠葛为线索，主要描绘了日本中上阶层的亲族关系、人情往来、代际冲突，也反映了他们与底层之间近乎不可调和的隔阂与矛盾。小说以应接不暇的人物活动、表情对话和心理描写，塑造了多个性格鲜明、立场各异的人物，更通过一次次精彩的人物对话，呈现了一幕幕紧锣密鼓、唇枪舌剑下的明争暗斗。台面上的话语、表情、举止，是为“明”，背地里的思想、欲望、算计，是为“暗”，明暗交织着，决定了故事的走向与各人的命运，一气呵成，却最终没有结尾，堪称日本近代文学史上一大遗憾。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "53.3%",
+        "four_star_rate": "28.9%",
+        "three_star_rate": "13.3%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "2.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503311/",
+            "name": "夏目漱石",
+            "role": "作者",
+            "douban_id": "4503311"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.38元",
+            "link": "https://book.douban.com/link2/?lowest=3138&pre=0&vendor=jingdong&srcpage=subject&price=3138&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10056854018326.html&cntvendor=3&srcsubj=35183977&type=bkbuy&subject=35183977"
+        },
+        {
+            "name": "当当网",
+            "price": "88.00元",
+            "link": "https://book.douban.com/link2/?lowest=3138&pre=0&vendor=dangdang&srcpage=subject&price=8800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35183977%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29154239&cntvendor=3&srcsubj=35183977&type=bkbuy&subject=35183977"
+        },
+        {
+            "name": "中图网",
+            "price": "38.80元",
+            "link": "https://book.douban.com/link2/?lowest=3138&pre=0&vendor=bookschina&srcpage=subject&price=3879&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8457049.htm&cntvendor=3&srcsubj=35183977&type=bkbuy&subject=35183977"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35183977/",
+    "douban_id": "35183977",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33749750.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 夏目漱石",
+            "link": "https://book.douban.com/author/4503311"
+        },
+        {
+            "text": "古吴轩出版社",
+            "link": "https://book.douban.com/press/2681"
+        },
+        {
+            "text": "凤凰颐合",
+            "link": "https://book.douban.com/producers/177"
+        },
+        {
+            "text": "徐智勇",
+            "link": "https://book.douban.com/search/%E5%BE%90%E6%99%BA%E5%8B%87"
+        },
+        {
+            "text": "人间镜像",
+            "link": "https://book.douban.com/series/52334"
+        }
+    ],
+    "tag": "日本文学"
+}

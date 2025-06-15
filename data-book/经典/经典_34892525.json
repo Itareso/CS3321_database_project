@@ -1,0 +1,123 @@
+{
+    "title": "几何原本",
+    "bookInfo": {
+        "作者": "[古希腊] 欧几里得",
+        "出版社": "江西人民出版社",
+        "出品方": "果麦文化",
+        "原作名": "Στοιχεῖα",
+        "译者": "张卜天",
+        "出版年": "2019-12-10",
+        "页数": "480",
+        "定价": "78.00元",
+        "装帧": "平装",
+        "ISBN": "9787210118046"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《几何原本》是古希腊数学家欧几里得的一部不朽之作，集整个古希腊数学的成果与精神于一身。大约成书于公元前300年，全书共分13卷。书中保存了许多古希腊早期的几何学理论，欧几里得进行了开创性的系统整理和完整阐述。    《几何原本》在2000多年间已经用不同文字出版了1000版以上，出版量仅次于《圣经》。1607年，明代数学家徐光启与利玛窦首次在中国翻译了《几何原本》前6卷，极大地影响了中国原有数学学习和研究的习惯，改变了中国数学发展的方向。咸丰初年，曾国藩资助且代序推荐，数学家李善兰完成徐光启与利玛窦未竟之业，《几何原本》中文完整版首次面世。    《几何原本》的重要性不仅在于它所提出的一系列意义重大的公式、定理，而是它建立了严密的逻辑，进而演变成了一种借助数学去理解世界的思想体系。古希腊、古罗马、中世纪、文艺复兴、近代科学、现代世界的格局等等，无不是在这种思想体系的框架中产生。    徐光启曾评价此书：能精此书者，无一事不可精；好学此书者，无一事不可学。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "69.8%",
+        "four_star_rate": "20.2%",
+        "three_star_rate": "7.1%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4555590/",
+            "name": "欧几里得",
+            "role": "作者",
+            "douban_id": "4555590"
+        },
+        {
+            "link": "https://book.douban.com/author/4608293/",
+            "name": "张卜天",
+            "role": "译者",
+            "douban_id": "4608293"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "78.00元",
+            "link": "https://read.douban.com/ebook/127778133/?dcs=subject-buylink&dcm=douban&dct=34892525"
+        },
+        {
+            "name": "得到",
+            "price": "78.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=pAVMknaY9VDA6M7OjdpEvLnKm85rPw9GAgWZxykgeQJaRb4oBqNzGlX12boL1Nl9&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "38.20元",
+            "link": "https://book.douban.com/link2/?lowest=3820&pre=0&vendor=jingdong&srcpage=subject&price=3820&pos=3&url=https%3A%2F%2Fitem.jd.com%2F13000408.html&cntvendor=3&srcsubj=34892525&type=bkbuy&subject=34892525"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34892525/",
+    "douban_id": "34892525",
+    "menu": [
+        "",
+        "        第一卷",
+        "        定义 Definitions",
+        "        公设 Postulates",
+        "        公理 Common Notions",
+        "        命题 Proposition",
+        "        第二卷",
+        "        定义 Definitions",
+        "        命题 Proposition",
+        "        第三卷",
+        "        定义 Definitions",
+        "        命题 Proposition",
+        "        第四卷",
+        "        定义 Definitions",
+        "        命题 Proposition",
+        "        第五卷",
+        "        定义 Definitions",
+        "        命题 Proposition",
+        "        第六卷",
+        "        定义 Definitions",
+        "        命题 Proposition",
+        "        第七卷",
+        "        定义 Definitions",
+        "        命题 Proposition",
+        "        第八卷",
+        "        命题 Proposition",
+        "        第九卷",
+        "        命题 Proposition",
+        "        第十卷",
+        "        定义ⅠDefinitions",
+        "        命题 Proposition",
+        "        定义 Ⅱ Definitions",
+        "        命题 Proposition",
+        "        定义 Ⅲ Definitions",
+        "        命题 Proposition",
+        "        第十一卷",
+        "        定义 Definitions",
+        "        命题 Proposition",
+        "        第十二卷",
+        "        命题 Proposition",
+        "        第十三卷",
+        "        命题 Proposition",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33533954.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[古希腊] 欧几里得",
+            "link": "https://book.douban.com/search/%E6%AC%A7%E5%87%A0%E9%87%8C%E5%BE%97"
+        },
+        {
+            "text": "江西人民出版社",
+            "link": "https://book.douban.com/press/2145"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "张卜天",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E5%8D%9C%E5%A4%A9"
+        }
+    ],
+    "tag": "经典"
+}

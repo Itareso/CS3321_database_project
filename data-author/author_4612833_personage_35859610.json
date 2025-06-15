@@ -1,0 +1,163 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "幸福的種子",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s2458208.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/2118105/",
+                        "year": "",
+                        "id": 2118105
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "一蔸雨水一蔸禾",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34858003.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36820861/",
+                        "year": "2024",
+                        "id": 36820861
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "人间任天真",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34833472.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36581764/",
+                        "year": "2024",
+                        "id": 36581764
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "火城1938",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34870902.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36838948/",
+                        "year": "2024",
+                        "id": 36838948
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.5,
+                        "title": "三个和尚",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34820844.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/36820996/",
+                        "year": "2024",
+                        "id": 36820996
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "咩，咩，小黑羊",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34940427.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37013135/",
+                        "year": "2024",
+                        "id": 37013135
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "百鸟羽衣",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34494938.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36226376/",
+                        "year": "2023",
+                        "id": 36226376
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "隐形叶子",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34494935.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36198486/",
+                        "year": "2023",
+                        "id": 36198486
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.4,
+                        "title": "桃花源的故事",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33988403.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35449446/",
+                        "year": "2021",
+                        "id": 35449446
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "宝儿",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33988405.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35449444/",
+                        "year": "2021",
+                        "id": 35449444
+                    }
+                }
+            ],
+            "total": 76
+        }
+    },
+    "author_link": "https://book.douban.com/author/4612833/",
+    "author_douban_id": "4612833",
+    "personage_id": 35859610,
+    "name": [
+        "蔡皋",
+        "Gao Cai"
+    ],
+    "intro": "蔡皋，女，1946年出生于湖南长沙，著名绘本画家。曾创作了《海的女儿》《李尔王》《干将莫邪》《六月六》《隐形叶子》《花仙人》《桃花源的故事》《荒原狐精》等绘画作品。她创作的《荒园狐精》在第14届布拉迪斯拉发国际儿童图书展（BIB）上获得“金苹果”奖，是我国获此殊荣的第一人。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/35859610/photo/2903658729",
+        "https://www.douban.com/personage/35859610/photo/2906007123",
+        "https://www.douban.com/personage/35859610/photo/2917383645",
+        "https://www.douban.com/personage/35859610/photo/2906751428"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2903658729.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2906007123.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2917383645.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2906751428.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/5d2186aafc81a525991beb13a1e407dd.jpg",
+    "sex": 0,
+    "birth_date": 1946,
+    "age": 80,
+    "birth_place": [
+        "中国",
+        "湖南",
+        "长沙"
+    ],
+    "profession": [
+        "作者",
+        "绘者"
+    ]
+}

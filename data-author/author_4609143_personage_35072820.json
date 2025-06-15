@@ -1,0 +1,139 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "拉波德氏亂數",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34750181.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36721091/",
+                        "year": "2024",
+                        "id": 36721091
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "萬物生長",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34673617.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36610396/",
+                        "year": "2023",
+                        "id": 36610396
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "西北雨（二版 ）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34230843.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35888494/",
+                        "year": "2022",
+                        "id": 35888494
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "王考",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33305784.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34442090/",
+                        "year": "2019",
+                        "id": 34442090
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "无伤时代",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33456174.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34792357/",
+                        "year": "2019",
+                        "id": 34792357
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "字母會A未來",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29587992.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27118672/",
+                        "year": "2017",
+                        "id": 27118672
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "九歌小說選. 一0四年",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28530875.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26717709/",
+                        "year": "2016",
+                        "id": 26717709
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "童話故事",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29304985.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/25769665/",
+                        "year": "2013",
+                        "id": 25769665
+                    }
+                }
+            ],
+            "total": 8
+        }
+    },
+    "author_link": "https://book.douban.com/author/4609143/",
+    "author_douban_id": "4609143",
+    "personage_id": 35072820,
+    "name": [
+        "童伟格",
+        "Tong Wei-ger"
+    ],
+    "intro": "童伟格（1977—），出生于新北市万里区，毕业于台湾大学外文系、台北艺术大学戏剧学系硕士班，现为台北艺术大学戏剧学院讲师。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/35072820/photo/2907266337",
+        "https://www.douban.com/personage/35072820/photo/2907266336",
+        "https://www.douban.com/personage/35072820/photo/2907266335",
+        "https://www.douban.com/personage/35072820/photo/2907266334"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2907266337.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907266336.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907266335.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2907266334.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/056f7dddc1699a4e2814a56518520543.jpg",
+    "sex": 1,
+    "birth_date": 1977,
+    "age": 49,
+    "birth_place": [
+        "中国",
+        "台湾",
+        "新北"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

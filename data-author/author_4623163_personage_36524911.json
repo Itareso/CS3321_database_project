@@ -1,0 +1,134 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "宋金說唱伎藝",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s3330207.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3272224/",
+                        "year": "",
+                        "id": 3272224
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "聊斋志异（全四册）",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33734824.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/26417287/",
+                        "year": "2022",
+                        "id": 26417287
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "宋金说唱伎艺",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s9675176.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/4604521/",
+                        "year": "2009",
+                        "id": 4604521
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "李长之和他的朋友们",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29668988.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3050358/",
+                        "year": "2007",
+                        "id": 3050358
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.5,
+                        "title": "图注红楼梦（共12册）",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s2381361.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/2047851/",
+                        "year": "2006",
+                        "id": 2047851
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.0,
+                        "title": "梦中缘",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27255079.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/25861636/",
+                        "year": "1993",
+                        "id": 25861636
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "蒲松龄与《聊斋志异》",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29520517.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/5907750/",
+                        "year": "1993",
+                        "id": 5907750
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "明清小说选读",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34096624.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35738931/",
+                        "year": "1992",
+                        "id": 35738931
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "明清小说研究",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s6403911.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/2052066/",
+                        "year": "",
+                        "id": 2052066
+                    }
+                }
+            ],
+            "total": 9
+        }
+    },
+    "author_link": "https://book.douban.com/author/4623163/",
+    "author_douban_id": "4623163",
+    "personage_id": 36524911,
+    "name": [
+        "于天池"
+    ],
+    "intro": "于天池，男，1945年4月出生于山东省烟台市，汉族，中共党员，硕士，北京师范大学文学院教授、离退休教师 。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/ffa70151d845e1f9506be589bf7efca2.jpg",
+    "sex": 1,
+    "family_member": "李书（妻） / 李长之（岳父）",
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "追凶",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34936157.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36717384/",
+                        "year": "2024",
+                        "id": 36717384
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "一个中年人决定出逃",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35019465.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37135182/",
+                        "year": "2024",
+                        "id": 37135182
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "无处落脚",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34230869.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34889905/",
+                        "year": "2022",
+                        "id": 34889905
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "孤独传",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33880971.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35356460/",
+                        "year": "2021",
+                        "id": 35356460
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "尽力而为",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33971640.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35520944/",
+                        "year": "2021",
+                        "id": 35520944
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "我们的庸常生活",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34022079.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35632245/",
+                        "year": "2021",
+                        "id": 35632245
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "我的人生意义手册",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33668751.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34927905/",
+                        "year": "2020",
+                        "id": 34927905
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "明镜之书",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29498372.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27031877/",
+                        "year": "2017",
+                        "id": 27031877
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "困兽手记",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28894916.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26761277/",
+                        "year": "2016",
+                        "id": 26761277
+                    }
+                }
+            ],
+            "total": 9
+        }
+    },
+    "author_link": "https://book.douban.com/author/4617352/",
+    "author_douban_id": "4617352",
+    "personage_id": 36130769,
+    "name": [
+        "张畅",
+        "Chang Zhang"
+    ],
+    "intro": "张畅，笔名赫恩曼尼，媒体人，撰稿人。毕业于斯坦福大学、浙江大学。曾从事编辑、文化记者、节目策划人等工作。出版有短篇小说集《我们的庸常生活》，译有《孤独传》《无处落脚》《尽力而为》《明镜之书》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/1628ceda80bd4b04c440f46df40bbebf.jpg",
+    "更多中文名": "赫恩曼尼(笔名)",
+    "sex": 0,
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

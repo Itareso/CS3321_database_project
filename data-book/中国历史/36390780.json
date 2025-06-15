@@ -1,0 +1,134 @@
+{
+    "title": "从封建到大一统",
+    "bookInfo": {
+        "作者": "韩昇",
+        "出版社": "生活·读书·新知三联书店",
+        "副标题": "《史记》中的历史中国",
+        "出版年": "2023-6",
+        "页数": "545",
+        "定价": "128.00元",
+        "装帧": "精装",
+        "ISBN": "9787108050946"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.3%",
+        "four_star_rate": "29.9%",
+        "three_star_rate": "24.6%",
+        "two_star_rate": "4.5%",
+        "one_star_rate": "3.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4615980/",
+            "name": "韩昇",
+            "role": "作者",
+            "douban_id": "4615980"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "76.80元",
+            "link": "https://read.douban.com/ebook/460605679/?dcs=subject-buylink&dcm=douban&dct=36390780"
+        },
+        {
+            "name": "得到",
+            "price": "76.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=6JvkYVNn8NXVry5MeG6Z9RALK2dxJ3GPBbNw7olBEmjgakz1DPvYObQ4qpQdZqme&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "64.00元",
+            "link": "https://book.douban.com/link2/?lowest=6400&pre=0&vendor=jingdong&srcpage=subject&price=6400&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV0WVAEDXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUl1UD0ofHDZNRwYlP053PR0HAEt3BTNNG1lzVAFBJBs5aEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LVV5bC0sWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8XClZsCFgHVxFeBjlmGFMdWQUCU1ttCkoWAW04K2tvNFJJKlsaXxtQWR1yZiJBPXp0VjwdbxB5ARV1WjJvFnZwBBcUciJKVjxoK1gl&cntvendor=5&srcsubj=36390780&type=bkbuy&subject=36390780"
+        },
+        {
+            "name": "当当网",
+            "price": "122.90元",
+            "link": "https://book.douban.com/link2/?lowest=6400&pre=0&vendor=dangdang&srcpage=subject&price=12290&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36390780%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29568951&cntvendor=5&srcsubj=36390780&type=bkbuy&subject=36390780"
+        },
+        {
+            "name": "中图网",
+            "price": "92.20元",
+            "link": "https://book.douban.com/link2/?lowest=6400&pre=0&vendor=bookschina&srcpage=subject&price=9220&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9098023.htm&cntvendor=5&srcsubj=36390780&type=bkbuy&subject=36390780"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36390780/",
+    "douban_id": "36390780",
+    "menu": [
+        "",
+        "        序论",
+        "        一 人生必须读历史",
+        "        二 史家绝唱《史记》",
+        "        三 用生命体悟历史",
+        "        上编 时间轴线上的历史演变",
+        "        第一章 黄金时代：中华民族始祖传说的意涵",
+        "        第一节 人文始祖：黄帝",
+        "        第二节 政治楷模：尧舜禹",
+        "        第二章 青铜时代：满天星斗到众星拱月",
+        "        第一节 夏朝：从“禅让”到“家天下”的剧变",
+        "        第二节 商朝：有文字证据的文明",
+        "        第三节 周朝：农业文明的确立",
+        "        第三章 铁器时代：春秋霸业",
+        "        第一节 齐国",
+        "        第二节 晋国",
+        "        第三节 宋国",
+        "        第四节 楚国",
+        "        第五节 吴国",
+        "        第六节 越国",
+        "        第七节 秦国",
+        "        第八节 何谓“春秋”",
+        "        第四章 战国争雄",
+        "        第一节 三家分晋",
+        "        第二节 变法运动",
+        "        第三节 弱国外交：合纵联盟",
+        "        第四节 强国外交：连横",
+        "        第五节 高超的谋略：远交近攻",
+        "        第六节 奠定胜势：长平之战",
+        "        第五章 秦朝：最初的帝制王朝",
+        "        第一节 制造秦始皇",
+        "        第二节 征服六国",
+        "        第三节 秦朝君临天下",
+        "        第四节 政变迭起与民众暴动",
+        "        第六章 楚汉战争",
+        "        第一节 项家军",
+        "        第二节 刘邦起义",
+        "        第三节 鸿门宴",
+        "        第四节 破局：项羽失策兼失人",
+        "        第五节 正合奇胜",
+        "        第七章 汉朝：帝制的扎根与定型",
+        "        第一节 推行文治，与民休息",
+        "        第二节 从经验主义向理性主义的转变",
+        "        第三节 制度结构性矛盾：帝制与封建制",
+        "        第四节 治国理念的提升：从“与民休息”到“黄老之治”",
+        "        第五节 国家意识形态的建立",
+        "        下编 空间轴线上的自然与社会",
+        "        第八章 历史地理与风土人情",
+        "        第一节 九州攸同",
+        "        第二节 得关中者王天下",
+        "        第三节 鼎立中原",
+        "        第四节 百里不同风",
+        "        第五节 南北不同俗",
+        "        第九章 商人与侠士：永远的利益和变动的道义",
+        "        第一节 经济法则与商业伦理",
+        "        第二节 商人的逐利活动",
+        "        第三节 上古伦理的义和侠",
+        "        第四节 侠义的式微",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34526691.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "韩昇",
+            "link": "https://book.douban.com/author/4615980"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        }
+    ],
+    "tag": "中国历史",
+    "avg_rate": 3.926
+}

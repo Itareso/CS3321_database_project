@@ -1,0 +1,94 @@
+{
+    "title": "抚顺故事集",
+    "bookInfo": {
+        "作者": "赵松",
+        "出版社": "人民文学出版社",
+        "出品方": "99读书人",
+        "出版年": "2021-4",
+        "页数": "202",
+        "定价": "59.00元",
+        "装帧": "精装",
+        "丛书": "中国短经典",
+        "ISBN": "9787020166268"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.2%",
+        "four_star_rate": "40.4%",
+        "three_star_rate": "37.1%",
+        "two_star_rate": "6.0%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/580396/",
+            "name": "赵松",
+            "role": "作者",
+            "douban_id": "580396"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "28.30元",
+            "link": "https://book.douban.com/link2/?lowest=2520&pre=0&vendor=jingdong&srcpage=subject&price=2830&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQgJK1olXQMGXFhaDUoVCl8IGloXXQcGU1tVCE0fC19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0IGl8SWA4CUlZVFxJSXzI4fiIUGwdmIDw_WA9vGRFdcCJxBk1CAlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsQVQQHVW5fCEoWBm8AElIXbQYEUV9eCUgTBmsKG1IlXQ4GZIfdv521kbaWkY6dyjYyZF1tOHsXM2w4RTUUDg4CUl0PASVLBThLRBJOFGgCVVpfDksWAl8KGloXXzYyZAUaYygeChRyRz0UJ0VmAy44XxdBVhpeRTUXWQUGEyE-QRlLfRlPQwF-CHoyV24&cntvendor=2&srcsubj=35216962&type=bkbuy&subject=35216962"
+        },
+        {
+            "name": "中图网",
+            "price": "25.20元",
+            "link": "https://book.douban.com/link2/?lowest=2520&pre=0&vendor=bookschina&srcpage=subject&price=2520&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8547001.htm&cntvendor=2&srcsubj=35216962&type=bkbuy&subject=35216962"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35216962/",
+    "douban_id": "35216962",
+    "menu": [
+        "",
+        "        浑河",
+        "        诗人",
+        "        师父",
+        "        北山",
+        "        陆超",
+        "        老赵",
+        "        耐火厂",
+        "        金姐",
+        "        姚台子",
+        "        爷爷",
+        "        奶奶",
+        "        矸子山",
+        "        姥爷",
+        "        妹妹",
+        "        社宅",
+        "        萧叔",
+        "        八大烟囱",
+        "        书记",
+        "        廖素",
+        "        水塔",
+        "        高昆",
+        "        北树林",
+        "        若对",
+        "        罗台",
+        "        马丁之痛",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33743173.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "赵松",
+            "link": "https://book.douban.com/author/580396"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "99读书人",
+            "link": "https://book.douban.com/producers/1"
+        },
+        {
+            "text": "中国短经典",
+            "link": "https://book.douban.com/series/13358"
+        }
+    ],
+    "tag": "随笔"
+}

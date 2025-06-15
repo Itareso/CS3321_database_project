@@ -1,0 +1,89 @@
+{
+    "title": "马刺",
+    "bookInfo": {
+        "作者": "[法] 德里达",
+        "出版社": "华东师范大学出版社",
+        "出品方": "六点图书",
+        "副标题": "尼采的风格",
+        "原作名": "éperons：les styles de Nietzsche",
+        "译者": "成家桢",
+        "出版年": "2018-9-1",
+        "页数": "167",
+        "定价": "48.00元",
+        "装帧": "精装",
+        "丛书": "轻与重",
+        "ISBN": "9787567579668"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.8%",
+        "four_star_rate": "30.9%",
+        "three_star_rate": "25.7%",
+        "two_star_rate": "4.7%",
+        "one_star_rate": "9.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4559387/",
+            "name": "雅克·德里达",
+            "role": "作者",
+            "douban_id": "4559387"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.16元",
+            "link": "https://book.douban.com/link2/?lowest=3116&pre=0&vendor=jingdong&srcpage=subject&price=3116&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olVQIGVFdYCkseM20NG1gdVAMEUF1eOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocVltdC0MeBmkMGFgKBENeCW40dw5zBj9NGzkQR0BGABorfxdqX2dOF1clWgMFUllUC0wnA2sJH18lbQYDZB8zCE8SB2sNK1kVXAcHVFZaC0onA2kNGl4dWQQEUFZcCHsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpECmlfSwtCM1oEDgJcW0hSbWwAE14SWg8AZFxcCUkVM184Xg9vNmZiM1k5WhNrWWhoZgFtGmZLPyFZZklOWG1ceTBgJmJyJDY9dQBPfl8LKw&cntvendor=1&srcsubj=30267183&type=bkbuy&subject=30267183"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30267183/",
+    "douban_id": "30267183",
+    "menu": [
+        "",
+        "        译序",
+        "        弁言：接二连三（coup sur coup）",
+        "        1 风格的问题",
+        "        2 距离",
+        "        3 面纱/船帆（voiles）",
+        "        4 真理们",
+        "        5 装饰",
+        "        6 伪装",
+        "        7 “谬误的历史”",
+        "        8 女性生命",
+        "        9 诸立场（positions）",
+        "        10 俄狄浦斯的凝视",
+        "        11 馈赠",
+        "        12 真理的深渊",
+        "        13 “我忘了我的雨伞”",
+        "        14 还有一步",
+        "        附一",
+        "        附二",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29865305.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[法] 德里达",
+            "link": "https://book.douban.com/search/%E5%BE%B7%E9%87%8C%E8%BE%BE"
+        },
+        {
+            "text": "华东师范大学出版社",
+            "link": "https://book.douban.com/press/2486"
+        },
+        {
+            "text": "六点图书",
+            "link": "https://book.douban.com/producers/103"
+        },
+        {
+            "text": "成家桢",
+            "link": "https://book.douban.com/search/%E6%88%90%E5%AE%B6%E6%A1%A2"
+        },
+        {
+            "text": "轻与重",
+            "link": "https://book.douban.com/series/13907"
+        }
+    ],
+    "tag": "西方哲学"
+}

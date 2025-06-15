@@ -1,0 +1,63 @@
+{
+    "title": "谜一样的青年",
+    "bookInfo": {
+        "作者": "[日]星新一",
+        "出版社": "译林出版社",
+        "副标题": "星新一脑洞小说集",
+        "原作名": "なぞの青年",
+        "译者": "毛丹青",
+        "出版年": "2023-3",
+        "页数": "253",
+        "定价": "45",
+        "装帧": "平装",
+        "丛书": "译林幻系列",
+        "ISBN": "9787544795296"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "12.4%",
+        "four_star_rate": "45.6%",
+        "three_star_rate": "36.4%",
+        "two_star_rate": "4.4%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4528771/",
+            "name": "星新一",
+            "role": "作者",
+            "douban_id": "4528771"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "39.99元",
+            "link": "https://read.douban.com/ebook/422644421/?dcs=subject-buylink&dcm=douban&dct=36187369"
+        },
+        {
+            "name": "得到",
+            "price": "39.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=Jjrvne28LQ2OjoRqkgdnmJX6NADGlWx5GX3x1KvbBz97eaMP4VZrpEYy5VB6adNX&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "22.50元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=jingdong&srcpage=subject&price=2250&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVIWXQcBVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOISMDQyt3fQdcHyJDAQ9lXQwAazR0VA9wdVlmIgd_CBUAWx8eChp1ZiNSLRFCWCokdBhgWgxMb1llBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZaDyUfTxJkUA9oUxtqAXEFF1spfitRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFddC0wTAWc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYBAFozVE1AQm8OUFN7XQcCUFZfD0gnAW4JGVklbTZ3KQAWaCtpazsMYg1JVGELBgM-dyhAYxdmGShqXHteHwMOXEIedhJ1YxxlbQUy&cntvendor=5&srcsubj=36187369&type=bkbuy&subject=36187369"
+        },
+        {
+            "name": "当当网",
+            "price": "45.00元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=dangdang&srcpage=subject&price=4500&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36187369%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29518566&cntvendor=5&srcsubj=36187369&type=bkbuy&subject=36187369"
+        },
+        {
+            "name": "中图网",
+            "price": "28.90元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=bookschina&srcpage=subject&price=2890&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9021179.htm&cntvendor=5&srcsubj=36187369&type=bkbuy&subject=36187369"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36187369/",
+    "douban_id": "36187369",
+    "menu": [],
+    "tag": "小说"
+}

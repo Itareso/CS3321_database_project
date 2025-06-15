@@ -1,0 +1,87 @@
+{
+    "title": "品中国文人4",
+    "bookInfo": {
+        "作者": "刘小川",
+        "出版社": "上海文艺出版社",
+        "出版年": "2013-6",
+        "定价": "33.00",
+        "丛书": "品中国文人",
+        "ISBN": "9787532148141"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "27.7%",
+        "four_star_rate": "36.1%",
+        "three_star_rate": "26.5%",
+        "two_star_rate": "6.3%",
+        "one_star_rate": "3.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/179999/",
+            "name": "刘小川",
+            "role": "作者",
+            "douban_id": "179999"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "26.00元",
+            "link": "https://read.douban.com/ebook/435008901/?dcs=subject-buylink&dcm=douban&dct=25662135"
+        },
+        {
+            "name": "得到",
+            "price": "26.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=Jjrvne28LQ2OjoRqkgdnmJX6NADGlWxdK14Wx1KvbBz97eaMP4VZrpEYy5VB6adN&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.20元",
+            "link": "https://book.douban.com/link2/?lowest=2120&pre=0&vendor=jingdong&srcpage=subject&price=2120&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFkXWQUBU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IODg0naxQeVW5fbw9LJFhmLxYtUAhBUDxodVkcWWFRVj08SBxkcDVbfhxuNBFCWCokcCtgShxKb1l9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZZAyUcaTxyawoPbVxxOwFUAycpAB9BD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcHXFZdDEwWAGs4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggVClZVUV4zVE1NXWdbXgZ7XwcCVlZcDEMnAW4JGVklbTZYByQ-V0JBAjh8TwVsA2J5HC4FSx1EUA9mGVIROlUANz8dXzhkWTxtXCB8bQUy&cntvendor=5&srcsubj=25662135&type=bkbuy&subject=25662135"
+        },
+        {
+            "name": "当当网",
+            "price": "38.40元",
+            "link": "https://book.douban.com/link2/?lowest=2120&pre=0&vendor=dangdang&srcpage=subject&price=3840&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25662135%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25250928&cntvendor=5&srcsubj=25662135&type=bkbuy&subject=25662135"
+        },
+        {
+            "name": "中图网",
+            "price": "25.80元",
+            "link": "https://book.douban.com/link2/?lowest=2120&pre=0&vendor=bookschina&srcpage=subject&price=2580&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7774142.htm&cntvendor=5&srcsubj=25662135&type=bkbuy&subject=25662135"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25662135/",
+    "douban_id": "25662135",
+    "menu": [
+        "",
+        "        李贺",
+        "        李商隐",
+        "        黄庭坚",
+        "        晏几道·晏殊",
+        "        宋徽宗·蔡京",
+        "        唐伯虎·苏州才子群",
+        "        柳如是",
+        "        蒲松龄",
+        "        纳兰容若",
+        "        郑板桥",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33597901.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘小川",
+            "link": "https://book.douban.com/search/%E5%88%98%E5%B0%8F%E5%B7%9D"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        },
+        {
+            "text": "品中国文人",
+            "link": "https://book.douban.com/series/21078"
+        }
+    ],
+    "tag": "人物传记"
+}

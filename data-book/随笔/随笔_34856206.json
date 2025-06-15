@@ -1,0 +1,89 @@
+{
+    "title": "天青色等烟雨",
+    "bookInfo": {
+        "作者": "方文山",
+        "出版社": "湖南文艺出版社",
+        "出版年": "2019-10",
+        "页数": "256",
+        "定价": "45.8元",
+        "装帧": "平装",
+        "ISBN": "9787540493943"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.5%",
+        "four_star_rate": "39.4%",
+        "three_star_rate": "37.6%",
+        "two_star_rate": "5.2%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/165572/",
+            "name": "方文山",
+            "role": "作者",
+            "douban_id": "165572"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "17.99元",
+            "link": "https://read.douban.com/ebook/129864337/?dcs=subject-buylink&dcm=douban&dct=34856206"
+        },
+        {
+            "name": "得到",
+            "price": "17.99元",
+            "link": "https://www.dedao.cn/eBook/DLnMGAEG7gKLyYmkAbPaEXxD8BM4J0Lq2dWROrpdZn19VNzv2o5e6lqjQQ1poxqy?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.70元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=jingdong&srcpage=subject&price=2070&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwQCVl9aAEseCl8IGloTWQIDXFheDU8XBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkMH1odWwUHUF5YFxJSXzI4Zi9yNGJlDDc4cilBBARDcDxlGQUCAlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXXgAKU1heOEkXAm4NG1MSXgcyVFhYCUgWBmsAHl0dXzYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUQlaC01DbTMOTBlSGU9COl5cDEgfC24LK1kUXAQAZG5tAUhvAxBtUiN8NXxBJyY_az9LSioBeyNNMwRYCSFeX0tIegYJZj4cPwZ_VG5eOA&cntvendor=5&srcsubj=34856206&type=bkbuy&subject=34856206"
+        },
+        {
+            "name": "当当网",
+            "price": "44.00元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=dangdang&srcpage=subject&price=4400&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34856206%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28471883&cntvendor=5&srcsubj=34856206&type=bkbuy&subject=34856206"
+        },
+        {
+            "name": "中图网",
+            "price": "28.50元",
+            "link": "https://book.douban.com/link2/?lowest=2070&pre=0&vendor=bookschina&srcpage=subject&price=2850&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8195923.htm&cntvendor=5&srcsubj=34856206&type=bkbuy&subject=34856206"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34856206/",
+    "douban_id": "34856206",
+    "menu": [
+        "",
+        "        东风破",
+        "        发如雪",
+        "        烟花易冷",
+        "        青花瓷",
+        "        兰亭序",
+        "        千里之外",
+        "        爷爷泡的茶",
+        "        上海一九四三",
+        "        本草纲目",
+        "        双截棍",
+        "        娘子",
+        "        红尘客栈",
+        "        菊花台",
+        "        天涯过客",
+        "        番外：方文山的素颜韵脚诗",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33499672.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "方文山",
+            "link": "https://book.douban.com/author/165572"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        }
+    ],
+    "tag": "随笔"
+}

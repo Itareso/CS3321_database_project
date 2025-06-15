@@ -1,0 +1,54 @@
+{
+    "title": "猛虎下山",
+    "bookInfo": {
+        "作者": "李修文",
+        "出版社": "人民文学出版社",
+        "出版年": "2024-4",
+        "页数": "284",
+        "定价": "58",
+        "装帧": "精装",
+        "ISBN": "9787020185504"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ◎命运与我狭路相逢，但我没有被风暴卷走。    ◎鲁迅文学奖得主 李修文 长篇新作    ◎一个关于活着的寓言    ◎每个人都携带着一部自己的史诗    【编辑推荐】    鲁迅文学奖得主李修文沉潜多年推出长篇新作《猛虎下山》，闪耀着独特的艺术灵光，来自山下炼钢厂的主人公与山中猛虎从相互较量到融为一体，人性的变异与时代精神互为显影。作品延续李修文长期以来的深沉关怀与艺术探求，充满激情地书写人间的跋涉、困顿与庄严，并借助现实书写与魔幻想象的有机融合，寻找到新的叙事视角，融入散文、戏曲元素，重新淬炼后的小说语言，铿锵而又奔放，给人独特的审美感受。    【内容简介】    镇虎山下的炼钢厂正在改制转轨，末位淘汰制像高悬的达摩克利斯之剑，大厂的光环黯然逝去，作为炉前工的刘丰收，从前的骄做与尊严碎了一地。时代的大变局下，生存成为前所未有的危机。一声虎啸，穿透千禧年到来的喧哗，定格在每个人耳中，故事在这一刻走向不可把握的未知。李修文回到历史和记忆的深处，打捞那些有名有姓的普通人，精细的田野调查通过象征、变形的艺术手法转化成一部浓缩时代精神与显影人性幽微的人间戏剧。真真假假、现实与虚幻的错杂形成了一个关于我们存在于世的哲学性隐喻。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "49.0%",
+        "four_star_rate": "26.0%",
+        "three_star_rate": "21.4%",
+        "two_star_rate": "3.0%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4568731/",
+            "name": "李修文",
+            "role": "作者",
+            "douban_id": "4568731"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "35.00元",
+            "link": "https://read.douban.com/ebook/462475327/?dcs=subject-buylink&dcm=douban&dct=36848162"
+        },
+        {
+            "name": "得到",
+            "price": "35.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=nroX7MYDaKMjy7eNqrmOX6pnAQ5Vg04q8vRWJzxbE9LZl1o8RkGd2BPYv4x6d9me&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "43.50元",
+            "link": "https://book.douban.com/link2/?lowest=4220&pre=0&vendor=jingdong&srcpage=subject&price=4350&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlsXXg8EVm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOBwQfexQSYQsObhJjXG9kLBg0fwlsXzkLdVkWW1hYHS0NY01rfzxSbh9QPBFCWCokaClgSjpUbARpBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDYKIl9dQSxqQwxpeTN8ImNVUBkqY0lBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFddD08UCmc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgQAAF4zVE1AQmwIXAh7XQcBXFhaC0MnAW4JGVklbTZRDhwuV051Z2l9Ui0UNGB6EjcqSjBLVWxmGVgTA1xLJw42DjdrUDV9Xx50bQUy&cntvendor=4&srcsubj=36848162&type=bkbuy&subject=36848162"
+        },
+        {
+            "name": "中图网",
+            "price": "42.20元",
+            "link": "https://book.douban.com/link2/?lowest=4220&pre=0&vendor=bookschina&srcpage=subject&price=4220&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9304087.htm&cntvendor=4&srcsubj=36848162&type=bkbuy&subject=36848162"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36848162/",
+    "douban_id": "36848162",
+    "menu": [],
+    "tag": "小说"
+}

@@ -1,0 +1,89 @@
+{
+    "title": "梦境救援",
+    "bookInfo": {
+        "作者": "(日) 伊坂幸太郎",
+        "出版社": "浙江文艺出版社",
+        "出品方": "果麦文化",
+        "原作名": "クジラアタマの王様",
+        "译者": "高一君",
+        "出版年": "2020-11",
+        "页数": "328",
+        "定价": "49.80",
+        "装帧": "平装",
+        "丛书": "果麦：伊坂幸太郎系列作品",
+        "ISBN": "9787533962265"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "9.9%",
+        "four_star_rate": "32.4%",
+        "three_star_rate": "48.3%",
+        "two_star_rate": "8.6%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4524979/",
+            "name": "伊坂幸太郎",
+            "role": "作者",
+            "douban_id": "4524979"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "49.80元",
+            "link": "https://read.douban.com/ebook/165318835/?dcs=subject-buylink&dcm=douban&dct=35217434"
+        },
+        {
+            "name": "得到",
+            "price": "49.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=pAVMknaY9VDA6M7OjdpEvLnKm85rPw94N13ZxykgeQJaRb4oBqNzGlX12boL1Nl9&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "35.36元",
+            "link": "https://book.douban.com/link2/?lowest=2240&pre=0&vendor=jingdong&srcpage=subject&price=3536&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVoWXwMDU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVV1fDUoQHDZNRwYlXGdeLAwhYTZ3Bzt8eSZoPgcDJytdeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcBVl1eAE4VM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCgRsCFgKSxATSy1mG1oRXQEFVF9tCkoWAW04K2tlOGNAKlsgUElqfw8AWFh0K1xVEjs2QAx5AQl8XT5NHwQCVhsYeC5CdSdOK1gl&cntvendor=4&srcsubj=35217434&type=bkbuy&subject=35217434"
+        },
+        {
+            "name": "中图网",
+            "price": "22.40元",
+            "link": "https://book.douban.com/link2/?lowest=2240&pre=0&vendor=bookschina&srcpage=subject&price=2240&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8451973.htm&cntvendor=4&srcsubj=35217434&type=bkbuy&subject=35217434"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35217434/",
+    "douban_id": "35217434",
+    "menu": [
+        "",
+        "        第一章鲸头鹳与刺猬",
+        "        第二章政治家与雷",
+        "        第三章火焰与骰子",
+        "        第四章微型芯片与鸟",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33763687.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "(日) 伊坂幸太郎",
+            "link": "https://book.douban.com/search/%E4%BC%8A%E5%9D%82%E5%B9%B8%E5%A4%AA%E9%83%8E"
+        },
+        {
+            "text": "浙江文艺出版社",
+            "link": "https://book.douban.com/press/2384"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "高一君",
+            "link": "https://book.douban.com/search/%E9%AB%98%E4%B8%80%E5%90%9B"
+        },
+        {
+            "text": "果麦：伊坂幸太郎系列作品",
+            "link": "https://book.douban.com/series/54323"
+        }
+    ],
+    "tag": "日本文学"
+}

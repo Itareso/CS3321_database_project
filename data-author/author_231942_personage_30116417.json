@@ -1,0 +1,138 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "苏东坡传",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35003098.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37109935/",
+                        "year": "2024",
+                        "id": 37109935
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "大宋河山可骑驴",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34478713.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36318580/",
+                        "year": "2023",
+                        "id": 36318580
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "山河共此忧愁",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34494795.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36343397/",
+                        "year": "2023",
+                        "id": 36343397
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "头上花枝照酒卮",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33977679.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35563132/",
+                        "year": "2021",
+                        "id": 35563132
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "不管狗和茶炊怎么闹腾",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33579564.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34954089/",
+                        "year": "2020",
+                        "id": 34954089
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "雅人有深致：清赏小品赏读",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28001486.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26319760/",
+                        "year": "2015",
+                        "id": 26319760
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "万物皆有伤心处",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s26951711.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/24870163/",
+                        "year": "2013",
+                        "id": 24870163
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "簪花的少年郎",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s8896083.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/5388848/",
+                        "year": "2010",
+                        "id": 5388848
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "转角遇见李清照",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s4437783.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/4724676/",
+                        "year": "2010",
+                        "id": 4724676
+                    }
+                }
+            ],
+            "total": 9
+        }
+    },
+    "author_link": "https://book.douban.com/author/231942/",
+    "author_douban_id": "231942",
+    "personage_id": 30116417,
+    "name": [
+        "王这么",
+        "Fangfang Wang"
+    ],
+    "intro": "王这么，女，本名王芳芳，70年代生，现居合肥。2002年开始写作并发表作品，全国多家报刊开设过个人专栏。出版有历史随笔集《转角遇见李清照》（文化艺术出版社）、《簪花的少年郎》（福建人民出版社）、《万物皆有伤心处》（北京大学出版社）。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30116417/photo/2915735635"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2915735635.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/7e97e50c5e1e7ab887d6b20d097a59e6.jpg",
+    "更多中文名": "王芳芳(原名)",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

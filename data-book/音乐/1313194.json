@@ -1,0 +1,43 @@
+{
+    "title": "绝对靠谱",
+    "bookInfo": {
+        "作者": "查可欣",
+        "出版社": "中国旅游出版社",
+        "出版年": "2005-6",
+        "页数": "237",
+        "定价": "21.80元",
+        "装帧": "简裝本",
+        "ISBN": "9787503226151"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.5%",
+        "four_star_rate": "33.9%",
+        "three_star_rate": "39.3%",
+        "two_star_rate": "5.4%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "中图网",
+            "price": "10.40元",
+            "link": "https://book.douban.com/link2/?lowest=1040&pre=0&vendor=bookschina&srcpage=subject&price=1040&pos=1&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F1188316.htm&cntvendor=1&srcsubj=1313194&type=bkbuy&subject=1313194"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1313194/",
+    "douban_id": "1313194",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s6774471.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "查可欣",
+            "link": "https://book.douban.com/search/%E6%9F%A5%E5%8F%AF%E6%AC%A3"
+        },
+        {
+            "text": "中国旅游出版社",
+            "link": "https://book.douban.com/press/2174"
+        }
+    ],
+    "tag": "音乐"
+}

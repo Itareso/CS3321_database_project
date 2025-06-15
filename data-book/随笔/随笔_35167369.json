@@ -1,0 +1,105 @@
+{
+    "title": "有梗",
+    "bookInfo": {
+        "作者": "黄西",
+        "出版社": "天津科学技术出版社",
+        "出品方": "时代华语国际",
+        "出版年": "2020-8",
+        "页数": "232",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "ISBN": "9787557682347"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "5.0%",
+        "four_star_rate": "15.0%",
+        "three_star_rate": "57.7%",
+        "two_star_rate": "18.9%",
+        "one_star_rate": "3.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/2492259/",
+            "name": "黄西",
+            "role": "作者",
+            "douban_id": "2492259"
+        }
+    ],
+    "shops": [
+        {
+            "name": "当当网",
+            "price": "32.40元",
+            "link": "https://book.douban.com/link2/?lowest=1689&pre=0&vendor=dangdang&srcpage=subject&price=3240&pos=1&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35167369%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28995799&cntvendor=3&srcsubj=35167369&type=bkbuy&subject=35167369"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=1689&pre=0&vendor=jingdong&srcpage=subject&price=2490&pos=2&url=https%3A%2F%2Fitem.jd.com%2F12996718.html&cntvendor=3&srcsubj=35167369&type=bkbuy&subject=35167369"
+        },
+        {
+            "name": "中图网",
+            "price": "16.90元",
+            "link": "https://book.douban.com/link2/?lowest=1689&pre=0&vendor=bookschina&srcpage=subject&price=1689&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8367126.htm&cntvendor=3&srcsubj=35167369&type=bkbuy&subject=35167369"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35167369/",
+    "douban_id": "35167369",
+    "menu": [
+        "",
+        "        第一章 幽默原来可以后天习得",
+        "        为了找到我想要的快乐，我尝试了各种方法     002",
+        "        脱口秀的苦与甜                             011",
+        "        也许“自卑”才是让我走上幽默的  真正原因 016",
+        "        坦然面对和接受人生不完美的最好方法 021",
+        "        公共演讲：给我5分钟，我会成为大家关注的焦点 032",
+        "        第二章 如何找到自己独特的幽默感",
+        "        每个人都有自己独特的幽默感 044",
+        "        如何找到专属于自己的幽默点 048",
+        "        尴尬的时候，不妨幽默一下     058",
+        "        注意洋笑话和中国段子的区别 063",
+        "        练就幽默感的四要素         076",
+        "        幽默的智慧是怎样练就的     094",
+        "        第三章 幽默原来可以这样轻松制造",
+        "        段子或笑话的基本结构：铺垫+包袱 102",
+        "        反向思维（反转） 105  事不过三 108",
+        "        比喻或替代 110",
+        "        生僻题材     112",
+        "        谐音梗     114",
+        "        脑洞         118",
+        "        现挂         121",
+        "        夸张         127",
+        "        低调         130",
+        "        联想         133",
+        "        应景         135",
+        "        方言         138",
+        "        附加包袱     144",
+        "        回应         147",
+        "        肢体动作     149",
+        "        第四章 没有幽默沟通搞不定的人际关系",
+        "        幽默让恋爱多一点甜 154",
+        "        友情中的幽默 170",
+        "        和同事日常相处的幽默沟通 187",
+        "        婚礼上的幽默 191",
+        "        父母和孩子之间的幽默沟通 195",
+        "        尾声   不断尝试，不怕试错，我永远在幽默的路上   201",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34005082.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "黄西",
+            "link": "https://book.douban.com/search/%E9%BB%84%E8%A5%BF"
+        },
+        {
+            "text": "天津科学技术出版社",
+            "link": "https://book.douban.com/press/2619"
+        },
+        {
+            "text": "时代华语国际",
+            "link": "https://book.douban.com/producers/65"
+        }
+    ],
+    "tag": "随笔"
+}

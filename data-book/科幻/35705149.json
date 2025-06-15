@@ -1,0 +1,77 @@
+{
+    "title": "平面国",
+    "bookInfo": {
+        "作者": "[英] 埃德温·A·艾勃特",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "麦书房文化",
+        "副标题": "精装珍藏版",
+        "译者": "陈超",
+        "出版年": "2022-1",
+        "页数": "150",
+        "定价": "39.80元",
+        "装帧": "精装",
+        "ISBN": "9787559454461"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "64.3%",
+        "four_star_rate": "28.3%",
+        "three_star_rate": "5.8%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1821965/",
+            "name": "埃德温·A·艾勃特",
+            "role": "作者",
+            "douban_id": "1821965"
+        },
+        {
+            "link": "https://book.douban.com/author/4532861/",
+            "name": "陈超",
+            "role": "译者",
+            "douban_id": "4532861"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "17.91元",
+            "link": "https://book.douban.com/link2/?lowest=1791&pre=0&vendor=jingdong&srcpage=subject&price=1791&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZkJK1olXg4BXVxcAEsXAF8IGV8RVAIKV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOIzUrDkJ3Swl_eCRpPQRWAgkGYx0QcDZ-dVlyLm9pJ1gYATwTBxhjUx8QLhFCWCokdC1jYG9LbSJtBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZBMyQ8dVVSfwwJbRlnHnhmLV04dRN3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVBsVF9cCUoWCm8PG2sXXQcDUV5VAUISM28OHloWXQABV1haCU4nA2cMK4KV6tCgxofDgp6flF84K1glbTYCV25eOBV5AjwPHlIVXgRsCFgLCR9LVWZmG1sTXw8CUlxtCkoWAW04K2tiNnAEXT4Vbjx0fBNoGQ9DCl1pAlkuUT15AQh7cjBmW0MLI1pZfyBfR2p7K1gl&cntvendor=3&srcsubj=35705149&type=bkbuy&subject=35705149"
+        },
+        {
+            "name": "当当网",
+            "price": "39.80元",
+            "link": "https://book.douban.com/link2/?lowest=1791&pre=0&vendor=dangdang&srcpage=subject&price=3979&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35705149%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29345143&cntvendor=3&srcsubj=35705149&type=bkbuy&subject=35705149"
+        },
+        {
+            "name": "中图网",
+            "price": "18.10元",
+            "link": "https://book.douban.com/link2/?lowest=1791&pre=0&vendor=bookschina&srcpage=subject&price=1810&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8734643.htm&cntvendor=3&srcsubj=35705149&type=bkbuy&subject=35705149"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35705149/",
+    "douban_id": "35705149",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34204080.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 埃德温·A·艾勃特",
+            "link": "https://book.douban.com/search/%E5%9F%83%E5%BE%B7%E6%B8%A9%C2%B7A%C2%B7%E8%89%BE%E5%8B%83%E7%89%B9"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "麦书房文化",
+            "link": "https://book.douban.com/producers/205"
+        },
+        {
+            "text": "陈超",
+            "link": "https://book.douban.com/author/4532861"
+        }
+    ],
+    "tag": "科幻"
+}

@@ -1,0 +1,84 @@
+{
+    "title": "生命的层级",
+    "bookInfo": {
+        "作者": "[英]朱利安·巴恩斯",
+        "出版社": "译林出版社",
+        "原作名": "Levels of Life",
+        "译者": "郭国良",
+        "出版年": "2019-8",
+        "页数": "123",
+        "定价": "39.00元",
+        "装帧": "精装",
+        "丛书": "朱利安·巴恩斯作品",
+        "ISBN": "9787544777971"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "21.4%",
+        "four_star_rate": "48.5%",
+        "three_star_rate": "26.9%",
+        "two_star_rate": "2.9%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/168042/",
+            "name": "朱利安·巴恩斯",
+            "role": "作者",
+            "douban_id": "168042"
+        },
+        {
+            "link": "https://book.douban.com/author/4609809/",
+            "name": "郭国良",
+            "role": "译者",
+            "douban_id": "4609809"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.50元",
+            "link": "https://book.douban.com/link2/?lowest=1950&pre=0&vendor=jingdong&srcpage=subject&price=1950&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF8RVAIAXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0ION18HTjUSdhJpaR9AJmBcI185CAJcaztddVlrPHwDChgeDCpAVAwJQANWCBFCWCokcC1jYG9LbwRPBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZYCRVbTBhgcw8BUwwSOmdnAyZVfShnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVV5bCksUBWo4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHU10zVE1AQGhRTx97XQcHV1pUCkMnAW4JGVklbTZhVQQbdk5ifg56Xw5uO1h1VTpdQQB_VzpmGSV0JwdcEh1ZaRxAYG5TQxhAbQUy&cntvendor=3&srcsubj=34429361&type=bkbuy&subject=34429361"
+        },
+        {
+            "name": "当当网",
+            "price": "39.00元",
+            "link": "https://book.douban.com/link2/?lowest=1950&pre=0&vendor=dangdang&srcpage=subject&price=3900&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34429361%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27914430&cntvendor=3&srcsubj=34429361&type=bkbuy&subject=34429361"
+        },
+        {
+            "name": "中图网",
+            "price": "23.60元",
+            "link": "https://book.douban.com/link2/?lowest=1950&pre=0&vendor=bookschina&srcpage=subject&price=2360&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8153370.htm&cntvendor=3&srcsubj=34429361&type=bkbuy&subject=34429361"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34429361/",
+    "douban_id": "34429361",
+    "menu": [
+        "",
+        "        高度之罪",
+        "        水平面上",
+        "        深度之失",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33449695.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英]朱利安·巴恩斯",
+            "link": "https://book.douban.com/author/168042"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "郭国良",
+            "link": "https://book.douban.com/search/%E9%83%AD%E5%9B%BD%E8%89%AF"
+        },
+        {
+            "text": "朱利安·巴恩斯作品",
+            "link": "https://book.douban.com/series/12253"
+        }
+    ],
+    "tag": "随笔"
+}

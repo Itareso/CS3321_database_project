@@ -1,0 +1,153 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "雪的练习生",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35087494.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37081406/",
+                        "year": "2025",
+                        "id": 37081406
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "她的生活",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s35044701.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37098552/",
+                        "year": "2025",
+                        "id": 37098552
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "笔的重量",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s35054861.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37191754/",
+                        "year": "2025",
+                        "id": 37191754
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "甲马",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34940398.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36862697/",
+                        "year": "2024",
+                        "id": 36862697
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "尾随者",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34741530.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36638539/",
+                        "year": "2024",
+                        "id": 36638539
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "富士日记",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34899578.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36883000/",
+                        "year": "2024",
+                        "id": 36883000
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "眩晕的散步",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34867851.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36727759/",
+                        "year": "2024",
+                        "id": 36727759
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "走出我房间",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34727346.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36689147/",
+                        "year": "2023",
+                        "id": 36689147
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "日日杂记",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34245103.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35817710/",
+                        "year": "2022",
+                        "id": 35817710
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "一字六十春",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34077161.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35653402/",
+                        "year": "2022",
+                        "id": 35653402
+                    }
+                }
+            ],
+            "total": 24
+        }
+    },
+    "author_link": "https://book.douban.com/author/313210/",
+    "author_douban_id": "313210",
+    "personage_id": 30076611,
+    "name": [
+        "田肖霞",
+        "Xiaoxia Tian"
+    ],
+    "intro": "默音，小说作者，日本文学译者。已出版小说《甲马》《星在深渊中》《一字六十春》等。译有《真幌站前多田便利屋》《京都的正常体温》《青梅竹马》《日日杂记》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/3d2ce53f90e3853b1ec7ea5863de1541.jpg",
+    "更多中文名": "默音(笔名) / 天蓝若空(笔名)",
+    "sex": 0,
+    "birth_date": 1980,
+    "age": 46,
+    "birth_place": [
+        "中国",
+        "云南"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

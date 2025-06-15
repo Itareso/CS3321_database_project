@@ -1,0 +1,87 @@
+{
+    "title": "伍子胥",
+    "bookInfo": {
+        "作者": "冯至",
+        "出版社": "天津人民出版社",
+        "出品方": "领读文化",
+        "出版年": "2022-3-1",
+        "页数": "120",
+        "定价": "28",
+        "装帧": "平装",
+        "丛书": "冯至文存",
+        "ISBN": "9787201180755"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "59.2%",
+        "four_star_rate": "31.6%",
+        "three_star_rate": "8.0%",
+        "two_star_rate": "0.7%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "14.00元",
+            "link": "https://read.douban.com/ebook/391590955/?dcs=subject-buylink&dcm=douban&dct=35840108"
+        },
+        {
+            "name": "得到",
+            "price": "14.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=vExPL6aYQPjadpoZxR5r6KDkbNJVO0odBOW84GeXyLElm92gnMA1zvB7qMKpBGkj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "17.92元",
+            "link": "https://book.douban.com/link2/?lowest=1639&pre=0&vendor=jingdong&srcpage=subject&price=1792&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGV0WXQcKXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEgYrUCx3VCpITw5hCkdkNx9YXhweRxJMdVlFHw9aPAZeSgtveylQfAdLWxFCWCokdC9gWgxMbSJDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZmFVsdCyxxRQp_WxBcFmRFFyhHYB9nD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVlYCEsTA2g4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYBAFozVE1ARidKWhh7XQcEUl5cDUknAW4JGVklbTZEDCgFbytARi9cTi9CHGBhFVsLX0JTfitmGQtXVF5qDF0fSDNvRTdvRwUTbQUy&cntvendor=5&srcsubj=35840108&type=bkbuy&subject=35840108"
+        },
+        {
+            "name": "当当网",
+            "price": "24.10元",
+            "link": "https://book.douban.com/link2/?lowest=1639&pre=0&vendor=dangdang&srcpage=subject&price=2410&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35840108%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29395619&cntvendor=5&srcsubj=35840108&type=bkbuy&subject=35840108"
+        },
+        {
+            "name": "中图网",
+            "price": "16.40元",
+            "link": "https://book.douban.com/link2/?lowest=1639&pre=0&vendor=bookschina&srcpage=subject&price=1639&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8800278.htm&cntvendor=5&srcsubj=35840108&type=bkbuy&subject=35840108"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35840108/",
+    "douban_id": "35840108",
+    "menu": [
+        "",
+        "        一 城父 ………………………………… 4",
+        "        二 林泽 ………………………………… 16",
+        "        三 洧滨 ………………………………… 28",
+        "        四 宛丘 …………………………………42",
+        "        五 昭关 ………………………………… 58",
+        "        六 江上 ………………………………… 70",
+        "        七 溧水 ………………………………… 80",
+        "        八 延陵 ………………………………… 90",
+        "        九 吴市 ………………………………… 98",
+        "        后记 …………………………………… 112",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34183757.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "冯至",
+            "link": "https://book.douban.com/search/%E5%86%AF%E8%87%B3"
+        },
+        {
+            "text": "天津人民出版社",
+            "link": "https://book.douban.com/press/2765"
+        },
+        {
+            "text": "领读文化",
+            "link": "https://book.douban.com/producers/72"
+        },
+        {
+            "text": "冯至文存",
+            "link": "https://book.douban.com/series/60870"
+        }
+    ],
+    "tag": "中国文学"
+}

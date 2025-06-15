@@ -1,0 +1,79 @@
+{
+    "title": "时空迷航",
+    "bookInfo": {
+        "作者": "刘慈欣",
+        "出版社": "哈尔滨出版社",
+        "副标题": "刘慈欣科幻作品集",
+        "出版年": "2018-4",
+        "定价": "19.80元",
+        "装帧": "平装",
+        "丛书": "读点经典·中外科幻名家经典丛书",
+        "ISBN": "9787548431008"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "21.8%",
+        "four_star_rate": "43.6%",
+        "three_star_rate": "29.1%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "3.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561353/",
+            "name": "刘慈欣",
+            "role": "作者",
+            "douban_id": "4561353"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "4.36元",
+            "link": "https://book.douban.com/link2/?lowest=436&pre=0&vendor=jingdong&srcpage=subject&price=436&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQIJK1olXQUHVVhVDEMfC18KHVwUXwEEXFhUD3tTXDdWRGtMGENDFlVDFhNSVzMXQA4KD1heSlxbD0oVBGkAHVISQl9HCANtdAlhQxBxYlx3XXhfPEAtdzJfRBkITVcZbQEHU1haAUgQM28MGl8RbTYCVW4cZksUBGYAG2sXXQcDUV5VD0gWM28OHloWXQAKV11ZAUgnA2cMK4KV6tCgxofDgp6flF84K1glbTYCZF1tViUWUGkLGVxCD2heUghcTRNXAQEIG10XWgcFU25fCUoVAV84KxxOPnUAUT0WfE1qfD8MUCNAVHgDFwAcUyUVBW1jQB9mFV92KyEAdBZBdBU4GGs&cntvendor=2&srcsubj=26962861&type=bkbuy&subject=26962861"
+        },
+        {
+            "name": "中图网",
+            "price": "6.90元",
+            "link": "https://book.douban.com/link2/?lowest=436&pre=0&vendor=bookschina&srcpage=subject&price=690&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9127836.htm&cntvendor=2&srcsubj=26962861&type=bkbuy&subject=26962861"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26962861/",
+    "douban_id": "26962861",
+    "menu": [
+        "",
+        "        【时空迷航】",
+        "        001   命运",
+        "        066   混沌蝴蝶",
+        "        136   信使",
+        "        【穿越未来】",
+        "        012   2018年4月1日",
+        "        107   人生",
+        "        【现实人生】",
+        "        022   光荣与梦想",
+        "        093   鲸歌",
+        "        117   太原诅咒",
+        "        【名作精读】",
+        "        145   刘慈欣的科幻世界",
+        "        【粉丝舞台】",
+        "        188   火雨",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33322621.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣",
+            "link": "https://book.douban.com/author/4561353"
+        },
+        {
+            "text": "哈尔滨出版社",
+            "link": "https://book.douban.com/press/2192"
+        },
+        {
+            "text": "读点经典·中外科幻名家经典丛书",
+            "link": "https://book.douban.com/series/47910"
+        }
+    ],
+    "tag": "科幻"
+}

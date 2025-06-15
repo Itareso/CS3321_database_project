@@ -1,0 +1,65 @@
+{
+    "title": "渺渺无期",
+    "bookInfo": {
+        "作者": "归渔",
+        "出版社": "广东旅游出版社",
+        "出版年": "2018-9",
+        "页数": "360",
+        "定价": "36.80元",
+        "装帧": "平装",
+        "ISBN": "9787557013400"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "41.4%",
+        "four_star_rate": "28.9%",
+        "three_star_rate": "21.3%",
+        "two_star_rate": "5.7%",
+        "one_star_rate": "2.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4625701/",
+            "name": "归渔",
+            "role": "作者",
+            "douban_id": "4625701"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "20.90元",
+            "link": "https://book.douban.com/link2/?lowest=2090&pre=0&vendor=jingdong&srcpage=subject&price=2090&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10043770083921.html&cntvendor=1&srcsubj=30296649&type=bkbuy&subject=30296649"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30296649/",
+    "douban_id": "30296649",
+    "menu": [
+        "",
+        "        一章：我叫于渺渺，很高兴认识你",
+        "        二章：请驯养我吧",
+        "        三章：她喜欢的少年，是Z好的少年",
+        "        四章：来势汹汹的少女梦",
+        "        五章：谁比谁更死心塌地",
+        "        六章：颜倦，你喜欢过一个人吗",
+        "        七章：疲惫生活里的英雄梦想",
+        "        八章：他和她的好时光",
+        "        九章：再见，十七岁的颜倦",
+        "        十章：小王子对玫瑰有始有终，我对你也是这样",
+        "        番外:颜倦的陪产日记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29842363.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "归渔",
+            "link": "https://book.douban.com/author/4625701"
+        },
+        {
+            "text": "广东旅游出版社",
+            "link": "https://book.douban.com/press/2163"
+        }
+    ],
+    "tag": "校园"
+}

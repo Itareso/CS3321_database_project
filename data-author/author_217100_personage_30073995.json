@@ -1,0 +1,151 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "茫然尘世的珍宝",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34974229.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37062764/",
+                        "year": "2024",
+                        "id": 37062764
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "时间的果",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34193152.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35841630/",
+                        "year": "2022",
+                        "id": 35841630
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "静默有时，倾诉有时",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34193154.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35841631/",
+                        "year": "2022",
+                        "id": 35841631
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "心的事情",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34257221.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35924768/",
+                        "year": "2022",
+                        "id": 35924768
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "各自爱",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34006441.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35611906/",
+                        "year": "2021",
+                        "id": 35611906
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "平淡之喜",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33736992.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35197303/",
+                        "year": "2020",
+                        "id": 35197303
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "小鸟睡在我身旁",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29611249.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27183696/",
+                        "year": "2018",
+                        "id": 27183696
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "私语书（插图珍藏版）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29499027.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27093039/",
+                        "year": "2017",
+                        "id": 27093039
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "矢量年华·欲望",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27197196.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/24880246/",
+                        "year": "2014",
+                        "id": 24880246
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "因自由而美丽",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s24479156.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/20433605/",
+                        "year": "2013",
+                        "id": 20433605
+                    }
+                }
+            ],
+            "total": 12
+        }
+    },
+    "author_link": "https://book.douban.com/author/217100/",
+    "author_douban_id": "217100",
+    "personage_id": 30073995,
+    "name": [
+        "黎戈",
+        "Ge Li"
+    ],
+    "intro": "\"黎戈，70后作家，原名许天乐，南京人。嗜好阅读，勤于动笔，文字有雅致且考究的趣味，风格自我、恬淡。作品发表于《人民文学》《今天》《鲤》等刊物，著有书籍《一切因你而值得》《私语书》《因自由而美丽》《静默有时，倾诉有时》《时间的果》。\"",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/8267caf3f8174e5058a9f45acefb0a1c.jpg",
+    "更多中文名": "许天乐(本名)",
+    "sex": 0,
+    "birth_place": [
+        "中国",
+        "江苏",
+        "南京"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

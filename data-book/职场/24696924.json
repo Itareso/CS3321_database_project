@@ -1,0 +1,48 @@
+{
+    "title": "一个程序员的奋斗史",
+    "bookInfo": {
+        "作者": "莫雨",
+        "出版社": "人民邮电出版社",
+        "出版年": "2013-6",
+        "页数": "436",
+        "定价": "49.00元",
+        "装帧": "平装",
+        "丛书": "图灵原创",
+        "ISBN": "9787115315588"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    这是一本程序员写给程序员的小说。    本书描写了一位刚从大学毕业，对社会懵懵懂懂的菜鸟程序员段伏枥，通过自身的努力，一步一步前行，最后成为技术高手，并荣获微软最有价值专家的故事。书中不仅有初涉社会时的无奈，也有苦中作乐的愉悦，更有同事间的勾心斗角，是当今IT职场的一个缩影。    这是一个程序员的奋斗，也是无数程序员的缩影。    同时，这也是一部IT公司潜规则与科技江湖厚黑学的实录。    -----------------------------------------------------------------------------------    《一个程序员的奋斗史》编辑推荐    CSDN《那些年啊，那些事》超级火爆小说全本    本连载CSDN超两百万点击，8000人评价！    CSDN名博“norains的专栏”博主莫雨倾力之作！    无论在怎样的极品公司中，我都要前行，我都要取得进步！    在现实与杯具中生存，在逆境与梦想中成长。    如此一个出色的人才，公司怎么会不抢着要呢？和大多数的应届毕业生一样，段伏枥也在简历中写下了浓重的一笔：精通C/C++。    集屌丝、码农、IT男等多种光环于一身，以实现自我价值，成为有为青年为生活目标。    这是一个程序员的奋斗，也是无数程序员的缩影。    同时，这也是一部IT公司潜规则与科技江湖厚黑学的实录。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "12.9%",
+        "four_star_rate": "40.9%",
+        "three_star_rate": "33.3%",
+        "two_star_rate": "8.6%",
+        "one_star_rate": "4.3%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "23.84元",
+            "link": "https://book.douban.com/link2/?lowest=2384&pre=0&vendor=jingdong&srcpage=subject&price=2384&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10066177536270.html&cntvendor=1&srcsubj=24696924&type=bkbuy&subject=24696924"
+        }
+    ],
+    "url": "https://book.douban.com/subject/24696924/",
+    "douban_id": "24696924",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s26706476.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "莫雨",
+            "link": "https://book.douban.com/search/%E8%8E%AB%E9%9B%A8"
+        },
+        {
+            "text": "人民邮电出版社",
+            "link": "https://book.douban.com/press/2609"
+        },
+        {
+            "text": "图灵原创",
+            "link": "https://book.douban.com/series/13000"
+        }
+    ],
+    "tag": "职场"
+}

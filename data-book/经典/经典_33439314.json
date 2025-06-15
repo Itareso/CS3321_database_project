@@ -1,0 +1,91 @@
+{
+    "title": "战争与和平",
+    "bookInfo": {
+        "作者": "[俄] 列夫·托尔斯泰",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "读客文化",
+        "译者": "草婴",
+        "出版年": "2019-5",
+        "页数": "1784",
+        "定价": "179.90元",
+        "装帧": "平装",
+        "丛书": "三个圈经典文库",
+        "ISBN": "9787559433602"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "73.4%",
+        "four_star_rate": "20.6%",
+        "three_star_rate": "4.9%",
+        "two_star_rate": "0.3%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4511107/",
+            "name": "列夫·托尔斯泰",
+            "role": "作者",
+            "douban_id": "4511107"
+        },
+        {
+            "link": "https://book.douban.com/author/4511112/",
+            "name": "草婴",
+            "role": "译者",
+            "douban_id": "4511112"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "20.99元",
+            "link": "https://read.douban.com/ebook/115774479/?dcs=subject-buylink&dcm=douban&dct=33439314"
+        },
+        {
+            "name": "得到",
+            "price": "179.90元",
+            "link": "https://www.dedao.cn/ebook/detail?id=6JvkYVNn8NXVry5MeG6Z9RALK2dxJ3GnrXW7olBEmjgakz1DPvYObQ4qpQdZqme9&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "89.95元",
+            "link": "https://book.douban.com/link2/?lowest=7740&pre=0&vendor=jingdong&srcpage=subject&price=8995&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwUXw4CVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IODR8DSjsSUS1vGAh3HmZdDFguTw1oejpXdVlQFXFDKRxfXixxZTZJSVJCKhFCWCokcCxgcARXbyJlBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYHP1sraTBKfQxoZRplDVtcXVdcCE9nD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtVCUoRAmY4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgQFAwszVE1ARmxcUwF7XQcEXFxZDEwnAW4JGVklbTZbFQAfeE5FQQgLSDlWPVlaUi0aTjRuVjBmGR5dKkd_FlwLby1xWi5aEgxibQUy&cntvendor=5&srcsubj=33439314&type=bkbuy&subject=33439314"
+        },
+        {
+            "name": "当当网",
+            "price": "179.90元",
+            "link": "https://book.douban.com/link2/?lowest=7740&pre=0&vendor=dangdang&srcpage=subject&price=17990&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s33439314%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27866778&cntvendor=5&srcsubj=33439314&type=bkbuy&subject=33439314"
+        },
+        {
+            "name": "中图网",
+            "price": "77.40元",
+            "link": "https://book.douban.com/link2/?lowest=7740&pre=0&vendor=bookschina&srcpage=subject&price=7740&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8081780.htm&cntvendor=5&srcsubj=33439314&type=bkbuy&subject=33439314"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33439314/",
+    "douban_id": "33439314",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s32314076.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[俄] 列夫·托尔斯泰",
+            "link": "https://book.douban.com/author/4511107"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "读客文化",
+            "link": "https://book.douban.com/producers/6"
+        },
+        {
+            "text": "草婴",
+            "link": "https://book.douban.com/author/4511112"
+        },
+        {
+            "text": "三个圈经典文库",
+            "link": "https://book.douban.com/series/41603"
+        }
+    ],
+    "tag": "经典"
+}

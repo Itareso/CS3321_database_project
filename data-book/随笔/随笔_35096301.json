@@ -1,0 +1,79 @@
+{
+    "title": "书店的灯光",
+    "bookInfo": {
+        "作者": "[美] 刘易斯·布兹比",
+        "出版社": "上海三联书店",
+        "出品方": "新经典文化",
+        "原作名": "The Yellow-Lighted Bookshop",
+        "译者": "陈体仁",
+        "出版年": "2020-8-1",
+        "页数": "240",
+        "定价": "58.00",
+        "装帧": "精装",
+        "ISBN": "9787542670717"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《书店的灯光》是一部关于书店的文艺随笔。作者半生与书相伴，讲述了书籍的历史、阅读的启蒙、人与书的故事，以及书店营造的“在人群中独处”的温柔氛围，并站在互联网时代之端，表达了对书店未来的审思。    =======    浪费在书店里的每一个慵懒的午后，是幸福的。    暖黄的灯光下，啜着醇香的咖啡，眼前浮光掠影的每一页，都仿佛有时间流逝的细碎声音相伴。    每一颗渴望片刻安宁的心，都会在这里得到满足。    一九二一年，巴黎左岸“莎士比亚书店”的店主西尔维亚·比奇为了禁书《尤利西斯》的面世四处奔走；数十年后，硅谷“普林特斯书店”成为未来计算机专家自我教育的基地……一个爱书人写下他的书店时光，以及时光中的书店。    =======    ★傅月庵、郝明义、刘苏里等推荐    ★莎士比亚被嘲“狂妄的乌鸦”？大诗人蒲柏给书商杯里下催吐粉？咖啡起初竟被书店老板起诉？……资深书迷带你了解书里书外的妙闻趣事！    ★经典读本崭新升级，新增一章，讲述互联网时代，人与书的种种可能    ★黑金封面小精装，便于携带，典雅时尚    =======    ★喜欢书店舒适的灯光，享受“在人群中独处”，享受文艺与知识的滋养——《书店的灯光》致敬了这样的你。——《书单》（Booklist）    ★作者带着我们，从书店后屋的小仓库，一路游览到了公元一千年的流动书摊。——《洛杉矶时报》（Los Angeles Times）    ★读到他描述自己走进一家书店，眼睛扫过一排排书架上的书册，流连于堆满新书的木桌，然后发现一些精美得让人无法抗拒的书，不得不买下……你会意识到，他不只是爱书，他是被迷住了。——《出版家周刊》（Publishers Weekly）\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "23.7%",
+        "four_star_rate": "49.9%",
+        "three_star_rate": "24.3%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "34.80元",
+            "link": "https://read.douban.com/ebook/317394550/?dcs=subject-buylink&dcm=douban&dct=35096301"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.88元",
+            "link": "https://book.douban.com/link2/?lowest=2488&pre=0&vendor=jingdong&srcpage=subject&price=2488&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQIKVVxZAEsWM28JGlgXXg8BUlddCU0XMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWAG0LElgTVAYDUl5CUQ5LXl98YVxHI3hJLj4NEk10SCtuYhN2LXpyWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHl0TXAEyVl5cCU4XC2gLGmsVWwMDV19YDEMXAG8JK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggTXlIBA10zVE1AQShKHAt7XQcLV1pZAU8nAW4JGVklbTYFCC0PeE5nV2p2Eh4SWWZRFCM_Qw1NVj1mGRJHBlp5BiQODTlRfjFsTxlRbQUy&cntvendor=3&srcsubj=35096301&type=bkbuy&subject=35096301"
+        },
+        {
+            "name": "中图网",
+            "price": "32.90元",
+            "link": "https://book.douban.com/link2/?lowest=2488&pre=0&vendor=bookschina&srcpage=subject&price=3290&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8357835.htm&cntvendor=3&srcsubj=35096301&type=bkbuy&subject=35096301"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35096301/",
+    "douban_id": "35096301",
+    "menu": [
+        "",
+        "        在人群中独处/1",
+        "        魔箱/28",
+        "        公司/50",
+        "        书城/65",
+        "        在路上/84",
+        "        走出黑暗/98",
+        "        大生意/122",
+        "        不能因噎废食/147",
+        "        灯光温馨的书店/173",
+        "        新成员/199",
+        "        写在后面的话：书店不死/216",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33683352.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 刘易斯·布兹比",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%98%93%E6%96%AF%C2%B7%E5%B8%83%E5%85%B9%E6%AF%94"
+        },
+        {
+            "text": "上海三联书店",
+            "link": "https://book.douban.com/press/2723"
+        },
+        {
+            "text": "新经典文化",
+            "link": "https://book.douban.com/producers/3"
+        },
+        {
+            "text": "陈体仁",
+            "link": "https://book.douban.com/search/%E9%99%88%E4%BD%93%E4%BB%81"
+        }
+    ],
+    "tag": "随笔"
+}

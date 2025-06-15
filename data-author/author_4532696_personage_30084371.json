@@ -1,0 +1,142 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "如何是好",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34310745.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36087145/",
+                        "year": "2022",
+                        "id": 36087145
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "沧浪之水",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33938887.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35498118/",
+                        "year": "2021",
+                        "id": 35498118
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "活着之上（插图典藏版）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34024538.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35381181/",
+                        "year": "2021",
+                        "id": 35381181
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "因为女人（插图典藏版）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34024537.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35381471/",
+                        "year": "2021",
+                        "id": 35381471
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "曾在天涯（插图典藏版）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33870678.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35381554/",
+                        "year": "2021",
+                        "id": 35381554
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "阎真小说艺术讲稿",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33903676.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34969945/",
+                        "year": "2020",
+                        "id": 34969945
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "我们把景仰忘记了",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s11328715.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/11520735/",
+                        "year": "2012",
+                        "id": 11520735
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "阎真文集（全5册）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s9003343.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/10546115/",
+                        "year": "2012",
+                        "id": 10546115
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "百年文学与后现代主义",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s26263400.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1815826/",
+                        "year": "2003",
+                        "id": 1815826
+                    }
+                }
+            ],
+            "total": 9
+        }
+    },
+    "author_link": "https://book.douban.com/author/4532696/",
+    "author_douban_id": "4532696",
+    "personage_id": 30084371,
+    "name": [
+        "阎真",
+        "Zhen Yan"
+    ],
+    "intro": "阎真，男，1957年9月出生。湖南长沙人。1984年毕业于北京大学中文系，1988年获湖南师范大学文学硕士学位。同年8月赴加拿大留学，在圣约翰大学社会系学习。1992年回国。现为中南大学文学院教授，副院长，中国作家协会会员。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/16f07a4266df50ec041c83dbad7f174b.jpg",
+    "更多中文名": "字雪笠",
+    "sex": 1,
+    "birth_date": 1957,
+    "age": 69,
+    "birth_place": [
+        "中国",
+        "湖南",
+        "长沙"
+    ],
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

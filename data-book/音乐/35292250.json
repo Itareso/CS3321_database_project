@@ -1,0 +1,59 @@
+{
+    "title": "我的贝多芬",
+    "bookInfo": {
+        "作者": "[奥] 鲁道夫·布赫宾德",
+        "出版社": "生活·读书·新知三联书店",
+        "副标题": "与大师相伴的生活",
+        "译者": "马莉娜",
+        "出版年": "2021-1",
+        "页数": "307",
+        "定价": "89.00元",
+        "装帧": "精装",
+        "ISBN": "9787108070142"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.1%",
+        "four_star_rate": "27.0%",
+        "three_star_rate": "35.1%",
+        "two_star_rate": "2.7%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "47.10元",
+            "link": "https://book.douban.com/link2/?lowest=4710&pre=0&vendor=jingdong&srcpage=subject&price=4710&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVoSWwILVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVVlbDEIWHDZNRwYlInFnXQIIazJyRDNAcg9HAg92ESYUXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4KVlxcDUgQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlMUVFZsCFgHVh4UVyxmGVoWWw4HUldtCkoWAW04K2sSGmFHEjsgfCBAcRgAUF1TJXVjIQQqdwJ5QSlcbxxWGEReUw0UDwwQYAdRK1gl&cntvendor=3&srcsubj=35292250&type=bkbuy&subject=35292250"
+        },
+        {
+            "name": "当当网",
+            "price": "50.10元",
+            "link": "https://book.douban.com/link2/?lowest=4710&pre=0&vendor=dangdang&srcpage=subject&price=5010&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35292250%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29171285&cntvendor=3&srcsubj=35292250&type=bkbuy&subject=35292250"
+        },
+        {
+            "name": "中图网",
+            "price": "58.00元",
+            "link": "https://book.douban.com/link2/?lowest=4710&pre=0&vendor=bookschina&srcpage=subject&price=5800&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8480523.htm&cntvendor=3&srcsubj=35292250&type=bkbuy&subject=35292250"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35292250/",
+    "douban_id": "35292250",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33781684.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[奥] 鲁道夫·布赫宾德",
+            "link": "https://book.douban.com/search/%E9%B2%81%E9%81%93%E5%A4%AB%C2%B7%E5%B8%83%E8%B5%AB%E5%AE%BE%E5%BE%B7"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        },
+        {
+            "text": "马莉娜",
+            "link": "https://book.douban.com/search/%E9%A9%AC%E8%8E%89%E5%A8%9C"
+        }
+    ],
+    "tag": "音乐"
+}

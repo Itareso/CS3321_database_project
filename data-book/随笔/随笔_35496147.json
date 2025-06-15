@@ -1,0 +1,138 @@
+{
+    "title": "有本事",
+    "bookInfo": {
+        "作者": "冯唐",
+        "出版社": "北京联合出版公司",
+        "出品方": "磨铁图书",
+        "出版年": "2021-6-28",
+        "页数": "320",
+        "定价": "58元",
+        "装帧": "平装",
+        "丛书": "磨铁 冯唐作品",
+        "ISBN": "9787559653147"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "11.7%",
+        "four_star_rate": "30.6%",
+        "three_star_rate": "43.4%",
+        "two_star_rate": "9.9%",
+        "one_star_rate": "4.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/102872/",
+            "name": "冯唐",
+            "role": "作者",
+            "douban_id": "102872"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "58.00元",
+            "link": "https://read.douban.com/ebook/322225417/?dcs=subject-buylink&dcm=douban&dct=35496147"
+        },
+        {
+            "name": "得到",
+            "price": "58.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=gO8xJGVarB2qEQoplXvY14JRbVdnz0zbm80jPmyDANKge8O65LG7Mk9xZYk69Zry&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "37.00元",
+            "link": "https://book.douban.com/link2/?lowest=2190&pre=0&vendor=jingdong&srcpage=subject&price=3700&pos=3&url=https%3A%2F%2Fitem.jd.com%2F13048203.html&cntvendor=5&srcsubj=35496147&type=bkbuy&subject=35496147"
+        },
+        {
+            "name": "当当网",
+            "price": "29.00元",
+            "link": "https://book.douban.com/link2/?lowest=2190&pre=0&vendor=dangdang&srcpage=subject&price=2900&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35496147%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29256771&cntvendor=5&srcsubj=35496147&type=bkbuy&subject=35496147"
+        },
+        {
+            "name": "中图网",
+            "price": "21.90元",
+            "link": "https://book.douban.com/link2/?lowest=2190&pre=0&vendor=bookschina&srcpage=subject&price=2190&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8614013.htm&cntvendor=5&srcsubj=35496147&type=bkbuy&subject=35496147"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35496147/",
+    "douban_id": "35496147",
+    "menu": [
+        "",
+        "        PART 1",
+        "        财务自由，了解一下",
+        "        财务自由，了解一下\t9",
+        "        好智商、好情商不如好习惯\t15",
+        "        到底什么是“二八原则”\t22",
+        "        跨界不伤胯\t28",
+        "        我的投资三原则\t33",
+        "        如何看病\t38",
+        "        常识救命\t45",
+        "        压榨一下肉身的创造力\t51",
+        "        PART 2",
+        "        从请客吃饭开始成事",
+        "        从请客吃饭开始成事\t59",
+        "        得志则996，不得志则悠然南山\t64",
+        "        最大的必杀技是直接说我喜欢你\t68",
+        "        人人都标配一具胴体\t73",
+        "        人生苦短，马拉松很长\t79",
+        "        那就索性说说直男癌\t86",
+        "        手机暴毙的十二时辰\t92",
+        "        最希望孩子们具备的二十二个能力和特质\t98",
+        "        PART 3",
+        "        如果还有最后一天可以活",
+        "        如果还有最后一天可以活\t107",
+        "        把一辈子当成一天过\t112",
+        "        明月几时有\t115",
+        "        二十年来家国\t121",
+        "        那些并不闪闪发光的牛人\t127",
+        "        人生三原则\t133",
+        "        休言万事转头空，未转头时皆梦\t138",
+        "        不急不慢地做一辈子\t142",
+        "        别来常忆君\t149",
+        "        PART 4",
+        "        和好玩好看的人消磨时光",
+        "        干过的最文艺的事儿\t157",
+        "        带着诗和香水离开\t164",
+        "        女神应无恙\t169",
+        "        如果真的、真的只能带一口箱子\t176",
+        "        想对女性说的话\t184",
+        "        什么是风骨？\t188",
+        "        非常难听、非常深情\t194",
+        "        如初吻，如初夜，如仓颉在造字时\t198",
+        "        出走半生，重新进入我的城\t204",
+        "        写给二十年之后的我\t210",
+        "        PART 5",
+        "        一个人的乐园",
+        "        人理解了死亡，就容易三观正确\t219",
+        "        书法是万人的美女\t247",
+        "        常规不为我辈设\t251",
+        "        不要怕黑暗，不要怕穷困\t270",
+        "        无论多高远的目标，做着做着就实现了\t275",
+        "        人类有史以来最大的慈善\t279",
+        "        我们如何做慈善？\t284",
+        "        一世界的油腻，一个人的乐园\t289",
+        "        应云何住，云何降伏其心\t298",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33934099.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "冯唐",
+            "link": "https://book.douban.com/search/%E5%86%AF%E5%94%90"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "磨铁图书",
+            "link": "https://book.douban.com/producers/18"
+        },
+        {
+            "text": "磨铁 冯唐作品",
+            "link": "https://book.douban.com/series/49841"
+        }
+    ],
+    "tag": "随笔"
+}

@@ -1,0 +1,121 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "莫须有",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34208374.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35867647/",
+                        "year": "2022",
+                        "id": 35867647
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "安息吧动物",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34233945.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35789738/",
+                        "year": "2022",
+                        "id": 35789738
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "雪是谁说的谎：倪湛舸诗集",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29867501.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30247291/",
+                        "year": "2018",
+                        "id": 30247291
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "夏与西伯利亚",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29817584.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30272408/",
+                        "year": "2018",
+                        "id": 30272408
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "白刃的海",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28218024.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26413660/",
+                        "year": "2015",
+                        "id": 26413660
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "异旅人",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s3233187.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/3182667/",
+                        "year": "2008",
+                        "id": 3182667
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "人间深河",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s1805028.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1870555/",
+                        "year": "2006",
+                        "id": 1870555
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "黑暗中相逢",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s1325829.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1171195/",
+                        "year": "2004",
+                        "id": 1171195
+                    }
+                }
+            ],
+            "total": 8
+        }
+    },
+    "author_link": "https://book.douban.com/author/4609977/",
+    "author_douban_id": "4609977",
+    "personage_id": 35341921,
+    "name": [
+        "倪湛舸",
+        "Zhan'ge Ni"
+    ],
+    "intro": "倪湛舸，北京大学英语语言文学系学士，福德姆大学（Fordham University）神学系硕士，芝加哥大学神学院（University of Chicago Divinity School）宗教与文学专业博士。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/4d425359033964d897409306cbd22ef4.jpg",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

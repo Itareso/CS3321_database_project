@@ -1,0 +1,55 @@
+{
+    "title": "希腊悲剧时代的哲学",
+    "bookInfo": {
+        "作者": "[德] 弗里德里希·尼采",
+        "出版社": "商务印书馆",
+        "译者": "李超杰",
+        "出版年": "2018-6",
+        "页数": "93",
+        "定价": "14.00元",
+        "装帧": "平装",
+        "ISBN": "9787100160551"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "55.8%",
+        "four_star_rate": "39.0%",
+        "three_star_rate": "5.2%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4508932/",
+            "name": "尼采",
+            "role": "作者",
+            "douban_id": "4508932"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "11.80元",
+            "link": "https://book.douban.com/link2/?lowest=1180&pre=0&vendor=jingdong&srcpage=subject&price=1180&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF4UWAAFXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUV9YDkweHDZNRwYlI3xyUQgkSg53ZQlvbCVzAwFhNR0YXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4AUl9fAU0fM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsQWVJsCFgHVUpBSitmGFMTVQELV1ptCkoWAW04K2tNG2JxAVs0UTV1WG0NHzNQHHlLXTsrWw55ATpfHh1CLn5WKj88UA1eczxcK1gl&cntvendor=1&srcsubj=30218889&type=bkbuy&subject=30218889"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30218889/",
+    "douban_id": "30218889",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29974449.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] 弗里德里希·尼采",
+            "link": "https://book.douban.com/author/4508932"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "李超杰",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E8%B6%85%E6%9D%B0"
+        }
+    ],
+    "tag": "西方哲学"
+}

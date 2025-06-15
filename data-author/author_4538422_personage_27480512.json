@@ -1,0 +1,168 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "Pleasure of Thinking",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34893477.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36937499/",
+                        "year": "2024",
+                        "id": 36937499
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "你好啊：王小波&李银河爱情手账",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34767990.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36744146/",
+                        "year": "2024",
+                        "id": 36744146
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "寻找无双",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34647964.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36564491/",
+                        "year": "2023",
+                        "id": 36564491
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "黄金时代",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33919730.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34947576/",
+                        "year": "2021",
+                        "id": 34947576
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "沉默的大多数",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34397295.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34974501/",
+                        "year": "2021",
+                        "id": 34974501
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "一只特立独行的猪",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34362350.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34950797/",
+                        "year": "2021",
+                        "id": 34950797
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.7,
+                        "title": "我的精神家园",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34340994.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35010183/",
+                        "year": "2021",
+                        "id": 35010183
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "革命时期的爱情",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34053872.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35571615/",
+                        "year": "2021",
+                        "id": 35571615
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "我的阴阳两界",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34044116.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35571619/",
+                        "year": "2021",
+                        "id": 35571619
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "绿毛水怪",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29774838.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/30163860/",
+                        "year": "2018",
+                        "id": 30163860
+                    }
+                }
+            ],
+            "total": 116
+        }
+    },
+    "author_link": "https://book.douban.com/author/4538422/",
+    "author_douban_id": "4538422",
+    "personage_id": 27480512,
+    "name": [
+        "王小波",
+        "Xiaobo Wang"
+    ],
+    "intro": "王小波（1952-1997），男。汉族。当代著名学者、作家。他的代表作品有《黄金时代》、《白银时代》、《黑铁时代》等。被誉为中国的乔伊斯兼卡夫卡。他的唯一一部电影剧本《东宫西宫》获阿根廷国际电影节最佳编剧奖，并且入围1997年的戛纳国际电影节。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27480512/photo/2502385453",
+        "https://www.douban.com/personage/27480512/photo/2502385447",
+        "https://www.douban.com/personage/27480512/photo/2221873075",
+        "https://www.douban.com/personage/27480512/photo/2221873079",
+        "https://www.douban.com/personage/27480512/photo/2871345514"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2502385453.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2502385447.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2221873075.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2221873079.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2871345514.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/ca7ceff3f789d8e8247e4ff609bdd405.jpg",
+    "sex": 1,
+    "birth_date": 1952,
+    "death_date": 1997,
+    "age": 46,
+    "birth_place": [
+        "中国",
+        "北京"
+    ],
+    "family_member": "李银河(妻) / 王小平(弟) / 王晨光(弟)",
+    "IMDB": "nm0944494",
+    "profession": [
+        "作者",
+        "译者",
+        "编剧"
+    ]
+}

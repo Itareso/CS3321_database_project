@@ -1,0 +1,69 @@
+{
+    "title": "露水的世",
+    "bookInfo": {
+        "作者": "【日】文泉子 / 【日】小林一茶",
+        "出版社": "百花文艺出版社",
+        "译者": "周作人",
+        "出版年": "2019-9",
+        "页数": "240",
+        "定价": "69.8",
+        "装帧": "精装",
+        "ISBN": "9787530677315"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "19.7%",
+        "four_star_rate": "43.2%",
+        "three_star_rate": "33.8%",
+        "two_star_rate": "3.3%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502390/",
+            "name": "周作人",
+            "role": "译者",
+            "douban_id": "4502390"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "21.59元",
+            "link": "https://www.dedao.cn/eBook/kQX7yD4MVoN52PDAnlRdzK6qvg8XEwbdQxWZJjBb7rO4ypxGa9LeQm1kYng9YzK5?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "23.43元",
+            "link": "https://book.douban.com/link2/?lowest=2343&pre=0&vendor=jingdong&srcpage=subject&price=2343&pos=2&url=https%3A%2F%2Fitem.jd.com%2F55120064962.html&cntvendor=3&srcsubj=34762721&type=bkbuy&subject=34762721"
+        },
+        {
+            "name": "中图网",
+            "price": "34.20元",
+            "link": "https://book.douban.com/link2/?lowest=2343&pre=0&vendor=bookschina&srcpage=subject&price=3420&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8138438.htm&cntvendor=3&srcsubj=34762721&type=bkbuy&subject=34762721"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34762721/",
+    "douban_id": "34762721",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33444561.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "【日】文泉子",
+            "link": "https://book.douban.com/search/%E6%96%87%E6%B3%89%E5%AD%90"
+        },
+        {
+            "text": "【日】小林一茶",
+            "link": "https://book.douban.com/search/%E5%B0%8F%E6%9E%97%E4%B8%80%E8%8C%B6"
+        },
+        {
+            "text": "百花文艺出版社",
+            "link": "https://book.douban.com/press/2588"
+        },
+        {
+            "text": "周作人",
+            "link": "https://book.douban.com/search/%E5%91%A8%E4%BD%9C%E4%BA%BA"
+        }
+    ],
+    "tag": "日本文学"
+}

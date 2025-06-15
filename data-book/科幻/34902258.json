@@ -1,0 +1,71 @@
+{
+    "title": "暗黑扫描仪",
+    "bookInfo": {
+        "作者": "[美] 菲利普·K·迪克",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "A Scanner Darkly",
+        "译者": "于娟娟",
+        "出版年": "2020-5-1",
+        "页数": "380",
+        "定价": "52.00元",
+        "装帧": "平装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536495708"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.6%",
+        "four_star_rate": "42.5%",
+        "three_star_rate": "18.9%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4567460/",
+            "name": "菲利普·迪克",
+            "role": "作者",
+            "douban_id": "4567460"
+        }
+    ],
+    "shops": [
+        {
+            "name": "当当网",
+            "price": "52.00元",
+            "link": "https://book.douban.com/link2/?lowest=2600&pre=0&vendor=dangdang&srcpage=subject&price=5200&pos=1&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34902258%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28996327&cntvendor=2&srcsubj=34902258&type=bkbuy&subject=34902258"
+        },
+        {
+            "name": "京东商城",
+            "price": "26.00元",
+            "link": "https://book.douban.com/link2/?lowest=2600&pre=0&vendor=jingdong&srcpage=subject&price=2600&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF0UXQcHUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUwIuWjsSczsNZVJQWUVFLhwgahhLAx8KdVlcD11eLwwnW05teWhUfT4TGRFCWCokcC9gcAxMbDJHBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYGIV1HCj9vWQpQSwFJFQFAXSdHDyJRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFleDU4WB2s4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXgQFAwwzVE1ASCpTQAh7XQYFV1xdDU0nAW4JGVklbTYFCC0PeE5nV2p2Eh4RHkF4FiM_WxcXc21mGRJHBlp5BiQODTFtBDNufl1RbQUy&cntvendor=2&srcsubj=34902258&type=bkbuy&subject=34902258"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34902258/",
+    "douban_id": "34902258",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33684735.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 菲利普·K·迪克",
+            "link": "https://book.douban.com/author/4567460"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "于娟娟",
+            "link": "https://book.douban.com/search/%E4%BA%8E%E5%A8%9F%E5%A8%9F"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

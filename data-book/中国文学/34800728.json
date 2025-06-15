@@ -1,0 +1,80 @@
+{
+    "title": "生死场",
+    "bookInfo": {
+        "作者": "萧红",
+        "出版社": "江西人民出版社",
+        "出品方": "果麦文化",
+        "副标题": "萧红小说选",
+        "出版年": "2019-8-20",
+        "页数": "272",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "丛书": "萧红作品集（萧红研究会推荐版）",
+        "ISBN": "9787210114314"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "50.4%",
+        "four_star_rate": "43.0%",
+        "three_star_rate": "6.0%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4529669/",
+            "name": "萧红",
+            "role": "作者",
+            "douban_id": "4529669"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "9.99元",
+            "link": "https://read.douban.com/ebook/122907931/?dcs=subject-buylink&dcm=douban&dct=34800728"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.74元",
+            "link": "https://book.douban.com/link2/?lowest=2474&pre=0&vendor=jingdong&srcpage=subject&price=2474&pos=2&url=https%3A%2F%2Fitem.jd.com%2F10029849682682.html&cntvendor=2&srcsubj=34800728&type=bkbuy&subject=34800728"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34800728/",
+    "douban_id": "34800728",
+    "menu": [
+        "",
+        "        手",
+        "        牛车上",
+        "        逃难",
+        "        山下",
+        "        后花园",
+        "        北中国",
+        "        小城三月",
+        "        生死场",
+        "        附录",
+        "        《生死场》原序",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33461936.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "萧红",
+            "link": "https://book.douban.com/author/4529669"
+        },
+        {
+            "text": "江西人民出版社",
+            "link": "https://book.douban.com/press/2145"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "萧红作品集（萧红研究会推荐版）",
+            "link": "https://book.douban.com/series/49067"
+        }
+    ],
+    "tag": "中国文学"
+}

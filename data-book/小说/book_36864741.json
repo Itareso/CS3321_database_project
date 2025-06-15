@@ -1,0 +1,48 @@
+{
+    "title": "不信之书",
+    "bookInfo": {
+        "作者": "[英] 詹姆斯·伍德",
+        "出版社": "北京联合出版公司",
+        "出品方": "新行思",
+        "原作名": "The Book Against God",
+        "译者": "张朔然",
+        "出版年": "2024-9",
+        "页数": "342",
+        "定价": "68",
+        "装帧": "精装",
+        "丛书": "詹姆斯·伍德作品集（新行思版）",
+        "ISBN": "9787559676030"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    詹姆斯·伍德小说首作    英国版《围城》嬉笑间揭露延毕博士苦乐生活    写不出的博士论文，忍不住下笔的个人写作项目，岌岌可危的经济状况，濒临破碎的婚姻，原生家庭的变故……    一个青年博士的学术挣扎和感情生活的困顿，在詹姆斯·伍德这部小说中得到了生动、犀利、风趣的展现。本书是他多年来真实生存经验及文学洞见的结合之作。由于自身的评论家特质，伍德在刻画这群英国当代知识分子的群像之时，也用自己那种特有的柔情、优雅的品格，宽恕了他们的失常和冒犯，并为读者带来了这种社会较量以外的慰藉和情感力量。本书语言独到，灵气逼人，不仅是一本优秀的当代人物小说，更是对知识界身份的一种自我质询。    ………………    “这个时代最出色的文学批评家”热情洋溢、深邃有趣的小说首作。    ——《金融时报》    伍德是少有的能够将思想生活戏剧化并赋予其人性维度的小说家。    ——《出版人周刊》    小说中的思想难题虽然暗藏玄机，但绝不会让人觉得只是学术性的，因为它们是主人公个人关系的折射。    ——《纽约客》    伍德的第一部小说达到他自己的严格标准了吗？答案是：非常出色地达到了。就像伍德的评论一样，《不信之书》充满了思想、讽刺和智慧。    ——《迈阿密先驱报》    伍德写出了他自己的第一部大部头小说，这部小说与文学和信仰有关，但令人高兴的是，它还充满了智慧、有力的形象和英国式的怪人。    ——《纽约时报书评》    作者将严肃的神学问题与家庭关系巧妙地、甚至是狡猾地融合在一起，就像汤姆藏在床下的苏格兰威士忌一样顺口。    ——《华盛顿邮报》\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "24.3%",
+        "four_star_rate": "46.4%",
+        "three_star_rate": "23.6%",
+        "two_star_rate": "3.6%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/348272/",
+            "name": "詹姆斯·伍德",
+            "role": "作者",
+            "douban_id": "348272"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "50.32元",
+            "link": "https://book.douban.com/link2/?lowest=4860&pre=0&vendor=jingdong&srcpage=subject&price=5032&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlwdWQUGXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEwU-e0kSYCR8HSZVNlVFNwRUU0hOVCdfdVkTX21ZEC0VUT9ofChTRxhiJxFCWCokaCxuYBxKbCJDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ3CgIPaDlsew11QyNUBGJUSlsETjB3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFdUAE0VBmo4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWFIDUFkzVE1AQjZIWx57XQcAVlZeD0gnAW4JGVklbTZFDz0uCk50SBsOZht-DkFhDlcGCxJASzhmGV0XNl1GJxYEfDRoRDRUWCxvbQUy&cntvendor=2&srcsubj=36864741&type=bkbuy&subject=36864741"
+        },
+        {
+            "name": "中图网",
+            "price": "48.60元",
+            "link": "https://book.douban.com/link2/?lowest=4860&pre=0&vendor=bookschina&srcpage=subject&price=4860&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9402933.htm&cntvendor=2&srcsubj=36864741&type=bkbuy&subject=36864741"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36864741/",
+    "douban_id": "36864741",
+    "menu": [],
+    "tag": "小说"
+}

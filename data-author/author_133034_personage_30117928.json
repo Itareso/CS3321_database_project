@@ -1,0 +1,148 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "八个故事",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35084635.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36930351/",
+                        "year": "2025",
+                        "id": 36930351
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "我的皮村兄妹",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34842840.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36850975/",
+                        "year": "2024",
+                        "id": 36850975
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "时代奇趣者",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35055368.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37081696/",
+                        "year": "2024",
+                        "id": 37081696
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "冷淡",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34578039.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36456006/",
+                        "year": "2023",
+                        "id": 36456006
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "汉水的身世",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34339770.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36136538/",
+                        "year": "2022",
+                        "id": 36136538
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "记忆之城",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34192740.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35797410/",
+                        "year": "2022",
+                        "id": 35797410
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "生死课",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33719041.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35192662/",
+                        "year": "2020",
+                        "id": 35192662
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "寂静的孩子",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s32338406.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/33436178/",
+                        "year": "2019",
+                        "id": 33436178
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "世界",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29834767.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30254609/",
+                        "year": "2018",
+                        "id": 30254609
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "青苔不會消失",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29504488.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/27099047/",
+                        "year": "2017",
+                        "id": 27099047
+                    }
+                }
+            ],
+            "total": 14
+        }
+    },
+    "author_link": "https://book.douban.com/author/133034/",
+    "author_douban_id": "133034",
+    "personage_id": 30117928,
+    "name": [
+        "袁凌",
+        "Yuan Ling"
+    ],
+    "intro": "袁凌，男，陕西省平利县人，生于1973年4月，复旦大学硕士，多年从事记者、编辑工作。现任《博客天下》资深主笔。网易真话频道人气作者、百度百家专栏作者。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/img/author/medium/public/1495863919.75.jpg",
+    "更多中文名": "筲箕凹、凌子",
+    "sex": 1,
+    "birth_date": 1973,
+    "age": 53,
+    "profession": [
+        "作者"
+    ]
+}

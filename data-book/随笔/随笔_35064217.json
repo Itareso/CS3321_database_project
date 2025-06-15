@@ -1,0 +1,126 @@
+{
+    "title": "古典学术观澜集",
+    "bookInfo": {
+        "作者": "刘宁",
+        "出版社": "凤凰出版社",
+        "出版年": "2020-6",
+        "定价": "68.00",
+        "装帧": "精装",
+        "丛书": "凤凰枝文丛",
+        "ISBN": "9787550631878"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "42.5%",
+        "four_star_rate": "46.6%",
+        "three_star_rate": "4.1%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "5.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609422/",
+            "name": "刘宁",
+            "role": "作者",
+            "douban_id": "4609422"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "40.00元",
+            "link": "https://read.douban.com/ebook/382190365/?dcs=subject-buylink&dcm=douban&dct=35064217"
+        },
+        {
+            "name": "得到",
+            "price": "40.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=pqvNQ1KRJa7EmgG8MPKrzykNVbDpBWZvxqWQA1xO54nlvZq296YodejLXVJE5eAd&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "40.80元",
+            "link": "https://book.douban.com/link2/?lowest=2680&pre=0&vendor=jingdong&srcpage=subject&price=4079&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwcWgALUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU1daDkIRHDZNRwYlAFx-NBgADwB3BQl1AQdAGVEHFFhHXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeAV8IHV4UXgcCXFlaDkwSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNSQwVCQ5sCFgKSxhMB2xmG1oXXwEBUV5tCkoWAW04K2sSAXVQJFstXE5pCi1NfCUXJ3sHClsBaE55ASZaQAduD3xRUSQnDxdxajVMK1gl&cntvendor=5&srcsubj=35064217&type=bkbuy&subject=35064217"
+        },
+        {
+            "name": "当当网",
+            "price": "68.00元",
+            "link": "https://book.douban.com/link2/?lowest=2680&pre=0&vendor=dangdang&srcpage=subject&price=6800&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35064217%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28983925&cntvendor=5&srcsubj=35064217&type=bkbuy&subject=35064217"
+        },
+        {
+            "name": "中图网",
+            "price": "26.80元",
+            "link": "https://book.douban.com/link2/?lowest=2680&pre=0&vendor=bookschina&srcpage=subject&price=2680&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8362133.htm&cntvendor=5&srcsubj=35064217&type=bkbuy&subject=35064217"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35064217/",
+    "douban_id": "35064217",
+    "menu": [
+        "",
+        "        【问道师说】",
+        "        003 不可思议的“通识”",
+        "        ——启功先生的古典文献学研究",
+        "        019 其学沛然出乎醇正",
+        "        ——吴小如先生的古典文学研究",
+        "        048 沉潜开拓、神超独游",
+        "        ——葛晓音先生的古典文学研究",
+        "        074 《吴小如讲杜诗》整理后记",
+        "        078 仁义之人 其言蔼如",
+        "        ——读陈贻焮先生《杜甫评传》",
+        "        090 研炼史识，考求文心",
+        "        ——读聂石樵先生《唐代文学史》",
+        "        103 立足文本的创新",
+        "        ——读金开诚先生《屈原辞研究》",
+        "        110 “文学”是文学研究的根本",
+        "        ——读陶文鹏先生《唐宋诗词艺术研究》",
+        "        120 理解“礼”的人文内涵",
+        "        ——读彭林先生《中国古代礼仪文明》",
+        "        125 雅俗张力中的“俗文学”",
+        "        ——读郑振铎先生《中国俗文学史》",
+        "        137 北大中文系给我的古典学术教育",
+        "        【游学新知】",
+        "        153 学术的丰富与纯粹",
+        "        ——哈佛大学访学体会",
+        "        163 这里的科学家是道家",
+        "        ——参访普林斯顿高等研究院",
+        "        171 在涅瓦河边理解文学的民族性",
+        "        190 台大：沉思的三小时",
+        "        196 《斯文：唐宋思想的转型》中译再版后记",
+        "        202 翻译王维有几种方式？",
+        "        215 燕东园小楼的近现代学人",
+        "        240 琉璃厂邃雅斋王志鹏先生",
+        "        252 诗词人生滋养大美与大爱",
+        "        ——叶嘉莹先生的境界",
+        "        256每一天都有新的读书计划",
+        "        ——我的本科生活",
+        "        【心香一瓣】",
+        "        265 你要学文",
+        "        ——怀念我的父亲",
+        "        274 难忘的鼓励",
+        "        ——怀念我的语文老师",
+        "        280 绛帐恩深",
+        "        ——怀念启功先生",
+        "        286 梅棣盦问学",
+        "        ——怀念陈贻焮先生",
+        "        297 做关怀大生命的学问",
+        "        ——怀念张晖",
+        "        307 后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33719160.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘宁",
+            "link": "https://book.douban.com/search/%E5%88%98%E5%AE%81"
+        },
+        {
+            "text": "凤凰出版社",
+            "link": "https://book.douban.com/press/2212"
+        },
+        {
+            "text": "凤凰枝文丛",
+            "link": "https://book.douban.com/series/52080"
+        }
+    ],
+    "tag": "随笔"
+}

@@ -1,0 +1,148 @@
+{
+    "title": "楚亡",
+    "bookInfo": {
+        "作者": "李开元",
+        "出版社": "生活·读书·新知三联书店",
+        "副标题": "从项羽到韩信",
+        "出版年": "2015-5",
+        "页数": "339",
+        "定价": "45.00",
+        "装帧": "平装",
+        "丛书": "李开元中国史作品",
+        "ISBN": "9787108052957"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.4%",
+        "four_star_rate": "53.4%",
+        "three_star_rate": "21.8%",
+        "two_star_rate": "1.9%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/269807/",
+            "name": "李开元",
+            "role": "作者",
+            "douban_id": "269807"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "27.00元",
+            "link": "https://read.douban.com/ebook/25723158/?dcs=subject-buylink&dcm=douban&dct=26368072"
+        },
+        {
+            "name": "得到",
+            "price": "26.99元",
+            "link": "https://www.dedao.cn/eBook/XOnaYG1qlM7amvGYerDZOy9JVnXL40BEdJwBkp1NKxoRdb86P2Q5AzgEj9vE5rDo?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "22.50元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=jingdong&srcpage=subject&price=2250&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IG1wcXQAEVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYCU1ddDk0WHDZNRwYlAU9LNVgCXFV1cCsIfBpPPwFnLTYYXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4EXV1YAE4UM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFJGX1FsCFgHVx1VQCpmGFMdWA8LXFZtCkoWAW04K2tQCXxpND46Dy9FWxMOTQ1dGX5FMRZbUR55ATZTGQ93NnN5MC4tTR9XaCZ1K1gl&cntvendor=5&srcsubj=26368072&type=bkbuy&subject=26368072"
+        },
+        {
+            "name": "当当网",
+            "price": "43.20元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=dangdang&srcpage=subject&price=4320&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26368072%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23691089&cntvendor=5&srcsubj=26368072&type=bkbuy&subject=26368072"
+        },
+        {
+            "name": "中图网",
+            "price": "29.30元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=bookschina&srcpage=subject&price=2930&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6880268.htm&cntvendor=5&srcsubj=26368072&type=bkbuy&subject=26368072"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26368072/",
+    "douban_id": "26368072",
+    "menu": [
+        "",
+        "        序言 文学比历史更真实？",
+        "        第一章  大将韩信",
+        "        一  本是王孙",
+        "        二  胯下之辱有兵法",
+        "        三  韩信保卫项羽",
+        "        四  张良求得汉中",
+        "        五  国士无双",
+        "        六  萧何截贤追韩信",
+        "        七  汉中对",
+        "        八  田荣反楚",
+        "        九  汉中的地形交通",
+        "        十  章邯看走了眼",
+        "        十一  明出子午，暗度陈仓",
+        "        第二章  彭城大战",
+        "        一 韩王郑昌",
+        "        二 张耳来归",
+        "        三 吃软饭的陈平",
+        "        四 秦汉的乡里社祭",
+        "        五 古代的克格勃",
+        "        六 义帝之死",
+        "        七 联军攻占彭城",
+        "        八 项羽的反击",
+        "        九 刘邦的极限",
+        "        十 回首彭城之战",
+        "        第三章  南北两翼战场",
+        "        一 刘邦坚强",
+        "        二 冷面杀手英布",
+        "        三 外交家随何",
+        "        四 骑将灌婴",
+        "        五 魏豹反汉被擒",
+        "        六 韩信开辟北方战场",
+        "        七 背水之战",
+        "        八 井陉访古寻战场",
+        "        第四章 荥阳对峙",
+        "        一  荥阳对峙的概观",
+        "        二 陈平受谗",
+        "        三 张良反对分封六国后人",
+        "        四 离间楚国的真相",
+        "        五 范增之死",
+        "        六 争夺荥阳",
+        "        七 刘贾卢绾开辟敌后战场",
+        "        八 郦食其说下齐国",
+        "        九 项羽十大罪",
+        "        第五章  垓下决战",
+        "        一 韩信破齐",
+        "        二 蒯通说韩信",
+        "        三 侯公说项羽",
+        "        四 陈下之战",
+        "        五 垓下之战",
+        "        六 乌江自刎",
+        "        七 垓下行",
+        "        八 刘邦即位于定陶",
+        "        第六章 倒影回声中的楚与秦",
+        "        一 谁杀死了项羽？",
+        "        二 最后的秦军",
+        "        三 秦军成为汉军主力",
+        "        四 秦将杨喜的故事",
+        "        五 楚父秦母昌平君",
+        "        六 寻找传闻中的历史流",
+        "        尾声 失人心者失天下",
+        "        后记 历史是我们的宗教",
+        "        楚汉之际列国大事月表",
+        "        项羽年表",
+        "        韩信年表",
+        "        苏轼《代侯公说项羽辞》并序",
+        "        王世贞《短长说下》",
+        "        参考书举要",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s28049929.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李开元",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E5%BC%80%E5%85%83"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        },
+        {
+            "text": "李开元中国史作品",
+            "link": "https://book.douban.com/series/58405"
+        }
+    ],
+    "tag": "中国历史",
+    "avg_rate": 3.952
+}

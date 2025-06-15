@@ -1,0 +1,52 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "陶庵回想录",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34358060.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35929082/",
+                        "year": "2022",
+                        "id": 35929082
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "陶亢德文存",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29926233.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30381903/",
+                        "year": "2018",
+                        "id": 30381903
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614496/",
+    "author_douban_id": "4614496",
+    "personage_id": 35984965,
+    "name": [
+        "陶亢德",
+        "Kangde Tao"
+    ],
+    "intro": "陶亢德（1908－1983），字哲庵，笔名徒然、哲庵、室暗等，浙江绍兴人。著名编辑家，曾与林语堂创办《宇宙风》。陶亢德是民国时期著名的出版人、编辑，先后任《生活》周刊编辑、《论语》杂志主编、《人间世》编辑，使他在上世纪30年代的期刊界崭露头角，结识了文坛上众多的成名作家，同时通晓五六种语言。1935年9月16日，陶亢德与林语堂共同出资创办《宇宙风》半月刊，在上海创立人间书屋。值得一提的是，他曾经是林语堂在文学和办刊业务上的左膀右臂。其余如周作人、老舍、郁达夫、丰子恺、朱自清、郭沫若等一大批成名作家，都在这个时候与陶有过亲密接触。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/6c2fa796f2f1936b1d1bcfe15bf4d0f2.jpg",
+    "sex": 1,
+    "birth_date": 1908,
+    "death_date": 1983,
+    "age": 76,
+    "profession": [
+        "作者"
+    ]
+}

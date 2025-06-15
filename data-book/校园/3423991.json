@@ -1,0 +1,42 @@
+{
+    "title": "北大日记2",
+    "bookInfo": {
+        "作者": "刘玥",
+        "出版社": "山东美术出版社",
+        "出版年": "2009-1",
+        "页数": "280",
+        "定价": "25.00元",
+        "ISBN": "9787533026028"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "10.4%",
+        "four_star_rate": "22.9%",
+        "three_star_rate": "39.6%",
+        "two_star_rate": "8.3%",
+        "one_star_rate": "18.8%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "20.00元",
+            "link": "https://book.douban.com/link2/?lowest=2000&pre=0&vendor=jingdong&srcpage=subject&price=2000&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10047090748337.html&cntvendor=1&srcsubj=3423991&type=bkbuy&subject=3423991"
+        }
+    ],
+    "url": "https://book.douban.com/subject/3423991/",
+    "douban_id": "3423991",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s3771792.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘玥",
+            "link": "https://book.douban.com/search/%E5%88%98%E7%8E%A5"
+        },
+        {
+            "text": "山东美术出版社",
+            "link": "https://book.douban.com/press/2135"
+        }
+    ],
+    "tag": "校园"
+}

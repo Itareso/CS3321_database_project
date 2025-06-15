@@ -1,0 +1,61 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "钦探",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34841759.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36736875/",
+                        "year": "2024",
+                        "id": 36736875
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "麒麟",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34272106.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35960214/",
+                        "year": "2022",
+                        "id": 35960214
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "笔墨游戏",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34309486.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36092583/",
+                        "year": "2022",
+                        "id": 36092583
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4615396/",
+    "author_douban_id": "4615396",
+    "personage_id": 36057970,
+    "name": [
+        "周游",
+        "You Zhou"
+    ],
+    "intro": "周游，河北正定人，爱好研究中国古典文学、古代历史，从事小说创作多年。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/fbb4ed85e07c314910f5c646f8c3a9d9.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

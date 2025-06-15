@@ -1,0 +1,169 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "给孩子的故事",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36905116/",
+                        "year": "2024",
+                        "id": 36905116
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "儿女风云录",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34967594.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37022202/",
+                        "year": "2024",
+                        "id": 37022202
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "散文的变身",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34898760.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36941226/",
+                        "year": "2024",
+                        "id": 36941226
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "王安忆的浙大文学课",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34894926.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35721668/",
+                        "year": "2024",
+                        "id": 35721668
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "乡关处处",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34929404.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36841133/",
+                        "year": "2024",
+                        "id": 36841133
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.4,
+                        "title": "中国文化通识课",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34380344.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36194194/",
+                        "year": "2023",
+                        "id": 36194194
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "五湖四海",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34313217.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36035892/",
+                        "year": "2022",
+                        "id": 36035892
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "旅德故事",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34318426.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36107159/",
+                        "year": "2022",
+                        "id": 36107159
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.6,
+                        "title": "王安忆改编张爱玲：第一炉香",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34037964.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/35197278/",
+                        "year": "2022",
+                        "id": 35197278
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "一把刀，千个字",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33864996.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35272826/",
+                        "year": "2021",
+                        "id": 35272826
+                    }
+                }
+            ],
+            "total": 188
+        }
+    },
+    "author_link": "https://book.douban.com/author/4522624/",
+    "author_douban_id": "4522624",
+    "personage_id": 27483286,
+    "name": [
+        "王安忆",
+        "Anyi Wang"
+    ],
+    "intro": "王安忆，中国当代文学女作家，现任中国作家协会副主席、复旦大学中文系教授。被视为文化大革命结束之后，自1980年代中期起盛行于中国文坛的“知青文学”、“寻根文学”等文学创作类型的代表性作家。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27483286/photo/2553952617",
+        "https://www.douban.com/personage/27483286/photo/2553951788",
+        "https://www.douban.com/personage/27483286/photo/1471559438",
+        "https://www.douban.com/personage/27483286/photo/1471572847",
+        "https://www.douban.com/personage/27483286/photo/2556062223"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2553952617.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2553951788.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p1471559438.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p1471572847.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2556062223.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/celebrity/m/public/p1521468474.17.jpg",
+    "sex": 0,
+    "birth_date": 1954,
+    "age": 72,
+    "birth_place": [
+        "中国",
+        "江苏",
+        "南京"
+    ],
+    "family_member": "茹志鹃(母) / 王啸平(父)",
+    "IMDB": "nm0910835",
+    "profession": [
+        "作者",
+        "译者",
+        "编者",
+        "编剧"
+    ]
+}

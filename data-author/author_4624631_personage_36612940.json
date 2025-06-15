@@ -1,0 +1,81 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "儒家中國及其現代命運",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34556445.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36435905/",
+                        "year": "2023",
+                        "id": 36435905
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "哥伦比亚中国文学史（全8卷）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33962330.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35232620/",
+                        "year": "2021",
+                        "id": 35232620
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "日記中的蔣介石",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33767131.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35269608/",
+                        "year": "2020",
+                        "id": 35269608
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "近代中国的不吸纸烟运动研究",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s28094361.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26366098/",
+                        "year": "2015",
+                        "id": 26366098
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4624631/",
+    "author_douban_id": "4624631",
+    "personage_id": 36612940,
+    "name": [
+        "刘文楠",
+        "Wennan Liu"
+    ],
+    "intro": "刘文楠，浙江宁波人，1977年11月生。复旦大学历史系硕士，美国伯克利加州大学历史学博士，耶鲁大学历史系博士后。2011年9月加入近代史研究所，担任英文刊Journal of Modern Chinese History的学术编辑。主要研究领域为中国近代国家与日常生活的互动，具体研究课题涉及近代中国的不吸纸烟运动、新生活运动、上海公共租界的妨害管理等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/cc6097cbb19853e20cd97f79ad9483f7.jpg",
+    "sex": 0,
+    "birth_date": 1977,
+    "age": 49,
+    "birth_place": [
+        "中国",
+        "浙江",
+        "宁波"
+    ],
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

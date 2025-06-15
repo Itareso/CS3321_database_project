@@ -1,0 +1,72 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "侣行十年",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33539005.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34917406/",
+                        "year": "2020",
+                        "id": 34917406
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "侣行3",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29804214.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30259299/",
+                        "year": "2018",
+                        "id": 30259299
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "穿越恐怖之都",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27242362.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/25750613/",
+                        "year": "2013",
+                        "id": 25750613
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4624422/",
+    "author_douban_id": "4624422",
+    "personage_id": 27503493,
+    "name": [
+        "张昕宇",
+        "Snake Zhang"
+    ],
+    "intro": "张昕宇，1977年出生，北京人，外号270。早年从事过多种职业，热爱机械，2000年白手起家，在事业上小有成就。2008年和女友梁红参加汶川地震救灾时，重新反思生命的意义。两人决定放弃生意，许下诺言：用10年的时间，环游世界。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/celebrity/m/public/p1493737686.21.jpg",
+    "更多中文名": "270",
+    "sex": 1,
+    "birth_date": 1977,
+    "age": 49,
+    "birth_place": [
+        "中国",
+        "北京"
+    ],
+    "family_member": "梁红(妻)",
+    "profession": [
+        "导演",
+        "演员",
+        "编剧",
+        "作者"
+    ]
+}

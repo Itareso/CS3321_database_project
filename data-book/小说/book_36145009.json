@@ -1,0 +1,62 @@
+{
+    "title": "第六病室",
+    "bookInfo": {
+        "作者": "[俄] 契诃夫",
+        "出版社": "上海译文出版社",
+        "副标题": "契诃夫小说精选",
+        "译者": "朱逸森",
+        "出版年": "2022-12",
+        "页数": "336",
+        "定价": "56.00",
+        "装帧": "精装",
+        "丛书": "译文经典（精装本）",
+        "ISBN": "9787532791309"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "69.0%",
+        "four_star_rate": "25.1%",
+        "three_star_rate": "5.3%",
+        "two_star_rate": "0.5%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4523913/",
+            "name": "安东·契诃夫",
+            "role": "作者",
+            "douban_id": "4523913"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "32.99元",
+            "link": "https://read.douban.com/ebook/417421176/?dcs=subject-buylink&dcm=douban&dct=36145009"
+        },
+        {
+            "name": "得到",
+            "price": "55.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=5kMLgX2vKGy7x5M8YRoDQbLgqkEeAw28AzWBNn2r6ljVPO1mX9ad4JZpzZn1RbeE&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "28.00元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=jingdong&srcpage=subject&price=2800&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVwUXQYHVm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOFQceUC93WSZxcA1HCXV2FAlVfRtrSy5YdVlBHnJbKgYCQzIXAy5RGBh-LxFCWCokdCxgcAxPbDJpBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZkKAIoey9efgx-aRoTX21GUC4iWgtnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcCXFdUAE4UBW04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCgEAUw0zVE1AQjZWTlJ7XQcCVVhcC0knAW4JGVklbTZDDR0FbCtNShZjTQlBLnJCA1YoWDdfQj9mGQ9WKV98DAEWcUsXQjYLWDBnbQUy&cntvendor=5&srcsubj=36145009&type=bkbuy&subject=36145009"
+        },
+        {
+            "name": "当当网",
+            "price": "53.10元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=dangdang&srcpage=subject&price=5310&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36145009%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29498117&cntvendor=5&srcsubj=36145009&type=bkbuy&subject=36145009"
+        },
+        {
+            "name": "中图网",
+            "price": "34.00元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=bookschina&srcpage=subject&price=3400&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8986134.htm&cntvendor=5&srcsubj=36145009&type=bkbuy&subject=36145009"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36145009/",
+    "douban_id": "36145009",
+    "menu": [],
+    "tag": "小说"
+}

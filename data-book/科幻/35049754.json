@@ -1,0 +1,82 @@
+{
+    "title": "月球城市",
+    "bookInfo": {
+        "作者": "[美] 安迪·威尔",
+        "出版社": "译林出版社",
+        "原作名": "Artemis",
+        "译者": "王智涵",
+        "出版年": "2020-9",
+        "页数": "303",
+        "定价": "58.00元",
+        "装帧": "平装",
+        "丛书": "译林幻系列",
+        "ISBN": "9787544782128"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "14.3%",
+        "four_star_rate": "42.5%",
+        "three_star_rate": "37.5%",
+        "two_star_rate": "4.8%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/449279/",
+            "name": "安迪·威尔",
+            "role": "作者",
+            "douban_id": "449279"
+        },
+        {
+            "link": "https://book.douban.com/author/4638892/",
+            "name": "王智涵",
+            "role": "译者",
+            "douban_id": "4638892"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "44.99元",
+            "link": "https://read.douban.com/ebook/161864913/?dcs=subject-buylink&dcm=douban&dct=35049754"
+        },
+        {
+            "name": "得到",
+            "price": "44.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=xGM6Evn5byxq2PnXBz71AjZaol6R8WJ1Lb0OKpGkd4gmMLEJrYNQe9VvD8P4jLkK&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "28.68元",
+            "link": "https://book.douban.com/link2/?lowest=2868&pre=0&vendor=jingdong&srcpage=subject&price=2868&pos=3&url=https%3A%2F%2Fitem.jd.com%2F10021471554896.html&cntvendor=4&srcsubj=35049754&type=bkbuy&subject=35049754"
+        },
+        {
+            "name": "中图网",
+            "price": "44.50元",
+            "link": "https://book.douban.com/link2/?lowest=2868&pre=0&vendor=bookschina&srcpage=subject&price=4450&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8402323.htm&cntvendor=4&srcsubj=35049754&type=bkbuy&subject=35049754"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35049754/",
+    "douban_id": "35049754",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33722595.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 安迪·威尔",
+            "link": "https://book.douban.com/search/%E5%AE%89%E8%BF%AA%C2%B7%E5%A8%81%E5%B0%94"
+        },
+        {
+            "text": "译林出版社",
+            "link": "https://book.douban.com/press/2331"
+        },
+        {
+            "text": "王智涵",
+            "link": "https://book.douban.com/author/4638892"
+        },
+        {
+            "text": "译林幻系列",
+            "link": "https://book.douban.com/series/54333"
+        }
+    ],
+    "tag": "科幻"
+}

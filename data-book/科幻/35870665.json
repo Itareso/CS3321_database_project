@@ -1,0 +1,114 @@
+{
+    "title": "三体",
+    "bookInfo": {
+        "作者": "刘慈欣",
+        "出版社": "重庆出版社",
+        "出品方": "科幻世界",
+        "出版年": "2022-12",
+        "页数": "360",
+        "定价": "42.00",
+        "装帧": "平装",
+        "丛书": "科幻世界·中国科幻基石丛书",
+        "ISBN": "9787229166922"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "74.4%",
+        "four_star_rate": "20.9%",
+        "three_star_rate": "2.9%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4561353/",
+            "name": "刘慈欣",
+            "role": "作者",
+            "douban_id": "4561353"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGV8QXQMCXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOV1ckWit3ezFRR15ULnF6VQcIDjARChYOdVlGAmULCgwvARJqfmwBZgZcHBFCWCokdC1jcAxIbyJPBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZJIzUhShJFAAoKYTsXKGZjVgY8eE1RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFdeCkofAW04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggcWlIAAw4zVE1BA24NRwN7XQYGVF1bAEMnAW4JGVklbTYBXScPaCtvXTZUHhpmKn4DDQtbc00eemlmGQhKPg9cBixUUTZqAGZ1RhJUbQUy&cntvendor=3&srcsubj=35870665&type=bkbuy&subject=35870665"
+        },
+        {
+            "name": "当当网",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=dangdang&srcpage=subject&price=2100&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35870665%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29489470&cntvendor=3&srcsubj=35870665&type=bkbuy&subject=35870665"
+        },
+        {
+            "name": "中图网",
+            "price": "29.10元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=bookschina&srcpage=subject&price=2910&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9260812.htm&cntvendor=3&srcsubj=35870665&type=bkbuy&subject=35870665"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35870665/",
+    "douban_id": "35870665",
+    "menu": [
+        "",
+        "        写在“基石”之前 I",
+        "        新版自序 III",
+        "        1科学边界1",
+        "        2台 球16",
+        "        3射手和农场主22",
+        "        4三体、周文王、长夜43",
+        "        5叶文洁59",
+        "        6宇宙闪烁之一66",
+        "        7疯狂年代70",
+        "        8寂静的春天81",
+        "        9红岸之一97",
+        "        10宇宙闪烁之二105",
+        "        11大 史113",
+        "        12三体、墨子、烈焰121",
+        "        13红岸之二133",
+        "        14红岸之三143",
+        "        15红岸之四150",
+        "        16三体、哥白尼、宇宙橄榄球、三日凌空155",
+        "        17三体问题163",
+        "        18三体、牛顿、冯·诺伊曼、秦始皇、三日连珠180",
+        "        19聚 会197",
+        "        20三体、爱因斯坦、单摆、大撕裂203",
+        "        21三体、远征214",
+        "        22地球叛军217",
+        "        23红岸之五225",
+        "        24红岸之六236",
+        "        25叛 乱244",
+        "        26雷志成、杨卫宁之死250",
+        "        27无人忏悔256",
+        "        28伊文斯269",
+        "        29第二红岸基地279",
+        "        30地球三体运动282",
+        "        31两个质子287",
+        "        32古筝行动295",
+        "        33监听员311",
+        "        34智 子322",
+        "        35虫 子348",
+        "        尾 声",
+        "        遗 址354",
+        "        后　记 357",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34280832.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3"
+        },
+        {
+            "text": "重庆出版社",
+            "link": "https://book.douban.com/press/2162"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "科幻世界·中国科幻基石丛书",
+            "link": "https://book.douban.com/series/38"
+        }
+    ],
+    "tag": "科幻"
+}

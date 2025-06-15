@@ -1,0 +1,35 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "隐语",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34407889.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36233790/",
+                        "year": "2023",
+                        "id": 36233790
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4620194/",
+    "author_douban_id": "4620194",
+    "personage_id": 36305639,
+    "name": [
+        "薛超伟"
+    ],
+    "intro": "1988年生于温州瑞安，毕业于复旦大学MFA创意写作专业。作品散见于《当代》《花城》《上海文学》《西湖》等文学期刊。现居杭州。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/a55a71b6cd339ab45c292e4f8bcf3c2f.jpg",
+    "profession": [
+        "作者"
+    ]
+}

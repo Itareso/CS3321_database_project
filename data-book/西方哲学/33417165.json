@@ -1,0 +1,98 @@
+{
+    "title": "柏拉图对话集",
+    "bookInfo": {
+        "作者": "[古希腊] 柏拉图",
+        "出版社": "商务印书馆",
+        "译者": "王太庆",
+        "出版年": "2019-6",
+        "页数": "806",
+        "定价": "96.00元",
+        "装帧": "精装",
+        "丛书": "汉译经典精装本",
+        "ISBN": "9787100173124"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "80.1%",
+        "four_star_rate": "16.2%",
+        "three_star_rate": "2.9%",
+        "two_star_rate": "0.2%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4516447/",
+            "name": "柏拉图",
+            "role": "作者",
+            "douban_id": "4516447"
+        },
+        {
+            "link": "https://book.douban.com/author/4609893/",
+            "name": "王太庆",
+            "role": "译者",
+            "douban_id": "4609893"
+        }
+    ],
+    "shops": [
+        {
+            "name": "中图网",
+            "price": "89.60元",
+            "link": "https://book.douban.com/link2/?lowest=8960&pre=0&vendor=bookschina&srcpage=subject&price=8960&pos=1&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9028469.htm&cntvendor=2&srcsubj=33417165&type=bkbuy&subject=33417165"
+        },
+        {
+            "name": "京东商城",
+            "price": "100.89元",
+            "link": "https://book.douban.com/link2/?lowest=8960&pre=0&vendor=jingdong&srcpage=subject&price=10089&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV8dXQQLUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUFZdCkITHDZNRwYlL3pHKi5faDd0SAlKZCkSJXpCKw4DTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GVlhaCU8eM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFwWWQJsCFgHVEpEBWhmGFMcXAUEV19tCkoWAW04K2sdPUFBKjcYfw8SWjINaSNcGQZdDCIGfTZ5AQdsGDtwHgNEEAADACt1dy17K1gl&cntvendor=2&srcsubj=33417165&type=bkbuy&subject=33417165"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33417165/",
+    "douban_id": "33417165",
+    "menu": [
+        "",
+        "        欧悌甫戎篇",
+        "        苏格拉底的申辩篇",
+        "        格黎东篇",
+        "        卡尔弥德篇",
+        "        拉刻篇",
+        "        吕锡篇",
+        "        枚农篇",
+        "        裴洞篇",
+        "        会饮篇",
+        "        治国篇 卷一 卷二 卷三 卷十",
+        "        巴门尼德篇",
+        "        智者篇",
+        "        附录",
+        "        苏格拉底、柏拉图传",
+        "        亚里士多德论柏拉图 附：亚里士多德论苏格拉底、柏拉图",
+        "        王太庆论柏拉图哲学和翻译问题",
+        "        柏拉图关于“是”的学说",
+        "        我们怎样认识西方人的“是”？",
+        "        试论外国哲学著作的汉语翻译问题",
+        "        论翻译之为再创造 附：论翻译之为再创造（初稿）",
+        "        希腊哲学术语的翻译问题",
+        "        希腊专名的译法",
+        "        学和思",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34101499.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[古希腊] 柏拉图",
+            "link": "https://book.douban.com/search/%E6%9F%8F%E6%8B%89%E5%9B%BE"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "王太庆",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E5%A4%AA%E5%BA%86"
+        },
+        {
+            "text": "汉译经典精装本",
+            "link": "https://book.douban.com/series/48693"
+        }
+    ],
+    "tag": "西方哲学"
+}

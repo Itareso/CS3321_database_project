@@ -1,0 +1,64 @@
+{
+    "title": "自然故事",
+    "bookInfo": {
+        "作者": "[意大利] 普里莫·莱维",
+        "出版社": "译林出版社",
+        "出品方": "群岛图书",
+        "原作名": "Storie naturali",
+        "译者": "陈英 / 孙璐瑶 / 王丹钰",
+        "出版年": "2024-10-1",
+        "定价": "59.00元",
+        "装帧": "平装",
+        "ISBN": "9787575301886"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《自然故事》第一次出版时，普里莫·莱维用了笔名“达米阿诺·马拉拜拉”，他用15个妙趣横生的故事，将我们带入一个由技术进步狂潮推动的未来：从战场回归小镇的蒙德桑托医生发明了回忆触发剂，过去将永不会被埋葬；诗人购入作诗机，不再亲自写诗；拥有一台真正的复制机，不管是复制钻石还是妻子，都只需要简单的耗材……《自然故事》于1967年赢得巴古塔奖，其中一些故事在1971年被改编成电视剧《普里莫·莱维的奇幻故事》。    书中的故事情节不乏颠倒和荒诞，描绘了很多脱离理性、无视道德的情况，就像在集中营里，本该造福人类的科技被用来制造毒气室和焚尸炉。而莱维在书中创造的一些概念又在后来的一些文学、影视作品中复现。例如，《退休福利》中关于记录和体验他人经历的想法，与近30年后上映的电影《末世纪暴潮》有相同的主题，并且与被视为第一部赛博朋克小说的《真名实姓》（1981）非常相似；《划算买卖》中能够完美复制物体的机器，在克里斯托弗·诺兰执导的电影《致命魔术》中再次出现；《作诗机》则与斯坦尼斯拉夫·莱姆作品《机器人大师》中的一个故事主题类似。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "33.3%",
+        "four_star_rate": "47.7%",
+        "three_star_rate": "16.7%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/500079/",
+            "name": "普里莫·莱维",
+            "role": "作者",
+            "douban_id": "500079"
+        },
+        {
+            "link": "https://book.douban.com/author/4610505/",
+            "name": "陈英",
+            "role": "译者",
+            "douban_id": "4610505"
+        },
+        {
+            "link": "https://book.douban.com/author/4639767/",
+            "name": "孙璐瑶",
+            "role": "译者",
+            "douban_id": "4639767"
+        },
+        {
+            "link": "https://book.douban.com/author/4639768/",
+            "name": "王丹钰",
+            "role": "译者",
+            "douban_id": "4639768"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "29.50元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=jingdong&srcpage=subject&price=2950&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlIXXAYGU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOPSc6Syt3d2tWYQViOwV2Iwk9SBRgRTd7dVlsJkR7FR0GaRVKXgYJWjp1GRFCWCokaBhgSghPbCJ9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZcDDY_SRFtaAxsWw4XNXhAUFgZUhlnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFpVCUseA2o4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CV1ozVE1AXC5TTgd7XQcCUlpcCU8nAW4JGVklbTZrLTkeaCtjBzFyRSxzXnJ1Az4dVzxRWxxmGSJuH39DFwU8VhZKam5JejtRbQUy&cntvendor=2&srcsubj=36895890&type=bkbuy&subject=36895890"
+        },
+        {
+            "name": "中图网",
+            "price": "37.60元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=bookschina&srcpage=subject&price=3760&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9444015.htm&cntvendor=2&srcsubj=36895890&type=bkbuy&subject=36895890"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36895890/",
+    "douban_id": "36895890",
+    "menu": [],
+    "tag": "小说"
+}

@@ -1,0 +1,60 @@
+{
+    "title": "天降之任",
+    "bookInfo": {
+        "作者": "[德]马克斯·韦伯",
+        "出版社": "中央编译出版社",
+        "副标题": "学术与政治",
+        "译者": "王容芬",
+        "出版年": "2018-2",
+        "页数": "145",
+        "装帧": "平装",
+        "ISBN": "9787511735577"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "43.4%",
+        "four_star_rate": "38.6%",
+        "three_star_rate": "15.7%",
+        "two_star_rate": "2.4%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4571227/",
+            "name": "马克斯·韦伯",
+            "role": "作者",
+            "douban_id": "4571227"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.00元",
+            "link": "https://book.douban.com/link2/?lowest=1600&pre=0&vendor=jingdong&srcpage=subject&price=1600&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFkSVQIEUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVllVDE0THDZNRwYlRwVaF1kPaBV0eCdhTlNTO09LDzxeeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4FUl1UDEgSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8SWg5sCFgHVA5HQC5mGFMcVAMFV19tCkoWAW04K2tUBEVaMD4HQTJ8VWZfXC1uKw55HDcHdDF5ATtLbwJrBVlJLV5dSRJoSwp6K1gl&cntvendor=2&srcsubj=30124794&type=bkbuy&subject=30124794"
+        },
+        {
+            "name": "当当网",
+            "price": "30.40元",
+            "link": "https://book.douban.com/link2/?lowest=1600&pre=0&vendor=dangdang&srcpage=subject&price=3040&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30124794%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25289755&cntvendor=2&srcsubj=30124794&type=bkbuy&subject=30124794"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30124794/",
+    "douban_id": "30124794",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34588052.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德]马克斯·韦伯",
+            "link": "https://book.douban.com/search/%E9%A9%AC%E5%85%8B%E6%96%AF%C2%B7%E9%9F%A6%E4%BC%AF"
+        },
+        {
+            "text": "中央编译出版社",
+            "link": "https://book.douban.com/press/2440"
+        },
+        {
+            "text": "王容芬",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E5%AE%B9%E8%8A%AC"
+        }
+    ],
+    "tag": "政治学"
+}

@@ -1,0 +1,88 @@
+{
+    "title": "关于一个孩子",
+    "bookInfo": {
+        "作者": "麦克尔·阿泽拉德",
+        "出版社": "南京大学出版社",
+        "副标题": "涅槃的故事",
+        "原作名": "Come as You Are : The Story of Nirvana",
+        "译者": "黄小猩",
+        "出版年": "2012-7",
+        "页数": "460",
+        "定价": "36.00元",
+        "装帧": "平装",
+        "丛书": "20世纪外国文化名人传记",
+        "ISBN": "9787305078255"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "36.6%",
+        "four_star_rate": "44.5%",
+        "three_star_rate": "15.1%",
+        "two_star_rate": "2.3%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4122404/",
+            "name": "麦克尔·阿泽拉德",
+            "role": "作者",
+            "douban_id": "4122404"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "107.80元",
+            "link": "https://book.douban.com/link2/?lowest=10780&pre=0&vendor=jingdong&srcpage=subject&price=10780&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10027868550798.html&cntvendor=1&srcsubj=10809708&type=bkbuy&subject=10809708"
+        }
+    ],
+    "url": "https://book.douban.com/subject/10809708/",
+    "douban_id": "10809708",
+    "menu": [
+        "",
+        "        序章",
+        "        第1章一个头发油腻的叛逆小孩",
+        "        第2章我们只关心如何混日子",
+        "        第3章这是我哥哥克里斯，他在听朋克摇滚",
+        "        第4章这些家伙来自阿伯丁",
+        "        第5章所有一切都越来越极端了",
+        "        第6章这些家伙会比“甲壳虫”还成功！",
+        "        第7章“你饿了吗？”“是的。”",
+        "        第8章过场、高潮、过场、高潮、独奏、糟糕的独奏",
+        "        第8章半我们似乎势不可挡",
+        "        第9章现在应该让一切都晦涩难懂",
+        "        第10章一种跨媒体现象",
+        "        第11章与褐石先生跳碰碰舞",
+        "        第12章我们只能大哭",
+        "        第13章三个亲切、体面、相貌英俊的年轻人",
+        "        第X章愤怒、死亡和彻底绝对的狂喜",
+        "        第14章将我惹毛的事",
+        "        第15章成年人不喜欢它",
+        "        最终章",
+        "        涅槃乐队美国唱片分类目录",
+        "        涅槃乐队英国唱片分类目录",
+        "        中英文译名对照",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s10389518.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "麦克尔·阿泽拉德",
+            "link": "https://book.douban.com/author/4122404/"
+        },
+        {
+            "text": "南京大学出版社",
+            "link": "https://book.douban.com/press/2276"
+        },
+        {
+            "text": "黄小猩",
+            "link": "https://book.douban.com/search/%E9%BB%84%E5%B0%8F%E7%8C%A9"
+        },
+        {
+            "text": "20世纪外国文化名人传记",
+            "link": "https://book.douban.com/series/9859"
+        }
+    ],
+    "tag": "人物传记"
+}

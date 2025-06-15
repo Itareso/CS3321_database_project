@@ -1,0 +1,151 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "职场女孩的受难",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35031609.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/37112942/",
+                        "year": "2025",
+                        "id": 37112942
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "喪服の似合う少女",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34918429.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36920384/",
+                        "year": "2024",
+                        "id": 36920384
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "银河边缘013：黑域密室",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34462645.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36226332/",
+                        "year": "2023",
+                        "id": 36226332
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "银河边缘014：无痕的蝉蜕",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34559123.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36413430/",
+                        "year": "2023",
+                        "id": 36413430
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "ガーンズバック変換",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34408795.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36211804/",
+                        "year": "2023",
+                        "id": 36211804
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "宇宙の果ての本屋 現代中華SF傑作選",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34706772.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36595917/",
+                        "year": "2023",
+                        "id": 36595917
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.4,
+                        "title": "银河边缘009：时空画师",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34264757.jpg",
+                        "rating_star": 2.5,
+                        "url": "https://book.douban.com/subject/35898128/",
+                        "year": "2022",
+                        "id": 35898128
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "櫻草忌",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34221225.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35801550/",
+                        "year": "2022",
+                        "id": 35801550
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "谜托邦01",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34385021.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36157388/",
+                        "year": "2022",
+                        "id": 36157388
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "盟約の少女騎士",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34018925.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35628127/",
+                        "year": "2021",
+                        "id": 35628127
+                    }
+                }
+            ],
+            "total": 20
+        }
+    },
+    "author_link": "https://book.douban.com/author/520029/",
+    "author_douban_id": "520029",
+    "personage_id": 30072786,
+    "name": [
+        "陆秋槎",
+        "Qiucha Lu"
+    ],
+    "intro": "\"陆秋槎，一九八八年生于北京，复旦大学古籍所古典文献学专业硕士毕业。在校期间为复旦大学推理协会成员。现旅居日本金泽。曾凭借异色短篇《前奏曲》摘获第二届“华文推理大奖赛”最佳新人奖，并在主办方《岁月•推理》杂志不定期发表同名侦探系列作品。嗜读日系推理，深受三津田信三、麻耶雄嵩、法月纶太郎、米泽穗信、加纳朋子等人的影响。深信推理小说能穷究人类的智识与非理性，自有其价值，不能为纯文学及其他小说类型所取代。虽系舶来，于现代社会中又未尝不是一种必需品。故发愿弘敷此道，以为毕生志业。\"",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/3c87b3344e395f7e05b8022b4fb4bfc9.jpg",
+    "sex": 1,
+    "birth_date": 1988,
+    "age": 38,
+    "birth_place": [
+        "中国",
+        "北京"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

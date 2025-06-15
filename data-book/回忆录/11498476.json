@@ -1,0 +1,42 @@
+{
+    "title": "别了,上海",
+    "bookInfo": {
+        "作者": "山姆·莫辛斯基",
+        "出版社": "上海三联书店",
+        "副标题": "一个犹太少年的回忆",
+        "译者": "余孝奇 等",
+        "出版年": "2012-7",
+        "页数": "240",
+        "定价": "32.00元",
+        "ISBN": "9787542638434"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "10.6%",
+        "four_star_rate": "48.9%",
+        "three_star_rate": "34.0%",
+        "two_star_rate": "4.3%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [],
+    "shops": [],
+    "url": "https://book.douban.com/subject/11498476/",
+    "douban_id": "11498476",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s11328653.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "山姆·莫辛斯基",
+            "link": "https://book.douban.com/search/%E5%B1%B1%E5%A7%86%C2%B7%E8%8E%AB%E8%BE%9B%E6%96%AF%E5%9F%BA"
+        },
+        {
+            "text": "上海三联书店",
+            "link": "https://book.douban.com/press/2723"
+        },
+        {
+            "text": "余孝奇 等",
+            "link": "https://book.douban.com/search/%E4%BD%99%E5%AD%9D%E5%A5%87%20%E7%AD%89"
+        }
+    ],
+    "tag": "回忆录"
+}

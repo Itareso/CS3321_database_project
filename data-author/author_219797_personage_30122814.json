@@ -1,0 +1,147 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "大灣的鄉愁",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34810269.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36812617/",
+                        "year": "2024",
+                        "id": 36812617
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "外婆家",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33557930.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34945876/",
+                        "year": "2020",
+                        "id": 34945876
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "闯广东",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28364642.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26689273/",
+                        "year": "2015",
+                        "id": 26689273
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.3,
+                        "title": "万历后宫之乱",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s3206645.jpg",
+                        "rating_star": 2.5,
+                        "url": "https://book.douban.com/subject/2193909/",
+                        "year": "2007",
+                        "id": 2193909
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "白茫",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s1691357.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1822786/",
+                        "year": "2006",
+                        "id": 1822786
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "最后的神秘园",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s1171007.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/1070915/",
+                        "year": "2005",
+                        "id": 1070915
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "风像一件往事",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s23745439.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1265735/",
+                        "year": "2005",
+                        "id": 1265735
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "用35℃体温拥抱你",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s1164963.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1194050/",
+                        "year": "2005",
+                        "id": 1194050
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "你到底是谁的车站",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s1165138.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1194723/",
+                        "year": "2005",
+                        "id": 1194723
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "我就消失一点点",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s1164964.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1194047/",
+                        "year": "2005",
+                        "id": 1194047
+                    }
+                }
+            ],
+            "total": 16
+        }
+    },
+    "author_link": "https://book.douban.com/author/219797/",
+    "author_douban_id": "219797",
+    "personage_id": 30122814,
+    "name": [
+        "盛慧",
+        "Hui Sheng"
+    ],
+    "intro": "盛慧。男。作家，资深媒体人。1978年生于江苏宜兴。曾担任网妖网站内容总监，《佛山文艺》编辑，《打工族》杂志副主编。代表作长篇小说《白茫》。现为中国作家协会会员，广东省作家协会会员，中国文字著作权协会会员，佛山市艺术创作院专业作家。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/img/author/medium/public/1495860025.52.jpg",
+    "sex": 1,
+    "birth_date": 1978,
+    "age": 48,
+    "profession": [
+        "作者"
+    ]
+}

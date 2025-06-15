@@ -1,0 +1,64 @@
+{
+    "title": "相约博物馆",
+    "bookInfo": {
+        "作者": "[英]安妮·扬森",
+        "出版社": "北京联合出版公司",
+        "出品方": "磨铁·大鱼读品",
+        "原作名": "Meet Me at the Museum",
+        "译者": "姚瑶",
+        "出版年": "2020-7",
+        "定价": "45.00元",
+        "ISBN": "9787559641700"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ◎每一个看似习惯了孤独的人，心中都燃烧着被人理解的渴望。    ◎科斯塔图书最佳处女作奖决选作品    ◎英国权威媒体盛赞：“如果你今年只读一本书，读它就对了！”    ◎《一个人的朝圣》作者蕾秋·乔伊斯《穿条纹睡衣的男孩》作者约翰·伯恩动心推荐    ◎如果《查令十字街84号》《一个人的朝圣》《玛丽和马克思》曾让你感动，那你一定不要错过这本书！    丹麦——    我叫安德斯，丹麦锡尔克堡博物馆的馆长，每天和木乃伊、陶罐这些千百年前的东西打交道。我失去了妻子，尽管这一生中我们从来不曾互相了解。    英国——    我叫蒂娜，一个普通的农妇，日复一日做一些养鸡、打扫之类的琐碎活计。我和丈夫一起生活了四十年——不，应该说是我们一起只生活了一天，之后的四十年全是这一天的重复——没有意外、没有修改。    一场来自五十年前的邀请，让原本人生绝无可能交集的两个人相遇，通过54封信件建立起的连接，宁静又悠长，在作者舒缓、深沉的叙述中，我们看到了人与人之间真正彼此理解的可能。    这是一部令人感动的杰作，关于平凡生活中的友谊与爱，关于重新开始人生的勇气。    ——《一个人的朝圣》作者 蕾秋·乔伊斯    温柔、睿智、感人，《相约博物馆》是一本值得珍惜的小说。    ——《穿条纹衣服的男孩》作者 约翰·伯恩\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "26.3%",
+        "four_star_rate": "51.9%",
+        "three_star_rate": "19.6%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608580/",
+            "name": "姚瑶",
+            "role": "译者",
+            "douban_id": "4608580"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "29.50元",
+            "link": "https://book.douban.com/link2/?lowest=1450&pre=0&vendor=jingdong&srcpage=subject&price=2950&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXQ8CXFxUDkgQAl8IGloXWgcHU1ZVAU8QBF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0PGl4SVQ4LUFlaFxJSXzI4ThluPFhjLDc-XgNrBT0Kcl5QNXlHElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXQcHUV1bOEkXAm4NG1MSXgcyVFhYCUgWBmkBGl0QVDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRU1taCBlCbTMOTBleGVEAOl5cDkIXCmkPK1kUXAQAZG5tezdURRptThxwJWJRL1gEV05TATFSbzBJMwR3Iw4hfg0XYQpTGl5FDWZaB25eOA&cntvendor=2&srcsubj=35069608&type=bkbuy&subject=35069608"
+        },
+        {
+            "name": "中图网",
+            "price": "14.50元",
+            "link": "https://book.douban.com/link2/?lowest=1450&pre=0&vendor=bookschina&srcpage=subject&price=1450&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5922932.htm&cntvendor=2&srcsubj=35069608&type=bkbuy&subject=35069608"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35069608/",
+    "douban_id": "35069608",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33689395.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英]安妮·扬森",
+            "link": "https://book.douban.com/search/%E5%AE%89%E5%A6%AE%C2%B7%E6%89%AC%E6%A3%AE"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "磨铁·大鱼读品",
+            "link": "https://book.douban.com/producers/71"
+        },
+        {
+            "text": "姚瑶",
+            "link": "https://book.douban.com/search/%E5%A7%9A%E7%91%B6"
+        }
+    ],
+    "tag": "随笔"
+}

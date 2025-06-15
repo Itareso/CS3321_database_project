@@ -1,0 +1,88 @@
+{
+    "title": "哥德尔传",
+    "bookInfo": {
+        "作者": "[美] 斯蒂芬· 布迪安斯基",
+        "出版社": "中信出版集团",
+        "出品方": "鹦鹉螺",
+        "副标题": "探寻理性的边缘，发现世界的本质",
+        "原作名": "Journey to the Edge of Reason: The Life of Kurt Gödel",
+        "译者": "祝锦杰",
+        "出版年": "2022-9-1",
+        "页数": "408",
+        "定价": "69.00元",
+        "装帧": "平装",
+        "ISBN": "9787521745054"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ★业内知名得奖传记作家执笔，讲述自亚里士多德之后最伟大的逻辑学家——哥德尔的一生    ★亚马逊云计算上海AI研究院院长张峥 作序推荐    ★《微积分的力量》作者史蒂文·斯托加茨/《美丽心灵》作者西尔维娅·娜莎 点评推荐    ★2021年《纽约时报》评论员十佳图书奖、《书单》十佳传记奖、《柯克斯 书评》最佳科学图书奖    ★《纽约时报书评》《华尔街日报》《纽约客》盛赞，《柯克斯书评》《出版人周刊》《书单》《图书馆杂志》星级评论    ★讲述哥德尔的独特人格魅力，他与爱因斯坦、冯·诺依曼在普林斯顿的友谊，二战时期反犹背景下逃离维也纳，晚年饱受被害妄想症的折磨的经历    哥德尔被美国《时代周刊》评为20世纪最有影响力的100个人之一，爱因斯坦称其为自亚里士多德之后最伟大的逻辑学家，他的理论为计算机科学和人工智能领域的发展奠定了基础。他提出的哥德尔不完备性定理，堪称数学逻辑理论中最伟大的发现，至今仍影响着人工智能领域的发展。    哥德尔早年就职于维也纳大学，后因战乱逃离欧洲，辗转来到普林斯顿高等研究院。在这里，他逐渐融入了美国的生活，并与爱因斯坦结下了深厚的情谊，成为科学史上的一段佳话。晚年的哥德尔获得终身教职，但最后因被害妄想症悲惨离世。    他的一生在哲学、数学、人工智能等领域都提出了颠覆性的理论，甚至涉猎了相对论。如果哥德尔的定理以及由此推导出的结论是正确的，就意味着人类将永远不能制造出能够完美复刻人脑推理、学习、计划、解决问题能力的计算机。在知识鞭长莫及的认知极限之外，没有什么是确定的，只有人类的精神不可替代、独一无二。    杰拉德·萨克斯曾对哥德尔做出了以下精辟的评价：“他让数学变得更有趣。”\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "47.6%",
+        "four_star_rate": "40.2%",
+        "three_star_rate": "11.6%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "48.30元",
+            "link": "https://read.douban.com/ebook/406469503/?dcs=subject-buylink&dcm=douban&dct=36073022"
+        },
+        {
+            "name": "得到",
+            "price": "49.68元",
+            "link": "https://www.dedao.cn/ebook/detail?id=DLnMGAEG7gKLyYmkAbPaEXxD8BM4J0L2863ROrpdZn19VNzv2o5e6lqjQQ1poxqy&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "47.30元",
+            "link": "https://book.douban.com/link2/?lowest=3890&pre=0&vendor=jingdong&srcpage=subject&price=4730&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVkXWQYFUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOAxw0W0N3BSwJTRtMK11LUT0jCztpYAlodVlRBX5AVg0CSEp0YDhKeQ5zARFCWCokdCtgShxPbFlHBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZwLj0EVilOWQpSXzMPCHppPAsbUjVRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcHXFhcCE0QCmk4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRAAwzVE1NXyRRXAJ7XwcDU1xYD00nAW4JGVklbTZVFjcOACsRQG5eWwJjBk8HNyBeeDV0ZQ9mGR9NJUQABwEdCSh0VC1qTj1JbQUy&cntvendor=4&srcsubj=36073022&type=bkbuy&subject=36073022"
+        },
+        {
+            "name": "当当网",
+            "price": "38.90元",
+            "link": "https://book.douban.com/link2/?lowest=3890&pre=0&vendor=dangdang&srcpage=subject&price=3890&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36073022%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29445324&cntvendor=4&srcsubj=36073022&type=bkbuy&subject=36073022"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36073022/",
+    "douban_id": "36073022",
+    "menu": [
+        "",
+        "        推荐序 走在剃刀边缘",
+        "        自序",
+        "        第1章 帝国一梦",
+        "        第2章 真正的维也纳人都来自布吕恩",
+        "        第3章 1924年的维也纳",
+        "        第4章 空中楼阁",
+        "        第5章 不可判定的真理",
+        "        第6章 学者的极乐天堂",
+        "        第7章 逃离帝国",
+        "        第八章 美丽新世界",
+        "        第九章 在柏拉图的阴影下",
+        "        第十章 世界是理性的产物？",
+        "        附录 哥德尔不完备性定理的证明",
+        "        致谢",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34305643.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 斯蒂芬· 布迪安斯基",
+            "link": "https://book.douban.com/search/%E6%96%AF%E8%92%82%E8%8A%AC%C2%B7%20%E5%B8%83%E8%BF%AA%E5%AE%89%E6%96%AF%E5%9F%BA"
+        },
+        {
+            "text": "中信出版集团",
+            "link": "https://book.douban.com/press/2908"
+        },
+        {
+            "text": "鹦鹉螺",
+            "link": "https://book.douban.com/producers/77"
+        },
+        {
+            "text": "祝锦杰",
+            "link": "https://book.douban.com/search/%E7%A5%9D%E9%94%A6%E6%9D%B0"
+        }
+    ],
+    "tag": "人物传记"
+}

@@ -1,0 +1,98 @@
+{
+    "title": "昨日世界",
+    "bookInfo": {
+        "作者": "[奥] 茨威格",
+        "出版社": "人民文学出版社",
+        "副标题": "一个欧洲人的回忆",
+        "译者": "张玉书",
+        "出版年": "2015-4",
+        "页数": "337",
+        "定价": "39.00元",
+        "装帧": "平装",
+        "丛书": "汉译传记",
+        "ISBN": "9787020107964"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "68.2%",
+        "four_star_rate": "24.5%",
+        "three_star_rate": "6.1%",
+        "two_star_rate": "1.1%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4514004/",
+            "name": "斯蒂芬·茨威格",
+            "role": "作者",
+            "douban_id": "4514004"
+        },
+        {
+            "link": "https://book.douban.com/author/4514008/",
+            "name": "张玉书",
+            "role": "译者",
+            "douban_id": "4514008"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "12.00元",
+            "link": "https://read.douban.com/ebook/51379856/?dcs=subject-buylink&dcm=douban&dct=26335337"
+        },
+        {
+            "name": "得到",
+            "price": "12.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=26JvkYVNn8NXVry5MeG6Z9RALK2dxJ3GKq37olBEmjgakz1DPvYObQ4qpQdZqme9&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "58.00元",
+            "link": "https://book.douban.com/link2/?lowest=5800&pre=0&vendor=jingdong&srcpage=subject&price=5800&pos=3&url=https%3A%2F%2Fitem.jd.com%2F10066146819851.html&cntvendor=3&srcsubj=26335337&type=bkbuy&subject=26335337"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26335337/",
+    "douban_id": "26335337",
+    "menu": [
+        "",
+        "        序言",
+        "        1.安稳的世界",
+        "        2.上世纪的学校",
+        "        3.爱欲萌发",
+        "        4.人生大学",
+        "        5.巴黎，青春永驻的城市",
+        "        6.几经周折 寻找自我",
+        "        7.走出欧洲",
+        "        8．光影交织 笼罩欧洲",
+        "        9．1914年战争的最初几小时",
+        "        10．为精神上的亲密友谊而奋斗",
+        "        11．在欧洲心脏",
+        "        12．返回奥地利",
+        "        13．再次走向世界",
+        "        14．落日西沉",
+        "        15．希特勒初露狰狞",
+        "        16．和平的垂死挣扎",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s28111048.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[奥] 茨威格",
+            "link": "https://book.douban.com/author/4514004"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "张玉书",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E7%8E%89%E4%B9%A6"
+        },
+        {
+            "text": "汉译传记",
+            "link": "https://book.douban.com/series/8801"
+        }
+    ],
+    "tag": "回忆录"
+}

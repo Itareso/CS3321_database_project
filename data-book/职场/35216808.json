@@ -1,0 +1,66 @@
+{
+    "title": "华为成长之路",
+    "bookInfo": {
+        "作者": "邓斌",
+        "出版社": "人民邮电出版社",
+        "出品方": "智元微库 OPEN MIND",
+        "副标题": "影响华为的22个关键事件",
+        "出版年": "2020-11",
+        "页数": "260",
+        "定价": "69.80元",
+        "装帧": "平装",
+        "丛书": "华为三部曲",
+        "ISBN": "9787115547491"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "43.5%",
+        "four_star_rate": "43.0%",
+        "three_star_rate": "10.9%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4634008/",
+            "name": "邓斌",
+            "role": "作者",
+            "douban_id": "4634008"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "31.50元",
+            "link": "https://www.dedao.cn/eBook/donM9vjLM8m6d5YQ7lvJGVz2Xgaqb3pynYwnBRyejENkP1KZo9rD4OApxpxkY7Ke?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "36.46元",
+            "link": "https://book.douban.com/link2/?lowest=3646&pre=0&vendor=jingdong&srcpage=subject&price=3646&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXQ8CXFxUDkgQAl8IGloXWQYHU1dVCE0SCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0MG14SVA4CUltUFxJSXzI4WgJmKWVRLiA4VT0UWHUPeA5PHFR3NFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXQcHUV1bOEkXAm4NG1MSXgcyVFhYCU4fB2gNHl8RWTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUl1dDExAbTMOQQcSXlNVOlxcCEoRAG4BK1kUXAQAZG5tDwxwRiltZi9-CnR1EzYHYw1kYipwZwtGM0REACoaSw5VX2hDQi0QXm5GDW5eOA&cntvendor=2&srcsubj=35216808&type=bkbuy&subject=35216808"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35216808/",
+    "douban_id": "35216808",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33734405.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "邓斌",
+            "link": "https://book.douban.com/author/4634008"
+        },
+        {
+            "text": "人民邮电出版社",
+            "link": "https://book.douban.com/press/2609"
+        },
+        {
+            "text": "智元微库 OPEN MIND",
+            "link": "https://book.douban.com/producers/74"
+        },
+        {
+            "text": "华为三部曲",
+            "link": "https://book.douban.com/series/58835"
+        }
+    ],
+    "tag": "职场"
+}

@@ -1,0 +1,63 @@
+{
+    "title": "大众哲学",
+    "bookInfo": {
+        "作者": "艾思奇",
+        "出版社": "台海出版社",
+        "出版年": "2021-5-1",
+        "页数": "288",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "ISBN": "9787516829783"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "55.1%",
+        "four_star_rate": "26.1%",
+        "three_star_rate": "13.0%",
+        "two_star_rate": "4.3%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "21.71元",
+            "link": "https://read.douban.com/ebook/319371942/?dcs=subject-buylink&dcm=douban&dct=35450879"
+        },
+        {
+            "name": "得到",
+            "price": "21.71元",
+            "link": "https://www.dedao.cn/eBook/VEDA2bKO27MKbRardAGJ1N4ln9BLVwgDkk08ZQyXmYqg5PpkEjxovze6DB84dpj6?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "28.80元",
+            "link": "https://book.douban.com/link2/?lowest=2880&pre=0&vendor=jingdong&srcpage=subject&price=2880&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVgcWgIFXW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAV1daDEweHDZNRwYlNHtVACEuCxN0CzNDWQl8Cw56Nz1VaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GUFhUCkkTM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFIQVFVsCFgHVE5ICydmGVoVXA4LVVttCkoWAW04K2sVO1tBJDcrDh0QQi1aZD9KX2ALC1sHeh15AQpgWD1jHlR8Ah8cCC18ABlsK1gl&cntvendor=5&srcsubj=35450879&type=bkbuy&subject=35450879"
+        },
+        {
+            "name": "当当网",
+            "price": "37.40元",
+            "link": "https://book.douban.com/link2/?lowest=2880&pre=0&vendor=dangdang&srcpage=subject&price=3740&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35450879%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29249270&cntvendor=5&srcsubj=35450879&type=bkbuy&subject=35450879"
+        },
+        {
+            "name": "中图网",
+            "price": "32.40元",
+            "link": "https://book.douban.com/link2/?lowest=2880&pre=0&vendor=bookschina&srcpage=subject&price=3240&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8596870.htm&cntvendor=5&srcsubj=35450879&type=bkbuy&subject=35450879"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35450879/",
+    "douban_id": "35450879",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33887616.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "艾思奇",
+            "link": "https://book.douban.com/search/%E8%89%BE%E6%80%9D%E5%A5%87"
+        },
+        {
+            "text": "台海出版社",
+            "link": "https://book.douban.com/press/2502"
+        }
+    ],
+    "tag": "西方哲学"
+}

@@ -1,0 +1,77 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "山居杂忆",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34345293.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36138979/",
+                        "year": "2022",
+                        "id": 36138979
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "音乐欣赏随想曲",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33620237.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26939538/",
+                        "year": "2016",
+                        "id": 26939538
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "语言的变化",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s2400093.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1416165/",
+                        "year": "1997",
+                        "id": 1416165
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "南澳散记",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s4554397.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/5383247/",
+                        "year": "1991",
+                        "id": 5383247
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/165828/",
+    "author_douban_id": "165828",
+    "personage_id": 30082563,
+    "name": [
+        "徐家祯",
+        "Jiazhen Xu"
+    ],
+    "intro": "徐家祯--1942年出生于上海，祖籍杭州。语言学家、散文作家。毕业于上海师范学院中文系, 在上海任教十余年。八零年初赴美留学, 先后在纽约市立大学及夏威夷大学学习, 并在夏威夷大学东亚语言系执教中文。父亲徐定戡（1916—2009），曾任职法曹，后又教学多年，以古典诗词的创作闻名中外词坛；母亲高诵芬（1918—2005），出身书香世家。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/56637fefb05b3c14b170917b8a687451.jpg",
+    "sex": 1,
+    "birth_date": 1942,
+    "age": 84,
+    "family_member": "徐定戡(父) / 高诵芬(母)",
+    "profession": [
+        "作者",
+        "译者"
+    ]
+}

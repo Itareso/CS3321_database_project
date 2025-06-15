@@ -1,0 +1,61 @@
+{
+    "title": "暴风眼",
+    "bookInfo": {
+        "作者": "梁振华",
+        "出版社": "济南出版社",
+        "副标题": "杨幂主演谍战剧原著",
+        "出版年": "2021-3-1",
+        "页数": "400",
+        "定价": "68",
+        "装帧": "平装",
+        "ISBN": "9787548842002"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "55.4%",
+        "four_star_rate": "18.3%",
+        "three_star_rate": "7.2%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "17.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/233248/",
+            "name": "梁振华",
+            "role": "作者",
+            "douban_id": "233248"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "46.30元",
+            "link": "https://book.douban.com/link2/?lowest=2410&pre=0&vendor=jingdong&srcpage=subject&price=4630&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVsUWgUEUW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOLSQKUjtIf2prUB1hIVRZUxo8eBdXXy5QdVl8L054JwQNCShLXxZyZAttORFCWCokdClgcBBKbAR1BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZEMjtHCCNgWw9SWy5NGkd2DD5edRtBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtZAU8QA2s4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CVFszVE1AQShXX1t7XQcLV11dAUknAW4JGVklbTZ7LgkHeBRrBgxDXS9pD10FED8tVAtLQjdmGTJnFXxxDg5caxdLehV3SyNxbQUy&cntvendor=3&srcsubj=35366132&type=bkbuy&subject=35366132"
+        },
+        {
+            "name": "当当网",
+            "price": "64.60元",
+            "link": "https://book.douban.com/link2/?lowest=2410&pre=0&vendor=dangdang&srcpage=subject&price=6459&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35366132%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29200466&cntvendor=3&srcsubj=35366132&type=bkbuy&subject=35366132"
+        },
+        {
+            "name": "中图网",
+            "price": "24.10元",
+            "link": "https://book.douban.com/link2/?lowest=2410&pre=0&vendor=bookschina&srcpage=subject&price=2410&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8511891.htm&cntvendor=3&srcsubj=35366132&type=bkbuy&subject=35366132"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35366132/",
+    "douban_id": "35366132",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33843342.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "梁振华",
+            "link": "https://book.douban.com/author/233248"
+        },
+        {
+            "text": "济南出版社",
+            "link": "https://book.douban.com/press/2584"
+        }
+    ],
+    "tag": "随笔"
+}

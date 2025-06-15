@@ -1,0 +1,87 @@
+{
+    "title": "圣母",
+    "bookInfo": {
+        "作者": "[日] 秋吉理香子",
+        "出版社": "新星出版社",
+        "原作名": "聖母",
+        "译者": "郑晓蕾",
+        "出版年": "2019-3",
+        "页数": "236",
+        "定价": "42.00",
+        "装帧": "平装",
+        "丛书": "午夜文库·日系佳作：秋吉理香子作品",
+        "ISBN": "9787513335256"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.3%",
+        "four_star_rate": "50.6%",
+        "three_star_rate": "14.7%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4612102/",
+            "name": "秋吉理香子",
+            "role": "作者",
+            "douban_id": "4612102"
+        },
+        {
+            "link": "https://book.douban.com/author/4616928/",
+            "name": "郑晓蕾",
+            "role": "译者",
+            "douban_id": "4616928"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "15.60元",
+            "link": "https://read.douban.com/ebook/110280141/?dcs=subject-buylink&dcm=douban&dct=30475757"
+        },
+        {
+            "name": "得到",
+            "price": "28.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=DAOVMEb6LKoq7rM4DAYENOVl8XBgJ3QalA31v5kjeam9ZxzbQGn2PpyRdYQ2L8mX&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF8UWgQBXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOV1ckWit3ezFRR15UKg9mFF0IDjJqBzJedVlGAmULCgwvARJqfmwBbwNeHBFCWCokcC1gcBBNb1lPBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZYUisOUhZsaw1eTwl3IV58LT8_eAtnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcBVVpfC0kXAWc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRA14zVE1ARjxeXRl7XQcEVldVD0MnAW4JGVklbTYBXScPaCtvXTZUHhpiVGJCVwtbcTYTXjlmGQhKPg9cBixUUTZqAGZ8QxBUbQUy&cntvendor=5&srcsubj=30475757&type=bkbuy&subject=30475757"
+        },
+        {
+            "name": "当当网",
+            "price": "40.30元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=1&vendor=dangdang&srcpage=subject&price=4029&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30475757%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D26920077&cntvendor=5&srcsubj=30475757&type=bkbuy&subject=30475757"
+        },
+        {
+            "name": "中图网",
+            "price": "30.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=bookschina&srcpage=subject&price=3000&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8049064.htm&cntvendor=5&srcsubj=30475757&type=bkbuy&subject=30475757"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30475757/",
+    "douban_id": "30475757",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s30021261.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 秋吉理香子",
+            "link": "https://book.douban.com/search/%E7%A7%8B%E5%90%89%E7%90%86%E9%A6%99%E5%AD%90"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "郑晓蕾",
+            "link": "https://book.douban.com/search/%E9%83%91%E6%99%93%E8%95%BE"
+        },
+        {
+            "text": "午夜文库·日系佳作：秋吉理香子作品",
+            "link": "https://book.douban.com/series/46617"
+        }
+    ],
+    "tag": "日本文学"
+}

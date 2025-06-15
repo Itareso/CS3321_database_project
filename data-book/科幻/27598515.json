@@ -1,0 +1,71 @@
+{
+    "title": "傀儡主人",
+    "bookInfo": {
+        "作者": "[美]罗伯特·海因莱因",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "The Puppet Masters",
+        "译者": "刘静",
+        "出版年": "2018-3",
+        "页数": "327",
+        "定价": "38",
+        "装帧": "软精装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536488922"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "31.0%",
+        "four_star_rate": "42.0%",
+        "three_star_rate": "26.0%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614036/",
+            "name": "罗伯特·A·海因莱因",
+            "role": "",
+            "douban_id": "4614036"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "28.10元",
+            "link": "https://book.douban.com/link2/?lowest=2810&pre=0&vendor=jingdong&srcpage=subject&price=2810&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFkQWgULUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVltaC0ISHDZNRwYlOxh8CDUcX091VS91YQBAQ21_EiE_TkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYEXF1cDUoSM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8SWg9sCFgLCQ5OAzNmG1sQVQUHUFdtCkoWAW04K2tdHmZpXD5VVA1Tdy57b1lGBVZEDR8KAR55ATlRZRhCNmRfEjw_QAgXYToOK1gl&cntvendor=2&srcsubj=27598515&type=bkbuy&subject=27598515"
+        },
+        {
+            "name": "当当网",
+            "price": "38.00元",
+            "link": "https://book.douban.com/link2/?lowest=2810&pre=0&vendor=dangdang&srcpage=subject&price=3800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27598515%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25262707&cntvendor=2&srcsubj=27598515&type=bkbuy&subject=27598515"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27598515/",
+    "douban_id": "27598515",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s29686981.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]罗伯特·海因莱因",
+            "link": "https://book.douban.com/author/659025"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "刘静",
+            "link": "https://book.douban.com/search/%E5%88%98%E9%9D%99"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

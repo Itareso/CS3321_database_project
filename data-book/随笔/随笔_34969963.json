@@ -1,0 +1,86 @@
+{
+    "title": "平生六记",
+    "bookInfo": {
+        "作者": "曾彦修",
+        "出版社": "生活·读书·新知三联书店",
+        "出版年": "2020-6",
+        "页数": "128",
+        "定价": "32.00",
+        "装帧": "平装",
+        "丛书": "三联精选（新）",
+        "ISBN": "9787108067913"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.6%",
+        "four_star_rate": "52.6%",
+        "three_star_rate": "12.5%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/501376/",
+            "name": "曾彦修",
+            "role": "作者",
+            "douban_id": "501376"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "25.39元",
+            "link": "https://www.dedao.cn/eBook/XOnaYG1qlM7amvGYerDZOy9JVnXL40BQoqwBkp1NKxoRdb86P2Q5AzgEj9vE5rDo?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "16.00元",
+            "link": "https://book.douban.com/link2/?lowest=1600&pre=0&vendor=jingdong&srcpage=subject&price=1600&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwRWAUEUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU1pYC00THDZNRwYlAAJSVCkZagh3XGwLYxhSJUVCLSIrXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFZdAUoXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsWCQFsCFgKSgxVXzBmG1oSXwEKU19tCkoWAW04K2tpLnNQXD4ufDNkXzddXBpgI3xJXFg0QEx5ARJjeyh9D1BQLA0OdDhpBSZDK1gl&cntvendor=4&srcsubj=34969963&type=bkbuy&subject=34969963"
+        },
+        {
+            "name": "当当网",
+            "price": "30.70元",
+            "link": "https://book.douban.com/link2/?lowest=1600&pre=0&vendor=dangdang&srcpage=subject&price=3070&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34969963%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28546967&cntvendor=4&srcsubj=34969963&type=bkbuy&subject=34969963"
+        },
+        {
+            "name": "中图网",
+            "price": "21.80元",
+            "link": "https://book.douban.com/link2/?lowest=1600&pre=0&vendor=bookschina&srcpage=subject&price=2180&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8308226.htm&cntvendor=4&srcsubj=34969963&type=bkbuy&subject=34969963"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34969963/",
+    "douban_id": "34969963",
+    "menu": [
+        "",
+        "        前记",
+        "        一 土改记异",
+        "        二 打虎记零",
+        "        三 镇反记慎",
+        "        四 肃反记无",
+        "        五 四清记实",
+        "        六 反右记幸",
+        "        附录",
+        "        一个地下党员被人供出后有无不被捕的可能？",
+        "        我所知道的胡耀邦为“六十一人案件”平反急如星火",
+        "        特载",
+        "        吴江 一本有严肃意义的书",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33642561.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "曾彦修",
+            "link": "https://book.douban.com/search/%E6%9B%BE%E5%BD%A6%E4%BF%AE"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        },
+        {
+            "text": "三联精选（新）",
+            "link": "https://book.douban.com/series/40207"
+        }
+    ],
+    "tag": "随笔"
+}

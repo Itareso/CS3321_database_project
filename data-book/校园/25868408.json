@@ -1,0 +1,55 @@
+{
+    "title": "聲之形 02",
+    "bookInfo": {
+        "作者": "大今良時 / [日本] 大今良时",
+        "出版社": "東立出版社",
+        "原作名": "聲の形",
+        "译者": "賴思宇",
+        "出版年": "2014-12-3",
+        "页数": "192",
+        "定价": "NT$100",
+        "装帧": "平装",
+        "丛书": "聲之形",
+        "ISBN": "9789863650096"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "56.3%",
+        "four_star_rate": "35.9%",
+        "three_star_rate": "6.8%",
+        "two_star_rate": "0.2%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4619516/",
+            "name": "大今良时",
+            "role": "作者",
+            "douban_id": "4619516"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/25868408/",
+    "douban_id": "25868408",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s27968707.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "大今良時",
+            "link": "https://book.douban.com/search/%E5%A4%A7%E4%BB%8A%E8%89%AF%E6%99%82"
+        },
+        {
+            "text": "[日本] 大今良时",
+            "link": "https://book.douban.com/author/4619516"
+        },
+        {
+            "text": "賴思宇",
+            "link": "https://book.douban.com/search/%E8%B3%B4%E6%80%9D%E5%AE%87"
+        },
+        {
+            "text": "聲之形",
+            "link": "https://book.douban.com/series/23547"
+        }
+    ],
+    "tag": "校园"
+}

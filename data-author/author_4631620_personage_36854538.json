@@ -1,0 +1,85 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "纷纷水火",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34755892.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36728470/",
+                        "year": "2024",
+                        "id": 36728470
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "十方界：幽灵觉醒",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29785703.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30176859/",
+                        "year": "2018",
+                        "id": 30176859
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "大唐秘闻录：衣冠冢",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29787798.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30121646/",
+                        "year": "2018",
+                        "id": 30121646
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.8,
+                        "title": "风雪山神庙",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28102509.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26374286/",
+                        "year": "2015",
+                        "id": 26374286
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "十方界2：非人往事",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33648446.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35074025/",
+                        "year": "",
+                        "id": 35074025
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4631620/",
+    "author_douban_id": "4631620",
+    "personage_id": 36854538,
+    "name": [
+        "林戈声"
+    ],
+    "intro": "著有小说集《纷纷水火》、《风雪山神庙》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/77081b72647e2f88cfa33d9ff4e2dc41.jpg",
+    "更多中文名": "林戈生",
+    "sex": 0,
+    "profession": [
+        "作者"
+    ]
+}

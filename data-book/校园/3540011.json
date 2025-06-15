@@ -1,0 +1,42 @@
+{
+    "title": "两小有猜",
+    "bookInfo": {
+        "作者": "坐化菩提",
+        "出版社": "汕头大学出版社",
+        "出版年": "2009-2",
+        "页数": "320",
+        "定价": "25.00元",
+        "ISBN": "9787811206036"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "14.3%",
+        "four_star_rate": "33.3%",
+        "three_star_rate": "44.2%",
+        "two_star_rate": "6.3%",
+        "one_star_rate": "1.9%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.08元",
+            "link": "https://book.douban.com/link2/?lowest=2208&pre=0&vendor=jingdong&srcpage=subject&price=2208&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070788138801.html&cntvendor=1&srcsubj=3540011&type=bkbuy&subject=3540011"
+        }
+    ],
+    "url": "https://book.douban.com/subject/3540011/",
+    "douban_id": "3540011",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s3599853.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "坐化菩提",
+            "link": "https://book.douban.com/search/%E5%9D%90%E5%8C%96%E8%8F%A9%E6%8F%90"
+        },
+        {
+            "text": "汕头大学出版社",
+            "link": "https://book.douban.com/press/2224"
+        }
+    ],
+    "tag": "校园"
+}

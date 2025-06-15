@@ -1,0 +1,68 @@
+{
+    "title": "天命",
+    "bookInfo": {
+        "作者": "钱莉芳",
+        "出版社": "浙江人民出版社",
+        "出版年": "2017-6",
+        "页数": "274",
+        "定价": "36.80元",
+        "装帧": "平装",
+        "丛书": "超好看",
+        "ISBN": "9787213079016"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.2%",
+        "four_star_rate": "41.6%",
+        "three_star_rate": "24.8%",
+        "two_star_rate": "3.5%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/599087/",
+            "name": "钱莉芳",
+            "role": "作者",
+            "douban_id": "599087"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.60元",
+            "link": "https://book.douban.com/link2/?lowest=1660&pre=0&vendor=jingdong&srcpage=subject&price=1660&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQAJK1olVQAHXF5fCkMXM28KEl8XXgQAXVxcOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocVFxUDEkUAW0BGVoKBENeCW4UaS5CZzB-TzhoAVVnBjYZQ1ViXC1oF1clWgMFUllUC0wnA2sJH18lbQYDZB8zDE4WCmY4GVsUXAMCXFdUDXsXBWoJGFsTXwYFVVZbOEsfB1_Rm-zD_5TbytSIgNwnM18LK2slXTYBZAAzCRgRAW8NHFt7AQBUVQgFSx95A28MH10RWwYyVl9cCkknM197ZxhTKGNXEzslbBgRSzdQZh8XXEdyMQczCj5gUxN-XVt3OFxYBz89XB5EM2w4&cntvendor=1&srcsubj=27065016&type=bkbuy&subject=27065016"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27065016/",
+    "douban_id": "27065016",
+    "menu": [
+        "",
+        "        引子",
+        "        第一章　使节",
+        "        第二章　起死回生",
+        "        第三章　李陵",
+        "        第四章　卫律（上）",
+        "        第五章　卫律（下）",
+        "        第六章　受命者",
+        "        第七章　天命",
+        "        第八章　北冥其深，见事何广",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29470965.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "钱莉芳",
+            "link": "https://book.douban.com/author/599087"
+        },
+        {
+            "text": "浙江人民出版社",
+            "link": "https://book.douban.com/press/2507"
+        },
+        {
+            "text": "超好看",
+            "link": "https://book.douban.com/series/19352"
+        }
+    ],
+    "tag": "科幻"
+}

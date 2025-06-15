@@ -1,0 +1,165 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "过年书",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s35062211.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37203768/",
+                        "year": "2025",
+                        "id": 37203768
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "微澜文库：落日晚照，为谁温柔",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35066738.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37212485/",
+                        "year": "2025",
+                        "id": 37212485
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "俗世奇人 手绘珍藏本（新增）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35084940.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37204750/",
+                        "year": "2025",
+                        "id": 37204750
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "过年书",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35066683.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37212185/",
+                        "year": "2025",
+                        "id": 37212185
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "冯骥才：生活就是创造每一天",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34871420.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36905596/",
+                        "year": "2024",
+                        "id": 36905596
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "非遗学原理",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34955396.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37036005/",
+                        "year": "2024",
+                        "id": 37036005
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "The Enemies of Art",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34863878.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36893675/",
+                        "year": "2024",
+                        "id": 36893675
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "俗世奇人全本（全三册）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34592553.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36310370/",
+                        "year": "2023",
+                        "id": 36310370
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "俗世奇人：新增本",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34391718.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36209215/",
+                        "year": "2023",
+                        "id": 36209215
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "From Purgatory to Paradise",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34863873.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36893669/",
+                        "year": "2023",
+                        "id": 36893669
+                    }
+                }
+            ],
+            "total": 256
+        }
+    },
+    "author_link": "https://book.douban.com/author/4503277/",
+    "author_douban_id": "4503277",
+    "personage_id": 27483740,
+    "name": [
+        "冯骥才",
+        "Jicai Feng"
+    ],
+    "intro": "冯骥才，浙江宁波慈溪人，生于天津，作家、画家。 早年在天津从事绘画工作，后专职文学创作和民间文化研究。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27483740/photo/2661535759",
+        "https://www.douban.com/personage/27483740/photo/2880247425",
+        "https://www.douban.com/personage/27483740/photo/2899347232",
+        "https://www.douban.com/personage/27483740/photo/2899347231",
+        "https://www.douban.com/personage/27483740/photo/2899347230"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2661535759.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2880247425.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2899347232.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2899347231.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2899347230.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/93a0f2f748f0c85972fc1d81439b9359.jpg",
+    "sex": 1,
+    "birth_date": 1942,
+    "age": 84,
+    "birth_place": [
+        "中国",
+        "天津"
+    ],
+    "IMDB": "nm0422669",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

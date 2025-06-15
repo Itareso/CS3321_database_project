@@ -1,0 +1,54 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "劳动者的星辰",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34288428.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36035851/",
+                        "year": "2022",
+                        "id": 36035851
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "新北京人",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29633382.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27194515/",
+                        "year": "2018",
+                        "id": 27194515
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/4616167/",
+    "author_douban_id": "4616167",
+    "personage_id": 36092177,
+    "name": [
+        "苑伟",
+        "Wei Yuan"
+    ],
+    "intro": "苑伟，80后，山东人，做过木匠，现在从事物业工作。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "更多中文名": "微尘",
+    "sex": 1,
+    "birth_place": [
+        "中国",
+        "山东"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

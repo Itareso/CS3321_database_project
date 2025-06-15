@@ -1,0 +1,70 @@
+{
+    "title": "异境之书",
+    "bookInfo": {
+        "作者": "[英] 米歇尔·法柏",
+        "出版社": "河南人民出版社",
+        "原作名": "The Book of Strange New Things",
+        "译者": "白玥 / 梁美令",
+        "出版年": "2020-10-1",
+        "页数": "432",
+        "定价": "49.80",
+        "装帧": "平装",
+        "丛书": "九志天达·科幻志",
+        "ISBN": "9787215121379"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    英国当代非典型性科幻小说，亚马逊投拍影视剧《绿洲》原著，宇宙版《黑暗之心》，让你经历地球与人类的心灵灾难，末世外星之上震撼人心的探索。    《异境之书》与刘慈欣《三体》同时入围国际顶级科幻小说奖亚瑟.C.克拉克奖短名单，并摘得2015英格兰年度图书桂冠。美国豆瓣goodreads两万五千条好评。    故事描述彼得接受了一项任务，暂时告别心爱的妻子，前往人类刚刚开发的外星移民地“绿洲”，探索深不可测的宇宙，他将经历一趟诡谲而震慑人心的探寻。而此时的地球多处发生天灾，社会民生动荡。两人之间相隔的不再只是浩瀚的宇宙，他们将面临空前严峻的考验……    绿洲计划的真正的动机是什么？彼得将如何找回爱与联系？《异境之书》的走向却完全出乎预料，以引人着迷深陷的笔法探讨了人类的文明信仰，兼顾探索、归属，质问爱在死亡之前的意义。    疏冷的文字，荒谬的细节，诡异荒芜的氛围中却奇异地穿透出情感与人性的温度，是一部想象力惊人，开启宇宙视野的重量级杰作。    法柏的小说是昏暗模糊的，轻松愉快的，脆弱易碎的，辛辣嘲讽的，超越世俗的。这些有趣的特质集合起来使得它们对于英国的小说来说，就像维他命一样富有营养。    ——大卫•米切尔，《云图》作者    《异境之书》在探讨一个核心问题：你爱的是谁？为这份爱情，你是否愿意付出？结局如何？这本书内容新奇，情节如一列火车，循序渐进，环环相扣。    ——扬·马特尔，《少年Pi的奇幻漂流》作者    古怪、 诡谲，一部鬼才之作。整整七夜，我都沉浸在这本书里，难以自拔。众人为之迷醉的信仰，天启之下的爱情，外星世界上的人性。《异境之书》，一段凄美而令人难以忘怀的故事。    ——大卫·贝尼奥夫，《权力的游戏》编剧\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "36.2%",
+        "four_star_rate": "29.8%",
+        "three_star_rate": "19.1%",
+        "two_star_rate": "12.8%",
+        "one_star_rate": "2.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/2047607/",
+            "name": "米歇尔·法柏",
+            "role": "作者",
+            "douban_id": "2047607"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.84元",
+            "link": "https://book.douban.com/link2/?lowest=2184&pre=0&vendor=jingdong&srcpage=subject&price=2184&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10026576839335.html&cntvendor=2&srcsubj=34933702&type=bkbuy&subject=34933702"
+        },
+        {
+            "name": "中图网",
+            "price": "28.40元",
+            "link": "https://book.douban.com/link2/?lowest=2184&pre=0&vendor=bookschina&srcpage=subject&price=2840&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8405784.htm&cntvendor=2&srcsubj=34933702&type=bkbuy&subject=34933702"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34933702/",
+    "douban_id": "34933702",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33725389.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[英] 米歇尔·法柏",
+            "link": "https://book.douban.com/author/2047607"
+        },
+        {
+            "text": "河南人民出版社",
+            "link": "https://book.douban.com/press/2576"
+        },
+        {
+            "text": "白玥",
+            "link": "https://book.douban.com/search/%E7%99%BD%E7%8E%A5"
+        },
+        {
+            "text": "梁美令",
+            "link": "https://book.douban.com/search/%E6%A2%81%E7%BE%8E%E4%BB%A4"
+        },
+        {
+            "text": "九志天达·科幻志",
+            "link": "https://book.douban.com/series/28895"
+        }
+    ],
+    "tag": "科幻"
+}

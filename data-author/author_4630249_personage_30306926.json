@@ -1,0 +1,60 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "把空气冲破一下",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34941868.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36800187/",
+                        "year": "2024",
+                        "id": 36800187
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4630249/",
+    "author_douban_id": "4630249",
+    "personage_id": 30306926,
+    "name": [
+        "高临阳",
+        "Linyang Gao"
+    ],
+    "intro": "1991年生于山西太原，电影导演，编剧，作家。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30306926/photo/2916287373",
+        "https://www.douban.com/personage/30306926/photo/2914918733",
+        "https://www.douban.com/personage/30306926/photo/2914918732",
+        "https://www.douban.com/personage/30306926/photo/2914918731",
+        "https://www.douban.com/personage/30306926/photo/2914918730"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2916287373.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2914918733.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2914918732.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2914918731.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2914918730.webp"
+    ],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/2bc8b11a690f9c016d4691e5d1429e71.jpg",
+    "sex": 1,
+    "birth_date": 1991,
+    "age": 35,
+    "birth_place": [
+        "中国",
+        "山西",
+        "太原"
+    ],
+    "IMDB": "nm9940837",
+    "profession": [
+        "编剧",
+        "导演",
+        "演员",
+        "作者"
+    ]
+}

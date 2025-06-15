@@ -1,0 +1,116 @@
+{
+    "title": "香农传",
+    "bookInfo": {
+        "作者": "[美] 吉米·索尼 / [美] 罗伯·古德曼",
+        "出版社": "中信出版社",
+        "副标题": "从0到1开创信息时代",
+        "原作名": "A Mind at Play",
+        "译者": "杨晔",
+        "出版年": "2019-3",
+        "页数": "382",
+        "定价": "72.00元",
+        "装帧": "精装",
+        "ISBN": "9787508694801"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    克劳德·香农，从零开始构建出一门全新的科学，奠定了当今信息时代的基础。他率性地工作，严肃地游戏，从不认为这两者之间有区别，并为任何吸引他注意力的好奇心而感到高兴。他将枯燥的技术性科学转变为大量富有魅力的谜题，而解决谜题的方法是成年人的游戏之道。信息早在香农之前便已存在，被认为是一封电报、一张照片、一段话，乃至一首歌。而在香农之后，信息被完全抽象为比特。香农通过把握信息的本质，使我们当今的世界成为可能——我们现在可以从太空将捕捉到的地球的照片完整地传回地球，尽管香农没有写出保护这一图像免于错误与失真的代码，但是他早已证明了这种代码的存在。香农是一位罕见的科学天才，既满足于制作可以自动穿越迷宫的电子老鼠、杂耍机器人和喷火小号，又是研究数字电路的先驱，发明了首台能下国际象棋的电脑，首台可穿戴电脑。他的天才都展现在他为自己设置的谜题上，展现在他充满游戏精神的思维里。他的思想都留下了他深层次洞察力的烙印。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "23.3%",
+        "four_star_rate": "40.5%",
+        "three_star_rate": "28.5%",
+        "two_star_rate": "5.3%",
+        "one_star_rate": "2.5%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "25.99元",
+            "link": "https://read.douban.com/ebook/109553664/?dcs=subject-buylink&dcm=douban&dct=30320103"
+        },
+        {
+            "name": "得到",
+            "price": "25.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=N4yqKRVn1jAJaMyOQ2YorRp6DvXm7wepjK3GBKLzkPq5gdxEV98eNbZl467ovjzg&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "46.80元",
+            "link": "https://book.douban.com/link2/?lowest=4680&pre=0&vendor=jingdong&srcpage=subject&price=4680&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF4dXgQKUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUVZeCkMRHDZNRwYlFXl5EgwKXwt1Xid_bgQdGnl0UAE7XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUFZfAUkRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsWVARsCFgHVwJHAydmGVoVWAQBV19tCkoWAW04K2tUBEVaMD4HQTJ8VWYBRBNoCQ55CVwpWwN5ATtLbwJrBVlJLV5dSRJ_cA16K1gl&cntvendor=5&srcsubj=30320103&type=bkbuy&subject=30320103"
+        },
+        {
+            "name": "当当网",
+            "price": "52.20元",
+            "link": "https://book.douban.com/link2/?lowest=4680&pre=0&vendor=dangdang&srcpage=subject&price=5220&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30320103%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D26513220&cntvendor=5&srcsubj=30320103&type=bkbuy&subject=30320103"
+        },
+        {
+            "name": "中图网",
+            "price": "55.00元",
+            "link": "https://book.douban.com/link2/?lowest=4680&pre=0&vendor=bookschina&srcpage=subject&price=5500&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8033033.htm&cntvendor=5&srcsubj=30320103&type=bkbuy&subject=30320103"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30320103/",
+    "douban_id": "30320103",
+    "menu": [
+        "",
+        "        文前插图",
+        "        题记",
+        "        推荐语",
+        "        引言 一个天才的游戏人生",
+        "        第1章 小镇男孩的科学基因",
+        "        第2章 安娜堡的大学生活",
+        "        第3章 机械大脑",
+        "        第4章 麻省理工学院里的开关",
+        "        第5章 与众不同的年轻人",
+        "        第6章 放弃遗传学研究",
+        "        第7章 贝尔实验室中一流的应用数学家",
+        "        第8章 生活中的挣扎",
+        "        第9章 火力控制研究",
+        "        第10章 战时研究",
+        "        第11章 密码学研究",
+        "        第12章 与图灵的友谊",
+        "        第13章 贝尔实验室的三人组",
+        "        第14章 无尽的黑暗",
+        "        第15章 从情报到信息",
+        "        第16章 信息论炸弹",
+        "        第17章 信息论史上的里程碑",
+        "        第18章 杜博的批评",
+        "        第19章 维纳的控制论",
+        "        第20章 终身伴侣",
+        "        第21章 信息狂热",
+        "        第22章 服务于美国国家安全",
+        "        第23章 人造机器",
+        "        第24章 游戏之王",
+        "        第25章 建设性不满",
+        "        第26章 香农教授",
+        "        第27章 股市“密码”",
+        "        第28章 发明家的天堂",
+        "        第29章 关于杂技的研究",
+        "        第30章 京都奖",
+        "        第31章 阿尔茨海默病",
+        "        第32章 余震",
+        "        致谢",
+        "        参考文献",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s30026304.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 吉米·索尼",
+            "link": "https://book.douban.com/search/%E5%90%89%E7%B1%B3%C2%B7%E7%B4%A2%E5%B0%BC"
+        },
+        {
+            "text": "[美] 罗伯·古德曼",
+            "link": "https://book.douban.com/search/%E7%BD%97%E4%BC%AF%C2%B7%E5%8F%A4%E5%BE%B7%E6%9B%BC"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "杨晔",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E6%99%94"
+        }
+    ],
+    "tag": "人物传记"
+}

@@ -1,0 +1,65 @@
+{
+    "title": "年月日",
+    "bookInfo": {
+        "作者": "阎连科",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "磨铁图书",
+        "出版年": "2021-7",
+        "页数": "136",
+        "定价": "42.00元",
+        "装帧": "精装",
+        "丛书": "阎连科作品（磨铁出品）",
+        "ISBN": "9787559459244"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "49.8%",
+        "four_star_rate": "38.8%",
+        "three_star_rate": "9.8%",
+        "two_star_rate": "1.1%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4534736/",
+            "name": "阎连科",
+            "role": "作者",
+            "douban_id": "4534736"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "34.50元",
+            "link": "https://book.douban.com/link2/?lowest=2350&pre=0&vendor=jingdong&srcpage=subject&price=3450&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlIWVQELU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOVDgASzt-dWleHBpSAwBcEQo7UDtRem9xdVlwNUVkIh0Pdh1WQm94bS5-ORFCWCokaBhgWiZWbTJ9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ6KiU-Yw5ueg9obStqX3AADVxebRlBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxbCk4TAmc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQUDBlgzVE1AQTpfHl17XQcFV1leAEsnAW4JGVklbTYCMgMeeCJhBTkPWhxLW1hHADgFeA1uAxZmGT59HmB0FwwjXgpWAx9-bjBxbQUy&cntvendor=2&srcsubj=35490076&type=bkbuy&subject=35490076"
+        },
+        {
+            "name": "中图网",
+            "price": "23.50元",
+            "link": "https://book.douban.com/link2/?lowest=2350&pre=0&vendor=bookschina&srcpage=subject&price=2350&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8634624.htm&cntvendor=2&srcsubj=35490076&type=bkbuy&subject=35490076"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35490076/",
+    "douban_id": "35490076",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33934372.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "阎连科",
+            "link": "https://book.douban.com/author/4534736"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "磨铁图书",
+            "link": "https://book.douban.com/producers/18"
+        },
+        {
+            "text": "阎连科作品（磨铁出品）",
+            "link": "https://book.douban.com/series/57337"
+        }
+    ],
+    "tag": "中国文学"
+}

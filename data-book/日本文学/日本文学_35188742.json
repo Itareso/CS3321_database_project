@@ -1,0 +1,86 @@
+{
+    "title": "青灯怪谈",
+    "bookInfo": {
+        "作者": "[日] 冈本绮堂",
+        "出版社": "沈阳出版社",
+        "译者": "木笔",
+        "出版年": "2020-8-1",
+        "页数": "304",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "ISBN": "9787571610807"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "12.1%",
+        "four_star_rate": "25.3%",
+        "three_star_rate": "49.5%",
+        "two_star_rate": "13.1%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1349036/",
+            "name": "冈本绮堂",
+            "role": "作者",
+            "douban_id": "1349036"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "20.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=poVrgXBZpKrJvLmo89Q4bD7O1de2aWAq79dWYgXGPxBMVzqlRNk5j6yEnAa9E576&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "30.60元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=jingdong&srcpage=subject&price=3060&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFMRWQcDUW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOISMDQyt3fQdcHyJgGXtqDzkAVEtVAR9NdVlmIgd_CBUAWx8eChp1Z1MULRFCWCokcBtjYBxMbzJ1BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZCDyMPfSNHVA9QfTtNQ3QHHyQDVw1nD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcBVVtfDEkVC2g4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYBXVwzVE1AQS9WRBh7XQcFU1hYC0MnAW4JGVklbTZ3KQAWaCtpazsMYi5RIG5ZMwMBCAkVcypmGShqXHteHwMOXEIedhJ0E1plbQUy&cntvendor=4&srcsubj=35188742&type=bkbuy&subject=35188742"
+        },
+        {
+            "name": "当当网",
+            "price": "45.00元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=dangdang&srcpage=subject&price=4500&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35188742%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29164602&cntvendor=4&srcsubj=35188742&type=bkbuy&subject=35188742"
+        },
+        {
+            "name": "中图网",
+            "price": "24.40元",
+            "link": "https://book.douban.com/link2/?lowest=2440&pre=0&vendor=bookschina&srcpage=subject&price=2440&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8444408.htm&cntvendor=4&srcsubj=35188742&type=bkbuy&subject=35188742"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35188742/",
+    "douban_id": "35188742",
+    "menu": [
+        "",
+        "        1.青蛙神",
+        "        2.利根渡口",
+        "        3.兄妹之魂",
+        "        4.猿之眼",
+        "        5.蛇精",
+        "        6.清水之井",
+        "        7.窑变",
+        "        8.螃蟹",
+        "        9.单脚女",
+        "        10.黄纸",
+        "        11.笛塚",
+        "        12.龙马之池",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33710609.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 冈本绮堂",
+            "link": "https://book.douban.com/author/1349036"
+        },
+        {
+            "text": "沈阳出版社",
+            "link": "https://book.douban.com/press/2283"
+        },
+        {
+            "text": "木笔",
+            "link": "https://book.douban.com/search/%E6%9C%A8%E7%AC%94"
+        }
+    ],
+    "tag": "日本文学"
+}

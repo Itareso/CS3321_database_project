@@ -1,0 +1,70 @@
+{
+    "title": "慢人",
+    "bookInfo": {
+        "作者": "[南非] J.M.库切",
+        "出版社": "四川文艺出版社",
+        "出品方": "磨铁·大鱼读品",
+        "副标题": "精装珍藏版",
+        "原作名": "Slow Man",
+        "译者": "吴超",
+        "出版年": "2024-1-18",
+        "页数": "296",
+        "定价": "68",
+        "装帧": "精装",
+        "丛书": "大鱼读品·库切系列",
+        "ISBN": "9787541168116"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "15.5%",
+        "four_star_rate": "37.9%",
+        "three_star_rate": "38.3%",
+        "two_star_rate": "7.2%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/108640/",
+            "name": "J.M.库切",
+            "role": "作者",
+            "douban_id": "108640"
+        },
+        {
+            "link": "https://book.douban.com/author/4623241/",
+            "name": "吴超",
+            "role": "译者",
+            "douban_id": "4623241"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "34.00元",
+            "link": "https://read.douban.com/ebook/454904426/?dcs=subject-buylink&dcm=douban&dct=36646082"
+        },
+        {
+            "name": "得到",
+            "price": "34.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0R97aBw8XDBK9qZpgkRELd75z4Ma6oDRrqj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "48.90元",
+            "link": "https://book.douban.com/link2/?lowest=4320&pre=0&vendor=jingdong&srcpage=subject&price=4890&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVMTXwIKXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOHwwKCDseChloGTNFWUcDVB8VTipWXBRsdVlKAUJQC14KUitlcSRaGFphAhFCWCokdBtjSgRLbSJPBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZhKURVFlEVdQxgGCBjW24cC1ciX0hnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFhVDUsfBm04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCgADB1ozVE1AXSYAQAF7XQcDVldbDE8nAW4JGVklbTZJBgldeEIedQ8KcwsRHAcCFRYbaQpIeAtmGQRJGVRdVAkHaDllSD0LGi9KbQUy&cntvendor=5&srcsubj=36646082&type=bkbuy&subject=36646082"
+        },
+        {
+            "name": "当当网",
+            "price": "48.90元",
+            "link": "https://book.douban.com/link2/?lowest=4320&pre=0&vendor=dangdang&srcpage=subject&price=4890&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36646082%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29671805&cntvendor=5&srcsubj=36646082&type=bkbuy&subject=36646082"
+        },
+        {
+            "name": "中图网",
+            "price": "43.20元",
+            "link": "https://book.douban.com/link2/?lowest=4320&pre=0&vendor=bookschina&srcpage=subject&price=4320&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9239697.htm&cntvendor=5&srcsubj=36646082&type=bkbuy&subject=36646082"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36646082/",
+    "douban_id": "36646082",
+    "menu": [],
+    "tag": "小说"
+}

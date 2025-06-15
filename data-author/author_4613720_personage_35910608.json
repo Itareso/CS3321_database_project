@@ -1,0 +1,116 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.0,
+                        "title": "一场寂寞，半窗残月",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34391828.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36207819/",
+                        "year": "2023",
+                        "id": 36207819
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "国文课",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34250873.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35887127/",
+                        "year": "2022",
+                        "id": 35887127
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "诗词入门",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34232719.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35451655/",
+                        "year": "2021",
+                        "id": 35451655
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "宋词三百首",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29827847.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/30229439/",
+                        "year": "2018",
+                        "id": 30229439
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "长相思",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28695029.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26774578/",
+                        "year": "2016",
+                        "id": 26774578
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "大学诗词写作教程",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28045426.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26363407/",
+                        "year": "2015",
+                        "id": 26363407
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "唐宋名家词选",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34956128.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37037236/",
+                        "year": "",
+                        "id": 37037236
+                    }
+                }
+            ],
+            "total": 7
+        }
+    },
+    "author_link": "https://book.douban.com/author/4613720/",
+    "author_douban_id": "4613720",
+    "personage_id": 35910608,
+    "name": [
+        "徐晋如",
+        "Jinru Xu"
+    ],
+    "intro": "徐晋如，字康侯，号胡马，斋名缀石轩、忏慧堂、双琴砚斋、丽隐楼、稳心庐，1976年12月27日生于江苏盐城。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img2.doubanio.com/view/personage/m/public/8777a7e151d3a01db238e4244add3521.jpg",
+    "sex": 1,
+    "birth_date": 1976,
+    "age": 50,
+    "birth_place": [
+        "中国",
+        "江苏",
+        "盐城"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

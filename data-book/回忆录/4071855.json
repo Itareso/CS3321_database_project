@@ -1,0 +1,42 @@
+{
+    "title": "小回忆",
+    "bookInfo": {
+        "作者": "蔡天新",
+        "出版社": "生活·读书·新知三联书店",
+        "出版年": "2010-03",
+        "页数": "297",
+        "定价": "25.00",
+        "ISBN": "9787108033284"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "8.0%",
+        "four_star_rate": "52.5%",
+        "three_star_rate": "33.3%",
+        "two_star_rate": "5.6%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "15.00元",
+            "link": "https://read.douban.com/ebook/23341995/?dcs=subject-buylink&dcm=douban&dct=4071855"
+        }
+    ],
+    "url": "https://book.douban.com/subject/4071855/",
+    "douban_id": "4071855",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s4215583.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "蔡天新",
+            "link": "https://book.douban.com/search/%E8%94%A1%E5%A4%A9%E6%96%B0"
+        },
+        {
+            "text": "生活·读书·新知三联书店",
+            "link": "https://book.douban.com/press/2158"
+        }
+    ],
+    "tag": "回忆录"
+}

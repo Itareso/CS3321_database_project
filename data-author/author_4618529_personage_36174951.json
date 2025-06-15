@@ -1,0 +1,149 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "100年，接了个龙",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35031624.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/37115705/",
+                        "year": "2025",
+                        "id": 37115705
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "李飞探案集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33880856.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35338191/",
+                        "year": "2021",
+                        "id": 35338191
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "元曲故事",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34284588.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26989604/",
+                        "year": "2017",
+                        "id": 26989604
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "聊斋故事",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33806451.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/31021871/",
+                        "year": "2016",
+                        "id": 31021871
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "庄子末议",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s22782059.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/11638357/",
+                        "year": "2012",
+                        "id": 11638357
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "澹安藏札",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s30015878.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/6801961/",
+                        "year": "2011",
+                        "id": 6801961
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "澹安日记（上.下两册）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s4424470.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/4742236/",
+                        "year": "2010",
+                        "id": 4742236
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "说部卮言",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s6021573.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/3717311/",
+                        "year": "2009",
+                        "id": 3717311
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "戏曲词语汇释",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s6040244.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3801716/",
+                        "year": "2009",
+                        "id": 3801716
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "小说词语汇释",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s6050390.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/3881780/",
+                        "year": "2009",
+                        "id": 3881780
+                    }
+                }
+            ],
+            "total": 14
+        }
+    },
+    "author_link": "https://book.douban.com/author/4618529/",
+    "author_douban_id": "4618529",
+    "personage_id": 36174951,
+    "name": [
+        "陆澹安",
+        "Dan'an Lu"
+    ],
+    "intro": "陆澹安（1894—1980），名衍文，字剑寒，号澹盦（后改为澹庵，最后改为澹安），江苏吴县人，别署琼华馆主，笔名“何心”等。中国现代文学家、侦探小说家、古典文学研究家、编辑家、书法家。著有侦探小说《李飞探案集》、古典文学研究著作《水浒研究》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/b347915ae53f82126b62abc2d4e00003.jpg",
+    "sex": 1,
+    "birth_date": 1894,
+    "death_date": 1980,
+    "age": 87,
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

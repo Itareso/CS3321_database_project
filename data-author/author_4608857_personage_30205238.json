@@ -1,0 +1,144 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "宋慈洗冤罪案簿 一 太學岳祠案",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34791966.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36752484/",
+                        "year": "2024",
+                        "id": 36752484
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "宋慈洗冤罪案簿 二 西湖沉屍案",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34838098.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36803017/",
+                        "year": "2024",
+                        "id": 36803017
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "宋慈洗冤罪案簿 三 太丞毒殺案",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34917945.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36964366/",
+                        "year": "2024",
+                        "id": 36964366
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "宋慈洗冤罪案簿 四 客舍凶殺案",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34974205.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37037916/",
+                        "year": "2024",
+                        "id": 37037916
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "宋慈洗冤罪案簿 一 太學岳祠案 下",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34792685.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36752483/",
+                        "year": "2024",
+                        "id": 36752483
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "宋慈洗冤罪案簿 一 太學岳祠案 上",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34792686.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36752482/",
+                        "year": "2024",
+                        "id": 36752482
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "宋慈洗冤罪案簿 二 西湖沉屍案 上",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34838099.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36803019/",
+                        "year": "2024",
+                        "id": 36803019
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "宋慈洗冤罪案簿 二 西湖沉屍案 下",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34838101.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36803020/",
+                        "year": "2024",
+                        "id": 36803020
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "魔术会",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33906652.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35413471/",
+                        "year": "2021",
+                        "id": 35413471
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "终南山密码",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s32330848.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/33409987/",
+                        "year": "2019",
+                        "id": 33409987
+                    }
+                }
+            ],
+            "total": 14
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608857/",
+    "author_douban_id": "4608857",
+    "personage_id": 30205238,
+    "name": [
+        "巫童"
+    ],
+    "intro": "巫童，著名文化悬疑作家。四川乐山人，毕业于四川大学。代表作：《终南山密码》系列、《暗杀1905》系列、《魔术会：幻戏陷阱》系列等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/img/author/medium/public/1558573049.02.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

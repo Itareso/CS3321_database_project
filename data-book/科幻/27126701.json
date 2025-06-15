@@ -1,0 +1,56 @@
+{
+    "title": "星球大战4 新希望",
+    "bookInfo": {
+        "作者": "美国迪士尼公司",
+        "出版社": "华东理工大学出版社",
+        "原作名": "Star Wars: New Hope",
+        "译者": "赵璞玉 / 刘静 （校译）",
+        "出版年": "2017-8",
+        "定价": "32.8",
+        "丛书": "星球大战",
+        "ISBN": "9787562849865"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": null,
+        "four_star_rate": null,
+        "three_star_rate": null,
+        "two_star_rate": null,
+        "one_star_rate": null
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "8.75元",
+            "link": "https://book.douban.com/link2/?lowest=875&pre=0&vendor=jingdong&srcpage=subject&price=875&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXQ8CXFxUDkgQAl8IGloXWQAGVF5aDU0WAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAm0MHV8VXQEHUl9eFxJSXzI4Rw9jJnt9Ulw_dylMX2dNfloLJgB1ElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXQcHUV1bOEkXAm4NG1MSXgcyVFhYCUgXB2cJGFgUXDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUQlaC08TbTMOTBBJW0QKOl5dCk8fAW0BK1kUXAQAZG5tYzxsRW0NXSRGOGV0Nl0bVUtVZWhIHgEXMwR9KF4qDQ1DRTwNXDJrGE5VKW5eOA&cntvendor=1&srcsubj=27126701&type=bkbuy&subject=27126701"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27126701/",
+    "douban_id": "27126701",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29530257.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "美国迪士尼公司",
+            "link": "https://book.douban.com/search/%E7%BE%8E%E5%9B%BD%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%AC%E5%8F%B8"
+        },
+        {
+            "text": "华东理工大学出版社",
+            "link": "https://book.douban.com/press/2408"
+        },
+        {
+            "text": "赵璞玉",
+            "link": "https://book.douban.com/search/%E8%B5%B5%E7%92%9E%E7%8E%89"
+        },
+        {
+            "text": "刘静 （校译）",
+            "link": "https://book.douban.com/search/%E5%88%98%E9%9D%99"
+        },
+        {
+            "text": "星球大战",
+            "link": "https://book.douban.com/series/39394"
+        }
+    ],
+    "tag": "科幻"
+}

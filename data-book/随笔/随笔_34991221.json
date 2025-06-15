@@ -1,0 +1,106 @@
+{
+    "title": "我有一个花园",
+    "bookInfo": {
+        "作者": "[捷克]卡雷尔·恰佩克",
+        "出版社": "重庆大学出版社",
+        "译者": "曹唯 / [捷克]昂杰伊·费舍尔",
+        "出版年": "2020-9",
+        "页数": "198",
+        "定价": "68.00",
+        "装帧": "精装",
+        "丛书": "爱自然系列",
+        "ISBN": "9787568920520"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    《我有一个花园》可谓是一幅活灵活现描绘花园生活的文学经典。原书于1929年在捷克布拉格首次出版，之后在全世界数十个国家多次再版，在近100年中好评如潮，始终受到各国众多读者的喜爱，足见其魅力不凡。    全书按照月份顺序展开，通过26篇文笔灵动、趣味   隽永的小品文，描写了一个笨拙却乐天的园艺迷在12个月里收拾花园的故事。在本书中，卡雷尔·恰佩克跟读者分享了“如何盖一座小花园”“一粒种子怎样发出幼芽”等园艺生活的乐趣。全书看似夸张却蕴含哲理，字里行间透着幽默和趣味。通过园艺迷在一年中的辛勤劳作，揭示出许多朴素深刻的人生哲理：人类应该好好看待生命中的每一天，珍惜周围所有的亲人与朋友等等。    本书另一大特色是卡雷尔·恰佩克的哥哥约瑟夫·恰佩克所绘的60幅小插图。约瑟夫是捷克现代绘画中立体派的大将，他替卡雷尔著作所绘的插图，充满了漫画式的童趣。在阅读的过程中，约瑟夫的插画一方面与内文相呼应，一方面又超出内文的想象。如此一来，插画既拥有自己的生命，却又不离文学范畴。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "55.1%",
+        "four_star_rate": "40.1%",
+        "three_star_rate": "4.8%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/330008/",
+            "name": "卡雷尔·恰佩克",
+            "role": "作者",
+            "douban_id": "330008"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "34.00元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=jingdong&srcpage=subject&price=3400&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF0WXQYGVm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOXD4aSzV-RhhMHgIWCFl9CStdTzMUWxJIdVl9OQViMR1YTg9JXWdoUi5jLhFCWCokcC9gWgxPbCJpBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZAFCMgWx1BBw1zAQZAHQ5HF1gZejlBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxfCU0UB2o4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CVVszVE1AQWoAT1p7XQcEV1xZCEonAW4JGVklbTYKNBkediJSdCsNQlhAAnlfIV4acEhPfi9mGTNxXmZnF1sbTBVJCw9Bbi1mbQUy&cntvendor=3&srcsubj=34991221&type=bkbuy&subject=34991221"
+        },
+        {
+            "name": "当当网",
+            "price": "38.30元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=dangdang&srcpage=subject&price=3829&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34991221%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29124374&cntvendor=3&srcsubj=34991221&type=bkbuy&subject=34991221"
+        },
+        {
+            "name": "中图网",
+            "price": "42.50元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=bookschina&srcpage=subject&price=4250&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8400586.htm&cntvendor=3&srcsubj=34991221&type=bkbuy&subject=34991221"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34991221/",
+    "douban_id": "34991221",
+    "menu": [
+        "",
+        "        代序",
+        "        如何建造一座小花园",
+        "        园丁是如何诞生的",
+        "        园丁的一月",
+        "        种子",
+        "        园丁的二月",
+        "        论园艺艺术",
+        "        园丁的三月",
+        "        含苞待放",
+        "        园丁的四月",
+        "        假日",
+        "        园丁的五月",
+        "        天降甘霖",
+        "        园丁的六月",
+        "        种蔬果的园丁",
+        "        园丁的七月",
+        "        植物学",
+        "        园丁的八月",
+        "        种仙人掌的人",
+        "        园丁的九月",
+        "        土地",
+        "        园丁的十月",
+        "        秋日之美",
+        "        园丁的十一月",
+        "        冬眠的秘密",
+        "        园丁的十二月",
+        "        关于园艺生活",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33615882.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[捷克]卡雷尔·恰佩克",
+            "link": "https://book.douban.com/author/330008"
+        },
+        {
+            "text": "重庆大学出版社",
+            "link": "https://book.douban.com/press/2645"
+        },
+        {
+            "text": "曹唯",
+            "link": "https://book.douban.com/search/%E6%9B%B9%E5%94%AF"
+        },
+        {
+            "text": "[捷克]昂杰伊·费舍尔",
+            "link": "https://book.douban.com/search/%E6%98%82%E6%9D%B0%E4%BC%8A%C2%B7%E8%B4%B9%E8%88%8D%E5%B0%94"
+        },
+        {
+            "text": "爱自然系列",
+            "link": "https://book.douban.com/series/60087"
+        }
+    ],
+    "tag": "随笔"
+}

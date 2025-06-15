@@ -1,0 +1,80 @@
+{
+    "title": "浮木",
+    "bookInfo": {
+        "作者": "杨本芬",
+        "出版社": "北京联合出版公司",
+        "出品方": "乐府文化",
+        "出版年": "2021-7-2",
+        "页数": "264",
+        "定价": "39.80",
+        "装帧": "平装",
+        "丛书": "看见女性三重奏",
+        "ISBN": "9787559652614"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.6%",
+        "four_star_rate": "51.0%",
+        "three_star_rate": "12.7%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4612644/",
+            "name": "杨本芬",
+            "role": "作者",
+            "douban_id": "4612644"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.85元",
+            "link": "https://read.douban.com/ebook/443477252/?dcs=subject-buylink&dcm=douban&dct=35479662"
+        },
+        {
+            "name": "得到",
+            "price": "29.85元",
+            "link": "https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7XVe0rbx6pNgznl9VZPLJQyEBodb89mqoO&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.90元",
+            "link": "https://book.douban.com/link2/?lowest=1870&pre=0&vendor=jingdong&srcpage=subject&price=1989&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVkVWQ4GV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUxk6TQ1yfhtjTClmOHgGKA4uayxnaC9ydRlTCXJFFxsfVExESmhPegQVBBFCWCokdCtgYBxXbCJtBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ4FT8iY01PSwxTaTljI3UcNxsOdTR3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVxeD0wUA204G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggcWlIFUw0zVE1AQW1dWFx7XQcHVl5bAE0nAW4JGVklbTYFEzkYTi5qdwRfaShwIwJ-BC0-bzt8QxVmWR1BKUFBERwBDxheBChpRFtMbQUy&cntvendor=5&srcsubj=35479662&type=bkbuy&subject=35479662"
+        },
+        {
+            "name": "当当网",
+            "price": "39.80元",
+            "link": "https://book.douban.com/link2/?lowest=1870&pre=0&vendor=dangdang&srcpage=subject&price=3979&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35479662%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29261432&cntvendor=5&srcsubj=35479662&type=bkbuy&subject=35479662"
+        },
+        {
+            "name": "中图网",
+            "price": "18.70元",
+            "link": "https://book.douban.com/link2/?lowest=1870&pre=0&vendor=bookschina&srcpage=subject&price=1870&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8618053.htm&cntvendor=5&srcsubj=35479662&type=bkbuy&subject=35479662"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35479662/",
+    "douban_id": "35479662",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33921954.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "杨本芬",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E6%9C%AC%E8%8A%AC"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "乐府文化",
+            "link": "https://book.douban.com/producers/83"
+        },
+        {
+            "text": "看见女性三重奏",
+            "link": "https://book.douban.com/series/57302"
+        }
+    ],
+    "tag": "中国文学"
+}

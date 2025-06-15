@@ -1,0 +1,51 @@
+{
+    "title": "The Pragmatic Programmer",
+    "bookInfo": {
+        "作者": "David Thomas / Andrew Hunt",
+        "出版社": "Addison-Wesley Professional",
+        "副标题": "your journey to mastery",
+        "出版年": "2019-9-23",
+        "页数": "352",
+        "定价": "USD 49.99",
+        "装帧": "Paperback",
+        "ISBN": "9780135957059"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    “One of the most significant books in my life.” —Obie Fernandez, Author, The Rails Way    “Twenty years ago, the first edition of The Pragmatic Programmer completely changed the trajectory of my career. This new edition could do the same for yours.” —Mike Cohn, Author of Succeeding with Agile, Agile Estimating and Planning, and User Stories Applied    “. . . filled with practical advice, both technical and professional, that will serve you and your projects well for years to come.” —Andrea Goulet, CEO, Corgibytes, Founder, LegacyCode.Rocks    “. . . lightning does strike twice, and this book is proof.” —VM (Vicky) Brasseur, Director of Open Source Strategy, Juniper Networks    The Pragmatic Programmer is one of those rare tech books you’ll read, re-read, and read again over the years. Whether you’re new to the field or an experienced practitioner, you’ll come away with fresh insights each and every time.    Dave Thomas and Andy Hunt wrote the first edition of this influential book in 1999 to help their clients create better software and rediscover the joy of coding. These lessons have helped a generation of programmers examine the very essence of software development, independent of any particular language, framework, or methodology, and the Pragmatic philosophy has spawned hundreds of books, screencasts, and audio books, as well as thousands of careers and success stories.    Now, twenty years later, this new edition re-examines what it means to be a modern programmer. Topics range from personal responsibility and career development to architectural techniques for keeping your code flexible and easy to adapt and reuse. Read this book, and you’ll learn how to:    Fight software rot    Learn continuously    Avoid the trap of duplicating knowledge    Write flexible, dynamic, and adaptable code    Harness the power of basic tools    Avoid programming by coincidence    Learn real requirements    Solve the underlying problems of concurrent code    Guard against security vulnerabilities    Build teams of Pragmatic Programmers    Take responsibility for your work and career    Test ruthlessly and effectively, including property-based testing    Implement the Pragmatic Starter Kit    Delight your users    Written as a series of self-contained sections and filled with classic and fresh anecdotes, thoughtful examples, and interesting analogies, The Pragmatic Programmer illustrates the best approaches and major pitfalls of many different aspects of software development. Whether you’re a new coder, an experienced programmer, or a manager responsible for software projects, use these lessons daily, and you’ll quickly see improvements in personal productivity, accuracy, and job satisfaction. You’ll learn skills and develop habits and attitudes that form the foundation for long-term success in your career.    You’ll become a Pragmatic Programmer.    Register your book for convenient access to downloads, updates, and/or corrections as they become available. See inside book for details.\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "55.0%",
+        "four_star_rate": "34.2%",
+        "three_star_rate": "10.8%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/479657/",
+            "name": "安德鲁·亨特",
+            "role": "作者",
+            "douban_id": "479657"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "486.00元",
+            "link": "https://book.douban.com/link2/?lowest=48600&pre=0&vendor=jingdong&srcpage=subject&price=48600&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olWwcDVFteC0MSM28JGlgXWQ8KUVhaCUgfMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWAG0MElMQWwEDV1ZCUQ5LXl9pcF9ACG5HEjwvTCMfWHVjbTBNWgByWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mH10RVAUyVl5cCU4XC2gLGmsVWwMDV19ZDkwTBG4IK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggTXwYBXVwzVE1ARjVASVh7XQcEU1lZC0knAW4JGVklbTZCEF0FaCtLVhBLZTNcIEVLAh5VWhcSCi9mGRlADkJADA0Jdx9BczlREihFbQUy&cntvendor=1&srcsubj=34466037&type=bkbuy&subject=34466037"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34466037/",
+    "douban_id": "34466037",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33322656.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "David Thomas",
+            "link": "https://book.douban.com/search/David%20Thomas"
+        },
+        {
+            "text": "Andrew Hunt",
+            "link": "https://book.douban.com/search/Andrew%20Hunt"
+        }
+    ],
+    "tag": "经典"
+}

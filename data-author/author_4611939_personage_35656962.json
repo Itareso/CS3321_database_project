@@ -1,0 +1,100 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "驻马店伤心故事集",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34487121.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36237117/",
+                        "year": "2023",
+                        "id": 36237117
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "雪春秋",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34648027.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36563423/",
+                        "year": "2023",
+                        "id": 36563423
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "今夜通宵杀敌",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34026184.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35637684/",
+                        "year": "2021",
+                        "id": 35637684
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "团圆总在离散前",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34021916.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35632071/",
+                        "year": "2021",
+                        "id": 35632071
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "橡皮4：中国先锋文学",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28277493.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26593310/",
+                        "year": "2015",
+                        "id": 26593310
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "芙蓉",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s4207971.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/1829358/",
+                        "year": "",
+                        "id": 1829358
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/4611939/",
+    "author_douban_id": "4611939",
+    "personage_id": 35656962,
+    "name": [
+        "郑在欢",
+        "Zaihuan Zheng"
+    ],
+    "intro": "郑在欢，90后作家， 作品散见于《橡皮》《芙蓉》等。著有短篇作品集《驻马店伤心故事集》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/68d5f7d0d7c5979329d7efb227ec6353.jpg",
+    "sex": 1,
+    "birth_date": 1990,
+    "age": 36,
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

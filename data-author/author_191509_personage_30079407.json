@@ -1,0 +1,100 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "想象海",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34840615.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36827927/",
+                        "year": "2024",
+                        "id": 36827927
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "脱缰之马",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33907555.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35465093/",
+                        "year": "2021",
+                        "id": 35465093
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "蒙着眼睛的旅行者（限量精装钤印本）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29345500.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26975153/",
+                        "year": "2017",
+                        "id": 26975153
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "大象",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29235172.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26721362/",
+                        "year": "2017",
+                        "id": 26721362
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "说部之乱",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28606633.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26303224/",
+                        "year": "2015",
+                        "id": 26303224
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "睡觉大师",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29381742.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/5423777/",
+                        "year": "2011",
+                        "id": 5423777
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/191509/",
+    "author_douban_id": "191509",
+    "personage_id": 30079407,
+    "name": [
+        "朱岳",
+        "Yue Zhu"
+    ],
+    "intro": "朱岳，男，生于1977年。2004年开始小说创作。2006年出版短篇小说集《蒙着眼睛的旅行者》（新星出版社）。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/64cc7ca31f0baa45b3904f26c38d7225.jpg",
+    "sex": 1,
+    "birth_date": 1977,
+    "age": 49,
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

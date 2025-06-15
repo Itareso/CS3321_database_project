@@ -1,0 +1,60 @@
+{
+    "title": "亨利·卡蒂埃-布勒松",
+    "bookInfo": {
+        "作者": "阿苏利纳",
+        "出版社": "浙江摄影出版社",
+        "原作名": "Henri Cartier-Bresson: A Biography",
+        "译者": "徐振锋",
+        "出版年": "2009-4",
+        "页数": "185",
+        "定价": "36.00元",
+        "丛书": "世界摄影大师传记丛书",
+        "ISBN": "9787806867624"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.0%",
+        "four_star_rate": "45.0%",
+        "three_star_rate": "9.0%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/105295/",
+            "name": "徐振锋",
+            "role": "译者",
+            "douban_id": "105295"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "68.00元",
+            "link": "https://book.douban.com/link2/?lowest=6800&pre=0&vendor=jingdong&srcpage=subject&price=6800&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXgAAV1dfAE8XBV8IGloWXQ8LXVpaD0wUAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmwIElIcWQEFU11cFxJSXzI4ehtvBkYcKRg4VjUJWDxefz5hJRgCNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsUXwABUlZYOEkXAm4NG1MSXgcyVFhYCU4fBWcAH1kXVDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlxcWx9FbTMOQQRPCw9JOlxcCEgUBm4KK1kUXAQAZG5tChRxURENbCtpOQV9LRgiVSpiaBZ7WgtnMwRQEz8CTxl_ZBNKcyEUOnQDUm5eOA&cntvendor=1&srcsubj=3726951&type=bkbuy&subject=3726951"
+        }
+    ],
+    "url": "https://book.douban.com/subject/3726951/",
+    "douban_id": "3726951",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s3803279.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "阿苏利纳",
+            "link": "https://book.douban.com/search/%E9%98%BF%E8%8B%8F%E5%88%A9%E7%BA%B3"
+        },
+        {
+            "text": "浙江摄影出版社",
+            "link": "https://book.douban.com/press/2566"
+        },
+        {
+            "text": "徐振锋",
+            "link": "https://book.douban.com/author/105295/"
+        },
+        {
+            "text": "世界摄影大师传记丛书",
+            "link": "https://book.douban.com/series/7097"
+        }
+    ],
+    "tag": "人物传记"
+}

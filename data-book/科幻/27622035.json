@@ -1,0 +1,52 @@
+{
+    "title": "地球省",
+    "bookInfo": {
+        "作者": "龙一",
+        "出版社": "人民文学出版社",
+        "出版年": "2018-1-1",
+        "页数": "320",
+        "装帧": "平装",
+        "ISBN": "9787020132928"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.4%",
+        "four_star_rate": "22.2%",
+        "three_star_rate": "44.4%",
+        "two_star_rate": "11.1%",
+        "one_star_rate": "1.9%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "27.13元",
+            "link": "https://book.douban.com/link2/?lowest=2200&pre=0&vendor=jingdong&srcpage=subject&price=2713&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFgcVQAEXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOKzkmQyt3AxoLTBhXX3oEAiU_TSBzZxBMdVl-NHVlLRUHXEhQRBBvaSAdGhFCWCokcChucCZJbARDBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZ1NVkLVjxFBQwBQw8RDnNEMQQtQwpBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVC0seAmw4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CV1wzVE1BAipQGQV7XQYEXVpeD0onAW4JGVklbTZ9MyUWaCsXdmxfWBkXIQBULzwYYy9zfCtmGTB8LmF7HwQJCwxQfAh6YFNSbQUy&cntvendor=3&srcsubj=27622035&type=bkbuy&subject=27622035"
+        },
+        {
+            "name": "当当网",
+            "price": "24.10元",
+            "link": "https://book.douban.com/link2/?lowest=2200&pre=0&vendor=dangdang&srcpage=subject&price=2410&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s27622035%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25211938&cntvendor=3&srcsubj=27622035&type=bkbuy&subject=27622035"
+        },
+        {
+            "name": "中图网",
+            "price": "22.00元",
+            "link": "https://book.douban.com/link2/?lowest=2200&pre=0&vendor=bookschina&srcpage=subject&price=2200&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7672692.htm&cntvendor=3&srcsubj=27622035&type=bkbuy&subject=27622035"
+        }
+    ],
+    "url": "https://book.douban.com/subject/27622035/",
+    "douban_id": "27622035",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29657654.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "龙一",
+            "link": "https://book.douban.com/search/%E9%BE%99%E4%B8%80"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        }
+    ],
+    "tag": "科幻"
+}

@@ -1,0 +1,51 @@
+{
+    "title": "ORIGIN原型機(01)",
+    "bookInfo": {
+        "作者": "Boichi",
+        "出版社": "台灣東販",
+        "原作名": "ORIGIN",
+        "译者": "林子傑",
+        "出版年": "2018-7-20",
+        "页数": "196",
+        "定价": "NTD120",
+        "装帧": "平装",
+        "丛书": "ORIGIN原型機",
+        "ISBN": "9789864757329"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.8%",
+        "four_star_rate": "42.1%",
+        "three_star_rate": "17.0%",
+        "two_star_rate": "2.7%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4629121/",
+            "name": "Boichi",
+            "role": "作者",
+            "douban_id": "4629121"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/30252067/",
+    "douban_id": "30252067",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29805018.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "Boichi",
+            "link": "https://book.douban.com/author/4629121"
+        },
+        {
+            "text": "林子傑",
+            "link": "https://book.douban.com/search/%E6%9E%97%E5%AD%90%E5%82%91"
+        },
+        {
+            "text": "ORIGIN原型機",
+            "link": "https://book.douban.com/series/44137"
+        }
+    ],
+    "tag": "科幻"
+}

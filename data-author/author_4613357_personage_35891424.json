@@ -1,0 +1,95 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "挑燈看劍：武俠小說史話",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33583824.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34979677/",
+                        "year": "2020",
+                        "id": 34979677
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "降魔修心 : 彩绘西游记",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33305959.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34442242/",
+                        "year": "2019",
+                        "id": 34442242
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "京城侠谭",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29973034.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30427403/",
+                        "year": "2018",
+                        "id": 30427403
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "明月前身",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29973006.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30427386/",
+                        "year": "2018",
+                        "id": 30427386
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "非主流的青春",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29972419.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30426674/",
+                        "year": "2017",
+                        "id": 30426674
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "侠音",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33584246.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34980092/",
+                        "year": "2005",
+                        "id": 34980092
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/4613357/",
+    "author_douban_id": "4613357",
+    "personage_id": 35891424,
+    "name": [
+        "林遥"
+    ],
+    "intro": "林遥，原名郭强，中国作家协会会员，北京作家协会会员，中国武侠文学学会会员，北京影视艺术学会理事，鲁迅文学院第34期高研班学员，老舍文学院第3期高研班学员，第八次全国青年作家创作会代表，第十一次全国文代会代表，非遗项目“评书（北京）”代表性传承人，入选首都第一批优秀中青年文艺人才库、北京文艺人才“百人工程”。文字散见《北京文学》《青年文学》《锺山》《天涯》《中华遗产》《作品》等。出版有长篇小说《京城侠谭》，散文集《明月前身》《非主流的青春》，学术专著《中国武侠小说史话》等。编剧作品《疾风正劲》《烽火长城》等。曾获《北京文学》双年度重点优秀作品奖、孙犁散文奖等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/229a7342d5b684069a65549de0371c6d.jpg",
+    "profession": [
+        "作者"
+    ]
+}

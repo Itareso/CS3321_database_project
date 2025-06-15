@@ -1,0 +1,74 @@
+{
+    "title": "流浪地球",
+    "bookInfo": {
+        "作者": "刘慈欣 原著",
+        "出版社": "中信出版社",
+        "出品方": "漫传奇 / 漫传奇文化",
+        "副标题": "刘慈欣科幻漫画系列第1辑",
+        "原作名": "The Wandering Earth",
+        "译者": "谢倩雪",
+        "出版年": "2020-5",
+        "页数": "136",
+        "定价": "78.00元",
+        "装帧": "平装",
+        "丛书": "刘慈欣科幻漫画系列",
+        "ISBN": "9787521716221"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.1%",
+        "four_star_rate": "44.5%",
+        "three_star_rate": "9.4%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "37.40元",
+            "link": "https://book.douban.com/link2/?lowest=3740&pre=0&vendor=jingdong&srcpage=subject&price=3740&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV0XXgMEU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUlxeDU0QHDZNRwYlH3NyACwPWx51djtdXglIJlB3JyxdaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYEXF9eDU4WM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gVVVRsCFgLCQ4VBC9mG1sSXAUKXFxtCkoWAW04K2tcAFFpND4naB5JZgZ-EidzBkN1B14tTRt5AWgNXgYTNmRKAVlaQRZWZhFgK1gl&cntvendor=3&srcsubj=34983165&type=bkbuy&subject=34983165"
+        },
+        {
+            "name": "当当网",
+            "price": "50.20元",
+            "link": "https://book.douban.com/link2/?lowest=3740&pre=0&vendor=dangdang&srcpage=subject&price=5020&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34983165%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28525627&cntvendor=3&srcsubj=34983165&type=bkbuy&subject=34983165"
+        },
+        {
+            "name": "中图网",
+            "price": "55.60元",
+            "link": "https://book.douban.com/link2/?lowest=3740&pre=0&vendor=bookschina&srcpage=subject&price=5560&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8317881.htm&cntvendor=3&srcsubj=34983165&type=bkbuy&subject=34983165"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34983165/",
+    "douban_id": "34983165",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33601716.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣 原著",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3%20%E5%8E%9F%E8%91%97"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "漫传奇",
+            "link": "https://book.douban.com/producers/711"
+        },
+        {
+            "text": "漫传奇文化",
+            "link": "https://book.douban.com/producers/812"
+        },
+        {
+            "text": "谢倩雪",
+            "link": "https://book.douban.com/search/%E8%B0%A2%E5%80%A9%E9%9B%AA"
+        },
+        {
+            "text": "刘慈欣科幻漫画系列",
+            "link": "https://book.douban.com/series/50609"
+        }
+    ],
+    "tag": "科幻"
+}

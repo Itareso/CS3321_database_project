@@ -1,0 +1,55 @@
+{
+    "title": "聲之形 05",
+    "bookInfo": {
+        "作者": "大今良時 / [日本] 大今良时",
+        "出版社": "東立出版社",
+        "原作名": "聲の形",
+        "译者": "林家祥",
+        "出版年": "2015-7-9",
+        "页数": "192",
+        "定价": "NT$100",
+        "装帧": "平装",
+        "丛书": "聲之形",
+        "ISBN": "9789863657385"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "50.9%",
+        "four_star_rate": "38.1%",
+        "three_star_rate": "9.1%",
+        "two_star_rate": "1.2%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4619516/",
+            "name": "大今良时",
+            "role": "作者",
+            "douban_id": "4619516"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/25950505/",
+    "douban_id": "25950505",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s28280799.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "大今良時",
+            "link": "https://book.douban.com/search/%E5%A4%A7%E4%BB%8A%E8%89%AF%E6%99%82"
+        },
+        {
+            "text": "[日本] 大今良时",
+            "link": "https://book.douban.com/author/4619516"
+        },
+        {
+            "text": "林家祥",
+            "link": "https://book.douban.com/search/%E6%9E%97%E5%AE%B6%E7%A5%A5"
+        },
+        {
+            "text": "聲之形",
+            "link": "https://book.douban.com/series/23547"
+        }
+    ],
+    "tag": "校园"
+}

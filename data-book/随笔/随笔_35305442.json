@@ -1,0 +1,109 @@
+{
+    "title": "江湖（郭德纲新作）",
+    "bookInfo": {
+        "作者": "郭德纲",
+        "出版社": "湖南文艺出版社",
+        "出品方": "博集天卷",
+        "出版年": "2021-1",
+        "页数": "256",
+        "定价": "59.80元",
+        "装帧": "平装",
+        "丛书": "郭论",
+        "ISBN": "9787540498627"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "15.7%",
+        "four_star_rate": "30.4%",
+        "three_star_rate": "45.0%",
+        "two_star_rate": "6.9%",
+        "one_star_rate": "1.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/713306/",
+            "name": "郭德纲",
+            "role": "作者",
+            "douban_id": "713306"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.99元",
+            "link": "https://read.douban.com/ebook/339913198/?dcs=subject-buylink&dcm=douban&dct=35305442"
+        },
+        {
+            "name": "得到",
+            "price": "29.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=DLnMGAEG7gKLyYmkAbPaEXxD8BM4J0Lo1AwROrpdZn19VNzv2o5e6lqjQQ1poxqy&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.90元",
+            "link": "https://book.douban.com/link2/?lowest=2990&pre=0&vendor=jingdong&srcpage=subject&price=2990&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0cXwQBVG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUldfCkgXHDZNRwYlD1tRJFY2Czl0fSdUUBkUAVtgLFxdeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFdaDU0RM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1sWX1VsCFgKSgxJWy5mG1oSVAIGVlptCkoWAW04K2sSAXVQJFstXE5pCipUWS9UGXtgBgQWVQB5ASZaQAduD3xRUSQnDxdxfhNMK1gl&cntvendor=5&srcsubj=35305442&type=bkbuy&subject=35305442"
+        },
+        {
+            "name": "当当网",
+            "price": "57.40元",
+            "link": "https://book.douban.com/link2/?lowest=2990&pre=0&vendor=dangdang&srcpage=subject&price=5740&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35305442%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29176686&cntvendor=5&srcsubj=35305442&type=bkbuy&subject=35305442"
+        },
+        {
+            "name": "中图网",
+            "price": "36.90元",
+            "link": "https://book.douban.com/link2/?lowest=2990&pre=0&vendor=bookschina&srcpage=subject&price=3690&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8481294.htm&cntvendor=5&srcsubj=35305442&type=bkbuy&subject=35305442"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35305442/",
+    "douban_id": "35305442",
+    "menu": [
+        "",
+        "        01 合吾一声镖车走，半年江湖平安回",
+        "        02 护镖法则：镖局业务的套路与反套路",
+        "        03 镖师信条：只要我的镖，不要你的人",
+        "        04 刺配：洗不掉的“文身”，抹不去的耻辱",
+        "        05 中国古代酷刑：带你见识地狱级痛苦",
+        "        06 古代皇帝们弄巧成拙的“谣言扑灭大作战”",
+        "        07 历代选妃记：秀女的素质，决定后宫的架势",
+        "        08 谁说只有“红颜”才能做祸水？",
+        "        09 武则天的皇帝老公李治：窝囊这黑锅，我不背！",
+        "        10 李治和武则天：皇帝和小后妈的恩怨情仇",
+        "        11 御用美男子的诞生：深宫“面首”二三事",
+        "        12 武皇的面首不认输：爱你，也爱你的江山",
+        "        13 清帝：听说你们羡慕朕的御膳？其实朕只想好好吃个饭！",
+        "        14 那些让朕忘不掉也放不下的厨子和美食",
+        "        15 在脸上花的心思，古人不输现代",
+        "        16 国民“瘾”品：专注喝茶 2000 年",
+        "        17 陈世美：千古渣男标签“撕是不撕”？",
+        "        18 大宋人民的现代化生活",
+        "        19 宋朝百姓的“小资生活”：宋人度闲余——“逛吃，夜嗨，吸猫”",
+        "        20 叶天士：我的一生只想救人，不想当“神”",
+        "        21 中国富豪榜：四位大佬站了 3000 多年的“C 位”",
+        "        22民族英雄：你所不知道的嚯嚯嚯嚯霍元甲",
+        "        23你们这些皇上：负了美人，也负了才子（一）",
+        "        24你们这些皇上：负了美人，也负了才子（二）",
+        "        25你们这些皇上：负了美人，也负了才子（三）",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33798433.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "郭德纲",
+            "link": "https://book.douban.com/author/713306"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        },
+        {
+            "text": "博集天卷",
+            "link": "https://book.douban.com/producers/20"
+        },
+        {
+            "text": "郭论",
+            "link": "https://book.douban.com/series/66136"
+        }
+    ],
+    "tag": "随笔"
+}

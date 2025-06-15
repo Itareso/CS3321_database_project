@@ -1,0 +1,170 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "西遊記事変",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35056152.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37110346/",
+                        "year": "2025",
+                        "id": 37110346
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "食南之徒",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34869158.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36900338/",
+                        "year": "2024",
+                        "id": 36900338
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "龍與地下鐵",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s35046825.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37070367/",
+                        "year": "2024",
+                        "id": 37070367
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "草原動物園",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34854062.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36879782/",
+                        "year": "2024",
+                        "id": 36879782
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "长安的荔枝",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34327482.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36104107/",
+                        "year": "2022",
+                        "id": 36104107
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "大医·破晓篇",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34293555.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36069426/",
+                        "year": "2022",
+                        "id": 36069426
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "大医·日出篇",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34358582.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36155568/",
+                        "year": "2022",
+                        "id": 36155568
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "白帝城之夜",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34363640.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36087702/",
+                        "year": "2022",
+                        "id": 36087702
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "风起陇西",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34363639.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36087703/",
+                        "year": "2022",
+                        "id": 36087703
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "官渡杀人事件",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34363638.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36087701/",
+                        "year": "2022",
+                        "id": 36087701
+                    }
+                }
+            ],
+            "total": 56
+        }
+    },
+    "author_link": "https://book.douban.com/author/4577534/",
+    "author_douban_id": "4577534",
+    "personage_id": 27494617,
+    "name": [
+        "马伯庸",
+        "Boyong Ma"
+    ],
+    "intro": "马伯庸（1980~ ），满族。原名马力。内蒙古赤峰人，中国当代作家、编剧，中国作家协会会员，文学创作一级。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27494617/photo/2616015593",
+        "https://www.douban.com/personage/27494617/photo/2616015594",
+        "https://www.douban.com/personage/27494617/photo/2616015596",
+        "https://www.douban.com/personage/27494617/photo/2380021254",
+        "https://www.douban.com/personage/27494617/photo/2616015599"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2616015593.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2616015594.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2616015596.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2380021254.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2616015599.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/f0221380ea6f07ff04f87cce4c884842.jpg",
+    "更多中文名": "马力",
+    "更多外文名": "Marberionius",
+    "sex": 1,
+    "birth_date": 1980,
+    "age": 46,
+    "birth_place": [
+        "中国",
+        "内蒙古",
+        "赤峰"
+    ],
+    "IMDB": "nm10362354",
+    "profession": [
+        "作者",
+        "编剧",
+        "演员",
+        "主持人"
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "洛阳伽蓝记",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s9012761.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/10488582/",
+                        "year": "2022",
+                        "id": 10488582
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "了凡四训",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28849152.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26826003/",
+                        "year": "2016",
+                        "id": 26826003
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "老子",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28277082.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26592816/",
+                        "year": "2015",
+                        "id": 26592816
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.4,
+                        "title": "坛经",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27023985.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/24284144/",
+                        "year": "2013",
+                        "id": 24284144
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "阳羡茗壶系 骨董十三说",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33646136.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/10565749/",
+                        "year": "2012",
+                        "id": 10565749
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "净土四经",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s22717071.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/11026389/",
+                        "year": "2012",
+                        "id": 11026389
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "禅门之路",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27996033.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/25896716/",
+                        "year": "2012",
+                        "id": 25896716
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.6,
+                        "title": "金刚经·心经·坛经",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s10316261.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/4298261/",
+                        "year": "2010",
+                        "id": 4298261
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "四十二章经",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s4376506.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/4843458/",
+                        "year": "2010",
+                        "id": 4843458
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国佛教艺术100讲",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s6195283.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/4937125/",
+                        "year": "2010",
+                        "id": 4937125
+                    }
+                }
+            ],
+            "total": 11
+        }
+    },
+    "author_link": "https://book.douban.com/author/119739/",
+    "author_douban_id": "119739",
+    "personage_id": 30090951,
+    "name": [
+        "尚荣",
+        "Rong Shang"
+    ],
+    "intro": "尚荣，男，汉族，1978年4月生，江苏东台人。哲学博士、南京大学教授。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/cc64e2e6c6ca3dd644b14259625b9858.jpg",
+    "sex": 1,
+    "profession": [
+        "作者",
+        "译者",
+        "编者"
+    ]
+}

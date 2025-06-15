@@ -1,0 +1,77 @@
+{
+    "title": "以爱之名",
+    "bookInfo": {
+        "作者": "[日] 姬野薰子",
+        "出版社": "中信出版社",
+        "出品方": "中信·无界",
+        "原作名": "彼女は頭が悪いから",
+        "译者": "匡匡",
+        "出版年": "2020-10",
+        "页数": "464",
+        "定价": "58.00",
+        "装帧": "平装",
+        "ISBN": "9787521722703"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "32.7%",
+        "four_star_rate": "43.6%",
+        "three_star_rate": "18.2%",
+        "two_star_rate": "3.6%",
+        "one_star_rate": "1.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609810/",
+            "name": "姬野薰子",
+            "role": "作者",
+            "douban_id": "4609810"
+        },
+        {
+            "link": "https://book.douban.com/author/157003/",
+            "name": "匡匡",
+            "role": "译者",
+            "douban_id": "157003"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "37.70元",
+            "link": "https://book.douban.com/link2/?lowest=3770&pre=0&vendor=jingdong&srcpage=subject&price=3770&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQgJK1olXQUHVVhVDEMfC18IGloWWgQKUl9ZAUoVA19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmwPGVMTXAILVVxdFxJSXzI4aBhiGGMKXQg_QSl1SCR2YCJtVGBcNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsWWg8KVG5fCEoWBm8AElIXbQYEUV9eCU4RBWsMHV4lXQ4GZIfdv521kbaWkY6dyjYyZF1tOHsXM2w4RTUUDgEHXF9UWCVLBThKUBtCB2gCVVhUDUMUCl8KGloXXzYyZAoYbghpaiQLHwEXWXwKHDsofhh-QxR2HjUXHFZqEQgeWx4TShJWHx0WJXgyV24&cntvendor=1&srcsubj=35218424&type=bkbuy&subject=35218424"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35218424/",
+    "douban_id": "35218424",
+    "menu": [
+        "",
+        "        序章",
+        "        第一章",
+        "        第二章",
+        "        第三章",
+        "        第四章",
+        "        终章",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33759495.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 姬野薰子",
+            "link": "https://book.douban.com/search/%E5%A7%AC%E9%87%8E%E8%96%B0%E5%AD%90"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "中信·无界",
+            "link": "https://book.douban.com/producers/192"
+        },
+        {
+            "text": "匡匡",
+            "link": "https://book.douban.com/author/157003"
+        }
+    ],
+    "tag": "日本文学"
+}

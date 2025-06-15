@@ -1,0 +1,54 @@
+{
+    "title": "士兵之死",
+    "bookInfo": {
+        "作者": "[美]迈克尔·史蒂文森",
+        "出版社": "生活·读书·新知三联书店 生活书店出版有限公司",
+        "副标题": "世界阵亡简史",
+        "原作名": "The Last Full Measure",
+        "译者": "伍恩莎 译 / 李佳星 校译",
+        "出版年": "2025-1",
+        "装帧": "精装",
+        "丛书": "胜利日",
+        "ISBN": "9787807683377"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": null,
+        "four_star_rate": null,
+        "three_star_rate": null,
+        "two_star_rate": null,
+        "one_star_rate": null
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4642886/",
+            "name": "迈克尔·史蒂文森",
+            "role": "作者",
+            "douban_id": "4642886"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/35268794/",
+    "douban_id": "35268794",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s35043479.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]迈克尔·史蒂文森",
+            "link": "https://book.douban.com/author/4642886"
+        },
+        {
+            "text": "伍恩莎 译",
+            "link": "https://book.douban.com/search/%E4%BC%8D%E6%81%A9%E8%8E%8E%20%E8%AF%91"
+        },
+        {
+            "text": "李佳星 校译",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E4%BD%B3%E6%98%9F%20%E6%A0%A1%E8%AF%91"
+        },
+        {
+            "text": "胜利日",
+            "link": "https://book.douban.com/series/51132"
+        }
+    ],
+    "tag": "军事"
+}

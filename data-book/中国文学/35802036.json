@@ -1,0 +1,76 @@
+{
+    "title": "我们没有秘密",
+    "bookInfo": {
+        "作者": "吴晓乐",
+        "出版社": "中信出版社",
+        "出品方": "大方",
+        "原作名": "我們沒有秘密",
+        "出版年": "2022-5-1",
+        "页数": "356",
+        "定价": "49.8",
+        "装帧": "平装",
+        "ISBN": "9787521739718"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    律师范衍重一直以为他与妻子吴辛屏之间没有秘密。吴辛屏安静又低调，他们之间也一直不怎么提及过去。但妻子一夕之间消失了。范衍重从妻子工作的地方展开调查，越是追查就越陷入重重疑云：妻子声称已过世的母亲突然现身，揭露吴辛屏的过往——她在小镇上曾经出过事。    当年小镇里的名门家庭宋家有两个孩子，性格孤僻古怪的宋怀萱是妹妹，而哥哥宋怀谷面貌俊俏、优秀，是校园风云人物。看似高贵亲密的家庭中暗藏着裂隙。高中大考前，宋怀萱邀请吴辛屏参加宋怀谷的生日派对，而几天后吴辛屏对她的老师说，宋怀谷强暴了她。    这段往事与吴辛屏的失踪有关吗？追查的众人却不约而同地摸索到了宋怀萱这里。这件为小镇人所嗤之以鼻的案件似乎另有隐情。当年事件的主角究竟是谁？那一晚到底发生了什么？    继现象级作品《你的孩子不是你的孩子》后，作家吴晓乐聚焦社会禁忌话题，层层布局、密密织网，试图描摹受害者“我”的复杂内心世界，带领读者沉浸式体会黑暗、绝望的生命体验\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "38.2%",
+        "four_star_rate": "46.2%",
+        "three_star_rate": "13.6%",
+        "two_star_rate": "1.6%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610549/",
+            "name": "吴晓乐",
+            "role": "作者",
+            "douban_id": "4610549"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "34.86元",
+            "link": "https://read.douban.com/ebook/405652311/?dcs=subject-buylink&dcm=douban&dct=35802036"
+        },
+        {
+            "name": "得到",
+            "price": "34.86元",
+            "link": "https://www.dedao.cn/ebook/detail?id=Lk89Yv4kyM12eaG795DmKAponOvLVWvQDg0ZzdbYxN84JQR6XgEqBPljrbpzARlB&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "19.92元",
+            "link": "https://book.douban.com/link2/?lowest=1992&pre=0&vendor=jingdong&srcpage=subject&price=1992&pos=3&url=https%3A%2F%2Fitem.jd.com%2F13669257.html&cntvendor=5&srcsubj=35802036&type=bkbuy&subject=35802036"
+        },
+        {
+            "name": "当当网",
+            "price": "24.90元",
+            "link": "https://book.douban.com/link2/?lowest=1992&pre=0&vendor=dangdang&srcpage=subject&price=2490&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35802036%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29400914&cntvendor=5&srcsubj=35802036&type=bkbuy&subject=35802036"
+        },
+        {
+            "name": "中图网",
+            "price": "36.90元",
+            "link": "https://book.douban.com/link2/?lowest=1992&pre=0&vendor=bookschina&srcpage=subject&price=3690&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8850734.htm&cntvendor=5&srcsubj=35802036&type=bkbuy&subject=35802036"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35802036/",
+    "douban_id": "35802036",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34196729.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "吴晓乐",
+            "link": "https://book.douban.com/author/4610549"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "大方",
+            "link": "https://book.douban.com/producers/37"
+        }
+    ],
+    "tag": "中国文学"
+}

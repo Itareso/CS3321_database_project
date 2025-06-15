@@ -1,0 +1,49 @@
+{
+    "title": "第五部队",
+    "bookInfo": {
+        "作者": "纷舞妖姬",
+        "出版社": "中国友谊出版公司",
+        "出版年": "2008-3",
+        "页数": "376",
+        "定价": "32.00元",
+        "装帧": "平装",
+        "丛书": "第五部队",
+        "ISBN": "9787505720589"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "40.0%",
+        "four_star_rate": "34.0%",
+        "three_star_rate": "20.4%",
+        "two_star_rate": "2.6%",
+        "one_star_rate": "3.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/168326/",
+            "name": "董群",
+            "role": "作者",
+            "douban_id": "168326"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/3042930/",
+    "douban_id": "3042930",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s24033399.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "纷舞妖姬",
+            "link": "https://book.douban.com/author/168326/"
+        },
+        {
+            "text": "中国友谊出版公司",
+            "link": "https://book.douban.com/press/2416"
+        },
+        {
+            "text": "第五部队",
+            "link": "https://book.douban.com/series/51884"
+        }
+    ],
+    "tag": "军事"
+}

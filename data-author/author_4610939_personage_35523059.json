@@ -1,0 +1,60 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "少年、胭脂与灵怪",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33943986.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35520784/",
+                        "year": "2021",
+                        "id": 35520784
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "侦探小说家的未来之书",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33772182.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35217668/",
+                        "year": "2020",
+                        "id": 35217668
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "苔",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s32323469.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/33423373/",
+                        "year": "2019",
+                        "id": 33423373
+                    }
+                }
+            ],
+            "total": 3
+        }
+    },
+    "author_link": "https://book.douban.com/author/4610939/",
+    "author_douban_id": "4610939",
+    "personage_id": 35523059,
+    "name": [
+        "周恺"
+    ],
+    "intro": "1990年生于四川乐山。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/4ee69ea2900d4321a16ef654c725ee4f.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "title": "撒野 3",
+    "bookInfo": {
+        "作者": "巫哲",
+        "出版社": "江苏凤凰文艺出版社",
+        "副标题": "撒野完结篇",
+        "出版年": "2020-5-7",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "丛书": "撒野",
+        "ISBN": "9787559439482"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "73.7%",
+        "four_star_rate": "19.3%",
+        "three_star_rate": "5.1%",
+        "two_star_rate": "0.8%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/321870/",
+            "name": "巫哲",
+            "role": "作者",
+            "douban_id": "321870"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "32.37元",
+            "link": "https://book.douban.com/link2/?lowest=3236&pre=0&vendor=jingdong&srcpage=subject&price=3236&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFISXAAFVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVlcDkwWHDZNRwYlFQF_Lhc1DCx0WBlbbxgVIU1SMVk1XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4CVllYCUIRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgNsCFgHUxdEWDRmGFMcXgUBUVdtCkoWAW04K2tdHmZpXD5VVA1Td25OUCheX1ZqLgU4CjB5ATlRZRhCNmRfEjw_QAhJZR8OK1gl&cntvendor=1&srcsubj=35058847&type=bkbuy&subject=35058847"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35058847/",
+    "douban_id": "35058847",
+    "menu": [
+        "",
+        "        一 回！头！啊！",
+        "        二 春草暖阳",
+        "        三 丞哥",
+        "        四 我在啊",
+        "        五 我要赢那壶酒",
+        "        番　外",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33914673.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "巫哲",
+            "link": "https://book.douban.com/author/321870"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "撒野",
+            "link": "https://book.douban.com/series/47054"
+        }
+    ],
+    "tag": "校园"
+}

@@ -1,0 +1,60 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "雾岛夜随",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33553990.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34899025/",
+                        "year": "2020",
+                        "id": 34899025
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "大象",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29235172.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26721362/",
+                        "year": "2017",
+                        "id": 26721362
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/4627352/",
+    "author_douban_id": "4627352",
+    "personage_id": 36687688,
+    "name": [
+        "不流"
+    ],
+    "intro": "不流，1984年生于合肥。曾参与创办保罗的口袋书店、占川书局等，编著《大象·新象限》（安徽教育出版社，合编），出版有短篇小说集《雾岛夜随》（后浪·四川文艺出版社）。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/36687688/photo/2902110781",
+        "https://www.douban.com/personage/36687688/photo/2902110780",
+        "https://www.douban.com/personage/36687688/photo/2902110778"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2902110781.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2902110780.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2902110778.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/64f53e51b42700e6da6ccce2afab1b4a.jpg",
+    "sex": 1,
+    "birth_place": [
+        "合肥"
+    ],
+    "profession": [
+        "作者",
+        "编者"
+    ]
+}

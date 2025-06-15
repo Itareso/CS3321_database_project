@@ -1,0 +1,67 @@
+{
+    "title": "学徒",
+    "bookInfo": {
+        "作者": "[美] 苔丝·格里森",
+        "出版社": "新星出版社",
+        "译者": "王冉",
+        "出版年": "2023-4",
+        "页数": "380",
+        "定价": "56.00元",
+        "装帧": "平装",
+        "丛书": "午夜文库：苔丝·格里森作品",
+        "ISBN": "9787513351225"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    ◎全球销量突破三千万册、被翻译成四十种语言、被《出版人周刊》誉为“医学悬疑天后”、《史蒂芬·金谈写作》书单推荐作家——苔丝·格里森代表作。    ◎美剧《妙女神探》系列原著小说。    ◎警探×法医 VS. 外科医生×主宰者，2V2的强强对决。    ◎作者有从医背景，对法医解剖的细节描绘生动、真实。    ◎好莱坞大片的快节奏追凶，紧张刺激的一分钟营救，戏剧张力十足，层层反转。    ------------------------------------------------    ★内容介绍    又是一个酷热难耐的波士顿夏天。    惨死家中的丈夫腿边散落着茶杯碎片，曝尸荒野的妻子身上有死后被侵犯的痕迹。    警探简·里佐利和法医莫拉·艾尔斯联合探案，发现这名被称为“主宰者”的凶手似乎与身处牢狱的杀人魔“外科医生”有着某种联系。    联邦调查局迪恩探员的介入让里佐利心绪大乱，雪上加霜的是，传来了“外科医生”越狱的消息。两名终极杀手已合作犯案，而他们的下一个目标，正是里佐利！\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "13.6%",
+        "four_star_rate": "39.5%",
+        "three_star_rate": "43.8%",
+        "two_star_rate": "2.5%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4621023/",
+            "name": "苔丝·格里森",
+            "role": "作者",
+            "douban_id": "4621023"
+        },
+        {
+            "link": "https://book.douban.com/author/4626980/",
+            "name": "王冉",
+            "role": "译者",
+            "douban_id": "4626980"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "46.99元",
+            "link": "https://read.douban.com/ebook/435755153/?dcs=subject-buylink&dcm=douban&dct=36194204"
+        },
+        {
+            "name": "得到",
+            "price": "46.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=V5R16yPmaYOMqGRAv82jkX4KDe175w7jQ7R3rbx6pNgznl9VZPLJQyEBodb89mqo&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "30.80元",
+            "link": "https://book.douban.com/link2/?lowest=3080&pre=0&vendor=jingdong&srcpage=subject&price=3080&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQIJK1olXwIEVFxdAE8SBV8IGVMQXQ4GVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAXFtdAE8WHDZNRwYlFQ5XIl8EThJyBAlOeBNxCH13CCsHaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXQ4GXVtdAE0eM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1gdWwRsCFgKVxUfCmtmE1McWAQKXW5fCUoVAV84KxtSBEJSFxUfTx9WQgxbGiR-XwVpCj4WXSUQQykBXAlRInN0PRgdTxNWXBY4GGs&cntvendor=5&srcsubj=36194204&type=bkbuy&subject=36194204"
+        },
+        {
+            "name": "当当网",
+            "price": "31.50元",
+            "link": "https://book.douban.com/link2/?lowest=3080&pre=0&vendor=dangdang&srcpage=subject&price=3150&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36194204%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29560673&cntvendor=5&srcsubj=36194204&type=bkbuy&subject=36194204"
+        },
+        {
+            "name": "中图网",
+            "price": "38.50元",
+            "link": "https://book.douban.com/link2/?lowest=3080&pre=0&vendor=bookschina&srcpage=subject&price=3850&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9108278.htm&cntvendor=5&srcsubj=36194204&type=bkbuy&subject=36194204"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36194204/",
+    "douban_id": "36194204",
+    "menu": [],
+    "tag": "小说"
+}

@@ -1,0 +1,46 @@
+{
+    "title": "流浪の月",
+    "bookInfo": {
+        "作者": "凪良 ゆう",
+        "出版社": "東京創元社",
+        "出版年": "2019-8-30",
+        "页数": "320",
+        "定价": "JPY 1620",
+        "装帧": "単行本",
+        "ISBN": "9784488028022"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.3%",
+        "four_star_rate": "35.3%",
+        "three_star_rate": "22.5%",
+        "two_star_rate": "3.9%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4624186/",
+            "name": "凪良汐",
+            "role": "作者",
+            "douban_id": "4624186"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "125.00元",
+            "link": "https://book.douban.com/link2/?lowest=12500&pre=0&vendor=jingdong&srcpage=subject&price=12500&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQsJK1olXwIEVFxdAE8SBV8IGVoUXAcCXF9YCU0nRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCkoWAm4IE1oQXAAdDRsBVXsQaxV-UyccLmNBKg1UUkhkdRwBWR51UQoyU1taDkweAGg4G18UWQIyZF5cOBl529m-w_6kQdKo24vVn3sVA24JHlsdWgUDZF5bDUoUAmoPHFocWwYyVFZZOJKXtLmqiYKL19OKw25tOEgnM18IK1glA2gDB1lYWEpHAgFUHQxXFA5LADBdCU0RB2YBHGsXXAcAVm5tOABFVG94ElJjPQRqKDgiXB5_SxJDSygRDWgACwIZWhQXVDVoaVNNJ2NUMQFtC3s&cntvendor=1&srcsubj=34444343&type=bkbuy&subject=34444343"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34444343/",
+    "douban_id": "34444343",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33449416.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "凪良 ゆう",
+            "link": "https://book.douban.com/search/%E5%87%AA%E8%89%AF%20%E3%82%86%E3%81%86"
+        }
+    ],
+    "tag": "日本文学"
+}

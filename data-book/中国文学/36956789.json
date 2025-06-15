@@ -1,0 +1,59 @@
+{
+    "title": "一路生花",
+    "bookInfo": {
+        "作者": "杨妞花",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "欣梦享",
+        "出版年": "2024-7",
+        "定价": "59.8元",
+        "装帧": "平装",
+        "ISBN": "9787559487391"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "67.5%",
+        "four_star_rate": "27.8%",
+        "three_star_rate": "3.9%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4638063/",
+            "name": "杨妞花",
+            "role": "作者",
+            "douban_id": "4638063"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "35.90元",
+            "link": "https://book.douban.com/link2/?lowest=3590&pre=0&vendor=jingdong&srcpage=subject&price=3590&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlgRWAELVm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOPDweUC93fApVfAlRBXVjCVwvVilqVRxXdVkdXVFgNwYPURZUQAdqcAQRLRFCWCokaChjYBhWbTJpBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZ4N1oZaUIJUQ9AQzgVXUAELi4EYDlBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVV1UDkwRAGs4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQcAAVwzVE1AQCgIEht7XQcGU19YAUMnAW4JGVklbTZqNh0FbCtoZjJvSR9NLmdfViwDajZBcDBmGVMVCmRhDAwEVQhUaw1jRF9lbQUy&cntvendor=2&srcsubj=36956789&type=bkbuy&subject=36956789"
+        },
+        {
+            "name": "当当网",
+            "price": "41.20元",
+            "link": "https://book.douban.com/link2/?lowest=3590&pre=0&vendor=dangdang&srcpage=subject&price=4120&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36956789%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29779187&cntvendor=2&srcsubj=36956789&type=bkbuy&subject=36956789"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36956789/",
+    "douban_id": "36956789",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s35000009.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "杨妞花",
+            "link": "https://book.douban.com/search/%E6%9D%A8%E5%A6%9E%E8%8A%B1"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "欣梦享",
+            "link": "https://book.douban.com/producers/635"
+        }
+    ],
+    "tag": "中国文学"
+}

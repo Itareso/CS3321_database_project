@@ -1,0 +1,59 @@
+{
+    "title": "罗斯福",
+    "bookInfo": {
+        "作者": "[美]詹姆斯·麦格雷戈·伯恩斯",
+        "出版社": "商务印书馆",
+        "副标题": "自由的战士（1940—1945）",
+        "译者": "马继森",
+        "出版年": "2015-12",
+        "页数": "780",
+        "定价": "116.00",
+        "装帧": "平装",
+        "丛书": "世界名人传记丛书",
+        "ISBN": "9787100102667"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.3%",
+        "four_star_rate": "39.4%",
+        "three_star_rate": "21.2%",
+        "two_star_rate": "6.1%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "101.91元",
+            "link": "https://book.douban.com/link2/?lowest=9310&pre=0&vendor=jingdong&srcpage=subject&price=10191&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF8cXAIHVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUFdcDE4WHDZNRwYlH3h4P1s-UDx0VXUSel5tNm5EHQAdeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4FV15eAUoXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFkSClNsCFgHVBMeR2xmGVoUVQQHUVxtCkoWAW04K2tlOGNAKlsgUElqfwtSGlgVAlxBVw42SjR5AQl8XT5NHwQCVhsYeC5JQjJOK1gl&cntvendor=2&srcsubj=25708978&type=bkbuy&subject=25708978"
+        },
+        {
+            "name": "当当网",
+            "price": "93.10元",
+            "link": "https://book.douban.com/link2/?lowest=9310&pre=0&vendor=dangdang&srcpage=subject&price=9310&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25708978%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27850403&cntvendor=2&srcsubj=25708978&type=bkbuy&subject=25708978"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25708978/",
+    "douban_id": "25708978",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s28664027.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美]詹姆斯·麦格雷戈·伯恩斯",
+            "link": "https://book.douban.com/search/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E9%BA%A6%E6%A0%BC%E9%9B%B7%E6%88%88%C2%B7%E4%BC%AF%E6%81%A9%E6%96%AF"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "马继森",
+            "link": "https://book.douban.com/search/%E9%A9%AC%E7%BB%A7%E6%A3%AE"
+        },
+        {
+            "text": "世界名人传记丛书",
+            "link": "https://book.douban.com/series/20760"
+        }
+    ],
+    "tag": "人物传记"
+}

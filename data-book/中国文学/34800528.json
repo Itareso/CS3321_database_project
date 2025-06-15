@@ -1,0 +1,90 @@
+{
+    "title": "鲁迅小说全集：狂人日记",
+    "bookInfo": {
+        "作者": "鲁迅",
+        "出版社": "万卷出版公司",
+        "出版年": "2019-8-20",
+        "页数": "407",
+        "定价": "48.00",
+        "装帧": "平装",
+        "ISBN": "9787547049198"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "80.5%",
+        "four_star_rate": "16.0%",
+        "three_star_rate": "3.2%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "45.80元",
+            "link": "https://book.douban.com/link2/?lowest=2160&pre=0&vendor=jingdong&srcpage=subject&price=4580&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13051589.html&cntvendor=2&srcsubj=34800528&type=bkbuy&subject=34800528"
+        },
+        {
+            "name": "中图网",
+            "price": "21.60元",
+            "link": "https://book.douban.com/link2/?lowest=2160&pre=0&vendor=bookschina&srcpage=subject&price=2160&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8160060.htm&cntvendor=2&srcsubj=34800528&type=bkbuy&subject=34800528"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34800528/",
+    "douban_id": "34800528",
+    "menu": [
+        "",
+        "        呐 喊",
+        "        003 自序",
+        "        009 狂人日记",
+        "        021 孔乙己",
+        "        026药",
+        "        036 明天",
+        "        043 一件小事",
+        "        046 头发的故事",
+        "        052 风波",
+        "        061 故乡",
+        "        072 阿 Q 正传",
+        "        113 端午节",
+        "        122 白光",
+        "        128 兔和猫",
+        "        133 鸭的喜剧",
+        "        137 社戏",
+        "        彷 徨",
+        "        151 祝福",
+        "        168 在酒楼上",
+        "        179 幸福的家庭",
+        "        187 肥皂",
+        "        198 长明灯",
+        "        210 示众",
+        "        216 高老夫子",
+        "        226 孤独者",
+        "        248 伤逝",
+        "        268 弟兄",
+        "        280 离婚",
+        "        故事新编",
+        "        293 序言",
+        "        296 补天",
+        "        306 奔月",
+        "        318 理水",
+        "        334 采薇",
+        "        353 铸剑",
+        "        373 出关",
+        "        384 非攻",
+        "        397 起死",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33461829.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "鲁迅",
+            "link": "https://book.douban.com/search/%E9%B2%81%E8%BF%85"
+        },
+        {
+            "text": "万卷出版公司",
+            "link": "https://book.douban.com/press/2729"
+        }
+    ],
+    "tag": "中国文学"
+}

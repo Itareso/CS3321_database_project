@@ -1,0 +1,92 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "体内火焰",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33921939.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35476760/",
+                        "year": "2021",
+                        "id": 35476760
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "活食",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33643215.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34993228/",
+                        "year": "2020",
+                        "id": 34993228
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "That We May Live",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33755645.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35249988/",
+                        "year": "2020",
+                        "id": 35249988
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "冒牌人生",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s30023469.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/30486757/",
+                        "year": "2019",
+                        "id": 30486757
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "接下来，我问，你答",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28289719.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26428578/",
+                        "year": "2015",
+                        "id": 26428578
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4608475/",
+    "author_douban_id": "4608475",
+    "personage_id": 30116969,
+    "name": [
+        "陈思安",
+        "Si'an Chen"
+    ],
+    "intro": "陈思安，作家、戏剧编导。出版有短篇小说集《活食》（2020），《冒牌人生》（2019），《接下来，我问，你答》（2015）等。戏剧编剧作品《冒牌人生》《药》《海水火锅》《在荒野》等。戏剧导演作品《随黄公望游富春山》《吃火》等。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30116969/photo/2902783845"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2902783845.webp"
+    ],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/cb86cbde9f01165b9e7ee1b667966a36.jpg",
+    "sex": 0,
+    "birth_date": 1986,
+    "age": 40,
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

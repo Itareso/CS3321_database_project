@@ -1,0 +1,87 @@
+{
+    "title": "玩家1号",
+    "bookInfo": {
+        "作者": "[美] 恩斯特·克莱恩",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "原作名": "Ready Player One",
+        "译者": "虞北冥",
+        "出版年": "2018-3",
+        "页数": "463",
+        "定价": "88.00",
+        "装帧": "平装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536489745"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "32.6%",
+        "four_star_rate": "38.0%",
+        "three_star_rate": "24.2%",
+        "two_star_rate": "3.2%",
+        "one_star_rate": "2.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4608813/",
+            "name": "恩斯特·克莱恩",
+            "role": "作者",
+            "douban_id": "4608813"
+        },
+        {
+            "link": "https://book.douban.com/author/4617737/",
+            "name": "虞北冥",
+            "role": "译者",
+            "douban_id": "4617737"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "30.99元",
+            "link": "https://read.douban.com/ebook/168994321/?dcs=subject-buylink&dcm=douban&dct=30140370"
+        },
+        {
+            "name": "京东商城",
+            "price": "44.00元",
+            "link": "https://book.douban.com/link2/?lowest=4400&pre=0&vendor=jingdong&srcpage=subject&price=4400&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFkWWAUFXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOLSQKUjtIf2prUB1hJXVFElo8eBJnBBIBdVl8L054JwQNCShLXxZyU1lKORFCWCokcCtgWhhKbFlDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZxPQ0hfzlpag1oXwdCVXlVCwIADhhBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcBVFdYC0sVAWY4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHU1YzVE1BA2oOQAR7XQYFVlpcAEsnAW4JGVklbTZ7LgkHeBRrBgxDXS9tLkFEUD8tUTsQfmZmGTJnFXxxDg5caxdLehVAGQRxbQUy&cntvendor=4&srcsubj=30140370&type=bkbuy&subject=30140370"
+        },
+        {
+            "name": "当当网",
+            "price": "84.50元",
+            "link": "https://book.douban.com/link2/?lowest=4400&pre=0&vendor=dangdang&srcpage=subject&price=8450&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30140370%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25244947&cntvendor=4&srcsubj=30140370&type=bkbuy&subject=30140370"
+        },
+        {
+            "name": "中图网",
+            "price": "63.50元",
+            "link": "https://book.douban.com/link2/?lowest=4400&pre=0&vendor=bookschina&srcpage=subject&price=6350&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7728232.htm&cntvendor=4&srcsubj=30140370&type=bkbuy&subject=30140370"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30140370/",
+    "douban_id": "30140370",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29712719.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 恩斯特·克莱恩",
+            "link": "https://book.douban.com/author/4608813"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "虞北冥",
+            "link": "https://book.douban.com/search/%E8%99%9E%E5%8C%97%E5%86%A5"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

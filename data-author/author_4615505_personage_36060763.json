@@ -1,0 +1,36 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "中国文学史",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34384940.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35870980/",
+                        "year": "2022",
+                        "id": 35870980
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4615505/",
+    "author_douban_id": "4615505",
+    "personage_id": 36060763,
+    "name": [
+        "黑川洋一",
+        "Yoichi Kurokawa"
+    ],
+    "intro": "黑川洋一（1925— ）出生在广岛县。1951年毕业于京都大学文学部中国文学科，为大阪四天王寺女子大学助教授，大阪大学教养部教授，1979年获京都大学文学博士学位。1989年退休，为名誉教授。著有《杜甫研究》等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "profession": [
+        "编者"
+    ]
+}

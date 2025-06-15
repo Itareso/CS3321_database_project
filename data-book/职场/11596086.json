@@ -1,0 +1,42 @@
+{
+    "title": "最佳猎头的秘密",
+    "bookInfo": {
+        "作者": "乔治·安德斯",
+        "译者": "全虹",
+        "出版年": "2012-8",
+        "页数": "237",
+        "定价": "36.00元",
+        "ISBN": "9787512329799"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.7%",
+        "four_star_rate": "33.3%",
+        "three_star_rate": "45.8%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "4.2%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.68元",
+            "link": "https://book.douban.com/link2/?lowest=3168&pre=0&vendor=jingdong&srcpage=subject&price=3168&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070652089225.html&cntvendor=1&srcsubj=11596086&type=bkbuy&subject=11596086"
+        }
+    ],
+    "url": "https://book.douban.com/subject/11596086/",
+    "douban_id": "11596086",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s21572427.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "乔治·安德斯",
+            "link": "https://book.douban.com/search/%E4%B9%94%E6%B2%BB%C2%B7%E5%AE%89%E5%BE%B7%E6%96%AF"
+        },
+        {
+            "text": "全虹",
+            "link": "https://book.douban.com/search/%E5%85%A8%E8%99%B9"
+        }
+    ],
+    "tag": "职场"
+}

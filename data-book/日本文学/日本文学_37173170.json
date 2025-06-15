@@ -1,0 +1,74 @@
+{
+    "title": "山茶的情书",
+    "bookInfo": {
+        "作者": "[日] 小川糸",
+        "出版社": "湖南文艺出版社",
+        "出品方": "博集天卷",
+        "出版年": "2025-1",
+        "页数": "352",
+        "定价": "56",
+        "装帧": "平装",
+        "丛书": "小川糸作品",
+        "ISBN": "9787572621918"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "36.5%",
+        "four_star_rate": "50.6%",
+        "three_star_rate": "9.4%",
+        "two_star_rate": "2.4%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/306981/",
+            "name": "小川糸",
+            "role": "作者",
+            "douban_id": "306981"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "28.00元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=jingdong&srcpage=subject&price=2800&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZkJK1olXwILUFdYD04XBV8IHlMUWgMGV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEQonYyt3ZGhsSQMTPVJVPDoldRFWAW8NdVlMBgRWNjUocy9ncypeeQxWIBFCWCokaBtgcBBIbCJtBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZgJjohdgJEXQoWT1tCORxJPx9HAQ1RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVBsVF9cCUoWB2gNHWsXXQcDUV5VD0gWM28OHloWXAUKV1pfDkgnA2cMK4KV6tCgxofDgp6flF84K1glbTYCV25eOBV5AjwPHg8UWAdsCFgKSw0UQTdmG1oSWAUCU1dtCkoWAW04K2tQCXxpND46Dy9FW2loTwx9OX5_Dh9fCE55ATZTGQ93NnN5MC4tTR11VCx1K1gl&cntvendor=2&srcsubj=37173170&type=bkbuy&subject=37173170"
+        },
+        {
+            "name": "中图网",
+            "price": "38.00元",
+            "link": "https://book.douban.com/link2/?lowest=2800&pre=0&vendor=bookschina&srcpage=subject&price=3800&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9491865.htm&cntvendor=2&srcsubj=37173170&type=bkbuy&subject=37173170"
+        }
+    ],
+    "url": "https://book.douban.com/subject/37173170/",
+    "douban_id": "37173170",
+    "menu": [
+        "",
+        "        紫阳花 001",
+        "        金木樨 071",
+        "        山茶 143",
+        "        明日叶 213",
+        "        莲 277",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s35060462.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 小川糸",
+            "link": "https://book.douban.com/author/306981"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        },
+        {
+            "text": "博集天卷",
+            "link": "https://book.douban.com/producers/20"
+        },
+        {
+            "text": "小川糸作品",
+            "link": "https://book.douban.com/series/55851"
+        }
+    ],
+    "tag": "日本文学"
+}

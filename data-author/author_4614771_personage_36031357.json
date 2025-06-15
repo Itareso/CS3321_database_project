@@ -1,0 +1,129 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "当我们重返世界",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34652198.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36572613/",
+                        "year": "2023",
+                        "id": 36572613
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "水下之人",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34612861.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36478383/",
+                        "year": "2023",
+                        "id": 36478383
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "利马之梦",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34042370.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35547058/",
+                        "year": "2021",
+                        "id": 35547058
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "Norms, Storytelling and International Institutions in China",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33887470.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35405795/",
+                        "year": "2021",
+                        "id": 35405795
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "走出孤岛",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33639436.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35047243/",
+                        "year": "2020",
+                        "id": 35047243
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "单读·十周年特辑",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33551724.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34842466/",
+                        "year": "2019",
+                        "id": 34842466
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "新新新青年",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33451785.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/34661945/",
+                        "year": "2019",
+                        "id": 34661945
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "新北京人",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29633382.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27194515/",
+                        "year": "2018",
+                        "id": 27194515
+                    }
+                }
+            ],
+            "total": 8
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614771/",
+    "author_douban_id": "4614771",
+    "personage_id": 36031357,
+    "name": [
+        "吕晓宇",
+        "Xiaoyu Lü"
+    ],
+    "intro": "吕晓宇，湖北武汉人，青年作家、学者，英国牛津大学博士，澳大利亚国立大学研究员，曾供职于联合国，从事冲突协调和国际发展的工作。现任北京大学国际关系学院助理教授。长期进行评论和非虚构写作，作品见于《单读》、《小说界》、洛杉矶书评中国频道，《三联生活周刊》、澎湃新闻、《卫报》（The Guardian）、《外交家》（The Diplomat）等。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/efdb08d2ebf096bb920f0f47ed308d9f.jpg",
+    "更多中文名": "晓宇",
+    "sex": 1,
+    "birth_date": 1991,
+    "age": 35,
+    "birth_place": [
+        "中国",
+        "湖北",
+        "武汉"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

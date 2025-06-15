@@ -1,0 +1,106 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "一个死后成名的画家又回来了",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34454279.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36249413/",
+                        "year": "2023",
+                        "id": 36249413
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "不正常人类症候群",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33595769.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34996117/",
+                        "year": "2020",
+                        "id": 34996117
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "我们这个世界的羊",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33514121.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/34878890/",
+                        "year": "2019",
+                        "id": 34878890
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "昨日重现",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29542607.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27068270/",
+                        "year": "2017",
+                        "id": 27068270
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.2,
+                        "title": "我们从未陌生过",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28289738.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/26599193/",
+                        "year": "2015",
+                        "id": 26599193
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "猫饭奇妙物语",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28063835.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26369156/",
+                        "year": "2015",
+                        "id": 26369156
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/311413/",
+    "author_douban_id": "311413",
+    "personage_id": 30073028,
+    "name": [
+        "张寒寺",
+        "Hansi Zhang"
+    ],
+    "intro": "重庆万州人。小说家。编剧。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/5f433143823a6964b95d1079f6f17755.jpg",
+    "sex": 1,
+    "birth_date": 1988,
+    "age": 38,
+    "birth_place": [
+        "中国",
+        "重庆",
+        "万州"
+    ],
+    "IMDB": "nm14613117",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

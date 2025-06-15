@@ -1,0 +1,167 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "酒徒",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34836046.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36627602/",
+                        "year": "2024",
+                        "id": 36627602
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "刘以鬯文集第8卷 故事新编",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34995986.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37101138/",
+                        "year": "2024",
+                        "id": 37101138
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "岛与半岛·对倒",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34990305.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37093352/",
+                        "year": "2024",
+                        "id": 37093352
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "私恋·酒徒",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34989933.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37092943/",
+                        "year": "2024",
+                        "id": 37092943
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "刘以鬯文集（全十二卷）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34944973.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36924041/",
+                        "year": "2024",
+                        "id": 36924041
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "劉以鬯手稿：郵票裏的文學世界",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34918377.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36968362/",
+                        "year": "2024",
+                        "id": 36968362
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "他有一把锋利的小刀·吧女",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34990304.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37093351/",
+                        "year": "2024",
+                        "id": 37093351
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "郵票",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s35021131.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37136765/",
+                        "year": "2024",
+                        "id": 37136765
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "刘以鬯文集第7卷 中篇小说",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34996033.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37101261/",
+                        "year": "2024",
+                        "id": 37101261
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "围墙·陶瓷",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34990302.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37093350/",
+                        "year": "2024",
+                        "id": 37093350
+                    }
+                }
+            ],
+            "total": 45
+        }
+    },
+    "author_link": "https://book.douban.com/author/145451/",
+    "author_douban_id": "145451",
+    "personage_id": 27496475,
+    "name": [
+        "刘以鬯",
+        "Yi-chang Liu"
+    ],
+    "intro": "刘以鬯，曾主编过《国民公报》、《香港时报》、《星岛周报》、《西点》等报刊杂志。他曾获香港特别行政区政府颁授荣誉勋章他一直致力于严肃文学的创作，其著名小说《对倒》，引发香港大导演王家卫拍摄成电影《花样年华》。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27496475/photo/2524608935",
+        "https://www.douban.com/personage/27496475/photo/2524608934",
+        "https://www.douban.com/personage/27496475/photo/2524608805",
+        "https://www.douban.com/personage/27496475/photo/2524608797",
+        "https://www.douban.com/personage/27496475/photo/2524608802"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2524608935.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2524608934.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2524608805.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2524608797.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2524608802.webp"
+    ],
+    "main_image": "https://img2.doubanio.com/view/celebrity/m/public/p1494935949.81.jpg",
+    "更多中文名": "刘同绎 / 刘昌年",
+    "sex": 1,
+    "birth_date": 1918,
+    "death_date": 2018,
+    "age": 101,
+    "birth_place": [
+        "中国",
+        "上海"
+    ],
+    "IMDB": "nm3331081",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

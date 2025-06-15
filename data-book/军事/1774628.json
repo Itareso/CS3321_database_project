@@ -1,0 +1,44 @@
+{
+    "title": "高地",
+    "bookInfo": {
+        "作者": "徐贵祥",
+        "出版社": "长江文艺出版社",
+        "出版年": "2006",
+        "页数": "287",
+        "定价": "25.00元",
+        "装帧": "平装",
+        "ISBN": "9787535432483"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.9%",
+        "four_star_rate": "37.5%",
+        "three_star_rate": "38.0%",
+        "two_star_rate": "6.0%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4506099/",
+            "name": "徐贵祥",
+            "role": "作者",
+            "douban_id": "4506099"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1774628/",
+    "douban_id": "1774628",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s1645792.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "徐贵祥",
+            "link": "https://book.douban.com/author/4506099"
+        },
+        {
+            "text": "长江文艺出版社",
+            "link": "https://book.douban.com/press/2807"
+        }
+    ],
+    "tag": "军事"
+}

@@ -1,0 +1,71 @@
+{
+    "title": "金阁寺",
+    "bookInfo": {
+        "作者": "[日]三岛由纪夫",
+        "出版社": "辽宁人民出版社",
+        "原作名": "金閣寺",
+        "译者": "陈德文",
+        "出版年": "2021-2",
+        "页数": "360",
+        "定价": "38.00",
+        "装帧": "平装",
+        "丛书": "一頁文库·三岛由纪夫作品",
+        "ISBN": "9787205100674"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "49.8%",
+        "four_star_rate": "36.8%",
+        "three_star_rate": "11.3%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4508171/",
+            "name": "三岛由纪夫",
+            "role": "作者",
+            "douban_id": "4508171"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "19.76元",
+            "link": "https://book.douban.com/link2/?lowest=1976&pre=0&vendor=jingdong&srcpage=subject&price=1976&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVgUXAMGV24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAV19cDU8UHDZNRwYlWGRnJz47Y093fDdAHCUSA0VaUhw0aEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAUVtYDk0WM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFJGX1FsCFgKSk0RWS5mG1oQWAECU1ZtCkoWAW04K2tsJ1FYJAEhDShcRQROQiRUWmd5MlcnbUx5AQZ6UyFmB1YDNwIBcTFFZS5sK1gl&cntvendor=3&srcsubj=35324326&type=bkbuy&subject=35324326"
+        },
+        {
+            "name": "当当网",
+            "price": "38.00元",
+            "link": "https://book.douban.com/link2/?lowest=1976&pre=0&vendor=dangdang&srcpage=subject&price=3800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35324326%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29224015&cntvendor=3&srcsubj=35324326&type=bkbuy&subject=35324326"
+        },
+        {
+            "name": "中图网",
+            "price": "23.40元",
+            "link": "https://book.douban.com/link2/?lowest=1976&pre=0&vendor=bookschina&srcpage=subject&price=2340&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8536818.htm&cntvendor=3&srcsubj=35324326&type=bkbuy&subject=35324326"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35324326/",
+    "douban_id": "35324326",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33832309.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日]三岛由纪夫",
+            "link": "https://book.douban.com/search/%E4%B8%89%E5%B2%9B%E7%94%B1%E7%BA%AA%E5%A4%AB"
+        },
+        {
+            "text": "辽宁人民出版社",
+            "link": "https://book.douban.com/press/2669"
+        },
+        {
+            "text": "陈德文",
+            "link": "https://book.douban.com/search/%E9%99%88%E5%BE%B7%E6%96%87"
+        },
+        {
+            "text": "一頁文库·三岛由纪夫作品",
+            "link": "https://book.douban.com/series/55597"
+        }
+    ],
+    "tag": "日本文学"
+}

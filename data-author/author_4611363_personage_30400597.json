@@ -1,0 +1,108 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.6,
+                        "title": "幼稚园：你们人类的爱情真难攻破",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33461934.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/34800726/",
+                        "year": "2019",
+                        "id": 34800726
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.4,
+                        "title": "青春是一本仓促的书，我们流着泪一读再读",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29749454.jpg",
+                        "rating_star": 2.5,
+                        "url": "https://book.douban.com/subject/30203961/",
+                        "year": "2018",
+                        "id": 30203961
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 5.7,
+                        "title": "没有孤独是可耻的",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29348882.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/26976215/",
+                        "year": "2017",
+                        "id": 26976215
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.2,
+                        "title": "凹凸相对论",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28377566.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/26702561/",
+                        "year": "2016",
+                        "id": 26702561
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "每一个认真生活的人，都值得被认真对待",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28544275.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26754089/",
+                        "year": "2016",
+                        "id": 26754089
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4611363/",
+    "author_douban_id": "4611363",
+    "personage_id": 30400597,
+    "name": [
+        "傅首尔",
+        "Shou'er Fu"
+    ],
+    "intro": "傅首尔，资深广告人，简书、片刻常驻作家。米未传媒签约艺人，2012年出版长篇小说《青春是一本仓促的书，我们流着泪一读再读》，并售出影视版权。 2014年，出版长篇小说《我见青春多妩媚》。2015年，国内首本情感类CP作品《凹凸相对论》上市。 2017年参加《奇葩大会》 ，后参加《奇葩说》遗珠赛成功晋级，成为《奇葩说》辩手中的黑马段子手。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30400597/photo/2574129548",
+        "https://www.douban.com/personage/30400597/photo/2888853750",
+        "https://www.douban.com/personage/30400597/photo/2870839787",
+        "https://www.douban.com/personage/30400597/photo/2870839786",
+        "https://www.douban.com/personage/30400597/photo/2870839785"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2574129548.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2888853750.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2870839787.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2870839786.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2870839785.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/celebrity/m/public/p5AjLgJAFNpscel_avatar_uploaded1544025295.33.jpg",
+    "sex": 0,
+    "birth_date": 1984,
+    "age": 42,
+    "birth_place": [
+        "中国",
+        "安徽"
+    ],
+    "family_member": "刘毅(前夫)",
+    "IMDB": "nm11266717",
+    "profession": [
+        "演员",
+        "主持人",
+        "制片人",
+        "作者"
+    ]
+}

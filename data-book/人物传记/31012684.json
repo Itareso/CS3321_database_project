@@ -1,0 +1,89 @@
+{
+    "title": "张爱玲传",
+    "bookInfo": {
+        "作者": "含瑛",
+        "出版社": "中国华侨出版社",
+        "出版年": "2018-5-1",
+        "页数": "244",
+        "定价": "20.00元",
+        "装帧": "精装",
+        "ISBN": "9787511375155"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "23.1%",
+        "four_star_rate": "42.0%",
+        "three_star_rate": "32.4%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "9.90元",
+            "link": "https://read.douban.com/ebook/122739330/?dcs=subject-buylink&dcm=douban&dct=31012684"
+        },
+        {
+            "name": "得到",
+            "price": "9.90元",
+            "link": "https://www.dedao.cn/ebook/detail?id=ORa2P4NNLqmQPG2178z5gvkDndlOxWy8LP0ajK6BEVXYRrJpA9M4oybeZpqAKQgj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "1.00元",
+            "link": "https://book.douban.com/link2/?lowest=100&pre=0&vendor=jingdong&srcpage=subject&price=100&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olVQEGUFxaDEMeM2gAHlMXVAEFUFtUOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocU1ZYAEkeBGgMHlIKBENeCW5fCEN_azJWSztnHQdHCipdYyJNai94F1clWgMFUllUC0wnA2sJH18lbQYDZB8zD04TC2YLK1kVXAcHVFZaC0onA2kNGl4dVQYHXFheDnsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpECmlfSwtCM1oEDgBVDwAfbW0JG10QXgcLZFxcCUkVM184XAB2LgQHNxUpDjZxcxBhXwwcLU5hVD4HZkkRAQRTXyhdBHJ9AjsYDioQeV8LKw&cntvendor=4&srcsubj=31012684&type=bkbuy&subject=31012684"
+        },
+        {
+            "name": "中图网",
+            "price": "10.00元",
+            "link": "https://book.douban.com/link2/?lowest=100&pre=0&vendor=bookschina&srcpage=subject&price=1000&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7960314.htm&cntvendor=4&srcsubj=31012684&type=bkbuy&subject=31012684"
+        }
+    ],
+    "url": "https://book.douban.com/subject/31012684/",
+    "douban_id": "31012684",
+    "menu": [
+        "",
+        "        落尽繁花",
+        "        夕阳无限好",
+        "        挂在斜阳外的命运",
+        "        没有时间的钟",
+        "        行将奔走的灵魂",
+        "        背影，记忆里的香气",
+        "        舂日迟迟",
+        "        暮色里相依为命",
+        "        父亲的馈赠",
+        "        一刹那的悲与喜",
+        "        朱红的快乐",
+        "        向左or向右",
+        "        我的心像一根木头",
+        "        不可挽回的脚步",
+        "        晴天霹雳",
+        "        看不见的网",
+        "        总有撒手的一日",
+        "        澌澌流走的青春",
+        "        该来的总会来",
+        "        扑朔迷离的前程",
+        "        月色也癫狂",
+        "        在你的心里睡着月亮光",
+        "        鞋里的沙粒",
+        "        ……",
+        "        一出没有结局的戏",
+        "        花至茶？",
+        "        太平洋的风",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33519592.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "含瑛",
+            "link": "https://book.douban.com/search/%E5%90%AB%E7%91%9B"
+        },
+        {
+            "text": "中国华侨出版社",
+            "link": "https://book.douban.com/press/2830"
+        }
+    ],
+    "tag": "人物传记"
+}

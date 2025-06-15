@@ -1,0 +1,58 @@
+{
+    "title": "罗生门",
+    "bookInfo": {
+        "作者": "【日】芥川龙之介",
+        "出版社": "北京联合出版公司",
+        "译者": "静远",
+        "出版年": "2020-1",
+        "页数": "184",
+        "定价": "36.00元",
+        "装帧": "简装本",
+        "ISBN": "9787559638526"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.9%",
+        "four_star_rate": "42.6%",
+        "three_star_rate": "20.2%",
+        "two_star_rate": "1.8%",
+        "one_star_rate": "1.5%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "10.40元",
+            "link": "https://book.douban.com/link2/?lowest=1000&pre=0&vendor=jingdong&srcpage=subject&price=1040&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13554886.html&cntvendor=3&srcsubj=35250869&type=bkbuy&subject=35250869"
+        },
+        {
+            "name": "当当网",
+            "price": "36.90元",
+            "link": "https://book.douban.com/link2/?lowest=1000&pre=0&vendor=dangdang&srcpage=subject&price=3690&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35250869%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29736074&cntvendor=3&srcsubj=35250869&type=bkbuy&subject=35250869"
+        },
+        {
+            "name": "中图网",
+            "price": "10.00元",
+            "link": "https://book.douban.com/link2/?lowest=1000&pre=0&vendor=bookschina&srcpage=subject&price=1000&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8302995.htm&cntvendor=3&srcsubj=35250869&type=bkbuy&subject=35250869"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35250869/",
+    "douban_id": "35250869",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33756221.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "【日】芥川龙之介",
+            "link": "https://book.douban.com/search/%E8%8A%A5%E5%B7%9D%E9%BE%99%E4%B9%8B%E4%BB%8B"
+        },
+        {
+            "text": "北京联合出版公司",
+            "link": "https://book.douban.com/press/2478"
+        },
+        {
+            "text": "静远",
+            "link": "https://book.douban.com/search/%E9%9D%99%E8%BF%9C"
+        }
+    ],
+    "tag": "日本文学"
+}

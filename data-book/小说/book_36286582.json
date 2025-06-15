@@ -1,0 +1,73 @@
+{
+    "title": "生而为人",
+    "bookInfo": {
+        "作者": "毕啸南",
+        "出版社": "湖南文艺出版社",
+        "出品方": "博集天卷",
+        "出版年": "2023-3",
+        "页数": "264",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "ISBN": "9787572610332"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.6%",
+        "four_star_rate": "41.1%",
+        "three_star_rate": "19.8%",
+        "two_star_rate": "3.0%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4633630/",
+            "name": "毕啸南",
+            "role": "作者",
+            "douban_id": "4633630"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "39.99元",
+            "link": "https://read.douban.com/ebook/432683441/?dcs=subject-buylink&dcm=douban&dct=36286582"
+        },
+        {
+            "name": "得到",
+            "price": "49.80元",
+            "link": "https://www.dedao.cn/ebook/detail?id=JblNOdGPBpZdjEgmN4JLq7yaRvKV206mZVKw1roMz6xYX5QDG8l9bnOeAkey1g25&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "27.39元",
+            "link": "https://book.douban.com/link2/?lowest=2739&pre=0&vendor=jingdong&srcpage=subject&price=2739&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVIXWgMEUW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOJDs4SjUSfjcKZid1IHF_Vg4HXxkeBTx4dVlzKUBnDBxfCElSRh9tbylLGxFCWCokdBhgShBIbAR1BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZjHQ00czNUdQ1_WzxGCQIGKgAKbktRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFdVCk8RB2k4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRA1kzVE1AQjdSTh17XQcBU1pYDkknAW4JGVklbTZyMTsfdk5qW211ZztoKnsABAQKWkIRUB9mGT1hG2NaFlxdCg5Scwp8aQVTbQUy&cntvendor=5&srcsubj=36286582&type=bkbuy&subject=36286582"
+        },
+        {
+            "name": "当当网",
+            "price": "47.80元",
+            "link": "https://book.douban.com/link2/?lowest=2739&pre=0&vendor=dangdang&srcpage=subject&price=4780&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36286582%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29520770&cntvendor=5&srcsubj=36286582&type=bkbuy&subject=36286582"
+        },
+        {
+            "name": "中图网",
+            "price": "30.40元",
+            "link": "https://book.douban.com/link2/?lowest=2739&pre=0&vendor=bookschina&srcpage=subject&price=3040&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9028206.htm&cntvendor=5&srcsubj=36286582&type=bkbuy&subject=36286582"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36286582/",
+    "douban_id": "36286582",
+    "menu": [
+        "",
+        "        浮生如树  001",
+        "        小香港  031",
+        "        美人迟暮  057",
+        "        小团圆  083",
+        "        小河与海  107",
+        "        跪么跪  135",
+        "        一条路  159",
+        "        好似初相识  187",
+        "        没有一株麦子不热爱春天  217",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

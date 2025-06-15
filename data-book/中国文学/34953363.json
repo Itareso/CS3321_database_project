@@ -1,0 +1,55 @@
+{
+    "title": "人生",
+    "bookInfo": {
+        "作者": "路遥",
+        "出版社": "北京十月文艺出版社",
+        "出品方": "十月文化",
+        "出版年": "2020-1",
+        "页数": "256",
+        "定价": "45.00元",
+        "装帧": "精装",
+        "ISBN": "9787530217061"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "55.7%",
+        "four_star_rate": "35.5%",
+        "three_star_rate": "8.1%",
+        "two_star_rate": "0.6%",
+        "one_star_rate": "0.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4513024/",
+            "name": "路遥",
+            "role": "作者",
+            "douban_id": "4513024"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "22.50元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=jingdong&srcpage=subject&price=2250&pos=1&url=https%3A%2F%2Fitem.jd.com%2F12983506.html&cntvendor=1&srcsubj=34953363&type=bkbuy&subject=34953363"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34953363/",
+    "douban_id": "34953363",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33585754.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "路遥",
+            "link": "https://book.douban.com/search/%E8%B7%AF%E9%81%A5"
+        },
+        {
+            "text": "北京十月文艺出版社",
+            "link": "https://book.douban.com/press/2194"
+        },
+        {
+            "text": "十月文化",
+            "link": "https://book.douban.com/producers/38"
+        }
+    ],
+    "tag": "中国文学"
+}

@@ -1,0 +1,39 @@
+{
+    "title": "Project Hail Mary",
+    "bookInfo": {
+        "作者": "Andy Weir",
+        "出版社": "Penguin Random House",
+        "出版年": "2021-5-4",
+        "页数": "496",
+        "装帧": "Ebook",
+        "ISBN": "9780593135211"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    A lone astronaut must save the earth from disaster in this incredible new science-based thriller from the #1 New York Times bestselling author of The Martian.    Ryland Grace is the sole survivor on a desperate, last-chance mission--and if he fails, humanity and the earth itself will perish.    Except that right now, he doesn't know that. He can't even remember his own name, let alone the nature of his assignment or how to complete it.    All he knows is that he's been asleep for a very, very long time. And he's just been awakened to find himself millions of miles from home, with nothing but two corpses for company.    His crewmates dead, his memories fuzzily returning, he realizes that an impossible task now confronts him. Alone on this tiny ship that's been cobbled together by every government and space agency on the planet and hurled into the depths of space, it's up to him to conquer an extinction-level threat to our species.    And thanks to an unexpected ally, he just might have a chance.    Part scientific mystery, part dazzling interstellar journey, Project Hail Mary is a tale of discovery, speculation, and survival to rival The Martian--while taking us to places it never dreamed of going.\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "65.9%",
+        "four_star_rate": "26.7%",
+        "three_star_rate": "6.2%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/449279/",
+            "name": "安迪·威尔",
+            "role": "作者",
+            "douban_id": "449279"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/35171006/",
+    "douban_id": "35171006",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33703896.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "Andy Weir",
+            "link": "https://book.douban.com/search/Andy%20Weir"
+        }
+    ],
+    "tag": "科幻"
+}

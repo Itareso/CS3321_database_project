@@ -1,0 +1,81 @@
+{
+    "title": "闲情偶寄",
+    "bookInfo": {
+        "作者": "李渔",
+        "出版社": "中华书局",
+        "译者": "杜书瀛",
+        "出版年": "2022-7-20",
+        "页数": "868",
+        "定价": "66.00",
+        "装帧": "精装",
+        "丛书": "中华经典名著全本全注全译丛书",
+        "ISBN": "9787101098068"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "46.8%",
+        "four_star_rate": "40.4%",
+        "three_star_rate": "10.1%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4537536/",
+            "name": "李渔",
+            "role": "作者",
+            "douban_id": "4537536"
+        },
+        {
+            "link": "https://book.douban.com/author/4518767/",
+            "name": "杜书瀛",
+            "role": "译者",
+            "douban_id": "4518767"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "35.40元",
+            "link": "https://www.dedao.cn/eBook/ekM2z5Kexap9AKyJEz8DOYn6GNrV20KGEo0dgbRXq1Qvlj7P5ZmoMkLB47y6ONAv?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "51.29元",
+            "link": "https://book.douban.com/link2/?lowest=4720&pre=0&vendor=jingdong&srcpage=subject&price=5129&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF4VXgUHUm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUV5eC04RHDZNRwYlNlMDPA0DYQ50SxlvcAAQA2dlKQtdTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcHUFhYCEITM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVNsCFgKSgxAAzhmG1oSVA8CVVptCkoWAW04K2tKX1lhND41ThBScTNrTw5PKFRfVhUEUD95ASRBUFlvPlhRDygrV0lVBjZNK1gl&cntvendor=4&srcsubj=25916709&type=bkbuy&subject=25916709"
+        },
+        {
+            "name": "当当网",
+            "price": "66.00元",
+            "link": "https://book.douban.com/link2/?lowest=4720&pre=0&vendor=dangdang&srcpage=subject&price=6600&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25916709%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25326717&cntvendor=4&srcsubj=25916709&type=bkbuy&subject=25916709"
+        },
+        {
+            "name": "中图网",
+            "price": "47.20元",
+            "link": "https://book.douban.com/link2/?lowest=4720&pre=0&vendor=bookschina&srcpage=subject&price=4720&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7896041.htm&cntvendor=4&srcsubj=25916709&type=bkbuy&subject=25916709"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25916709/",
+    "douban_id": "25916709",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34663172.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李渔",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E6%B8%94"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "杜书瀛",
+            "link": "https://book.douban.com/search/%E6%9D%9C%E4%B9%A6%E7%80%9B"
+        },
+        {
+            "text": "中华经典名著全本全注全译丛书",
+            "link": "https://book.douban.com/series/4103"
+        }
+    ],
+    "tag": "随笔"
+}

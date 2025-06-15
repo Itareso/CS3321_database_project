@@ -1,0 +1,35 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "鯨路回潮",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34981536.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37078243/",
+                        "year": "2024",
+                        "id": 37078243
+                    }
+                }
+            ],
+            "total": 1
+        }
+    },
+    "author_link": "https://book.douban.com/author/4629176/",
+    "author_douban_id": "4629176",
+    "personage_id": 36752099,
+    "name": [
+        "龚万莹"
+    ],
+    "intro": "生于厦门鼓浪屿，青年作家，著有小说集《岛屿的厝》。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/d2af2a3cabec697abbbf1cb39925c3c6.jpg",
+    "profession": [
+        "作者"
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "title": "德川家康",
+    "bookInfo": {
+        "作者": "[日] 火坂雅志",
+        "出版社": "山东文艺出版社",
+        "出品方": "果麦文化",
+        "原作名": "天下家康伝",
+        "译者": "何晓毅",
+        "出版年": "2020-11",
+        "页数": "600",
+        "定价": "69.80元",
+        "装帧": "平装",
+        "ISBN": "9787532961382"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.5%",
+        "four_star_rate": "40.1%",
+        "three_star_rate": "29.2%",
+        "two_star_rate": "3.8%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/1068671/",
+            "name": "火坂雅志",
+            "role": "作者",
+            "douban_id": "1068671"
+        },
+        {
+            "link": "https://book.douban.com/author/4627471/",
+            "name": "何晓毅",
+            "role": "译者",
+            "douban_id": "4627471"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "34.90元",
+            "link": "https://book.douban.com/link2/?lowest=2540&pre=0&vendor=jingdong&srcpage=subject&price=3490&pos=1&url=https%3A%2F%2Fitem.jd.com%2F13077032.html&cntvendor=2&srcsubj=35062525&type=bkbuy&subject=35062525"
+        },
+        {
+            "name": "中图网",
+            "price": "25.40元",
+            "link": "https://book.douban.com/link2/?lowest=2540&pre=0&vendor=bookschina&srcpage=subject&price=2540&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8453494.htm&cntvendor=2&srcsubj=35062525&type=bkbuy&subject=35062525"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35062525/",
+    "douban_id": "35062525",
+    "menu": [
+        "",
+        "        序章",
+        "        第一章 暴动",
+        "        第二章 男女",
+        "        第三章 新的战斗",
+        "        第四章 进路",
+        "        第五章 上京",
+        "        第六章 征战",
+        "        第七章 三方原",
+        "        第八章 生死",
+        "        第九章 藤花",
+        "        第十章 相克",
+        "        第十一章 浮云",
+        "        第十二章 纷乱的足音",
+        "        第十三章 穿越伊贺",
+        "        第十四章 阿茶",
+        "        第十五章 秀吉",
+        "        第十六章 小牧、长久手之战",
+        "        第十七章 上洛",
+        "        第十八章 藏牙",
+        "        第十九章 目标",
+        "        第二十章 天下",
+        "        终章",
+        "        《德川家康》连载后记",
+        "        为\"凡人\"树碑立传（译后记）",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33772264.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 火坂雅志",
+            "link": "https://book.douban.com/author/1068671"
+        },
+        {
+            "text": "山东文艺出版社",
+            "link": "https://book.douban.com/press/2644"
+        },
+        {
+            "text": "果麦文化",
+            "link": "https://book.douban.com/producers/10"
+        },
+        {
+            "text": "何晓毅",
+            "link": "https://book.douban.com/author/4627471"
+        }
+    ],
+    "tag": "日本文学"
+}

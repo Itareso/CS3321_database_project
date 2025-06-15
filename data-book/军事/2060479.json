@@ -1,0 +1,39 @@
+{
+    "title": "火蓝刀锋",
+    "bookInfo": {
+        "作者": "冯骥",
+        "出版社": "中国人民解放军出版社",
+        "出版年": "2007-4",
+        "页数": "402",
+        "定价": "35.00元",
+        "ISBN": "9787503320347"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "28.7%",
+        "four_star_rate": "30.1%",
+        "three_star_rate": "30.1%",
+        "two_star_rate": "7.4%",
+        "one_star_rate": "3.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4641785/",
+            "name": "冯骥",
+            "role": "作者",
+            "douban_id": "4641785"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/2060479/",
+    "douban_id": "2060479",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s5765603.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "冯骥",
+            "link": "https://book.douban.com/author/4641785"
+        }
+    ],
+    "tag": "军事"
+}

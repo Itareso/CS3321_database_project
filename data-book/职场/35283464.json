@@ -1,0 +1,117 @@
+{
+    "title": "做出好选择",
+    "bookInfo": {
+        "作者": "马华兴 / 王鹏",
+        "出版社": "中国友谊出版公司",
+        "出版年": "2021-1-1",
+        "定价": "58.00元",
+        "装帧": "精装",
+        "ISBN": "9787505750807"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.5%",
+        "four_star_rate": "35.5%",
+        "three_star_rate": "21.9%",
+        "two_star_rate": "6.1%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "30.40元",
+            "link": "https://read.douban.com/ebook/167227411/?dcs=subject-buylink&dcm=douban&dct=35283464"
+        },
+        {
+            "name": "得到",
+            "price": "30.40元",
+            "link": "https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0RMPkw8XDBK9qZpgkRELd75z4Ma6oDRrqjY&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "38.90元",
+            "link": "https://book.douban.com/link2/?lowest=2190&pre=0&vendor=jingdong&srcpage=subject&price=3890&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVoRXQELUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAVVpdD0ISHDZNRwYlG05wVyspABt3ejdXcgwXKlVFXCQnXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUFlVCkMRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGA9GWQNsCFgHVw1UBWxmGVoWXg4LU1ZtCkoWAW04K2tTBXBaMz4KTQtDVjAMexlnAgN3UDU4bRh5AT9KEgN9BQVAFCYlThN1BWkOK1gl&cntvendor=5&srcsubj=35283464&type=bkbuy&subject=35283464"
+        },
+        {
+            "name": "当当网",
+            "price": "38.90元",
+            "link": "https://book.douban.com/link2/?lowest=2190&pre=0&vendor=dangdang&srcpage=subject&price=3890&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35283464%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29169394&cntvendor=5&srcsubj=35283464&type=bkbuy&subject=35283464"
+        },
+        {
+            "name": "中图网",
+            "price": "21.90元",
+            "link": "https://book.douban.com/link2/?lowest=2190&pre=0&vendor=bookschina&srcpage=subject&price=2190&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8473477.htm&cntvendor=5&srcsubj=35283464&type=bkbuy&subject=35283464"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35283464/",
+    "douban_id": "35283464",
+    "menu": [
+        "",
+        "        01 风口上的猪，是飞得更高还是摔得更惨",
+        "        人工智能时代来临，哪些是低危职业／ 003",
+        "        “斜杠”会成为未来年轻人职业发展的趋势吗／ 010",
+        "        自由职业者如何发展职业／ 015",
+        "        考上公务员该怎么发展职业／ 023",
+        "        在中小家族企业该如何发展职业／ 031",
+        "        进修学历对职场提升有帮助吗／ 038",
+        "        专家和管理，哪个更有利于职业发展／ 045",
+        "        通才和专才，哪个更值钱／ 053",
+        "        02 理想与面包，究竟哪个更重要",
+        "        我对未来很迷茫，怎么办／ 061",
+        "        工作选择该听父母的意见吗／ 069",
+        "        按自己的天赋优势去求职，失败了怎么办／ 075",
+        "        面试不被录用，除了能力还有哪些原因／ 081",
+        "        努力拼搏赚钱，还是平淡生活，随遇而安／ 088",
+        "        努力找自己喜欢的工作，还是喜欢上自己的工作／ 093",
+        "        工作十几年一直找不到自己的理想怎么办／ 099",
+        "        30 岁之前要确定职业方向，否则就没机会了吗 ／ 104",
+        "        03 飞来横锅，应该怎么应对",
+        "        领导总是针对我怎么办／ 113",
+        "        沟通中无意和上级起了冲突怎么办／ 119",
+        "        如何成为领导喜欢的下属／ 125",
+        "        工作中为什么往往“会说的”人占便宜／ 132",
+        "        如何判断领导是在培养你，还是在压榨你／ 138",
+        "        领导给我的岗位，和我自己的发展目标冲突怎么办／ 144",
+        "        跟客户的意见有冲突，应该坚持自己的专业判断，",
+        "        还是听客户的／ 150",
+        "        领导不兑现奖励承诺怎么办／ 155",
+        "        04 百转千回，如何更进一步",
+        "        为什么我很努力了，就是赚不到钱／ 165",
+        "        听了很多课，看了很多书，为什么生活",
+        "        还是没有大的改变／ 169",
+        "        我的颜值不高，该怎么发展／ 175",
+        "        在大城市打拼如何发展自己的人脉／ 182",
+        "        怎么让公司更多的人，特别是大老板认识我／ 188",
+        "        在公司里是该追求升职还是加薪／ 194",
+        "        05 走还是留？这一直是个问题",
+        "        刚入职有激情，工作半年后激情不在想离开，",
+        "        怎么办／ 201",
+        "        手头的项目不受重视，没有资源，又必须要做，",
+        "        怎么办／ 208",
+        "        行业在走下坡路，我应该走还是留／ 213",
+        "        原有部门取消并入新部门，该留下还是离开／ 220",
+        "        如何为可能的裁员准备PLAN B ／ 227",
+        "        老公说，“别工作了，养你一辈子”，该信吗／ 235",
+        "        事业上升期突然怀孕，该怎么办／ 241",
+        "        后 记／ 246",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33775563.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "马华兴",
+            "link": "https://book.douban.com/search/%E9%A9%AC%E5%8D%8E%E5%85%B4"
+        },
+        {
+            "text": "王鹏",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E9%B9%8F"
+        },
+        {
+            "text": "中国友谊出版公司",
+            "link": "https://book.douban.com/press/2416"
+        }
+    ],
+    "tag": "职场"
+}

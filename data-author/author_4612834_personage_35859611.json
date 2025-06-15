@@ -1,0 +1,147 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "东方童谣",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34926110.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36990936/",
+                        "year": "2024",
+                        "id": 36990936
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "中国节日绘本（全5册）",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35062602.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37205518/",
+                        "year": "2024",
+                        "id": 37205518
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.4,
+                        "title": "一园青菜成了精",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34150356.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/35801638/",
+                        "year": "2022",
+                        "id": 35801638
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "勇敢的胆小鬼",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34367961.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36161088/",
+                        "year": "2022",
+                        "id": 36161088
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "飞扬的心",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34139922.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35789324/",
+                        "year": "2022",
+                        "id": 35789324
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.8,
+                        "title": "游侠小木客：决战屠龙谷",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33792793.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35310698/",
+                        "year": "2021",
+                        "id": 35310698
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.9,
+                        "title": "游侠小木客：消失的记忆",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33792486.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35310699/",
+                        "year": "2021",
+                        "id": 35310699
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "游侠小木客：秘境大逃亡",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33935671.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35506913/",
+                        "year": "2021",
+                        "id": 35506913
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "游侠小木客：神山新纪元",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33935673.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/35494644/",
+                        "year": "2021",
+                        "id": 35494644
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "月亮月亮停一停",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33884795.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35377463/",
+                        "year": "2021",
+                        "id": 35377463
+                    }
+                }
+            ],
+            "total": 63
+        }
+    },
+    "author_link": "https://book.douban.com/author/4612834/",
+    "author_douban_id": "4612834",
+    "personage_id": 35859611,
+    "name": [
+        "熊亮",
+        "Liang Xiong"
+    ],
+    "intro": "熊亮。中国知名原创绘本大师。创作过《京剧猫》、《南瓜和尚南瓜庙》等作品，作品获台湾开卷最佳童书奖，深受孩子们的喜爱。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/d1867d09ba258926d168bcf97678a6a3.jpg",
+    "sex": 1,
+    "profession": [
+        "作者",
+        "绘者",
+        "编者"
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "好时光悄悄溜走 迟子建 四十年散文精选",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35047777.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/37170393/",
+                        "year": "2025",
+                        "id": 37170393
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "微澜文库：在维港看落日",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s35066743.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/37212500/",
+                        "year": "2025",
+                        "id": 37212500
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 4.0,
+                        "rating_num": 7.8,
+                        "title": "东北故事集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34752564.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/36717432/",
+                        "year": "2024",
+                        "id": 36717432
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 0,
+                        "rating_num": 0,
+                        "title": "女性文学“短经典”",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/36841127/",
+                        "year": "2024",
+                        "id": 36841127
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 4.5,
+                        "rating_num": 8.9,
+                        "title": "额尔古纳河右岸",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34706908.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/36222072/",
+                        "year": "2023",
+                        "id": 36222072
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 4.0,
+                        "rating_num": 8.4,
+                        "title": "白雪乌鸦",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34555393.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/36215951/",
+                        "year": "2023",
+                        "id": 36215951
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 4.0,
+                        "rating_num": 8.1,
+                        "title": "伪满洲国",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34607694.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/36472371/",
+                        "year": "2023",
+                        "id": 36472371
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 4.0,
+                        "rating_num": 8.3,
+                        "title": "也是冬天，也是春天：升级彩插版",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34415237.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/36246962/",
+                        "year": "2023",
+                        "id": 36246962
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 4.5,
+                        "rating_num": 8.6,
+                        "title": "一坛猪油",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34662441.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/35857856/",
+                        "year": "2022",
+                        "id": 35857856
+                    }
+                },
+                {
+                    "subject": {
+                        "rating_star": 4.0,
+                        "rating_num": 7.6,
+                        "title": "我的世界下雪了",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34069752.jpg",
+                        "subtype": "book",
+                        "url": "https://book.douban.com/subject/35703188/",
+                        "year": "2022",
+                        "id": 35703188
+                    }
+                }
+            ],
+            "total": 112
+        }
+    },
+    "author_link": "https://book.douban.com/author/110109/",
+    "author_douban_id": "110109",
+    "personage_id": 27576042,
+    "name": [
+        "迟子建",
+        "Zijian Chi"
+    ],
+    "intro": "迟子建，中国女作家，出生于中国最北端的黑龙江省漠河县的北极村，2008年凭借《额尔古纳河右岸》荣膺第七届茅盾文学奖，是中国具有广泛影响力的作家之一。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27576042/photo/2332866677",
+        "https://www.douban.com/personage/27576042/photo/2904010893",
+        "https://www.douban.com/personage/27576042/photo/2904010898",
+        "https://www.douban.com/personage/27576042/photo/2905004695",
+        "https://www.douban.com/personage/27576042/photo/2904010894"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2332866677.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2904010893.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2904010898.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2905004695.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2904010894.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/681a2349f03fbd5bdd3f3f9b8394790a.jpg",
+    "sex": 0,
+    "birth_date": 1964,
+    "age": 62,
+    "birth_place": [
+        "中国",
+        "黑龙江",
+        "漠河"
+    ],
+    "IMDB": "nm15323844",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

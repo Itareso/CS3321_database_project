@@ -1,0 +1,60 @@
+{
+    "title": "吾家小史",
+    "bookInfo": {
+        "作者": "余秋雨",
+        "出版社": "作家出版社",
+        "出版年": "2013-9",
+        "页数": "372",
+        "定价": "49.80元",
+        "装帧": "平装",
+        "丛书": "文化苦旅全书",
+        "ISBN": "9787506370370"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "33.1%",
+        "four_star_rate": "41.2%",
+        "three_star_rate": "24.3%",
+        "two_star_rate": "1.5%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4502473/",
+            "name": "余秋雨",
+            "role": "作者",
+            "douban_id": "4502473"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.39元",
+            "link": "https://book.douban.com/link2/?lowest=2639&pre=0&vendor=jingdong&srcpage=subject&price=2639&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IG1kWXQ8KV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOFBkETBtUSC1PTxpmKVplIxVfeDZTcW1tdVxVGw9FBhoifT1-RS9PGhN9JBFCWCokfCtgWgxUbSJtBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZjXSMvCx1PWQxKSx0UOnBaUyAJTANBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcHXFpUC0MTA2o4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQcAAVwzVE1NXz8IGBp7Xg4KXF1aC0InAW4JGVklbTZCEwcZWAhcQShcWihhAWF1H1wtdQ9lAQpmHBtTVEFQECEofiJRQygJUzNsbQUy&cntvendor=2&srcsubj=25766610&type=bkbuy&subject=25766610"
+        },
+        {
+            "name": "当当网",
+            "price": "28.70元",
+            "link": "https://book.douban.com/link2/?lowest=2639&pre=0&vendor=dangdang&srcpage=subject&price=2870&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25766610%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23370183&cntvendor=2&srcsubj=25766610&type=bkbuy&subject=25766610"
+        }
+    ],
+    "url": "https://book.douban.com/subject/25766610/",
+    "douban_id": "25766610",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s27130855.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "余秋雨",
+            "link": "https://book.douban.com/author/4502473"
+        },
+        {
+            "text": "作家出版社",
+            "link": "https://book.douban.com/press/2768"
+        },
+        {
+            "text": "文化苦旅全书",
+            "link": "https://book.douban.com/series/10587"
+        }
+    ],
+    "tag": "回忆录"
+}

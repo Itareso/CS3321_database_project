@@ -1,0 +1,50 @@
+{
+    "title": "易碎品",
+    "bookInfo": {
+        "作者": "何袜皮",
+        "出版社": "台海出版社",
+        "出品方": "知乎BOOK",
+        "出版年": "2023-12",
+        "页数": "400",
+        "定价": "68.00",
+        "装帧": "平装",
+        "ISBN": "9787516836156"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "19.0%",
+        "four_star_rate": "48.2%",
+        "three_star_rate": "28.0%",
+        "two_star_rate": "4.1%",
+        "one_star_rate": "0.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4610096/",
+            "name": "何袜皮",
+            "role": "作者",
+            "douban_id": "4610096"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "34.00元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=jingdong&srcpage=subject&price=3400&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IHlkVWAUFVW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOFBkETBtUSC1PTxpUGk5-MgpfCw8ecD96dVxVGw9FBhoifT1-RS9PXi5eJBFCWCokaCtgYBhKbFllBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYAVVo7CRRnfA94bVJwG3hdIAAAVkh3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcCXFpZAEkVCm84G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CV1kzVE1AXDdBTh57XQcCUF5VDUInAW4JGVklbTZCEwcZWAhcQShcWhpSFXpkAFxeTEJkUx1mHBtTVEFQECEofiJRQyhNbhBsbQUy&cntvendor=3&srcsubj=36495365&type=bkbuy&subject=36495365"
+        },
+        {
+            "name": "当当网",
+            "price": "65.30元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=dangdang&srcpage=subject&price=6530&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36495365%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29662944&cntvendor=3&srcsubj=36495365&type=bkbuy&subject=36495365"
+        },
+        {
+            "name": "中图网",
+            "price": "41.80元",
+            "link": "https://book.douban.com/link2/?lowest=3400&pre=0&vendor=bookschina&srcpage=subject&price=4180&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9217520.htm&cntvendor=3&srcsubj=36495365&type=bkbuy&subject=36495365"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36495365/",
+    "douban_id": "36495365",
+    "menu": [],
+    "tag": "小说"
+}

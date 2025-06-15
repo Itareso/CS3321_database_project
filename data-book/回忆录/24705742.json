@@ -1,0 +1,59 @@
+{
+    "title": "心灵之旅",
+    "bookInfo": {
+        "作者": "梁思成",
+        "出版社": "人民文学出版社",
+        "出版年": "2013-4",
+        "页数": "315",
+        "定价": "52.00元",
+        "ISBN": "9787020092123"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.7%",
+        "four_star_rate": "16.1%",
+        "three_star_rate": "43.5%",
+        "two_star_rate": "9.7%",
+        "one_star_rate": "12.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4505441/",
+            "name": "梁思成",
+            "role": "作者",
+            "douban_id": "4505441"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "35.80元",
+            "link": "https://book.douban.com/link2/?lowest=3220&pre=0&vendor=jingdong&srcpage=subject&price=3579&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IG1gXVAcEXG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOAxw0W0N3BSwJTRtMOQdpVTgjCzYRRg98dVlRBX5AVg0CSEp0YDhKSykQARFCWCokfChgSm9MbARPBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDYDPxhUEhRPWQ9xfV5GWAVgXQILbh5RD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcHXFddDkwXAGc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CVFwzVE1NXDFbWw57XwcBUF1fDUwnAW4JGVklbTZVFjcOACsRQG5eWwJxXG0DMiBedU1SYxtmGR9NJUQABwEdCSh0VC1YaV5JbQUy&cntvendor=3&srcsubj=24705742&type=bkbuy&subject=24705742"
+        },
+        {
+            "name": "当当网",
+            "price": "35.80元",
+            "link": "https://book.douban.com/link2/?lowest=3220&pre=0&vendor=dangdang&srcpage=subject&price=3579&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s24705742%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23302629&cntvendor=3&srcsubj=24705742&type=bkbuy&subject=24705742"
+        },
+        {
+            "name": "中图网",
+            "price": "32.20元",
+            "link": "https://book.douban.com/link2/?lowest=3220&pre=0&vendor=bookschina&srcpage=subject&price=3220&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5891857.htm&cntvendor=3&srcsubj=24705742&type=bkbuy&subject=24705742"
+        }
+    ],
+    "url": "https://book.douban.com/subject/24705742/",
+    "douban_id": "24705742",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s26638340.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "梁思成",
+            "link": "https://book.douban.com/author/4505441/"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        }
+    ],
+    "tag": "回忆录"
+}

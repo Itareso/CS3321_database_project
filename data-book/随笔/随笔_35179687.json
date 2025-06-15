@@ -1,0 +1,72 @@
+{
+    "title": "陇关道",
+    "bookInfo": {
+        "作者": "胡成",
+        "出版社": "商务印书馆",
+        "出版年": "2020-8",
+        "页数": "300",
+        "定价": "52.00元",
+        "装帧": "精装",
+        "ISBN": "9787100187756"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "47.9%",
+        "four_star_rate": "25.4%",
+        "three_star_rate": "14.9%",
+        "two_star_rate": "5.2%",
+        "one_star_rate": "6.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/261401/",
+            "name": "胡成",
+            "role": "作者",
+            "douban_id": "261401"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "40.99元",
+            "link": "https://book.douban.com/link2/?lowest=3740&pre=0&vendor=jingdong&srcpage=subject&price=4099&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF0VXwEKVm4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUl5fD0MVHDZNRwYlAUR7J1YbVAl3fGxgcyNFOVpHKkQJeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAU1hdCEkXM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGF8WXw5sCFgKShkUCjVmG1oSVQEHV19tCkoWAW04K2tGB0RxC1s_bE1iSmhXcB4SI28BBi1aDDx5AWwORQFcLlZpUiIhWxFWewhpK1gl&cntvendor=3&srcsubj=35179687&type=bkbuy&subject=35179687"
+        },
+        {
+            "name": "当当网",
+            "price": "43.90元",
+            "link": "https://book.douban.com/link2/?lowest=3740&pre=0&vendor=dangdang&srcpage=subject&price=4390&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35179687%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29118058&cntvendor=3&srcsubj=35179687&type=bkbuy&subject=35179687"
+        },
+        {
+            "name": "中图网",
+            "price": "37.40元",
+            "link": "https://book.douban.com/link2/?lowest=3740&pre=0&vendor=bookschina&srcpage=subject&price=3740&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8412556.htm&cntvendor=3&srcsubj=35179687&type=bkbuy&subject=35179687"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35179687/",
+    "douban_id": "35179687",
+    "menu": [
+        "",
+        "        西安",
+        "        扶风",
+        "        陇州",
+        "        固关",
+        "        秦州",
+        "        巩昌",
+        "        临洮",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33710108.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "胡成",
+            "link": "https://book.douban.com/search/%E8%83%A1%E6%88%90"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        }
+    ],
+    "tag": "随笔"
+}

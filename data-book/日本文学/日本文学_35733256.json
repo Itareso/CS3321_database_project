@@ -1,0 +1,86 @@
+{
+    "title": "金阁寺",
+    "bookInfo": {
+        "作者": "[日] 三岛由纪夫",
+        "出版社": "漓江出版社",
+        "出品方": "后浪 / 后浪文学",
+        "原作名": "きんかくじ",
+        "译者": "郑民钦",
+        "出版年": "2022-2",
+        "页数": "336",
+        "定价": "59.00元",
+        "装帧": "精装",
+        "丛书": "后浪三岛由纪夫经典",
+        "ISBN": "9787540791476"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "54.2%",
+        "four_star_rate": "36.2%",
+        "three_star_rate": "8.2%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4508171/",
+            "name": "三岛由纪夫",
+            "role": "作者",
+            "douban_id": "4508171"
+        },
+        {
+            "link": "https://book.douban.com/author/104213/",
+            "name": "郑民钦",
+            "role": "译者",
+            "douban_id": "104213"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "29.50元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=jingdong&srcpage=subject&price=2950&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVoSXAADUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOC1wCayt3aylTXilJP1JiPS4PVQxcYB9hdVleFE0ALj0DWxBhdTAKbh5TGBFCWCokdC5jWghJbzJxBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZLKCEUbwlSdQ10AUFPPQNEFApcXCtnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtUDUsXAG04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHU1YzVE1ARm8NUAJ7XQcFUFZVAEsnAW4JGVklbTZdVgE-aCt_RTRNaQd3CWZrJAwATwB0cwZmGRBcFgR4NwAOUz1hXG19Xh1QbQUy&cntvendor=3&srcsubj=35733256&type=bkbuy&subject=35733256"
+        },
+        {
+            "name": "当当网",
+            "price": "50.20元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=dangdang&srcpage=subject&price=5020&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35733256%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29360706&cntvendor=3&srcsubj=35733256&type=bkbuy&subject=35733256"
+        },
+        {
+            "name": "中图网",
+            "price": "33.40元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=bookschina&srcpage=subject&price=3340&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8773699.htm&cntvendor=3&srcsubj=35733256&type=bkbuy&subject=35733256"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35733256/",
+    "douban_id": "35733256",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34092943.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 三岛由纪夫",
+            "link": "https://book.douban.com/search/%E4%B8%89%E5%B2%9B%E7%94%B1%E7%BA%AA%E5%A4%AB"
+        },
+        {
+            "text": "漓江出版社",
+            "link": "https://book.douban.com/press/2538"
+        },
+        {
+            "text": "后浪",
+            "link": "https://book.douban.com/producers/2"
+        },
+        {
+            "text": "后浪文学",
+            "link": "https://book.douban.com/producers/621"
+        },
+        {
+            "text": "郑民钦",
+            "link": "https://book.douban.com/search/%E9%83%91%E6%B0%91%E9%92%A6"
+        },
+        {
+            "text": "后浪三岛由纪夫经典",
+            "link": "https://book.douban.com/series/60083"
+        }
+    ],
+    "tag": "日本文学"
+}

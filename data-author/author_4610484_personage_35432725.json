@@ -1,0 +1,159 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "福尔摩斯中国奇遇记",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34792000.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36683815/",
+                        "year": "2024",
+                        "id": 36683815
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "刘半农侦探小说集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33880868.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35428146/",
+                        "year": "2021",
+                        "id": 35428146
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "刘半农译作选",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33841915.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35065237/",
+                        "year": "2020",
+                        "id": 35065237
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "刘半农作品精选",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34680531.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34878131/",
+                        "year": "2019",
+                        "id": 34878131
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "半农杂文",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29820575.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30275564/",
+                        "year": "2018",
+                        "id": 30275564
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "茶花女(文献版)(精)/民国世界文学经典译著",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29818895.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30273844/",
+                        "year": "2018",
+                        "id": 30273844
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "赛金花本事",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29939282.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26723293/",
+                        "year": "2016",
+                        "id": 26723293
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "苏莱曼东游记",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s29089803.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26738175/",
+                        "year": "2016",
+                        "id": 26738175
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "刘半农集",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29807295.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30262170/",
+                        "year": "2015",
+                        "id": 30262170
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "怎样教作文",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28150608.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26465967/",
+                        "year": "2014",
+                        "id": 26465967
+                    }
+                }
+            ],
+            "total": 34
+        }
+    },
+    "author_link": "https://book.douban.com/author/4610484/",
+    "author_douban_id": "4610484",
+    "personage_id": 35432725,
+    "name": [
+        "刘半农",
+        "Bannong Liu"
+    ],
+    "intro": "刘半农（1891年5月29日—1934年7月14日），江苏江阴人，原名寿彭，后名复，初字半侬，后改半农，晚号曲庵。中国新文化运动先驱，文学家、语言学家和教育家。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/b1801fa34a07868732c5d48aa55cacd5.jpg",
+    "更多中文名": "刘复",
+    "sex": 1,
+    "birth_date": 1891,
+    "death_date": 1934,
+    "age": 44,
+    "birth_place": [
+        "中国",
+        "江苏",
+        "江阴"
+    ],
+    "family_member": "刘天华(二弟)",
+    "profession": [
+        "作者",
+        "译者",
+        "编者",
+        "音乐",
+        "音乐人"
+    ]
+}

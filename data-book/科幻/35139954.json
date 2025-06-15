@@ -1,0 +1,65 @@
+{
+    "title": "光渊：混乱之钥",
+    "bookInfo": {
+        "作者": "E伯爵",
+        "出版社": "重庆出版社",
+        "出版年": "2020-10",
+        "页数": "280",
+        "定价": "70.00元",
+        "装帧": "精装",
+        "丛书": "光渊",
+        "ISBN": "9787229151539"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.7%",
+        "four_star_rate": "41.4%",
+        "three_star_rate": "10.0%",
+        "two_star_rate": "1.4%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/167777/",
+            "name": "E伯爵",
+            "role": "作者",
+            "douban_id": "167777"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "35.00元",
+            "link": "https://book.douban.com/link2/?lowest=3500&pre=0&vendor=jingdong&srcpage=subject&price=3500&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVoVWwMBV24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUxk6TQ1yfhtjTCl1FH9kAlcuYQ9gQhZudRlTCXJFFxsfVExESmhPHAJhBBFCWCokdC5gYBRIb1ltBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYYEAojaBVrQgxSaTl2BFBZBBg1byJBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVCEsTC2o4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWA8CV1kzVE1BAipYHRN7XQYEXVpVDkgnAW4JGVklbTYFEzkYTi5qdwRfaTtcJGBUXS00TDxWeglmWR1BKUFBERwBDxheBCgPQi9MbQUy&cntvendor=3&srcsubj=35139954&type=bkbuy&subject=35139954"
+        },
+        {
+            "name": "当当网",
+            "price": "39.40元",
+            "link": "https://book.douban.com/link2/?lowest=3500&pre=0&vendor=dangdang&srcpage=subject&price=3940&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35139954%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29151526&cntvendor=3&srcsubj=35139954&type=bkbuy&subject=35139954"
+        },
+        {
+            "name": "中图网",
+            "price": "50.40元",
+            "link": "https://book.douban.com/link2/?lowest=3500&pre=0&vendor=bookschina&srcpage=subject&price=5040&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8449888.htm&cntvendor=3&srcsubj=35139954&type=bkbuy&subject=35139954"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35139954/",
+    "douban_id": "35139954",
+    "menu": [],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s33996991.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "E伯爵",
+            "link": "https://book.douban.com/search/E%E4%BC%AF%E7%88%B5"
+        },
+        {
+            "text": "重庆出版社",
+            "link": "https://book.douban.com/press/2162"
+        },
+        {
+            "text": "光渊",
+            "link": "https://book.douban.com/series/52940"
+        }
+    ],
+    "tag": "科幻"
+}

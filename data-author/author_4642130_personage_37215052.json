@@ -1,0 +1,102 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "穆旦传",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s35066098.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/37081410/",
+                        "year": "2025",
+                        "id": 37081410
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "塔鱼浜自然史",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33978074.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35478882/",
+                        "year": "2021",
+                        "id": 35478882
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "江南词典(精)",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29491524.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/27085404/",
+                        "year": "2017",
+                        "id": 27085404
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "嘉禾丛谭",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s26008540.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/22790357/",
+                        "year": "2013",
+                        "id": 22790357
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "名物小识",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s22698206.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/19945961/",
+                        "year": "2012",
+                        "id": 19945961
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "桐乡影记",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27005198.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/25696919/",
+                        "year": "2011",
+                        "id": 25696919
+                    }
+                }
+            ],
+            "total": 6
+        }
+    },
+    "author_link": "https://book.douban.com/author/4642130/",
+    "author_douban_id": "4642130",
+    "personage_id": 37215052,
+    "name": [
+        "邹汉明",
+        "Hanming Zou"
+    ],
+    "intro": "邹汉明",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/0b38b636e2a699f96c11db54b2c64e34.jpg",
+    "sex": 1,
+    "birth_place": [
+        "中国",
+        "浙江",
+        "桐乡"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

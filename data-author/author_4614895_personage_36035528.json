@@ -1,0 +1,54 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "魚獵",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34752096.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36722627/",
+                        "year": "2024",
+                        "id": 36722627
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.1,
+                        "title": "河流之齿",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34948746.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36980164/",
+                        "year": "2024",
+                        "id": 36980164
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614895/",
+    "author_douban_id": "4614895",
+    "personage_id": 36035528,
+    "name": [
+        "史迈",
+        "Mai Shi"
+    ],
+    "intro": "90后，笔名“迈可贴”。毕业于中国电影资料馆，曾获第十三届全国新概念作文大赛二等奖，第八届“扶持青年优秀电影剧作计划”大赛优秀剧本，云莱坞新编剧大赛周冠军。首作《鱼猎》 获第三届豆瓣阅读长篇拉力赛潜力作品奖，以及2022年豆瓣年度推理小说榜单第一名。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/b32d6b9f797e9006646a73f7e27d3664.jpg",
+    "更多中文名": "迈可贴(笔名)",
+    "更多外文名": "Smile",
+    "sex": 0,
+    "birth_date": 1992,
+    "age": 34,
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

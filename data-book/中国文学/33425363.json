@@ -1,0 +1,71 @@
+{
+    "title": "这是你的星星，请签收",
+    "bookInfo": {
+        "作者": "LOST7",
+        "出版社": "中国友谊出版公司",
+        "出品方": "磨铁图书",
+        "出版年": "2019-5",
+        "页数": "204",
+        "定价": "68元",
+        "装帧": "平装-胶订",
+        "ISBN": "9787505742574"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "26.7%",
+        "four_star_rate": "40.3%",
+        "three_star_rate": "29.1%",
+        "two_star_rate": "2.9%",
+        "one_star_rate": "1.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "40.80元",
+            "link": "https://book.douban.com/link2/?lowest=3020&pre=0&vendor=jingdong&srcpage=subject&price=4079&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGF8VWwUHXG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBUF5bC04fHDZNRwYlWk1iNShYEh90YSt-eF1FFlkGDgsHTkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcAU19eCkoTM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVsQWgdsCFgKShtKBjNmG1oRWgYKVVxtCkoWAW04K2tADXpRND5cQA5oczBTbQ8XWVJdA1cqdBd5ATdWZwtADgZaESopXRtKXWdBK1gl&cntvendor=2&srcsubj=33425363&type=bkbuy&subject=33425363"
+        },
+        {
+            "name": "中图网",
+            "price": "30.20元",
+            "link": "https://book.douban.com/link2/?lowest=3020&pre=0&vendor=bookschina&srcpage=subject&price=3020&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8088127.htm&cntvendor=2&srcsubj=33425363&type=bkbuy&subject=33425363"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33425363/",
+    "douban_id": "33425363",
+    "menu": [
+        "",
+        "        chapter1 遗失",
+        "        ——世上有两轮月亮，一轮在夜空中，另一轮在茶仔的脸上。",
+        "        chapter2 迷茫",
+        "        ——小饿魔消失在茶仔的面前，从此，世上只有一个月亮。",
+        "        chapter3 找寻",
+        "        ——茶仔失去了他的最爱，他坚信只有上路才能找到答案。",
+        "        chapter4 人群=羊群",
+        "        ——在地铁上，茶仔看到每个人都行色匆忙。他们忙着工作，忙着换工作，忙着谈恋爱，忙着失恋……忙着 应对生活中一个个接连不断的意外。",
+        "        chapter5 南极的星星",
+        "        ——极昼没有星星，但思念一个人却可以让整个世界充满光亮。",
+        "        chapter6 任意门",
+        "        ——星星会因为爱和希望的消失逐渐黯淡，无论这一生的旅程如何，请一定保护好你的星星，好吗？",
+        "        chapter7 重逢",
+        "        ——迷失的人就迷失了，相遇的人会再相遇。",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s32314166.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "LOST7",
+            "link": "https://book.douban.com/search/LOST7"
+        },
+        {
+            "text": "中国友谊出版公司",
+            "link": "https://book.douban.com/press/2416"
+        },
+        {
+            "text": "磨铁图书",
+            "link": "https://book.douban.com/producers/18"
+        }
+    ],
+    "tag": "中国文学"
+}

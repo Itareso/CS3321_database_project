@@ -1,0 +1,75 @@
+{
+    "title": "文城",
+    "bookInfo": {
+        "作者": "余华",
+        "出版社": "北京十月文艺出版社",
+        "出品方": "新经典文化",
+        "出版年": "2021-3",
+        "页数": "348",
+        "定价": "59.00元",
+        "装帧": "精装",
+        "丛书": "新经典文库：余华作品",
+        "ISBN": "9787530221099"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    【编辑推荐】    ★时隔八年，余华全新长篇重磅归来！    ◆人生就是自己的往事和他人的序章    时代的洪流推着每个人做出各自的选择。    这是一个荒蛮的年代，结束的尚未结束，开始的尚未开始。    ◆我们总是在不同时代、不同国家、不同语言的作家那里，读到自己的感受，甚至是自己的生活。假如文学中真的存在某些神秘的力量，我想可能就是这些。    ——余华    ★写《活着》的余华又回来了！这一回不止是时空上的突破    ◆讲述南方小镇上各色人物的爱恨悲欢    颠沛起伏的人生故事牵引出军阀混战、匪祸泛滥的时代之殇    ◆铺开一幅荡气回肠的时代画卷    在民间叙事中融入魔幻色彩，时空绵延，人物纷杂，情节跌宕    ◆谱写一曲关于命运的荒诞史诗    细腻而宏大，舒畅而勇猛，夹杂着黑色幽默，道出生命的脆弱与柔韧    ★ 余华亲自选定封面插画    ◆封面插画来自当代艺术家张晓刚作品《失忆与记忆：男人》，风格独特，意蕴广远。    【内容简介】    在溪镇人最初的印象里，林祥福是一个身上披戴雪花，头发和胡子遮住脸庞的男人，有着垂柳似的谦卑和田地般的沉默寡言。哪怕后来成了万亩荡和木器社的主人，他身上的谦卑和沉默依旧没有变。他的过去和一座谜一样的城联系在了一起，没人知道他为什么要找一个不存在的地方。    他原本不属于这里，他的家乡在遥远的北方。为了一个承诺他将自己连根拔起，漂泊至此。往后的日子，他见识过温暖赤诚的心，也见识过冰冷无情的血。最终他徒劳无获，但许多人的牵挂和眼泪都留在了他身上。    “文城在哪里？”    “总会有一个地方叫文城。”\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "31.1%",
+        "four_star_rate": "47.6%",
+        "three_star_rate": "19.1%",
+        "two_star_rate": "1.9%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503668/",
+            "name": "余华",
+            "role": "作者",
+            "douban_id": "4503668"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "39.50元",
+            "link": "https://www.dedao.cn/ebook/detail?id=OAdXprx6N41dm9BQkayr8z7OqLGoE3lbj70YMlVAnxRZXK2Dg5pbevPJjjnQv2eb&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.50元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=jingdong&srcpage=subject&price=2950&pos=2&url=https%3A%2F%2Fitem.jd.com%2F13355758.html&cntvendor=4&srcsubj=35335514&type=bkbuy&subject=35335514"
+        },
+        {
+            "name": "当当网",
+            "price": "40.70元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=dangdang&srcpage=subject&price=4070&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35335514%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29199440&cntvendor=4&srcsubj=35335514&type=bkbuy&subject=35335514"
+        },
+        {
+            "name": "中图网",
+            "price": "33.40元",
+            "link": "https://book.douban.com/link2/?lowest=2950&pre=0&vendor=bookschina&srcpage=subject&price=3340&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8509648.htm&cntvendor=4&srcsubj=35335514&type=bkbuy&subject=35335514"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35335514/",
+    "douban_id": "35335514",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33834057.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "余华",
+            "link": "https://book.douban.com/author/4503668"
+        },
+        {
+            "text": "北京十月文艺出版社",
+            "link": "https://book.douban.com/press/2194"
+        },
+        {
+            "text": "新经典文化",
+            "link": "https://book.douban.com/producers/3"
+        },
+        {
+            "text": "新经典文库：余华作品",
+            "link": "https://book.douban.com/series/39660"
+        }
+    ],
+    "tag": "中国文学"
+}

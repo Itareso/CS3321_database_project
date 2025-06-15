@@ -1,0 +1,100 @@
+{
+    "title": "不莱梅和弗莱堡演讲",
+    "bookInfo": {
+        "作者": "[德] 马丁·海德格尔",
+        "出版社": "商务印书馆",
+        "译者": "孙周兴 / 张灯",
+        "出版年": "2018-5-1",
+        "页数": "228",
+        "定价": "59.00元",
+        "装帧": "精装",
+        "丛书": "海德格尔文集",
+        "ISBN": "9787100159883"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "75.9%",
+        "four_star_rate": "20.4%",
+        "three_star_rate": "3.7%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4549885/",
+            "name": "马丁·海德格尔",
+            "role": "作者",
+            "douban_id": "4549885"
+        },
+        {
+            "link": "https://book.douban.com/author/4609591/",
+            "name": "孙周兴",
+            "role": "译者",
+            "douban_id": "4609591"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "46.51元",
+            "link": "https://book.douban.com/link2/?lowest=4230&pre=0&vendor=jingdong&srcpage=subject&price=4651&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFkSVQYGUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBVllVCE8THDZNRwYlBG9JMjsqVzh3dAlNQ0VyXnpJJBU2XkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4GVlhbAU8UM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHQxFDVFsCFgHVEpFXm5mGFMdWAELV1ptCkoWAW04K2twLVZaND5aYxFfYzxvcgdlKlhWHyo6Vhh5AW9oHCtpBVlYDgoJbTtnXCd2K1gl&cntvendor=3&srcsubj=30180069&type=bkbuy&subject=30180069"
+        },
+        {
+            "name": "当当网",
+            "price": "42.60元",
+            "link": "https://book.douban.com/link2/?lowest=4230&pre=0&vendor=dangdang&srcpage=subject&price=4260&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30180069%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25290859&cntvendor=3&srcsubj=30180069&type=bkbuy&subject=30180069"
+        },
+        {
+            "name": "中图网",
+            "price": "42.30元",
+            "link": "https://book.douban.com/link2/?lowest=4230&pre=0&vendor=bookschina&srcpage=subject&price=4230&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7819826.htm&cntvendor=3&srcsubj=30180069&type=bkbuy&subject=30180069"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30180069/",
+    "douban_id": "30180069",
+    "menu": [
+        "",
+        "        观入存在之物",
+        "        1949年不莱梅演讲",
+        "        提示",
+        "        1、物",
+        "        2、集-置",
+        "        3、危险",
+        "        4、转向",
+        "        思想的基本原则",
+        "        1957年弗莱堡演讲",
+        "        1、演讲一",
+        "        2、演讲二以及演讲一之重温",
+        "        3、演讲三：同一律",
+        "        4、演讲四",
+        "        5、演讲五",
+        "        编者后记",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29790337.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] 马丁·海德格尔",
+            "link": "https://book.douban.com/author/4549885"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "孙周兴",
+            "link": "https://book.douban.com/search/%E5%AD%99%E5%91%A8%E5%85%B4"
+        },
+        {
+            "text": "张灯",
+            "link": "https://book.douban.com/search/%E5%BC%A0%E7%81%AF"
+        },
+        {
+            "text": "海德格尔文集",
+            "link": "https://book.douban.com/series/24683"
+        }
+    ],
+    "tag": "西方哲学"
+}

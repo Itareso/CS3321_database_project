@@ -1,0 +1,78 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "玉森画廊的客人",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s29987299.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/30442488/",
+                        "year": "2019",
+                        "id": 30442488
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "三个胡安在海边",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28323516.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/26303593/",
+                        "year": "2015",
+                        "id": 26303593
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "罗摩桥",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s25496697.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/6846465/",
+                        "year": "2011",
+                        "id": 6846465
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "尘",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s3898005.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/3872290/",
+                        "year": "2009",
+                        "id": 3872290
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/192004/",
+    "author_douban_id": "192004",
+    "personage_id": 30115598,
+    "name": [
+        "郑辰"
+    ],
+    "intro": "郑辰，曾用名郑宸，男，1981年5月30日出生。青年现代艺术家、青年小说家、英国《金融时报》中文网特约撰稿人、法国《L'OFFICIEL HOMMES》杂志中文版专栏作家、青年旅行者。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/30115598/photo/2912989242"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2912989242.webp"
+    ],
+    "main_image": "https://img1.doubanio.com/img/author/medium/public/1536506125.8.jpg",
+    "更多中文名": "郑宸（曾用名）",
+    "birth_date": 1981,
+    "age": 45,
+    "profession": [
+        "作者"
+    ]
+}

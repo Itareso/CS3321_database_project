@@ -1,0 +1,55 @@
+{
+    "title": "追忆双亲",
+    "bookInfo": {
+        "作者": "丁东",
+        "出版社": "中国工人出版社",
+        "副标题": "二十七段关于父母与时代的记忆",
+        "出版年": "2011-3",
+        "页数": "334",
+        "定价": "35.00元",
+        "丛书": "背影书系",
+        "ISBN": "9787500849513"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "52.1%",
+        "four_star_rate": "37.5%",
+        "three_star_rate": "10.4%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503584/",
+            "name": "丁东",
+            "role": "作者",
+            "douban_id": "4503584"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.10元",
+            "link": "https://book.douban.com/link2/?lowest=2410&pre=0&vendor=jingdong&srcpage=subject&price=2410&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQAHXF5fCkMXM28JGlMRWAEKV1hcDUIRMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWC2sNHFMWWwcHXVhCUQ5LXl9dblN1OEULSjsrEhBuWRlcfCdhOnJiWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mH14UVA8yVl5cCU4XC2gLGmsVWwMDUVZbCU4VB28NK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggQD1ECAFYzVE1NXG4IXgx7Xg4LXF1UAUknAW4JGVklbTYBXScPaCtvXTZUHgNgJgRhAAsWfhR1eTRmGQhKPg9cBixUUQNPfT1NYB5UbQUy&cntvendor=1&srcsubj=5996732&type=bkbuy&subject=5996732"
+        }
+    ],
+    "url": "https://book.douban.com/subject/5996732/",
+    "douban_id": "5996732",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s6308555.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "丁东",
+            "link": "https://book.douban.com/author/4503584/"
+        },
+        {
+            "text": "中国工人出版社",
+            "link": "https://book.douban.com/press/2774"
+        },
+        {
+            "text": "背影书系",
+            "link": "https://book.douban.com/series/8279"
+        }
+    ],
+    "tag": "回忆录"
+}

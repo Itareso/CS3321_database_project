@@ -1,0 +1,66 @@
+{
+    "title": "无限循环",
+    "bookInfo": {
+        "作者": "文九柔",
+        "出版社": "中国工人出版社",
+        "出版年": "2022-1-10",
+        "页数": "296",
+        "定价": "42",
+        "装帧": "平装",
+        "ISBN": "9787500877608"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "60.0%",
+        "four_star_rate": "20.0%",
+        "three_star_rate": "8.9%",
+        "two_star_rate": "2.2%",
+        "one_star_rate": "8.9%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVoXWAQHVm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOAxw0W0N3BSwJTRtRJwVrPysjWiMSQRlxdVlRBX5AVg0CSEp0YDhKayF1ARFCWCokdC5gShhNbDJpBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZhMCFfVDEUQQxybQFFBkZ-Bw02AApBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFhVCU0RAGo4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYBAFkzVE1BAioOElJ7XQYGXFpaCEInAW4JGVklbTZVFjcOACsRQG5eWx9vXm9pISAPYE5VdRZmGR9NJUQABwEdCSh0VC14YTtJbQUy&cntvendor=2&srcsubj=35701133&type=bkbuy&subject=35701133"
+        },
+        {
+            "name": "当当网",
+            "price": "30.20元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=dangdang&srcpage=subject&price=3020&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35701133%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29347662&cntvendor=2&srcsubj=35701133&type=bkbuy&subject=35701133"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35701133/",
+    "douban_id": "35701133",
+    "menu": [
+        "",
+        "        第一章　最后的瓦舍   1",
+        "        第二章　超级细菌   22",
+        "        第三章　力微星生存指南   52",
+        "        第四章　无限的阶梯   70",
+        "        第五章　交叉小径的花园   90",
+        "        第六章　神圣调停   114",
+        "        第七章　最后的瓦舍Ⅱ   136",
+        "        第八章　无限的阶梯Ⅱ   163",
+        "        第九章　超级细菌Ⅱ   183",
+        "        第十章　神圣调停Ⅱ   206",
+        "        第十一章　交叉小径的花园Ⅱ   226",
+        "        第十二章　力微星生存指南Ⅱ   244",
+        "        第十三章　奥卡姆剃刀   274",
+        "        尾声 无限循环   284",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34067941.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "文九柔",
+            "link": "https://book.douban.com/search/%E6%96%87%E4%B9%9D%E6%9F%94"
+        },
+        {
+            "text": "中国工人出版社",
+            "link": "https://book.douban.com/press/2774"
+        }
+    ],
+    "tag": "科幻"
+}

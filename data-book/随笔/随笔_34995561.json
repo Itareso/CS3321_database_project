@@ -1,0 +1,104 @@
+{
+    "title": "书肆巡阅使",
+    "bookInfo": {
+        "作者": "谢其章",
+        "出版社": "中华书局",
+        "出版年": "2020-4",
+        "页数": "252",
+        "定价": "75.00",
+        "装帧": "精装",
+        "丛书": "园田雅集",
+        "ISBN": "9787101144383"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "10.7%",
+        "four_star_rate": "44.0%",
+        "three_star_rate": "41.7%",
+        "two_star_rate": "3.6%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4636629/",
+            "name": "谢其章",
+            "role": "作者",
+            "douban_id": "4636629"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.60元",
+            "link": "https://read.douban.com/ebook/157087475/?dcs=subject-buylink&dcm=douban&dct=34995561"
+        },
+        {
+            "name": "得到",
+            "price": "33.00元",
+            "link": "https://www.dedao.cn/eBook/BpM1nLOerPa1XOp27zqQ8KGR56loVWrO7B3dLygv94jYmnENDxAMZJBkbNzEblgQ?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "39.20元",
+            "link": "https://book.douban.com/link2/?lowest=3460&pre=0&vendor=jingdong&srcpage=subject&price=3920&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFwTWgAGUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOUFgtCBByWwhqQzJiNl1ZARUUdApEByxYdVlOBw4EB14DCClgdGsORRphKBFCWCokcCxjShBJbCJxBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZ8FS4hf1F-AQx3WwJoHGEKDBsrQCJRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtZAEgVCmk4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHU10zVE1AQShNGxN7XQcFVldfCEgnAW4JGVklbTYGUi5dUy5PZA1Qcix-Bl1XHxchSRgTQD9mGQBPVQBRVABdajxgB2lWWi9gbQUy&cntvendor=5&srcsubj=34995561&type=bkbuy&subject=34995561"
+        },
+        {
+            "name": "当当网",
+            "price": "56.00元",
+            "link": "https://book.douban.com/link2/?lowest=3460&pre=0&vendor=dangdang&srcpage=subject&price=5600&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s34995561%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28973811&cntvendor=5&srcsubj=34995561&type=bkbuy&subject=34995561"
+        },
+        {
+            "name": "中图网",
+            "price": "34.60元",
+            "link": "https://book.douban.com/link2/?lowest=3460&pre=0&vendor=bookschina&srcpage=subject&price=3460&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8345207.htm&cntvendor=5&srcsubj=34995561&type=bkbuy&subject=34995561"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34995561/",
+    "douban_id": "34995561",
+    "menu": [
+        "",
+        "        前言/谢其章",
+        "        我与新文学旧书三十年/陈子善",
+        "        我的海淀镇淘书史/谢其章",
+        "        趣说另类买书/虎 闱",
+        "        旧书摊感怀/赵龙江",
+        "        我买日印中文书/止 庵",
+        "        散了的宴席/柯卫东",
+        "        那些年北京的书店书市/韩智冬",
+        "        我与旧书店/赵国忠",
+        "        夕阳犹照小窗明——海淀旧书肆忆往/胡桂林",
+        "        '书游记'两章/胡洪侠",
+        "        北大五四'三人组'/艾俊川",
+        "        痛失之书/韦 力",
+        "        我的网络淘书生涯/曹亚瑟",
+        "        美国淘书杂忆/大 象",
+        "        日本访书散记/陈晓维",
+        "        波士顿书展纪行/高 卧",
+        "        首尔买书记/刘 铮",
+        "        香港书游记/绿 茶",
+        "        艳遇与历险：冬季到台北来淘书/谷曙光",
+        "        卿本佳人——英译《汪精卫诗词集》的八卦/励 俊",
+        "        泰和嘉成文稿拍卖目击记/罗 逊",
+        "        漫步早稻田古书店街/杨月英",
+        "        京都旧书店近况/苏枕书",
+        "        聚散有缘，惜者得之/宋希於",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33657104.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "谢其章",
+            "link": "https://book.douban.com/author/4636629"
+        },
+        {
+            "text": "中华书局",
+            "link": "https://book.douban.com/press/2838"
+        },
+        {
+            "text": "园田雅集",
+            "link": "https://book.douban.com/series/30973"
+        }
+    ],
+    "tag": "随笔"
+}

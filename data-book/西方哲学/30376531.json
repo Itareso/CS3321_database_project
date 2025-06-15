@@ -1,0 +1,91 @@
+{
+    "title": "论道德的谱系",
+    "bookInfo": {
+        "作者": "[德] 尼采",
+        "出版社": "商务印书馆",
+        "副标题": "一本论战著作",
+        "原作名": "Zur Genealogie der Moral: Eine Streitschrift",
+        "译者": "赵千帆 译 / 孙周兴 校 / 赵千帆",
+        "出版年": "2018-12",
+        "页数": "213",
+        "定价": "25.00元",
+        "装帧": "平装",
+        "丛书": "汉译世界学术名著丛书·哲学",
+        "ISBN": "9787100168038"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "72.0%",
+        "four_star_rate": "21.8%",
+        "three_star_rate": "5.7%",
+        "two_star_rate": "0.4%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4508932/",
+            "name": "尼采",
+            "role": "作者",
+            "douban_id": "4508932"
+        },
+        {
+            "link": "https://book.douban.com/author/4631632/",
+            "name": "赵千帆",
+            "role": "译者",
+            "douban_id": "4631632"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "20.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=pAVMknaY9VDA6M7OjdpEvLnKm85rPw9o2gWZxykgeQJaRb4oBqNzGlX12boL1Nl9&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "20.90元",
+            "link": "https://book.douban.com/link2/?lowest=1850&pre=0&vendor=jingdong&srcpage=subject&price=2090&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV0VXQ8DU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUl5dAUoQHDZNRwYlGlJlPFoAVT53dQlMXD1tWVJ1P0QnXkcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4BVF1YAE0SM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgVsCFgHUkhLXGlmGFMcVAcCUFdtCkoWAW04K2tVGl9GBB0WSgxDQhwLQl5RFQRyAQU7YDd5BC9OEhxHGXl3IjcbSAxlBRNxK1gl&cntvendor=4&srcsubj=30376531&type=bkbuy&subject=30376531"
+        },
+        {
+            "name": "当当网",
+            "price": "34.60元",
+            "link": "https://book.douban.com/link2/?lowest=1850&pre=0&vendor=dangdang&srcpage=subject&price=3460&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30376531%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29438389&cntvendor=4&srcsubj=30376531&type=bkbuy&subject=30376531"
+        },
+        {
+            "name": "中图网",
+            "price": "18.50元",
+            "link": "https://book.douban.com/link2/?lowest=1850&pre=0&vendor=bookschina&srcpage=subject&price=1850&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8006106.htm&cntvendor=4&srcsubj=30376531&type=bkbuy&subject=30376531"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30376531/",
+    "douban_id": "30376531",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34129893.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] 尼采",
+            "link": "https://book.douban.com/search/%E5%B0%BC%E9%87%87"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        },
+        {
+            "text": "赵千帆 译",
+            "link": "https://book.douban.com/search/%E8%B5%B5%E5%8D%83%E5%B8%86%20%E8%AF%91"
+        },
+        {
+            "text": "孙周兴 校",
+            "link": "https://book.douban.com/search/%E5%AD%99%E5%91%A8%E5%85%B4%20%E6%A0%A1"
+        },
+        {
+            "text": "赵千帆",
+            "link": "https://book.douban.com/author/4631632"
+        },
+        {
+            "text": "汉译世界学术名著丛书·哲学",
+            "link": "https://book.douban.com/series/24"
+        }
+    ],
+    "tag": "西方哲学"
+}

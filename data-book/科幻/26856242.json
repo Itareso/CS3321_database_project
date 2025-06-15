@@ -1,0 +1,74 @@
+{
+    "title": "终极实验",
+    "bookInfo": {
+        "作者": "[加拿大] 罗伯特·索耶",
+        "出版社": "四川科学技术出版社",
+        "出品方": "科幻世界",
+        "译者": "房俊民",
+        "出版年": "2017-4",
+        "定价": "29.00元",
+        "装帧": "平装",
+        "丛书": "世界科幻大师丛书",
+        "ISBN": "9787536484184"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "22.1%",
+        "four_star_rate": "43.7%",
+        "three_star_rate": "31.6%",
+        "two_star_rate": "2.1%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/444018/",
+            "name": "罗伯特·索耶",
+            "role": "作者",
+            "douban_id": "444018"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "13.99元",
+            "link": "https://read.douban.com/ebook/434088261/?dcs=subject-buylink&dcm=douban&dct=26856242"
+        },
+        {
+            "name": "京东商城",
+            "price": "15.20元",
+            "link": "https://book.douban.com/link2/?lowest=1520&pre=0&vendor=jingdong&srcpage=subject&price=1520&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwQLUF5dAUwQBF8IGloTVAQBUV9dCkkeBl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkBGVgQXAYAVldYFxJSXzI4WA1lQ1pRHw4-Cx8RYGxbehJjJlIHElJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXXgMKVV9eOEkXAm4NG1MSXgcyVFhYCUgXBWcBGFIWVTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUl1dDExAbTMOTVpRGABBOl5dDkIRAGkPK1kUXAQAZG5tVExWYAtofgtHIWBBLBUPVEpWeiRTXBtoMwRfHyxaYChgBT19ciJNFm52EW5eOA&cntvendor=3&srcsubj=26856242&type=bkbuy&subject=26856242"
+        },
+        {
+            "name": "当当网",
+            "price": "29.00元",
+            "link": "https://book.douban.com/link2/?lowest=1520&pre=0&vendor=dangdang&srcpage=subject&price=2900&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26856242%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25073022&cntvendor=3&srcsubj=26856242&type=bkbuy&subject=26856242"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26856242/",
+    "douban_id": "26856242",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s29436400.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[加拿大] 罗伯特·索耶",
+            "link": "https://book.douban.com/author/444018"
+        },
+        {
+            "text": "四川科学技术出版社",
+            "link": "https://book.douban.com/press/2346"
+        },
+        {
+            "text": "科幻世界",
+            "link": "https://book.douban.com/producers/63"
+        },
+        {
+            "text": "房俊民",
+            "link": "https://book.douban.com/search/%E6%88%BF%E4%BF%8A%E6%B0%91"
+        },
+        {
+            "text": "世界科幻大师丛书",
+            "link": "https://book.douban.com/series/129"
+        }
+    ],
+    "tag": "科幻"
+}

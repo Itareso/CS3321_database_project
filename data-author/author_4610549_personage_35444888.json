@@ -1,0 +1,87 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.6,
+                        "title": "那些少女没有抵达",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34885727.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36855495/",
+                        "year": "2024",
+                        "id": 36855495
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "我们没有秘密",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34196729.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35802036/",
+                        "year": "2022",
+                        "id": 35802036
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "“上流”儿童",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33895409.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35440197/",
+                        "year": "2021",
+                        "id": 35440197
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "可是我偏偏不喜欢",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s33741401.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35223290/",
+                        "year": "2020",
+                        "id": 35223290
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.5,
+                        "title": "你的孩子不是你的孩子",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33489085.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/34840201/",
+                        "year": "2019",
+                        "id": 34840201
+                    }
+                }
+            ],
+            "total": 5
+        }
+    },
+    "author_link": "https://book.douban.com/author/4610549/",
+    "author_douban_id": "4610549",
+    "personage_id": 35444888,
+    "name": [
+        "吴晓乐",
+        "Xiao-Le Wu"
+    ],
+    "intro": "吴晓乐",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/9da2ce1bb39a165d75170000ee6d7d99.jpg",
+    "sex": 0,
+    "IMDB": "nm9884655",
+    "profession": [
+        "作者",
+        "编剧"
+    ]
+}

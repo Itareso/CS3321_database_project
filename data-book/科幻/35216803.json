@@ -1,0 +1,83 @@
+{
+    "title": "C语言修仙",
+    "bookInfo": {
+        "作者": "一十四洲",
+        "出版社": "中国致公出版社",
+        "出品方": "知音·漫客",
+        "副标题": "上",
+        "出版年": "2020-9",
+        "定价": "39.80",
+        "装帧": "平装",
+        "丛书": "C语言修仙",
+        "ISBN": "9787514515855"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "36.0%",
+        "four_star_rate": "43.8%",
+        "three_star_rate": "17.9%",
+        "two_star_rate": "1.7%",
+        "one_star_rate": "0.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609689/",
+            "name": "一十四洲",
+            "role": "作者",
+            "douban_id": "4609689"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.84元",
+            "link": "https://book.douban.com/link2/?lowest=2684&pre=0&vendor=jingdong&srcpage=subject&price=2684&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olVQQCV11fC0oXM28JGlgVXAABUFtcCUIRMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWAG8JHVgRWAcDXVhCUQ5LXl8BHBxMAk9lJz0kckkXcxJYeFhNHQdUWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHlsUVAQyVl5cCU4XC2gLGmsVWwMDV15YDkMSAGYAK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggQD1NQUgwzVE1ASydeUlx7XQYBXVtaC0wnAW4JGVklbTZCEF0FaCtLVhBLZTMRXANALB5VAR1USwlmGRlADkJADA0Jdx9BCyl9RDhFbQUy&cntvendor=2&srcsubj=35216803&type=bkbuy&subject=35216803"
+        },
+        {
+            "name": "中图网",
+            "price": "30.90元",
+            "link": "https://book.douban.com/link2/?lowest=2684&pre=0&vendor=bookschina&srcpage=subject&price=3090&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8418573.htm&cntvendor=2&srcsubj=35216803&type=bkbuy&subject=35216803"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35216803/",
+    "douban_id": "35216803",
+    "menu": [
+        "",
+        "        第一章 死循环（上）",
+        "        第二章 死循环（下)",
+        "        第三章 爬虫",
+        "        第四章 防火墙",
+        "        第五章 溢出",
+        "        第六章 DDOS",
+        "        第七章 断网",
+        "        第八章 面向对象",
+        "        第九章 Debug",
+        "        第十章 指针（上）",
+        "        第十一章 指针（下）",
+        "        第十二章 漏洞（上）",
+        "        第十三章 漏洞（下）",
+        "        第十四章 复制（上）",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33740432.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "一十四洲",
+            "link": "https://book.douban.com/search/%E4%B8%80%E5%8D%81%E5%9B%9B%E6%B4%B2"
+        },
+        {
+            "text": "中国致公出版社",
+            "link": "https://book.douban.com/press/2846"
+        },
+        {
+            "text": "知音·漫客",
+            "link": "https://book.douban.com/producers/410"
+        },
+        {
+            "text": "C语言修仙",
+            "link": "https://book.douban.com/series/54901"
+        }
+    ],
+    "tag": "科幻"
+}

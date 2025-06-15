@@ -1,0 +1,78 @@
+{
+    "title": "人生从容",
+    "bookInfo": {
+        "作者": "贾平凹",
+        "出版社": "江苏凤凰文艺出版社",
+        "出品方": "时代华语国际",
+        "出版年": "2021-6",
+        "定价": "48",
+        "装帧": "精装",
+        "丛书": "贾平凹作品系列",
+        "ISBN": "9787559458742"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "25.5%",
+        "four_star_rate": "46.2%",
+        "three_star_rate": "24.1%",
+        "two_star_rate": "2.4%",
+        "one_star_rate": "1.7%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4505931/",
+            "name": "贾平凹",
+            "role": "作者",
+            "douban_id": "4505931"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=jingdong&srcpage=subject&price=2400&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVgdXA4KXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOJDs4SjUSfjcKZid1VGNBMB0HXzlUZjtrdVlzKUBnDBxfCElSRh9tHyFiGxFCWCokdChuYAhXbSJDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZYNCpUCip8UAoJZRN3GGVeShc7ciJnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVV5aAEIWBGo4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggVCgUCVVgzVE1AQGtLWV17XQcFVltdCEonAW4JGVklbTZyMTsfdk5qW211ZzscOEVmFwQKeghyVwxmGT1hG2NaFlxdCg5ScwoMYSxTbQUy&cntvendor=3&srcsubj=35493709&type=bkbuy&subject=35493709"
+        },
+        {
+            "name": "当当网",
+            "price": "48.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=dangdang&srcpage=subject&price=4800&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35493709%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29249364&cntvendor=3&srcsubj=35493709&type=bkbuy&subject=35493709"
+        },
+        {
+            "name": "中图网",
+            "price": "27.40元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=bookschina&srcpage=subject&price=2740&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8598182.htm&cntvendor=3&srcsubj=35493709&type=bkbuy&subject=35493709"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35493709/",
+    "douban_id": "35493709",
+    "menu": [
+        "",
+        "        壹 从容穿过世间",
+        "        贰 山水间得自在",
+        "        叁 处烦嚣而自立",
+        "        肆 修一颗柔软心",
+        "        伍 万物静观皆自得",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33920200.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "贾平凹",
+            "link": "https://book.douban.com/search/%E8%B4%BE%E5%B9%B3%E5%87%B9"
+        },
+        {
+            "text": "江苏凤凰文艺出版社",
+            "link": "https://book.douban.com/press/2492"
+        },
+        {
+            "text": "时代华语国际",
+            "link": "https://book.douban.com/producers/65"
+        },
+        {
+            "text": "贾平凹作品系列",
+            "link": "https://book.douban.com/series/35443"
+        }
+    ],
+    "tag": "随笔"
+}

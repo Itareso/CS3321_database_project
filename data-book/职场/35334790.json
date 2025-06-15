@@ -1,0 +1,43 @@
+{
+    "title": "我的第一本人生规划手册",
+    "bookInfo": {
+        "作者": "柏永辉",
+        "出版社": "中国商业出版社",
+        "出版年": "2020-12",
+        "页数": "282",
+        "定价": "99.00元",
+        "装帧": "平装",
+        "ISBN": "9787520814669"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "27.2%",
+        "four_star_rate": "29.0%",
+        "three_star_rate": "27.7%",
+        "two_star_rate": "9.8%",
+        "one_star_rate": "6.3%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "18.19元",
+            "link": "https://read.douban.com/ebook/310914068/?dcs=subject-buylink&dcm=douban&dct=35334790"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35334790/",
+    "douban_id": "35334790",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33808452.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "柏永辉",
+            "link": "https://book.douban.com/search/%E6%9F%8F%E6%B0%B8%E8%BE%89"
+        },
+        {
+            "text": "中国商业出版社",
+            "link": "https://book.douban.com/press/2172"
+        }
+    ],
+    "tag": "职场"
+}

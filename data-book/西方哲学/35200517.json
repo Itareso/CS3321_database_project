@@ -1,0 +1,73 @@
+{
+    "title": "诱惑者日记",
+    "bookInfo": {
+        "作者": "［丹麦］索伦•克尔凯郭尔",
+        "出版社": "雅众文化/外语教学与研究出版社",
+        "出品方": "雅众文化",
+        "原作名": "Forførerens Dagbog",
+        "译者": "陈岳辰",
+        "出版年": "2020-12",
+        "页数": "200",
+        "定价": "46.00",
+        "装帧": "精装",
+        "丛书": "克尔凯郭尔“婚恋三书”",
+        "ISBN": "9787521319491"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.2%",
+        "four_star_rate": "39.6%",
+        "three_star_rate": "20.1%",
+        "two_star_rate": "4.7%",
+        "one_star_rate": "1.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4546596/",
+            "name": "索伦·克尔凯郭尔",
+            "role": "作者",
+            "douban_id": "4546596"
+        },
+        {
+            "link": "https://book.douban.com/author/4623505/",
+            "name": "陈岳辰",
+            "role": "译者",
+            "douban_id": "4623505"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "33.60元",
+            "link": "https://book.douban.com/link2/?lowest=3060&pre=0&vendor=jingdong&srcpage=subject&price=3360&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVoQXAYLXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOHB09Y0N3CzNOXy9JPk5nLRwNUgBzcDJIdVlDBHhBAzU_VQ11YSdLYxpvWxFCWCokdC5jcAhPbTJDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZDAw0FXC0JXApBaQxsDU4CDF0CdR13D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcHXFpfDk0UCmk4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwdRAAwzVE1NX25aHh57Xg4KU1xfAEknAW4JGVklbTZKFz42ACsfXylMbwd2FWN7Fg4HQy9kXi9mGQ1MI0VVPzwATil1SyxwWiETbQUy&cntvendor=2&srcsubj=35200517&type=bkbuy&subject=35200517"
+        },
+        {
+            "name": "当当网",
+            "price": "30.60元",
+            "link": "https://book.douban.com/link2/?lowest=3060&pre=0&vendor=dangdang&srcpage=subject&price=3060&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35200517%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29165155&cntvendor=2&srcsubj=35200517&type=bkbuy&subject=35200517"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35200517/",
+    "douban_id": "35200517",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33777798.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "［丹麦］索伦•克尔凯郭尔",
+            "link": "https://book.douban.com/author/4546596"
+        },
+        {
+            "text": "雅众文化",
+            "link": "https://book.douban.com/producers/41"
+        },
+        {
+            "text": "陈岳辰",
+            "link": "https://book.douban.com/author/4623505"
+        },
+        {
+            "text": "克尔凯郭尔“婚恋三书”",
+            "link": "https://book.douban.com/series/54371"
+        }
+    ],
+    "tag": "西方哲学"
+}

@@ -1,0 +1,90 @@
+{
+    "title": "肖申克的救赎",
+    "bookInfo": {
+        "作者": "[美] 斯蒂芬·金",
+        "出版社": "人民文学出版社",
+        "出品方": "99读书人",
+        "副标题": "纪念珍藏版",
+        "原作名": "Different Seasons",
+        "译者": "施寄青 / 赵永芬 / 齐若兰",
+        "出版年": "2018-9",
+        "页数": "416",
+        "定价": "55.00元",
+        "装帧": "软精装",
+        "丛书": "斯蒂芬·金作品系列",
+        "ISBN": "9787020143405"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "51.3%",
+        "four_star_rate": "39.8%",
+        "three_star_rate": "8.4%",
+        "two_star_rate": "0.5%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4530287/",
+            "name": "斯蒂芬·金",
+            "role": "作者",
+            "douban_id": "4530287"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "27.00元",
+            "link": "https://read.douban.com/ebook/60222874/?dcs=subject-buylink&dcm=douban&dct=30268595"
+        },
+        {
+            "name": "得到",
+            "price": "17.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=ekM2z5Kexap9AKyJEz8DOYn6GNrV20KmkM3dgbRXq1Qvlj7P5ZmoMkLB47y6ONAv&source=douban"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30268595/",
+    "douban_id": "30268595",
+    "menu": [
+        "",
+        "        代序",
+        "        1 春天的希望肖申克的救赎",
+        "        75 夏日沉沦纳粹高徒",
+        "        223 不再纯真的秋天尸体",
+        "        343 暮冬重生呼—吸—呼—吸",
+        "        393 后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29813842.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 斯蒂芬·金",
+            "link": "https://book.douban.com/author/4530287"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        },
+        {
+            "text": "99读书人",
+            "link": "https://book.douban.com/producers/1"
+        },
+        {
+            "text": "施寄青",
+            "link": "https://book.douban.com/search/%E6%96%BD%E5%AF%84%E9%9D%92"
+        },
+        {
+            "text": "赵永芬",
+            "link": "https://book.douban.com/search/%E8%B5%B5%E6%B0%B8%E8%8A%AC"
+        },
+        {
+            "text": "齐若兰",
+            "link": "https://book.douban.com/search/%E9%BD%90%E8%8B%A5%E5%85%B0"
+        },
+        {
+            "text": "斯蒂芬·金作品系列",
+            "link": "https://book.douban.com/series/41728"
+        }
+    ],
+    "tag": "经典"
+}

@@ -1,0 +1,66 @@
+{
+    "title": "绝对甜心",
+    "bookInfo": {
+        "作者": "米米拉",
+        "出版社": "湖南少年儿童出版社",
+        "出版年": "2012-10",
+        "页数": "234",
+        "定价": "28.80元",
+        "装帧": "平装",
+        "ISBN": "9787535882608"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "55.6%",
+        "four_star_rate": "19.4%",
+        "three_star_rate": "16.7%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "8.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/258915/",
+            "name": "米米拉",
+            "role": "作者",
+            "douban_id": "258915"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "16.84元",
+            "link": "https://book.douban.com/link2/?lowest=1684&pre=0&vendor=jingdong&srcpage=subject&price=1684&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10039521695062.html&cntvendor=1&srcsubj=20396502&type=bkbuy&subject=20396502"
+        }
+    ],
+    "url": "https://book.douban.com/subject/20396502/",
+    "douban_id": "20396502",
+    "menu": [
+        "",
+        "        序幕",
+        "        第一章我又闯祸了",
+        "        第二章甜心保镖",
+        "        第三章少爷，小心被揍",
+        "        第四章莫名其妙的约会",
+        "        第五章不能说的秘密",
+        "        第六章 如果他不是哥哥",
+        "        第七章 小白兔和狐狸",
+        "        第八章 甜心骑士",
+        "        第九章 我可能不会爱你",
+        "        第十章 绝对甜心",
+        "        尾声",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s24557892.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "米米拉",
+            "link": "https://book.douban.com/search/%E7%B1%B3%E7%B1%B3%E6%8B%89"
+        },
+        {
+            "text": "湖南少年儿童出版社",
+            "link": "https://book.douban.com/press/2606"
+        }
+    ],
+    "tag": "校园"
+}

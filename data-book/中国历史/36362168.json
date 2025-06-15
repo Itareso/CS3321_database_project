@@ -1,0 +1,122 @@
+{
+    "title": "变动的传统",
+    "bookInfo": {
+        "作者": "陈侃理 主编",
+        "出版社": "上海古籍出版社",
+        "副标题": "中国古代政治文化史新论",
+        "出版年": "2023-5",
+        "页数": "416",
+        "定价": "78.00元",
+        "装帧": "平装",
+        "ISBN": "9787573206602"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.8%",
+        "four_star_rate": "44.8%",
+        "three_star_rate": "7.1%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "1.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/151807/",
+            "name": "田天",
+            "role": "作者",
+            "douban_id": "151807"
+        },
+        {
+            "link": "https://book.douban.com/author/4614392/",
+            "name": "胡鸿",
+            "role": "作者",
+            "douban_id": "4614392"
+        },
+        {
+            "link": "https://book.douban.com/author/4627087/",
+            "name": "陈侃理",
+            "role": "作者 / 编者",
+            "douban_id": "4627087"
+        },
+        {
+            "link": "https://book.douban.com/author/4624657/",
+            "name": "黄桢",
+            "role": "作者",
+            "douban_id": "4624657"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "39.00元",
+            "link": "https://book.douban.com/link2/?lowest=3900&pre=0&vendor=jingdong&srcpage=subject&price=3900&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVMQVQMFVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAXFtVDUwWHDZNRwYlHVpHBFwregx1BB1dex4RXgR3Lz8_eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4FV1dVCEgWM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGVpGCVNsCFgHVBBQQ29mGVoUXQAEUl1tCkoWAW04K2tSBmVxVls-Qz8Rfgl4GRNdCg9yHBpfaxF5AWkKcABRLk5bICEiTxBpXRJyK1gl&cntvendor=2&srcsubj=36362168&type=bkbuy&subject=36362168"
+        },
+        {
+            "name": "中图网",
+            "price": "47.80元",
+            "link": "https://book.douban.com/link2/?lowest=3900&pre=0&vendor=bookschina&srcpage=subject&price=4780&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9103230.htm&cntvendor=2&srcsubj=36362168&type=bkbuy&subject=36362168"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36362168/",
+    "douban_id": "36362168",
+    "menu": [
+        "",
+        "        目录",
+        "        前言/陈侃理",
+        "        祭祀/田天",
+        "        一、 国家祭祀与秦的统一",
+        "        二、 更秦立汉：西汉前中期的国家祭祀",
+        "        三、 西汉中后期国家祭祀的转型",
+        "        四、 结语",
+        "        历法/郭津嵩",
+        "        一、 “敬授民时”：颁朔制度及其局限",
+        "        二、 “考定星历”：历术的竞争与校验",
+        "        三、 “推本天元”：历家作为政治文化的塑造者",
+        "        四、 余论",
+        "        灾异/ 陈侃理",
+        "        一、 灾异论传统的起源与形成",
+        "        二、 灾异政治文化的制度表征",
+        "        三、 灾异政治文化的转变",
+        "        四、 日食灾异：一个个案",
+        "        五、 再思灾异政治文化",
+        "        佛教/ 陈志远",
+        "        一、 佛教史书撰述传统的形成",
+        "        二、 六朝教诤举要",
+        "        三、 几点认识",
+        "        华夷/ 胡鸿",
+        "        一、 从夷夏之辨到华夷秩序",
+        "        二、 秦汉魏晋华夷秩序政治文化的表达与实践",
+        "        三、 十六国北朝的华夷秩序难题及其应对",
+        "        四、 结语",
+        "        修史/ 聂溦萌",
+        "        一、 横向观察：政务—修撰运作联动机制",
+        "        二、 纵向观察：从编年到纪传的官修史编纂流程",
+        "        三、 结语",
+        "        典志/黄桢",
+        "        一、 官制之学的形成",
+        "        二、 官制考述的南朝新风",
+        "        三、 官修政典的出现",
+        "        四、 余论",
+        "        谱学/陈鹏",
+        "        一、 谱系知识的传习与撰述",
+        "        二、 谱系文献的类型与层级",
+        "        三、 晋唐谱学与士族身份界定",
+        "        四、 谱学视角下的中古中国",
+        "        五、 余论",
+        "        后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s34527678.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "陈侃理 主编",
+            "link": "https://book.douban.com/search/%E9%99%88%E4%BE%83%E7%90%86%20%E4%B8%BB%E7%BC%96"
+        },
+        {
+            "text": "上海古籍出版社",
+            "link": "https://book.douban.com/press/2170"
+        }
+    ],
+    "tag": "中国历史",
+    "avg_rate": 4.327
+}

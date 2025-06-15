@@ -1,0 +1,84 @@
+{
+    "title": "异化引擎",
+    "bookInfo": {
+        "作者": "陈楸帆",
+        "出版社": "花城出版社",
+        "出版年": "2020-6",
+        "页数": "296",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "丛书": "超新星supernovae",
+        "ISBN": "9787536091511"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    为了区别于人类所熟知的进化论体系，科学家们最后决定给一种恢弘神秘的未知力量命名为“异化引擎”，代号“Project ME（Mutation Engine）”。真实世界并不取决于物质或能量的形式，而只在于彼此之间的相互关系。    《巴鳞》关注科技能否帮助异化的少数族群融入社会，他者视角如何帮助主流人群弥合裂缝；    《太空大葱》讲述了女性如何在传统农业与太空环境之间夹缝求生的故事；    《刻舟记》讲述了不同个体对于技术运用和价值观的理解分歧与冲突；    《匣中祠堂》思考科技与传统的关系，寻找属于人类进化的出路；    《伪造者Z》让科幻小说作者和小说人物在自相循环的多重现实中折返；    《出神状态》是对自我残存原始意识驱动力的思辨；    《拓扑变换》来自编辑与一名偏执作家在平行宇宙的博弈；    《怪物同学会》是一场为父复仇的意识仪式；    《无债之人》讲述一名太空矿工发现了隐藏在基因链技术背后的阴谋……    《异化引擎》收录了陈楸帆近年来的科幻中短篇小说力作，包含了9个经典篇目，合称为“异化引擎档案”。从不同个体到集体的切片视角，记录下神秘的未知力量“异化引擎”对人类文明所带来的冲击。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "26.0%",
+        "four_star_rate": "39.7%",
+        "three_star_rate": "30.1%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "4.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/333598/",
+            "name": "陈楸帆",
+            "role": "作者",
+            "douban_id": "333598"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "19.90元",
+            "link": "https://www.dedao.cn/ebook/detail?id=XOnaYG1qlM7amvGYerDZOy9JVnXL40BoBAlWBkp1NKxoRdb86P2Q5AzgEj9vE5rD&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFIcWwMFU24ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOMyFeSzRyaBxBWwRsJ3UCDCcmCRt1XRdKdVliK1B9MR1ZSwJMWAh3ayJ-PhFCWCokcBhucBRIbFl9BWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYCNyANTAoUWgwIbSsdAWFVVSs6CBx3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFdfDEsVBW04G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXg8HXQ0zVE1BA2xJQV17XQYLVFpbAUgnAW4JGVklbTZlK10edy58cCZIRCJvLgZaLSVcWClJey1mGSxjC3lnF1oeQRBMZBB4YjB2bQUy&cntvendor=4&srcsubj=35043088&type=bkbuy&subject=35043088"
+        },
+        {
+            "name": "当当网",
+            "price": "39.90元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=dangdang&srcpage=subject&price=3990&pos=3&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35043088%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D28558361&cntvendor=4&srcsubj=35043088&type=bkbuy&subject=35043088"
+        },
+        {
+            "name": "中图网",
+            "price": "21.60元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=bookschina&srcpage=subject&price=2160&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8321883.htm&cntvendor=4&srcsubj=35043088&type=bkbuy&subject=35043088"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35043088/",
+    "douban_id": "35043088",
+    "menu": [
+        "",
+        "        巴鳞",
+        "        太空大葱",
+        "        刻舟记",
+        "        匣中祠堂",
+        "        伪造者Z",
+        "        出神状态",
+        "        拓扑变换",
+        "        怪物同学会",
+        "        无债之人",
+        "        后记：算法与梦境，或文学的未来",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33658179.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "陈楸帆",
+            "link": "https://book.douban.com/author/333598"
+        },
+        {
+            "text": "花城出版社",
+            "link": "https://book.douban.com/press/2536"
+        },
+        {
+            "text": "超新星supernovae",
+            "link": "https://book.douban.com/series/52451"
+        }
+    ],
+    "tag": "科幻"
+}

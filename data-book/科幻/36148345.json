@@ -1,0 +1,60 @@
+{
+    "title": "未来之城",
+    "bookInfo": {
+        "作者": "[德] 马克-乌韦·克林",
+        "出版社": "四川文艺出版社",
+        "出品方": "白马时光",
+        "译者": "王柄熠",
+        "出版年": "2023-1",
+        "页数": "352",
+        "定价": "55.00元",
+        "装帧": "平装",
+        "ISBN": "9787541164828"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "37.2%",
+        "four_star_rate": "42.6%",
+        "three_star_rate": "16.3%",
+        "two_star_rate": "2.3%",
+        "one_star_rate": "1.6%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4635984/",
+            "name": "马克-乌韦·克林",
+            "role": "作者",
+            "douban_id": "4635984"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "32.45元",
+            "link": "https://book.douban.com/link2/?lowest=3245&pre=0&vendor=jingdong&srcpage=subject&price=3245&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGVwUXwILUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAU19fDEITHDZNRwYlJHhKLysucyl1QREIRyVRPFRVNRoEeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEIeBl8IHV4UXgYGUVxZCEgQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwAG1sUVABsCFgKQxkRV2xmG1sQVAUEVV1tCkoWAW04K2tLC2daND4ZdAoWdmhzeSNlGAVhKC0DbR95ASxNSQ1gBUZxFVZVVh1kQhxbK1gl&cntvendor=1&srcsubj=36148345&type=bkbuy&subject=36148345"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36148345/",
+    "douban_id": "36148345",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34387205.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德] 马克-乌韦·克林",
+            "link": "https://book.douban.com/author/4635984"
+        },
+        {
+            "text": "四川文艺出版社",
+            "link": "https://book.douban.com/press/2529"
+        },
+        {
+            "text": "白马时光",
+            "link": "https://book.douban.com/producers/79"
+        },
+        {
+            "text": "王柄熠",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E6%9F%84%E7%86%A0"
+        }
+    ],
+    "tag": "科幻"
+}

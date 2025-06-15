@@ -1,0 +1,56 @@
+{
+    "title": "我的帝王生涯",
+    "bookInfo": {
+        "作者": "苏童",
+        "出版社": "上海文艺出版社",
+        "出版年": "2005-12",
+        "页数": "189",
+        "定价": "16.00元",
+        "装帧": "平装",
+        "丛书": "苏童作品系列（2004版）",
+        "ISBN": "9787532129188"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "34.0%",
+        "four_star_rate": "45.9%",
+        "three_star_rate": "17.9%",
+        "two_star_rate": "1.9%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4510362/",
+            "name": "苏童",
+            "role": "作者",
+            "douban_id": "4510362"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "18.61元",
+            "link": "https://book.douban.com/link2/?lowest=1861&pre=0&vendor=jingdong&srcpage=subject&price=1861&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10040767043026.html&cntvendor=1&srcsubj=1456183&type=bkbuy&subject=1456183"
+        }
+    ],
+    "url": "https://book.douban.com/subject/1456183/",
+    "douban_id": "1456183",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s1506779.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "苏童",
+            "link": "https://book.douban.com/author/4510362"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        },
+        {
+            "text": "苏童作品系列（2004版）",
+            "link": "https://book.douban.com/series/8451"
+        }
+    ],
+    "tag": "中国文学",
+    "avg_rate": 4.114
+}

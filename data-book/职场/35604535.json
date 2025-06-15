@@ -1,0 +1,100 @@
+{
+    "title": "结构思考力Ⅱ",
+    "bookInfo": {
+        "作者": "李忠秋",
+        "出版社": "电子工业出版社",
+        "副标题": "透过结构看问题解决",
+        "出版年": "2021-9",
+        "定价": "45.98元",
+        "装帧": "平装",
+        "ISBN": "9787121419621"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.1%",
+        "four_star_rate": "34.1%",
+        "three_star_rate": "13.4%",
+        "two_star_rate": "4.9%",
+        "one_star_rate": "2.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4631192/",
+            "name": "李忠秋",
+            "role": "作者",
+            "douban_id": "4631192"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "35.40元",
+            "link": "https://read.douban.com/ebook/337144097/?dcs=subject-buylink&dcm=douban&dct=35604535"
+        },
+        {
+            "name": "得到",
+            "price": "35.40元",
+            "link": "https://www.dedao.cn/eBook/6JvkYVNn8NXVry5MeG6Z9RALK2dxJ3GKd437olBEmjgakz1DPvYObQ4qpQdZqme9?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "39.10元",
+            "link": "https://book.douban.com/link2/?lowest=3170&pre=0&vendor=jingdong&srcpage=subject&price=3910&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV4QWgAAVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUVtaDkkWHDZNRwYlKERjIx9cWxN1QjtVYwsXBmEFDyYneEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4FXVdVAUoVM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwBHA8XClZsCFgHVA1UBTNmGFMcVAIDXF5tCkoWAW04K2sXAmBQKlsqeDdzABBURSFRXHNpHSgdCjF5AT1PegRSD25lKCUmChRCQ2gOK1gl&cntvendor=5&srcsubj=35604535&type=bkbuy&subject=35604535"
+        },
+        {
+            "name": "当当网",
+            "price": "46.60元",
+            "link": "https://book.douban.com/link2/?lowest=3170&pre=0&vendor=dangdang&srcpage=subject&price=4660&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35604535%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29305287&cntvendor=5&srcsubj=35604535&type=bkbuy&subject=35604535"
+        },
+        {
+            "name": "中图网",
+            "price": "31.70元",
+            "link": "https://book.douban.com/link2/?lowest=3170&pre=0&vendor=bookschina&srcpage=subject&price=3170&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8682909.htm&cntvendor=5&srcsubj=35604535&type=bkbuy&subject=35604535"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35604535/",
+    "douban_id": "35604535",
+    "menu": [
+        "",
+        "        导 论 解决结构化问题的底层逻辑 1",
+        "        节 解决问题遵守的三个原则 1",
+        "        第二节 解决问题包含的三个层次 8",
+        "        第三节 解决问题遵循的五个步骤 10",
+        "        章 明确目标，界定问题 21",
+        "        节 认清问题的本质 22",
+        "        第二节 分清问题的类型 23",
+        "        第三节 确定现实与期望的一致性，界定问题 26",
+        "        第二章 拆解问题，锁定要素 63",
+        "        节 拆解问题需要遵从的原则 64",
+        "        第二节 拆解问题的方法 80",
+        "        第三节 寻找问题的根本原因 106",
+        "        第三章 针对要素，制定方案 117",
+        "        节 制定方案时优先考虑的原则 117",
+        "        第二节 学会借鉴，想出对策 121",
+        "        第三节 学会创造，想出对策 129",
+        "        第四节 利用头脑风暴，集思广益 144",
+        "        第四章 选择决策，确定方案 149",
+        "        节 利用利弊图做决策 152",
+        "        第二节 利用二维矩阵做决策 155",
+        "        第三节 利用优选矩阵做决策 159",
+        "        第五章 制订计划，实施计划 171",
+        "        节 应用工具，分解任务，将方案细化为工作计划 172",
+        "        第二节 估算任务时间，对任务进行统筹管理 180",
+        "        第三节 执行计划 186",
+        "        本书内容精要 194",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34001051.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "李忠秋",
+            "link": "https://book.douban.com/search/%E6%9D%8E%E5%BF%A0%E7%A7%8B"
+        },
+        {
+            "text": "电子工业出版社",
+            "link": "https://book.douban.com/press/2573"
+        }
+    ],
+    "tag": "职场"
+}

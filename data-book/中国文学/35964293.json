@@ -1,0 +1,76 @@
+{
+    "title": "四合如意",
+    "bookInfo": {
+        "作者": "张怡微",
+        "出版社": "人民文学出版社",
+        "出版年": "2022-7",
+        "页数": "300",
+        "定价": "59",
+        "装帧": "精装",
+        "ISBN": "9787020171972"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "20.6%",
+        "four_star_rate": "45.2%",
+        "three_star_rate": "27.5%",
+        "two_star_rate": "5.7%",
+        "one_star_rate": "1.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/116197/",
+            "name": "张怡微",
+            "role": "作者",
+            "douban_id": "116197"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "44.30元",
+            "link": "https://book.douban.com/link2/?lowest=4350&pre=0&vendor=jingdong&srcpage=subject&price=4430&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGVgTXgAFUm4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOXD4aSzV-RhhMHgJlBENlMAddaC5XRTl4dVl9OQViMR1YTg9JXWdoYyZLLhFCWCokdChjSjpJbFlHBWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZELRofQyxyCg91bUV1J1t5CBU6SRZnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcBVVpZAU4eAms4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWFIDUFczVE1ARjYLXgR7XQcLUVtZCU8nAW4JGVklbTYKNBkediJSdCsNQitMGGFmDV49bQtRVR9mGTNxXmZnF1sbTBVJCw9wZgVmbQUy&cntvendor=3&srcsubj=35964293&type=bkbuy&subject=35964293"
+        },
+        {
+            "name": "当当网",
+            "price": "59.00元",
+            "link": "https://book.douban.com/link2/?lowest=4350&pre=0&vendor=dangdang&srcpage=subject&price=5900&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35964293%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29428344&cntvendor=3&srcsubj=35964293&type=bkbuy&subject=35964293"
+        },
+        {
+            "name": "中图网",
+            "price": "43.50元",
+            "link": "https://book.douban.com/link2/?lowest=4350&pre=0&vendor=bookschina&srcpage=subject&price=4350&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8895072.htm&cntvendor=3&srcsubj=35964293&type=bkbuy&subject=35964293"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35964293/",
+    "douban_id": "35964293",
+    "menu": [
+        "",
+        "        端正好 1",
+        "        冉冉云  23",
+        "        一春过  49",
+        "        缕缕金  71",
+        "        四合如意  95",
+        "        步步娇 123",
+        "        醉太平  149",
+        "        锦缠道 159",
+        "        字字双 181",
+        "        寄生草 203",
+        "        白观音 253",
+        "        煞尾  279",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34256705.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "张怡微",
+            "link": "https://book.douban.com/author/116197"
+        },
+        {
+            "text": "人民文学出版社",
+            "link": "https://book.douban.com/press/2287"
+        }
+    ],
+    "tag": "中国文学"
+}

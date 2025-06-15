@@ -1,0 +1,60 @@
+{
+    "title": "李娃",
+    "bookInfo": {
+        "作者": "高阳",
+        "出版社": "河南文艺出版社",
+        "出品方": "华文天下",
+        "出版年": "2019-7",
+        "页数": "416",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "丛书": "高阳作品（华文天下版）",
+        "ISBN": "9787555908432"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "35.1%",
+        "four_star_rate": "47.3%",
+        "three_star_rate": "17.6%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503316/",
+            "name": "高阳",
+            "role": "作者",
+            "douban_id": "4503316"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "28.88元",
+            "link": "https://book.douban.com/link2/?lowest=2888&pre=0&vendor=jingdong&srcpage=subject&price=2888&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFwXWQ4LVW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBU1xZAEIWHDZNRwYlBEdREVo7ChdyAxVWTwlCLXsCPyEqaEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgcFUV1eDUwQM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwNTFwXWARsCFgKTQAXBDdmG1oSWg8HUVptCkoWAW04K2scXn4CKzsUcCJ_eSxtRzNmH1pLBztVYwB5ATVVZFhCXVl7PSsoAUhVcGkIK1gl&cntvendor=1&srcsubj=34431809&type=bkbuy&subject=34431809"
+        }
+    ],
+    "url": "https://book.douban.com/subject/34431809/",
+    "douban_id": "34431809",
+    "menu": [],
+    "img_link": "https://img1.doubanio.com/view/subject/s/public/s33297910.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "高阳",
+            "link": "https://book.douban.com/author/4503316"
+        },
+        {
+            "text": "河南文艺出版社",
+            "link": "https://book.douban.com/press/2443"
+        },
+        {
+            "text": "华文天下",
+            "link": "https://book.douban.com/producers/17"
+        },
+        {
+            "text": "高阳作品（华文天下版）",
+            "link": "https://book.douban.com/series/47859"
+        }
+    ],
+    "tag": "中国文学"
+}

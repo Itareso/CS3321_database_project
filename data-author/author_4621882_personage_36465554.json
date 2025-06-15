@@ -1,0 +1,145 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.3,
+                        "title": "出祁山",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34999399.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/37089369/",
+                        "year": "2025",
+                        "id": 37089369
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "疫病年代",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34550078.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36429019/",
+                        "year": "2023",
+                        "id": 36429019
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "明人的率性生活",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34507991.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/36369961/",
+                        "year": "2023",
+                        "id": 36369961
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "朝贡、战争与贸易",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34369984.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36160915/",
+                        "year": "2022",
+                        "id": 36160915
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "大唐之变：安史之乱与盛唐的崩裂",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34268635.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35909264/",
+                        "year": "2022",
+                        "id": 35909264
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.2,
+                        "title": "大清内务府",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34359517.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/36142629/",
+                        "year": "2022",
+                        "id": 36142629
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "土木之变",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34339258.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35779927/",
+                        "year": "2022",
+                        "id": 35779927
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "军机处二百年",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34032151.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35618263/",
+                        "year": "2021",
+                        "id": 35618263
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "北洋军征战史",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34005864.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/35611089/",
+                        "year": "2021",
+                        "id": 35611089
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.2,
+                        "title": "明人范",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33854465.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/35255464/",
+                        "year": "2020",
+                        "id": 35255464
+                    }
+                }
+            ],
+            "total": 23
+        }
+    },
+    "author_link": "https://book.douban.com/author/4621882/",
+    "author_douban_id": "4621882",
+    "personage_id": 36465554,
+    "name": [
+        "袁灿兴",
+        "Canxing Yuan"
+    ],
+    "intro": "袁灿兴，江苏靖江人，历史学博士、无锡城市职业技术学院旅游学院副教授，知名历史学者，中央电视台《法律讲堂》主讲嘉宾，已出版《军机处二百年》《大清内务府》《明人的率性生活》《湘军征战史》《晚清裱糊史》《北洋战史》《大唐之变》等畅销作品。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/f3d3375e9ab17308465bc29de916bebf.jpg",
+    "sex": 1,
+    "profession": [
+        "作者"
+    ]
+}

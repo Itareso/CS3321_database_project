@@ -1,0 +1,70 @@
+{
+    "title": "沉睡者",
+    "bookInfo": {
+        "作者": "[墨] 罗多尔弗·桑图约 著 / [阿根廷] 卡洛斯·亚翁 绘",
+        "出版社": "世界图书出版公司",
+        "原作名": "El Dormilón",
+        "译者": "由美",
+        "出版年": "2019-8",
+        "页数": "116",
+        "定价": "42.00元",
+        "装帧": "平装",
+        "ISBN": "9787519263027"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "17.5%",
+        "four_star_rate": "51.0%",
+        "three_star_rate": "30.4%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4635105/",
+            "name": "由美",
+            "role": "译者",
+            "douban_id": "4635105"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "21.00元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=jingdong&srcpage=subject&price=2100&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF8SWwcEVG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IODxk2a0IeeBVUfVoQFERjV1wKXS12WBAPdVkRXgJFKz0UWhdwZDRPYCdKIRFCWCokcC1jWhRMbARhBWJhEhg9ehF3YW58XThwLWJlDgwUfBMXeg1BfxtiFVxgNl81TjwVUTxoaA5CKX9UByoUdxdjXAtYYD1pI1FaFjc6CCMfZSRoQyx2CEN2PSI5cShwXxh8b08XKDZBCAofAElBdw1pXwQQIGBeNwpZVEN3D2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVFdYAE0WB244G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggQCgEBUgozVE1BA2tNUxh7XQYGVl9ZAEgnAW4JGVklbTZZEzU-AUJseTNuGl5cH2cBVgkIbipMfGhmGV8WWUF9NxcPVCxwWChzZwRpbQUy&cntvendor=3&srcsubj=33658595&type=bkbuy&subject=33658595"
+        },
+        {
+            "name": "当当网",
+            "price": "23.70元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=dangdang&srcpage=subject&price=2370&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s33658595%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D27924236&cntvendor=3&srcsubj=33658595&type=bkbuy&subject=33658595"
+        },
+        {
+            "name": "中图网",
+            "price": "29.10元",
+            "link": "https://book.douban.com/link2/?lowest=2100&pre=0&vendor=bookschina&srcpage=subject&price=2910&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8161091.htm&cntvendor=3&srcsubj=33658595&type=bkbuy&subject=33658595"
+        }
+    ],
+    "url": "https://book.douban.com/subject/33658595/",
+    "douban_id": "33658595",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s33475083.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[墨] 罗多尔弗·桑图约 著",
+            "link": "https://book.douban.com/search/%E7%BD%97%E5%A4%9A%E5%B0%94%E5%BC%97%C2%B7%E6%A1%91%E5%9B%BE%E7%BA%A6%20%E8%91%97"
+        },
+        {
+            "text": "[阿根廷] 卡洛斯·亚翁 绘",
+            "link": "https://book.douban.com/search/%E5%8D%A1%E6%B4%9B%E6%96%AF%C2%B7%E4%BA%9A%E7%BF%81%20%E7%BB%98"
+        },
+        {
+            "text": "世界图书出版公司",
+            "link": "https://book.douban.com/press/2675"
+        },
+        {
+            "text": "由美",
+            "link": "https://book.douban.com/author/4635105"
+        }
+    ],
+    "tag": "科幻"
+}

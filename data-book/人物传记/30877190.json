@@ -1,0 +1,50 @@
+{
+    "title": "陈延年",
+    "bookInfo": {
+        "作者": "范晓春",
+        "出版社": "中国工人出版社",
+        "副标题": "站着从容就义",
+        "出版年": "2017-9-1",
+        "页数": "276",
+        "定价": "31.60元",
+        "ISBN": "9787500864233"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "69.9%",
+        "four_star_rate": "25.5%",
+        "three_star_rate": "4.6%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "0.0%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4611600/",
+            "name": "陈延年",
+            "role": "未知",
+            "douban_id": "4611600"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "31.50元",
+            "link": "https://book.douban.com/link2/?lowest=3150&pre=0&vendor=jingdong&srcpage=subject&price=3150&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQYJK1olWg4LUF1cD0keM28JGlkVXQAKVFhaDU4WMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWAW8IHVMVWwEHUV9CUQ5LXl9KbEFzGRx0PT0jbkwVRBN_eQBiI05UWFJtD04QBWgBGFwlXQIDUFptOEsWMy5mHl4VXQYyVl5cCU4XC2gLGmsVWwMDUVZVCEwQC2oLK1sdWTbb1OmLqtnOneXdk8wlbTYBZG5tCHsUMzFmGggSWAECBgszVE1NXWdSEwN7XwcBU11bAUwnAW4JGVklbTZ9MyUWaCsXdmxfWBtrHX4KHDwEQBgUWARmGTB8LmF7HwQJCzhKdSh6fFJSbQUy&cntvendor=1&srcsubj=30877190&type=bkbuy&subject=30877190"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30877190/",
+    "douban_id": "30877190",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33879996.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "范晓春",
+            "link": "https://book.douban.com/search/%E8%8C%83%E6%99%93%E6%98%A5"
+        },
+        {
+            "text": "中国工人出版社",
+            "link": "https://book.douban.com/press/2774"
+        }
+    ],
+    "tag": "人物传记"
+}

@@ -1,0 +1,78 @@
+{
+    "title": "狄仁杰奇案",
+    "bookInfo": {
+        "作者": "[荷兰] 高罗佩",
+        "出版社": "上海译文出版社",
+        "译者": "张凌 整理",
+        "出版年": "2023-4",
+        "页数": "250",
+        "定价": "49",
+        "装帧": "平装",
+        "丛书": "大唐狄公案",
+        "ISBN": "9787532791637"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "56.2%",
+        "four_star_rate": "32.5%",
+        "three_star_rate": "7.9%",
+        "two_star_rate": "1.0%",
+        "one_star_rate": "2.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4545458/",
+            "name": "高罗佩",
+            "role": "作者",
+            "douban_id": "4545458"
+        },
+        {
+            "link": "https://book.douban.com/author/4629539/",
+            "name": "张凌",
+            "role": "校注",
+            "douban_id": "4629539"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "48.99元",
+            "link": "https://read.douban.com/ebook/429641709/?dcs=subject-buylink&dcm=douban&dct=36300019"
+        },
+        {
+            "name": "得到",
+            "price": "48.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=L5BbmPyQPrjybo2eO1GvAmNJnlYxV0R9JJnw8XDBK9qZpgkRELd75z4Ma6oDRrqj&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.50元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=jingdong&srcpage=subject&price=2450&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQkJK1olXwUGXFxVCkoRB18IGloTVAUAXVpZCEoWB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkBGFkcWQICVV9ZFxJSXzI4EhJPKQBpFiE4bhdLf2ttSR9mX15fNFJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsWWwEGUlleOEkXAm4NG1MSXgcyVFhYCUsfBWwKG1wSVDYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUQlaCk4VbTMOTAVNXV5aOlZVAUISAmo4GVoUXwQyZG4WWhwXc2YBbTsXNVZwPQYPaANRWjlATwN7X1leEAwCCBxNY2dJZh9-Am9dZF1t&cntvendor=5&srcsubj=36300019&type=bkbuy&subject=36300019"
+        },
+        {
+            "name": "当当网",
+            "price": "46.50元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=dangdang&srcpage=subject&price=4650&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36300019%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29554338&cntvendor=5&srcsubj=36300019&type=bkbuy&subject=36300019"
+        },
+        {
+            "name": "中图网",
+            "price": "30.40元",
+            "link": "https://book.douban.com/link2/?lowest=2450&pre=0&vendor=bookschina&srcpage=subject&price=3040&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F9071638.htm&cntvendor=5&srcsubj=36300019&type=bkbuy&subject=36300019"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36300019/",
+    "douban_id": "36300019",
+    "menu": [
+        "",
+        "        卷头语",
+        "        黄序",
+        "        自序",
+        "        题词",
+        "        整理说明",
+        "        狄仁杰奇案",
+        "        整理后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

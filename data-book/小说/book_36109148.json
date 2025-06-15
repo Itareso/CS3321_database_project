@@ -1,0 +1,81 @@
+{
+    "title": "滔滔生活",
+    "bookInfo": {
+        "作者": "[韩]金爱烂",
+        "出版社": "人民文学出版社",
+        "译者": "徐丽红",
+        "出版年": "2022-10-15",
+        "页数": "236",
+        "定价": "45.00元",
+        "装帧": "平装",
+        "丛书": "金爱烂作品集",
+        "ISBN": "9787020171767"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "36.5%",
+        "four_star_rate": "51.8%",
+        "three_star_rate": "11.2%",
+        "two_star_rate": "0.4%",
+        "one_star_rate": "0.1%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4609155/",
+            "name": "金爱烂",
+            "role": "作者",
+            "douban_id": "4609155"
+        },
+        {
+            "link": "https://book.douban.com/author/4617018/",
+            "name": "徐丽红",
+            "role": "译者",
+            "douban_id": "4617018"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "32.00元",
+            "link": "https://read.douban.com/ebook/419607447/?dcs=subject-buylink&dcm=douban&dct=36109148"
+        },
+        {
+            "name": "得到",
+            "price": "32.00元",
+            "link": "https://www.dedao.cn/ebook/detail?id=Lk89Yv4kyM12eaG795DmKAponOvLVWvE590ZzdbYxN84JQR6XgEqBPljrbpzARlB&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "24.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=jingdong&srcpage=subject&price=2400&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQoJK1olXwMAU1ldCEwQBV8IGloTVA8GVFpUDE4RAV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkBEl8VWQ8GUVhfFxJSXzI4RRtLAXh5Nws9CQNTXx9yZwVUG0d3AlJROEwSBGkPElgSbQYGVVpZOHsXAl9JdVsXWA8BXFhfOEkXAm4NG1MSXgcyVFhYCUsfBW0MH1sTVTYCXFpt0cug1c2awsWfiI6VZG5tC3snM284GGtLMwdRUlxcCR8RbTMOTAVPA0NWOl5cCE4eBW4BK1kUXAQAZG5tXwl-UGdoHRgUC0ZVLjseeiBpAQdBbiRuMwRGDCYfChhIQ25dUFprNE93CG5eOA&cntvendor=5&srcsubj=36109148&type=bkbuy&subject=36109148"
+        },
+        {
+            "name": "当当网",
+            "price": "45.00元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=dangdang&srcpage=subject&price=4500&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s36109148%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29479129&cntvendor=5&srcsubj=36109148&type=bkbuy&subject=36109148"
+        },
+        {
+            "name": "中图网",
+            "price": "29.30元",
+            "link": "https://book.douban.com/link2/?lowest=2400&pre=0&vendor=bookschina&srcpage=subject&price=2930&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8956750.htm&cntvendor=5&srcsubj=36109148&type=bkbuy&subject=36109148"
+        }
+    ],
+    "url": "https://book.douban.com/subject/36109148/",
+    "douban_id": "36109148",
+    "menu": [
+        "",
+        "        “我想抓住那道光”（译本序）by 张怡微",
+        "        滔滔生活",
+        "        口水涟涟",
+        "        圣诞特选",
+        "        过子午线",
+        "        刀痕（李孝石文学奖）",
+        "        祈祷",
+        "        方寸之地",
+        "        孩子和岛",
+        "        作家的话",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "tag": "小说"
+}

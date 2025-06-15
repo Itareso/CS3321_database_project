@@ -1,0 +1,48 @@
+{
+    "title": "狼群4",
+    "bookInfo": {
+        "作者": "刺血",
+        "出版社": "朝华出版社",
+        "出版年": "2006-1",
+        "页数": "292",
+        "定价": "23.00元",
+        "丛书": "狼群",
+        "ISBN": "9787505415812"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "67.0%",
+        "four_star_rate": "23.9%",
+        "three_star_rate": "7.3%",
+        "two_star_rate": "1.3%",
+        "one_star_rate": "0.5%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/204020/",
+            "name": "刺血",
+            "role": "作者",
+            "douban_id": "204020"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/1832693/",
+    "douban_id": "1832693",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s5747633.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刺血",
+            "link": "https://book.douban.com/author/204020/"
+        },
+        {
+            "text": "朝华出版社",
+            "link": "https://book.douban.com/press/2794"
+        },
+        {
+            "text": "狼群",
+            "link": "https://book.douban.com/series/60386"
+        }
+    ],
+    "tag": "军事"
+}

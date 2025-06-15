@@ -1,0 +1,88 @@
+{
+    "title": "漱石日记",
+    "bookInfo": {
+        "作者": "[日] 夏目漱石",
+        "出版社": "上海译文出版社",
+        "原作名": "漱石日記",
+        "译者": "陈德文",
+        "出版年": "2020-6",
+        "定价": "52.00元",
+        "装帧": "精装",
+        "丛书": "夏目漱石作品（精装）",
+        "ISBN": "9787532783014"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "16.6%",
+        "four_star_rate": "36.8%",
+        "three_star_rate": "39.1%",
+        "two_star_rate": "6.7%",
+        "one_star_rate": "0.8%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4503311/",
+            "name": "夏目漱石",
+            "role": "作者",
+            "douban_id": "4503311"
+        },
+        {
+            "link": "https://book.douban.com/author/4608726/",
+            "name": "陈德文",
+            "role": "译者",
+            "douban_id": "4608726"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "29.99元",
+            "link": "https://read.douban.com/ebook/149692209/?dcs=subject-buylink&dcm=douban&dct=35014401"
+        },
+        {
+            "name": "京东商城",
+            "price": "36.40元",
+            "link": "https://book.douban.com/link2/?lowest=2650&pre=0&vendor=jingdong&srcpage=subject&price=3640&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFISVAUDXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOVgE7WjUSdB90f1hWD2dbFi4oShREZCRvdVlHGmddEww1bzdseG1XSAxRWxFCWCokcBhjWm9KbzJDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZGP11DVExwegpdaR5IJVMFSlxfdiJBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtZAEgXA2w4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHU1YzVE1AQShKXwV7XQcFUV1cDUMnAW4JGVklbTYACzgPdk5gcxNsGBhHPF9AJCsfVxhwSAhmGQlSPFlFBjY6dDBsATBbTB8TbQUy&cntvendor=3&srcsubj=35014401&type=bkbuy&subject=35014401"
+        },
+        {
+            "name": "中图网",
+            "price": "26.50元",
+            "link": "https://book.douban.com/link2/?lowest=2650&pre=0&vendor=bookschina&srcpage=subject&price=2650&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8336035.htm&cntvendor=3&srcsubj=35014401&type=bkbuy&subject=35014401"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35014401/",
+    "douban_id": "35014401",
+    "menu": [
+        "",
+        "        伦敦留学日记  1",
+        "        《后来的事》日记  65",
+        "        满韩纪行日记  85",
+        "        修善寺大患日记  121",
+        "        明治的终焉日记  153",
+        "        大正三年家庭日记  165",
+        "        大正五年最终日记  181",
+        "        译后记  189",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33657136.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[日] 夏目漱石",
+            "link": "https://book.douban.com/author/4503311"
+        },
+        {
+            "text": "上海译文出版社",
+            "link": "https://book.douban.com/press/2582"
+        },
+        {
+            "text": "陈德文",
+            "link": "https://book.douban.com/author/4608726"
+        },
+        {
+            "text": "夏目漱石作品（精装）",
+            "link": "https://book.douban.com/series/35463"
+        }
+    ],
+    "tag": "随笔"
+}

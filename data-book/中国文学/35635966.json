@@ -1,0 +1,72 @@
+{
+    "title": "啊朋友再见",
+    "bookInfo": {
+        "作者": "宋阿曼",
+        "出版社": "上海文艺出版社",
+        "出版年": "2021-11",
+        "页数": "299",
+        "定价": "49.00",
+        "装帧": "平装",
+        "ISBN": "9787532180103"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "43.1%",
+        "four_star_rate": "38.3%",
+        "three_star_rate": "13.3%",
+        "two_star_rate": "2.8%",
+        "one_star_rate": "2.4%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "19.99元",
+            "link": "https://read.douban.com/ebook/339910592/?dcs=subject-buylink&dcm=douban&dct=35635966"
+        },
+        {
+            "name": "得到",
+            "price": "19.99元",
+            "link": "https://www.dedao.cn/ebook/detail?id=jbPz5VvneQEmdz9Gl2qMDkY4B6x7PWPl9LWXoJLvryOK1Z8NRajbVgAp5OmY2QX7&source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "25.97元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=jingdong&srcpage=subject&price=2597&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFMdWQMDUG4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IONFY2Syt3WDx9SxxrHnNFUBU6TEMedBh6dVl3KAAKAh06dD5BVQ8AUgkQFRFCWCokcBtuYBxIbzJxBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDYYNBwhY09IXw1tXxx9J2ILIVpUTBBnD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcBVVtdDEkQBGc4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggTXwYHU1gzVE1AQTNcQA97XQcGXFZfDUwnAW4JGVklbTZiXDUeaCtMUBpYXCVWKEEGHzkZAEJgdB1mGTlgWw5UFzkhfR1BY2dBSV5dbQUy&cntvendor=5&srcsubj=35635966&type=bkbuy&subject=35635966"
+        },
+        {
+            "name": "当当网",
+            "price": "27.60元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=dangdang&srcpage=subject&price=2760&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35635966%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29324005&cntvendor=5&srcsubj=35635966&type=bkbuy&subject=35635966"
+        },
+        {
+            "name": "中图网",
+            "price": "22.50元",
+            "link": "https://book.douban.com/link2/?lowest=2250&pre=0&vendor=bookschina&srcpage=subject&price=2250&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8706610.htm&cntvendor=5&srcsubj=35635966&type=bkbuy&subject=35635966"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35635966/",
+    "douban_id": "35635966",
+    "menu": [
+        "",
+        "        李垂青，2001",
+        "        西皮流水",
+        "        堤岸之间",
+        "        白噪音",
+        "        啊朋友再见",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34024437.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "宋阿曼",
+            "link": "https://book.douban.com/search/%E5%AE%8B%E9%98%BF%E6%9B%BC"
+        },
+        {
+            "text": "上海文艺出版社",
+            "link": "https://book.douban.com/press/2680"
+        }
+    ],
+    "tag": "中国文学"
+}

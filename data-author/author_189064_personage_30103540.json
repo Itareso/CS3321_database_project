@@ -1,0 +1,151 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "坡地手记",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34837125.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36855479/",
+                        "year": "2024",
+                        "id": 36855479
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.9,
+                        "title": "三十岁以后的写作课",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s34898591.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36947055/",
+                        "year": "2024",
+                        "id": 36947055
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.8,
+                        "title": "夜行者",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34922658.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36943078/",
+                        "year": "2024",
+                        "id": 36943078
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.5,
+                        "title": "刀子和刀子",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34237746.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35867519/",
+                        "year": "2022",
+                        "id": 35867519
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "隐武者",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34290023.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35998645/",
+                        "year": "2022",
+                        "id": 35998645
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.6,
+                        "title": "拳",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33872075.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35318158/",
+                        "year": "2021",
+                        "id": 35318158
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "春山",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33602848.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35005098/",
+                        "year": "2020",
+                        "id": 35005098
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "记忆的尽头",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29492711.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27086780/",
+                        "year": "2017",
+                        "id": 27086780
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "忧伤的乳房",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s27985656.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26302000/",
+                        "year": "2014",
+                        "id": 26302000
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "所有的乡愁",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29918354.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30374332/",
+                        "year": "2013",
+                        "id": 30374332
+                    }
+                }
+            ],
+            "total": 19
+        }
+    },
+    "author_link": "https://book.douban.com/author/189064/",
+    "author_douban_id": "189064",
+    "personage_id": 30103540,
+    "name": [
+        "何大草",
+        "Dacao He"
+    ],
+    "intro": "何大草，本名何平，祖籍四川阆中，生于成都，毕业于四川大学历史系。曾在《人民文学》、《十月}》、《钟山》、《江南》等刊物发表小说百万字，代表作有《如梦令》、《李将军》、《白胭脂》、《一日长于百年》、《一千只猫》、《午时三刻的熊》等。中短篇小说集《衣冠似雪》入选中华文学基金会21世纪文学之星丛书。出版有长篇小说《刀子和刀子》、《午门的暧昧》。现执教于四川师范大学中文系。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/165c72884dbb5e5a4e8ef2c9e67a13fc.jpg",
+    "更多中文名": "何平(本名)",
+    "sex": 1,
+    "birth_place": [
+        "中国",
+        "四川",
+        "成都"
+    ],
+    "profession": [
+        "作者"
+    ]
+}

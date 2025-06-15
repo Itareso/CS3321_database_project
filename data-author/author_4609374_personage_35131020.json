@@ -1,0 +1,154 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "苏轼评传",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/37195223/",
+                        "year": "2025",
+                        "id": 37195223
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.1,
+                        "title": "阅读苏轼",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34647966.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/36102999/",
+                        "year": "2022",
+                        "id": 36102999
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.5,
+                        "title": "东坡集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34237568.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/35922859/",
+                        "year": "2022",
+                        "id": 35922859
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "唐宋诗歌与佛教文艺论集",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33719159.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35039843/",
+                        "year": "2020",
+                        "id": 35039843
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.3,
+                        "title": "苏轼十讲",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s32324813.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/33411346/",
+                        "year": "2019",
+                        "id": 33411346
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.4,
+                        "title": "苏轼诗词文选评",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s32311049.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/33434638/",
+                        "year": "2019",
+                        "id": 33434638
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.2,
+                        "title": "苏轼苏辙研究",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33461358.jpg",
+                        "rating_star": 4.5,
+                        "url": "https://book.douban.com/subject/33426858/",
+                        "year": "2019",
+                        "id": 33426858
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 9.6,
+                        "title": "中国文学传统",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33504552.jpg",
+                        "rating_star": 5.0,
+                        "url": "https://book.douban.com/subject/30346702/",
+                        "year": "2018",
+                        "id": 30346702
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "读书众壑归沧海",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s29712724.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/30166814/",
+                        "year": "2018",
+                        "id": 30166814
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.2,
+                        "title": "庙堂与江湖",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s33861895.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/27089757/",
+                        "year": "2017",
+                        "id": 27089757
+                    }
+                }
+            ],
+            "total": 21
+        }
+    },
+    "author_link": "https://book.douban.com/author/4609374/",
+    "author_douban_id": "4609374",
+    "personage_id": 35131020,
+    "name": [
+        "朱刚",
+        "Zhu Gang"
+    ],
+    "intro": "朱刚，浙江绍兴人。1969年6月6日生，1987年考入复旦大学中文系，1997年师从王水照先生获博士学位。现为复旦大学中国语言文学系主任，中国宋代文学学会副会长，与王水照教授共同主编《新宋学》。主要研究宋代文学，注重探讨宋代道学与文学思想之关系、宋代党争与文学流派之关系。出版有《苏轼评传》（合著）、《唐宋四大家的道论与文学》、《宋代禅僧诗辑考》、《唐宋“古文运动”与士大夫文学》、《苏轼苏辙研究》等学术专著。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/view/personage/m/public/79b68406fafbd25d12538d3b4244f049.jpg",
+    "sex": 1,
+    "birth_date": 1969,
+    "age": 57,
+    "birth_place": [
+        "中国",
+        "浙江",
+        "绍兴"
+    ],
+    "profession": [
+        "作者",
+        "译者",
+        "编者"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.7,
+                        "title": "只是一首歌",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s34126046.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35754129/",
+                        "year": "2022",
+                        "id": 35754129
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.0,
+                        "title": "美的焦虑",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33641149.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/24152639/",
+                        "year": "2013",
+                        "id": 24152639
+                    }
+                }
+            ],
+            "total": 2
+        }
+    },
+    "author_link": "https://book.douban.com/author/4618479/",
+    "author_douban_id": "4618479",
+    "personage_id": 36162796,
+    "name": [
+        "杜斐然",
+        "Feiran Du"
+    ],
+    "intro": "暂无",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img1.doubanio.com/f/vendors/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/personage-default-medium.png",
+    "profession": [
+        "译者"
+    ]
+}

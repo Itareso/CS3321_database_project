@@ -1,0 +1,76 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.3,
+                        "title": "诗经通释",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s34247352.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/35919928/",
+                        "year": "2022",
+                        "id": 35919928
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "傳統與實驗TRADITION AND EXPERIMENTATION .2001",
+                        "cover_url": "https://img1.doubanio.com/cuphead/book-static/pics/book-default-lpic.gif",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/1373150/",
+                        "year": "2001",
+                        "id": 1373150
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "经学研究论集",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33308262.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/34444614/",
+                        "year": "1980",
+                        "id": 34444614
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "訓詁論叢",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27597209.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/5358497/",
+                        "year": "",
+                        "id": 5358497
+                    }
+                }
+            ],
+            "total": 4
+        }
+    },
+    "author_link": "https://book.douban.com/author/4614393/",
+    "author_douban_id": "4614393",
+    "personage_id": 35969336,
+    "name": [
+        "王静芝",
+        "Jingzhi Wang"
+    ],
+    "intro": "王静芝，(1916.6.21-2002.11.17）本名大安，号菊农、霜茂楼主，晚号龙壑，笔名王方曙。祖籍黑龙江佳木斯，生于沈阳，，寄籍北平，卒于台北。 北平辅仁大学毕业，大学时从启功先生习书画，抗战内徙重庆，又从沈尹默先生学书法。来台后任教辅仁大学，担任中文系系主任、 所长、教授， 许多著名学者均出其门下。着有《诗经通释》、《王静芝论书丛稿》等数十种。曾任国家文艺奖、中山文艺奖等书法评审委员。",
+    "images_detail_url": [],
+    "images_simple_url": [],
+    "main_image": "https://img9.doubanio.com/view/personage/m/public/2e73822d5609b91ed842daa5adb38425.jpg",
+    "sex": 1,
+    "birth_date": 1916,
+    "death_date": 2002,
+    "age": 87,
+    "profession": [
+        "作者"
+    ]
+}

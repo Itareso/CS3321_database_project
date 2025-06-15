@@ -1,0 +1,104 @@
+{
+    "title": "你的第一本哲学书",
+    "bookInfo": {
+        "作者": "[美] 托马斯·内格尔",
+        "出版社": "中信出版社",
+        "出品方": "新思文化",
+        "原作名": "What Does it All Mean?",
+        "译者": "宝树",
+        "出版年": "2021-8",
+        "页数": "108",
+        "定价": "38.00",
+        "装帧": "精装",
+        "ISBN": "9787508666792"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    【编辑推荐】    ★畅销全球的哲学入门书。在全球被译成近30种语言出版，数十所名校推荐阅读。在美国，教授会将这本书连同罗素的《西方哲学史》推荐给每位希望了解哲学的读者；在中国，中国教育学会、北京大学等机构在《中学生阅读行动指南》中认为，这本书有助于青少年生活与成长。    ★哲学名家专门为初次接触哲学的读者所写。作者托马斯•内格尔被评为“50位蕞有影响力的在世哲学家”之一，他的这部入门书绕过了思想家的名字和哲学术语，用迷人的哲学问题，为读者播下“爱智慧”的种子。    ★从9个人人困惑过的问题出发，开启9堂极简哲学课。我们如何知道心外世界不是一场大梦？人生的意义何在？……你的怪念头，早已是哲学命题；只要思考得再深一步，哲学的乐趣就会向你敞开！这本书帮助你捕捉自己心中的“怪念头”，把它们锤炼为人生的智慧。    ★108页！严谨而幽默，深刻而简洁，以短短的篇幅，直达哲学的核心！希望你对生活的审视，就从你的第—本哲学书开始。    ---------------------------------    【内容简介】    在这本享誉世界的哲学入门小书中，当代著名哲学家托马斯·内格尔用不可思议的精简篇幅和明白的语言，为我们打开了哲学世界的大门。    不要被“哲学”深奥难懂的外表吓退了！这本书不谈哲学家和哲学概念，而是问了人人都多少困惑过的9个哲学问题：    我们如何知道心外世界不是一场大梦？    理解他人的心灵，为何困难重重？    肉体与心灵的关系是怎样的？    语言为什么可以传达意义？    我们的意志是自由的吗？    我们的行为为什么会有对错之分？    什么样的不平等是不公正的？    死亡意味着什么？    人生的意义何在？    通过回应这些问题，内格尔展示了哲学思考的真正乐趣。其实，古往今来的哲学家们，也都是带着这些问题踏上他们的哲学之旅的。哲学的源泉，就在于我们身边的世界，以及我们与世界之间复杂而多彩的纠葛。    《你的第—本哲学书》的目的不是要给出正确答案，而是用非常平易的方式把你引向哲学的思考方式，教你用它来捕捉心中迸发的迷惑与感悟，积累智慧。    希望你对生活的审视，就从你的第—本哲学书开始。    ---------------------------------    【名人推荐】    作者托马斯·内格尔有着罕见的天赋，可以把严谨与幽默感、丰富的内涵与简洁的叙述结合起来。尤其令人欣喜的一点是，这本书没有堆砌各种人名或流派，却为初学者展示了哲学的核心问题。    ——《泰晤士报》\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "27.0%",
+        "four_star_rate": "49.5%",
+        "three_star_rate": "20.8%",
+        "two_star_rate": "2.3%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/115236/",
+            "name": "托马斯·内格尔",
+            "role": "作者",
+            "douban_id": "115236"
+        },
+        {
+            "link": "https://book.douban.com/author/711438/",
+            "name": "宝树",
+            "role": "译者",
+            "douban_id": "711438"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "9.90元",
+            "link": "https://read.douban.com/ebook/36677673/?dcs=subject-buylink&dcm=douban&dct=26892991"
+        },
+        {
+            "name": "得到",
+            "price": "9.90元",
+            "link": "https://www.dedao.cn/eBook/gO8xJGVarB2qEQoplXvY14JRbVdnz0zEa8wjPmyDANKge8O65LG7Mk9xZYk69Zry?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "17.10元",
+            "link": "https://book.douban.com/link2/?lowest=1710&pre=0&vendor=jingdong&srcpage=subject&price=1710&pos=3&url=https%3A%2F%2Fitem.jd.com%2F13860628.html&cntvendor=5&srcsubj=26892991&type=bkbuy&subject=26892991"
+        },
+        {
+            "name": "当当网",
+            "price": "28.50元",
+            "link": "https://book.douban.com/link2/?lowest=1710&pre=0&vendor=dangdang&srcpage=subject&price=2850&pos=4&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26892991%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29291516&cntvendor=5&srcsubj=26892991&type=bkbuy&subject=26892991"
+        },
+        {
+            "name": "中图网",
+            "price": "30.30元",
+            "link": "https://book.douban.com/link2/?lowest=1710&pre=0&vendor=bookschina&srcpage=subject&price=3030&pos=5&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8664460.htm&cntvendor=5&srcsubj=26892991&type=bkbuy&subject=26892991"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26892991/",
+    "douban_id": "26892991",
+    "menu": [
+        "",
+        "        【目录】",
+        "        致中国读者",
+        "        第1 章 导言",
+        "        第2 章 外部世界是否存在？",
+        "        第3 章 他人的意识",
+        "        第4 章 身—心问题",
+        "        第5 章 词语的意义",
+        "        第6 章 自由意志",
+        "        第7 章 对与错",
+        "        第8 章 正义",
+        "        第9 章 死亡",
+        "        第10 章 人生的意义",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img2.doubanio.com/view/subject/s/public/s34001941.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 托马斯·内格尔",
+            "link": "https://book.douban.com/author/115236"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "新思文化",
+            "link": "https://book.douban.com/producers/60"
+        },
+        {
+            "text": "宝树",
+            "link": "https://book.douban.com/author/711438"
+        }
+    ],
+    "tag": "西方哲学"
+}

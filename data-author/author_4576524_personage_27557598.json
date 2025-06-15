@@ -1,0 +1,170 @@
+{
+    "recent_works": {
+        "r": 0,
+        "data": {
+            "items": [
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 8.4,
+                        "title": "主人公",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s34646179.jpg",
+                        "rating_star": 4.0,
+                        "url": "https://book.douban.com/subject/36480466/",
+                        "year": "2023",
+                        "id": 36480466
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.0,
+                        "title": "和唯一知道星星为什么会发光的人一起散步",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33766839.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/35241110/",
+                        "year": "2020",
+                        "id": 35241110
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.5,
+                        "title": "肥肉",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s33594963.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/25774256/",
+                        "year": "2020",
+                        "id": 25774256
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.3,
+                        "title": "收获长篇小说2020冬卷",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s33808830.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/35312990/",
+                        "year": "2020",
+                        "id": 35312990
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.9,
+                        "title": "东京一年",
+                        "cover_url": "https://img2.doubanio.com/view/subject/m/public/s29497641.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/27074861/",
+                        "year": "2017",
+                        "id": 27074861
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.6,
+                        "title": "故事的结局早已写在开头",
+                        "cover_url": "https://img9.doubanio.com/view/subject/m/public/s28115644.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26413330/",
+                        "year": "2015",
+                        "id": 26413330
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.4,
+                        "title": "兩代人的十二月",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s28288740.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/26413702/",
+                        "year": "2015",
+                        "id": 26413702
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 0,
+                        "title": "鸟王的春天",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s28367817.jpg",
+                        "rating_star": 0,
+                        "url": "https://book.douban.com/subject/26692778/",
+                        "year": "2015",
+                        "id": 26692778
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 7.1,
+                        "title": "我承认我不曾历经沧桑",
+                        "cover_url": "https://img3.doubanio.com/view/subject/m/public/s27080623.jpg",
+                        "rating_star": 3.5,
+                        "url": "https://book.douban.com/subject/25741244/",
+                        "year": "2013",
+                        "id": 25741244
+                    }
+                },
+                {
+                    "subject": {
+                        "subtype": "book",
+                        "rating_num": 6.4,
+                        "title": "天才的出走（中国故事）",
+                        "cover_url": "https://img1.doubanio.com/view/subject/m/public/s27201790.jpg",
+                        "rating_star": 3.0,
+                        "url": "https://book.douban.com/subject/25811772/",
+                        "year": "2013",
+                        "id": 25811772
+                    }
+                }
+            ],
+            "total": 24
+        }
+    },
+    "author_link": "https://book.douban.com/author/4576524/",
+    "author_douban_id": "4576524",
+    "personage_id": 27557598,
+    "name": [
+        "蒋方舟",
+        "Fangzhou Jiang"
+    ],
+    "intro": "蒋方舟，1989年10月27日出生于湖北襄阳，中国青年作家、杂志副主编。",
+    "images_detail_url": [
+        "https://www.douban.com/personage/27557598/photo/2484790025",
+        "https://www.douban.com/personage/27557598/photo/2484809775",
+        "https://www.douban.com/personage/27557598/photo/2484809389",
+        "https://www.douban.com/personage/27557598/photo/2484814791",
+        "https://www.douban.com/personage/27557598/photo/2484814707"
+    ],
+    "images_simple_url": [
+        "https://img1.doubanio.com/view/photo/photo/public/p2484790025.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2484809775.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2484809389.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2484814791.webp",
+        "https://img1.doubanio.com/view/photo/photo/public/p2484814707.webp"
+    ],
+    "main_image": "https://img3.doubanio.com/view/personage/m/public/4ed0a4c0c8df27af443172ca35eff43f.jpg",
+    "sex": 0,
+    "birth_date": 1989,
+    "age": 37,
+    "birth_place": [
+        "中国",
+        "湖北",
+        "襄阳"
+    ],
+    "family_member": "尚爱兰(母)",
+    "IMDB": "nm11517645",
+    "profession": [
+        "作者",
+        "译者",
+        "编者",
+        "演员",
+        "配音"
+    ]
+}

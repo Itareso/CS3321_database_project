@@ -1,0 +1,94 @@
+{
+    "title": "德米安",
+    "bookInfo": {
+        "作者": "[德]赫尔曼·黑塞",
+        "出版社": "湖南文艺出版社",
+        "出品方": "博集天卷",
+        "副标题": "彷徨少年时",
+        "译者": "尹岩松",
+        "出版年": "2019-5",
+        "页数": "272",
+        "定价": "42",
+        "装帧": "平装",
+        "丛书": "赫尔曼·黑塞作品系列",
+        "ISBN": "9787540491154"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "45.6%",
+        "four_star_rate": "41.7%",
+        "three_star_rate": "11.6%",
+        "two_star_rate": "0.7%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4572322/",
+            "name": "赫尔曼·黑塞",
+            "role": "作者",
+            "douban_id": "4572322"
+        }
+    ],
+    "shops": [
+        {
+            "name": "豆瓣阅读",
+            "price": "17.99元",
+            "link": "https://read.douban.com/ebook/120083126/?dcs=subject-buylink&dcm=douban&dct=30592698"
+        },
+        {
+            "name": "得到",
+            "price": "17.99元",
+            "link": "https://www.dedao.cn/eBook/L5BbmPyQPrjybo2eO1GvAmNJnlYxV0RJPY08XDBK9qZpgkRELd75z4Ma6oDRrqjY?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "40.10元",
+            "link": "https://book.douban.com/link2/?lowest=2620&pre=0&vendor=jingdong&srcpage=subject&price=4010&pos=3&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGF8dXg4FXW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOPykmTkkSRRBbfjhjIHF3NQgfbg9OWR9xdVlqIQZ1URgJThgRBQR_YwsXIBFCWCokcC1uYDpXbFlDBWJhBhg9QBZkYW58XSxwLWNlDT4UfikXeg1BZxtjL1xSNhc5Titudw9xeDxCKX9UBykEbw9jXBtoYD1pI1FdPDk0VSBJdyd8Qyx2CER0LTYNfyhgXRh8b08XKDZAUFgNfhJJBwoOYQRjKE9bHTkHagNRD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfCmYKK1sTWAcBVVxYAUsTC2s4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggdXQUKUl0zVE1AQWlDUxl7XQcGUF5aDUgnAW4JGVklbTZpIyUbCk5RfDxteC1oKnNjAhw7TBJNcxZmGSRpXXEHEgobW00RaBhwS1lobQUy&cntvendor=4&srcsubj=30592698&type=bkbuy&subject=30592698"
+        },
+        {
+            "name": "中图网",
+            "price": "26.20元",
+            "link": "https://book.douban.com/link2/?lowest=2620&pre=0&vendor=bookschina&srcpage=subject&price=2620&pos=4&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8070128.htm&cntvendor=4&srcsubj=30592698&type=bkbuy&subject=30592698"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30592698/",
+    "douban_id": "30592698",
+    "menu": [
+        "",
+        "        第一章　两个世界",
+        "        第二章　该隐",
+        "        第三章　强盗",
+        "        第四章　贝雅特丽齐",
+        "        第五章　奋力破壳而出的鸟儿",
+        "        第六章　雅各布的摔角",
+        "        第七章　夏娃夫人",
+        "        第八章　结束即是开始",
+        "        译后记",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s32301985.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德]赫尔曼·黑塞",
+            "link": "https://book.douban.com/author/4572322"
+        },
+        {
+            "text": "湖南文艺出版社",
+            "link": "https://book.douban.com/press/2146"
+        },
+        {
+            "text": "博集天卷",
+            "link": "https://book.douban.com/producers/20"
+        },
+        {
+            "text": "尹岩松",
+            "link": "https://book.douban.com/search/%E5%B0%B9%E5%B2%A9%E6%9D%BE"
+        },
+        {
+            "text": "赫尔曼·黑塞作品系列",
+            "link": "https://book.douban.com/series/47324"
+        }
+    ],
+    "tag": "经典"
+}

@@ -1,0 +1,70 @@
+{
+    "title": "滚雪球（上）",
+    "bookInfo": {
+        "作者": "[美] 艾丽丝·施罗德",
+        "出版社": "中信出版社",
+        "副标题": "巴菲特和他的财富人生",
+        "译者": "覃扬眉 等",
+        "出版年": "2018-2-1",
+        "页数": "536",
+        "装帧": "精装",
+        "丛书": "长赢投资系列",
+        "ISBN": "9787508678788"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "40.5%",
+        "four_star_rate": "38.8%",
+        "three_star_rate": "15.2%",
+        "two_star_rate": "3.2%",
+        "one_star_rate": "2.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/991673/",
+            "name": "艾丽斯·施罗德",
+            "role": "作者",
+            "douban_id": "991673"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "44.20元",
+            "link": "https://book.douban.com/link2/?lowest=4180&pre=0&vendor=jingdong&srcpage=subject&price=4420&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAZwJK1olXwIEVFxdAE8SBV8IGFgdXA4HUW4ZVxNJXF9RXh5UHw0cSgUFVx1AVzAXQA4KD1heSgYYXBcIWipURlVXB0IOEgYrUCx3VCpITw5KA1YKPDxYfRVLRQYNdVlFHw9aPAZeSgtveylQTwdmWxFCWCokcChuYAhXbDJ1BWJhNBg9QBF1YSZ8XSxeLWRlDQwUfykWYQ1BbxthL1xhNhcpTj9fewxxaCxCKX9UMykuXQ5jXB9bYD1pI1FaFjs0UjRQZiReQyx2CER1PS4OfDh8QhhSb08XKDZcJwZYYBUSGQxqTz1hCXh9VywFcBtBD2M4HF4SWwELV1ltCE8WB2s4K1sUbVRsjOjr0O6mH7uilI6dyjYAVF9cDUsfBGwJK1sTWAcHXFZdDUMeBGs4G1MRbd-C44j_mpKJibqAjGslbQUyZG5dC3sUMzFmGggSWFYDBF8zVE1NXWcOGF17XwcBU1dfAE8nAW4JGVklbTZEDCgFbytARi9cTgRLDQ5qNlsoVhdRampmGQtXVF5qDF0fSDNvRTdcRygTbQUy&cntvendor=3&srcsubj=30267836&type=bkbuy&subject=30267836"
+        },
+        {
+            "name": "当当网",
+            "price": "65.30元",
+            "link": "https://book.douban.com/link2/?lowest=4180&pre=0&vendor=dangdang&srcpage=subject&price=6530&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s30267836%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D25208752&cntvendor=3&srcsubj=30267836&type=bkbuy&subject=30267836"
+        },
+        {
+            "name": "中图网",
+            "price": "41.80元",
+            "link": "https://book.douban.com/link2/?lowest=4180&pre=0&vendor=bookschina&srcpage=subject&price=4180&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7691833.htm&cntvendor=3&srcsubj=30267836&type=bkbuy&subject=30267836"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30267836/",
+    "douban_id": "30267836",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33549534.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 艾丽丝·施罗德",
+            "link": "https://book.douban.com/search/%E8%89%BE%E4%B8%BD%E4%B8%9D%C2%B7%E6%96%BD%E7%BD%97%E5%BE%B7"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "覃扬眉 等",
+            "link": "https://book.douban.com/search/%E8%A6%83%E6%89%AC%E7%9C%89%20%E7%AD%89"
+        },
+        {
+            "text": "长赢投资系列",
+            "link": "https://book.douban.com/series/50865"
+        }
+    ],
+    "tag": "人物传记"
+}

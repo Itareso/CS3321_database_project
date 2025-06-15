@@ -1,0 +1,54 @@
+{
+    "title": "文明的逻辑",
+    "bookInfo": {
+        "作者": "文扬",
+        "出版社": "商务印书馆",
+        "副标题": "中西文明的博弈与未来",
+        "出版年": "2021-8",
+        "页数": "387",
+        "定价": "66.00",
+        "装帧": "平装",
+        "ISBN": "9787100200103"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "40.7%",
+        "four_star_rate": "18.5%",
+        "three_star_rate": "29.6%",
+        "two_star_rate": "0.0%",
+        "one_star_rate": "11.1%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "49.50元",
+            "link": "https://book.douban.com/link2/?lowest=4060&pre=0&vendor=jingdong&srcpage=subject&price=4950&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGV4TWwMFUW4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUVhbDUwSHDZNRwYlAW8FEgg0ARx1ZB1fBUFvW210C1cEeEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UWA4LUldUCEMfM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwPHlIVXgNsCFgHVktBAiZmGVoWVQMBVF5tCkoWAW04K2tDA2NAKlsJU0tEewkKGQUdNV5eUh5dbCp5ASdMUgVjH1ZLVD49XhVTZRJgK1gl&cntvendor=3&srcsubj=35635216&type=bkbuy&subject=35635216"
+        },
+        {
+            "name": "当当网",
+            "price": "55.70元",
+            "link": "https://book.douban.com/link2/?lowest=4060&pre=0&vendor=dangdang&srcpage=subject&price=5570&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35635216%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29317638&cntvendor=3&srcsubj=35635216&type=bkbuy&subject=35635216"
+        },
+        {
+            "name": "中图网",
+            "price": "40.60元",
+            "link": "https://book.douban.com/link2/?lowest=4060&pre=0&vendor=bookschina&srcpage=subject&price=4060&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8701655.htm&cntvendor=3&srcsubj=35635216&type=bkbuy&subject=35635216"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35635216/",
+    "douban_id": "35635216",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s34023816.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "文扬",
+            "link": "https://book.douban.com/search/%E6%96%87%E6%89%AC"
+        },
+        {
+            "text": "商务印书馆",
+            "link": "https://book.douban.com/press/2851"
+        }
+    ],
+    "tag": "政治学"
+}

@@ -1,0 +1,80 @@
+{
+    "title": "白洲正子",
+    "bookInfo": {
+        "作者": "白洲正子",
+        "出版社": "新星出版社",
+        "译者": "王之光 / 王之光-德日译者",
+        "出版年": "2020-11",
+        "页数": "160",
+        "定价": "28",
+        "装帧": "平装",
+        "丛书": "MUJI BOOKS“人与物”系列文库本",
+        "ISBN": "9787513341486"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "29.8%",
+        "four_star_rate": "54.6%",
+        "three_star_rate": "13.8%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.9%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4617187/",
+            "name": "王之光",
+            "role": "译者",
+            "douban_id": "4617187"
+        },
+        {
+            "link": "https://book.douban.com/author/4642834/",
+            "name": "王之光",
+            "role": "译者",
+            "douban_id": "4642834"
+        }
+    ],
+    "shops": [],
+    "url": "https://book.douban.com/subject/35249381/",
+    "douban_id": "35249381",
+    "menu": [
+        "",
+        "        生活的纪念 \t1",
+        "        白洲正子语录\t13",
+        "        无用的家\t  57",
+        "        生活中的美\t61",
+        "        穿衣之心\t  77",
+        "        银座『工艺』\t103",
+        "        自己的颜色\t119",
+        "        便装名人\t  127",
+        "        雨中高山寺\t137",
+        "        旅行与钢笔\t147",
+        "        图片说明与索引\t154",
+        "        她的故事·他们的故事\t156",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33755175.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "白洲正子",
+            "link": "https://book.douban.com/search/%E7%99%BD%E6%B4%B2%E6%AD%A3%E5%AD%90"
+        },
+        {
+            "text": "新星出版社",
+            "link": "https://book.douban.com/press/2643"
+        },
+        {
+            "text": "王之光",
+            "link": "https://book.douban.com/author/4617187"
+        },
+        {
+            "text": "王之光-德日译者",
+            "link": "https://book.douban.com/author/4642834"
+        },
+        {
+            "text": "MUJI BOOKS“人与物”系列文库本",
+            "link": "https://book.douban.com/series/43723"
+        }
+    ],
+    "tag": "随笔"
+}

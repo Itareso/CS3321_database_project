@@ -1,0 +1,67 @@
+{
+    "title": "地球大炮",
+    "bookInfo": {
+        "作者": "刘慈欣 原著 / [法]科琳娜·蓓尔特兰德 主编",
+        "出版社": "中信出版集团",
+        "出品方": "漫传奇 / 漫传奇文化",
+        "副标题": "刘慈欣科幻漫画系列第3辑",
+        "出版年": "2021-11",
+        "页数": "102",
+        "定价": "78.00元",
+        "装帧": "平装",
+        "丛书": "刘慈欣科幻漫画系列",
+        "ISBN": "9787521735390"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    在一次以销毁核弹头为主要目的的科学试验中，科学家沈华北利用其发明的“糖衣技术”和核爆炸所产生的巨大压力创造了“新固态材料”。在试验现场，具有超高质量和超强密度的新固态材料直接沉入到致密的地层当中，并引发了地震，这让在场众人既感到紧张、兴奋，又难免生出几分忧虑……试验成功后不久，沈华北因罹患不治之症而不得不进行“冬眠”，以此前往可以被治愈的未来……    沈渊是沈华北的儿子，他同时继承了父亲的天赋与理想，在他的领导和推动下，一个被称为“南极庭院工程”的超级工程启动了，项目完工后，人类便可以用极低的成本将海量的人力和物资从北半球输送到南极，以此推动南极大陆的全面开发。在工程试验阶段，沈渊的女儿沈梦在一次外地核勘探中意外遭遇了超强铁镍流，并永远地被困留在了外地核之中。数年后，建设中的南极庭院工程再次遭到超强铁镍流的冲击，由此引发的工程事故造成了1527人丧生，而沈渊也因此遭到无尽的责骂与怨恨……    冬眠中的沈华北被唤醒了，他被带到一处废墟中并遭到一群陌生人的“审判”。审判伊始，这群满怀愤懑、怨恨与疯狂的人便迫不及待地把他投入到了一个犹如无底洞般的巨大隧道当中，沈华北在无尽深渊中不断下坠，而与此同时，报复背后的真相也被缓缓地揭开了面纱……\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "42.4%",
+        "four_star_rate": "45.9%",
+        "three_star_rate": "9.4%",
+        "two_star_rate": "2.0%",
+        "one_star_rate": "0.4%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "67.00元",
+            "link": "https://book.douban.com/link2/?lowest=4940&pre=0&vendor=jingdong&srcpage=subject&price=6700&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10069483116840.html&cntvendor=2&srcsubj=35596031&type=bkbuy&subject=35596031"
+        },
+        {
+            "name": "中图网",
+            "price": "49.40元",
+            "link": "https://book.douban.com/link2/?lowest=4940&pre=0&vendor=bookschina&srcpage=subject&price=4940&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8714074.htm&cntvendor=2&srcsubj=35596031&type=bkbuy&subject=35596031"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35596031/",
+    "douban_id": "35596031",
+    "menu": [],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s34342442.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣 原著",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3%20%E5%8E%9F%E8%91%97"
+        },
+        {
+            "text": "[法]科琳娜·蓓尔特兰德 主编",
+            "link": "https://book.douban.com/search/%E7%A7%91%E7%90%B3%E5%A8%9C%C2%B7%E8%93%93%E5%B0%94%E7%89%B9%E5%85%B0%E5%BE%B7%20%E4%B8%BB%E7%BC%96"
+        },
+        {
+            "text": "中信出版集团",
+            "link": "https://book.douban.com/press/2908"
+        },
+        {
+            "text": "漫传奇",
+            "link": "https://book.douban.com/producers/711"
+        },
+        {
+            "text": "漫传奇文化",
+            "link": "https://book.douban.com/producers/812"
+        },
+        {
+            "text": "刘慈欣科幻漫画系列",
+            "link": "https://book.douban.com/series/50609"
+        }
+    ],
+    "tag": "科幻"
+}

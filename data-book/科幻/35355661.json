@@ -1,0 +1,53 @@
+{
+    "title": "消失吧！书本",
+    "bookInfo": {
+        "作者": "[德]罗伯特·桑塔格",
+        "出版社": "天津人民出版社",
+        "译者": "宋淑明",
+        "出版年": "2021-5",
+        "页数": "208",
+        "定价": "59.00元",
+        "装帧": "平装",
+        "ISBN": "9787201163642"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    你所看到的，只是他们想让你看到的    一个网络吞噬人类的时代正在到来！    一部充满社会性和警示性的科幻寓言    ● 德国广播电台青少年七部读本奖    ● 德国斯图加特经贸协会文学奖    ● 德国中学指定课外读物    -    在全面数字化的时代，人类如何保持独立思考？    本书讲述了在不久的未来，居民根据财富、年龄及工作内容等被分配到ABC三个不同区居住，人们的生活全都离不开超网，一切信息都从超网上获得。生活中每人都戴着“智慧视镜”。    主人公罗伯和他好友佑幼都受雇于超网巨擘公司旗下的扫描股份公司，该公司派出员工到处寻找市面上所有的纸质书，以高价收购后，将书的所有内容用智慧视镜扫描进超网系统，公司称会把扫描完毕的出版物放在网络上免费供人查阅。    一天，罗伯和佑幼在列车上遇到一个有书的老人，他们打算高价收购他的书。但出人意料的是，这个老人不仅不要钱，还提出一个怪异的条件：免费送，但罗伯必须把书读完。这个老人是谁？他又为什么要这么做？与此同时，一场庞大的让人始料未及的阴谋正在悄然展开……    -    【编辑推荐】    ★轰动全德的科幻小说，让人类重新审视网络时代的力作。紧扣当今全球网络时代的大环境，激发读者反思，充满警示意义。    ★荣获德国多项图书大奖，《西德意志报》德国广播电台等媒体盛赞推荐。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "14.6%",
+        "four_star_rate": "56.1%",
+        "three_star_rate": "22.0%",
+        "two_star_rate": "6.1%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "26.55元",
+            "link": "https://book.douban.com/link2/?lowest=2655&pre=0&vendor=jingdong&srcpage=subject&price=2655&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQMJK1olXwIEVFxdAE8SBV8IGFIRXQAEUG4ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYBXVpdDk0THDZNRwYlFWB2LygNbwJyYxVOYQgUVWRdBDs_eEcbM2gNHF0SVAUFZF5ZCU8TM18IGmtHM9604ob4uVfDqeDdk8wlXwYDVVtdAEwUAl8IHV4UXgYEXF5dD0kRM28AH2vM3bHU9syElsHCi_g4K2sWbTYyVG5eOBV5AjwOGFsRWgdsCFgLCQ5HU2lmG1sTVAMFVlttCkoWAW04K2tOGm1hXVcmchdxAmpsXAtuAlFXUCs2QSJ5AWsLHxxqPk9QCDk6Uwx-dQl0K1gl&cntvendor=2&srcsubj=35355661&type=bkbuy&subject=35355661"
+        },
+        {
+            "name": "当当网",
+            "price": "56.10元",
+            "link": "https://book.douban.com/link2/?lowest=2655&pre=0&vendor=dangdang&srcpage=subject&price=5610&pos=2&url=https%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s35355661%26backurl%3Dhttps%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D29239854&cntvendor=2&srcsubj=35355661&type=bkbuy&subject=35355661"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35355661/",
+    "douban_id": "35355661",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33872776.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[德]罗伯特·桑塔格",
+            "link": "https://book.douban.com/search/%E7%BD%97%E4%BC%AF%E7%89%B9%C2%B7%E6%A1%91%E5%A1%94%E6%A0%BC"
+        },
+        {
+            "text": "天津人民出版社",
+            "link": "https://book.douban.com/press/2765"
+        },
+        {
+            "text": "宋淑明",
+            "link": "https://book.douban.com/search/%E5%AE%8B%E6%B7%91%E6%98%8E"
+        }
+    ],
+    "tag": "科幻"
+}

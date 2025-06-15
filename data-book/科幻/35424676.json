@@ -1,0 +1,71 @@
+{
+    "title": "赡养人类",
+    "bookInfo": {
+        "作者": "刘慈欣 原著 / [法]塞尔万·瑞伯格 改编 / [西班牙]米基·蒙特罗 绘画",
+        "出版社": "中信出版社",
+        "出品方": "漫传奇 / 漫传奇文化",
+        "副标题": "刘慈欣科幻漫画系列第2辑",
+        "原作名": "Providing for Humanity",
+        "出版年": "2021-5",
+        "页数": "128",
+        "定价": "78.00元",
+        "丛书": "刘慈欣科幻漫画系列",
+        "ISBN": "9787521728644"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "44.3%",
+        "four_star_rate": "43.2%",
+        "three_star_rate": "11.4%",
+        "two_star_rate": "0.9%",
+        "one_star_rate": "0.3%"
+    },
+    "authors": [],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "33.30元",
+            "link": "https://book.douban.com/link2/?lowest=3329&pre=0&vendor=jingdong&srcpage=subject&price=3329&pos=1&url=https%3A%2F%2Fitem.jd.com%2F10070582348860.html&cntvendor=2&srcsubj=35424676&type=bkbuy&subject=35424676"
+        },
+        {
+            "name": "中图网",
+            "price": "54.00元",
+            "link": "https://book.douban.com/link2/?lowest=3329&pre=0&vendor=bookschina&srcpage=subject&price=5400&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8585534.htm&cntvendor=2&srcsubj=35424676&type=bkbuy&subject=35424676"
+        }
+    ],
+    "url": "https://book.douban.com/subject/35424676/",
+    "douban_id": "35424676",
+    "menu": [],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s33875344.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "刘慈欣 原著",
+            "link": "https://book.douban.com/search/%E5%88%98%E6%85%88%E6%AC%A3%20%E5%8E%9F%E8%91%97"
+        },
+        {
+            "text": "[法]塞尔万·瑞伯格 改编",
+            "link": "https://book.douban.com/search/%E5%A1%9E%E5%B0%94%E4%B8%87%C2%B7%E7%91%9E%E4%BC%AF%E6%A0%BC%20%E6%94%B9%E7%BC%96"
+        },
+        {
+            "text": "[西班牙]米基·蒙特罗 绘画",
+            "link": "https://book.douban.com/search/%E7%B1%B3%E5%9F%BA%C2%B7%E8%92%99%E7%89%B9%E7%BD%97%20%E7%BB%98%E7%94%BB"
+        },
+        {
+            "text": "中信出版社",
+            "link": "https://book.douban.com/press/2400"
+        },
+        {
+            "text": "漫传奇",
+            "link": "https://book.douban.com/producers/711"
+        },
+        {
+            "text": "漫传奇文化",
+            "link": "https://book.douban.com/producers/812"
+        },
+        {
+            "text": "刘慈欣科幻漫画系列",
+            "link": "https://book.douban.com/series/50609"
+        }
+    ],
+    "tag": "科幻"
+}

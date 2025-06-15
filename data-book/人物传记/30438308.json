@@ -1,0 +1,84 @@
+{
+    "title": "呵呵",
+    "bookInfo": {
+        "作者": "史钧",
+        "出版社": "国际文化出版公司",
+        "副标题": "中国顽童苏东坡",
+        "出版年": "2019-1",
+        "页数": "368",
+        "定价": "68.00",
+        "装帧": "精装",
+        "ISBN": "9787512511156"
+    },
+    "related_intro": "\n        \n          \n.intro p{text-indent:2em;word-break:normal;}\n\n\n    有人说：苏东坡是个秉性难改的乐天派，是悲天悯人的道德家，是黎民百姓的好朋友，是散文作家，是新派的画家，是伟大的书法家，是酿酒的实验者，是工程师，是假道学的反对派，是瑜伽术的修炼者，是佛教徒，是士大夫，是皇帝的秘书，是饮酒成癖者，是心肠慈悲的法官，是政治上的坚持己见者，是月下的漫步者，是诗人，是生性诙谐爱开玩笑的人。可是这些也许还不足以勾绘出苏东坡的全貌。    本书在正史、野史、宋人笔记及苏东坡最新研究成果的基础上，辅以苏轼诗词文章的解读，书写了苏东坡的顽童天性和跌宕多姿的一生。从眉山的自由野性到凤翔的书生治国，从西湖的天涯芳草到黄州的人间如梦，从东京春风得意到海南的孤云倦鸟。无论是显达还是落魄，他始终不忘诙谐、百无禁忌，不管是顺境还是逆境，都付以呵呵一笑。    在呈现苏轼一生得失的同时，本书选取苏轼传世书画和同时期名人名画数十幅，呈现了宋代的文化艺术成就和精神风貌。\n\n        \n      ",
+    "star_rate": {
+        "five_star_rate": "31.8%",
+        "four_star_rate": "34.1%",
+        "three_star_rate": "25.0%",
+        "two_star_rate": "3.8%",
+        "one_star_rate": "5.3%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4614847/",
+            "name": "史钧",
+            "role": "作者",
+            "douban_id": "4614847"
+        }
+    ],
+    "shops": [
+        {
+            "name": "得到",
+            "price": "19.60元",
+            "link": "https://www.dedao.cn/eBook/z4R9BQ7pP4ZEaXYkx8KvRdljeyqo6082Gp31m2bMAO9NnDL7gBGQr5VzJqrvmEVN?source=douban"
+        },
+        {
+            "name": "京东商城",
+            "price": "29.87元",
+            "link": "https://book.douban.com/link2/?lowest=2987&pre=0&vendor=jingdong&srcpage=subject&price=2987&pos=2&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olVQIGVFdYCkseM2oKHFgSXwcEVlxUOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocUVxaC0wVAmkKGVIKBENeCW4gTygQBWdzazhXBU0cFgIYehtqdxhOF1clWgMFUllUC0wnA2sJH18lbQYDZB8zCE8SB2sNK1kVXAcHVFZaC0onA2kNGl4dVQYHXVlcDnsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEBGoPGwlBM1oEDgBVD04VbW0JGF0RVQcAZFxcCUkVM184fCQWHnlnPy0USBRhfzt0RVNuWFJFEz5UZklgdTl3fhgRHk9ZDws2SU8XYF8LKw&cntvendor=3&srcsubj=30438308&type=bkbuy&subject=30438308"
+        },
+        {
+            "name": "中图网",
+            "price": "53.70元",
+            "link": "https://book.douban.com/link2/?lowest=2987&pre=0&vendor=bookschina&srcpage=subject&price=5370&pos=3&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F8006158.htm&cntvendor=3&srcsubj=30438308&type=bkbuy&subject=30438308"
+        }
+    ],
+    "url": "https://book.douban.com/subject/30438308/",
+    "douban_id": "30438308",
+    "menu": [
+        "",
+        "        序  言 呵呵，人生几何/001",
+        "        第一章 眉山：少年不愿万户侯/011",
+        "        第二章 凤翔：方今天下何病哉/047",
+        "        第三章 故乡：十年生死两茫茫/065",
+        "        第四章 议政：何时东山歌《采薇》/075",
+        "        第五章 西湖：天涯何处无芳草/103",
+        "        第六章 密州：老夫聊发少年狂/125",
+        "        第七章 徐州：寄我千点相思泪/147",
+        "        第八章 诗案：醉后狂歌自不知/171",
+        "        第九章 黄州：也无风雨也无晴/189",
+        "        第十章 赤壁：不道流年偷转换/205",
+        "        第十一章 荆公：翩然欲下还飞去/215",
+        "        第十二章 翰林：空教明月照人归/239",
+        "        第十三章 乱战：只缘身在此山中/261",
+        "        第十四章 苏堤：徜徉灵隐天竺间/287",
+        "        第十五章 党争：只与离人照断肠/297",
+        "        第十六章 岭南：天涯流落涕横斜/313",
+        "        第十七章 北归：孤云倦鸟空来往/329",
+        "        第十八章 众说苏东坡/341",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img3.doubanio.com/view/subject/s/public/s29983143.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "史钧",
+            "link": "https://book.douban.com/author/4614847"
+        },
+        {
+            "text": "国际文化出版公司",
+            "link": "https://book.douban.com/press/2824"
+        }
+    ],
+    "tag": "人物传记"
+}

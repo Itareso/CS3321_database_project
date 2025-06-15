@@ -1,0 +1,78 @@
+{
+    "title": "红火星",
+    "bookInfo": {
+        "作者": "[美] 金·斯坦利·罗宾逊",
+        "出版社": "重庆出版社",
+        "原作名": "Red Mars",
+        "译者": "王凌霄",
+        "出版年": "2017-1",
+        "页数": "577",
+        "定价": "59.80元",
+        "装帧": "平装",
+        "丛书": "火星三部曲",
+        "ISBN": "9787229116804"
+    },
+    "related_intro": null,
+    "star_rate": {
+        "five_star_rate": "48.5%",
+        "four_star_rate": "30.1%",
+        "three_star_rate": "16.1%",
+        "two_star_rate": "4.1%",
+        "one_star_rate": "1.2%"
+    },
+    "authors": [
+        {
+            "link": "https://book.douban.com/author/4617975/",
+            "name": "金·斯坦利·罗宾逊",
+            "role": "作者",
+            "douban_id": "4617975"
+        }
+    ],
+    "shops": [
+        {
+            "name": "京东商城",
+            "price": "30.99元",
+            "link": "https://book.douban.com/link2/?lowest=3099&pre=0&vendor=jingdong&srcpage=subject&price=3099&pos=1&url=https%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DJF8BAQEJK1olVQIGVFdYCkseM28IGl8dWwcGU1lcOA9IWzFXKwJQGEdAX0BDUA5DX3BTTkRHA1ocVF5cDEMRAmsPHFoKBENeCW47XT0NGW5UZj5FAUMGIQUZXUtQZxVoF1clWgMFUllUC0wnA2sJH18lbQYDZB8zCE8SB2sNK1kVXAcHVFZaC0onA2kNGlgVWw4LV11aCnsXC2s4wtuii6SQjcDX3cOAM184GGslbQYyV24DZkpEBW0IHlwUM1oEAl8ZSghTbW8IHFoQXwAHZFxcCUkVM184fCQWHnlnPy0USBRuWyx9WFtuXG9RUDxZZklgdTl3fhgRHk9ZDxcIDSh_YF8LKw&cntvendor=2&srcsubj=26897737&type=bkbuy&subject=26897737"
+        },
+        {
+            "name": "中图网",
+            "price": "33.90元",
+            "link": "https://book.douban.com/link2/?lowest=3099&pre=0&vendor=bookschina&srcpage=subject&price=3390&pos=2&url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7345545.htm&cntvendor=2&srcsubj=26897737&type=bkbuy&subject=26897737"
+        }
+    ],
+    "url": "https://book.douban.com/subject/26897737/",
+    "douban_id": "26897737",
+    "menu": [
+        "",
+        "        第一部\t　庆典／1",
+        "        第二部\t　起航／25",
+        "        第三部\t　熔炉／91",
+        "        第四部\t　思乡／201",
+        "        第五部\t　轮回／229",
+        "        第六部\t　暗箭／379",
+        "        第七部\t　巨变／473",
+        "        第八部\t　终曲／539",
+        "     · · · · · ·     (收起)",
+        ""
+    ],
+    "img_link": "https://img9.doubanio.com/view/subject/s/public/s29145784.jpg",
+    "info_a_labels_data": [
+        {
+            "text": "[美] 金·斯坦利·罗宾逊",
+            "link": "https://book.douban.com/author/4617975"
+        },
+        {
+            "text": "重庆出版社",
+            "link": "https://book.douban.com/press/2162"
+        },
+        {
+            "text": "王凌霄",
+            "link": "https://book.douban.com/search/%E7%8E%8B%E5%87%8C%E9%9C%84"
+        },
+        {
+            "text": "火星三部曲",
+            "link": "https://book.douban.com/series/36608"
+        }
+    ],
+    "tag": "科幻"
+}
